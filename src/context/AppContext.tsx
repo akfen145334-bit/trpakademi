@@ -119,26 +119,18 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
         }));
       },
       onFinish: () => {
-        // Handle queue progression if playing multiple topics
-        if (audioQueue.length > 0 && queueIndex < audioQueue.length - 1) {
-          const nextIdx = queueIndex + 1;
-          setQueueIndex(nextIdx);
-          const nextItem = audioQueue[nextIdx];
-          startPlayingSubtopic(nextItem.courseId, nextItem.subtopicId, 0);
-        } else {
-          // If we finished playing a single subtopic, automatically switch to its interactive test
-          setAudioState(prev => {
-            if (prev.currentCourseId && prev.currentSubtopicId) {
-              setActiveSubtopicTab('test');
-            }
-            return {
-              ...prev,
-              isPlaying: false,
-              isPaused: false
-            };
-          });
-          setAudioQueue([]);
-        }
+        // Kuyruk ilerlemesi ses servisinde yapılır (arka planda da sürsün diye); buraya yalnızca tüm okuma bitince gelinir.
+        setAudioState(prev => {
+          if (prev.currentCourseId && prev.currentSubtopicId) {
+            setActiveSubtopicTab('test');
+          }
+          return {
+            ...prev,
+            isPlaying: false,
+            isPaused: false
+          };
+        });
+        setAudioQueue([]);
       }
     });
 
@@ -183,7 +175,13 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
   };
 
   // Internal helper to start reading a subtopic
-  const startPlayingSubtopic = (courseId: string, subtopicId: string, startSentenceIndex = 0) => {
+  const startPlayingSubtopic = (
+    courseId: string,
+    subtopicId: string,
+    startSentenceIndex = 0,
+    queue: { courseId: string; subtopicId: string }[] = [],
+    queuePos = 0
+  ) => {
     const course = courses.find(c => c.id === courseId);
     if (!course) return;
     const subtopic = course.subtopics.find(s => s.id === subtopicId);
@@ -201,11 +199,46 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
       isPaused: false
     }));
 
-    speechService.play(sentenceTexts, startSentenceIndex, {
-      title: subtopic.title,
-      subtopicTitle: subtopic.title,
-      courseTitle: course.title
-    });
+    // Kuyruktaki sıradaki alt başlığı ses servisi kendisi başlatır (arka planda React'e bağlı kalmadan).
+    let pos = queuePos;
+    const nextProvider = () => {
+      while (pos < queue.length - 1) {
+        pos++;
+        const item = queue[pos];
+        const c = courses.find(x => x.id === item.courseId);
+        const s = c?.subtopics.find(x => x.id === item.subtopicId);
+        if (!c || !s || s.sentences.length === 0) continue;
+        setQueueIndex(pos);
+        setAudioState(prev => ({
+          ...prev,
+          currentCourseId: c.id,
+          currentSubtopicId: s.id,
+          currentSentenceIndex: 0,
+          totalSentences: s.sentences.length,
+          isPlaying: true,
+          isPaused: false
+        }));
+        return {
+          sentences: s.sentences.map(x => x.cleanText),
+          audioId: s.id,
+          meta: { title: s.title, subtopicTitle: s.title, courseTitle: c.title },
+          startIndex: 0
+        };
+      }
+      return null;
+    };
+
+    speechService.play(
+      sentenceTexts,
+      startSentenceIndex,
+      {
+        title: subtopic.title,
+        subtopicTitle: subtopic.title,
+        courseTitle: course.title
+      },
+      subtopic.id,
+      queue.length > 1 ? nextProvider : undefined
+    );
   };
 
   // 1. Play specific subtopic
@@ -227,7 +260,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
     setAudioQueue(queue);
     setQueueIndex(0);
     setAudioState(prev => ({ ...prev, mode: 'entire_course' }));
-    startPlayingSubtopic(courseId, queue[0].subtopicId, 0);
+    startPlayingSubtopic(courseId, queue[0].subtopicId, 0, queue, 0);
   };
 
   // 3. Play Eksiklerim ("Eksiklerimi Dinle")
@@ -256,7 +289,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
     setAudioQueue(list);
     setQueueIndex(0);
     setAudioState(prev => ({ ...prev, mode: 'eksiklerim' }));
-    startPlayingSubtopic(list[0].courseId, list[0].subtopicId, 0);
+    startPlayingSubtopic(list[0].courseId, list[0].subtopicId, 0, list, 0);
   };
 
   const pauseAudio = () => speechService.pause();

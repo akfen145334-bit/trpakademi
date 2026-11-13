@@ -1,5 +1,5 @@
 // TRP Akademi servis çalışanı: uygulama kabuğunu çevrimdışı açar.
-const CACHE = 'trp-akademi-v1';
+const CACHE = 'trp-akademi-v2';
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(['./', 'manifest.webmanifest', 'icon-192.png'])).then(() => self.skipWaiting()));
 });
@@ -8,7 +8,10 @@ self.addEventListener('activate', (e) => {
 });
 self.addEventListener('fetch', (e) => {
   const req = e.request;
-  if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
+  const u = new URL(req.url);
+  if (req.method !== 'GET' || u.origin !== location.origin) return;
+  // Ses dosyaları (Range istekleri) ve ses dizini ağdan doğrudan alınır; önbelleğe alınmaz
+  if (u.pathname.includes('/audio/')) return;
   const isPage = req.mode === 'navigate';
   e.respondWith(
     (isPage
