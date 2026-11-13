@@ -82313,7 +82313,7 @@ export const COURSES_DATA: Course[] = [
         "order": 1,
         "title": "Turist Rehberliği Meslek Kanunu",
         "officialQuestionCount": 109,
-        "lectureContent": "## 1. Alt Başlık: Turist Rehberliği Meslek Kanunu\n\nAltı bin üç yüz yirmi altı sayılı Turist Rehberliği Meslek Kanunu, yirmi iki Haziran iki bin on iki tarihinde yürürlüğe girerek Türkiye'de rehberlik mesleğinin icrasını, mesleğe kabul koşullarını, meslek kuruluşlarının işleyişini ve denetim mekanizmalarını tek bir yasal çatı altında toplamıştır. Kanun koyucunun temel amacı; mesleğe kabul ve mesleğin icrasına ilişkin usul ve esasları belirlemek, turist rehberliği hizmetlerinin kaliteli, güvenilir ve uluslararası standartlara uygun biçimde sunulmasını temin etmektir.\n\nKanunun tanımlar maddesi, mesleki sınavların ve kavramsal çerçevenin en hassas omurgasıdır. Kanuna göre turist rehberi; mesleğe kabul edilerek turist rehberliği hizmetini sunma hak ve yetkisine sahip olan gerçek kişidir. Kanunda özellikle tüzel kişilerin, şirketlerin veya derneklerin rehberlik sıfatı taşıyamayacağı, bu hakkın yalnızca gerekli eğitim ve şartları tamamlamış gerçek kişilere ait olduğu açıkça vurgulanır. Turist rehberliği hizmeti ise; seyahat acentacılığı faaliyeti niteliğinde olmamak kaydıyla, kişi veya grup hâlindeki yerli veya yabancı turistlere Türkiye'nin kültürel, tarihi, doğal ve turistik değerlerinin tanıtılması, bu doğrultuda gezi programının yönetilmesi ve turistlere refakat edilmesi faaliyetidir.\n\nRehberlik mesleğinde iki temel resmi belge bulunur ve bu iki belgenin birbirinden farkı meslek hayatının en kritik ayrımıdır:\n\nRuhsatname, mesleğe kabul şartlarını başarıyla tamamlayan adaya Kültür ve Turizm Bakanlığı tarafından düzenlenen resmi belgedir. Ruhsatname bir kez alınır ve kişinin mesleğe giriş tapusu hükmündedir. Bir adayın ruhsatname alabilmesi; mesleğe kabul koşullarını taşıması, Bakanlıkça yapılan incelemenin olumlu sonuçlanması ve Bakanlık onayının gerçekleşmesiyle mümkündür. Ancak ruhsatname tek başına sahaya çıkıp fiilen turist gezdirmek için yeterli değildir.\n\nÇalışma kartı, ruhsatname sahibi bir rehberin mesleğini fiilen icra edebilmesi için bağlı olduğu meslek odası aracılığıyla her yıl vize ettirerek aldığı süreli belgedir. Çalışma kartı yıllık olarak düzenlenir ve üzerinde geçerli olduğu yıl açıkça yer alır. İşte bu noktada kanun iki rehber statüsü tanımlar:\n\nEylemli turist rehberi, çalışma kartı bulunan ve mesleğini fiilen icra etme hakkına sahip olan rehberdir. Yalnızca eylemli rehberler tura çıkabilir, müze ve ören yerlerinde profesyonel anlatım yapabilir ve bu hizmet karşılığında ücret alabilir.\n\nEylemsiz turist rehberi ise, Bakanlıktan ruhsatnamesi bulunmasına rağmen ilgili takvim yılı için çalışma kartı almamış veya kartını vize ettirmemiş olan rehberdir. Eylemsiz rehber, turist rehberi unvanını korur, meslek odası üyeliği devam eder ancak hiçbir surette fiilen rehberlik hizmeti sunamaz, tura çıkamaz. Eylemsiz bir rehberin sahada rehberlik yapması, kanun önünde çalışma kartsız rehberlik suçu oluşturur ve cezai yaptırıma tabidir.\n\nMesleğe kabul şartları kanunun üçüncü maddesinde titizlikle sıralanmıştır. Türkiye Cumhuriyeti vatandaşı olmak, başvuru tarihinde on sekiz yaşını doldurmuş bulunmak, medeni hakları kullanma ehliyetine sahip olmak ve Türk Ceza Kanunu'nda belirtilen yüz kızartıcı suçlardan veya devlet güvenliğine karşı suçlardan hüküm giymemiş olmak genel şartlardır. Mesleki ve eğitsel açıdan ise iki temel yol öngörülmüştür: Üniversitelerin turist rehberliği ön lisans, lisans veya yüksek lisans programlarından mezun olmak ya da herhangi bir alanda en az lisans düzeyinde mezuniyeti bulunup Kültür ve Turizm Bakanlığı ile Türkiye Turist Rehberleri Birliği iş birliğinde düzenlenen turist rehberliği sertifika programını başarıyla tamamlamak gereklidir.\n\nEğitim şartını tamamlayan adayın önündeki diğer aşama, yabancı dil yeterliliğidir. Adayın Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan Yabancı Dil Bilgisi Seviye Tespit Sınavı'ndan veya uluslararası geçerliliği Bakanlıkça kabul edilen eşdeğer bir sınavdan en az yetmiş beş puan düzeyinde başarı elde etmesi ya da Bakanlık denetiminde Birlik tarafından gerçekleştirilen dil yeterlik sınavını başarıyla vermesi gerekir.\n\nMesleğe kabulün sahadaki nihai basamağı ise uygulama gezisidir. Aday, Bakanlığın gözetim ve denetimi altında Birlik tarafından düzenlenen yurt içi uygulama gezisini tamamlamak ve gezi sonunda yapılacak değerlendirme sınavında başarılı olmak zorundadır. Uygulama gezisi, Türkiye'nin farklı coğrafi bölgelerini kapsayan, tarihi ve doğal miras alanlarının yerinde tecrübe edildiği zorunlu bir staj eğitimidir. Bu gezi sırasında adayın statüsü rehber adayıdır; yanında yetkili usta öğretici rehberler bulunur ve adayın tek başına bağımsız turist grubu yönetme veya anlatım yapma yetkisi bulunmaz.\n\nKanun, yetki alanı bakımından rehberleri iki temel sınıfa ayırır:\n\nÜlkesel turist rehberi, Türkiye'nin yedi coğrafi bölgesinin tamamını kapsayan uygulama gezisini ve sınavlarını tamamlayarak ruhsatnamesini alan ve Türkiye genelinde herhangi bir coğrafi sınır olmaksızın mesleğini icra etme yetkisine sahip olan rehberdir.\n\nBölgesel turist rehberi ise, yalnızca ruhsatnamesinde belirtilen belirli coğrafi bölge veya bölgeler için uygulama gezisini tamamlamış ve sadece o bölge sınırları dâhilinde turist rehberliği yapma hak ve yetkisine sahip olan rehberdir. Bölgesel bir rehberin ruhsatnamesinde yer almayan bir başka coğrafi bölgede rehberlik hizmeti sunması kanunen kesinlikle yasaktır ve ağır disiplin cezası ile idari para cezasını gerektirir.\n\nKanunun getirdiği en önemli koruyucu hükümlerden biri de taban ücret tarifesidir. Kültür ve Turizm Bakanlığı, meslek birliklerinin ve sektör temsilcilerinin görüşlerini alarak her takvim yılı için uygulanacak taban ücret tarifesini belirler ve ilan eder. Taban ücret; turist rehberine günlük tur, yarım günlük tur, paket tur veya gece turu kapsamında ödenebilecek asgari yasal ücrettir. Rehberin bu taban ücretin altında bir bedelle çalışması veya seyahat acentasının rehbere taban ücretin altında ödeme yapması kanunen yasaktır; bu kural haksız rekabeti engellemek ve mesleğin saygınlığını korumak amacıyla getirilmiştir.\n\nKanun ayrıca kaçak rehberlikle mücadeleyi devletin ve meslek kuruluşlarının ortak görevi saymıştır. Ruhsatnamesi ve geçerli çalışma kartı olmaksızın turist rehberliği hizmeti sunan kişiler hakkında valilikler ve yetkili denetim birimlerince idari para cezası uygulanır ve bu kişilerin faaliyeti derhal menedilir. Aynı şekilde, paket tur veya tur programlarında kanuna uygun belgeli turist rehberi bulundurmayan seyahat acentalarına da hem bin altı yüz on sekiz sayılı kanun hem de altı bin üç yüz yirmi altı sayılı kanun uyarınca ağır idari para cezaları tatbik edilir; eylemin tekrarı hâlinde acentanın işletme belgesinin iptaline kadar uzanan yaptırımlar devreye girer.\n\n---",
+        "lectureContent": "## 1. Alt Başlık: Turist Rehberliği Meslek Kanunu\n\nAltı bin üç yüz yirmi altı sayılı Turist Rehberliği Meslek Kanunu, yirmi iki Haziran iki bin on iki tarihinde yürürlüğe girerek Türkiye'de rehberlik mesleğinin icrasını, mesleğe kabul koşullarını, meslek kuruluşlarının işleyişini ve denetim mekanizmalarını tek bir yasal çatı altında toplamıştır. Kanun koyucunun temel amacı; mesleğe kabul ve mesleğin icrasına ilişkin usul ve esasları belirlemek, turist rehberliği hizmetlerinin kaliteli, güvenilir ve uluslararası standartlara uygun biçimde sunulmasını temin etmektir.\n\nKanunun tanımlar maddesi, mesleki sınavların ve kavramsal çerçevenin en hassas omurgasıdır. Kanuna göre turist rehberi; mesleğe kabul edilerek turist rehberliği hizmetini sunma hak ve yetkisine sahip olan gerçek kişidir. Kanunda özellikle tüzel kişilerin, şirketlerin veya derneklerin rehberlik sıfatı taşıyamayacağı, bu hakkın yalnızca gerekli eğitim ve şartları tamamlamış gerçek kişilere ait olduğu açıkça vurgulanır. Turist rehberliği hizmeti ise; seyahat acentacılığı faaliyeti niteliğinde olmamak kaydıyla, kişi veya grup hâlindeki yerli veya yabancı turistlere Türkiye'nin kültürel, tarihi, doğal ve turistik değerlerinin tanıtılması, bu doğrultuda gezi programının yönetilmesi ve turistlere refakat edilmesi faaliyetidir.\n\nRehberlik mesleğinde iki temel resmi belge bulunur ve bu iki belgenin birbirinden farkı meslek hayatının en kritik ayrımıdır:\n\nRuhsatname, mesleğe kabul şartlarını başarıyla tamamlayan adaya Kültür ve Turizm Bakanlığı tarafından düzenlenen resmi belgedir. Ruhsatname bir kez alınır ve kişinin mesleğe giriş tapusu hükmündedir. Bir adayın ruhsatname alabilmesi; mesleğe kabul koşullarını taşıması, Bakanlıkça yapılan incelemenin olumlu sonuçlanması ve Bakanlık onayının gerçekleşmesiyle mümkündür. Ancak ruhsatname tek başına sahaya çıkıp fiilen turist gezdirmek için yeterli değildir.\n\nÇalışma kartı, ruhsatname sahibi bir rehberin mesleğini fiilen icra edebilmesi için bağlı olduğu meslek odası aracılığıyla her yıl vize ettirerek aldığı süreli belgedir. Çalışma kartı yıllık olarak düzenlenir ve üzerinde geçerli olduğu yıl açıkça yer alır. İşte bu noktada kanun iki rehber statüsü tanımlar:\n\nEylemli turist rehberi, çalışma kartı bulunan ve mesleğini fiilen icra etme hakkına sahip olan rehberdir. Yalnızca eylemli rehberler tura çıkabilir, müze ve ören yerlerinde profesyonel anlatım yapabilir ve bu hizmet karşılığında ücret alabilir.\n\nEylemsiz turist rehberi ise, Bakanlıktan ruhsatnamesi bulunmasına rağmen ilgili takvim yılı için çalışma kartı almamış veya kartını vize ettirmemiş olan rehberdir. Eylemsiz rehber, turist rehberi unvanını korur, meslek odası üyeliği devam eder ancak hiçbir surette fiilen rehberlik hizmeti sunamaz, tura çıkamaz. Eylemsiz bir rehberin sahada rehberlik yapması, kanun önünde çalışma kartsız rehberlik suçu oluşturur ve cezai yaptırıma tabidir.\n\nMesleğe kabul şartları kanunun üçüncü maddesinde titizlikle sıralanmıştır. Türkiye Cumhuriyeti vatandaşı olmak, başvuru tarihinde on sekiz yaşını doldurmuş bulunmak, medeni hakları kullanma ehliyetine sahip olmak ve Türk Ceza Kanunu'nda belirtilen yüz kızartıcı suçlardan veya devlet güvenliğine karşı suçlardan hüküm giymemiş olmak genel şartlardır. Mesleki ve eğitsel açıdan ise iki temel yol öngörülmüştür: Üniversitelerin turist rehberliği ön lisans, lisans veya yüksek lisans programlarından mezun olmak ya da herhangi bir alanda en az lisans düzeyinde mezuniyeti bulunup Kültür ve Turizm Bakanlığının gözetiminde düzenlenen turist rehberliği eğitimini başarıyla tamamlamak gereklidir.\n\nEğitim şartını tamamlayan adayın önündeki diğer aşama, yabancı dil yeterliliğidir. Adayın Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan Yabancı Dil Bilgisi Seviye Tespit Sınavı'ndan veya uluslararası geçerliliği Bakanlıkça kabul edilen eşdeğer bir sınavdan en az yetmiş beş puan düzeyinde başarı elde etmesi ya da Bakanlık denetiminde Birlik tarafından gerçekleştirilen dil yeterlik sınavını başarıyla vermesi gerekir.\n\nMesleğe kabulün sahadaki nihai basamağı ise uygulama gezisidir. Aday, Bakanlığın gözetim ve denetimi altında Birlik tarafından düzenlenen yurt içi uygulama gezisini tamamlamak ve gezi sonunda yapılacak değerlendirme sınavında başarılı olmak zorundadır. Uygulama gezisi, Türkiye'nin farklı coğrafi bölgelerini kapsayan, tarihi ve doğal miras alanlarının yerinde tecrübe edildiği zorunlu bir staj eğitimidir. Bu gezi sırasında adayın statüsü rehber adayıdır; yanında yetkili usta öğretici rehberler bulunur ve adayın tek başına bağımsız turist grubu yönetme veya anlatım yapma yetkisi bulunmaz.\n\n7500 sayılı Kanun (2024) sonrası önemli güncellemeler: Başvurular doğrudan Bakanlığa yapılır ve Bakanlık otuz gün içinde karar verir. Birlikler, Bakanlığın talebine rağmen eğitim, sınav ve uygulama gezisini altı ay içinde düzenlemezse bunları Bakanlık yapar. Şartları taşımadığı veya engel durumun ortaya çıktığı anlaşılanlar Bakanlık kararıyla meslekten çıkarılır. Eski kimlik kartı sahipleri bir yıl içinde (Bakanlıkça bir yıl daha uzatılabilir) ruhsatnameye geçebilir; yabancı dil belgesi sunmayanlar yalnızca Türkçe turist rehberi olarak çalışır. Ayrıca meslek yalnızca çalışma kartında yazılı dillerde icra edilir.\n\nKanun, yetki alanı bakımından rehberleri iki temel sınıfa ayırır:\n\nÜlkesel turist rehberi, Türkiye'nin yedi coğrafi bölgesinin tamamını kapsayan uygulama gezisini ve sınavlarını tamamlayarak ruhsatnamesini alan ve Türkiye genelinde herhangi bir coğrafi sınır olmaksızın mesleğini icra etme yetkisine sahip olan rehberdir.\n\nBölgesel turist rehberi ise, yalnızca ruhsatnamesinde belirtilen belirli coğrafi bölge veya bölgeler için uygulama gezisini tamamlamış ve sadece o bölge sınırları dâhilinde turist rehberliği yapma hak ve yetkisine sahip olan rehberdir. Bölgesel bir rehberin ruhsatnamesinde yer almayan bir başka coğrafi bölgede rehberlik hizmeti sunması kanunen kesinlikle yasaktır ve ağır disiplin cezası ile idari para cezasını gerektirir.\n\nKanunun getirdiği en önemli koruyucu hükümlerden biri de taban ücret tarifesidir. Kültür ve Turizm Bakanlığı, meslek birliklerinin ve sektör temsilcilerinin görüşlerini alarak her takvim yılı için uygulanacak taban ücret tarifesini belirler ve ilan eder. Taban ücret; turist rehberine günlük tur, yarım günlük tur, paket tur veya gece turu kapsamında ödenebilecek asgari yasal ücrettir. Rehberin bu taban ücretin altında bir bedelle çalışması veya seyahat acentasının rehbere taban ücretin altında ödeme yapması kanunen yasaktır; bu kural haksız rekabeti engellemek ve mesleğin saygınlığını korumak amacıyla getirilmiştir.\n\n7500 sayılı Kanunla eklenen düzenlemeye göre Türkçe rehberlikte ücretler taban ücretin yüzde yetmişinden az olmamak üzere Bakanlıkça belirlenir ve ilan edilir. Ayrıca hizmet alanın bilgisi veya onayı olmadan turistleri alışveriş işletmesine yönlendirerek karşılığında menfaat sağlayan rehbere de 25.000 ila 100.000 TL idari para cezası verilir.\n\nKanun ayrıca kaçak rehberlikle mücadeleyi devletin ve meslek kuruluşlarının ortak görevi saymıştır. Ruhsatnamesi ve geçerli çalışma kartı olmaksızın turist rehberliği hizmeti sunan kişiler hakkında mülki idare amirince 25.000 ila 100.000 TL arasında idari para cezası uygulanır ve bu kişilerin faaliyeti derhal menedilir. Aynı şekilde, paket tur veya tur programlarında kanuna uygun belgeli turist rehberi bulundurmayan seyahat acentalarına da hem bin altı yüz on sekiz sayılı kanun hem de altı bin üç yüz yirmi altı sayılı kanun uyarınca ağır idari para cezaları tatbik edilir; eylemin tekrarı hâlinde acentanın işletme belgesinin iptaline kadar uzanan yaptırımlar devreye girer.\n\n---",
         "sentences": [
           {
             "id": 0,
@@ -82325,14 +82325,14 @@ export const COURSES_DATA: Course[] = [
           },
           {
             "id": 1,
-            "text": "Altı bin üç yüz yirmi altı sayılı **Turist Rehberliği Meslek Kanunu**, yirmi iki Haziran iki bin on iki tarihinde yürürlüğe girerek Türkiye'de **rehberlik mesleği**nin icrasını, mesleğe kabul koşullarını, **meslek kuruluşları**nın işleyişini ve denetim mekanizmalarını tek bir yasal çatı altında toplamıştır.",
+            "text": "Altı bin üç yüz yirmi altı sayılı **Turist Rehberliği Meslek Kanunu**, yirmi iki Haziran iki bin on iki tarihinde yürürlüğe girerek Türkiye'de **rehberlik mesleği**nin icrasını, mesleğe kabul koşullarını, meslek kuruluşlarının işleyişini ve denetim mekanizmalarını tek bir yasal çatı altında toplamıştır.",
             "cleanText": "Altı bin üç yüz yirmi altı sayılı Turist Rehberliği Meslek Kanunu, yirmi iki Haziran iki bin on iki tarihinde yürürlüğe girerek Türkiye'de rehberlik mesleğinin icrasını, mesleğe kabul koşullarını, meslek kuruluşlarının işleyişini ve denetim mekanizmalarını tek bir yasal çatı altında toplamıştır.",
             "kind": "p",
             "para": 1
           },
           {
             "id": 2,
-            "text": "**Kanun koyucu**nun temel amacı; mesleğe kabul ve mesleğin icrasına ilişkin usul ve esasları belirlemek, **turist rehberliği** hizmetlerinin kaliteli, güvenilir ve uluslararası standartlara uygun biçimde sunulmasını temin etmektir.",
+            "text": "**Kanun koyucu**nun temel amacı; mesleğe kabul ve mesleğin icrasına ilişkin usul ve esasları belirlemek, turist rehberliği hizmetlerinin kaliteli, güvenilir ve uluslararası standartlara uygun biçimde sunulmasını temin etmektir.",
             "cleanText": "Kanun koyucunun temel amacı; mesleğe kabul ve mesleğin icrasına ilişkin usul ve esasları belirlemek, turist rehberliği hizmetlerinin kaliteli, güvenilir ve uluslararası standartlara uygun biçimde sunulmasını temin etmektir.",
             "kind": "p",
             "para": 1
@@ -82395,7 +82395,7 @@ export const COURSES_DATA: Course[] = [
           },
           {
             "id": 11,
-            "text": "Bir adayın ruhsatname alabilmesi; mesleğe kabul koşullarını taşıması, **Bakanlık**ça yapılan incelemenin olumlu sonuçlanması ve **Bakanlık onayı**nın gerçekleşmesiyle mümkündür.",
+            "text": "Bir adayın ruhsatname alabilmesi; mesleğe kabul koşullarını taşıması, Bakanlıkça yapılan incelemenin olumlu sonuçlanması ve **Bakanlık onayı**nın gerçekleşmesiyle mümkündür.",
             "cleanText": "Bir adayın ruhsatname alabilmesi; mesleğe kabul koşullarını taşıması, Bakanlıkça yapılan incelemenin olumlu sonuçlanması ve Bakanlık onayının gerçekleşmesiyle mümkündür.",
             "kind": "p",
             "para": 5
@@ -82458,14 +82458,14 @@ export const COURSES_DATA: Course[] = [
           },
           {
             "id": 20,
-            "text": "**Eylemsiz turist rehberi** ise, **Bakanlık**tan **ruhsatnamesi** bulunmasına rağmen ilgili takvim yılı için çalışma kartı almamış veya kartını vize ettirmemiş olan rehberdir.",
+            "text": "Eylemsiz **turist rehberi** ise, Bakanlıktan ruhsatnamesi bulunmasına rağmen ilgili takvim yılı için çalışma kartı almamış veya kartını vize ettirmemiş olan rehberdir.",
             "cleanText": "Eylemsiz turist rehberi ise, Bakanlıktan ruhsatnamesi bulunmasına rağmen ilgili takvim yılı için çalışma kartı almamış veya kartını vize ettirmemiş olan rehberdir.",
             "kind": "p",
             "para": 9
           },
           {
             "id": 21,
-            "text": "Eylemsiz rehber, **turist rehberi** unvanını korur, **meslek odası** üyeliği devam eder ancak hiçbir surette fiilen **rehberlik hizmeti** sunamaz, tura çıkamaz.",
+            "text": "Eylemsiz rehber, **turist rehberi** unvanını korur, **meslek odası** üyeliği devam eder ancak hiçbir surette fiilen rehberlik hizmeti sunamaz, tura çıkamaz.",
             "cleanText": "Eylemsiz rehber, turist rehberi unvanını korur, meslek odası üyeliği devam eder ancak hiçbir surette fiilen rehberlik hizmeti sunamaz, tura çıkamaz.",
             "kind": "p",
             "para": 9
@@ -82486,143 +82486,192 @@ export const COURSES_DATA: Course[] = [
           },
           {
             "id": 24,
-            "text": "**Türkiye Cumhuriyeti** **vatandaş**ı olmak, başvuru tarihinde on sekiz yaşını doldurmuş bulunmak, medeni hakları kullanma ehliyetine sahip olmak ve Türk Ceza Kanunu'nda belirtilen yüz kızartıcı suçlardan veya **devlet** güvenliğine karşı suçlardan hüküm giymemiş olmak genel şartlardır.",
+            "text": "Türkiye Cumhuriyeti vatandaşı olmak, başvuru tarihinde on sekiz yaşını doldurmuş bulunmak, medeni hakları kullanma ehliyetine sahip olmak ve Türk Ceza Kanunu'nda belirtilen yüz kızartıcı suçlardan veya devlet güvenliğine karşı suçlardan hüküm giymemiş olmak genel şartlardır.",
             "cleanText": "Türkiye Cumhuriyeti vatandaşı olmak, başvuru tarihinde on sekiz yaşını doldurmuş bulunmak, medeni hakları kullanma ehliyetine sahip olmak ve Türk Ceza Kanunu'nda belirtilen yüz kızartıcı suçlardan veya devlet güvenliğine karşı suçlardan hüküm giymemiş olmak genel şartlardır.",
             "kind": "p",
             "para": 10
           },
           {
             "id": 25,
-            "text": "Mesleki ve eğitsel açıdan ise iki temel yol öngörülmüştür: Üniversitelerin turist rehberliği ön lisans, lisans veya yüksek lisans programlarından mezun olmak ya da herhangi bir alanda en az lisans düzeyinde mezuniyeti bulunup **Kültür ve Turizm Bakanlığı** ile **Türkiye Turist Rehberleri Birliği** iş birliğinde düzenlenen turist rehberliği **sertifika programı**nı başarıyla tamamlamak gereklidir.",
-            "cleanText": "Mesleki ve eğitsel açıdan ise iki temel yol öngörülmüştür: Üniversitelerin turist rehberliği ön lisans, lisans veya yüksek lisans programlarından mezun olmak ya da herhangi bir alanda en az lisans düzeyinde mezuniyeti bulunup Kültür ve Turizm Bakanlığı ile Türkiye Turist Rehberleri Birliği iş birliğinde düzenlenen turist rehberliği sertifika programını başarıyla tamamlamak gereklidir.",
+            "text": "Mesleki ve eğitsel açıdan ise iki temel yol öngörülmüştür: Üniversitelerin turist rehberliği ön lisans, lisans veya yüksek lisans programlarından mezun olmak ya da herhangi bir alanda en az lisans düzeyinde mezuniyeti bulunup **Kültür ve Turizm Bakanlığı**nın gözetiminde düzenlenen turist rehberliği eğitimini başarıyla tamamlamak gereklidir.",
+            "cleanText": "Mesleki ve eğitsel açıdan ise iki temel yol öngörülmüştür: Üniversitelerin turist rehberliği ön lisans, lisans veya yüksek lisans programlarından mezun olmak ya da herhangi bir alanda en az lisans düzeyinde mezuniyeti bulunup Kültür ve Turizm Bakanlığının gözetiminde düzenlenen turist rehberliği eğitimini başarıyla tamamlamak gereklidir.",
+            "kind": "p",
+            "para": 10
+          },
+          {
+            "id": 26,
+            "text": "Eğitim şartını tamamlayan adayın önündeki diğer aşama, yabancı dil yeterliliğidir.",
+            "cleanText": "Eğitim şartını tamamlayan adayın önündeki diğer aşama, yabancı dil yeterliliğidir.",
             "kind": "p",
             "para": 11
           },
           {
-            "id": 26,
-            "text": "Eğitim şartını tamamlayan adayın önündeki diğer aşama, **yabancı dil yeterliliği**dir.",
-            "cleanText": "Eğitim şartını tamamlayan adayın önündeki diğer aşama, yabancı dil yeterliliğidir.",
-            "kind": "p",
-            "para": 12
-          },
-          {
             "id": 27,
-            "text": "Adayın Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan Yabancı Dil Bilgisi Seviye Tespit Sınavı'ndan veya uluslararası geçerliliği **Bakanlık**ça kabul edilen eşdeğer bir sınavdan en az yetmiş beş puan düzeyinde başarı elde etmesi ya da Bakanlık denetiminde **Birlik** tarafından gerçekleştirilen dil yeterlik sınavını başarıyla vermesi gerekir.",
+            "text": "Adayın Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan Yabancı Dil Bilgisi Seviye Tespit Sınavı'ndan veya uluslararası geçerliliği Bakanlıkça kabul edilen eşdeğer bir sınavdan en az yetmiş beş puan düzeyinde başarı elde etmesi ya da Bakanlık denetiminde Birlik tarafından gerçekleştirilen dil yeterlik sınavını başarıyla vermesi gerekir.",
             "cleanText": "Adayın Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan Yabancı Dil Bilgisi Seviye Tespit Sınavı'ndan veya uluslararası geçerliliği Bakanlıkça kabul edilen eşdeğer bir sınavdan en az yetmiş beş puan düzeyinde başarı elde etmesi ya da Bakanlık denetiminde Birlik tarafından gerçekleştirilen dil yeterlik sınavını başarıyla vermesi gerekir.",
             "kind": "p",
-            "para": 12
+            "para": 11
           },
           {
             "id": 28,
-            "text": "Mesleğe kabulün sahadaki nihai basamağı ise **uygulama gezisi**dir.",
+            "text": "Mesleğe kabulün sahadaki nihai basamağı ise uygulama gezisidir.",
             "cleanText": "Mesleğe kabulün sahadaki nihai basamağı ise uygulama gezisidir.",
             "kind": "p",
-            "para": 13
+            "para": 12
           },
           {
             "id": 29,
-            "text": "Aday, Bakanlığın gözetim ve denetimi altında **Birlik** tarafından düzenlenen yurt içi **uygulama gezisi**ni tamamlamak ve gezi sonunda yapılacak değerlendirme sınavında başarılı olmak zorundadır.",
+            "text": "Aday, Bakanlığın gözetim ve denetimi altında Birlik tarafından düzenlenen yurt içi uygulama gezisini tamamlamak ve gezi sonunda yapılacak değerlendirme sınavında başarılı olmak zorundadır.",
             "cleanText": "Aday, Bakanlığın gözetim ve denetimi altında Birlik tarafından düzenlenen yurt içi uygulama gezisini tamamlamak ve gezi sonunda yapılacak değerlendirme sınavında başarılı olmak zorundadır.",
             "kind": "p",
-            "para": 13
+            "para": 12
           },
           {
             "id": 30,
-            "text": "**Uygulama gezisi**, Türkiye'nin farklı **coğrafi bölge**lerini kapsayan, tarihi ve doğal miras alanlarının yerinde tecrübe edildiği zorunlu bir **staj eğitimi**dir.",
+            "text": "Uygulama gezisi, Türkiye'nin farklı coğrafi bölgelerini kapsayan, tarihi ve doğal miras alanlarının yerinde tecrübe edildiği zorunlu bir staj eğitimidir.",
             "cleanText": "Uygulama gezisi, Türkiye'nin farklı coğrafi bölgelerini kapsayan, tarihi ve doğal miras alanlarının yerinde tecrübe edildiği zorunlu bir staj eğitimidir.",
             "kind": "p",
-            "para": 13
+            "para": 12
           },
           {
             "id": 31,
-            "text": "Bu gezi sırasında adayın statüsü **rehber adayı**dır; yanında yetkili **usta öğretici rehberler** bulunur ve adayın tek başına bağımsız turist grubu yönetme veya anlatım yapma yetkisi bulunmaz.",
+            "text": "Bu gezi sırasında adayın statüsü rehber adayıdır; yanında yetkili usta öğretici rehberler bulunur ve adayın tek başına bağımsız turist grubu yönetme veya anlatım yapma yetkisi bulunmaz.",
             "cleanText": "Bu gezi sırasında adayın statüsü rehber adayıdır; yanında yetkili usta öğretici rehberler bulunur ve adayın tek başına bağımsız turist grubu yönetme veya anlatım yapma yetkisi bulunmaz.",
+            "kind": "p",
+            "para": 12
+          },
+          {
+            "id": 32,
+            "text": "7500 sayılı Kanun (2024) sonrası önemli güncellemeler: Başvurular doğrudan Bakanlığa yapılır ve Bakanlık otuz gün içinde karar verir.",
+            "cleanText": "7500 sayılı Kanun (2024) sonrası önemli güncellemeler: Başvurular doğrudan Bakanlığa yapılır ve Bakanlık otuz gün içinde karar verir.",
             "kind": "p",
             "para": 13
           },
           {
-            "id": 32,
+            "id": 33,
+            "text": "Birlikler, Bakanlığın talebine rağmen eğitim, sınav ve uygulama gezisini altı ay içinde düzenlemezse bunları Bakanlık yapar.",
+            "cleanText": "Birlikler, Bakanlığın talebine rağmen eğitim, sınav ve uygulama gezisini altı ay içinde düzenlemezse bunları Bakanlık yapar.",
+            "kind": "p",
+            "para": 13
+          },
+          {
+            "id": 34,
+            "text": "Şartları taşımadığı veya engel durumun ortaya çıktığı anlaşılanlar Bakanlık kararıyla meslekten çıkarılır.",
+            "cleanText": "Şartları taşımadığı veya engel durumun ortaya çıktığı anlaşılanlar Bakanlık kararıyla meslekten çıkarılır.",
+            "kind": "p",
+            "para": 13
+          },
+          {
+            "id": 35,
+            "text": "Eski kimlik kartı sahipleri bir yıl içinde (Bakanlıkça bir yıl daha uzatılabilir) ruhsatnameye geçebilir; yabancı dil belgesi sunmayanlar yalnızca Türkçe turist rehberi olarak çalışır.",
+            "cleanText": "Eski kimlik kartı sahipleri bir yıl içinde (Bakanlıkça bir yıl daha uzatılabilir) ruhsatnameye geçebilir; yabancı dil belgesi sunmayanlar yalnızca Türkçe turist rehberi olarak çalışır.",
+            "kind": "p",
+            "para": 13
+          },
+          {
+            "id": 36,
+            "text": "Ayrıca meslek yalnızca çalışma kartında yazılı dillerde icra edilir.",
+            "cleanText": "Ayrıca meslek yalnızca çalışma kartında yazılı dillerde icra edilir.",
+            "kind": "p",
+            "para": 13
+          },
+          {
+            "id": 37,
             "text": "Kanun, yetki alanı bakımından rehberleri iki temel sınıfa ayırır:",
             "cleanText": "Kanun, yetki alanı bakımından rehberleri iki temel sınıfa ayırır:",
             "kind": "p",
             "para": 13
           },
           {
-            "id": 33,
-            "text": "**Ülkesel turist rehberi**, Türkiye'nin yedi **coğrafi bölge**sinin tamamını kapsayan uygulama gezisini ve sınavlarını tamamlayarak **ruhsatnamesi**ni alan ve Türkiye genelinde herhangi bir coğrafi sınır olmaksızın mesleğini icra etme yetkisine sahip olan rehberdir.",
+            "id": 38,
+            "text": "Ülkesel turist rehberi, Türkiye'nin yedi coğrafi bölgesinin tamamını kapsayan uygulama gezisini ve sınavlarını tamamlayarak ruhsatnamesini alan ve Türkiye genelinde herhangi bir coğrafi sınır olmaksızın mesleğini icra etme yetkisine sahip olan rehberdir.",
             "cleanText": "Ülkesel turist rehberi, Türkiye'nin yedi coğrafi bölgesinin tamamını kapsayan uygulama gezisini ve sınavlarını tamamlayarak ruhsatnamesini alan ve Türkiye genelinde herhangi bir coğrafi sınır olmaksızın mesleğini icra etme yetkisine sahip olan rehberdir.",
             "kind": "p",
             "para": 14
           },
           {
-            "id": 34,
-            "text": "**Bölgesel turist rehberi** ise, yalnızca **ruhsatnamesi**nde belirtilen belirli **coğrafi bölge** veya bölgeler için uygulama gezisini tamamlamış ve sadece o bölge sınırları dâhilinde turist rehberliği yapma hak ve yetkisine sahip olan rehberdir.",
+            "id": 39,
+            "text": "Bölgesel turist rehberi ise, yalnızca ruhsatnamesinde belirtilen belirli coğrafi bölge veya bölgeler için uygulama gezisini tamamlamış ve sadece o bölge sınırları dâhilinde turist rehberliği yapma hak ve yetkisine sahip olan rehberdir.",
             "cleanText": "Bölgesel turist rehberi ise, yalnızca ruhsatnamesinde belirtilen belirli coğrafi bölge veya bölgeler için uygulama gezisini tamamlamış ve sadece o bölge sınırları dâhilinde turist rehberliği yapma hak ve yetkisine sahip olan rehberdir.",
             "kind": "p",
             "para": 14
           },
           {
-            "id": 35,
-            "text": "Bölgesel bir rehberin ruhsatnamesinde yer almayan bir başka coğrafi bölgede **rehberlik hizmeti** sunması kanunen kesinlikle yasaktır ve ağır disiplin cezası ile **idari para cezası**nı gerektirir.",
+            "id": 40,
+            "text": "Bölgesel bir rehberin ruhsatnamesinde yer almayan bir başka coğrafi bölgede rehberlik hizmeti sunması kanunen kesinlikle yasaktır ve ağır disiplin cezası ile idari para cezasını gerektirir.",
             "cleanText": "Bölgesel bir rehberin ruhsatnamesinde yer almayan bir başka coğrafi bölgede rehberlik hizmeti sunması kanunen kesinlikle yasaktır ve ağır disiplin cezası ile idari para cezasını gerektirir.",
             "kind": "p",
             "para": 14
           },
           {
-            "id": 36,
-            "text": "Kanunun getirdiği en önemli koruyucu hükümlerden biri de **taban ücret tarifesi**dir.",
+            "id": 41,
+            "text": "Kanunun getirdiği en önemli koruyucu hükümlerden biri de taban ücret tarifesidir.",
             "cleanText": "Kanunun getirdiği en önemli koruyucu hükümlerden biri de taban ücret tarifesidir.",
             "kind": "p",
             "para": 15
           },
           {
-            "id": 37,
-            "text": "**Kültür ve Turizm Bakanlığı**, **meslek birlikleri**nin ve sektör temsilcilerinin görüşlerini alarak her takvim yılı için uygulanacak **taban ücret tarifesi**ni belirler ve ilan eder.",
+            "id": 42,
+            "text": "**Kültür ve Turizm Bakanlığı**, meslek birliklerinin ve sektör temsilcilerinin görüşlerini alarak her takvim yılı için uygulanacak taban ücret tarifesini belirler ve ilan eder.",
             "cleanText": "Kültür ve Turizm Bakanlığı, meslek birliklerinin ve sektör temsilcilerinin görüşlerini alarak her takvim yılı için uygulanacak taban ücret tarifesini belirler ve ilan eder.",
             "kind": "p",
             "para": 15
           },
           {
-            "id": 38,
-            "text": "**Taban ücret**; **turist rehberi**ne günlük tur, yarım günlük tur, paket tur veya gece turu kapsamında ödenebilecek asgari **yasal ücret**tir.",
+            "id": 43,
+            "text": "Taban ücret; turist rehberine günlük tur, yarım günlük tur, paket tur veya gece turu kapsamında ödenebilecek asgari yasal ücrettir.",
             "cleanText": "Taban ücret; turist rehberine günlük tur, yarım günlük tur, paket tur veya gece turu kapsamında ödenebilecek asgari yasal ücrettir.",
             "kind": "p",
             "para": 15
           },
           {
-            "id": 39,
-            "text": "Rehberin bu taban ücretin altında bir bedelle çalışması veya seyahat acentasının rehbere taban ücretin altında ödeme yapması kanunen yasaktır; bu kural **haksız rekabet**i engellemek ve mesleğin saygınlığını korumak amacıyla getirilmiştir.",
+            "id": 44,
+            "text": "Rehberin bu taban ücretin altında bir bedelle çalışması veya seyahat acentasının rehbere taban ücretin altında ödeme yapması kanunen yasaktır; bu kural haksız rekabeti engellemek ve mesleğin saygınlığını korumak amacıyla getirilmiştir.",
             "cleanText": "Rehberin bu taban ücretin altında bir bedelle çalışması veya seyahat acentasının rehbere taban ücretin altında ödeme yapması kanunen yasaktır; bu kural haksız rekabeti engellemek ve mesleğin saygınlığını korumak amacıyla getirilmiştir.",
             "kind": "p",
             "para": 15
           },
           {
-            "id": 40,
+            "id": 45,
             "text": "**Taban ücret tarifesi:** Kültür ve Turizm Bakanlığı tarafından belirlenen ve turist rehberine günlük, yarım günlük, paket veya gece turu kapsamında ödenebilecek asgari yasal ücrettir.",
             "cleanText": "Taban ücret tarifesi: Kültür ve Turizm Bakanlığı tarafından belirlenen ve turist rehberine günlük, yarım günlük, paket veya gece turu kapsamında ödenebilecek asgari yasal ücrettir.",
             "kind": "def",
             "para": 16
           },
           {
-            "id": 41,
-            "text": "Kanun ayrıca **kaçak rehberlik**le mücadeleyi **devlet**in ve **meslek kuruluşları**nın ortak görevi saymıştır.",
+            "id": 46,
+            "text": "7500 sayılı Kanunla eklenen düzenlemeye göre Türkçe rehberlikte ücretler taban ücretin yüzde yetmişinden az olmamak üzere Bakanlıkça belirlenir ve ilan edilir.",
+            "cleanText": "7500 sayılı Kanunla eklenen düzenlemeye göre Türkçe rehberlikte ücretler taban ücretin yüzde yetmişinden az olmamak üzere Bakanlıkça belirlenir ve ilan edilir.",
+            "kind": "p",
+            "para": 17
+          },
+          {
+            "id": 47,
+            "text": "Ayrıca hizmet alanın bilgisi veya onayı olmadan turistleri alışveriş işletmesine yönlendirerek karşılığında menfaat sağlayan rehbere de 25.000 ila 100.000 TL idari para cezası verilir.",
+            "cleanText": "Ayrıca hizmet alanın bilgisi veya onayı olmadan turistleri alışveriş işletmesine yönlendirerek karşılığında menfaat sağlayan rehbere de 25.000 ila 100.000 TL idari para cezası verilir.",
+            "kind": "p",
+            "para": 17
+          },
+          {
+            "id": 48,
+            "text": "Kanun ayrıca kaçak rehberlikle mücadeleyi devletin ve meslek kuruluşlarının ortak görevi saymıştır.",
             "cleanText": "Kanun ayrıca kaçak rehberlikle mücadeleyi devletin ve meslek kuruluşlarının ortak görevi saymıştır.",
             "kind": "p",
-            "para": 17
+            "para": 18
           },
           {
-            "id": 42,
-            "text": "Ruhsatnamesi ve geçerli çalışma kartı olmaksızın **turist rehberliği hizmeti** sunan kişiler hakkında valilikler ve **yetkili denetim birimleri**nce **idari para cezası** uygulanır ve bu kişilerin faaliyeti derhal menedilir.",
-            "cleanText": "Ruhsatnamesi ve geçerli çalışma kartı olmaksızın turist rehberliği hizmeti sunan kişiler hakkında valilikler ve yetkili denetim birimlerince idari para cezası uygulanır ve bu kişilerin faaliyeti derhal menedilir.",
+            "id": 49,
+            "text": "Ruhsatnamesi ve geçerli çalışma kartı olmaksızın **turist rehberliği hizmeti** sunan kişiler hakkında mülki idare amirince 25.000 ila 100.000 TL arasında idari para cezası uygulanır ve bu kişilerin faaliyeti derhal menedilir.",
+            "cleanText": "Ruhsatnamesi ve geçerli çalışma kartı olmaksızın turist rehberliği hizmeti sunan kişiler hakkında mülki idare amirince 25.000 ila 100.000 TL arasında idari para cezası uygulanır ve bu kişilerin faaliyeti derhal menedilir.",
             "kind": "p",
-            "para": 17
+            "para": 18
           },
           {
-            "id": 43,
-            "text": "Aynı şekilde, **paket tur** veya **tur programları**nda kanuna uygun belgeli turist rehberi bulundurmayan seyahat acentalarına da hem bin altı yüz on sekiz sayılı kanun hem de altı bin üç yüz yirmi altı sayılı kanun uyarınca ağır idari para cezaları tatbik edilir; eylemin tekrarı hâlinde acentanın işletme belgesinin iptaline kadar uzanan yaptırımlar devreye girer.",
+            "id": 50,
+            "text": "Aynı şekilde, paket tur veya tur programlarında kanuna uygun belgeli turist rehberi bulundurmayan seyahat acentalarına da hem bin altı yüz on sekiz sayılı kanun hem de altı bin üç yüz yirmi altı sayılı kanun uyarınca ağır idari para cezaları tatbik edilir; eylemin tekrarı hâlinde acentanın işletme belgesinin iptaline kadar uzanan yaptırımlar devreye girer.",
             "cleanText": "Aynı şekilde, paket tur veya tur programlarında kanuna uygun belgeli turist rehberi bulundurmayan seyahat acentalarına da hem bin altı yüz on sekiz sayılı kanun hem de altı bin üç yüz yirmi altı sayılı kanun uyarınca ağır idari para cezaları tatbik edilir; eylemin tekrarı hâlinde acentanın işletme belgesinin iptaline kadar uzanan yaptırımlar devreye girer.",
             "kind": "p",
-            "para": 17
+            "para": 18
           }
         ],
         "questions": [
@@ -83449,7 +83498,7 @@ export const COURSES_DATA: Course[] = [
         "order": 2,
         "title": "Kurumsal Yapı (TUREB ve Odalar)",
         "officialQuestionCount": 103,
-        "lectureContent": "## 2. Alt Başlık: Kurumsal Yapı (TUREB ve Odalar)\n\nTurist rehberliği mesleği, Anayasa'nın yüz otuz beşinci maddesinde tanımlanan kamu kurumu niteliğindeki meslek kuruluşları modeliyle teşkilatlanmıştır. Bu anayasal zemin, rehberlik meslek kuruluşlarına kamu tüzel kişiliği, idari ve mali özerklik, üyeleri üzerinde disiplin kovuşturması yapma ve mesleki kuralları belirleme yetkisi tanır. Teşkilat şeması iki basamaklıdır: Tabanı bölgesel veya il bazında örgütlenen meslek odaları, tepe çatıyı ise Ankara'da genel merkezi bulunan Türkiye Turist Rehberleri Birliği oluşturur.\n\nRehberlik meslek odaları, kanunla belirlenen üye sayısına ulaşılan illerde kurulur. Türkiye genelinde dengeli bir kurumsal dağılım sağlamak amacıyla odalar iki kategoriye ayrılmıştır: İl bazlı kurulan yedi meslek odası ve birden fazla ili bünyesinde toplayan altı bölgesel meslek odası olmak üzere toplam on üç oda faaliyet göstermektedir. Bu on üç oda, Türkiye coğrafyasının tamamındaki rehberlerin mesleki sicilini ve idaresini eksiksiz kapsar. Kendi yerleşim yerinde bağımsız bir oda bulunmayan bir turist rehberi, kanun gereği ikametine en yakın ilde kurulu olan odaya üye olmak zorundadır. Burada kanunun altını önemle çizdiği temel kural şudur: Bir turist rehberi aynı anda birden fazla odaya üye olamaz. Oda üyeliği tekil ve zorunludur.\n\nBir meslek odasının yönetim ve karar organları dört temel kuruldan meydana gelir:\n\nGenel kurul, odanın en yetkili karar organıdır ve odaya kayıtlı tüm asil üyelerin katılımıyla toplanır. Odanın bütçesini onaylamak, aidatları ve ücretleri karara bağlamak, yönetim, denetim ve disiplin kurullarını seçmek ve Birliğin genel kuruluna katılacak delegeleri belirlemek genel kurulun başlıca görevleridir.\n\nYönetim kurulu, genel kurul tarafından gizli oyla seçilen, odanın icra ve temsil organıdır. Odanın günlük idari işlerini yürütür, bütçeyi uygular, üyelerin sicil kayıtlarını tutar, çalışma kartı başvurularını karara bağlar ve odayı resmi makamlar önünde temsil eder.\n\nDenetim kurulu, genel kurul adına odanın gelir-gider hesaplarını, bütçe uygulamalarını ve mali defterlerini denetleyen, hazırladığı denetim raporlarını genel kurula sunan organdır.\n\nDisiplin kurulu ise, meslek etiğine, kanuna, tüzüğe veya mesleki onura aykırı davranan üyeler hakkında disiplin soruşturması yürüten ve kanunda yetkilendirildiği sınırlar dâhilinde disiplin cezalarını karara bağlayan yargı benzeri mesleki kuruldur.\n\nTeşkilatın en üst çatısı olan Türkiye Turist Rehberleri Birliği, kısaltılmış adıyla TUREB, tüzel kişiliğe sahip, kamu kurumu niteliğinde bir üst meslek kuruluşudur. TUREB; tüm meslek odaları arasında koordinasyonu sağlamak, mesleğin yurt içinde ve uluslararası alanda saygınlığını korumak, rehberlerin hak ve menfaatlerini savunmak, meslek içi eğitimleri düzenlemek ve Bakanlıkla eş güdüm içinde rehberlik sınavlarını organize etmekle yükümlüdür.\n\nTUREB'in organları da oda yapısına paralel olarak şekillenmiştir:\n\nBirlik genel kurulu, odaların yönetim kurulu başkanları ile odaların büyüklüğüne göre seçilen delegelerden oluşur. Birliğin bütçesini, çalışma programını, stratejik kararlarını onaylar ve Birlik yönetim, denetim ile disiplin kurullarını seçer.\n\nBirlik yönetim kurulu, Birlik genel kurulu tarafından seçilen başkan ve üyelerden oluşur; Birliği temsil eder, kanunla verilen görevleri yerine getirir, odalar arası uyuşmazlıkları çözümler ve merkezi projeleri yürütür.\n\nBirlik denetim kurulu, Birliğin tüm mali ve idari işlemlerini denetler.\n\nBirlik disiplin kurulu ise, meslekten geçici men ve meslekten çıkarma gibi ağır cezaları karara bağlayan veya odaların disiplin kurullarınca verilen kararlara karşı yapılan itirazları inceleyen en üst disiplin merciidir.\n\nSaha denetimleri söz konusu olduğunda, kanun üçlü bir denetim erki kurmuştur. Turist rehberliği hizmetlerinin mevzuata uygun yürütülüp yürütülmediği; Kültür ve Turizm Bakanlığı müfettişleri ve il kültür müdürlükleri personeli, TUREB denetmenleri ve ilgili meslek odası denetim görevlileri tarafından bağımsız olarak veya müştereken denetlenir. Denetimlerde rehberin çalışma kartı, kokartı, tur sözleşmesi ve grubun evrakları kontrol edilir. Acentaların meslek örgütü olan Türkiye Seyahat Acentaları Birliği, kısaltılmış adıyla TÜRSAB ise acentaların temsilcisi olup rehberler üzerinde doğrudan bir idari ya da disipliner amirlik yetkisine sahip değildir; bu iki birliğin yetki alanları kanunla kesin çizgilerle birbirinden ayrılmıştır.\n\n---",
+        "lectureContent": "## 2. Alt Başlık: Kurumsal Yapı (TUREB ve Odalar)\n\nTurist rehberliği mesleği, Anayasa'nın yüz otuz beşinci maddesinde tanımlanan kamu kurumu niteliğindeki meslek kuruluşları modeliyle teşkilatlanmıştır. Bu anayasal zemin, rehberlik meslek kuruluşlarına kamu tüzel kişiliği, idari ve mali özerklik, üyeleri üzerinde disiplin kovuşturması yapma ve mesleki kuralları belirleme yetkisi tanır. Teşkilat şeması iki basamaklıdır: Tabanı bölgesel veya il bazında örgütlenen meslek odaları, tepe çatıyı ise Ankara'da genel merkezi bulunan Türkiye Turist Rehberleri Birliği oluşturur.\n\nRehberlik meslek odaları, kanunla belirlenen üye sayısına ulaşılan illerde kurulur. Türkiye genelinde dengeli bir kurumsal dağılım sağlamak amacıyla odalar iki kategoriye ayrılmıştır: İl bazlı kurulan yedi meslek odası ve birden fazla ili bünyesinde toplayan altı bölgesel meslek odası olmak üzere toplam on üç oda faaliyet göstermektedir. Bu on üç oda, Türkiye coğrafyasının tamamındaki rehberlerin mesleki sicilini ve idaresini eksiksiz kapsar. Kendi yerleşim yerinde bağımsız bir oda bulunmayan bir turist rehberi, kanun gereği ikametine en yakın ilde kurulu olan odaya üye olmak zorundadır. Burada kanunun altını önemle çizdiği temel kural şudur: Bir turist rehberi aynı anda birden fazla odaya üye olamaz. Oda üyeliği tekil ve zorunludur.\n\nBir meslek odasının yönetim ve karar organları dört temel kuruldan meydana gelir:\n\nGenel kurul, odanın en yetkili karar organıdır ve odaya kayıtlı tüm asil üyelerin katılımıyla toplanır. Odanın bütçesini onaylamak, aidatları ve ücretleri karara bağlamak, yönetim, denetim ve disiplin kurullarını seçmek ve Birliğin genel kuruluna katılacak delegeleri belirlemek genel kurulun başlıca görevleridir.\n\nYönetim kurulu, genel kurul tarafından gizli oyla seçilen, odanın icra ve temsil organıdır. Odanın günlük idari işlerini yürütür, bütçeyi uygular, üyelerin sicil kayıtlarını tutar, çalışma kartı başvurularını karara bağlar ve odayı resmi makamlar önünde temsil eder.\n\nDenetim kurulu, genel kurul adına odanın gelir-gider hesaplarını, bütçe uygulamalarını ve mali defterlerini denetleyen, hazırladığı denetim raporlarını genel kurula sunan organdır.\n\nDisiplin kurulu ise, meslek etiğine, kanuna, tüzüğe veya mesleki onura aykırı davranan üyeler hakkında disiplin soruşturması yürüten ve kanunda yetkilendirildiği sınırlar dâhilinde disiplin cezalarını karara bağlayan yargı benzeri mesleki kuruldur.\n\nTeşkilatın en üst çatısı olan Türkiye Turist Rehberleri Birliği, kısaltılmış adıyla TUREB, tüzel kişiliğe sahip, kamu kurumu niteliğinde bir üst meslek kuruluşudur. TUREB; tüm meslek odaları arasında koordinasyonu sağlamak, mesleğin yurt içinde ve uluslararası alanda saygınlığını korumak, rehberlerin hak ve menfaatlerini savunmak, meslek içi eğitimleri düzenlemek ve Bakanlıkla eş güdüm içinde rehberlik sınavlarını organize etmekle yükümlüdür.\n\nTUREB'in organları da oda yapısına paralel olarak şekillenmiştir:\n\nBirlik genel kurulu, odaların yönetim kurulu başkanları ile odaların büyüklüğüne göre seçilen delegelerden oluşur. Birliğin bütçesini, çalışma programını, stratejik kararlarını onaylar ve Birlik yönetim, denetim ile disiplin kurullarını seçer.\n\nBirlik yönetim kurulu, Birlik genel kurulu tarafından seçilen başkan ve üyelerden oluşur; Birliği temsil eder, kanunla verilen görevleri yerine getirir, odalar arası uyuşmazlıkları çözümler ve merkezi projeleri yürütür.\n\nBirlik denetim kurulu, Birliğin tüm mali ve idari işlemlerini denetler.\n\nBirlik disiplin kurulu ise, meslekten geçici men ve meslekten çıkarma gibi ağır cezaları karara bağlayan veya odaların disiplin kurullarınca verilen kararlara karşı yapılan itirazları inceleyen en üst disiplin merciidir.\n\nSaha denetimleri söz konusu olduğunda, kanun üçlü bir denetim erki kurmuştur. Turist rehberliği hizmetlerinin mevzuata uygun yürütülüp yürütülmediği; Kültür ve Turizm Bakanlığı müfettişleri ve il kültür müdürlükleri personeli, TUREB denetmenleri ve ilgili meslek odası denetim görevlileri tarafından bağımsız olarak veya müştereken denetlenir. Denetimlerde rehberin çalışma kartı, kokartı, tur sözleşmesi ve grubun evrakları kontrol edilir. Acentaların meslek örgütü olan Türkiye Seyahat Acentaları Birliği, kısaltılmış adıyla TÜRSAB ise acentaların temsilcisi olup rehberler üzerinde doğrudan bir idari ya da disipliner amirlik yetkisine sahip değildir; bu iki birliğin yetki alanları kanunla kesin çizgilerle birbirinden ayrılmıştır.\n\n7500 sayılı Kanunla Bakanlığın meslek kuruluşları üzerindeki denetimi güçlendirilmiştir: Bakanlık meslek kuruluşlarını müfettiş veya kontrolörlerle gerektiğinde ve en geç üç yılda bir denetler; denetimde görevli personeli üç ay görevden uzaklaştırabilir (bir defa üç ay daha uzatılabilir, bu sürede ödemelerin üçte ikisi ödenir). Milli güvenlik ve kamu düzeni gerekçesiyle birlik ve oda organlarını faaliyetten men edebilir; bu karar yirmi dört saat içinde hâkim onayına sunulur, hâkim kırk sekiz saatte karar vermezse kalkar. Turist rehberliği hizmetleri, sözleşmeler, sicil, çalışma kartları ve uzmanlık eğitimleri birlik yönetmeliğiyle düzenlenir.\n\n---",
         "sentences": [
           {
             "id": 0,
@@ -83682,6 +83731,27 @@ export const COURSES_DATA: Course[] = [
             "cleanText": "Acentaların meslek örgütü olan Türkiye Seyahat Acentaları Birliği, kısaltılmış adıyla TÜRSAB ise acentaların temsilcisi olup rehberler üzerinde doğrudan bir idari ya da disipliner amirlik yetkisine sahip değildir; bu iki birliğin yetki alanları kanunla kesin çizgilerle birbirinden ayrılmıştır.",
             "kind": "p",
             "para": 14
+          },
+          {
+            "id": 33,
+            "text": "7500 sayılı Kanunla Bakanlığın **meslek kuruluşları** üzerindeki denetimi güçlendirilmiştir: Bakanlık meslek kuruluşlarını müfettiş veya kontrolörlerle gerektiğinde ve en geç üç yılda bir denetler; denetimde görevli personeli üç ay görevden uzaklaştırabilir (bir defa üç ay daha uzatılabilir, bu sürede ödemelerin üçte ikisi ödenir).",
+            "cleanText": "7500 sayılı Kanunla Bakanlığın meslek kuruluşları üzerindeki denetimi güçlendirilmiştir: Bakanlık meslek kuruluşlarını müfettiş veya kontrolörlerle gerektiğinde ve en geç üç yılda bir denetler; denetimde görevli personeli üç ay görevden uzaklaştırabilir (bir defa üç ay daha uzatılabilir, bu sürede ödemelerin üçte ikisi ödenir).",
+            "kind": "p",
+            "para": 15
+          },
+          {
+            "id": 34,
+            "text": "Milli güvenlik ve kamu düzeni gerekçesiyle birlik ve oda organlarını faaliyetten men edebilir; bu karar yirmi dört saat içinde hâkim onayına sunulur, hâkim kırk sekiz saatte karar vermezse kalkar.",
+            "cleanText": "Milli güvenlik ve kamu düzeni gerekçesiyle birlik ve oda organlarını faaliyetten men edebilir; bu karar yirmi dört saat içinde hâkim onayına sunulur, hâkim kırk sekiz saatte karar vermezse kalkar.",
+            "kind": "p",
+            "para": 15
+          },
+          {
+            "id": 35,
+            "text": "**Turist rehberliği** hizmetleri, sözleşmeler, sicil, çalışma kartları ve uzmanlık eğitimleri birlik yönetmeliğiyle düzenlenir.",
+            "cleanText": "Turist rehberliği hizmetleri, sözleşmeler, sicil, çalışma kartları ve uzmanlık eğitimleri birlik yönetmeliğiyle düzenlenir.",
+            "kind": "p",
+            "para": 15
           }
         ],
         "questions": [
@@ -84029,7 +84099,7 @@ export const COURSES_DATA: Course[] = [
         "order": 3,
         "title": "Hak ve Yükümlülükler",
         "officialQuestionCount": 107,
-        "lectureContent": "## 3. Alt Başlık: Hak ve Yükümlülükler\n\nTurist rehberliği unvanını kazanmış bir meslek mensubu, bu unvanın sağladığı yasal güvenceler ve haklarla donatıldığı gibi, uymak zorunda olduğu katı yükümlülüklerle de bağlıdır. Mesleki sınavların soru havuzlarında yer alan çok sayıda senaryo, bu hak ve sorumlulukların sınırlarını doğrudan test eder.\n\nRehberin en temel yasal hakkı, kanunla belirlenmiş taban ücret tarifesinin altında kalmamak şartıyla emeğinin karşılığını eksiksiz alma hakkıdır. Rehber, çalışma kartında yazılı yabancı dillerde ve ruhsatnamesinde yer alan coğrafi sınırlar dâhilinde mesleğini özgürce icra edebilir. Ayrıca eylemli turist rehberleri, mesleki faaliyetleri esnasında Türkiye'deki tüm müze, ören yeri, saray, milli park ve anıtsal yapılara Bakanlıkça sağlanan kimlik ve kokartlarını ibraz ederek ücretsiz giriş yapma hakkına sahiptir.\n\nBuna karşılık rehberin yükümlülükleri çok daha ayrıntılı düzenlenmiştir:\n\nBirinci temel yükümlülük, çalışma kartı bulundurma ve taşıma zorunluluğudur. Rehber, tur esnasında meslek odasından aldığı o yıla ait çalışma kartını yani kokartı göğüs hizasında, turistler ve denetim görevlileri tarafından kolayca görülebilecek şekilde takmak zorundadır. Çantada, cepte veya cüzdanda taşınan kart, kanunen geçerli bir ibraz sayılmaz ve disiplin yaptırımı doğurur.\n\nİkinci yükümlülük, yazılı sözleşme yapma şartıdır. Turist rehberi, seyahat acentası ile tura çıkmadan önce mutlaka çalışma şartlarını, tur süresini, rotasını ve ödenecek ücreti belirten yazılı bir turist rehberliği sözleşmesi akdetmek zorundadır. Sözleşmesiz çalışmak hem rehber hem de acenta açısından mevzuat ihlalidir.\n\nÜçüncü yükümlülük, tur programına sadakat ve zaman yönetimidir. Rehber, acenta tarafından misafire taahhüt edilen ve sözleşmeye bağlanan gezi programını haklı, belgelenebilir ve mücbir bir sebep olmaksızın keyfi olarak değiştiremez, programda yer alan bir ören yerini veya müzeyi atlayamaz, turu vaktinden önce keyfi olarak sonlandıramaz. Doğal afet, yol kapanması veya güvenlik gibi zorunlu hâllerde yapılan güzergâh değişiklikleri derhal acentaya bildirilmeli ve grup bilgilendirilmelidir.\n\nDördüncü ve en hassas yükümlülük grubu, görev tanımı ve görev sınırlarının korunmasıdır. Sınavların en gözde çeldiricileri, rehberin görevi gibi sunulan ancak aslında rehberin görev alanına asla girmeyen işlemlerden üretilir:\n\nTuristlerin vize ve pasaport işlemlerini yürütmek, takip etmek veya konsolosluk randevularını almak rehberin görevi değildir; bu sorumluluk seyahat acentasına veya turistin kendisine aittir. Rehberin elinde mikrofon vardır ancak kaşe ve mühür yoktur.\n\nAynı şekilde, otel işletmeciliği yapmak, otelin muhasebe veya oda dağıtım krizlerini üstlenmek, uçak ve gemi bileti satışı veya bilet komisyonculuğu yapmak rehberin görev tanımı dışındadır; bunlar acentacılık ve otelcilik faaliyetleridir.\n\nKültürel ve doğal mirası koruma yükümlülüğü ise rehberin kamusal vicdanıdır. Rehber, gezilen arkeolojik alanlarda, müzelerde veya tabiat parklarında grubundaki turistlerin eserlere zarar vermesini, yasak alanlara girmesini, topraktan tarihi taş veya parça toplamasını, endemik bitkileri koparmasını engellemekle ve grubu bu kurallar konusunda uyarmakla yükümlüdür. Eser kaçakçılığına veya tahribatına göz yuman bir rehber yalnızca meslekten çıkarılmakla kalmaz, Türk Ceza Kanunu ve iki bin sekiz yüz altmış üç sayılı kanun kapsamında hapis cezası istemiyle yargılanır.\n\nYükümlülüklere aykırı davranılması durumunda altı bin üç yüz yirmi altı sayılı kanunun beşinci maddesinde düzenlenen disiplin cezaları merdiveni devreye girer. Bu merdiven hafiften ağıra doğru dört basamaktan oluşur:\n\nBirinci basamak uyarma cezasıdır. Meslek mensubuna, mesleğin icrasında ve davranışlarında daha dikkatli ve özenli olması gerektiğinin yazı ile bildirilmesidir. Çalışma kartını tur esnasında görünür şekilde taşımamak veya denetimde anında ibraz edememek, meslektaşlarına veya paydaşlarına nezaketsiz davranmak gibi hafif kusurlarda uygulanır.\n\nİkinci basamak kınama cezasıdır. Meslek mensubuna, mesleğin icrasında ve eylemlerinde kusurlu sayıldığının resmi yazı ile bildirilmesidir. Bakanlıkça ilan edilen taban ücret tarifesinin altında bir ücretle çalışmayı kabul etmek, haksız rekabete yol açacak biçimde ilan ve reklam yapmak, geçerli bir neden olmaksızın acentaya söz verdiği tura gitmemek kınama cezasını gerektirir. Burada kanunun getirdiği altın bir kural vardır: Bir takvim yılı içinde iki kez kesinleşmiş kınama cezası alan bir turist rehberine, doğrudan bir sonraki basamak olan meslekten geçici men cezası verilir.\n\nÜçüncü basamak meslekten geçici men cezasıdır. Rehberin altı aydan az, bir yıldan çok olmamak üzere mesleki faaliyetini icra etmekten menedilmesi ve bu süre zarfında çalışma kartının geri alınmasıdır. Haklı bir mazereti olmaksızın turun güzergâhını kasten ve keyfi olarak değiştiren, bölgesel rehber olduğu hâlde ruhsatnamesinde yazılı bölge dışına çıkarak başka bölgelerde kaçak rehberlik yapan veya çalışma kartı bulunmadığı hâlde eylemsiz statüde tura çıkan rehberlere geçici men cezası uygulanır.\n\nDördüncü ve en ağır basamak ise meslekten çıkarma cezasıdır. Turist rehberinin ruhsatnamesinin iptal edilerek Bakanlıkça geri alınması, turist rehberi unvanının tamamen kaldırılması ve oda üyeliğinden kaydının ebediyen silinmesidir. Meslekten çıkarılan kişi bir daha hiçbir surette Türkiye'de turist rehberliği yapamaz. Bu ağır yaptırımı doğuran hâller kanunda açıkça sayılmıştır: Rehberlik görevi sırasında veya bu göreviyle bağlantılı olarak Türkiye Cumhuriyeti Devleti'nin milli onuruna, bağımsızlığına, anayasal düzenine veya ülke yararına aykırı söz, eylem ve propagandalarda bulunmak; seyahat acentacılığı faaliyeti niteliğinde haksız kazanç ve organizasyon faaliyetini meslekten geçici men cezası almasına rağmen tekrar etmek; ruhsatname alırken gerçeğe aykırı sahte belge sunmuş olmak meslekten çıkarma cezasının kesin gerekçeleridir.\n\n---",
+        "lectureContent": "## 3. Alt Başlık: Hak ve Yükümlülükler\n\nTurist rehberliği unvanını kazanmış bir meslek mensubu, bu unvanın sağladığı yasal güvenceler ve haklarla donatıldığı gibi, uymak zorunda olduğu katı yükümlülüklerle de bağlıdır. Mesleki sınavların soru havuzlarında yer alan çok sayıda senaryo, bu hak ve sorumlulukların sınırlarını doğrudan test eder.\n\nRehberin en temel yasal hakkı, kanunla belirlenmiş taban ücret tarifesinin altında kalmamak şartıyla emeğinin karşılığını eksiksiz alma hakkıdır. Rehber, çalışma kartında yazılı yabancı dillerde ve ruhsatnamesinde yer alan coğrafi sınırlar dâhilinde mesleğini özgürce icra edebilir. Ayrıca eylemli turist rehberleri, mesleki faaliyetleri esnasında Türkiye'deki tüm müze, ören yeri, saray, milli park ve anıtsal yapılara Bakanlıkça sağlanan kimlik ve kokartlarını ibraz ederek ücretsiz giriş yapma hakkına sahiptir.\n\nBuna karşılık rehberin yükümlülükleri çok daha ayrıntılı düzenlenmiştir:\n\nBirinci temel yükümlülük, çalışma kartı bulundurma ve taşıma zorunluluğudur. Rehber, tur esnasında meslek odasından aldığı o yıla ait çalışma kartını yani kokartı göğüs hizasında, turistler ve denetim görevlileri tarafından kolayca görülebilecek şekilde takmak zorundadır. Çantada, cepte veya cüzdanda taşınan kart, kanunen geçerli bir ibraz sayılmaz ve disiplin yaptırımı doğurur.\n\nİkinci yükümlülük, yazılı sözleşme yapma şartıdır. Turist rehberi, seyahat acentası ile tura çıkmadan önce mutlaka çalışma şartlarını, tur süresini, rotasını ve ödenecek ücreti belirten yazılı bir turist rehberliği sözleşmesi akdetmek zorundadır. Sözleşmesiz çalışmak hem rehber hem de acenta açısından mevzuat ihlalidir.\n\nÜçüncü yükümlülük, tur programına sadakat ve zaman yönetimidir. Rehber, acenta tarafından misafire taahhüt edilen ve sözleşmeye bağlanan gezi programını haklı, belgelenebilir ve mücbir bir sebep olmaksızın keyfi olarak değiştiremez, programda yer alan bir ören yerini veya müzeyi atlayamaz, turu vaktinden önce keyfi olarak sonlandıramaz. Doğal afet, yol kapanması veya güvenlik gibi zorunlu hâllerde yapılan güzergâh değişiklikleri derhal acentaya bildirilmeli ve grup bilgilendirilmelidir.\n\nDördüncü ve en hassas yükümlülük grubu, görev tanımı ve görev sınırlarının korunmasıdır. Sınavların en gözde çeldiricileri, rehberin görevi gibi sunulan ancak aslında rehberin görev alanına asla girmeyen işlemlerden üretilir:\n\nTuristlerin vize ve pasaport işlemlerini yürütmek, takip etmek veya konsolosluk randevularını almak rehberin görevi değildir; bu sorumluluk seyahat acentasına veya turistin kendisine aittir. Rehberin elinde mikrofon vardır ancak kaşe ve mühür yoktur.\n\nAynı şekilde, otel işletmeciliği yapmak, otelin muhasebe veya oda dağıtım krizlerini üstlenmek, uçak ve gemi bileti satışı veya bilet komisyonculuğu yapmak rehberin görev tanımı dışındadır; bunlar acentacılık ve otelcilik faaliyetleridir.\n\nKültürel ve doğal mirası koruma yükümlülüğü ise rehberin kamusal vicdanıdır. Rehber, gezilen arkeolojik alanlarda, müzelerde veya tabiat parklarında grubundaki turistlerin eserlere zarar vermesini, yasak alanlara girmesini, topraktan tarihi taş veya parça toplamasını, endemik bitkileri koparmasını engellemekle ve grubu bu kurallar konusunda uyarmakla yükümlüdür. Eser kaçakçılığına veya tahribatına göz yuman bir rehber yalnızca meslekten çıkarılmakla kalmaz, Türk Ceza Kanunu ve iki bin sekiz yüz altmış üç sayılı kanun kapsamında hapis cezası istemiyle yargılanır.\n\nYükümlülüklere aykırı davranılması durumunda altı bin üç yüz yirmi altı sayılı kanunun beşinci maddesinde düzenlenen disiplin cezaları merdiveni devreye girer. Bu merdiven hafiften ağıra doğru dört basamaktan oluşur:\n\nBirinci basamak uyarma cezasıdır. Meslek mensubuna, mesleğin icrasında ve davranışlarında daha dikkatli ve özenli olması gerektiğinin yazı ile bildirilmesidir. Çalışma kartını tur esnasında görünür şekilde taşımamak veya denetimde anında ibraz edememek, meslektaşlarına veya paydaşlarına nezaketsiz davranmak gibi hafif kusurlarda uygulanır.\n\nİkinci basamak kınama cezasıdır. Meslek mensubuna, mesleğin icrasında ve eylemlerinde kusurlu sayıldığının resmi yazı ile bildirilmesidir. Bakanlıkça ilan edilen taban ücret tarifesinin altında bir ücretle çalışmayı kabul etmek, haksız rekabete yol açacak biçimde ilan ve reklam yapmak, geçerli bir neden olmaksızın acentaya söz verdiği tura gitmemek kınama cezasını gerektirir. Burada kanunun getirdiği altın bir kural vardır: Bir takvim yılı içinde iki kez kesinleşmiş kınama cezası alan bir turist rehberine, doğrudan bir sonraki basamak olan meslekten geçici men cezası verilir.\n\nÜçüncü basamak meslekten geçici men cezasıdır. Rehberin altı aydan az, bir yıldan çok olmamak üzere mesleki faaliyetini icra etmekten menedilmesi ve bu süre zarfında çalışma kartının geri alınmasıdır. Haklı bir mazereti olmaksızın turun güzergâhını kasten ve keyfi olarak değiştiren, bölgesel rehber olduğu hâlde ruhsatnamesinde yazılı bölge dışına çıkarak başka bölgelerde kaçak rehberlik yapan veya çalışma kartı bulunmadığı hâlde eylemsiz statüde tura çıkan rehberlere geçici men cezası uygulanır.\n\nDördüncü ve en ağır basamak ise meslekten çıkarma cezasıdır. Turist rehberinin ruhsatnamesinin iptal edilerek Bakanlıkça geri alınması, turist rehberi unvanının tamamen kaldırılması ve oda üyeliğinden kaydının ebediyen silinmesidir. Meslekten çıkarılan kişi bir daha hiçbir surette Türkiye'de turist rehberliği yapamaz. Bu ağır yaptırımı doğuran hâller kanunda açıkça sayılmıştır: Rehberlik görevi sırasında veya bu göreviyle bağlantılı olarak Türkiye Cumhuriyeti Devleti'nin milli onuruna, bağımsızlığına, anayasal düzenine veya ülke yararına aykırı söz, eylem ve propagandalarda bulunmak; seyahat acentacılığı faaliyeti niteliğinde haksız kazanç ve organizasyon faaliyetini meslekten geçici men cezası almasına rağmen tekrar etmek; ruhsatname alırken gerçeğe aykırı sahte belge sunmuş olmak meslekten çıkarma cezasının kesin gerekçeleridir.\n\nGüncel not: 7500 sayılı Kanunla 6326 md.7/6'daki fiilin beş yıl içinde iki kez, bazı bentlerde ise üç kez işlenmesi de disiplin cezası gerektiren fiiller arasına alınmıştır. Anayasa Mahkemesi 10/9/2025 tarihli kararıyla (E.2024/125, K.2025/178) değişikliklerin büyük kısmını Anayasa'ya uygun bulmuş, ancak 6326 md.12'deki 'disiplin' ibaresini iptal etmiştir; yani disiplin hükümleri yönetmelikle değil kanunla düzenlenmelidir.\n\n---",
         "sentences": [
           {
             "id": 0,
@@ -84069,7 +84139,7 @@ export const COURSES_DATA: Course[] = [
           },
           {
             "id": 5,
-            "text": "Ayrıca eylemli turist rehberleri, **mesleki faaliyet**leri esnasında Türkiye'deki tüm müze, ören yeri, saray, milli park ve anıtsal yapılara **Bakanlık**ça sağlanan kimlik ve **kokart**larını ibraz ederek ücretsiz giriş yapma hakkına sahiptir.",
+            "text": "Ayrıca eylemli turist rehberleri, **mesleki faaliyet**leri esnasında Türkiye'deki tüm müze, ören yeri, saray, milli park ve anıtsal yapılara Bakanlıkça sağlanan kimlik ve **kokart**larını ibraz ederek ücretsiz giriş yapma hakkına sahiptir.",
             "cleanText": "Ayrıca eylemli turist rehberleri, mesleki faaliyetleri esnasında Türkiye'deki tüm müze, ören yeri, saray, milli park ve anıtsal yapılara Bakanlıkça sağlanan kimlik ve kokartlarını ibraz ederek ücretsiz giriş yapma hakkına sahiptir.",
             "kind": "p",
             "para": 2
@@ -84307,14 +84377,14 @@ export const COURSES_DATA: Course[] = [
           },
           {
             "id": 39,
-            "text": "Dördüncü ve en ağır basamak ise **meslekten çıkarma cezası**dır.",
+            "text": "Dördüncü ve en ağır basamak ise meslekten çıkarma cezasıdır.",
             "cleanText": "Dördüncü ve en ağır basamak ise meslekten çıkarma cezasıdır.",
             "kind": "p",
             "para": 15
           },
           {
             "id": 40,
-            "text": "**Turist rehberi**nin ruhsatnamesinin iptal edilerek Bakanlıkça geri alınması, **turist rehberi unvanı**nın tamamen kaldırılması ve **oda üyeliği**nden kaydının ebediyen silinmesidir.",
+            "text": "**Turist rehberi**nin ruhsatnamesinin iptal edilerek Bakanlıkça geri alınması, turist rehberi unvanının tamamen kaldırılması ve oda üyeliğinden kaydının ebediyen silinmesidir.",
             "cleanText": "Turist rehberinin ruhsatnamesinin iptal edilerek Bakanlıkça geri alınması, turist rehberi unvanının tamamen kaldırılması ve oda üyeliğinden kaydının ebediyen silinmesidir.",
             "kind": "p",
             "para": 15
@@ -84328,10 +84398,24 @@ export const COURSES_DATA: Course[] = [
           },
           {
             "id": 42,
-            "text": "Bu ağır yaptırımı doğuran hâller kanunda açıkça sayılmıştır: Rehberlik görevi sırasında veya bu göreviyle bağlantılı olarak **Türkiye Cumhuriyeti Devleti**'nin milli onuruna, bağımsızlığına, anayasal düzenine veya ülke yararına aykırı söz, eylem ve propagandalarda bulunmak; seyahat acentacılığı faaliyeti niteliğinde haksız kazanç ve organizasyon faaliyetini **meslekten geçici men** cezası almasına rağmen tekrar etmek; ruhsatname alırken gerçeğe aykırı sahte belge sunmuş olmak **meslekten çıkarma cezası**nın kesin gerekçeleridir.",
+            "text": "Bu ağır yaptırımı doğuran hâller kanunda açıkça sayılmıştır: Rehberlik görevi sırasında veya bu göreviyle bağlantılı olarak Türkiye Cumhuriyeti Devleti'nin milli onuruna, bağımsızlığına, anayasal düzenine veya ülke yararına aykırı söz, eylem ve propagandalarda bulunmak; seyahat acentacılığı faaliyeti niteliğinde haksız kazanç ve organizasyon faaliyetini **meslekten geçici men** cezası almasına rağmen tekrar etmek; ruhsatname alırken gerçeğe aykırı sahte belge sunmuş olmak meslekten çıkarma cezasının kesin gerekçeleridir.",
             "cleanText": "Bu ağır yaptırımı doğuran hâller kanunda açıkça sayılmıştır: Rehberlik görevi sırasında veya bu göreviyle bağlantılı olarak Türkiye Cumhuriyeti Devleti'nin milli onuruna, bağımsızlığına, anayasal düzenine veya ülke yararına aykırı söz, eylem ve propagandalarda bulunmak; seyahat acentacılığı faaliyeti niteliğinde haksız kazanç ve organizasyon faaliyetini meslekten geçici men cezası almasına rağmen tekrar etmek; ruhsatname alırken gerçeğe aykırı sahte belge sunmuş olmak meslekten çıkarma cezasının kesin gerekçeleridir.",
             "kind": "p",
             "para": 16
+          },
+          {
+            "id": 43,
+            "text": "Güncel not: 7500 sayılı Kanunla 6326 md.7/6'daki fiilin beş yıl içinde iki kez, bazı bentlerde ise üç kez işlenmesi de disiplin cezası gerektiren fiiller arasına alınmıştır.",
+            "cleanText": "Güncel not: 7500 sayılı Kanunla 6326 md.7/6'daki fiilin beş yıl içinde iki kez, bazı bentlerde ise üç kez işlenmesi de disiplin cezası gerektiren fiiller arasına alınmıştır.",
+            "kind": "p",
+            "para": 17
+          },
+          {
+            "id": 44,
+            "text": "Anayasa Mahkemesi 10/9/2025 tarihli kararıyla (E.2024/125, K.2025/178) değişikliklerin büyük kısmını Anayasa'ya uygun bulmuş, ancak 6326 md.12'deki 'disiplin' ibaresini iptal etmiştir; yani disiplin hükümleri yönetmelikle değil kanunla düzenlenmelidir.",
+            "cleanText": "Anayasa Mahkemesi 10/9/2025 tarihli kararıyla (E.2024/125, K.2025/178) değişikliklerin büyük kısmını Anayasa'ya uygun bulmuş, ancak 6326 md.12'deki 'disiplin' ibaresini iptal etmiştir; yani disiplin hükümleri yönetmelikle değil kanunla düzenlenmelidir.",
+            "kind": "p",
+            "para": 17
           }
         ],
         "questions": [
