@@ -10,6 +10,7 @@ import {
   Download,
   Zap,
   Brain,
+  ClipboardList,
   CheckCircle2
 } from 'lucide-react';
 
@@ -120,7 +121,8 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
     goToEksiklerim, 
     goToMutlakaBil,
     goToHafiza,
-    allWrongQuestions, 
+    goToDeneme,
+    allWrongQuestions,
     weakSubtopics,
     audioState,
     getOverallStats 
@@ -131,8 +133,8 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
 
   return (
     <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-slate-200 shadow-xs">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16 gap-2">
+      <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+        <div className="flex items-center justify-between h-16 gap-1 sm:gap-2">
           
           {/* Logo & Platform Name */}
           <button 
@@ -158,7 +160,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
           </button>
 
           {/* Center Navigation Links */}
-          <nav className="flex items-center gap-0.5 sm:gap-2">
+          <nav className="flex items-center gap-0 sm:gap-2">
             <button
               onClick={goToHome}
               className={`flex items-center gap-2 px-2.5 sm:px-3 py-2 rounded-lg text-sm font-semibold transition cursor-pointer ${
@@ -196,6 +198,18 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
               <span className="hidden sm:inline">Hafıza Kartları</span>
             </button>
             <button
+              onClick={goToDeneme}
+              title="Süreli deneme sınavı"
+              className={`flex items-center gap-2 px-2.5 sm:px-3 py-2 rounded-lg text-sm font-semibold transition cursor-pointer ${
+                activeView === 'deneme'
+                  ? 'bg-indigo-100 text-indigo-900 border border-indigo-300 shadow-xs'
+                  : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+              }`}
+            >
+              <ClipboardList className="w-4 h-4 text-indigo-600" />
+              <span className="hidden sm:inline">Deneme</span>
+            </button>
+            <button
               onClick={goToEksiklerim}
               className={`flex items-center gap-2 px-2.5 sm:px-3 py-2 rounded-lg text-sm font-semibold transition relative cursor-pointer ${
                 activeView === 'eksiklerim'
@@ -225,7 +239,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
           </nav>
 
           {/* Right Action Tools */}
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-1 sm:gap-2">
             {/* Audio Indicator */}
             {audioState.isPlaying && (
               <div className="hidden lg:flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-100 border border-amber-300 text-amber-900 text-xs font-medium animate-pulse">

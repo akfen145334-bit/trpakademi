@@ -6,7 +6,7 @@ import { MUTLAKA_BIL } from '../data/mutlakaBil';
 
 interface AppContextType {
   courses: Course[];
-  activeView: 'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza';
+  activeView: 'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza' | 'deneme';
   mbSelection: { courseId: string; subtopicId: string } | null;
   hkSelection: string | null;
   selectedCourseId: string | null;
@@ -20,6 +20,7 @@ interface AppContextType {
   goToEksiklerim: () => void;
   goToMutlakaBil: (courseId?: string, subtopicId?: string) => void;
   goToHafiza: (cardId?: string) => void;
+  goToDeneme: () => void;
   playMustKnow: (courseId: string, subtopicId: string, startSentenceIndex?: number, wholeCourse?: boolean) => void;
   setActiveSubtopicTab: (tab: 'lecture' | 'test') => void;
   
@@ -67,7 +68,7 @@ const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [courses] = useState<Course[]>(COURSES_DATA);
-  const [activeView, setActiveView] = useState<'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza'>('home');
+  const [activeView, setActiveView] = useState<'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza' | 'deneme'>('home');
   const [mbSelection, setMbSelection] = useState<{ courseId: string; subtopicId: string } | null>(null);
   const [hkSelection, setHkSelection] = useState<string | null>(null);
   const [selectedCourseId, setSelectedCourseId] = useState<string | null>(null);
@@ -180,6 +181,11 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
 
   const goToEksiklerim = () => {
     setActiveView('eksiklerim');
+  };
+
+  const goToDeneme = () => {
+    setActiveView('deneme');
+    if (typeof window !== 'undefined') window.scrollTo({ top: 0 });
   };
 
   const goToHafiza = (cardId?: string) => {
@@ -541,6 +547,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
         mbSelection,
         hkSelection,
         goToHafiza,
+        goToDeneme,
         selectedCourseId,
         selectedSubtopicId,
         activeSubtopicTab,
