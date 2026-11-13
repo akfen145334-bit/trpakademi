@@ -190,7 +190,7 @@ export const TestViewer: React.FC<TestViewerProps> = ({ course, subtopic, onSwit
         </div>
 
         {/* Question Selector Dots (Scrollable for large banks) */}
-        <div className="flex flex-wrap items-center gap-1.5 mt-3 max-h-36 overflow-y-auto p-1">
+        <div className="flex flex-wrap items-center gap-1.5 mt-3 max-h-24 sm:max-h-36 overflow-y-auto p-1">
           {filteredIndices.length === 0 ? (
             <span className="text-xs text-slate-400 italic py-1">Bu filtrede soru bulunmuyor.</span>
           ) : (
