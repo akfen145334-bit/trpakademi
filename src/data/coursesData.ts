@@ -82639,7 +82639,7 @@ export const COURSES_DATA: Course[] = [
               "E) Hazine ve Maliye Bakanlığı"
             ],
             "correctIndex": 2,
-            "explanation": "TUREB'in görüşü alınarak Bakanlık tarafından her yıl taban ücret belirlenir ve Resmi Gazete'de yayımlanır.\n\n💡 Hafıza Çapası: Taban Ücret = Kültür ve Turizm Bakanlığı belirler",
+            "explanation": "Taban ücret tarifesi 6326 md.6 uyarınca Kültür ve Turizm Bakanlığınca belirlenip ilan edilir; Türkçe rehberlikte ücretler taban ücretin %70'inden az olamaz.\n\n💡 Hafıza Çapası: Taban Ücret = Kültür ve Turizm Bakanlığı belirler",
             "difficulty": "orta"
           },
           {
@@ -82717,7 +82717,7 @@ export const COURSES_DATA: Course[] = [
               "E) Yalnızca meslek içi seminerlere katılmak"
             ],
             "correctIndex": 2,
-            "explanation": "6326 sayılı Kanun'un 3/1(ç) maddesi uyarınca mesleğe kabul için turist rehberliği bölümünü tamamlamak veya başka bir bölümde en az lisans düzeyini bitirip belirlenen eğitim ve sınavlarda başarılı olmak gerekir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.195).\n\n💡 Hafıza İpucu: Lisans + sınav = mesleğe giriş bileti.",
+            "explanation": "6326 sayılı Kanun md.3 (7500 ile değişik) uyarınca mesleğe kabul için turist rehberliği eğitim programını tamamlamak veya lisans mezunu olup Bakanlıkça belirlenen eğitim ve sınavlarda başarılı olmak gerekir; ayrıca TC vatandaşı, 18 yaş ve YDS en az 75 puan (veya eşdeğer belge) aranır.\n\n💡 Hafıza İpucu: Lisans + sınav = mesleğe giriş bileti.",
             "difficulty": "orta"
           },
           {
@@ -82801,22 +82801,6 @@ export const COURSES_DATA: Course[] = [
             "difficulty": "orta"
           },
           {
-            "id": "trp_q_185",
-            "subtopicId": "rm_1",
-            "courseId": "rehberlik-mevzuati",
-            "questionText": "6326 sayılı Kanun'a göre mesleğe kabul ve uygulama gezisine ilişkin aşağıdaki ifadelerden hangileri doğrudur?\nI. Başvuru tarihinde on sekiz yaşını doldurmuş olmak\nII. Yüz kızartıcı suçlardan hüküm giymemiş olmak\nIII. Yabancı dil sınavından en az yetmiş beş puan almak\nIV. Uygulama gezisi sırasında tek başına bağımsız tur grubu yönetebilmek\nV. Yabancı dil şartı için seviye tespit sınavından yetmiş puan almak",
-            "options": [
-              "A) I ve IV",
-              "B) II ve IV",
-              "C) I, II ve III",
-              "D) III ve V",
-              "E) I, III ve IV"
-            ],
-            "correctIndex": 2,
-            "explanation": "Başvuruda on sekiz yaş, yüz kızartıcı suç hükmü ve yetmiş beş puanlık dil şartı doğrudur; uygulama gezisinde aday bağımsız tur yönetemez. En güçlü çeldirici, yetmiş puanı doğru gibi gösteren ifadedir. 💡 Hafıza Çapası: 18 yaş, 75 puan, bağımsız tur yok.",
-            "difficulty": "orta"
-          },
-          {
             "id": "trp_q_355",
             "subtopicId": "rm_1",
             "courseId": "rehberlik-mevzuati",
@@ -82829,7 +82813,7 @@ export const COURSES_DATA: Course[] = [
               "E) Yalnızca TÜRSAB tarafından üye acentalar için düzenlenen sınavla"
             ],
             "correctIndex": 0,
-            "explanation": "Sınav Bakanlık ve Birlik (TUREB) sorumluluğunda, çoğunlukla bir üniversite (ör. Anadolu Ü.) uygulamasıyla yürütülür.",
+            "explanation": "Mesleğe kabul sınavı ve eğitim 7500 sayılı Kanun sonrası Bakanlık sorumluluğundadır (Birlikler Bakanlığın talebine rağmen 6 ay içinde düzenlemezse Bakanlık doğrudan yapar); uygulamada üniversite gibi uzman kurumlarla yürütülür.",
             "difficulty": "ileri"
           },
           {
@@ -82941,7 +82925,7 @@ export const COURSES_DATA: Course[] = [
               "E) Hizmet içi kurs"
             ],
             "correctIndex": 0,
-            "explanation": "İlgili koşulları taşıyanların mesleğe kabulü için açılan eğitim programıdır.",
+            "explanation": "Turist rehberliği bölümü mezunu olmayan lisans mezunları, Bakanlıkça (Birlik talebine rağmen düzenlemediğinde doğrudan Bakanlık) açılan rehberlik eğitim/sertifika programı ve sınavlarıyla mesleğe kabul edilebilir.",
             "difficulty": "orta"
           },
           {
@@ -82958,22 +82942,6 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 1,
             "explanation": "Vize yaptırmayan rehber fiilen çalışmayan (eylemsiz) rehber statüsüne geçer.",
-            "difficulty": "orta"
-          },
-          {
-            "id": "trp_q_701",
-            "subtopicId": "rm_1",
-            "courseId": "rehberlik-mevzuati",
-            "questionText": "Turist rehberliği hizmet ücretlerinin taban (asgari) tarifesini belirleyen merci aşağıdakilerden hangisidir?",
-            "options": [
-              "A) TUREB (Bakanlık onayıyla)",
-              "B) Belediye",
-              "C) Maliye Bakanlığı",
-              "D) TÜRSAB",
-              "E) Her rehberin kendisi serbestçe"
-            ],
-            "correctIndex": 0,
-            "explanation": "Rehberlik taban ücret tarifesi TUREB'ce belirlenip Bakanlıkça onaylanır.",
             "difficulty": "orta"
           },
           {
@@ -83197,7 +83165,7 @@ export const COURSES_DATA: Course[] = [
               "E) Serbestçe pazarlıkla ve tarafların anlaşmasıyla"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Taban ücret tarifesi Kültür ve Turizm Bakanlığınca belirlenip ilan edilir (6326 md.6).",
             "difficulty": "orta"
           },
           {
@@ -83293,7 +83261,7 @@ export const COURSES_DATA: Course[] = [
               "E) Yabancı uyruklu olmak"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru şık en yakın seçenektir; güncel mevzuatta rehberlik eğitim programını tamamlamak veya lisans mezunu olup eğitim/sınavda başarılı olmak ve dil yeterliği (YDS 75) aranır; 18 yaş ve TC vatandaşlığı da şarttır.",
             "difficulty": "ileri"
           },
           {
@@ -83373,7 +83341,7 @@ export const COURSES_DATA: Course[] = [
               "E) Otomatik ruhsat verilir"
             ],
             "correctIndex": 1,
-            "explanation": "Ruhsatsız/yetkisiz rehberlik yaptırıma tabidir; ceza uygulanır ve faaliyet durdurulur.",
+            "explanation": "Ruhsatnamesiz turist rehberliği yapana mülki idare amirince 25.000-100.000 TL idari para cezası verilir (6326 md.7).",
             "difficulty": "orta"
           },
           {
@@ -84639,22 +84607,6 @@ export const COURSES_DATA: Course[] = [
             "difficulty": "temel"
           },
           {
-            "id": "trp_q_82",
-            "subtopicId": "rm_3",
-            "courseId": "rehberlik-mevzuati",
-            "questionText": "Turist rehberlerine uygulanan disiplin cezalarına ilişkin aşağıdaki ifadelerden hangileri doğrudur?\nI. Bir takvim yılı içinde iki kez kesinleşmiş kınama cezası alan rehbere meslekten geçici men cezası verilir.\nII. Çalışma kartını tur sırasında görünür şekilde taşımayan rehbere uyarma cezası uygulanabilir.\nIII. Ruhsatname alırken sahte belge sunan rehber meslekten geçici men cezası ile cezalandırılır.\nIV. Taban ücretin altında çalışmayı kabul eden rehbere uyarma cezası verilir.\nV. Bölgesel rehberin ruhsatnamesi dışındaki bölgede kaçak rehberlik yapması meslekten çıkarma gerektirir.",
-            "options": [
-              "A) III ve IV",
-              "B) II, IV ve V",
-              "C) I, III ve V",
-              "D) IV ve V",
-              "E) I ve II"
-            ],
-            "correctIndex": 4,
-            "explanation": "İki kez kesinleşmiş kınama geçici men doğurur ve hafif kusurlar uyarma ile sonuçlanır; sahte belge ise meslekten çıkarmanın kesin gerekçesidir. En güçlü çeldirici, sahte belgenin geçici men ile cezalandırılması ifadesidir. 💡 Hafıza Çapası: İki kınama geçici men, sahte belge çıkarma.",
-            "difficulty": "orta"
-          },
-          {
             "id": "trp_q_107",
             "subtopicId": "rm_3",
             "courseId": "rehberlik-mevzuati",
@@ -85767,7 +85719,7 @@ export const COURSES_DATA: Course[] = [
               "E) Tur programını aksatma"
             ],
             "correctIndex": 0,
-            "explanation": "Hanutçuluk hem meslek etiğine aykırıdır hem de 6326 sayılı Kanun ve TUREB Disiplin Yönetmeliği kapsamında ağır idari para cezası ve geçici meslekten men yaptırımı taşır. (MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf, s.33)\n\n💡 Hafıza İpucu: HANUTÇULUK = KOMİSYON KARŞILIĞI ZORLA ALIŞVERİŞ (Ağır etik ihlal).",
+            "explanation": "Hizmet alanın bilgisi/onayı olmadan alışveriş işletmesine yönlendirip karşılığında menfaat sağlamak (hanutçuluk) hem meslek etiğine aykırıdır hem de 6326 md.7 uyarınca 25.000-100.000 TL idari para cezası ve disiplin yaptırımı gerektirir.\n\n💡 Hafıza İpucu: HANUTÇULUK = KOMİSYON KARŞILIĞI ZORLA ALIŞVERİŞ (Ağır etik ihlal).",
             "difficulty": "orta"
           },
           {
