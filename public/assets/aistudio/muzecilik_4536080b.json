@@ -1,0 +1,2092 @@
+[
+ {
+  "id": "MUZ-001",
+  "konu": "muzecilik",
+  "alt_konu": "aya-irini",
+  "soru": "İstanbul'un fethinden sonra çeşitli silahların, savaş ganimetlerinin ve kutsal eşyaların toplandığı, Topkapı Sarayı'nın birinci avlusunda yer alan Bizans yapısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Aya İrini",
+   "B": "Ayasofya",
+   "C": "Kariye Camii",
+   "D": "Fethiye Camii",
+   "E": "Çinili Köşk"
+  },
+  "dogru": "A",
+  "cozum": "Aya İrini (Hagia Eirene) Kilisesi, Topkapı Sarayı'nın birinci avlusunda yer alır ve fetihten sonra cephane deposu (Cebehâne-i Âmire) olarak kullanılmıştır; Türk müzeciliğinin ilk mekânıdır (s.57).",
+  "hafiza_ipucu": "Rehberdeki 'doğum odası' çapası: Aya İrini = kilise (Bizans) + silah deposu (Osmanlı) + ilk koleksiyon (1846). 'Kutsal Barış' adlı kilisede savaş silahları sergilendi — ironiyi hatırla.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 57
+  },
+  "akraba_cikmis_soru": "Mar26 ilk müze çalışmaları-Aya İrini",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-002",
+  "konu": "muzecilik",
+  "alt_konu": "aya-irini",
+  "soru": "Aya İrini Kilisesi, İstanbul'un fethinden sonra hangi amaçla kullanılmıştır?",
+  "siklar": {
+   "A": "Cami olarak ibadete açılmıştır",
+   "B": "Cephane deposu (Cebehâne-i Âmire) olarak kullanılmıştır",
+   "C": "Doğrudan halka açık ilk müze olarak düzenlenmiştir",
+   "D": "Saray mutfağına dönüştürülmüştür",
+   "E": "Elçilik binası olarak kullanılmıştır"
+  },
+  "dogru": "B",
+  "cozum": "Metinde açıkça belirtildiği gibi Aya İrini, fetihten sonra cephane deposu (Cebehâne-i Âmire) olarak kullanılmış, içindeki eserler 1730 onarımından sonra ilk kez resmî sergilenmeye başlamıştır (s.57).",
+  "hafiza_ipucu": "Cebehâne = cephane deposu; 'Kutsal Barış'ın içi silahla doldu.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 57
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-003",
+  "konu": "muzecilik",
+  "alt_konu": "aya-irini",
+  "soru": "1730 yılında Aya İrini'de yapılan bir onarımın ardından depodaki eserlerin ilk kez resmî olarak sergilenmeye başlandığı koleksiyona verilen ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Mecmua-i Âsâr-ı Atika",
+   "B": "Müze-i Hümayun",
+   "C": "Dârü'l-Eslihâ",
+   "D": "Asar-ı Atika Nizamnâmesi",
+   "E": "Evkaf-ı İslamiye Müzesi"
+  },
+  "dogru": "C",
+  "cozum": "1730 onarımından sonra Aya İrini'deki depo eserleri Dârü'l-Eslihâ (silahlar evi) adıyla ilk kez resmî olarak sergilenmeye başlamıştır; ancak halka kapalı olduğundan tam bir müze sayılmaz (s.57).",
+  "hafiza_ipucu": "Dârü'l-Eslihâ = 'silahlar evi'; Fethi Ahmed Paşa'nın 1846'da zenginleştireceği koleksiyonun ilk hâli.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 57
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-004",
+  "konu": "muzecilik",
+  "alt_konu": "fethi-ahmed-pasa",
+  "soru": "1846 yılında Aya İrini'deki Dârü'l-Eslihâ koleksiyonunu zenginleştirip sınıflandırarak Türk müzeciliğinde bir kurum olarak ortaya çıkışın ilk adımını atan devlet adamı kimdir?",
+  "siklar": {
+   "A": "Osman Hamdi Bey",
+   "B": "Sadrazam Ali Paşa",
+   "C": "Ahmed Fethi Paşa",
+   "D": "Halil Edhem Bey",
+   "E": "Philip Anton Dethier"
+  },
+  "dogru": "C",
+  "cozum": "Tophâne-i Âmire müşiri Ahmed Fethi Paşa, 1846'da Aya İrini'deki koleksiyonu zenginleştirmiş ve sınıflandırarak Mecmua-i Esliha-ı Âtika ile Mecmua-i Âsâr-ı Atika olmak üzere iki bölüme ayırmıştır (s.57-58).",
+  "hafiza_ipucu": "Rehberin F-H-H-B zinciri: Fethi topladı (1846) → Hümayun kurdu (1869) → Hamdi adam etti (1881) → Bodrum daldı.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-005",
+  "konu": "muzecilik",
+  "alt_konu": "fethi-ahmed-pasa",
+  "soru": "Ahmed Fethi Paşa'nın 1846'da oluşturduğu iki koleksiyon bölümünden \"Mecmua-i Esliha-ı Âtika\" hangi tür eserleri kapsar?",
+  "siklar": {
+   "A": "Heykeller, lahitler ve mimari parçaları",
+   "B": "Eski toplar, silahlar ve kılıçları",
+   "C": "El yazması kitapları ve fermanları",
+   "D": "Padişah portrelerini",
+   "E": "Sikke ve madalyonları"
+  },
+  "dogru": "B",
+  "cozum": "Mecmua-i Esliha-ı Âtika eski toplar, silahlar ve kılıçlardan oluşurken; Mecmua-i Âsâr-ı Atika heykel, lahit ve mimari parçalar gibi arkeolojik eserleri kapsar (s.58).",
+  "hafiza_ipucu": "Esliha=silah (Arapça kökten); 'Esliha silahtır, Asar eserdir' — rehberin ayırt edici çapası.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-006",
+  "konu": "muzecilik",
+  "alt_konu": "fethi-ahmed-pasa",
+  "soru": "1846'da Aya İrini'deki koleksiyonu düzenleyen Ahmed Fethi Paşa'nın o dönemdeki resmî görevi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sanayi-i Nefise Mektebi müdürü",
+   "B": "Maarif Nazırı",
+   "C": "Tophâne-i Âmire müşiri",
+   "D": "Sadrazam",
+   "E": "Müze-i Hümayun müdürü"
+  },
+  "dogru": "C",
+  "cozum": "Metinde Ahmed Fethi Paşa, \"Tophâne-i Âmire müşiri\" unvanıyla anılır; müzenin bir kurum olarak ortaya çıkışına yönelik ilk adımı bu sıfatla atmıştır (s.57).",
+  "hafiza_ipucu": "Tophâne = top döküm yeri; silah koleksiyonuyla ilgilenen paşanın görevi de silahla ilişkili.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 57
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-007",
+  "konu": "muzecilik",
+  "alt_konu": "muze-i-humayun",
+  "soru": "1869 yılında Sultan Abdülaziz'in Avrupa gezisi sonrasında Aya İrini'deki koleksiyonun bağlı olduğu kurumu yeniden düzenletip adını \"Müze-i Hümayun\" (İmparatorluk Müzesi) olarak değiştiren sadrazam kimdir?",
+  "siklar": {
+   "A": "Mehmed Esad Safvet Paşa",
+   "B": "İbrahim Edhem Paşa",
+   "C": "Abdüllatif Suphi Paşa",
+   "D": "Ali Paşa",
+   "E": "Ahmed Muhtar Paşa"
+  },
+  "dogru": "D",
+  "cozum": "1869'da Sadrazam Ali Paşa, Aya İrini'deki koleksiyonu yeniden düzenletmiş ve kurumun adını Müze-i Hümayun (İmparatorluk Müzesi) olarak değiştirmiştir (s.58).",
+  "hafiza_ipucu": "F-H-H-B zincirinde ikinci basamak: '...Hümayun kurdu (1869)...' — Ali Paşa'nın imzası bu tarihte.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "Mar26 Müze-i Hümayun-İst.Arkeoloji",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-008",
+  "konu": "muzecilik",
+  "alt_konu": "muze-i-humayun",
+  "soru": "1869'da kurulan Müze-i Hümayun, günümüzde temelini oluşturduğu hangi müzeyle özdeşleştirilir?",
+  "siklar": {
+   "A": "Topkapı Sarayı Müzesi",
+   "B": "Ankara Etnografya Müzesi",
+   "C": "İstanbul Arkeoloji Müzeleri",
+   "D": "Türk ve İslam Eserleri Müzesi",
+   "E": "Askerî Müze"
+  },
+  "dogru": "C",
+  "cozum": "Aya İrini'de başlayan koleksiyon, Çinili Köşk'e taşınmasının ardından Osman Hamdi Bey döneminde Vallaury'nin yaptığı yeni binaya geçmiş; bu süreç bugünkü İstanbul Arkeoloji Müzeleri'nin temelini oluşturmuştur (s.58, 60).",
+  "hafiza_ipucu": "Mar26 çeldiricisi Topkapı Sarayı Müzesi'ydi — doğrusu Müze-i Hümayun'un mirasçısı Arkeoloji'dir, Topkapı değil.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "Mar26 Müze-i Hümayun-İst.Arkeoloji",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-009",
+  "konu": "muzecilik",
+  "alt_konu": "muze-i-humayun",
+  "soru": "1869'da kurulan Müze-i Hümayun'un ilk müdürü, dönemin önde gelen eğitim kurumlarından Galatasaray Mektebi öğretmenlerinden kimdir?",
+  "siklar": {
+   "A": "Dr. Philip Anton Dethier",
+   "B": "Albert Dumont",
+   "C": "Osman Hamdi Bey",
+   "D": "Dr. Edward Goold",
+   "E": "Halil Edhem Bey"
+  },
+  "dogru": "D",
+  "cozum": "Müze-i Hümayun'un ilk müdürü, Galatasaray Mektebi (Mekteb-i Sultani) öğretmenlerinden Dr. Edward Goold olmuştur; ardından Dethier (1872-1881) müdür olarak atanmıştır (s.58).",
+  "hafiza_ipucu": "Goold = 'ilk altın' (gold çağrışımı), müzenin ilk müdürü, sonra Dethier gelir.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-010",
+  "konu": "muzecilik",
+  "alt_konu": "muze-i-humayun",
+  "soru": "Osman Hamdi Bey ile Asar-ı Atika Nizamnâmesi hakkında aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "1884'te yeni bir Asar-ı Atika Nizamnâmesi çıkarılmasına öncülük etmiştir.",
+   "B": "Bu kanunla ülkedeki eserlerin tek sahibinin Osmanlı hükûmeti olduğu vurgulanmıştır.",
+   "C": "1884-1906 arasında koruma yönünde ek hükümler çıkarılmasına devam edilmiştir.",
+   "D": "Kaçak kazı yapan yabancıların eser çıkarmasını önlemek amacı taşımıştır.",
+   "E": "Türk müzeciliğinde çıkarılan İLK Asar-ı Atika Nizamnâmesi'dir."
+  },
+  "dogru": "E",
+  "cozum": "Osmanlı'da eski eserleri koruma amaçlı ilk Âsâr-ı Atika Nizamnâmesi 1874'te Dethier ve Abdüllatif Suphi Paşa öncülüğünde çıkarılmıştı; Osman Hamdi Bey'in 1884'teki nizamnamesi bunun yerini alan, daha kapsamlı ikinci düzenlemedir (s.58, 61).",
+  "hafiza_ipucu": "Karışan çift çapası: 1874 = Dethier'in ilk nizamnamesi, 1884 = Osman Hamdi'nin sıkılaştırılmış ikincisi.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": "Ağu25 Eski Eser Nizamnamesi",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-011",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "Dr. Dethier'in ölümünün ardından Çinili Köşk'teki Müze-i Hümayun'un müdürlüğüne atanan, Türk müzeciliğinin çağdaşlaşmasında öncü rol oynayan ressam-arkeolog kimdir?",
+  "siklar": {
+   "A": "Halil Edhem Bey",
+   "B": "Şeker Ahmed Paşa",
+   "C": "Ahmed Muhtar Paşa",
+   "D": "Osman Hamdi Bey",
+   "E": "İbrahim Edhem Paşa"
+  },
+  "dogru": "D",
+  "cozum": "Osman Hamdi Bey, 1881'de Dr. Dethier'in ölümünün ardından Çinili Köşk'teki müzenin müdürü olarak atanmış, Türkiye'de ilk bilimsel kazıları başlatan ve ilk Türk müze müdürü/arkeolog olarak anılan isim olmuştur (s.58, 65).",
+  "hafiza_ipucu": "F-H-H-B zincirinin üçüncü basamağı: '...Hamdi adam etti (1881)...'",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "Ağu25 Osman Hamdi-İskender Lahdi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-012",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "Osman Hamdi Bey'in 1887 yılında Lübnan'da yürüttüğü Sayda (Sidon) Krallar Mezarı kazılarından İstanbul'a getirdiği ve İstanbul Arkeoloji Müzeleri'nin en ünlü eserlerinden biri hâline gelen lahit aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Satrap Lahdi",
+   "B": "Tabnit Lahdi",
+   "C": "İskender Lahdi",
+   "D": "Ağlayan Kadınlar Lahdi",
+   "E": "Likya Lahdi"
+  },
+  "dogru": "C",
+  "cozum": "Sayda'dan getirilen 26 lahit arasında en ünlüsü İskender Lahdi'dir; bu lahitler yeni müze binasının (bugünkü İstanbul Arkeoloji Müzesi) yapılmasına da yol açmıştır (s.60).",
+  "hafiza_ipucu": "İskender Lahdi, İskender'in kendisine değil ona atfen yapılmış kabartmalara sahiptir — İskender'in mozaiği Napoli'de, lahdi İstanbul'da!",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "Ağu25 Osman Hamdi-İskender Lahdi; Şub25/Mar26 lahit-mozaik eşleştirmeleri",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-013",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "Osman Hamdi Bey öncülüğünde 1884'te çıkarılan ve Anadolu'daki kazıları takip ederek yurt dışına eser kaçırılmasını önlemeyi amaçlayan düzenleme aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Mecmua-i Esliha-ı Âtika",
+   "B": "2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu",
+   "C": "Sanayi-i Nefise Nizamnâmesi",
+   "D": "ICOM Mesleki Etik Kuralları",
+   "E": "Yeni Asar-ı Atika Nizamnâmesi"
+  },
+  "dogru": "E",
+  "cozum": "1884'te Osman Hamdi Bey öncülüğünde çıkarılan yeni Âsâr-ı Atika Nizamnâmesi, ülkedeki eserlerin tek sahibinin Osmanlı hükûmeti olduğunu vurgulamış ve kaçak kazıcılara karşı sıkı takip başlatmıştır (s.61).",
+  "hafiza_ipucu": "1884 = Hamdi'nin nizamnamesi; 2863 ise Cumhuriyet döneminin kanunu, karıştırma!",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": "Ağu25 Eski Eser Nizamnamesi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-014",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "Osman Hamdi Bey döneminde İskender Lahdi ve diğer eserlere yer açmak için yapılan, günümüzde İstanbul Arkeoloji Müzesi olarak bilinen neoklasik binanın mimarı kimdir?",
+  "siklar": {
+   "A": "Robert Smirke",
+   "B": "Alexander Vallaury",
+   "C": "Christian von Mechel",
+   "D": "William Wilkins",
+   "E": "Montereano"
+  },
+  "dogru": "B",
+  "cozum": "Yeni müze binasının tasarımı Fransız asıllı mimar Alexander Vallaury tarafından yapılmış, neoklasik yapının ilk kısmı 1899, ikinci kısmı 1903, üçüncü kısmı 1907'de tamamlanarak Lahitler Müzesi adıyla anılmıştır (s.60).",
+  "hafiza_ipucu": "Vallaury = müzenin 'değerli' (valuable) yeni evini inşa eden mimar.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-015",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "Osman Hamdi Bey'in 1882'de Müze-i Hümayun müdürlüğüyle birlikte 1883'te kurulan hangi eğitim kurumunun da müdürlüğünü yürütmüştür?",
+  "siklar": {
+   "A": "Mekteb-i Sultani (Galatasaray Lisesi)",
+   "B": "Darülfünun",
+   "C": "Harbiye Mektebi",
+   "D": "Sanayi-i Nefise Mektebi",
+   "E": "Mülkiye Mektebi"
+  },
+  "dogru": "D",
+  "cozum": "Osman Hamdi Bey, Müze-i Hümayun müdürlüğüyle birlikte 1883'te kurulan Sanayi-i Nefise Mektebi'nin (Güzel Sanatlar Akademisi) de müdürlüğünü yürütmüştür (s.59).",
+  "hafiza_ipucu": "Sanayi-i Nefise = 'güzel sanatlar'; ressam kimliğiyle Osman Hamdi'nin doğal uzantısı.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 59
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-016",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "Aynı zamanda Osmanlı müzeciliğinin kurucusu sayılan Osman Hamdi Bey'in ressam kimliğiyle yaptığı ünlü tablosu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kaplumbağa Terbiyecisi",
+   "B": "Silahtar Ağa Camii",
+   "C": "Sultan Abdülmecid Portresi",
+   "D": "Genç Kız",
+   "E": "Mihrap"
+  },
+  "dogru": "A",
+  "cozum": "Osman Hamdi Bey, müzeci ve arkeolog kimliğinin yanı sıra dönemin önemli ressamlarındandır; en tanınmış eseri Kaplumbağa Terbiyecisi'dir (çıkmış sınav kanıtlı, Sanat Tarihi ile kesişen bir bilgi).",
+  "hafiza_ipucu": "Şub25'te ayrı soruydu: müzeci kimliği yanında ressam kimliğini de bil — 'terbiyeci' hem kaplumbağaların hem müzenin!",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Şub25 Kaplumbağa Terbiyecisi-Osman Hamdi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-017",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "Osman Hamdi Bey'in müzecilik alanındaki girişimleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Türkiye'de ilk bilimsel kazıları başlatmıştır.",
+   "B": "1889'da Müze-i Hümayun'da İslam Eserler bölümünü kurmuştur.",
+   "C": "1910 yılındaki ölümüne kadar müze müdürlüğünde kalmıştır.",
+   "D": "Aya İrini'deki Esliha-i Askeriye Müzesi'ni 1908'de bizzat açmıştır.",
+   "E": "Nemrut Dağı, Sayda ve Lagina kazılarını yürütmüştür."
+  },
+  "dogru": "D",
+  "cozum": "Aya İrini'deki Mecmua-i Esliha-ı Âtika koleksiyonu, Osman Hamdi Bey döneminde değil Ahmed Muhtar Paşa öncülüğünde düzenlenerek 1908'de Esliha-i Askeriye Müzesi adıyla ziyarete açılmıştır (s.61).",
+  "hafiza_ipucu": "Silah müzesini açan Ahmed Muhtar Paşa'dır, Osman Hamdi değil — ikisini karıştırma.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-018",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "1908'de Ahmed Muhtar Paşa öncülüğünde Aya İrini'de \"Esliha-i Askeriye Müzesi\" adıyla açılan ve daha sonra \"Müze-i Askerî-i Osmanî\" olarak adlandırılan müze, günümüzde hangi müzenin temelini oluşturur?",
+  "siklar": {
+   "A": "Deniz Müzesi",
+   "B": "Ankara Etnografya Müzesi",
+   "C": "Anadolu Medeniyetleri Müzesi",
+   "D": "Türk ve İslam Eserleri Müzesi",
+   "E": "Askerî Müze"
+  },
+  "dogru": "E",
+  "cozum": "Aya İrini'deki Mecmua-i Esliha-ı Âtika koleksiyonu, 1908'de Esliha-i Askeriye Müzesi adıyla açılmış, adı Müze-i Askerî-i Osmanî olarak değiştirilmiş ve bugünkü Askerî Müze'nin temelini oluşturmuştur (s.61).",
+  "hafiza_ipucu": "Esliha=silah, Askerî Müze=silahların bugünkü evi; İskender Lahdi ise Arkeoloji Müzesi'nde — iki farklı miras yolu.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-019",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "1910'da Osman Hamdi Bey'in ölümünden sonra Müze-i Hümayun'un ve Sanayi-i Nefise Mektebi'nin müdürlüğünü yürüten, aynı zamanda kardeşi olan isim kimdir?",
+  "siklar": {
+   "A": "Halil Edhem Bey",
+   "B": "İbrahim Edhem Paşa",
+   "C": "Ahmed Muhtar Paşa",
+   "D": "Şeker Ahmed Paşa",
+   "E": "Philip Anton Dethier"
+  },
+  "dogru": "A",
+  "cozum": "Osman Hamdi Bey'in ölümünden sonra Müze-i Hümayun'un ve Sanayi-i Nefise Mektebi'nin müdürlüğünü kardeşi Halil Edhem Bey yürütmüştür; onun döneminde 1913-1914 civarında Evkaf-ı İslamiye Müzesi kurulmuştur (s.62).",
+  "hafiza_ipucu": "Edhem kardeşler: İbrahim Edhem Paşa'nın oğulları Osman Hamdi ve Halil Edhem — müzecilik aile mirası.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 62
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-020",
+  "konu": "muzecilik",
+  "alt_konu": "osman-hamdi-bey",
+  "soru": "Halil Edhem Bey döneminde Süleymaniye Külliyesi'nin imaretinde kurulan Evkâf-ı İslamiye Müzesi'nin adı, Cumhuriyet döneminde 1927'de neye çevrilmiştir?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzesi",
+   "B": "Türk İslam Eserleri Müzesi",
+   "C": "Ankara Etnografya Müzesi",
+   "D": "Askerî Müze",
+   "E": "Topkapı Sarayı Müzesi"
+  },
+  "dogru": "B",
+  "cozum": "1913-1914 civarında Süleymaniye İmareti'nde açılan Evkâf-ı İslamiye Müzesi'nin adı 1927'de Türk İslam Eserleri Müzesi olarak değiştirilmiş, 1983'te Sultanahmet'teki İbrahim Paşa Sarayı'na taşınmıştır (s.62).",
+  "hafiza_ipucu": "Evkaf (vakıf) → Türk-İslam mirası; adı değişse de vakıf kökeni hep aynı kalır.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 62
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-021",
+  "konu": "muzecilik",
+  "alt_konu": "cumhuriyet-donemi-muzeciligi",
+  "soru": "Cumhuriyet döneminde inşa edilmiş ilk müze binası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Anadolu Medeniyetleri Müzesi",
+   "B": "Bursa Arkeoloji Müzesi",
+   "C": "İstanbul Resim ve Heykel Müzesi",
+   "D": "Ankara Etnografya Müzesi",
+   "E": "Türk İslam Eserleri Müzesi"
+  },
+  "dogru": "D",
+  "cozum": "Ankara'nın başkent oluşunun ardından Atatürk'ün talimatıyla yeni ulusun kültürünü yansıtacak biçimde tasarlanan Ankara Etnografya Müzesi, Cumhuriyet döneminde inşa edilen ilk müze binasıdır (s.66, 75).",
+  "hafiza_ipucu": "Yeni başkent, yeni müze: Ankara'nın ilk 'öz malı' bina Etnografya Müzesi'dir.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-022",
+  "konu": "muzecilik",
+  "alt_konu": "cumhuriyet-donemi-muzeciligi",
+  "soru": "Ankara Etnografya Müzesi hangi yılda ziyarete açılmıştır?",
+  "siklar": {
+   "A": "1923",
+   "B": "1927",
+   "C": "1930",
+   "D": "1938",
+   "E": "1944"
+  },
+  "dogru": "C",
+  "cozum": "Atatürk'ün 1925 yılındaki talimatının ardından tasarlanan Ankara Etnografya Müzesi 1930 yılında açılmıştır; aynı yıl Türkiye'deki ilk etnografya müzesi olma özelliğini de taşır (s.75, 86).",
+  "hafiza_ipucu": "1930: Cumhuriyet'in ilk on yılında açılan 'öz' müze — 1930'lar Türk Tarih Kurumu (1931) ile aynı çağın ürünü.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 75
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-023",
+  "konu": "muzecilik",
+  "alt_konu": "cumhuriyet-donemi-muzeciligi",
+  "soru": "Ankara'da 1940 yılında Mahmud Paşa Bedesteni'nde \"Hitit Müzesi\" adıyla kurulan ve 1968'de restore edilerek bugünkü adını alan müze aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ankara Etnografya Müzesi",
+   "B": "Anadolu Medeniyetleri Müzesi",
+   "C": "Gordion Müzesi",
+   "D": "Türk Tarih Kurumu Müzesi",
+   "E": "Roma Hamamı Açık Hava Müzesi"
+  },
+  "dogru": "B",
+  "cozum": "1921'de çekirdeği oluşan, 1940'ta Mahmud Paşa Bedesteni'nde Hitit Müzesi adıyla kurulan kurum, 1968'de restore edilerek Anadolu Medeniyetleri Müzesi'ne dönüştürülmüştür (s.68-69).",
+  "hafiza_ipucu": "Hitit'ten Anadolu'ya: müze küçük bir uygarlıktan tüm Anadolu medeniyetlerine 'büyür'.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-024",
+  "konu": "muzecilik",
+  "alt_konu": "cumhuriyet-donemi-muzeciligi",
+  "soru": "Anadolu Medeniyetleri Müzesi hakkında aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Çekirdeği 1921 yılında oluşmuştur.",
+   "B": "1940'ta Mahmud Paşa Bedesteni'nde Hitit Müzesi adıyla kurulmuştur.",
+   "C": "1968'de restore edilerek bugünkü adını almıştır.",
+   "D": "Hitit ve Alacahöyük buluntularını barındırır.",
+   "E": "Türkiye'nin inşa edilmiş ilk Cumhuriyet dönemi müze binasıdır."
+  },
+  "dogru": "E",
+  "cozum": "Cumhuriyet döneminde inşa edilen ilk müze binası, Anadolu Medeniyetleri Müzesi değil Ankara Etnografya Müzesi'dir (1930); Anadolu Medeniyetleri Müzesi zaten var olan Mahmud Paşa Bedesteni'nde kurulmuştur (s.66, 68).",
+  "hafiza_ipucu": "'İlk bina' unvanı Etnografya'ya ait — Bedesteni sonradan devralan Anadolu Medeniyetleri'yle karıştırma.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-025",
+  "konu": "muzecilik",
+  "alt_konu": "cumhuriyet-donemi-muzeciligi",
+  "soru": "Atatürk'ün talimatıyla 1931 yılında kurulan ve tarih, arkeoloji ile müzecilik açısından önemli projeler yürüten, ilk sistemli kazıları gerçekleştiren kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Halkevleri",
+   "B": "Eski Eserler ve Müzeler Genel Müdürlüğü",
+   "C": "Türk Dil Kurumu",
+   "D": "Türk Tarih Kurumu",
+   "E": "Vakıflar Genel Müdürlüğü"
+  },
+  "dogru": "D",
+  "cozum": "Atatürk'ün talimatıyla 1931'de kurulan Türk Tarih Kurumu, Ahlatlıbel, Alacahöyük gibi çok sayıda kazının yapılmasında öncü olmuş ve müzelerde görev alacak bilim insanlarının yetişmesine katkı sağlamıştır (s.67).",
+  "hafiza_ipucu": "1931 Türk Tarih Kurumu = tarih yazan kurum; kazı ve müzecilik projelerinin 'beyni'.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-026",
+  "konu": "muzecilik",
+  "alt_konu": "cumhuriyet-donemi-muzeciligi",
+  "soru": "1944 yılında \"Eski Eserler ve Müzeler Genel Müdürlüğü\" adını alan kurumun üstlendiği görevler arasında aşağıdakilerden hangisi YER ALMAZ?",
+  "siklar": {
+   "A": "Kazı çalışmalarını yürütmek",
+   "B": "Envanter yapmak ve kataloglama",
+   "C": "Bakım, onarım ve teftiş",
+   "D": "Rapor yazma, araştırma ve inceleme",
+   "E": "Müzelere özel sermaye şirketi ortaklığı kurmak"
+  },
+  "dogru": "E",
+  "cozum": "1944'te bu adı alan kurum eserlerin toplanması, korunması, kazı yürütülmesi, bakım-onarım, envanter, kataloglama, rapor yazma, teftiş, araştırma ve inceleme görevlerini üstlenmiştir; şirket ortaklığı kurmak bu görevler arasında sayılmamıştır (s.67).",
+  "hafiza_ipucu": "Genel Müdürlük = devlet organı; kâr amaçlı şirket ortaklığı devlet müzeciliğinin doğasına aykırı.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-027",
+  "konu": "muzecilik",
+  "alt_konu": "cumhuriyet-donemi-muzeciligi",
+  "soru": "1937 yılında Atatürk'ün emriyle Güzel Sanatlar Akademisi'ne bağlı olarak Dolmabahçe Sarayı Veliaht Dairesi'nde kurulan ve Türkiye'nin ilk modern sanat müzesi kabul edilen müze aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İstanbul Modern Sanat Müzesi",
+   "B": "Sadberk Hanım Müzesi",
+   "C": "İstanbul Resim ve Heykel Müzesi",
+   "D": "Anadolu Üniversitesi Çağdaş Sanatlar Müzesi",
+   "E": "Pera Müzesi"
+  },
+  "dogru": "C",
+  "cozum": "1937'de Dolmabahçe Sarayı Veliaht Dairesi'nde kurulan İstanbul Resim ve Heykel Müzesi, Türkiye'nin ilk modern sanat müzesi olarak açılmıştır (s.68). İstanbul Modern ise 2004'te kurulan daha sonraki bir örnektir.",
+  "hafiza_ipucu": "1937 Veliaht Dairesi = resim ve heykelin 'veliahtı'; İstanbul Modern (2004) bu mirasın çok sonraki torunudur.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-028",
+  "konu": "muzecilik",
+  "alt_konu": "cumhuriyet-donemi-muzeciligi",
+  "soru": "Türkiye'de kurulan ilk özel müze olan ve 1980'de İstanbul'da Sadberk Koç'un kişisel koleksiyonuyla açılan müze aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Rahmi M. Koç Müzesi",
+   "B": "Sakıp Sabancı Müzesi",
+   "C": "Koyunoğlu Şehir Müzesi",
+   "D": "Sadberk Hanım Müzesi",
+   "E": "Pera Müzesi"
+  },
+  "dogru": "D",
+  "cozum": "14 Ekim 1980'de İstanbul'da, Vehbi Koç'un eşi Sadberk Koç'un topladığı koleksiyonla açılan Sadberk Hanım Müzesi, Türkiye'nin kurulan ilk özel müzesidir (s.68, 97).",
+  "hafiza_ipucu": "1980 = özel müzecilik çağının başlangıcı; Sadberk 'ilk' olduğu için akılda kalıcı bir ad-yıl eşleşmesi.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-029",
+  "konu": "muzecilik",
+  "alt_konu": "bodrum-sualti-arkeoloji",
+  "soru": "Türkiye'nin ilk sualtı arkeoloji müzesi hangi ilimizdedir?",
+  "siklar": {
+   "A": "İstanbul",
+   "B": "Antalya",
+   "C": "Çanakkale",
+   "D": "İzmir",
+   "E": "Bodrum"
+  },
+  "dogru": "E",
+  "cozum": "Türkiye'nin ilk sualtı arkeoloji müzesi Bodrum'dadır; Bodrum Kalesi (St. Petrus Kalesi) içinde yer alan müze, Uluburun batığı gibi önemli sualtı buluntularını sergiler. Şubat 2025 sınavında iki kez sorulmuştur.",
+  "hafiza_ipucu": "Rehberin F-H-H-B zincirinin son basamağı: '...Bodrum daldı.' — müzecilik denizin dibine iner.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Şub25 ilk sualtı arkeoloji müzesi-Bodrum (×2)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-030",
+  "konu": "muzecilik",
+  "alt_konu": "bodrum-sualti-arkeoloji",
+  "soru": "Bodrum'daki Türkiye'nin ilk sualtı arkeoloji müzesi hangi tarihî yapı içinde konumlandırılmıştır?",
+  "siklar": {
+   "A": "Bodrum Kalesi (St. Petrus Kalesi)",
+   "B": "Halikarnassos Mozolesi",
+   "C": "Myndos Kapısı",
+   "D": "Bodrum Antik Tiyatrosu",
+   "E": "Zephyria Kalesi"
+  },
+  "dogru": "A",
+  "cozum": "Bodrum Sualtı Arkeoloji Müzesi, Bodrum Kalesi (St. Petrus/Aziz Petrus Kalesi) içinde konumlanır; koleksiyonunda Uluburun batığı gibi önemli sualtı buluntuları yer alır. (Kale ayrıntısı ders kitabında değil; tartışmasız genel bilgidir.)",
+  "hafiza_ipucu": "Kale = korumanın simgesi; sualtından çıkan hazineler de bir kalede korunuyor.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Şub25 ilk sualtı arkeoloji müzesi-Bodrum (×2)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-031",
+  "konu": "muzecilik",
+  "alt_konu": "dunya-muzeciligi-mouseion",
+  "soru": "\"Müze\" sözcüğünün köken aldığı, Yunan mitolojisinde \"müzlerin (musaların) yaşadığı/adandığı yer\" anlamına gelen kavram aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Pinakothek",
+   "B": "Thesauros",
+   "C": "Mouseion",
+   "D": "Kunstkammer",
+   "E": "Studiolo"
+  },
+  "dogru": "C",
+  "cozum": "Müze kelimesi, Yunan mitolojisindeki Mouseion'dan gelir; Mouseion, müzlerin (musaların) yaşadığı ya da onlara adanmış yer anlamındadır (s.12).",
+  "hafiza_ipucu": "Mouseion → Museum: müzlerin evi bugünkü 'müze' sözcüğünün doğduğu yerdir.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-032",
+  "konu": "muzecilik",
+  "alt_konu": "dunya-muzeciligi-mouseion",
+  "soru": "Yunan mitolojisinde dokuz kardeş olan ve her biri ayrı bir yaratıcı uğraşı temsil eden esin perileri (müzler/musalar), hangi iki tanrının kızlarıdır?",
+  "siklar": {
+   "A": "Zeus ve Hera",
+   "B": "Zeus ve Mnemosyne",
+   "C": "Apollon ve Athena",
+   "D": "Kronos ve Rhea",
+   "E": "Poseidon ve Demeter"
+  },
+  "dogru": "B",
+  "cozum": "Müzler (Musalar), baş tanrı Zeus ile bellek tanrıçası Mnemosyne'nin dokuz kızıdır; her biri ayrı bir yaratıcı uğraşı temsil eder ve ona esin kaynağı olur (s.12).",
+  "hafiza_ipucu": "Mnemosyne = 'bellek' (mnemonik kelimesiyle aynı kök); müzeler de toplumun belleğidir.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-033",
+  "konu": "muzecilik",
+  "alt_konu": "dunya-muzeciligi-mouseion",
+  "soru": "MÖ 4. yüzyılın ortalarında Mısır'ı yöneten I. Ptolemaios Soter tarafından İskenderiye'de sarayın bir bölümünde kütüphaneyle birlikte kurulan ve müze kavramının en eski öncüllerinden sayılan merkez aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bergama Kütüphanesi",
+   "B": "Atina Akropolü Pinakothek'i",
+   "C": "Roma Forum'u",
+   "D": "İskenderiye Mouseion'u",
+   "E": "Ashmolean Müzesi"
+  },
+  "dogru": "D",
+  "cozum": "I. Ptolemaios Soter, İskenderiye'de sarayının bir bölümünde kütüphaneyle birlikte İskenderiye Mouseion'unu kurmuş; filozof ve bilginlerin toplandığı, geniş kitap koleksiyonu barındıran bu merkez müze kavramının oluşmaya başladığını gösteren en eski örneklerden biri kabul edilir (s.32).",
+  "hafiza_ipucu": "İskenderiye Mouseion'u = 'tüm yeryüzünün sözlerini ve imgelerini bir mekânda biriktirme hayalinin ilk tasarımı'.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 32
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-034",
+  "konu": "muzecilik",
+  "alt_konu": "dunya-muzeciligi-mouseion",
+  "soru": "Antik Yunan döneminde, yazar Pausanias'ın Atina Akropolü'nde varlığından söz ettiği, dönemin ünlü sanatçılarının eserlerinin sergilendiği halka açık resim galerisine ne ad verilir?",
+  "siklar": {
+   "A": "Thesauros",
+   "B": "Pinakothek",
+   "C": "Kunstkammer",
+   "D": "Naturalia",
+   "E": "Bibliotheca"
+  },
+  "dogru": "B",
+  "cozum": "Coğrafyacı Pausanias, Periegesis tes Hellados adlı eserinde Atina Akropolü'nde pinakothek adı verilen, dönemin ünlü sanatçılarının eserlerini barındıran halka açık bir resim galerisinden söz etmiştir (s.32).",
+  "hafiza_ipucu": "Pinakothek = 'pinaks' (tablo) + 'thek' (saklama yeri) — tabloların saklandığı galeri.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 32
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-035",
+  "konu": "muzecilik",
+  "alt_konu": "dunya-muzeciligi-mouseion",
+  "soru": "Antik Yunan döneminde değerli eşyaların, sanatsal objelerin, ganimetlerin ve kutsal eşyaların toplandığı hazine binalarına verilen ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Thesauros",
+   "B": "Pinakothek",
+   "C": "Kunstkammer",
+   "D": "Ekomüze",
+   "E": "Studiolo"
+  },
+  "dogru": "A",
+  "cozum": "Antik Yunan'da değerli eşyaların, sanatsal objelerin ve ganimetlerin toplandığı hazine binalarına thesauros (theasuri) denilmiştir; bu yapılar koleksiyonculuğun en erken maddi izlerindendir (s.32).",
+  "hafiza_ipucu": "Thesauros → 'tezaurus' (hazine/sözlük) kelimesiyle aynı kök: bir 'hazine' deposu.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 32
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-036",
+  "konu": "muzecilik",
+  "alt_konu": "dunya-muzeciligi-british-louvre",
+  "soru": "1753 yılında kurulan, koleksiyoncu Hans Sloane'un mirasının İngiliz ulusuna bırakılmasıyla oluşan ve Ocak 1759'da Londra-Bloomsbury'deki Montagu malikânesinde halka açılan müze aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Louvre Müzesi",
+   "B": "Ashmolean Müzesi",
+   "C": "Hermitage Müzesi",
+   "D": "Uffizi Galerisi",
+   "E": "British Museum"
+  },
+  "dogru": "E",
+  "cozum": "Doktor ve koleksiyoncu Hans Sloane'un koleksiyonunun İngiliz ulusuna bırakılmasıyla 1753'te kurulan British Museum, Ocak 1759'da Montagu malikânesinde halka açılmış; \"ilk halk müzesi\" gibi tanımlamalarla anılmıştır (s.39-40, 83).",
+  "hafiza_ipucu": "1753 kuruluş, 1759 halka açılış — iki farklı tarihi ayırt et: kuruluş önce, kapı açılışı sonra.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 39
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-037",
+  "konu": "muzecilik",
+  "alt_konu": "dunya-muzeciligi-british-louvre",
+  "soru": "British Museum hakkında aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Doktor ve koleksiyoncu Hans Sloane'un koleksiyonuyla temellenmiştir.",
+   "B": "1753 yılında kurulmuştur.",
+   "C": "Yoğun arkeoloji koleksiyonu nedeniyle Arkeoloji Müzeleri kategorisinde de değerlendirilir.",
+   "D": "Fransız Devrimi sonrası halka açılan bir kraliyet koleksiyonudur.",
+   "E": "Richard Payne Knight ve Charles Townley gibi koleksiyonerlerin eserleriyle zenginleşmiştir."
+  },
+  "dogru": "D",
+  "cozum": "Fransız Devrimi sonrası halka açılan kraliyet koleksiyonu Louvre Müzesi'dir (1793); British Museum ise İngiliz koleksiyoncu Hans Sloane'un mirasıyla 1753'te kurulmuş, Fransız Devrimi ile ilgisi yoktur (s.39-40, 83).",
+  "hafiza_ipucu": "British = İngiliz koleksiyoncunun mirası; Louvre = Fransız Devrimi'nin ürünü. İki farklı doğuş hikâyesi.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 40
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-038",
+  "konu": "muzecilik",
+  "alt_konu": "dunya-muzeciligi-british-louvre",
+  "soru": "27 Temmuz 1793'te Paris'te, İmparatorluğa ait sarayın \"yeni düzenin müzesi\" olarak halka açılmasıyla kurulan ve dünyadaki birçok müzenin yapılanmasında örnek alınan müze aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "British Museum",
+   "B": "Hermitage Müzesi",
+   "C": "Louvre Müzesi",
+   "D": "Uffizi Galerisi",
+   "E": "Belvedere Sarayı"
+  },
+  "dogru": "C",
+  "cozum": "27 Temmuz 1793'te Louvre Sarayı, Cumhuriyet'in müzesi olarak Louvre Müzesi (Le Musée du Louvre) adıyla halka açılmıştır; Fransa'da açılan ilk devlet müzesi olarak tanımlanır (s.40).",
+  "hafiza_ipucu": "1793 = Fransız Devrimi'nin dördüncü yılı; kraliyet sarayı artık halkın müzesi.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 40
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-039",
+  "konu": "muzecilik",
+  "alt_konu": "dunya-muzeciligi-british-louvre",
+  "soru": "I. British Museum'un halka açılması (1759)\nII. Louvre Müzesi'nin halka açılması (1793)\nIII. Dünyanın ilk açık hava müzesi Skansen'in açılması (1891)\nYukarıdaki gelişmelerin kronolojik sırası aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "I-II-III",
+   "B": "II-I-III",
+   "C": "III-I-II",
+   "D": "I-III-II",
+   "E": "II-III-I"
+  },
+  "dogru": "A",
+  "cozum": "Kronolojik sıra; British Museum'un halka açılışı (1759), Louvre'un halka açılışı (1793) ve Skansen'in açılışı (1891) şeklindedir (s.39-40, 82).",
+  "hafiza_ipucu": "B-L-S zinciri: British (18.yy ortası) → Louvre (18.yy sonu) → Skansen (19.yy sonu).",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 40
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-040",
+  "konu": "muzecilik",
+  "alt_konu": "muzenin-islevleri",
+  "soru": "17. yüzyılda, modern müzeye giden yolda görülen \"stüdyo\" ve \"kabine (merak kabinesi)\" mekânlarının, 16. yüzyıldan itibaren yerini alarak modern sergilemeye daha çok yaklaşan ve ilk kez Floransa'da Galleria degli Uffizi'de uygulanan mekân türü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Galeri",
+   "B": "Pinakothek",
+   "C": "Ekomüze",
+   "D": "Planetaryum",
+   "E": "Thesauros"
+  },
+  "dogru": "A",
+  "cozum": "Ziyaretçilere daha rahat dolaşım sağlayan, ışığın etkisini dikkate alan galeri modeli ilk kez 16. yüzyılda Floransa'da Galleria degli Uffizi'de uygulanmış ve modern müzeye bir adım daha yaklaşılmıştır (s.13-14).",
+  "hafiza_ipucu": "Evrim sırası: stüdyo → merak kabinesi → galeri → modern müze. Galeri, kabineden sonraki adımdır.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-041",
+  "konu": "muzecilik",
+  "alt_konu": "muzenin-islevleri",
+  "soru": "I. Stüdyo\nII. Merak kabinesi (kabine)\nIII. Galeri\nModern müzeye giden yolda birer basamak olan yukarıdaki mekân türlerinin tarihsel ortaya çıkış sırası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "I-II-III",
+   "B": "II-I-III",
+   "C": "III-II-I",
+   "D": "II-III-I",
+   "E": "I-III-II"
+  },
+  "dogru": "A",
+  "cozum": "Metne göre önce stüdyolar (15.-16. yy Fransa), ardından merak kabineleri, sonra da 16. yüzyıldan itibaren modern sergilemeye yaklaşan galeriler ortaya çıkmıştır; bu üçü \"müze\"nin tarihi evrelerini oluşturan basamaklardır (s.13-16).",
+  "hafiza_ipucu": "S-K-G zinciri: Stüdyo (özel çalışma odası) → Kabine (raflı dolap) → Galeri (halka açık düzen).",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 16
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-042",
+  "konu": "muzecilik",
+  "alt_konu": "muzenin-islevleri",
+  "soru": "19. yüzyılın geleneksel (klasik) müzecilik anlayışında müzenin işlevleri arasında aşağıdakilerden hangisi YER ALMAZ?",
+  "siklar": {
+   "A": "Toplama",
+   "B": "Koruma",
+   "C": "Sergileme",
+   "D": "Belgeleme",
+   "E": "İletişim"
+  },
+  "dogru": "E",
+  "cozum": "19. yüzyıl geleneksel müzecilik anlayışında müzenin işlevleri toplama, koruma, belgeleme, depolama ve sergilemedir; iletişim ise 21. yüzyılda koruma ve araştırmayla birlikte öne çıkan bir işlevdir (s.19).",
+  "hafiza_ipucu": "19.yy: T-K-B-D-S (toplama-koruma-belgeleme-depolama-sergileme); 21.yy: koruma-araştırma-iletişim — iki farklı liste, karıştırma.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 19
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-043",
+  "konu": "muzecilik",
+  "alt_konu": "muzenin-islevleri",
+  "soru": "Günümüz (21. yüzyıl) müzecilik anlayışında müzenin işlevleri kaç temel alanda toplanmıştır?",
+  "siklar": {
+   "A": "İki (koruma-sergileme)",
+   "B": "Üç (koruma-araştırma-iletişim)",
+   "C": "Dört (toplama-koruma-belgeleme-sergileme)",
+   "D": "Beş (toplama-koruma-belgeleme-depolama-sergileme)",
+   "E": "Altı (toplama-koruma-belgeleme-depolama-sergileme-eğitim)"
+  },
+  "dogru": "B",
+  "cozum": "20. yüzyılda geleneksel işlevlere eğitim eklenmiş, 21. yüzyılda ise müzelerin işlevleri koruma, araştırma ve iletişim olmak üzere üç temel alanda toplanmıştır (s.19).",
+  "hafiza_ipucu": "K-A-İ: Koruma-Araştırma-İletişim — 21. yüzyılın kısaltması, önceki beşliden sadeleşmiş hâl.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 19
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-044",
+  "konu": "muzecilik",
+  "alt_konu": "muzenin-islevleri",
+  "soru": "Koleksiyon nesnelerinin yazılı ve görsel yöntemlerle kayda geçirilmesini, belirli bir sistematik içinde sınıflandırılmasını ve bu malzemenin dökümünü oluşturan envanterin hazırlanmasını kapsayan müze işlevine ne ad verilir?",
+  "siklar": {
+   "A": "Koruma",
+   "B": "Belgeleme",
+   "C": "Restorasyon",
+   "D": "Pazarlama",
+   "E": "Sergileme"
+  },
+  "dogru": "B",
+  "cozum": "Belgeleme; koleksiyon nesnelerinin yazılı-görsel yöntemlerle kayda geçirilmesi, sınıflandırılması ve envanterin hazırlanması sürecini kapsayan, koruma ve araştırmadan ayrı düşünülemeyecek temel bir müze işlevidir (s.20).",
+  "hafiza_ipucu": "Belgeleme = 'belge'nin fiil hâli; envanter bu işlevin somut ürünüdür.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-045",
+  "konu": "muzecilik",
+  "alt_konu": "muzenin-islevleri",
+  "soru": "Bozulmuş ya da hasar görmüş müze nesnelerinin kapsamlı bir araştırma ve değerlendirme sonucu aslına uygun şekilde yeniden yapılmasına veya eksik kısımlarının tamamlanmasına verilen ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Restorasyon",
+   "B": "Restitüsyon",
+   "C": "Envanter",
+   "D": "Konservasyon",
+   "E": "Kataloglama"
+  },
+  "dogru": "B",
+  "cozum": "Bozulmuş nesnelerin iyileştirilmesine yönelik müdahalelere onarım/restorasyon; nesnelerin aslına uygun biçimde yeniden yapılması ya da eksik kısımların tamamlanmasına ise restitüsyon adı verilir (s.20).",
+  "hafiza_ipucu": "Restorasyon = onarmak (var olanı iyileştir); restitüsyon = 'yeniden inşa etmek' (eksiği tamamla/geri kur).",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-046",
+  "konu": "muzecilik",
+  "alt_konu": "cagdas-muze-turleri",
+  "soru": "Dünyanın ilk açık hava müzesi olarak kabul edilen, 1891'de İsveç Stockholm'de açılan ve geleneksel Norveç/İsveç kırsal yaşamını gerçek ölçekte canlandıran müze aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Skansen",
+   "B": "Nordiska Museet",
+   "C": "Ashmolean Müzesi",
+   "D": "Louvre Müzesi",
+   "E": "Hermitage Müzesi"
+  },
+  "dogru": "A",
+  "cozum": "1891'de Stockholm'de açılan Skansen, dünyanın ilk açık hava müzesi olarak bilinir; kırsal yaşamı ve kültürü, taşınmış evlerden oluşan bir köy düzeninde canlandırır (s.82-83, 98, 103).",
+  "hafiza_ipucu": "Skansen = 'tepe' anlamına gelir; kırsal köy tüm haşmetiyle bir tepede canlandırılmış.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-047",
+  "konu": "muzecilik",
+  "alt_konu": "cagdas-muze-turleri",
+  "soru": "I. Bergama\nII. Göreme\nIII. Zelve\nIV. Alacahöyük\nYukarıdaki yerleşimlerden hangileri Türkiye'de çok sayıda antik kentin açık hava müzesi olarak açılmasına örnek gösterilebilir?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve IV",
+   "C": "I, II ve IV",
+   "D": "II ve III",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "E",
+  "cozum": "Metinde Bergama, Efes, Aspendos, Karatepe, Afrodisias, Göreme ve Alacahöyük açık hava müzesi örnekleri arasında sayılır (s.66); Zelve de Kapadokya'daki resmî açık hava müzelerindendir (kitapta geçmez; tartışmasız genel bilgidir).",
+  "hafiza_ipucu": "Kapadokya ikilisi Göreme+Zelve; Anadolu'nun 'açık hava' ailesine Bergama-Alacahöyük de katılır.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-048",
+  "konu": "muzecilik",
+  "alt_konu": "cagdas-muze-turleri",
+  "soru": "Görüntü aktarma teknikleri ve iletişim teknolojileri yardımıyla gerçek bir müzenin koleksiyonunun internet ve bilgisayar ortamına dijital olarak taşınmış hâline ne ad verilir?",
+  "siklar": {
+   "A": "Ekomüze",
+   "B": "Ekonomüze",
+   "C": "Sanal Müze",
+   "D": "Açık Hava Müzesi",
+   "E": "Anıt Müze"
+  },
+  "dogru": "C",
+  "cozum": "Sanal Müze, gerçek müzenin koleksiyonuna ait dijital imge, ses ve metinlerin internet/bilgisayar ortamına taşınmış hâlidir; fiziksel şartlara bağlı olmadığından sınırsız arşiv ve sergi mekânına sahiptir (s.100).",
+  "hafiza_ipucu": "Sanal = fiziksel duvar yok; ekranın arkasındaki 'hayalet' müze.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 100
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-049",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Sidon (Sayda) kazılarından İstanbul'a getirilen ve İskender'in adını taşıyan ünlü lahit bugün hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Antalya Müzesi",
+   "B": "İstanbul Arkeoloji Müzeleri",
+   "C": "Anadolu Medeniyetleri Müzesi",
+   "D": "Bodrum Sualtı Arkeoloji Müzesi",
+   "E": "Efes Müzesi"
+  },
+  "dogru": "B",
+  "cozum": "İskender Lahdi, Sidon kazılarından çıkarılan 26 lahitten biridir ve bugünkü İstanbul Arkeoloji Müzeleri'nin (o dönemki adıyla Lahitler Müzesi) en tanınmış eseridir.",
+  "hafiza_ipucu": "Lahit İstanbul'da kalır, mozaik (İssos) Napoli'ye gider — ikisini birbirine karıştırma.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "Ağu25 S.48 (Osman Hamdi-İskender Lahdi bağlantısı), aynı eser farklı açı",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-050",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "I. İskender Lahdi\nII. Ağlayan Kadınlar Lahdi\nIII. Satrap Lahdi\nIV. Sayda Kralı Tabnit'in Lahdi\nV. Yorgun Herakles Heykeli\nYukarıdakilerden hangileri Sidon (Sayda) kazılarından çıkarılıp İstanbul Arkeoloji Müzeleri'ne getirilen lahitler arasındadır?",
+  "siklar": {
+   "A": "I ve II",
+   "B": "I, II ve III",
+   "C": "II, III ve IV",
+   "D": "I, II, III ve IV",
+   "E": "I, II, III, IV ve V"
+  },
+  "dogru": "D",
+  "cozum": "Sidon kazılarından çıkarılan 26 lahit arasında İskender Lahdi, Ağlayan Kadınlar Lahdi, Satrap Lahdi ve Tabnit'in Lahdi sayılır; Yorgun Herakles ise Antalya Müzesi'nde sergilenen ayrı bir heykeldir, Sidon lahitlerinden değildir.",
+  "hafiza_ipucu": "26 lahitlik aile fotoğrafında Herakles yok, o Antalya'da yorgun oturuyor.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-051",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Hititler ile Mısırlılar arasında imzalanan, tarihin bilinen ilk yazılı barış antlaşması kabul edilen Kadeş Antlaşması'nın orijinal tableti bugün hangi müzededir?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzesi",
+   "B": "Kahire Müzesi",
+   "C": "British Museum",
+   "D": "Louvre Müzesi",
+   "E": "Berlin Pergamon Müzesi"
+  },
+  "dogru": "A",
+  "cozum": "Kadeş Antlaşması'nın orijinal çivi yazılı tableti İstanbul Arkeoloji Müzesi'nde sergilenmektedir; bir kopyası New York'ta Birleşmiş Milletler binasındadır.",
+  "hafiza_ipucu": "İlk barış, iki kıtalı şehirde saklanır: Kadeş'in barışı İstanbul'da.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "Ağu25 S.45 (birebir)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-052",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Aşağıdaki eser-müze eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Yorgun Herakles - Antalya Müzesi",
+   "B": "Çingene Kızı Mozaiği - Gaziantep Zeugma Mozaik Müzesi",
+   "C": "Kadeş Antlaşması orijinal tableti - İstanbul Arkeoloji Müzesi",
+   "D": "Kral Şuppiluliuma Heykeli - Hatay Arkeoloji Müzesi",
+   "E": "İskender Lahdi - Anadolu Medeniyetleri Müzesi"
+  },
+  "dogru": "E",
+  "cozum": "İskender Lahdi, Anadolu Medeniyetleri Müzesi'nde değil İstanbul Arkeoloji Müzeleri'nde sergilenmektedir; diğer dört eşleştirme doğrudur.",
+  "hafiza_ipucu": "Anadolu Medeniyetleri = Hititlerin ve Alacahöyük'ün evi, lahitlerin değil.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-053",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Yorgun Herakles heykeli bugün hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Bodrum Sualtı Arkeoloji Müzesi",
+   "B": "Gaziantep Zeugma Mozaik Müzesi",
+   "C": "Antalya Müzesi",
+   "D": "Hatay Arkeoloji Müzesi",
+   "E": "Uşak Müzesi"
+  },
+  "dogru": "C",
+  "cozum": "Yorgun Herakles heykeli, Perge kazılarından çıkarılıp Antalya Müzesi'nde sergilenmektedir.",
+  "hafiza_ipucu": "Herakles yorgun, Antalya'da güneşleniyor.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 S.11 ve S.50 (iki kez sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-054",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Zeugma Antik Kenti'nden çıkarılan yaklaşık iki bin yıllık mozaikler, villalar, duvar resimleri ve çeşmelerin sergilendiği; 2011 yılında eski bir Tekel Fabrikası binasında açılan ve dünyanın en büyük mozaik müzesi kabul edilen müze aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Antalya Müzesi",
+   "B": "Gaziantep Zeugma Mozaik Müzesi",
+   "C": "Hatay Arkeoloji Müzesi",
+   "D": "Şanlıurfa Müzesi",
+   "E": "Adana Müzesi"
+  },
+  "dogru": "B",
+  "cozum": "Gaziantep-Nizip'teki Zeugma Antik Kenti'nden çıkarılan buluntular, 2011'de açılan Zeugma Mozaik Müzesi'nde sergilenir; müze dünyanın en büyük mozaik müzesi kabul edilir.",
+  "hafiza_ipucu": "Tekel Fabrikası artık mozaik fabrikası: Zeugma-Gaziantep.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 74
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-055",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Ünlü 'Çingene Kızı' mozaiği hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Antalya Müzesi",
+   "B": "Şanlıurfa Müzesi",
+   "C": "Hatay Arkeoloji Müzesi",
+   "D": "Gaziantep Zeugma Mozaik Müzesi",
+   "E": "Adıyaman Müzesi"
+  },
+  "dogru": "D",
+  "cozum": "Çingene Kızı mozaiği, Zeugma Antik Kenti'nden çıkarılmış olup Gaziantep Zeugma Mozaik Müzesi'nin en tanınan eseridir.",
+  "hafiza_ipucu": "Kız Gaziantep'in fıstık bakışlı simgesi oldu.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 15
+  },
+  "akraba_cikmis_soru": "Ağu25 S.57 (birebir)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-056",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Karun (Lidya) hazinesine ait, som altından yapılmış ve 2013 yılında Türkiye'ye iadesi sağlanan 'Kanatlı Denizatı Broşu' bugün hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Uşak Müzesi",
+   "B": "Bergama Müzesi",
+   "C": "Mardin Müzesi",
+   "D": "Akhisar Müzesi",
+   "E": "Bursa Arkeoloji Müzesi"
+  },
+  "dogru": "A",
+  "cozum": "Kanatlı Denizatı Broşu, Karun (Lidya) hazinesinin parçasıdır; yasa dışı yollarla yurt dışına çıkarılmış, 2013'te Türkiye'ye iade edilerek Uşak Müzesi'nde sergilenmeye başlanmıştır.",
+  "hafiza_ipucu": "Karun kadar zengin Uşak'ın vitrininde bir denizatı yüzüyor.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 7
+  },
+  "akraba_cikmis_soru": "Mar26 S.63 (birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-057",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Kanatlı Denizatı Broşu ile ilgili aşağıdakilerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Karun (Lidya) hazinesinin bir parçasıdır",
+   "B": "Som altından yapılmıştır",
+   "C": "Yasa dışı yollarla yurt dışına çıkarılmıştır",
+   "D": "2013 yılında Türkiye'ye iade edilmiştir",
+   "E": "Bugün Manisa Müzesi'nde sergilenmektedir"
+  },
+  "dogru": "E",
+  "cozum": "Broş, iadesinden sonra Manisa'da değil Uşak Müzesi'nde sergilenmeye başlanmıştır; diğer bilgiler doğrudur.",
+  "hafiza_ipucu": "Manisa değil, U harfini hatırla: Uşak.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 7
+  },
+  "akraba_cikmis_soru": "Mar26 S.63 üzerine üretilmiş negatif soru",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-058",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Bazalt taşından yapılmış, etkileyici göz betimlemesiyle bilinen Geç Hitit Krallığı Dönemi'ne ait 'Kral Şuppiluliuma Heykeli' hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Kayseri Arkeoloji Müzesi",
+   "B": "Mersin Arkeoloji Müzesi",
+   "C": "Hatay Arkeoloji Müzesi",
+   "D": "Anadolu Medeniyetleri Müzesi",
+   "E": "Gordion Müzesi"
+  },
+  "dogru": "C",
+  "cozum": "Kral Şuppiluliuma Heykeli, Geç Hitit dönemine ait bazalt bir eser olup Hatay Arkeoloji Müzesi'nde sergilenmektedir.",
+  "hafiza_ipucu": "Bazalt kral, künefenin başkentinde gözlerini dikmiş bakıyor: Hatay.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 2
+  },
+  "akraba_cikmis_soru": "Mar26 S.17 (birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-059",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Göğsünün altında bereket ve doğurganlıkla yorumlanabilen yumrular, başında tapınak formunda üç katlı yüksek polos bulunan ve 'Büyük Artemis' olarak da bilinen heykel hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Aydın Arkeoloji Müzesi",
+   "B": "Efes Müzesi",
+   "C": "Alacahöyük Müzesi",
+   "D": "Afyonkarahisar Müzesi",
+   "E": "Ordu Müzesi"
+  },
+  "dogru": "B",
+  "cozum": "Büyük Artemis heykeli, Selçuk/İzmir'deki Efes Müzesi'nde sergilenmektedir.",
+  "hafiza_ipucu": "Tanrıça evinin dibinden ayrılmadı: tapınağı Efes'te, heykeli Efes Müzesi'nde.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Mar26 S.4 (birebir)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-060",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Aşağıdakilerden hangisi, dünyanın bilinen ilk yazılı barış antlaşması kabul edilen ve orijinal tableti İstanbul Arkeoloji Müzesi'nde sergilenen antlaşmayı imzalayan uygarlıklardan biridir?",
+  "siklar": {
+   "A": "Lidyalılar",
+   "B": "Persler",
+   "C": "Asurlular",
+   "D": "Hititler",
+   "E": "Romalılar"
+  },
+  "dogru": "D",
+  "cozum": "Kadeş Antlaşması, Hititler ile Mısırlılar arasında imzalanmıştır; orijinal tableti İstanbul Arkeoloji Müzesi'ndedir.",
+  "hafiza_ipucu": "Kadeş'te iki taraf: Hitit ve Mısır, tablet ise İstanbul'da.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 S.1 + Ağu25 S.45",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-061",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Odeon yapısının orkestra bölümünde 'opus sectile' tekniğiyle yapılmış, yaklaşık 2.000 yıllık ve bulunduğu yerde (in-situ) korunan Medusa mozaiği aşağıdaki antik kentlerin hangisindedir?",
+  "siklar": {
+   "A": "Kibyra",
+   "B": "Ephesus",
+   "C": "Hierapolis",
+   "D": "Aizanoi",
+   "E": "Bergama"
+  },
+  "dogru": "A",
+  "cozum": "Medusa mozaiği, Kibyra antik kentindeki Odeon'da yerinde korunmaktadır; bir müzeye taşınmamıştır.",
+  "hafiza_ipucu": "Medusa'nın bakışı taşlaştırır, o yüzden Kibyra'dan kıpırdamaz.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 11
+  },
+  "akraba_cikmis_soru": "Mar26 S.100 (birebir)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-062",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "I. Yorgun Herakles - Antalya Müzesi\nII. Çingene Kızı - Gaziantep Zeugma Mozaik Müzesi\nIII. Büyük Artemis - Bodrum Sualtı Arkeoloji Müzesi\nIV. Kral Şuppiluliuma Heykeli - Hatay Arkeoloji Müzesi\nV. Kanatlı Denizatı Broşu - Uşak Müzesi\nYukarıdaki eser-müze eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "II, III ve IV",
+   "C": "I, III, IV ve V",
+   "D": "I, III ve V",
+   "E": "I, II, IV ve V"
+  },
+  "dogru": "E",
+  "cozum": "III yanlıştır; Büyük Artemis heykeli Efes Müzesi'nde sergilenir, Bodrum'da değil. Diğer dört eşleştirme doğrudur.",
+  "hafiza_ipucu": "Bodrum'un işi denizdir, tanrıçayla değil.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 7
+  },
+  "akraba_cikmis_soru": "Mar26 + Ağu25 + Mar26 (derleme)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-063",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Hitit güneş kursları ve Alacahöyük buluntularının önemli bir bölümü hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzesi",
+   "B": "Hatay Arkeoloji Müzesi",
+   "C": "Anadolu Medeniyetleri Müzesi",
+   "D": "Antalya Müzesi",
+   "E": "Bodrum Sualtı Arkeoloji Müzesi"
+  },
+  "dogru": "C",
+  "cozum": "Ankara'daki Anadolu Medeniyetleri Müzesi, Hitit güneş kursları ve Alacahöyük buluntularının sergilendiği ana müzedir.",
+  "hafiza_ipucu": "Güneş Ankara'da doğar: kurslar Anadolu Medeniyetleri'nde.",
+  "kaynak": {
+   "dosya": "rehber/04-muzecilik.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-064",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Anadolu Medeniyetleri Müzesi ile ilgili aşağıdakilerden hangisi söylenemez?",
+  "siklar": {
+   "A": "Ankara'dadır",
+   "B": "Sualtı arkeolojisi buluntularının ana sergileme müzesidir",
+   "C": "Hitit güneş kursları burada sergilenir",
+   "D": "Alacahöyük buluntularının önemli bir kısmını barındırır",
+   "E": "Anadolu uygarlıklarının kronolojik sergilemesiyle bilinir"
+  },
+  "dogru": "B",
+  "cozum": "Sualtı arkeolojisi buluntularının (ör. Uluburun batığı) ana müzesi Bodrum Sualtı Arkeoloji Müzesi'dir, Anadolu Medeniyetleri Müzesi değil.",
+  "hafiza_ipucu": "Ankara'da deniz yok, sualtı işini Bodrum yapar.",
+  "kaynak": {
+   "dosya": "rehber/04-muzecilik.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-065",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Türkiye'nin ilk sualtı arkeoloji müzesi olan ve Uluburun batığından çıkarılan buluntuların da sergilendiği müze hangi ildedir?",
+  "siklar": {
+   "A": "Antalya",
+   "B": "İzmir",
+   "C": "Çanakkale",
+   "D": "Muğla (Bodrum)",
+   "E": "Mersin"
+  },
+  "dogru": "D",
+  "cozum": "Bodrum Kalesi'nde kurulan müze, Türkiye'nin ilk sualtı arkeoloji müzesidir ve Uluburun batığı buluntularını sergiler.",
+  "hafiza_ipucu": "Bodrum daldı, batıktan çıkardı.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 S.47 ve S.49 (iki kez sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-066",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtici",
+  "soru": "Uluburun batığı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Geç Tunç Çağı'na tarihlenen bir ticaret gemisi batığıdır ve buluntuları Bodrum Sualtı Arkeoloji Müzesi'nde sergilenir",
+   "B": "Roma dönemine ait bir savaş gemisidir, buluntuları İstanbul Arkeoloji Müzesi'ndedir",
+   "C": "Osmanlı dönemine ait bir ticaret gemisidir",
+   "D": "Buluntuları Antalya Müzesi'nde sergilenmektedir",
+   "E": "Buluntuları yurt dışında sergilenmektedir"
+  },
+  "dogru": "A",
+  "cozum": "Uluburun batığı, Geç Tunç Çağı'na tarihlenen, dönemin uluslararası deniz ticaretinin önemli bir kanıtıdır; buluntuları Bodrum Sualtı Arkeoloji Müzesi'nde sergilenir.",
+  "hafiza_ipucu": "Tunç Çağı'nın kargo gemisi Bodrum'da demirledi.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_Ağustos 2018_Anadolu Üni.pdf",
+   "sayfa": 16
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-067",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "Bergama'daki Zeus Altarı bugün hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Louvre Müzesi",
+   "B": "British Museum",
+   "C": "Vatikan Müzesi",
+   "D": "Metropolitan Müzesi",
+   "E": "Berlin Pergamon Müzesi"
+  },
+  "dogru": "E",
+  "cozum": "Zeus Altarı, 19. yüzyılda Bergama'dan Almanya'ya götürülmüş ve bugün Berlin Pergamon Müzesi'nde sergilenmektedir; bu, Bergama'dan çıkarılan eserlerin Berlin'e gitmesi genel örüntüsüne uyar.",
+  "hafiza_ipucu": "Bergama'dan çıkan eser Berlin'e gider.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 S.24 ve S.60 (iki kez sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-068",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "Zeus Altarı'nın frizinde tasvir edilen, Olympos tanrıları ile devler (Gigantlar) arasındaki mitolojik savaşın adı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Titanomakhia",
+   "B": "Troya Savaşı",
+   "C": "Gigantomakhia",
+   "D": "Pers Savaşları",
+   "E": "Amazonomakhia"
+  },
+  "dogru": "C",
+  "cozum": "Zeus Altarı frizinde tanrılarla devler arasındaki savaş olan Gigantomakhia betimlenmiştir.",
+  "hafiza_ipucu": "Devlere (Gigant) karşı savaş: Gigantomakhia.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 S.52 (birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-069",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "Türkiye'den kaçırılan Milet Agora Kapısı bugün hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzesi",
+   "B": "Berlin Pergamon Müzesi",
+   "C": "Louvre Müzesi",
+   "D": "Metropolitan Müzesi",
+   "E": "British Museum"
+  },
+  "dogru": "B",
+  "cozum": "Milet Agora Kapısı, Zeus Altarı gibi Berlin Pergamon Müzesi'nde sergilenmektedir.",
+  "hafiza_ipucu": "Bergama'nın sunağıyla Milet'in kapısı Berlin'de komşu oldu.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "Ağu25 S.46 (birebir)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-070",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "I. Zeus Altarı\nII. Milet Agora Kapısı\nIII. Nereidler Anıtı\nIV. İssos Savaşı Mozaiği\nV. Parthlar Anıtı\nYukarıdaki eserlerden hangileri bugün Berlin Pergamon Müzesi'nde sergilenmektedir?",
+  "siklar": {
+   "A": "I ve III",
+   "B": "I, II ve III",
+   "C": "III ve V",
+   "D": "I ve II",
+   "E": "II, IV ve V"
+  },
+  "dogru": "D",
+  "cozum": "Zeus Altarı ve Milet Agora Kapısı Berlin Pergamon Müzesi'nde; Nereidler Anıtı Londra'da, İssos Mozaiği Napoli'de, Parthlar Anıtı ise Viyana'dadır.",
+  "hafiza_ipucu": "Berlin'de iki komşu: Altar ve Kapı.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-071",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "Ksantos'tan (Likya) kaçırılan Nereidler Anıtı bugün hangi ülkede sergilenmektedir?",
+  "siklar": {
+   "A": "İngiltere",
+   "B": "Almanya",
+   "C": "Fransa",
+   "D": "İtalya",
+   "E": "Rusya"
+  },
+  "dogru": "A",
+  "cozum": "Nereidler Anıtı, Likya'daki Ksantos antik kentinden çıkarılmış olup bugün Londra'da British Museum'da sergilenmektedir.",
+  "hafiza_ipucu": "Deniz perileri (Nereidler) Londra'nın sisine kondu.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 S.9/S.90 + Mar26 S.47",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-072",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "Nereidler Anıtı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Likya bölgesindeki Ksantos antik kentinden çıkarılmıştır",
+   "B": "Bugün British Museum'da sergilenmektedir",
+   "C": "Adını, deniz perileri Nereidlerin heykellerinden alır",
+   "D": "Anadolu'dan yurt dışına kaçırılan önemli eserlerden biridir",
+   "E": "Bugün Berlin Pergamon Müzesi'nde sergilenmektedir"
+  },
+  "dogru": "E",
+  "cozum": "Nereidler Anıtı Berlin'de değil, Londra'da British Museum'dadır; Berlin Pergamon Müzesi'nde Zeus Altarı ve Milet Agora Kapısı sergilenir.",
+  "hafiza_ipucu": "Berlin'i Zeus ve Kapı paylaşıyor, Nereidler'e yer yok.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "Mar26 S.47 üzerine üretilmiş negatif soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-073",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "Büyük İskender'in Pers Kralı III. Darius'a karşı kazandığı savaşı betimleyen ünlü mozaik bugün hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzesi",
+   "B": "British Museum",
+   "C": "Napoli Ulusal Arkeoloji Müzesi",
+   "D": "Berlin Pergamon Müzesi",
+   "E": "Louvre Müzesi"
+  },
+  "dogru": "C",
+  "cozum": "İssos Savaşı Mozaiği bugün İtalya'da Napoli Ulusal Arkeoloji Müzesi'nde sergilenmektedir.",
+  "hafiza_ipucu": "İskender'in savaşı pizzacıda: Napoli'nin duvarında İssos.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 S.13 ve S.53 (iki kez sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-074",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "Büyük İskender'in Pers Kralı III. Darius'a karşı kazandığı savaşı betimleyen ve bugün Napoli Ulusal Arkeoloji Müzesi'nde sergilenen ünlü mozaiğin adı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Medusa Mozaiği",
+   "B": "İssos Savaşı Mozaiği",
+   "C": "Çingene Kızı Mozaiği",
+   "D": "Amazonlar Mozaiği",
+   "E": "Orpheus Mozaiği"
+  },
+  "dogru": "B",
+  "cozum": "Sözü edilen mozaik İssos Savaşı Mozaiği'dir.",
+  "hafiza_ipucu": "İskender'in İssos zaferi mozaikte ölümsüzleşti.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 S.13/S.53",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-075",
+  "konu": "muzecilik",
+  "alt_konu": "kacakcilik-iade-genel",
+  "soru": "Heinrich Schliemann'ın Troia kazılarında bulduğu ve 'Priamos'un Hazinesi' olarak adlandırılan hazine, günümüzde ağırlıklı olarak hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "British Museum",
+   "B": "Louvre Müzesi",
+   "C": "Berlin Pergamon Müzesi",
+   "D": "Puşkin Müzesi (Moskova)",
+   "E": "Napoli Ulusal Arkeoloji Müzesi"
+  },
+  "dogru": "D",
+  "cozum": "Hazine, uzun süre kayıp kaldıktan sonra Rusya'da Puşkin Müzesi'nde ortaya çıkmıştır; küçük bir bölümü İstanbul Arkeoloji Müzesi'nde sergilenmektedir.",
+  "hafiza_ipucu": "Priamos'un hazinesi kayboldu, Rusya'da Puşkin'de bulundu.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "Ağu25 S.83 (Priamos Hazinesi'nin Troya'da bulunuşu)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-076",
+  "konu": "muzecilik",
+  "alt_konu": "kacakcilik-iade-genel",
+  "soru": "Priamos'un Hazinesi ile ilgili aşağıdakilerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Hazinenin tamamı bugün İstanbul Arkeoloji Müzesi'nde sergilenmektedir",
+   "B": "Heinrich Schliemann tarafından Troia II tabakasında bulunmuştur",
+   "C": "Uzmanlar sonradan bu hazinenin gerçekte Priamos'a ait olmadığı görüşüne varmıştır",
+   "D": "Hazine, bulunduktan sonra yurt dışına kaçırılmıştır",
+   "E": "Hazinenin büyük bölümü bugün Rusya'daki Puşkin Müzesi'ndedir"
+  },
+  "dogru": "A",
+  "cozum": "Hazinenin tamamı değil, yalnızca bir bölümü İstanbul Arkeoloji Müzesi'nde sergilenmektedir; büyük bölümü Puşkin Müzesi'ndedir.",
+  "hafiza_ipucu": "Hazine ikiye bölündü: küçük parça İstanbul'da, büyük parça Moskova'da.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-077",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "Efes'te bulunan, üzerinde Roma İmparatoru Lucius Verus'un Partlara karşı zaferinin (Fırat/Euphrates Irmağı'nı aşışının) kabartma olarak tasvir edildiği ve bugün Viyana'da sergilenen anıt aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Zeus Altarı",
+   "B": "Nereidler Anıtı",
+   "C": "Milet Agora Kapısı",
+   "D": "İssos Mozaiği",
+   "E": "Parthlar Anıtı"
+  },
+  "dogru": "E",
+  "cozum": "Efes'te bulunan Parthlar Anıtı, Roma İmparatoru Lucius Verus'un Partlara karşı zaferini konu alan kabartmalarıyla bugün Viyana'da sergilenmektedir.",
+  "hafiza_ipucu": "Efes'in gövdesi kalır, Partlara karşı zafer anıtı Viyana'ya gider.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 220
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-078",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-yurtdisi",
+  "soru": "I. Zeus Altarı - Berlin\nII. Nereidler Anıtı - İngiltere\nIII. İssos Mozaiği - Napoli\nIV. Priamos Hazinesi (ağırlıklı) - Moskova\nV. Parthlar Anıtı - Viyana\nYukarıdaki eser-bulunduğu (bugünkü) yer eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "I ve II",
+   "B": "I, II ve III",
+   "C": "I, II, III, IV ve V",
+   "D": "II, III ve V",
+   "E": "I, III ve IV"
+  },
+  "dogru": "C",
+  "cozum": "Beş eşleştirmenin tamamı doğrudur; her biri Anadolu'dan yurt dışına kaçırılıp bugün farklı Avrupa müzelerinde sergilenen eserlerdir.",
+  "hafiza_ipucu": "Beş eser, beş başkent: hepsini sırayla ezberle.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "derleme (Şub25+Ağu25+Mar26+Anadolu Arkeolojisi)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-079",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-ozel",
+  "soru": "Ankara Şehit Cuma Dağ Tabiat Tarihi Müzesi hangi kurum bünyesinde hizmet vermektedir?",
+  "siklar": {
+   "A": "Gençlik Hizmetleri Genel Müdürlüğü",
+   "B": "Maden Tetkik ve Arama Genel Müdürlüğü",
+   "C": "Spor Hizmetleri Genel Müdürlüğü",
+   "D": "Orman Genel Müdürlüğü",
+   "E": "Eti Maden İşletmeleri Genel Müdürlüğü"
+  },
+  "dogru": "B",
+  "cozum": "Müze, Kültür ve Turizm Bakanlığı'na değil MTA (Maden Tetkik ve Arama) Genel Müdürlüğü'ne bağlıdır.",
+  "hafiza_ipucu": "Fosiller madenciye emanet: tabiatın tarihi yerin altında, yerin altı MTA'nın işi.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "Mar26 S.54 (birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-080",
+  "konu": "muzecilik",
+  "alt_konu": "eser-muze-ozel",
+  "soru": "Ankara Şehit Cuma Dağ Tabiat Tarihi Müzesi ile ilgili aşağıdakilerden hangisi söylenemez?",
+  "siklar": {
+   "A": "MTA (Maden Tetkik ve Arama) Genel Müdürlüğü bünyesindedir",
+   "B": "Ankara'dadır",
+   "C": "Fosil ve doğa tarihi koleksiyonlarına sahiptir",
+   "D": "Kültür ve Turizm Bakanlığı'na bağlı bir devlet müzesidir",
+   "E": "Adında 'tabiat tarihi' vurgusu bulunur"
+  },
+  "dogru": "D",
+  "cozum": "Müze, Kültür ve Turizm Bakanlığı'na değil MTA Genel Müdürlüğü'ne bağlıdır; bu, sınavın 'şaşırtıcı ama doğru' örneklerinden biridir.",
+  "hafiza_ipucu": "Şaşırtıcı ama gerçek: müze Kültür Bakanlığı'nda değil, madencide.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "Mar26 S.54 üzerine üretilmiş negatif soru",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-081",
+  "konu": "muzecilik",
+  "alt_konu": "mevzuat-2863",
+  "soru": "Türkiye'de kültür ve tabiat varlıklarının korunmasına ilişkin temel kanun aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu",
+   "B": "2634 sayılı Turizmi Teşvik Kanunu",
+   "C": "6502 sayılı Tüketicinin Korunması Hakkında Kanun",
+   "D": "4857 sayılı İş Kanunu",
+   "E": "2872 sayılı Çevre Kanunu"
+  },
+  "dogru": "A",
+  "cozum": "Kültür varlıklarının korunmasına ilişkin temel mevzuat 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu'dur.",
+  "hafiza_ipucu": "2863: Türkiye'nin kültür varlığı anayasası.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-082",
+  "konu": "muzecilik",
+  "alt_konu": "mevzuat-2863",
+  "soru": "2863 sayılı Kanun'a göre Türkiye'deki müzeler temel olarak nasıl gruplandırılır?",
+  "siklar": {
+   "A": "Ulusal ve uluslararası müzeler",
+   "B": "Arkeoloji ve etnografya müzeleri",
+   "C": "Kamu ve vakıf müzeleri",
+   "D": "Merkez ve taşra müzeleri",
+   "E": "Devlet ve özel müzeler"
+  },
+  "dogru": "E",
+  "cozum": "2863 sayılı Kanun'a göre Türkiye'de müzeler devlet ve özel müzeler olarak ele alınır.",
+  "hafiza_ipucu": "İki kutup: devletin müzesi, özelin müzesi.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-083",
+  "konu": "muzecilik",
+  "alt_konu": "mevzuat-tasinir-tasinmaz",
+  "soru": "Aşağıdakilerden hangisi taşınmaz kültür varlığına örnektir?",
+  "siklar": {
+   "A": "Sikke",
+   "B": "Gravür",
+   "C": "Akropol",
+   "D": "El yazması",
+   "E": "Küçük boy heykel"
+  },
+  "dogru": "C",
+  "cozum": "Akropol, yerinden oynatılamayan bir yapı olduğu için taşınmaz kültür varlığı örneğidir; sikke, gravür ve el yazmaları ise taşınır kültür varlığıdır.",
+  "hafiza_ipucu": "Vinçle bile kaldırılamaz mı? Akropol.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "Ağu25 S.50 (birebir)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-084",
+  "konu": "muzecilik",
+  "alt_konu": "mevzuat-tasinir-tasinmaz",
+  "soru": "I. Höyük\nII. Sikke\nIII. Tümülüs\nIV. El yazması\nV. Kervansaray\nYukarıdakilerden hangileri taşınmaz kültür varlığı kapsamındadır?",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "I, III ve V",
+   "C": "II, IV ve V",
+   "D": "I, II, III ve IV",
+   "E": "Hepsi"
+  },
+  "dogru": "B",
+  "cozum": "Höyük, tümülüs ve kervansaray taşınmaz kültür varlığıdır; sikke ve el yazması ise taşınır kültür varlığıdır.",
+  "hafiza_ipucu": "Cebine girer mi? Girmezse taşınmaz: höyük, tümülüs, kervansaray.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "Ağu25 S.50 üzerine genişletilmiş soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-085",
+  "konu": "muzecilik",
+  "alt_konu": "mevzuat-tasinir-tasinmaz",
+  "soru": "Aşağıdakilerden hangisi taşınır kültür varlığına örnek DEĞİLDİR?",
+  "siklar": {
+   "A": "Sikke",
+   "B": "Gravür",
+   "C": "Fibula",
+   "D": "Akropol",
+   "E": "El yazması"
+  },
+  "dogru": "D",
+  "cozum": "Akropol taşınmaz kültür varlığıdır; diğer seçenekler taşınır kültür varlığı örnekleridir.",
+  "hafiza_ipucu": "Fibula cebe girer, Akropol asla.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "Ağu25 S.50 üzerine negatif soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-086",
+  "konu": "muzecilik",
+  "alt_konu": "mevzuat-sit",
+  "soru": "2863 sayılı Kanun'a göre tanımlanan sit alanı türleri aşağıdakilerin hangisinde tam ve doğru verilmiştir?",
+  "siklar": {
+   "A": "Arkeolojik, kentsel, tarihî, doğal",
+   "B": "Arkeolojik, kentsel, endüstriyel, doğal",
+   "C": "Arkeolojik, kırsal, tarihî, doğal",
+   "D": "Arkeolojik, kentsel, tarihî, kırsal",
+   "E": "Kentsel, tarihî, doğal, endüstriyel"
+  },
+  "dogru": "A",
+  "cozum": "Mevzuata göre sit türleri arkeolojik, kentsel, tarihî ve doğal sit olmak üzere dörtlüdür; 'endüstriyel' ve 'kırsal' sit mevzuatta yer almaz.",
+  "hafiza_ipucu": "A-K-T-D dörtlüsü: Arkeolojik-Kentsel-Tarihî-Doğal.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Ağu25 S.4 (soru iptal edildi; mevzuattaki gerçek dörtlü esas alınmıştır)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-087",
+  "konu": "muzecilik",
+  "alt_konu": "mevzuat-sit",
+  "soru": "Aşağıdakilerden hangisi 2863 sayılı Kanun'un sit alanı sınıflandırması içinde yer ALMAZ?",
+  "siklar": {
+   "A": "Doğal sit",
+   "B": "Kentsel sit",
+   "C": "Arkeolojik sit",
+   "D": "Tarihî sit",
+   "E": "Endüstriyel sit"
+  },
+  "dogru": "E",
+  "cozum": "Endüstriyel sit, mevzuattaki dörtlü sınıflandırmada (arkeolojik-kentsel-tarihî-doğal) yer almaz; bu ayrımdaki belirsizlik Ağustos 2025 sınavında bir sorunun iptaline yol açmıştır.",
+  "hafiza_ipucu": "Dörtlünün dışında kalan her şeyi ele: endüstriyel de kırsal da mevzuatta yok.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Ağu25 S.4 (iptal edilen soru, tek doğru dışı şıkla yeniden kurgulandı)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-088",
+  "konu": "muzecilik",
+  "alt_konu": "mevzuat-sit",
+  "soru": "Bir bölgenin sahip olduğu kentsel doku, tarihî ve mimari değer nedeniyle korunması gerekli görülerek ilan edildiği sit türü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Doğal sit",
+   "B": "Arkeolojik sit",
+   "C": "Kentsel sit",
+   "D": "Tarihî sit",
+   "E": "Karma sit"
+  },
+  "dogru": "C",
+  "cozum": "Kentsel dokunun korunması amacıyla ilan edilen alanlar kentsel sit olarak adlandırılır.",
+  "hafiza_ipucu": "Kent dokusu = kentsel sit.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Ağu25 S.4 ile ilişkili mevzuat bilgisi",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-089",
+  "konu": "muzecilik",
+  "alt_konu": "muze-islevleri-koruma",
+  "soru": "Bozulmuş ya da hasar görmüş bir müze nesnesinin, kapsamlı araştırma ve değerlendirme sonucunda aslına uygun şekilde yeniden yapılması ya da eksik kısımlarının tamamlanmasına ne ad verilir?",
+  "siklar": {
+   "A": "Envanter",
+   "B": "Restitüsyon",
+   "C": "Restorasyon",
+   "D": "Küratörlük",
+   "E": "Belgeleme"
+  },
+  "dogru": "B",
+  "cozum": "Eksik kısımların araştırmaya dayalı olarak yeniden yapılıp tamamlanmasına restitüsyon denir; bu, onarım anlamındaki restorasyondan farklıdır.",
+  "hafiza_ipucu": "Res-TİT-üsyon: eksik parçayı TİTizlikle tamamla.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-090",
+  "konu": "muzecilik",
+  "alt_konu": "muze-islevleri-koruma",
+  "soru": "Restorasyon ile restitüsyon arasındaki fark için aşağıdakilerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Restorasyon nesnenin envanterinin çıkarılmasıdır, restitüsyon ise korunmasıdır",
+   "B": "İkisi de aynı anlama gelir",
+   "C": "Restitüsyon bir müze türüdür, restorasyon bir müze işlevidir",
+   "D": "Restorasyon hasarlı nesnenin onarılmasıdır; restitüsyon ise eksik kısımların araştırmaya dayalı olarak yeniden yapılıp tamamlanmasıdır",
+   "E": "Restorasyon yalnızca taşınmaz eserler için kullanılır"
+  },
+  "dogru": "D",
+  "cozum": "Restorasyon (onarım), bozulmuş nesnenin iyileştirilmesidir; restitüsyon ise eksik kısımların araştırmaya dayanarak tamamlanması ya da yeniden yapılmasıdır.",
+  "hafiza_ipucu": "Onarım = restorasyon, tamamlama = restitüsyon.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-091",
+  "konu": "muzecilik",
+  "alt_konu": "muze-islevleri-koruma",
+  "soru": "Müze koleksiyonlarındaki nesnelerin yazılı ve görsel yöntemlerle kayda geçirilmesi, sınıflandırılması ve envanterin hazırlanması sürecine ne ad verilir?",
+  "siklar": {
+   "A": "Belgeleme",
+   "B": "Restorasyon",
+   "C": "Sergileme",
+   "D": "Küratörlük",
+   "E": "Restitüsyon"
+  },
+  "dogru": "A",
+  "cozum": "Nesnelerin kayda geçirilip envanterinin çıkarılması sürecine belgeleme denir; koruma ve araştırmadan ayrı düşünülemeyen temel bir müze işlevidir.",
+  "hafiza_ipucu": "Belge = kayıt altına alma, envanterin doğduğu yer.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MUZ-092",
+  "konu": "muzecilik",
+  "alt_konu": "muze-islevleri-koruma",
+  "soru": "Denetimindeki koleksiyonlar konusunda uzman olan; bunların korunması, geliştirilmesi, yönetimi ile sergilerin düşünsel içeriğinin oluşturulmasından sorumlu müze görevlisi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Konservatör",
+   "B": "Dokümantasyon uzmanı",
+   "C": "Arşiv uzmanı",
+   "D": "Müze müdürü",
+   "E": "Küratör"
+  },
+  "dogru": "E",
+  "cozum": "Koleksiyon uzmanı olarak sergilerin içeriğinden de sorumlu olan görevli küratördür.",
+  "hafiza_ipucu": "Küratör = koleksiyonun beyni.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-093",
+  "konu": "muzecilik",
+  "alt_konu": "muze-islevleri-koruma",
+  "soru": "Koleksiyon nesnelerinin ideal koşullarda tutularak zamana karşı dayanıklılıklarının artırılmasına, yani bozulma gerçekleşmeden önce alınan tedbirlere ne ad verilir?",
+  "siklar": {
+   "A": "Restitüsyon",
+   "B": "Envanterleme",
+   "C": "Önleyici koruma",
+   "D": "Restorasyon",
+   "E": "Sergileme"
+  },
+  "dogru": "C",
+  "cozum": "Sergi ve depolarda nesnelerin bozulmadan korunmasına yönelik alınan tedbirlerin tümüne önleyici koruma denir; bu, hasar oluştuktan sonra yapılan restorasyondan farklıdır.",
+  "hafiza_ipucu": "Önleyici koruma, hastalanmadan önce alınan aşı gibidir.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MUZ-094",
+  "konu": "muzecilik",
+  "alt_konu": "kacakcilik-iade-genel",
+  "soru": "19. yüzyılda yabancı kazı heyetlerince Anadolu'dan çıkarılan eserlerin gittiği yerlere ilişkin aşağıdaki eşleştirmelerden hangileri doğrudur?\nI. Bergama'dan çıkarılan eserler - Berlin\nII. Efes'ten çıkarılan bazı eserler - Viyana ve Londra\nIII. Milet'ten çıkarılan bazı eserler - Paris",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I, II ve III",
+   "C": "I ve III",
+   "D": "II ve III",
+   "E": "Yalnız II"
+  },
+  "dogru": "B",
+  "cozum": "Kaynağa göre Bergama'dan çıkarılan eserler Berlin'e, Efes'ten çıkarılanların bir kısmı Viyana'ya ve Londra'ya, Milet'ten çıkarılanların bir kısmı ise Paris'e götürülmüştür.",
+  "hafiza_ipucu": "Üç kent, üç başkent: Bergama-Berlin, Efes-Viyana/Londra, Milet-Paris.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.pdf",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MUZ-095",
+  "konu": "muzecilik",
+  "alt_konu": "kacakcilik-iade-genel",
+  "soru": "Aşağıdaki eser - bugün sergilendiği yer eşleştirmelerinden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Zeus Altarı - Berlin",
+   "B": "Priamos Hazinesi (ağırlıklı) - Moskova",
+   "C": "Parthlar Anıtı - Viyana",
+   "D": "Nereidler Anıtı - Paris",
+   "E": "İssos Savaşı Mozaiği - Napoli"
+  },
+  "dogru": "D",
+  "cozum": "Nereidler Anıtı Paris'te değil, Londra'da British Museum'da sergilenmektedir; diğer eşleştirmeler doğrudur.",
+  "hafiza_ipucu": "Bu listede Paris'e giden yok; Nereidler İngiltere'de kaldı.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "derleme (Şub25, Mar26, Anadolu Arkeolojisi kitabı)",
+  "zorluk": "orta"
+ }
+]

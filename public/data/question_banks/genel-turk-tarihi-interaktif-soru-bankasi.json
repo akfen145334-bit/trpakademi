@@ -1,0 +1,259 @@
+{
+  "ders_kodu": "GTT",
+  "ders_adi": "Genel Türk Tarihi ve Kültürü",
+  "toplam_soru": 580,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "İslam Öncesi Türk Tarihi ve Kültür Merkezleri",
+      "soru_sayisi": 100,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Orta Asya kültür merkezleri içerisinde bilinen en eski kültür katmanı aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Afanasyevo",
+            "B": "Anav",
+            "C": "Andronovo",
+            "D": "Karasuk",
+            "E": "Tagar"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Aşkabat yakınlarındaki Anav kültürü MÖ 4500'lere uzanan Orta Asya'nın en eski kültürüdür.",
+          "hafiza_capasi": "Anav = En eski kültür (Ana gibi ilk)"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Türklerin en eski proto-Türk (ön-Türk) atalarına ait olduğu kabul edilen ve Altay-Sayan dağları çevresinde gelişen kültür merkezi hangisidir?",
+          "secenekler": {
+            "A": "Anav",
+            "B": "Afanasyevo",
+            "C": "Tagar",
+            "D": "Kelteminar",
+            "E": "Karasuk"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Afanasyevo kültürü Türklerin en eski kültürü ve avcı-savaşçı ata yurdudur.",
+          "hafiza_capasi": "Afanasyevo = En eski Türk kültürü"
+        },
+        {
+          "soru_no": 3,
+          "soru_metni": "Demiri ilk işleyen kültür merkezi Karasuk iken; Orta Asya'nın en gelişmiş, tunç heykeller ve hayvan üslubuyla öne çıkan son kültür katmanı hangisidir?",
+          "secenekler": {
+            "A": "Andronovo",
+            "B": "Tagar",
+            "C": "Anav",
+            "D": "Kelteminar",
+            "E": "Afanasyevo"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Tagar kültürü hayvan üslubunun zirvesi ve en gelişmiş bozkır kültürüdür.",
+          "hafiza_capasi": "Tagar = En gelişmiş son kültür"
+        },
+        {
+          "soru_no": 4,
+          "soru_metni": "Tarihte bilinen ilk Türk topluluğu olan, kadın savaşçıları (Amazonlar), üzengi ve pantolon kullanımı ile bozkırın kuyumcuları unvanıyla anılan topluluk hangisidir?",
+          "secenekler": {
+            "A": "Hunlar",
+            "B": "İskitler (Sakalar)",
+            "C": "Avarlar",
+            "D": "Göktürkler",
+            "E": "Hazarlar"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Tomris Hatun ve Alper Tunga önderliğindeki İskitler/Sakalar bozkırın kuyumcularıdır.",
+          "hafiza_capasi": "İskitler = Bozkırın kuyumcuları + Tomris Hatun"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Eski Türklerde Devlet ve Toplum Yapısı",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "İslam öncesi Türk toplum yapısında toplumsal piramidin en küçük basamağı olan aileye ne ad verilirdi?",
+          "secenekler": {
+            "A": "Oğuş",
+            "B": "Urug",
+            "C": "Bodun",
+            "D": "Boy",
+            "E": "İl"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Sıralama: Oğuş (Aile) -> Urug (Aileler Birliği/Sülale) -> Boy/Ok (Kabile) -> Bodun (Millet) -> İl (Devlet).",
+          "hafiza_capasi": "Oğuş = Aile çekirdeği"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Hükümdara devleti yönetme yetkisinin Gök Tengri tarafından bağışlandığına inanılan kutsal siyasi güce ne ad verilir?",
+          "secenekler": {
+            "A": "Ülüş",
+            "B": "Kut",
+            "C": "Küç",
+            "D": "Töre",
+            "E": "Kurultay"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kut kan bağıyla geçer ve hanedanın tüm erkek üyelerine taht hakkı tanır.",
+          "hafiza_capasi": "Kut = Tengri'den gelen yönetim yetkisi"
+        },
+        {
+          "soru_no": 3,
+          "soru_metni": "Eski Türklerde devlet işlerinin görüşülüp karara bağlandığı meclise (Kurultay/Toy) katılma hakkı olan üyelere ne ad verilirdi?",
+          "secenekler": {
+            "A": "Tuyug",
+            "B": "Toygun",
+            "C": "Tudun",
+            "D": "Tarkan",
+            "E": "Yabgu"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Toygun, kurultay meclisine katılabilen boy beyleri ve devlet erkanına verilen addır.",
+          "hafiza_capasi": "Toygun = Meclis üyesi"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "İlk Türk-İslam Devletleri ve Edebi Eserler",
+      "soru_sayisi": 100,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Orta Asya'da İslamiyet'i kabul eden ilk Türk devleti Karahanlılar döneminde Yusuf Has Hacib tarafından yazılan ve mutluluk veren bilgi anlamına gelen ilk Türk-İslam siyasetnamesi hangisidir?",
+          "secenekler": {
+            "A": "Divanü Lugati't-Türk",
+            "B": "Kutadgu Bilig",
+            "C": "Atabetü'l-Hakayık",
+            "D": "Divan-ı Hikmet",
+            "E": "Siyasetname"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kutadgu Bilig, Tabgaç Buğra Han'a sunulmuş dört alegorik karakterli ilk Türk-İslam eseridir.",
+          "hafiza_capasi": "Kutadgu Bilig = Mutluluk veren bilgi + ilk siyasetname"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Kaşgarlı Mahmud tarafından Abbasi Halifesi El-Muktedi Billah'a sunulan, Türkçenin Arapçadan üstün olduğunu kanıtlamak için yazılan ilk Türkçe sözlük ve harita içeren eser hangisidir?",
+          "secenekler": {
+            "A": "Kutadgu Bilig",
+            "B": "Divanü Lugati't-Türk",
+            "C": "Muhakemetü'l-Lugateyn",
+            "D": "Şecere-i Terakime",
+            "E": "Divan-ı Hikmet"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Divanü Lugati't-Türk ilk sözlük, ilk antoloji ve ilk Türk dünya haritasını barındırır.",
+          "hafiza_capasi": "Divanü Lugati't-Türk = İlk sözlük + Kaşgarlı Mahmud"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Büyük Selçuklu, Anadolu Selçuklu ve Beylikler",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Büyük Selçuklu Devleti'nde Nizamülmülk'ün kurduğu, dönemin Batıni tehdidine (Haşhaşiler) ve Şii Fatımi propagandasına karşı Sünni akideyi korumak için inşa edilen ilk üniversite niteliğindeki kurum hangisidir?",
+          "secenekler": {
+            "A": "Nizamiye Medreseleri",
+            "B": "Beytü'l-Hikme",
+            "C": "Darü'l-Fünun",
+            "D": "Gökmedrese",
+            "E": "Karatay Medresesi"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Bağdat ve Nişabur Nizamiye Medreseleri yükseköğretimin öncüsüdür.",
+          "hafiza_capasi": "Nizamiye Medreseleri = Nizamülmülk + ilk üniversite"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "1071 Malazgirt Zaferi sonrasında Alparslan'ın kılıç hakkı politikasıyla Anadolu'da kurulan, Divriği Ulu Camii ve Şifahanesi'ni inşa eden ilk Türk beyliği hangisidir?",
+          "secenekler": {
+            "A": "Danişmentliler",
+            "B": "Saltuklular",
+            "C": "Mengücekliler",
+            "D": "Artuklular",
+            "E": "Çaka Beyliği"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Mengücekliler Erzincan-Divriği çevresinde kurulmuş ve UNESCO mirası Divriği Külliyesi'ni yapmıştır.",
+          "hafiza_capasi": "Mengücekliler = Divriği Ulu Camii ve Şifahanesi"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 5,
+      "alt_baslik_adi": "Osmanlı Devleti Tarihi ve Kurumları",
+      "soru_sayisi": 100,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Osmanlı Devleti'nde Divan-ı Hümayun'da ilmiye sınıfının en üst makamı olan, fetva verme yetkisine sahip dini otorite kimdir?",
+          "secenekler": {
+            "A": "Kazasker",
+            "B": "Şeyhülislam (Müftü)",
+            "C": "Nişancı",
+            "D": "Sadrazam",
+            "E": "Defterdar"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Şeyhülislam ifta yetkisiyle kanunların ve kararların şeriata uygunluğunu denetler.",
+          "hafiza_capasi": "Şeyhülislam = İlmiye reisi + Fetva makamı"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Geliri doğrudan devlet hazinesine aktarılan, iltizam sistemiyle mültezimler aracılığıyla vergisi peşin toplanan topraklara ne ad verilir?",
+          "secenekler": {
+            "A": "Dirlik (Tımar)",
+            "B": "Mukataa",
+            "C": "Vakıf",
+            "D": "Yurtluk",
+            "E": "Ocaklık"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Mukataa arazilerinin geliri doğrudan nakit olarak Hazine-i Amire'ye gider.",
+          "hafiza_capasi": "Mukataa = Nakit hazine geliri"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 6,
+      "alt_baslik_adi": "Çağdaş Türk Dünyası, Milli Mücadele ve Cumhuriyet",
+      "soru_sayisi": 90,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Milli Mücadele'de 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır' maddesiyle Kurtuluş Savaşı'nın amacı, gerekçesi ve yönteminin ilk kez açıklandığı belge hangisidir?",
+          "secenekler": {
+            "A": "Havza Genelgesi",
+            "B": "Amasya Genelgesi",
+            "C": "Erzurum Kongresi Kararları",
+            "D": "Sivas Kongresi Kararları",
+            "E": "Misak-ı Milli"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "22 Haziran 1919 Amasya Genelgesi ihtilal beyannamesidir.",
+          "hafiza_capasi": "Amasya Genelgesi = Amaç, gerekçe ve yöntem"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "24 Temmuz 1923'te imzalanan Lozan Barış Antlaşması ile Türkiye'nin tam bağımsızlığını zedeleyen hangi kurum kesin olarak kaldırılmıştır?",
+          "secenekler": {
+            "A": "Düyun-ı Umumiye ve Kapitülasyonlar",
+            "B": "Saltanat",
+            "C": "Halifelik",
+            "D": "Aşar Vergisi",
+            "E": "Mecelle"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Kapitülasyonlar ve Düyun-ı Umumiye idaresi Lozan ile tarihe karışmıştır.",
+          "hafiza_capasi": "Lozan = Kapitülasyonların kesin sonu"
+        }
+      ]
+    }
+  ]
+}

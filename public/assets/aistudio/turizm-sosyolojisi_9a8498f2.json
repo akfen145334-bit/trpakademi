@@ -1,0 +1,662 @@
+[
+ {
+  "id": "SOS-001",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "doxey-indeksi",
+  "soru": "Doxey'in (1975) modeline göre, yerel halkın turistleri ilk kez ağırlarken heves ve heyecanla karşıladığı; para akışı ve doğan fırsatlar nedeniyle turizme karşı olumlu tutum sergilediği, planlama ve resmî kontrollerin çok az olduğu aşamaya ne ad verilir?",
+  "siklar": {
+   "A": "Coşku",
+   "B": "Rahatsızlık",
+   "C": "İlgisizlik",
+   "D": "Düşmanlık",
+   "E": "Sağlamlaştırma"
+  },
+  "dogru": "A",
+  "cozum": "Doxey (1975) modelinin ilk aşaması coşkudur: turistlerin gelişiyle başlayan para akışı ve fırsatlar yerel toplumun turizme olumlu tutum geliştirmesini sağlar; bu aşamada planlama ve resmî kontroller azdır (Turizm Sosyolojisi_Anadolu Üni, s.73).",
+  "hafiza_ipucu": "CİRD akrostişi: Coşku-İlgisizlik-Rahatsızlık-Düşmanlık. İlk misafire pasta açan ev sahibi = coşku.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Doxey tolerans modeli",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-002",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "doxey-indeksi",
+  "soru": "Doxey'in (1975) Rahatsızlık (Irridex) modelinde yerel halkın turizme verdiği tepkiler hangi sırayla gelişir?",
+  "siklar": {
+   "A": "İlgisizlik - Coşku - Düşmanlık - Rahatsızlık",
+   "B": "Coşku - İlgisizlik - Rahatsızlık - Düşmanlık",
+   "C": "Rahatsızlık - Coşku - İlgisizlik - Düşmanlık",
+   "D": "Coşku - Rahatsızlık - İlgisizlik - Düşmanlık",
+   "E": "Düşmanlık - Rahatsızlık - İlgisizlik - Coşku"
+  },
+  "dogru": "B",
+  "cozum": "Doxey'in (1975) modelinde yerli halkın algıladığı maliyetler arttıkça tutumlar coşku ile başlayıp sırasıyla ilgisizlik, rahatsızlık aşamalarından geçerek düşmanlık noktasına ulaşır (Turizm Sosyolojisi_Anadolu Üni, s.73).",
+  "hafiza_ipucu": "CİRD: Coşku-İlgisizlik-Rahatsızlık-Düşmanlık. Ev sahibi hikâyesi: pasta açar, bakmaz, kapıyı kilitler, camına taş atılır.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Doxey tolerans modeli",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-003",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "doxey-indeksi",
+  "soru": "Bir sahil kasabasında turizm artık yerleşiklik kazanmış; yerel esnaf turistleri özel bir konuk gibi karşılamayı bırakmış, ilişkiler daha resmî ve ticari bir hâl almış, bu dönemde bölgenin pazarlama çabaları da yoğunlaşmıştır. Bu tablo Doxey'in modelinde hangi aşamayla açıklanır?",
+  "siklar": {
+   "A": "Coşku",
+   "B": "Rahatsızlık",
+   "C": "İlgisizlik",
+   "D": "Düşmanlık",
+   "E": "Gençleştirme"
+  },
+  "dogru": "C",
+  "cozum": "İlgisizlik aşamasında ziyaretçiler yerel toplumca kanıksanır, taraflar arası ilişkiler daha resmîleşir, turizm hızlı kâr etmenin bir yolu hâline gelir ve bu dönemde bölgenin pazarlama çabaları gerçekleşir (Turizm Sosyolojisi_Anadolu Üni, s.73).",
+  "hafiza_ipucu": "Onuncu misafire 'buyrun' der ama bakmaz = ilgisizlik.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-004",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "doxey-indeksi",
+  "soru": "Turist sayısının artmasıyla yerel sakinler evlerinin önünde park yeri bulamaz olmuş; kalabalıktan, gürültüden ve turistlerin alkol kullanımından şikâyet etmeye başlamıştır. Bölge sakinleri henüz şiddete varan bir tepki göstermemektedir. Doxey'in modelinde bu durum hangi aşamaya karşılık gelir?",
+  "siklar": {
+   "A": "İlgisizlik",
+   "B": "Coşku",
+   "C": "Durgunluk",
+   "D": "Rahatsızlık",
+   "E": "Düşmanlık"
+  },
+  "dogru": "D",
+  "cozum": "Rahatsızlık aşaması, turist sayısındaki artışa bağlı kalabalığın çoğaldığı, park yeri bulamama, alkol/uyuşturucu kullanımı gibi sorunların turizmle ilişkilendirildiği, bölge sakinlerinin tepki gösterme eşiği olan aşamadır (Turizm Sosyolojisi_Anadolu Üni, s.73).",
+  "hafiza_ipucu": "Yüzüncü misafirde kapıyı kilitler = rahatsızlık; eşik aşılmıştır ama henüz şiddet yok.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-005",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "doxey-indeksi",
+  "soru": "Aşağıdakilerden hangisi Doxey'in (1975) tolerans (Rahatsızlık Endeksi) modelinin dört aşamasından biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Coşku",
+   "B": "İlgisizlik",
+   "C": "Rahatsızlık",
+   "D": "Düşmanlık",
+   "E": "Kabullenme"
+  },
+  "dogru": "E",
+  "cozum": "Doxey'in (1975) modelinin dört aşaması coşku, ilgisizlik, rahatsızlık ve düşmanlıktır; 'kabullenme' modelde yer alan bir aşama değildir (Turizm Sosyolojisi_Anadolu Üni, s.72-73).",
+  "hafiza_ipucu": "CİRD dört harften ibarettir: Coşku-İlgisizlik-Rahatsızlık-Düşmanlık; fazlası çeldiricidir.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Doxey tolerans modeli",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-006",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "doxey-indeksi",
+  "soru": "Doxey'in (1975) modeline göre, bölge sakinlerinin turistlere karşı şiddete varan davranışlar sergilediği, turizmin faydalarından çok maliyetlerinin ön planda olduğu, yerel halkın turistlerden kaçınmaya başladığı son aşama aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Düşmanlık",
+   "B": "Rahatsızlık",
+   "C": "İlgisizlik",
+   "D": "Coşku",
+   "E": "Sağlamlaştırma"
+  },
+  "dogru": "A",
+  "cozum": "Düşmanlık aşamasında bölge sakinleri artan kalabalık karşısında ziyaretçilere karşı şiddete uzanan davranışlar sergiler; turizmin maliyetleri faydalarının önüne geçer ve yerel halk turistlerden kaçınmaya başlar (Turizm Sosyolojisi_Anadolu Üni, s.73).",
+  "hafiza_ipucu": "Bininci misafir camına taş atılır = düşmanlık.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Doxey tolerans modeli",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-007",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "doxey-indeksi",
+  "soru": "Doxey (1975) modeli ile Butler'ın (1980) Destinasyon (Ürün) Yaşam Döngüsü modeli arasındaki temel fark aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Doxey destinasyonun ekonomik gelişimini, Butler yerel halkın tepkilerini ölçer",
+   "B": "Doxey yerel halkın turizme verdiği duygusal tepki aşamalarını, Butler ise destinasyonun zaman içindeki gelişim/yaşam döngüsü aşamalarını ele alır",
+   "C": "İkisi de aynı kavramı farklı isimlerle tanımlayan özdeş modellerdir",
+   "D": "Doxey yalnızca kırsal, Butler yalnızca kentsel turizm alanlarını kapsar",
+   "E": "Butler modeli 1975'te, Doxey modeli ise 1980'de geliştirilmiştir"
+  },
+  "dogru": "B",
+  "cozum": "Doxey'in (1975) modeli yerel halkın turizme verdiği tepki aşamalarını (coşku-ilgisizlik-rahatsızlık-düşmanlık) ele alırken, Butler (1980) bu yaklaşımı geliştirerek destinasyonun zaman içindeki gelişim evrelerini bir yaşam döngüsü olarak tanımlamıştır (Turizm Sosyolojisi_Anadolu Üni, s.73-74).",
+  "hafiza_ipucu": "'DOXey DUYGUyu, BUTler DÖNGÜyü ölçer' - tepki aşamaları vs yaşam döngüsü.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 74
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-008",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "doxey-indeksi",
+  "soru": "Butler'ın (1980) Destinasyon Yaşam Döngüsü modelinde; yerel halk ile gelişmekte olan turizm endüstrisi arasındaki etkileşimin temel hizmetlerin sağlanmasına yol açtığı, bölgenin turizm sezonunun oluşmaya başladığı ve turizme katılan yerel sakinlerin sosyal yaşamının değişmeye başladığı aşama aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Keşif",
+   "B": "Gelişme",
+   "C": "İlgi",
+   "D": "Sağlamlaştırma",
+   "E": "Durgunluk"
+  },
+  "dogru": "C",
+  "cozum": "Butler'ın (1980) modelinde 'İlgi' aşamasında yerel halk ile gelişmekte olan turizm endüstrisi arasındaki etkileşim temel hizmetlerin sağlanmasına yol açar, reklam yapılır, bölgenin turizm sezonu oluşur ve turizme katılan sakinlerin sosyal yaşamı değişmeye başlar (Turizm Sosyolojisi_Anadolu Üni, s.74).",
+  "hafiza_ipucu": "Butler'ın 7 aşaması: Keşif-İlgi-Gelişme-Sağlamlaştırma-Durgunluk-Düşüş-Gençleştirme. Az sayıda kâşif turist gelir (Keşif), sonra İLGİ artar ve hizmet gelişir.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 74
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SOS-009",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tasima-kapasitesi",
+  "soru": "Bir destinasyonun bozulmaya uğramadan kaldırabileceği en fazla kullanım veya ziyaretçi düzeyine ne ad verilir?",
+  "siklar": {
+   "A": "Çarpan etkisi",
+   "B": "Sosyal mübadele",
+   "C": "Metalaşma",
+   "D": "Taşıma kapasitesi",
+   "E": "Sürdürülebilir kalkınma"
+  },
+  "dogru": "D",
+  "cozum": "Turizmde taşıma kapasitesi; doğal kaynakları ve ekosistemi olumsuz etkilemeden, ziyaretçi memnuniyetinde ve hizmet kalitesinde düşüş yaratmadan, yerel halkın yaşam tarzını bozmadan bir bölgeden maksimum koşullarda yararlanma düzeyi olarak tanımlanır (Ekoloji ve Turizm_Anadolu Üni, s.150).",
+  "hafiza_ipucu": "Taşıma kapasitesi = 'bardağı taşıran son damla'ya kadar dolabilen bardak.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.txt",
+   "sayfa": 150
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - tahammül/taşıma kapasitesi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-010",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tasima-kapasitesi",
+  "soru": "Bir destinasyona gelen ziyaretçi sayısının, yerel halkın (ve turistlerin) hoşgörü/kabul düzeyini aşmadan ulaşabileceği eşik değere ne ad verilir?",
+  "siklar": {
+   "A": "Fiziksel taşıma kapasitesi",
+   "B": "Ekolojik taşıma kapasitesi",
+   "C": "Psikolojik taşıma kapasitesi",
+   "D": "Çarpan etkisi",
+   "E": "Sosyal taşıma kapasitesi"
+  },
+  "dogru": "E",
+  "cozum": "Sosyal (toplumsal) taşıma kapasitesi, ziyaretçi sayısının yerel halkın hoşgörü ve kabul düzeyini aşmadan ulaşabileceği eşiktir; fiziksel bir alan ölçüsü değil, insan toleransına dayalı bir ölçüttür (Ekoloji ve Turizm_Anadolu Üni, s.150).",
+  "hafiza_ipucu": "'Bardağı taşıran turist sayısı' ama bardak yerel halkın SABRIdır, fiziksel alan değil.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.txt",
+   "sayfa": 150
+  },
+  "akraba_cikmis_soru": "Mart 2026 - sosyal taşıma kapasitesi tanım->terim",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-011",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tasima-kapasitesi",
+  "soru": "Aşağıdakilerden hangisi taşıma kapasitesi türlerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Demografik",
+   "B": "Ekonomik",
+   "C": "Ekolojik",
+   "D": "Psikolojik",
+   "E": "Toplumsal"
+  },
+  "dogru": "A",
+  "cozum": "Taşıma kapasitesi hesaplamaları ekonomik, ekolojik, psikolojik ve toplumsal (sosyal) taşıma kapasiteleri olarak ayrı ayrı yapılıp bütüncül biçimde değerlendirilir; 'demografik taşıma kapasitesi' kitapta yer alan bir tür değildir (Ekoloji ve Turizm_Anadolu Üni, s.150).",
+  "hafiza_ipucu": "Türleri 'EEPT' ile hatırla: Ekonomik-Ekolojik-Psikolojik-Toplumsal.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.txt",
+   "sayfa": 150
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-012",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tasima-kapasitesi",
+  "soru": "Ekosistem içerisindeki canlı ve cansız tüm öğelerin olumsuz faktörlerden etkilenmesiyle ortaya çıkacak maliyeti belirleyen, taşıma kapasitesi türleri arasında en önemlisi kabul edilen tür aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Psikolojik taşıma kapasitesi",
+   "B": "Ekolojik taşıma kapasitesi",
+   "C": "Ekonomik taşıma kapasitesi",
+   "D": "Toplumsal taşıma kapasitesi",
+   "E": "Fiziksel taşıma kapasitesi"
+  },
+  "dogru": "B",
+  "cozum": "Tüm taşıma kapasiteleri arasında en önemlisi olan ekolojik taşıma kapasitesi, ekosistemler içerisindeki canlı ve cansız tüm öğelerin olumsuz faktörlerden etkilenmesiyle ortaya çıkacak maliyeti belirler (Ekoloji ve Turizm_Anadolu Üni, s.150).",
+  "hafiza_ipucu": "Ekosistem = doğa; en önemli tür DOĞAYLA ilgili olan ekolojiktir.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.txt",
+   "sayfa": 150
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SOS-013",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tasima-kapasitesi",
+  "soru": "Ziyaretçi sayısındaki artışın, turistlerin yaşadığı deneyimin kalitesini ve doyumunu düşürmeye başladığı eşiğe hangi taşıma kapasitesi türü karşılık gelir?",
+  "siklar": {
+   "A": "Sosyal taşıma kapasitesi",
+   "B": "Ekolojik taşıma kapasitesi",
+   "C": "Psikolojik taşıma kapasitesi",
+   "D": "Ekonomik taşıma kapasitesi",
+   "E": "Fiziksel taşıma kapasitesi"
+  },
+  "dogru": "C",
+  "cozum": "Taşıma kapasitesi tanımında yer alan 'ziyaretçilerin beklentilerinde ve verilen hizmetlerde kaliteyi düşürmeme' ölçütü psikolojik taşıma kapasitesine karşılık gelir; bu tür turistin deneyim/doyum kalitesiyle ilgilidir (Ekoloji ve Turizm_Anadolu Üni, s.150).",
+  "hafiza_ipucu": "Psikolojik = turistin kafası/deneyimi; sosyal = yerlinin sabrı.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.txt",
+   "sayfa": 150
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-014",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tasima-kapasitesi",
+  "soru": "Bir plajda güneşlenme alanı ve şezlong sayısı doluluğa ulaştığında, mevcut fiziksel altyapı yeni ziyaretçiyi kaldıramaz hâle gelmiştir. Bu durum hangi taşıma kapasitesi türüyle doğrudan ilgilidir?",
+  "siklar": {
+   "A": "Sosyal taşıma kapasitesi",
+   "B": "Psikolojik taşıma kapasitesi",
+   "C": "Ekolojik taşıma kapasitesi",
+   "D": "Fiziksel taşıma kapasitesi",
+   "E": "Ekonomik taşıma kapasitesi"
+  },
+  "dogru": "D",
+  "cozum": "Fiziksel taşıma kapasitesi, bir alanın altyapı ve fiziksel donanım bakımından kaldırabileceği en fazla kullanıcı sayısıyla ilgilidir; şezlong/alan doluluğu bu türe örnektir.",
+  "hafiza_ipucu": "Fiziksel taşıma kapasitesi = BETON/alan sınırı; sosyal taşıma kapasitesi = İNSAN sınırı.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.txt",
+   "sayfa": 150
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-015",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tasima-kapasitesi",
+  "soru": "Bir bölgede var olan bütün ekonomik kaynaklar harekete geçirilerek rahat koşullarda yaşayabilecek en fazla nüfus miktarına ne ad verilir?",
+  "siklar": {
+   "A": "Aşırı nüfuslanma",
+   "B": "Kentleşme",
+   "C": "Ekolojik ayak izi",
+   "D": "Sürdürülebilir kalkınma",
+   "E": "Taşıma kapasitesi"
+  },
+  "dogru": "E",
+  "cozum": "Bir bölgede var olan bütün ekonomik kaynaklar harekete geçirilerek rahat koşullarda yaşayabilecek en fazla nüfus miktarına taşıma kapasitesi adı verilir; buna karşın kaynakların yetersiz kaldığı duruma aşırı nüfuslanma denir (Ekoloji ve Turizm_Anadolu Üni, s.79).",
+  "hafiza_ipucu": "Kaynaklar dolunca nüfus taşar - sınır = taşıma kapasitesi.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.txt",
+   "sayfa": 79
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-016",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tasima-kapasitesi",
+  "soru": "Aşağıdakilerden hangisi turizmde taşıma kapasitesini etkileyen faktörlerden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Turistlerin ana dili",
+   "B": "Turizm türleri ve mevsimlerin etkisi",
+   "C": "Doğal, kültürel ve tarihî doku",
+   "D": "Bireylerin çevre bilinci",
+   "E": "Ulaşım kaynakları"
+  },
+  "dogru": "A",
+  "cozum": "Taşıma kapasitesini etkileyen faktörler arasında turizm türleri ve mevsimlerin etkisi, doğal-kültürel-tarihî doku, ekonomik gelir düzeyi, turist aktiviteleri, hassas ekosistemler, biyolojik çeşitlilik, bireylerin çevre bilinci, entegre politikalar ve ulaşım kaynakları sayılır; 'turistlerin ana dili' bu listede yer almaz (Ekoloji ve Turizm_Anadolu Üni, s.150).",
+  "hafiza_ipucu": "Liste doğa+ekonomi+altyapı eksenlidir; dil gibi iletişimsel bir unsur listede geçmez.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.txt",
+   "sayfa": 150
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-017",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "kulturel-etkiler",
+  "soru": "Yerel kültüre ait ritüel, el sanatı ve dans gibi unsurların değişim değerine göre paha biçilerek ürüne dönüşmesi ve turiste satılık bir gösteriye çevrilmesi olgusuna ne ad verilir?",
+  "siklar": {
+   "A": "Gösteri etkisi",
+   "B": "Kültürel metalaşma",
+   "C": "Kültürleşme",
+   "D": "Ticarileşme",
+   "E": "Otantiklik"
+  },
+  "dogru": "B",
+  "cozum": "Metalaştırma; nesnelere ticari bakımdan ilk olarak değişim değerlerine göre paha biçilerek onların ürün ve hizmetlere dönüştüğü, değişim değerlerinin pazardaki fiyatlara göre belirlendiği bir süreçtir; kültürel unsurların bu şekilde satılık ürüne dönüşmesine kültürel metalaşma denir (Turizm Sosyolojisi_Anadolu Üni, s.69-70).",
+  "hafiza_ipucu": "Düğün ritüeli otel lobisinde günde 3 seans, biletle izleniyor; gelin duvaklı KASİYER - kültür METAya döndü.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "Mart 2026 - kültürel metalaşma",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-018",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "kulturel-etkiler",
+  "soru": "Turistler ile ev sahibi toplum arasındaki farklılıklar görünür olduğunda ortaya çıkan; yerel halkın, özellikle gençlerin turistler gibi olma veya onların sahip olduklarına sahip olma arzusuyla davranışlarını değiştirmesine ne ad verilir?",
+  "siklar": {
+   "A": "Kültürleşme",
+   "B": "Kültürel metalaşma",
+   "C": "Gösteri etkisi",
+   "D": "Sahnelenen otantiklik",
+   "E": "Ticarileşme"
+  },
+  "dogru": "C",
+  "cozum": "Gösteri etkisi; turistler ve ev sahibi toplum arasındaki farklılıklar görünür olduğunda ortaya çıkan, yerlilerde turistler gibi olma veya turistlerin sahip olduklarına sahip olma arzusu nedeniyle davranış değişikliklerine yol açan etkidir (Turizm Sosyolojisi_Anadolu Üni, s.71).",
+  "hafiza_ipucu": "Köy delikanlısı turistin marka gözlüğünü ve kolasını birebir kopyalıyor - GÖSTERİye özenme.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-019",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "kulturel-etkiler",
+  "soru": "İki farklı kültürün temas etmesi sonucunda zamanla birbirine benzemesi, güçlü olan kültürün baskın konuma geçmesiyle sonuçlanan karşılıklı değişim sürecine ne ad verilir?",
+  "siklar": {
+   "A": "Asimilasyon",
+   "B": "Gösteri etkisi",
+   "C": "Metalaşma",
+   "D": "Kültürleşme",
+   "E": "Ticarileşme"
+  },
+  "dogru": "D",
+  "cozum": "Kültürleşmede iki farklı kültür temas ettiğinde zamanla bu iki kültürün birbirine benzeyeceği; bir kültür diğerinden daha güçlü veya baskınsa zayıf olan kültürün ondan daha fazla etkileneceği kabul edilir (Turizm Sosyolojisi_Anadolu Üni, s.70-71).",
+  "hafiza_ipucu": "İki kültür tokalaşır, ikisi de değişir ama güçlü el daha az değişir - tokalaşma, yutulma değil.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-020",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "kulturel-etkiler",
+  "soru": "Bir dağ köyünde geleneksel düğün ritüelleri artık günde üç seans hâlinde, bilet karşılığında turistlere izlettirilmekte; ritüelin dinî/manevi anlamı giderek kaybolmaktadır. Bu durum aşağıdaki kavramlardan hangisiyle en doğru şekilde açıklanır?",
+  "siklar": {
+   "A": "Gösteri etkisi",
+   "B": "Kültürleşme",
+   "C": "Sosyal taşıma kapasitesi",
+   "D": "Sosyal mübadele",
+   "E": "Kültürel metalaşma"
+  },
+  "dogru": "E",
+  "cozum": "Kültürel formların paketlenip pazarlanarak turist tüketimine sunulması, anlamlarının değişmesi ve özgünlüklerini yitirmesi kültürel metalaşmanın tipik bir örneğidir (Turizm Sosyolojisi_Anadolu Üni, s.69).",
+  "hafiza_ipucu": "Biletle izlenen, satılan ritüel = 'satılık kültür' etiketi metalaşmaya işaret eder.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": "Mart 2026 - kültürel metalaşma",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-021",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "kulturel-etkiler",
+  "soru": "Kıyı kasabasındaki gençler, tatile gelen turistlerin taktığı marka güneş gözlüklerini ve tükettikleri içecekleri özenerek taklit etmeye, onlar gibi giyinmeye başlamıştır. Bu davranış değişikliği aşağıdaki kavramlardan hangisiyle açıklanır?",
+  "siklar": {
+   "A": "Gösteri etkisi",
+   "B": "Kültürleşme",
+   "C": "Kültürel metalaşma",
+   "D": "Sahnelenen otantiklik",
+   "E": "Ticarileşme"
+  },
+  "dogru": "A",
+  "cozum": "Yerel halkın, özellikle gençlerin turistlerin sahip olduğu şeylere sahip olma veya onlar gibi olma arzusuyla davranış değiştirmesi gösteri etkisinin tanımıdır (Turizm Sosyolojisi_Anadolu Üni, s.70-71).",
+  "hafiza_ipucu": "Taklit = gösteri etkisi; satış = metalaşma; karşılıklı değişim = kültürleşme.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-022",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "kulturel-etkiler",
+  "soru": "Turistlere gerçekmiş izlenimi verilecek şekilde kurgulanan, ancak özgün bağlamından koparılıp turistlerin beğenisine uygun biçimde manipüle edilen kültürel sunumlara ne ad verilir?",
+  "siklar": {
+   "A": "Kültürel metalaşma",
+   "B": "Sahnelenen otantiklik",
+   "C": "Gösteri etkisi",
+   "D": "Kültürleşme",
+   "E": "Ticarileşme"
+  },
+  "dogru": "B",
+  "cozum": "Bali'nin dinî ritüel dansı keechak'ın kısaltılıp dinî bağlamından çıkarılarak günlük, ücretli bir gösteriye dönüştürülmesi örneğinde olduğu gibi, otantik görünmek için manipüle edilerek 'sahnelenen' ürünlerin ortaya çıkması sahnelenen otantiklik olarak adlandırılır (Turizm Sosyolojisi_Anadolu Üni, s.69-70).",
+  "hafiza_ipucu": "Sahte ama sahiciymiş gibi sunulan = sahnelenen otantiklik.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-023",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "kulturel-etkiler",
+  "soru": "Daha önce herhangi bir maddi karşılık beklenmeden, karşılıklı yardımlaşma ilkesiyle sunulan hizmetler için turizmin etkisiyle para talep edilmeye başlanması sürecine ne ad verilir?",
+  "siklar": {
+   "A": "Kültürel metalaşma",
+   "B": "Gösteri etkisi",
+   "C": "Ticarileşme",
+   "D": "Kültürleşme",
+   "E": "Sosyal mübadele kuramı"
+  },
+  "dogru": "C",
+  "cozum": "İnsanlar arası ilişkilerin bir kazanç kapısına dönmesi, ekonomik özellik taşımayan faaliyetlerden para talep edilmesi sonucu sıcak ve içten ilişkilerin uzak, soğuk ve ticari ilişkilere dönmesine ticarileşme denir; bu, kültürel bir ögenin ürüne dönüşmesini ifade eden kültürel metalaşmadan farklıdır (Turizm Sosyolojisi_Anadolu Üni, s.71; TURİZM SOSYOLOJİSİ konu arkası, s.34).",
+  "hafiza_ipucu": "Bedava bilgi artık ücretli = ticarileşme. Metalaşma KÜLTÜR ÖGESİNİN, ticarileşme İLİŞKİLERİN paraya dönüşmesidir.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SOS-024",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "kulturel-etkiler",
+  "soru": "Aşağıdakilerden hangisi 'gösteri etkisi' ile AÇIKLANAMAZ?",
+  "siklar": {
+   "A": "Yerel gençlerin turistlerin giyim tarzını taklit etmesi",
+   "B": "Yerel halkın ulaşamadığı yaşam standardına özenerek davranış değiştirmesi",
+   "C": "Turistlerin yaşam biçimine duyulan hayranlığın zamanla kızgınlığa dönüşmesi",
+   "D": "Geleneksel bir dans gösterisinin bilet karşılığında sahnelenmesi",
+   "E": "Yerel gençlerin yabancı ideolojilere sorgulamadan hayran olması"
+  },
+  "dogru": "D",
+  "cozum": "D seçeneği, kültürün satılık bir ürüne/gösteriye dönüşmesi olduğundan kültürel metalaşma (sahnelenen otantiklik) kapsamındadır; gösteri etkisi ise yerel halkın turisti taklit etmesi ve onun yaşam biçimine özenmesiyle ilgilidir (Turizm Sosyolojisi_Anadolu Üni, s.70-71).",
+  "hafiza_ipucu": "Taklit = gösteri etkisi; satış/sahneleme = metalaşma. Ayrımı kaçırma.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-025",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tanim-sosyal-etkiler",
+  "soru": "Turizm olayını toplumsal boyutuyla, turist ile yerel halkın (ev sahibi toplum) karşılıklı etkileşimi açısından inceleyen bilim dalına ne ad verilir?",
+  "siklar": {
+   "A": "Turizm ekonomisi",
+   "B": "Turizm coğrafyası",
+   "C": "Turizm antropolojisi",
+   "D": "Turizm psikolojisi",
+   "E": "Turizm sosyolojisi"
+  },
+  "dogru": "E",
+  "cozum": "Turizm sosyolojisi, turizm olayını toplumsal boyutuyla, turist ile yerel halkın karşılıklı etkileşimini konu alan bilim dalıdır (Turizm Sosyolojisi_Anadolu Üni, s.3-4).",
+  "hafiza_ipucu": "SOSyoloji = SOSyal etkileşim: turist + yerel halk.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 4
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - turizm sosyolojisi tanımı",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-026",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tanim-sosyal-etkiler",
+  "soru": "Aşağıdakilerden hangisi turizmin yerel toplum üzerindeki OLUMLU sosyal etkilerinden biridir?",
+  "siklar": {
+   "A": "Kadınların turizm sektöründe istihdam edilerek ekonomik özgürlük kazanması",
+   "B": "Suç oranlarının artması",
+   "C": "Kültürün metalaşması",
+   "D": "Emlak fiyatlarının yükselmesi",
+   "E": "Yerinden edilme"
+  },
+  "dogru": "A",
+  "cozum": "Kadınların turizm alanında istihdam edilmesi, ekonomik özgürlük ve toplumsal hareketlilik kazanmalarına olanak sağlayan olumlu bir sosyal etkidir; diğer seçenekler turizmin olumsuz etkileri arasında sayılır (Turizm Sosyolojisi_Anadolu Üni, s.68).",
+  "hafiza_ipucu": "Olumlu sosyal etkiler: miras korunması, kültürler arası anlayış, kadın istihdamı.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - olumlu sosyal etkiler",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-027",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tanim-sosyal-etkiler",
+  "soru": "Aşağıdakilerden hangisi turizmin yerel toplum üzerindeki olumlu etkilerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Kültürel mirasın korunması ve canlanması",
+   "B": "Kültürel metalaşma ile anlam kaybı",
+   "C": "Kültürler arası anlayış ve barışın gelişmesi",
+   "D": "El sanatlarının yaşatılması",
+   "E": "Altyapı ve hizmetlerin iyileşmesi"
+  },
+  "dogru": "B",
+  "cozum": "Kültürel metalaşma yoluyla yaşanan anlam kaybı, turizmin olumsuz sosyokültürel etkilerinden biridir; diğer seçenekler ise kültürel mirasın korunması, kültürler arası anlayış, el sanatlarının yaşaması ve altyapının iyileşmesi gibi olumlu etkilerdir (Turizm Sosyolojisi_Anadolu Üni, s.68-69).",
+  "hafiza_ipucu": "Olumlu-olumsuz ayrımında metalaşma her zaman olumsuz sütuna yazılır.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-028",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tanim-sosyal-etkiler",
+  "soru": "Kırsal bir bölgede evinin tek odasını turiste kiralayarak pansiyonculuğa başlayan bir kadın, zamanla iş hacmini büyüterek butik otel işletmecisi konumuna gelmiş; bu süreçte ekonomik özgürlüğü ve toplumsal statüsü güçlenmiştir. Bu örnek turizmin hangi olumlu sosyal etkisini yansıtır?",
+  "siklar": {
+   "A": "Kültürleşme",
+   "B": "Gösteri etkisi",
+   "C": "Kadın istihdamı ve toplumsal hareketlilik",
+   "D": "Kültürel metalaşma",
+   "E": "Sosyal taşıma kapasitesi"
+  },
+  "dogru": "C",
+  "cozum": "Kırsal turizm odaklı kadın girişimciliğinin gelişmesiyle kadının ekonomik düzeyinin ve topluma bakış açısının olumlu yönde değişmesi, kadının sosyoekonomik güçlenmesine katkı sağlar; bu, turizmin kadın istihdamı ve toplumsal hareketlilik biçimindeki olumlu sosyal etkisidir (Turizm Sosyolojisi_Anadolu Üni, s.68, Boyacıoğlu 2014 aktarımı).",
+  "hafiza_ipucu": "Pansiyon → butik otel: ekonomik özgürlük = kadın istihdamı etkisi.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - olumlu sosyal etkiler",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SOS-029",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tanim-sosyal-etkiler",
+  "soru": "ABD'nin Pensilvanya eyaletindeki geleneksel Amish halkı, yoğun turist ilgisinden rahatsız olunca geleneksel kıyafetli figüranlarla ayrı bir turistik cazibe merkezi kurmuş; böylece turistlerin dikkati kendi gerçek ev ve tarım yaşamlarından bir ölçüde uzaklaşmış, topluluk geleneksel kültürünü koruyabilmiştir. Bu örnek turizmin hangi etkisini gösterir?",
+  "siklar": {
+   "A": "Kültürel metalaşma yoluyla anlam kaybı",
+   "B": "Gösteri etkisi yoluyla taklit",
+   "C": "Sosyal taşıma kapasitesinin aşılması",
+   "D": "Otantikliğin sahnelenmesi yoluyla yerel kültürün korunması",
+   "E": "Doxey modelinde düşmanlık aşaması"
+  },
+  "dogru": "D",
+  "cozum": "Amish halkı örneğinde otantikliğin sahnelenmesi, turist baskısını azaltarak halkın gerçek gelenek ve yaşam biçimini korumasını desteklemiştir; bu, sahnelenen turistik faaliyetlerin kültür üzerinde olumlu etki yaratabileceğinin bir örneğidir (Turizm Sosyolojisi_Anadolu Üni, s.70).",
+  "hafiza_ipucu": "Sahnelenme her zaman olumsuz değildir; Amish örneğinde korumaya hizmet eder.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SOS-030",
+  "konu": "Turizm Sosyolojisi",
+  "alt_konu": "tanim-sosyal-etkiler",
+  "soru": "Turist ile yerel halk arasındaki etkileşim sonucunda farklı kültürlerin birbirini tanıması, önyargıların azalması ve barışçıl ilişkilerin gelişmesi, turizmin hangi tür etkisine örnektir?",
+  "siklar": {
+   "A": "Ekonomik etki",
+   "B": "Ekolojik etki",
+   "C": "Olumsuz sosyal etki",
+   "D": "Fiziksel etki",
+   "E": "Olumlu sosyal/kültürel etki"
+  },
+  "dogru": "E",
+  "cozum": "Kültürler arası anlayış ve barışın gelişmesi, turizmin toplumsal etkileşim yoluyla ortaya çıkan olumlu sosyal/kültürel etkilerinden biridir (Turizm Sosyolojisi_Anadolu Üni, s.68).",
+  "hafiza_ipucu": "Olumlu sosyal etkiler: miras korunur, anlayış artar, kadın istihdamı gelişir.",
+  "kaynak": {
+   "dosya": "Turizm Sosyolojisi_Anadolu Üni.txt",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - olumlu sosyal etkiler",
+  "zorluk": "kolay"
+ }
+]

@@ -1,0 +1,552 @@
+[
+ {
+  "id": "GUN-001",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "2025-istatistikleri",
+  "soru": "2025 yılında Türkiye'yi ziyaret eden yabancı ziyaretçi sayısı yaklaşık kaç milyon olarak gerçekleşmiştir?",
+  "siklar": {
+   "A": "45,8 milyon",
+   "B": "48,2 milyon",
+   "C": "52,8 milyon",
+   "D": "58,4 milyon",
+   "E": "64,0 milyon"
+  },
+  "dogru": "C",
+  "cozum": "2025 yılı Türkiye turizmi için bir rekor yıl olmuş, yabancı ziyaretçi sayısı yaklaşık 52,8 milyona ulaşmıştır (toplam ziyaretçi sayısı ise yurt dışında yaşayan vatandaşlarla birlikte ~64 milyondur).",
+  "hafiza_ipucu": "Rakam çifti 🔢: \"52,8 milyon kişi 65,2 milyar dolar bıraktı\" — ikisi de iki haneli virgüllü rakam.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GUN-002",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "2025-istatistikleri",
+  "soru": "2025 yılında Türkiye'nin toplam turizm geliri yaklaşık ne kadar olmuştur?",
+  "siklar": {
+   "A": "55 milyar $",
+   "B": "65,2 milyar $",
+   "C": "60 milyar $",
+   "D": "70 milyar $",
+   "E": "75 milyar $"
+  },
+  "dogru": "B",
+  "cozum": "2025 yılında Türkiye'nin turizm geliri yaklaşık 65,2 milyar dolar olarak gerçekleşmiş, gecelik ortalama harcama ise ~100 dolar seviyesinde kalmıştır.",
+  "hafiza_ipucu": "Rakam çifti 🔢: \"52,8 milyon kişi 65,2 milyar dolar bıraktı.\"",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-003",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "2025-istatistikleri",
+  "soru": "2025 yılında Türkiye'ye gelen ziyaretçilerin gecelik ortalama harcaması yaklaşık kaç dolar olarak gerçekleşmiştir?",
+  "siklar": {
+   "A": "75 $",
+   "B": "85 $",
+   "C": "90 $",
+   "D": "100 $",
+   "E": "120 $"
+  },
+  "dogru": "D",
+  "cozum": "2025 yılında gecelik ortalama harcama yaklaşık 100 dolar olarak gerçekleşmiştir; bu rakam toplam 65,2 milyar dolarlık gelirle birlikte anılır.",
+  "hafiza_ipucu": "\"Gecelik yüzlük\" — 100 dolar, yuvarlak ve akılda kalıcı bir eşik değerdir.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-004",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "2025-istatistikleri",
+  "soru": "2025 yılında Türkiye'ye gelen 'toplam ziyaretçi' sayısı (yabancı ziyaretçiler ile yurt dışında yaşayan vatandaşların girişleri birlikte) yaklaşık kaç milyondur?",
+  "siklar": {
+   "A": "52,8 milyon",
+   "B": "58 milyon",
+   "C": "60 milyon",
+   "D": "64 milyon",
+   "E": "68 milyon"
+  },
+  "dogru": "D",
+  "cozum": "Yabancı ziyaretçi sayısı ~52,8 milyon iken, yurt dışında yaşayan vatandaşların girişleri de eklendiğinde toplam ziyaretçi sayısı ~64 milyona ulaşır; iki rakam birbirine karıştırılmamalıdır.",
+  "hafiza_ipucu": "⚓ Çapa: \"52,8 = sadece yabancı; 64 = herkes (yabancı + yurt dışındaki vatandaş).\"",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-005",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "2025-istatistikleri",
+  "soru": "2025 yılında Türkiye'ye en çok yabancı ziyaretçi gönderen ilk üç ülke, ziyaretçi sayısına göre büyükten küçüğe doğru sıralandığında aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Almanya, Rusya Federasyonu, Birleşik Krallık",
+   "B": "Rusya Federasyonu, Almanya, Birleşik Krallık",
+   "C": "Birleşik Krallık, Almanya, Rusya Federasyonu",
+   "D": "Almanya, Birleşik Krallık, Rusya Federasyonu",
+   "E": "Rusya Federasyonu, Birleşik Krallık, Almanya"
+  },
+  "dogru": "B",
+  "cozum": "2025 yılında Türkiye'ye en çok ziyaretçi gönderen ilk üç ülke sırasıyla Rusya Federasyonu (~6,9M), Almanya (~6,75M) ve Birleşik Krallık'tır (~4,27M).",
+  "hafiza_ipucu": "🔑 \"RAB sıralaması\": Rusya, Almanya, Birleşik Krallık. 👁 Antalya sahilinde üç bayraklı üç şezlong: en kalabalık Rus, sonra Alman, sonra İngiliz.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 2025 ilk-3 ülke sıralaması (soru 5, aynı olgu farklı köke)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-006",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "2025-istatistikleri",
+  "soru": "2025 yılında Türkiye'ye en fazla sayıda yabancı ziyaretçi gönderen ülke aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Rusya Federasyonu",
+   "B": "Almanya",
+   "C": "Fransa",
+   "D": "Hollanda",
+   "E": "Birleşik Krallık"
+  },
+  "dogru": "A",
+  "cozum": "2025 yılında Türkiye'ye en çok ziyaretçi gönderen ülke yaklaşık 6,9 milyon ile Rusya Federasyonu'dur; onu Almanya ve Birleşik Krallık izlemiştir.",
+  "hafiza_ipucu": "🔑 \"RAB sıralaması\"nın başı: Rusya.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 2025 ilk-3 ülke sıralaması (soru 5, tek ülke odaklı)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GUN-007",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "2025-istatistikleri",
+  "soru": "2025 yılı Türkiye turizm istatistikleriyle ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Yabancı ziyaretçi sayısı yaklaşık 52,8 milyondur",
+   "B": "Turizm geliri yaklaşık 65,2 milyar dolardır",
+   "C": "Gecelik ortalama harcama yaklaşık 100 dolardır",
+   "D": "Türkiye'ye en çok ziyaretçi gönderen ülke Almanya'dır",
+   "E": "2025 yılı, ziyaretçi sayısı bakımından bir rekor yıl olarak değerlendirilmiştir"
+  },
+  "dogru": "D",
+  "cozum": "2025 yılında Türkiye'ye en çok ziyaretçi gönderen ülke Almanya değil, Rusya Federasyonu'dur (~6,9M); Almanya ~6,75M ile ikinci sıradadır. Diğer ifadeler doğrudur.",
+  "hafiza_ipucu": "⚓ Çapa: Rusya (1. sıra ~6,9M) ile Almanya (2. sıra ~6,75M) arasındaki fark az ama Rusya öndedir.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 2025 ilk-3 ülke sıralaması (soru 5, negatif kalıba çevrilmiş)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "GUN-008",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "2025-istatistikleri",
+  "soru": "2025 yılında Türkiye'ye yaklaşık 6,75 milyon ziyaretçi göndererek ilk üç ülke sıralamasında ikinci sırada yer alan ülke aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Rusya Federasyonu",
+   "B": "Birleşik Krallık",
+   "C": "Fransa",
+   "D": "Almanya",
+   "E": "Hollanda"
+  },
+  "dogru": "D",
+  "cozum": "İlk üç ülke sıralamasında Rusya Federasyonu (~6,9M) birinci, Almanya (~6,75M) ikinci, Birleşik Krallık (~4,27M) üçüncü sıradadır.",
+  "hafiza_ipucu": "🔑 \"RAB sıralaması\"nın ortası: Almanya, ikinci sırada.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 2025 ilk-3 ülke sıralaması (soru 5, rakam eşleştirmeli)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-009",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "papa-xiv-leo",
+  "soru": "2025 yılında Türkiye'yi ziyaret eden Papa aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "XIV. Leo",
+   "B": "II. Ionnes Paulus",
+   "C": "XII. Pius",
+   "D": "XVI. Benedictus",
+   "E": "XIII. Gregorius"
+  },
+  "dogru": "A",
+  "cozum": "Mayıs 2025'te seçilen Papa XIV. Leo, 27-30 Kasım 2025 tarihlerinde Türkiye'yi ziyaret etmiştir; bu ziyaret onun ilk yurt dışı ziyaretidir.",
+  "hafiza_ipucu": "🎬 Papa zinciri: Mayıs'ta seçildi → Kasım'da İLK uçuş Türkiye'ye → İznik gölü kıyısında 1700. yıl ayini.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - İznik'i ziyaret eden Papa (soru 60, aynı olgu farklı köke)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GUN-010",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "papa-xiv-leo",
+  "soru": "Papa XIV. Leo'nun Türkiye ziyareti hangi tarihler arasında gerçekleşmiştir?",
+  "siklar": {
+   "A": "15-18 Ekim 2025",
+   "B": "20-23 Kasım 2025",
+   "C": "27-30 Kasım 2025",
+   "D": "5-8 Aralık 2025",
+   "E": "1-4 Aralık 2025"
+  },
+  "dogru": "C",
+  "cozum": "Papa XIV. Leo, 27-30 Kasım 2025 tarihleri arasında Türkiye'yi ziyaret etmiş; Ankara, İstanbul ve İznik'te programlar gerçekleştirmiştir.",
+  "hafiza_ipucu": "🔢 27-30 Kasım: ayın son haftası, dört günlük ziyaret.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Papa XIV. Leo ziyareti (soru 60, tarih odaklı)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-011",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "papa-xiv-leo",
+  "soru": "Mayıs 2025'te seçilen Papa XIV. Leo, papalığı döneminin ilk yurt dışı ziyaretini hangi ülke(ler)e gerçekleştirmiştir?",
+  "siklar": {
+   "A": "İtalya-Vatikan",
+   "B": "Fransa-İspanya",
+   "C": "Yunanistan-Kıbrıs",
+   "D": "Mısır-İsrail",
+   "E": "Türkiye-Lübnan"
+  },
+  "dogru": "E",
+  "cozum": "Papa XIV. Leo'nun seçilmesinin ardından ilk yurt dışı ziyareti Türkiye ve Lübnan'a olmuştur; Türkiye ayağının amacı İznik Konsili'nin 1700. yıldönümü anmasıdır.",
+  "hafiza_ipucu": "🎬 Papa zinciri: Mayıs'ta seçildi → Kasım'da İLK uçuş Türkiye'ye (+Lübnan).",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Papa XIV. Leo ziyareti (soru 60, ilk yurt dışı ziyareti açısından)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-012",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "papa-xiv-leo",
+  "soru": "Papa XIV. Leo'nun Kasım 2025'teki Türkiye ziyaretinin temel amacı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ayasofya'yı ziyaret etmek",
+   "B": "Fener Rum Patrikhanesi'nin kuruluş yıldönümünü kutlamak",
+   "C": "I. İznik Konsili'nin 1700. yıldönümünü İznik'te ekümenik olarak anmak",
+   "D": "Efes'teki Meryem Ana Evi'ni ziyaret etmek",
+   "E": "Kapadokya'daki yeraltı kiliselerini gezmek"
+  },
+  "dogru": "C",
+  "cozum": "Ziyaretin temel amacı, MS 325'te toplanan I. İznik Konsili'nin 1700. yıldönümünün (325+1700=2025) İznik'te ekümenik bir törenle anılmasıdır.",
+  "hafiza_ipucu": "🔑 \"325+1700=2025\" — Konsil matematiği.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Papa XIV. Leo ziyareti (soru 60, amaç odaklı)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-013",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "papa-xiv-leo",
+  "soru": "Papa XIV. Leo, Türkiye'yi ziyaret eden kaçıncı Papa olmuştur?",
+  "siklar": {
+   "A": "3.",
+   "B": "4.",
+   "C": "6.",
+   "D": "7.",
+   "E": "5."
+  },
+  "dogru": "E",
+  "cozum": "Papa XIV. Leo, Türkiye'yi ziyaret eden 5. Papa'dır.",
+  "hafiza_ipucu": "🔢 Beşinci papa, beş parmak: Türkiye'ye gelen beşinci konuk.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Papa XIV. Leo ziyareti (soru 60, sıra numarası odaklı)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GUN-014",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "papa-xiv-leo",
+  "soru": "Papa XIV. Leo'nun Kasım 2025'teki Türkiye ziyaret programında aşağıdaki duraklardan hangisi YER ALMAMIŞTIR?",
+  "siklar": {
+   "A": "Ankara",
+   "B": "İstanbul",
+   "C": "İznik",
+   "D": "Sultanahmet",
+   "E": "Efes"
+  },
+  "dogru": "E",
+  "cozum": "Ziyaret programı Ankara, İstanbul (Sultanahmet, Saint-Esprit Katedrali ayini) ve İznik'i (göl kıyısındaki bazilika) kapsamıştır; Efes bu programda yer almamıştır.",
+  "hafiza_ipucu": "⚓ Çapa: Program üç durak — Ankara, İstanbul, İznik; Efes farklı bir ziyaretin (Meryem Ana Evi) konusudur, bu geziyle karıştırılmamalı.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Papa XIV. Leo ziyareti (soru 60, program odaklı negatif)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-015",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "unesco-dunya-mirasi",
+  "soru": "2025 yılı itibarıyla Türkiye'nin UNESCO Dünya Mirası Listesi'nde yer alan toplam alan sayısı kaçtır?",
+  "siklar": {
+   "A": "19",
+   "B": "22",
+   "C": "20",
+   "D": "21",
+   "E": "23"
+  },
+  "dogru": "B",
+  "cozum": "2025 yılı itibarıyla Türkiye'nin Dünya Mirası Listesi'nde 22 alan bulunmaktadır (20 kültürel + 2 karma: Göreme-Kapadokya ve Pamukkale-Hierapolis).",
+  "hafiza_ipucu": "⚓ Çapa: 22 Dünya Mirası alanı, 32 Somut Olmayan Kültürel Miras unsuru — 22 alan, 32 unsur.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GUN-016",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "unesco-dunya-mirasi",
+  "soru": "Türkiye'nin UNESCO Dünya Mirası Listesi'ne 2025 yılında eklenen en son alan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gordion",
+   "B": "Göbeklitepe",
+   "C": "Aphrodisias",
+   "D": "Diyarbakır Kalesi ve Hevsel Bahçeleri",
+   "E": "Sardes ve Bin Tepe Lidya Tümülüsleri"
+  },
+  "dogru": "E",
+  "cozum": "2025 yılında Dünya Mirası Listesi'ne eklenen en son alan, Manisa'daki Sardes ve Bin Tepe Lidya Tümülüsleri'dir; bir önceki ekleme 2023'te Gordion olmuştur.",
+  "hafiza_ipucu": "🔑 \"Sardes'in tümülüsleri 2025'te taçlandı\" — Lidya altını, miras altını.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GUN-017",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "unesco-dunya-mirasi",
+  "soru": "2025 yılında UNESCO Dünya Mirası Listesi'ne eklenen Sardes ve Bin Tepe Lidya Tümülüsleri hangi ilimizde yer almaktadır?",
+  "siklar": {
+   "A": "İzmir",
+   "B": "Uşak",
+   "C": "Manisa",
+   "D": "Aydın",
+   "E": "Denizli"
+  },
+  "dogru": "C",
+  "cozum": "Sardes ve Bin Tepe Lidya Tümülüsleri, Manisa ilinde yer almaktadır ve 2025 yılında Dünya Mirası Listesi'ne eklenmiştir.",
+  "hafiza_ipucu": "🔑 \"Sardes'in tümülüsleri 2025'te taçlandı\" — Manisa'daki Lidya mirası.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GUN-018",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "unesco-sokum",
+  "soru": "2025 yılı itibarıyla Türkiye'nin UNESCO Somut Olmayan Kültürel Miras Listesi'nde toplam kaç unsuru bulunmaktadır?",
+  "siklar": {
+   "A": "28",
+   "B": "29",
+   "C": "30",
+   "D": "31",
+   "E": "32"
+  },
+  "dogru": "E",
+  "cozum": "2025 yılı itibarıyla Türkiye'nin Somut Olmayan Kültürel Miras (SOKÜM) Listesi'nde 32 unsur bulunmaktadır; en son eklenen Aralık 2025'te Antep İşi Nakışı olmuştur.",
+  "hafiza_ipucu": "⚓ Çapa: 22 Dünya Mirası alanı, 32 SOKÜM unsuru — alan 22, unsur 32.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-019",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "unesco-sokum",
+  "soru": "Aralık 2025'te UNESCO Somut Olmayan Kültürel Miras Listesi'ne eklenen unsur aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ebru Sanatı",
+   "B": "Antep İşi Nakışı",
+   "C": "Mesir Macunu",
+   "D": "Türk Kahvesi Kültürü",
+   "E": "Hacivat-Karagöz"
+  },
+  "dogru": "B",
+  "cozum": "Aralık 2025'te UNESCO Somut Olmayan Kültürel Miras Listesi'ne eklenen unsur Antep İşi Nakışı'dır; bu ekleme ile toplam unsur sayısı 32'ye ulaşmıştır.",
+  "hafiza_ipucu": "👁 Aralık ayında UNESCO defterine nakış işleniyor — Aralık 2025, 32. unsur.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GUN-020",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "unesco-gecici-liste",
+  "soru": "Türkiye'nin UNESCO Dünya Mirası geçici listesine (tentative list) 2025 yılında eklenen alan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kadıkalesi-Anaia Höyüğü",
+   "B": "Sagalassos",
+   "C": "Zeugma",
+   "D": "Perge",
+   "E": "Alahan Manastırı"
+  },
+  "dogru": "A",
+  "cozum": "2025 yılında Türkiye'nin UNESCO geçici listesine Kuşadası/Aydın'daki Kadıkalesi-Anaia Höyüğü eklenmiştir; bu, ileride kalıcı listeye aday olabilecek bir alandır.",
+  "hafiza_ipucu": "⚓ Çapa: Geçici liste = henüz kalıcı Dünya Mirası değil, adaylık aşaması; Kadıkalesi-Anaia = Kuşadası/Aydın.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "GUN-021",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "unesco-komite-2026",
+  "soru": "Temmuz 2026'da düzenlenen 48. UNESCO Dünya Mirası Komitesi toplantısı hangi şehirde gerçekleştirilmiştir?",
+  "siklar": {
+   "A": "Riyad",
+   "B": "Busan",
+   "C": "Yeni Delhi",
+   "D": "Paris",
+   "E": "Roma"
+  },
+  "dogru": "B",
+  "cozum": "48. Dünya Mirası Komitesi toplantısı Temmuz 2026'da Güney Kore'nin Busan şehrinde düzenlenmiş, 25 yeni alan listeye eklenerek dünya toplamı 1.273'e ulaşmıştır; Türkiye'den bu oturumda yeni alan teyit edilmemiştir.",
+  "hafiza_ipucu": "🔑 \"Busan'dan buraya\": 2026 Busan'da bayrağı Türkiye aldı — 2027 ev sahibi.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-022",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "unesco-komite-2026",
+  "soru": "Türkiye, UNESCO Dünya Mirası Komitesi'nin 2027 yılındaki 49. oturumuna ev sahipliği yapacak şekilde seçilmiştir. Türkiye bu görevi, İstanbul'da düzenlenen hangi yıldan sonra ikinci kez üstlenecektir?",
+  "siklar": {
+   "A": "2012",
+   "B": "2014",
+   "C": "2016",
+   "D": "2018",
+   "E": "2020"
+  },
+  "dogru": "C",
+  "cozum": "Türkiye, 2016 yılında İstanbul'da ev sahipliği yaptığı Dünya Mirası Komitesi oturumundan sonra, 2027'deki 49. oturuma da ev sahipliği yapacak şekilde seçilmiştir; bu ikinci ev sahipliği görevidir.",
+  "hafiza_ipucu": "🔑 \"Busan'dan buraya\": bayrak devri Busan(2026)→Türkiye(2027); önceki ev sahipliği 2016 İstanbul.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "GUN-023",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "unesco-dunya-mirasi",
+  "soru": "Türkiye'nin UNESCO Dünya Mirası Listesi'ndeki 'karma miras' (hem kültürel hem doğal) statüsündeki alanlarıyla ilgili aşağıdakilerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Göreme Milli Parkı ve Kapadokya karma statüdedir",
+   "B": "Pamukkale-Hierapolis karma statüdedir",
+   "C": "Türkiye'de toplam 2 karma miras alanı bulunmaktadır",
+   "D": "Sardes ve Bin Tepe Lidya Tümülüsleri karma miras statüsündedir",
+   "E": "Türkiye'nin 22 Dünya Mirası alanının 20'si kültürel statüdedir"
+  },
+  "dogru": "D",
+  "cozum": "Sardes ve Bin Tepe Lidya Tümülüsleri kültürel statüde bir Dünya Mirası alanıdır, karma statüde değildir. Türkiye'nin karma statüdeki tek iki alanı Göreme-Kapadokya ve Pamukkale-Hierapolis'tir (20 kültürel + 2 karma = 22).",
+  "hafiza_ipucu": "⚓ Çapa: Sardes-Bin Tepe (DM, 2025, kültürel) vs Antep İşi (SOKÜM, Aralık 2025) — alan vs nakış; karma sadece Göreme+Pamukkale.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "GUN-024",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "genel-guncel",
+  "soru": "2025 yılı itibarıyla Türkiye, dünya genelinde en çok ziyaret edilen ülkeler sıralamasında nasıl bir konumdadır?",
+  "siklar": {
+   "A": "İlk 3 ülke arasındadır",
+   "B": "İlk 5 ülke arasındadır",
+   "C": "İlk 10'da ancak ilk 5'te değildir",
+   "D": "İlk 15 içindedir",
+   "E": "İlk 20'de yer almamaktadır"
+  },
+  "dogru": "B",
+  "cozum": "Türkiye, 2025 yılında ~52,8 milyon yabancı ziyaretçiyle dünya turizm sıralamasında ilk 5 ülke arasında yer almıştır; önünde Fransa ve İspanya gibi ülkeler bulunmaktadır.",
+  "hafiza_ipucu": "⚓ Çapa: Rekor yıl (52,8 milyon) → dünya sıralamasında ilk 5; Fransa-İspanya önde.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GUN-025",
+  "konu": "Güncel Turizm Verileri",
+  "alt_konu": "genel-guncel",
+  "soru": "Aşağıdaki ülkelerden hangisi, 2025 yılı dünya turizm sıralamasında Türkiye'nin önünde (daha fazla ziyaretçi ağırlayan) yer alan ülkelerdendir?",
+  "siklar": {
+   "A": "Fransa",
+   "B": "Yunanistan",
+   "C": "Portekiz",
+   "D": "Hollanda",
+   "E": "Belçika"
+  },
+  "dogru": "A",
+  "cozum": "Dünya turizm sıralamasında Türkiye'nin önünde yer alan ülkeler arasında Fransa ve İspanya bulunmaktadır; Türkiye 2025'te ilk 5 ülke arasındadır.",
+  "hafiza_ipucu": "⚓ Çapa: Fransa-İspanya önde, Türkiye ilk 5'te.",
+  "kaynak": {
+   "dosya": "rehber/22-guncel.md (web-teyitli, Ağustos 2026)",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ }
+]

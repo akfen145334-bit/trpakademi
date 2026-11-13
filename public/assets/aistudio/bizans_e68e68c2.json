@@ -1,0 +1,882 @@
+[
+ {
+  "id": "BIZ-001",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-milano-fermani",
+  "soru": "MS 313 yılında imzalanan ve Hristiyanlara -ve diğer tüm din mensuplarına- inanç serbestisi tanıyan ferman aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Selanik Fermanı",
+   "B": "Efes Fermanı",
+   "C": "Kadıköy Fermanı",
+   "D": "Milano Fermanı",
+   "E": "Antakya Fermanı"
+  },
+  "dogru": "D",
+  "cozum": "313 yılında Konstantin, rakibi Licinius ile Milano'da yaptığı görüşmede Hristiyanlığa (ve diğer inançlara) serbestlik tanıyan Milano Fermanı'nı kabul etti; bu, Hristiyanlığı devlet dini ilan etmek değil, sadece inanç özgürlüğü tanımak anlamına geliyordu.",
+  "hafiza_ipucu": "KONstantin KApıyı açtı: 313 Milano'da açılan serbestlik kapısı.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 51
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.34 (MS 313'te imzalanan, din serbestisi tanıyan belge - doğru cevap Milano Fermanı)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-002",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-milano-fermani",
+  "soru": "Aşağıdakilerden hangisi MS 313 Milano Fermanı ile ilgili YANLIŞ bir bilgidir?",
+  "siklar": {
+   "A": "Hristiyanlığı Roma'nın tek resmi devlet dini ilan etmiştir",
+   "B": "Konstantin tarafından kabul edilmiştir",
+   "C": "Hristiyanlığa inanç serbestliği tanımıştır",
+   "D": "Rakip imparator Licinius ile Milano'da görüşülerek alınmıştır",
+   "E": "Hristiyanlara yönelik takibata son verilmesini sağlamıştır"
+  },
+  "dogru": "A",
+  "cozum": "Milano Fermanı yalnızca inanç serbestliği tanımıştır; Hristiyanlığı Roma/Bizans'ın TEK resmi devlet dini ilan eden, diğer tüm din ve inançları yasaklayan kişi I. Theodosius'tur (379-395).",
+  "hafiza_ipucu": "Kapı (313/Konstantin, serbestlik) ile Tek (380/Theodosius, devlet dini) birbirine karıştırılmamalı.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 51
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-003",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-iznik-konsili",
+  "soru": "Hristiyanlık tarihinin ilk genel (ekümenik) konsili olan ve MS 325 yılında toplanan konsil aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efes Konsili",
+   "B": "Kadıköy Konsili",
+   "C": "İstanbul Konsili",
+   "D": "Lyon Konsili",
+   "E": "İznik Konsili"
+  },
+  "dogru": "E",
+  "cozum": "20 Mayıs 325'te Nikaeia/İznik'te İmparator Konstantinos'un başkanlığında toplanan İznik Konsili, Hristiyanlık tarihinin ilk ekümenik konsilidir; burada Arius'un öğretisi (Arianizm) mahkûm edilmiştir.",
+  "hafiza_ipucu": "İZNİK'te İLK büyük buluşma: 325.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 52
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-004",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-iznik-konsili",
+  "soru": "İznik Konsili'nde Hz. İsa'nın Tanrı ile aynı özü taşımadığını, Tanrı'nın yarattığı bir varlık olduğunu savunduğu için sapkın (heretik) ilan edilen İskenderiye Piskoposu Arius'un öğretisine ne ad verilir?",
+  "siklar": {
+   "A": "Monofizitlik",
+   "B": "Arianizm",
+   "C": "Nestorianizm",
+   "D": "Diofizitlik",
+   "E": "Ortodoksluk"
+  },
+  "dogru": "B",
+  "cozum": "Arius'un, Hz. İsa'nın Tanrı ile aynı özden olmadığını savunan öğretisine Arianizm denir; 325 İznik Konsili'nde bu öğreti mahkûm edilmiş, Teslis inancı (Baba-Oğul-Kutsal Ruh aynı özden) teyit edilmiştir.",
+  "hafiza_ipucu": "ARius'un ARianizm'i İznik'te mahkûm edildi.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 51
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-005",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-iznik-konsili",
+  "soru": "İznik Konsili'ne bizzat başkanlık ederek dini otoriteyle siyasi iktidarı bir araya getiren Bizans imparatoru kimdir?",
+  "siklar": {
+   "A": "I. Theodosius",
+   "B": "Valens",
+   "C": "I. Konstantinos",
+   "D": "İustinianos",
+   "E": "Herakleios"
+  },
+  "dogru": "C",
+  "cozum": "325'te toplanan İznik Konsili'ne bizzat İmparator I. Konstantinos başkanlık etmiştir; bu, sonraki imparatorlara örnek oluşturan bir siyasi-dini otorite birleşimi anlamına gelmiştir.",
+  "hafiza_ipucu": "Kapıyı açan Konstantin, konsile de kendisi başkanlık etti.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 52
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-006",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-theodosius",
+  "soru": "Pagan inançlarını yasaklayarak Hristiyanlığı Roma/Bizans İmparatorluğu'nun tek resmi (devlet) dini haline getiren imparator aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "I. Konstantinos",
+   "B": "I. Theodosius",
+   "C": "İustinianos",
+   "D": "Valens",
+   "E": "Herakleios"
+  },
+  "dogru": "B",
+  "cozum": "I. Theodosius (379-395) çıkardığı bir fermanla Hristiyanlığı devletin resmi dini haline getirdi ve diğer tüm din ve inançların varlığını yasa dışı ilan etti.",
+  "hafiza_ipucu": "THEodosius TEK din yaptı.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 51
+  },
+  "akraba_cikmis_soru": "Şubat 2025 S.12 ve S.58 (Pagan dinini/paganlığı yasaklayan imparator - doğru cevap Büyük Theodosius, iki ayrı soruda)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-007",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-theodosius",
+  "soru": "İstanbul turu yapan bir rehber, gruba Bizans döneminin dinî dönüm noktalarını şöyle özetliyor: 'İmparatorlardan biri Hristiyanlığa sadece serbestlik tanıdı; diğeri ise paganlığı tamamen yasaklayıp Hristiyanlığı devletin TEK resmi dini yaptı.' Rehberin bahsettiği imparatorlar sırasıyla aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İustinianos - Herakleios",
+   "B": "I. Theodosius - Konstantin",
+   "C": "Valens - Konstantin",
+   "D": "Konstantin - I. Theodosius",
+   "E": "Arkadios - Honorios"
+  },
+  "dogru": "D",
+  "cozum": "Konstantin 313'te Milano Fermanı ile yalnızca serbestlik tanımış; I. Theodosius ise 380'lerde pagan inançları yasaklayıp Hristiyanlığı tek resmi devlet dini yapmıştır.",
+  "hafiza_ipucu": "Önce kapı (Konstantin), sonra tek (Theodosius) - sıra bozulmaz.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 51
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-008",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-ikonoklazm",
+  "soru": "Bizans'ta 726-842 yılları arasında süren, dini tasvirlerin (ikonaların) put sayılarak yasaklanıp tahrip edildiği harekete ne ad verilir?",
+  "siklar": {
+   "A": "İkonoklazm",
+   "B": "Monofizitlik",
+   "C": "Arianizm",
+   "D": "Skolastisizm",
+   "E": "Nestorianizm"
+  },
+  "dogru": "A",
+  "cozum": "İkonoklazm (İkonakırıcılık/tasvir kırıcılık), 726-842 yılları arasında Bizans'ta dini tasvirlerin kaldırılıp yasaklandığı, binlerce insanın öldüğü ve pek çok sanat eserinin yok edildiği harekettir.",
+  "hafiza_ipucu": "İKONA + KLAZma(kırma) = ikona KIRAN dönem.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 241
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.94 (8.yy sonu-9.yy başını kapsayan, kiliselerdeki tasvirlerin kaldırılması/yasaklanması dönemi - doğru cevap İkonoklazm)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-009",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-ikonoklazm",
+  "soru": "'İkonoklazm' terimi Yunanca 'eikon' (imge/tasvir) ve 'klao' (kırmak) sözcüklerinden türemiştir. Buna göre İkonoklazm hareketinin temel amacı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kiliseleri camiye çevirmek",
+   "B": "Paganlığı yasaklamak",
+   "C": "Konsil kararlarını iptal etmek",
+   "D": "Manastırları çoğaltmak",
+   "E": "Dini tasvirleri/ikonaları yok etmek"
+  },
+  "dogru": "E",
+  "cozum": "İkonoklazm/İkonaklast (İkonakırıcılık), sözcük anlamıyla imgelerin/tasvirlerin kasıtlı olarak yok edilmesi anlamına gelir; 726-842 arasında Bizans sanatında hâkim olan tasvir kırıcı süreci ifade eder.",
+  "hafiza_ipucu": "eikon(imge) + klao(kırmak) = imgeyi kıran hareket.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 241
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-010",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-ikonoklazm",
+  "soru": "İkonoklazm döneminde imparator V. Konstantinos (741-775) tarafından mülklerine el konularak baskının hedefi haline getirilen kurumlar aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Piskoposluklar",
+   "B": "Hipodromlar",
+   "C": "Manastırlar",
+   "D": "Sarnıçlar",
+   "E": "Sikke darphaneleri"
+  },
+  "dogru": "C",
+  "cozum": "8. yüzyılda ortaya çıkan İkonoklazm hareketi zamanla keşişleri ve manastırları hedef alan bir harekete dönüştü; bazı manastırlar kapatıldı, manastır arazileri İmparator V. Konstantinos tarafından müsadere edildi.",
+  "hafiza_ipucu": "İkona kırılırken manastır malı da elden gitti.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 201
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "BIZ-011",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-1054-ayrilik",
+  "soru": "Hristiyanlık dünyasının Katolik (Roma) ve Ortodoks (Bizans) kiliseleri olarak kesin biçimde ikiye ayrılması hangi yılda gerçekleşmiştir?",
+  "siklar": {
+   "A": "1054",
+   "B": "1204",
+   "C": "1453",
+   "D": "325",
+   "E": "726"
+  },
+  "dogru": "A",
+  "cozum": "1054 yılında Katolik ve Ortodoks kiliseleri kesin olarak ayrılmıştır; bu ayrılığa son vermek için sonraki yüzyıllarda 1274 Lyon ve 1438/39 Ferrara-Floransa konsillerinde 'union' (birlik) girişimleri yapılmış ama kalıcı olmamıştır.",
+  "hafiza_ipucu": "1054: bin elli dörtte kilise ikiye bölündü.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-012",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-1204-hacli",
+  "soru": "1204 yılında İstanbul'u işgal ederek Bizans hazinesini ve sanat eserlerini yağmalayan Batılı güç aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "II. Haçlı Seferi ordusu",
+   "B": "Selçuklu ordusu",
+   "C": "Venedik donanması tek başına",
+   "D": "IV. Haçlı Seferi'ndeki Latinler",
+   "E": "Sasani ordusu"
+  },
+  "dogru": "D",
+  "cozum": "1204 yılında gerçekleşen IV. Haçlı Seferi'nde Latinler İstanbul'u işgal etmiş, dokuz asırlık hazineyi ve sanat eserlerini yağmalamıştır; Bizans bu işgalin ardından İznik, Trabzon ve Epir'de devletçiklere bölünmüştür.",
+  "hafiza_ipucu": "Dördüncü Haçlı, dördüncü kez İstanbul'a el attı.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 25
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-013",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-kronoloji",
+  "soru": "Aşağıdaki olaylar kronolojik sıralamada (eskiden yeniye) doğru şekilde hangi seçenekte verilmiştir?",
+  "siklar": {
+   "A": "İznik Konsili - Milano Fermanı - pagan yasağı - İkonoklazm",
+   "B": "Milano Fermanı - İznik Konsili - pagan yasağı - İkonoklazm",
+   "C": "pagan yasağı - Milano Fermanı - İznik Konsili - İkonoklazm",
+   "D": "İkonoklazm - İznik Konsili - Milano Fermanı - pagan yasağı",
+   "E": "Milano Fermanı - pagan yasağı - İznik Konsili - İkonoklazm"
+  },
+  "dogru": "B",
+  "cozum": "Doğru kronoloji: 313 Milano Fermanı (serbestlik) → 325 İznik Konsili (ilk ekümenik konsil) → 380-392 I. Theodosius'un pagan yasağı/devlet dini ilanı → 726-842 İkonoklazm.",
+  "hafiza_ipucu": "Kapı (313) - Konsil (325) - Tek din (380) - Kırılan ikona (726-842).",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 51
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "BIZ-014",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "din-tarihi-efes-konsili",
+  "soru": "431 yılında Efes'te toplanan konsilde, Hz. Meryem'in Tanrı değil sadece beşerî özellikleri olan İsa'yı doğurduğunu savunduğu için mahkûm edilen Antakya kilise ekolü mensubu din adamı kimdir?",
+  "siklar": {
+   "A": "Arius",
+   "B": "Atanasios",
+   "C": "Petros",
+   "D": "Pavlos",
+   "E": "Nestorius"
+  },
+  "dogru": "E",
+  "cozum": "Diofizit (çiftdoğacı) inançtan hareket eden Nestorius, Hz. Meryem'in tanrı doğurmadığını savundu; 431'de Efes'te toplanan konsilde bu öğretisi reddedildi, 449'daki II. Efes Konsili'nde ise aforoz edildi.",
+  "hafiza_ipucu": "NESTorius Efes'te NESTeklendi (reddedildi).",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 52
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "BIZ-015",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-bozdogan-kemeri",
+  "soru": "İstanbul'da günümüze ulaşan ve İmparator Valens (364-378) tarafından yaptırılan ünlü su kemerinin bugünkü adı nedir?",
+  "siklar": {
+   "A": "Kırkçeşme",
+   "B": "Mağlova Kemeri",
+   "C": "Bozdoğan Kemeri",
+   "D": "Uzunkemer",
+   "E": "Güzelce Kemer"
+  },
+  "dogru": "C",
+  "cozum": "İmparator Valens'in (364-378) İstanbul'da iki tepe arasında inşa ettirdiği su kemeri, günümüzde Bozdoğan Kemeri olarak bilinmektedir; Erken Hristiyanlık döneminin önemli su kemeri örneklerindendir.",
+  "hafiza_ipucu": "VANAyı açan VALENS - kemerin musluğu.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.53 (Valens'in İstanbul'da yaptırdığı aqueduct'un günümüzdeki adı - doğru cevap Bozdoğan Kemeri)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-016",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-bozdogan-kemeri",
+  "soru": "Bozdoğan Kemeri'ni yaptıran İmparator Valens hangi savaşta hayatını kaybetmiştir?",
+  "siklar": {
+   "A": "Edirne (Adrianople)",
+   "B": "Malazgirt",
+   "C": "Miriokefalon",
+   "D": "Yermük",
+   "E": "Niğbolu"
+  },
+  "dogru": "A",
+  "cozum": "378 yılında Edirne yakınlarında Vizigotlara karşı yapılan savaşta Bizans ordusu ağır bir yenilgiye uğramış, bizzat İmparator Valens savaş meydanında hayatını kaybetmiştir.",
+  "hafiza_ipucu": "VALENS'in sonu EDİRNE'de geldi (378).",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-017",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-dikilitas",
+  "soru": "İstanbul Sultanahmet'teki Hipodrom alanında bulunan, üzerinde hiyeroglif yazılar olan Mısır kökenli Dikilitaş'ı (Obelisk) hangi Bizans imparatoru getirtmiştir?",
+  "siklar": {
+   "A": "I. Konstantinos",
+   "B": "Valens",
+   "C": "İustinianos",
+   "D": "I. Theodosius",
+   "E": "Herakleios"
+  },
+  "dogru": "D",
+  "cozum": "Hipodrom'un spina bölümünde bulunan Mısır kökenli Obelisk (Dikilitaş), 390-392 yılında İmparator I. Theodosius tarafından diktirilmiştir.",
+  "hafiza_ipucu": "Pagan tapınaklarını kapatan Theodosius, Mısır'dan koca Dikilitaş'ı getirtip Hipodrom'a dikiyor - yasakçı ama koleksiyoncu!",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 251
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.33 (Sultanahmet Meydanı'ndaki, hiyeroglif yazılı Mısır kökenli Dikilitaş'ı getirten Bizans imparatoru - doğru cevap I. Theodosius)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-018",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-dikilitas",
+  "soru": "Hipodrom'daki Dikilitaş (Obelisk), Bizans döneminde nereden getirtilmiştir?",
+  "siklar": {
+   "A": "Yunanistan/Delphi",
+   "B": "İtalya/Roma",
+   "C": "Suriye",
+   "D": "Filistin",
+   "E": "Mısır"
+  },
+  "dogru": "E",
+  "cozum": "Obelisk (Dikilitaş), I. Theodosius tarafından 390 yılında Mısır'dan getirtilerek Hipodrom'daki bugünkü yerine diktirilmiştir.",
+  "hafiza_ipucu": "Dikilitaş, hiyeroglifleriyle Mısır'ın hediyesi.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 251
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-019",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-ayasofya",
+  "soru": "Bugünkü (üçüncü) Ayasofya kilisesi hangi imparator tarafından, hangi tarihler arasında inşa ettirilmiştir?",
+  "siklar": {
+   "A": "Konstantin, 324-330",
+   "B": "İustinianos, 532-537",
+   "C": "Theodosius, 380-390",
+   "D": "Valens, 364-378",
+   "E": "Herakleios, 610-620"
+  },
+  "dogru": "B",
+  "cozum": "Nika İsyanı sırasında (532) yanan Ayasofya, İmparator İustinianos tarafından 532-537 yılları arasında dünyanın en büyük kubbeli bazilikası olarak yeniden inşa edilmiştir.",
+  "hafiza_ipucu": "İUSTİNİANUS'un 5 yılı: 532-537.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 59
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-020",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-ayasofya",
+  "soru": "Ayasofya'yı inşa eden iki mimar aşağıdakilerin hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Sinan - Davud Ağa",
+   "B": "Anthemios - Kallikrates",
+   "C": "Miletli İsidoros - Aydınlı (Trallesli) Antemios",
+   "D": "İktinos - Kallikrates",
+   "E": "İsidoros - Nikeforos"
+  },
+  "dogru": "C",
+  "cozum": "İmparator I. İustinianos, bugünkü Ayasofya kilisesini Miletli İsidoros ve Aydınlı (Tralles asıllı) Antemios adlı iki mimara inşa ettirmiştir.",
+  "hafiza_ipucu": "İki Anadolulu mimar: Miletli İsidoros + Aydınlı Antemios.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-021",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-ayasofya",
+  "soru": "Ayasofya'nın bugünkü (üçüncü) hâlinin inşasına yol açan, 532 yılında meydana gelen ve kiliseyi de yakan büyük halk ayaklanmasının adı nedir?",
+  "siklar": {
+   "A": "Nika İsyanı",
+   "B": "Bafeus İsyanı",
+   "C": "İkonoklast İsyanı",
+   "D": "Katalan İsyanı",
+   "E": "Andronikos İsyanı"
+  },
+  "dogru": "A",
+  "cozum": "532 yılında yaşanan Nika İsyanı sırasında Ayasofya yanmış, İmparator İustinianos kiliseyi 532-537 yılları arasında yeniden ve daha görkemli biçimde inşa ettirmiştir.",
+  "hafiza_ipucu": "Nika yanınca Ayasofya yeniden doğdu.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-022",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-yerebatan",
+  "soru": "Turist rehberi Ayşe, grubuna İstanbul'un yer altındaki en ünlü kapalı sarnıcını gezdirirken bu yapının İustinianos döneminde, 6. yüzyılda inşa edildiğini anlatıyor. Rehberin bahsettiği bu yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bozdoğan Kemeri",
+   "B": "Bakırköy Sarnıcı",
+   "C": "Tekfur Sarayı",
+   "D": "Kariye Camii",
+   "E": "Yerebatan Sarnıcı"
+  },
+  "dogru": "E",
+  "cozum": "İstanbul'da İustinianos döneminde, 6. yüzyılda inşa edilen Yerebatan Sarnıcı, kapalı sarnıçların en önemli mimari örneklerindendir.",
+  "hafiza_ipucu": "Yerebatan, adının hakkını verir: yerin altına batmış saray gibi sarnıç.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 251
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-023",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-kariye",
+  "soru": "Zengin mozaik ve fresklerle bilinen, 14. yüzyılda Teodoros Metohitis tarafından dış nartek ve mezar şapeli eklenen Hora Manastırı Kilisesi, günümüzde hangi adla bilinir?",
+  "siklar": {
+   "A": "Pammakaristos",
+   "B": "Kalenderhane",
+   "C": "Zeyrek Camii",
+   "D": "Kariye (Khora)",
+   "E": "Fethiye Camii"
+  },
+  "dogru": "D",
+  "cozum": "Paleologoslar Dönemi resim sanatının en bilinen örnekleri Hora Manastırı Kilisesi'nde (Kariye Camii) yer alır; 14. yüzyılda Teodoros Metohitis tarafından yaptırılan dış narteks ve mezar şapelinde zengin bir mozaik-fresk programı bulunur.",
+  "hafiza_ipucu": "Kariye = mozaikli hazine sandığı.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 256
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-024",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-tekfur-sarayi",
+  "soru": "12. yüzyıldan itibaren terk edilen Büyük Saray'ın yerine Bizans imparatorluk ailesinin taşındığı, günümüzde Tekfur Sarayı olarak da bilinen geç dönem saray yapısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bukoleon Sarayı",
+   "B": "Vlaherna (Blakhernai) Sarayı",
+   "C": "Bryas Sarayı",
+   "D": "Manganoi Sarayı",
+   "E": "Lausos Sarayı"
+  },
+  "dogru": "B",
+  "cozum": "12. yüzyılda 4. yüzyıldan beri imparatorluk sarayı olarak kullanılan Büyük Saray terk edilerek, Tekfur Sarayı olarak da bilinen Vlaherna (Blakhernai) Sarayı'na taşınılmıştır.",
+  "hafiza_ipucu": "Tekfur = geç dönemin son sarayı, Vlaherna'da.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 250
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-025",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-yilanli-sutun",
+  "soru": "Burmalı Sütun olarak da bilinen, birbirine dolanmış üç yılan figüründen oluşan ve Hipodrom'a diktirilen sütun, aslında hangi antik kutsal alandan getirilmiştir?",
+  "siklar": {
+   "A": "Efes'teki Artemis Tapınağı",
+   "B": "Roma'daki Apollon Tapınağı",
+   "C": "Delfi'deki Apollon Tapınağı",
+   "D": "Olympia'daki Zeus Tapınağı",
+   "E": "Didim'deki Apollon Tapınağı"
+  },
+  "dogru": "C",
+  "cozum": "Yılanlı Sütun, Delfi'deki Apollon Tapınağı'ndan getirilerek Hipodrom'un ortasına diktirilmiştir; adını birbirine dolanmış üç yılan figüründen alır.",
+  "hafiza_ipucu": "Yılanlı Sütun, Delfi kâhininin kutsal alanından kopup geldi.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 113
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-026",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-cemberlitas",
+  "soru": "57 metre uzunluğunda olan ve Roma'daki Apollon Tapınağı'ndan söktürülerek Konstantinos Forumu'nun ortasına yerleştirilen sütun, günümüzde hangi adla anılmaktadır?",
+  "siklar": {
+   "A": "Çemberlitaş",
+   "B": "Kıztaşı",
+   "C": "Yılanlı Sütun",
+   "D": "Dikilitaş",
+   "E": "Gotlar Sütunu"
+  },
+  "dogru": "A",
+  "cozum": "I. Konstantinos döneminde Roma'daki Apollon Tapınağı'ndan söktürülerek İstanbul'a getirilen ve Konstantinos Forumu'nun ortasına yerleştirilen bu sütun, günümüzde Çemberlitaş olarak bilinmektedir.",
+  "hafiza_ipucu": "Çemberlitaş, Roma'dan gelip Konstantin'in forumunda çember çemberdir.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 113
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-027",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-hipodrom-anitlari",
+  "soru": "I. Dikilitaş (Obelisk) — Mısır\nII. Yılanlı Sütun — Delfi\nIII. Çemberlitaş — Roma\nHipodrom ve çevresindeki yukarıdaki anıt-köken eşleştirmelerinden hangileri DOĞRUDUR?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "Yalnız II",
+   "C": "I ve II",
+   "D": "II ve III",
+   "E": "I, II ve III"
+  },
+  "dogru": "E",
+  "cozum": "Dikilitaş (Obelisk) I. Theodosius tarafından Mısır'dan, Yılanlı Sütun Delfi'deki Apollon Tapınağı'ndan, Çemberlitaş ise Roma'daki Apollon Tapınağı'ndan İstanbul'a getirilmiştir; üç eşleştirme de doğrudur.",
+  "hafiza_ipucu": "Üç anıt, üç ayrı memleket: Mısır - Delfi - Roma.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 113
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-028",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "istanbul-yapilari-esleme",
+  "soru": "Aşağıdaki Bizans yapısı - imparator eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Bozdoğan Kemeri - Valens",
+   "B": "Ayasofya (bugünkü) - İustinianos",
+   "C": "Yerebatan Sarnıcı - İustinianos",
+   "D": "Kıztaşı - I. Konstantinos",
+   "E": "Dikilitaş (Hipodrom) - I. Theodosius"
+  },
+  "dogru": "D",
+  "cozum": "Kıztaşı, I. Konstantinos'un değil, İmparator Markianos döneminde (450-457) 455 yılında dikilmiştir; diğer eşleştirmeler doğrudur.",
+  "hafiza_ipucu": "Kıztaşı'nın babası Konstantin değil, Markianos'tur.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 113
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "BIZ-029",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "anadolu-kentleri-nikea",
+  "soru": "Aşağıdaki şehirlerden hangisi Bizans İmparatorluğu'nda hem dini hem de askeri açıdan önemli merkezlerden biriydi?",
+  "siklar": {
+   "A": "Aphrodisias",
+   "B": "Nikea (İznik)",
+   "C": "Efes",
+   "D": "Milet",
+   "E": "Sart"
+  },
+  "dogru": "B",
+  "cozum": "Nikea (İznik), Hristiyanlığın amentüsünün belirlendiği İznik Konsili'nin toplandığı yer olarak Bizanslılar için dini açıdan kutsal, aynı zamanda Bitinya bölgesinin savunmasında önemli bir askeri merkezdi.",
+  "hafiza_ipucu": "İznik gölü kıyısında hem kılıç hem haç taşıyan kent.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 145
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.74 (Bizans İmparatorluğu'nda hem dini hem askeri anlamda önemli merkezlerden biri - doğru cevap Nikea)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-030",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "anadolu-kentleri-nikea",
+  "soru": "1204 yılında İstanbul'un Latinler tarafından işgalinin ardından, Teodoros Laskaris yönetiminde Bizans'ın devamı sayılan ve 1261'e kadar sürgün başkent işlevi gören devlet nerede kurulmuştur?",
+  "siklar": {
+   "A": "Trabzon",
+   "B": "Epir",
+   "C": "Nikea (İznik)",
+   "D": "Mora",
+   "E": "Selanik"
+  },
+  "dogru": "C",
+  "cozum": "1204 Latin işgalinin ardından I. Teodoros Laskaris yönetiminde Nikaia (İznik) İmparatorluğu kurulmuş, 1261'de İstanbul'u geri alarak Bizans'ı yeniden ihya etmiştir.",
+  "hafiza_ipucu": "İznik, kaçan imparatorun 1204'teki sığınağı ve 1261'e kadar başkenti.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 265
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-031",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "anadolu-kentleri-amorium",
+  "soru": "Bizans döneminde askeri üs ve idari merkez olan, aynı zamanda Anatolikon Theması'nın başkentliğini yapan Amorium antik kenti, günümüzde hangi ilin sınırları içerisindedir?",
+  "siklar": {
+   "A": "Ankara",
+   "B": "Antalya",
+   "C": "Aydın",
+   "D": "Afyonkarahisar",
+   "E": "Aksaray"
+  },
+  "dogru": "D",
+  "cozum": "Amorium, Bizans'ın Anadolu'daki en önemli askeri kentlerinden biri ve Anatolikon Theması'nın merkezi olup, günümüzde Afyonkarahisar (Emirdağ-Hisarköy) sınırları içindedir.",
+  "hafiza_ipucu": "AMORium'un AFYONu.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 225
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.40 (Amorium antik kentinin günümüzde hangi ilin sınırları içinde olduğu - doğru cevap Afyonkarahisar, birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-032",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "anadolu-kentleri-amorium",
+  "soru": "Amorium kentinin, Bizans'ın Anadolu'daki idari-askeri birimi olan 'tema' sistemindeki konumu için aşağıdakilerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Anatolikon Theması'nın merkezidir",
+   "B": "Opsikion Theması'nın merkezidir",
+   "C": "Thrakesion Theması'nın merkezidir",
+   "D": "Ermeniakon Theması'nın merkezidir",
+   "E": "Bukellarion Theması'nın merkezidir"
+  },
+  "dogru": "A",
+  "cozum": "Amorium, Orta Bizans döneminin askeri kale kentlerinden (kastron) biri olup, Anatolikon Theması'nın merkezi konumundaydı.",
+  "hafiza_ipucu": "Amorium = Anatolikon'un kalbi.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 242
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-033",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "siyasi-tarih-kurulus",
+  "soru": "Bizans İmparatorluğu'nun başkenti İstanbul (Konstantinopolis), hangi tarihte resmen kuruluşunu ilan etmiştir?",
+  "siklar": {
+   "A": "324",
+   "B": "330",
+   "C": "395",
+   "D": "476",
+   "E": "610"
+  },
+  "dogru": "B",
+  "cozum": "324 yılında inşasına başlanan İstanbul, 11 Mayıs 330 tarihinde görkemli törenlerle resmen Bizans'ın başkenti ilan edilmiştir.",
+  "hafiza_ipucu": "330: üç-üç-sıfır, İstanbul'un doğum tarihi.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-034",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "siyasi-tarih-kurulus",
+  "soru": "Konstantinopolis şehri, kurucusu I. Konstantinos'un adına izafeten anılmadan önce hangi isimle açılışı yapılmıştır?",
+  "siklar": {
+   "A": "Byzantion",
+   "B": "Bizantium",
+   "C": "Augusteion",
+   "D": "Nikaia",
+   "E": "Nova Roma (Yeni Roma)"
+  },
+  "dogru": "E",
+  "cozum": "Konstantinos'un Byzantion üzerine kurduğu yeni şehir 11 Mayıs 330'da 'Nova Roma' (Yeni Roma) adıyla resmen açılmış, kısa süre sonra kurucusuna atfen Konstantinopolis denilmesi gelenek haline gelmiştir.",
+  "hafiza_ipucu": "Önce Yeni Roma, sonra Konstantin'in şehri.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 50
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-035",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "siyasi-tarih-395-bolunme",
+  "soru": "Roma İmparatorluğu'nun, İmparator I. Theodosius'un topraklarını oğulları arasında paylaştırmasıyla Doğu ve Batı olarak resmen ikiye ayrılması hangi yılda gerçekleşmiştir?",
+  "siklar": {
+   "A": "324",
+   "B": "330",
+   "C": "395",
+   "D": "476",
+   "E": "1054"
+  },
+  "dogru": "C",
+  "cozum": "395 yılında I. Theodosius, imparatorluk topraklarını oğulları arasında paylaştırdı: Batı'yı küçük oğlu Honorios, Doğu'yu ise büyük oğlu Arkadios yönetecekti; bu olay Roma'nın Doğu-Batı olarak ikiye ayrılması olarak tarihe geçti.",
+  "hafiza_ipucu": "395: Theodosius öldü, imparatorluk bölündü.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 53
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-036",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "siyasi-tarih-476-batinin-yikilisi",
+  "soru": "Batı Roma İmparatorluğu'nun Cermen kabileleri tarafından tarih sahnesinden silindiği kabul edilen tarih aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "395",
+   "B": "410",
+   "C": "455",
+   "D": "476",
+   "E": "493"
+  },
+  "dogru": "D",
+  "cozum": "5. yüzyılın son çeyreğinde Roma şehri Cermen kabileleri tarafından ele geçirilmiş, 476 yılı Batı Roma İmparatorluğu'nun yıkılış tarihi olarak kabul edilmiştir.",
+  "hafiza_ipucu": "395'te bölündü, 476'da Batı yıkıldı: bölün → yıkıl.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "BIZ-037",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "siyasi-tarih-1453-fetih",
+  "soru": "İstanbul'un 1453 yılında Osmanlılar tarafından fethedilmesiyle tahttan düşen son Bizans imparatoru kimdir?",
+  "siklar": {
+   "A": "XI. Konstantinos Paleologos",
+   "B": "VIII. İoannis Paleologos",
+   "C": "II. Andronikos",
+   "D": "I. Teodoros Laskaris",
+   "E": "V. İoannis Paleologos"
+  },
+  "dogru": "A",
+  "cozum": "Bizans'ın son imparatoru XI. Konstantinos Paleologos'tur (1448-1453); İstanbul'un 1453'te Osmanlılar tarafından fethedilmesiyle Bizans Devleti sona ermiştir.",
+  "hafiza_ipucu": "Kurucu Konstantin'le başladı, son Konstantin'le (XI.) bitti.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 228
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-038",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "siyasi-tarih-baslangic-tarihleri",
+  "soru": "Bazı tarihçilerce Bizans Devleti'nin başlangıç tarihi olarak kabul edilen tarihlerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Dioklitianos'un 284'te tahta çıkması",
+   "B": "800'de Şarlman'ın Roma İmparatoru olarak taç giymesi",
+   "C": "324'te İstanbul'un inşasına başlanması",
+   "D": "330'da İstanbul'un başkent ilan edilmesi",
+   "E": "395'te imparatorluğun ikiye ayrılması"
+  },
+  "dogru": "B",
+  "cozum": "Bizans'ın başlangıcı için önerilen tarihler arasında 284 (Dioklitianos), 324 (İstanbul'un inşası), 330 (başkent ilanı) ve 395 (ikiye ayrılma) sayılır; 800'de Şarlman'ın taç giymesi ise Batı'daki bir olay olup Bizans'ın başlangıç tarihleri arasında gösterilmez.",
+  "hafiza_ipucu": "Şarlman Batı'nın tacı, Bizans'ın başlangıcı değil.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 35
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "BIZ-039",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "siyasi-tarih-1204-sonrasi",
+  "soru": "1204 yılındaki IV. Haçlı Seferi'nin ardından, Bizans'ın devamı olduğunu iddia eden devletçiklerin kurulduğu üç merkez aşağıdakilerin hangisinde birlikte verilmiştir?",
+  "siklar": {
+   "A": "İznik - Konya - Trabzon",
+   "B": "Epir - Mora - Selanik",
+   "C": "Trabzon - Amasya - Epir",
+   "D": "İznik - Epir - Ankara",
+   "E": "Nikea (İznik) - Trabzon - Epir"
+  },
+  "dogru": "E",
+  "cozum": "1204'teki Latin işgalinin ardından Bizans'ın devamı olduğunu iddia eden üç devletçik Nikea (İznik) İmparatorluğu, Trabzon İmparatorluğu ve Epir Despotluğu'dur. Konya Anadolu Selçuklu başkentidir; Ankara, Amasya ve Selanik-Mora bu üçlünün içinde yer almaz.",
+  "hafiza_ipucu": "Kaçış üçgeni: göl kenarı İZNİK + kuzey kıyısı TRABZON + batı dağları EPİR — imparator hayaletleri üçe bölündü.",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 25
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "BIZ-040",
+  "konu": "Bizans Tarihi",
+  "alt_konu": "siyasi-tarih-kronoloji",
+  "soru": "Aşağıdaki olaylar kronolojik sıraya (eskiden yeniye) konulduğunda doğru sıralama hangisidir?\nI. Konstantinopolis'in başkent ilan edilmesi (330)\nII. Roma'nın Doğu-Batı olarak ikiye ayrılması (395)\nIII. Batı Roma'nın yıkılışı (476)\nIV. İstanbul'un fethi (1453)",
+  "siklar": {
+   "A": "II-I-III-IV",
+   "B": "I-III-II-IV",
+   "C": "I-II-III-IV",
+   "D": "IV-III-II-I",
+   "E": "II-III-I-IV"
+  },
+  "dogru": "C",
+  "cozum": "Doğru kronoloji: 330 İstanbul'un başkent ilanı → 395 Doğu-Batı bölünmesi → 476 Batı Roma'nın yıkılışı → 1453 İstanbul'un fethi ve Bizans'ın sonu.",
+  "hafiza_ipucu": "Kur (330) - Böl (395) - Yık (476) - Fet(h)et (1453).",
+  "kaynak": {
+   "dosya": "Bizans Tarihi_Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ }
+]

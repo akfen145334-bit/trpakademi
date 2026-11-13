@@ -1,0 +1,882 @@
+[
+ {
+  "id": "OSM-001",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-ilk-kale",
+  "soru": "Osman Bey liderliğindeki Osmanlı Beyliği'nin Osmanlı tarih geleneğinde Anadolu'da fethettiği ilk kale aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Karacahisar",
+   "B": "İnegöl",
+   "C": "Bilecik",
+   "D": "Yarhisar",
+   "E": "Köprühisar"
+  },
+  "dogru": "A",
+  "cozum": "Eskişehir yakınındaki Karacahisar, Osmanlı tarih geleneğinde beyliğin Anadolu'da ele geçirdiği ilk kale ve bağımsızlığın ilan edildiği yer olarak gösterilir.",
+  "hafiza_ipucu": "KARA gün dostu ilk kale — Söğüt'ten görünen kara tepedeki hisar.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 17
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 (Osmanlı'nın ilk fethettiği kale-Karacahisar sorusu)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-002",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-kayi-boyu",
+  "soru": "Osmanlı hanedanının tarihî gelenekte mensup olduğuna inanılan Oğuz boyu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kınık",
+   "B": "Kayı",
+   "C": "Bayat",
+   "D": "Avşar",
+   "E": "Çepni"
+  },
+  "dogru": "B",
+  "cozum": "Osmanlı tarih geleneğinde hanedan Kayı boyuna bağlanır; bu kabul XV. yüzyılda hanedan tarafından resmi bir nitelik kazanmıştır. Tahrir defterlerine yansıyan izler de Bursa-Eskişehir-Bolu hattında Kayıların varlığını gösterir.",
+  "hafiza_ipucu": "Osman Bey'in bağlı olduğu boy: KAYI — Bursa-Eskişehir hattında iz bırakan boy.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 15
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-003",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-osman-bey",
+  "soru": "Osmanlı Beyliği'nin kurucusu Osman Bey, beyliğin ilk yıllarında ağırlıklı olarak hangi bölgede faaliyet göstermiştir?",
+  "siklar": {
+   "A": "Konya-Karaman",
+   "B": "Sivas-Tokat",
+   "C": "Söğüt-Domaniç",
+   "D": "Antalya-Alanya",
+   "E": "Kastamonu-Sinop"
+  },
+  "dogru": "C",
+  "cozum": "Osman Bey, babası Ertuğrul Bey'den devraldığı Söğüt-Domaniç bölgesinde beyliğin çekirdeğini oluşturmuş, buradan Bizans sınırına doğru akınlarını sürdürmüştür.",
+  "hafiza_ipucu": "Söğüt-Domaniç = Osman Bey'in ilk yurdu, kale fethinden önceki çekirdek bölge.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-004",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-baskentler",
+  "soru": "Osmanlı Devleti'nin kuruluş döneminde merkez/başkentlerinin kronolojik sırası aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Bursa-Söğüt-Edirne",
+   "B": "Söğüt-Edirne-Bursa",
+   "C": "Edirne-Bursa-Söğüt",
+   "D": "Söğüt-Bursa-Edirne",
+   "E": "Bursa-Edirne-Söğüt"
+  },
+  "dogru": "D",
+  "cozum": "Beyliğin çekirdeği Söğüt'te oluşmuş, ilk gerçek başkent 1326'da fethedilen Bursa (Orhan Bey) olmuş, I. Murad döneminde de başkent Edirne'ye taşınmıştır.",
+  "hafiza_ipucu": "Kuruluşun üç durağı: SÖĞÜT (yurt) → BURSA (Orhan, 1326) → EDİRNE (I. Murad) — batıya kayan başkent.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-005",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-bursa-fethi",
+  "soru": "Bursa'yı 6 Nisan 1326'da fethederek Osmanlı Devleti'nin ilk gerçek başkenti hâline getiren bey kimdir?",
+  "siklar": {
+   "A": "Osman Bey",
+   "B": "I. Murad",
+   "C": "Yıldırım Bayezid",
+   "D": "I. Mehmed",
+   "E": "Orhan Bey"
+  },
+  "dogru": "E",
+  "cozum": "Orhan Bey, babası Osman Bey'in vefatından iki yıl sonra, bir aydır sıkı bir şekilde kuşattığı Bursa'yı 6 Nisan 1326'da anlaşma şartlarıyla ele geçirmiştir.",
+  "hafiza_ipucu": "Orhan Bey, babasının vefatından iki yıl sonra Bursa'yı aldı — Osman'ın oğlu, Bursa'nın fatihi.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-006",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-ankara-savasi",
+  "soru": "1402 yılında Yıldırım Bayezid'in Timur karşısında yenilerek esir düştüğü ve Osmanlı Devleti'ni büyük bir buhrana sürükleyen savaş aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ankara Savaşı",
+   "B": "Kosova Savaşı",
+   "C": "Niğbolu Savaşı",
+   "D": "Varna Savaşı",
+   "E": "Sırpsındığı Savaşı"
+  },
+  "dogru": "A",
+  "cozum": "1402 Ankara Savaşı'nda Yıldırım Bayezid, Timur'a yenilerek esir düşmüş; bu yenilgi Osmanlı Devleti'ni oğullar arası taht kavgalarının yaşandığı Fetret Devri'ne sürüklemiştir.",
+  "hafiza_ipucu": "Timur, Yıldırım'ı Ankara'da (1402) yendi — 'Yıldırım' unvanına rağmen bu kez o çakılan taraf oldu.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 55
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-007",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-fetret-devri",
+  "soru": "1402 Ankara Savaşı'ndan sonra Yıldırım Bayezid'in oğulları arasında 1413'e kadar süren taht mücadeleleri dönemine ne ad verilir?",
+  "siklar": {
+   "A": "Kafes Usulü",
+   "B": "Fetret Devri",
+   "C": "Duraklama Devri",
+   "D": "Lale Devri",
+   "E": "Tanzimat Devri"
+  },
+  "dogru": "B",
+  "cozum": "Ankara Savaşı sonrası padişahsız kalan Osmanlı Devleti'nde şehzadeler arasında yaşanan 1402-1413 arası taht kavgaları dönemine Fetret Devri denir.",
+  "hafiza_ipucu": "Timur, Yıldırım'ı kafese koydu; dört şehzade tahtın dört bacağını çekiştiriyor — 1402 Ankara → 11 yıl kavga.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 (Fetret Devri-Yıldırım Bayezid sorusu)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-008",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-fetret-devri",
+  "soru": "Fetret Devri'ne son vererek Osmanlı Devleti'nin siyasi birliğini yeniden sağlayan şehzade aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Şehzade Musa",
+   "B": "Şehzade İsa",
+   "C": "Çelebi (I.) Mehmed",
+   "D": "Şehzade Süleyman",
+   "E": "II. Murad"
+  },
+  "dogru": "C",
+  "cozum": "Kardeşleriyle giriştiği mücadeleleri kazanan Çelebi Mehmed (I. Mehmed), 1413'te tek başına tahta çıkarak Fetret Devri'ni sona erdirmiş, bu yüzden devletin 'ikinci kurucusu' olarak da anılır.",
+  "hafiza_ipucu": "Çelebi Mehmed = devletin 'ikinci kurucusu', kardeşlerini teker teker saf dışı bırakıp masayı topladı.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 59
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-009",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "istanbulun-fethi",
+  "soru": "İstanbul'u 1453 yılında fethederek Bizans İmparatorluğu'na son veren Osmanlı padişahı kimdir?",
+  "siklar": {
+   "A": "II. Murad",
+   "B": "Yıldırım Bayezid",
+   "C": "II. Bayezid",
+   "D": "Fatih Sultan Mehmed",
+   "E": "Yavuz Sultan Selim"
+  },
+  "dogru": "D",
+  "cozum": "II. Mehmed, 1453'te İstanbul'u fethederek Bizans İmparatorluğu'nu ortadan kaldırmış ve bu fetihten sonra 'Fatih' unvanını almıştır.",
+  "hafiza_ipucu": "1453 = Fatih'in İstanbul'u fethettiği yıl; 'Fatih' unvanı ona bu fetihten sonra verildi.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 62
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-010",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "istanbulun-fethi-topkapi",
+  "soru": "İstanbul surlarını gezdiren rehber Mert, grubuna Fatih Sultan Mehmed'in şehre girişini bir sarayın kapısından değil, kara surlarındaki bir kapıdan yaptığını anlatıyor. Fatih'in İstanbul'a girdiği bu sur kapısının adı nedir?",
+  "siklar": {
+   "A": "Edirnekapı",
+   "B": "Belgradkapı",
+   "C": "Yenikapı",
+   "D": "Silivrikapı",
+   "E": "Topkapı"
+  },
+  "dogru": "E",
+  "cozum": "Fatih Sultan Mehmed, fetih günü İstanbul'a kara surlarındaki Topkapı'dan girmiştir; bu kapı, çok sonra inşa edilen Topkapı Sarayı ile karıştırılmamalıdır.",
+  "hafiza_ipucu": "Fatih SARAYDAN girmedi, SURDAN girdi — sur kapısının adı da TOPKAPI.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 76
+  },
+  "akraba_cikmis_soru": "Mart 2026 (Fatih'in şehre giriş kapısı-Topkapı, sur kapısı sorusu)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-011",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-baskentler-negatif",
+  "soru": "Aşağıdaki şehirlerden hangisi Osmanlı Devleti tarihinin hiçbir döneminde devlet merkezi (başkent) olarak kullanılmamıştır?",
+  "siklar": {
+   "A": "Konya",
+   "B": "Bursa",
+   "C": "Edirne",
+   "D": "Söğüt",
+   "E": "İstanbul"
+  },
+  "dogru": "A",
+  "cozum": "Konya, Anadolu Selçuklu Devleti'nin başkentiydi ve hiçbir dönemde Osmanlı başkenti olmamıştır. Osmanlı'nın merkezleri sırasıyla Söğüt, Bursa, Edirne ve 1453'ten itibaren İstanbul'dur.",
+  "hafiza_ipucu": "Konya = Selçuklu başkenti, hiçbir zaman Osmanlı başkenti olmadı — Söğüt-Bursa-Edirne-İstanbul zincirinin dışında kalır.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "OSM-012",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kurulus-orhan-bey-sikke",
+  "soru": "Orhan Bey, Bursa'yı fethettikten sonra bağımsızlığının bir göstergesi (istiklal alameti) olarak aşağıdakilerden hangisini gerçekleştirmiştir?",
+  "siklar": {
+   "A": "Hutbeyi kendi adına okutmuştur",
+   "B": "Kendi adına para (sikke) bastırmıştır",
+   "C": "Divan-ı Hümayun'u kurmuştur",
+   "D": "Halifelik unvanını almıştır",
+   "E": "İlk medreseyi açmıştır"
+  },
+  "dogru": "B",
+  "cozum": "Orhan Bey, Bursa'nın fethinden sonra bağımsız ve güçlü bir lider olduğunun göstergesi olarak kendi adına para (sikke) bastırmıştır.",
+  "hafiza_ipucu": "Sikke bastırmak = bağımsızlık ilanı; Orhan Bey Bursa'yı alınca kendi parasını bastırdı.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-013",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "yavuz-trabzon-valiligi",
+  "soru": "Şehzadeliği döneminde Trabzon sancağına vali olarak atanan, ardından kısa süren saltanatında Çaldıran ve Mısır seferleriyle devletin sınırlarını büyük ölçüde genişleten padişah kimdir?",
+  "siklar": {
+   "A": "Kanuni Sultan Süleyman",
+   "B": "II. Bayezid",
+   "C": "Yavuz Sultan Selim",
+   "D": "II. Selim",
+   "E": "III. Murad"
+  },
+  "dogru": "C",
+  "cozum": "Yavuz Sultan Selim, şehzadeliğinde Trabzon sancak beyliği yapmış; 1512-1520 arasındaki kısa saltanatında Çaldıran (1514) ve Mısır (1516-17) seferleriyle devletin topraklarını büyük ölçüde genişletmiştir.",
+  "hafiza_ipucu": "TRABZON'dan gelen sert vali → Çaldıran → Mısır → halifelik.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 113
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-014",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "yavuz-caldiran",
+  "soru": "1514 yılında Yavuz Sultan Selim'in Şah İsmail idaresindeki Safevi Devleti'ni yendiği savaş aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Otlukbeli",
+   "B": "Mercidabık",
+   "C": "Ridaniye",
+   "D": "Çaldıran",
+   "E": "Turnadağ"
+  },
+  "dogru": "D",
+  "cozum": "Çaldıran Savaşı (1514), Yavuz Sultan Selim'in Şah İsmail idaresindeki Safevi Devleti'ni yendiği ve Doğu Anadolu'da Osmanlı nüfuzunu güçlendirdiği savaştır.",
+  "hafiza_ipucu": "ÇALDIRAN'da Şah İsmail'in ordusu Yavuz'un top-tüfeğine yenildi (1514).",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 115
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-015",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "yavuz-misir-seferi",
+  "soru": "Yavuz Sultan Selim'in 1516-1517 yıllarında Mercidabık ve Ridaniye savaşlarıyla ortadan kaldırdığı devlet aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Safevi Devleti",
+   "B": "Akkoyunlu Devleti",
+   "C": "Dulkadiroğulları",
+   "D": "Karamanoğulları",
+   "E": "Memlük Devleti"
+  },
+  "dogru": "E",
+  "cozum": "Yavuz Sultan Selim, 1516'daki Mercidabık ve 1517'deki Ridaniye savaşlarıyla Memlük Devleti'ni ortadan kaldırmış, Suriye, Filistin, Hicaz ve Mısır'ı Osmanlı topraklarına katmıştır.",
+  "hafiza_ipucu": "MERCİDABIK (1516) ve RİDANİYE (1517) = Memlük'ün iki çöküş sahnesi, ikisi de Mısır yolunda.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 126
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-016",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "yavuz-halifelik",
+  "soru": "Yavuz Sultan Selim'in 1517'de Mısır'ı fethetmesinin en önemli siyasi-dini sonucu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Halifeliğin Osmanlı hanedanına geçmesi",
+   "B": "İpek Yolu'nun tamamen Osmanlı kontrolüne geçmesi",
+   "C": "Venedik ile ticaret anlaşması imzalanması",
+   "D": "Kutsal emanetlerin Topkapı'dan çıkarılması",
+   "E": "Kapıkulu ocaklarının kurulması"
+  },
+  "dogru": "A",
+  "cozum": "Mısır seferi sonucunda Memlük hakimiyetindeki halifelik unvanı Osmanlı hanedanına geçmiş, bu durum padişahlara aynı zamanda 'halife' sıfatını da kazandırmıştır.",
+  "hafiza_ipucu": "Mısır'ın anahtarıyla birlikte HALİFELİK de Yavuz'un cebine girdi.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 124
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-017",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "yavuz-8-yila-80-yil",
+  "soru": "Tarihçilerin kısa süren saltanatı için 'Sekiz yıla seksen yıllık iş sığdırdı' değerlendirmesini yaptığı Osmanlı padişahı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kanuni Sultan Süleyman",
+   "B": "Yavuz Sultan Selim",
+   "C": "Yıldırım Bayezid",
+   "D": "Fatih Sultan Mehmed",
+   "E": "II. Selim"
+  },
+  "dogru": "B",
+  "cozum": "Sekiz yıllık (1512-1520) kısa fakat çok yoğun saltanatında Çaldıran, Mercidabık ve Ridaniye seferleriyle devletin sınırlarını büyük ölçüde genişleten Yavuz Sultan Selim için tarihçiler bu değerlendirmeyi yapmıştır.",
+  "hafiza_ipucu": "Tarihçilerin sözü: SEKİZ YILA SEKSEN YILLIK İŞ SIĞDIRDI.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.8 ('Sekiz yıla seksen yıllık iş sığdırdı'-Yavuz Sultan Selim, Trabzon valisi ipuçlu, birebir kalıp)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-018",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "yavuz-kanuni-ayrimi-negatif",
+  "soru": "Aşağıdakilerden hangisi Yavuz Sultan Selim'e değil, oğlu Kanuni Sultan Süleyman'ın dönemine aittir?",
+  "siklar": {
+   "A": "Çaldıran Savaşı",
+   "B": "Ridaniye Savaşı",
+   "C": "Mohaç Savaşı",
+   "D": "Mercidabık Savaşı",
+   "E": "Halifeliğin Osmanlı hanedanına geçmesi"
+  },
+  "dogru": "C",
+  "cozum": "Çaldıran, Mercidabık, Ridaniye ve halifeliğin geçişi Yavuz Sultan Selim dönemine (1512-1520) aittir; Mohaç Savaşı (1526) ise oğlu Kanuni Sultan Süleyman dönemindedir.",
+  "hafiza_ipucu": "Çaldıran-Mercidabık-Ridaniye-halifelik = YAVUZ'un kısa fırtınası; Mohaç = oğlu KANUNİ'nin uzun görkemi.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 144
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "OSM-019",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kanuni-en-uzun-saltanat",
+  "soru": "Osmanlı padişahları arasında en uzun süre (46 yıl) tahtta kalan padişah aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Fatih Sultan Mehmed",
+   "B": "II. Mahmud",
+   "C": "III. Ahmed",
+   "D": "Kanuni Sultan Süleyman",
+   "E": "II. Abdülhamid"
+  },
+  "dogru": "D",
+  "cozum": "Kanuni Sultan Süleyman, 1520-1566 yılları arasında 46 yıl tahtta kalarak Osmanlı padişahları arasında en uzun saltanat süren padişah olmuştur.",
+  "hafiza_ipucu": "Kanuni = 46 yıl tahtta, Osmanlı'nın en uzun saltanatı — bir kuşaktan fazla hüküm sürdü.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 135
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-020",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kanuni-mohac",
+  "soru": "Kanuni Sultan Süleyman'ın 1526'da Macar Kralı II. Layoş'u mağlup ederek Macaristan'ın kapılarını Osmanlı'ya açtığı savaş aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Varna",
+   "B": "Belgrad Kuşatması",
+   "C": "Niğbolu",
+   "D": "Sırpsındığı",
+   "E": "Mohaç"
+  },
+  "dogru": "E",
+  "cozum": "29 Ağustos 1526'da Mohaç Ovası'nda yapılan savaşta Macar Kralı II. Layoş yenilerek hayatını kaybetmiş, kısa süre sonra Osmanlı ordusu Macaristan'ın başkenti Budin'e girmiştir.",
+  "hafiza_ipucu": "MOHAÇ Ovası'nda (29 Ağustos 1526) Macar Kralı II. Layoş'un ordusu bir günde dağıldı.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 158
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-021",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kanuni-ayasofya-samdanlar",
+  "soru": "Ayasofya'yı gezdiren bir rehber, mihrabın iki yanındaki iri bronz şamdanların 1526'da Kanuni Sultan Süleyman tarafından hediye edildiğini ve bu şamdanların bir Avrupa katedralinden getirildiğini anlatıyor. Şamdanların getirildiği katedralin bulunduğu şehir aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Budin (Buda)",
+   "B": "Belgrad",
+   "C": "Viyana",
+   "D": "Rodos",
+   "E": "Kahire"
+  },
+  "dogru": "A",
+  "cozum": "Mohaç zaferinin ardından Macaristan'ın başkenti Budin'e (Buda; bugünkü Budapeşte'nin bir parçası) giren Kanuni Sultan Süleyman, buradan getirttiği bronz şamdanları Ayasofya'nın mihrabının iki yanına hediye etmiştir.",
+  "hafiza_ipucu": "Mohaç'tan dönen Kanuni'nin develeri BUDA katedralinin dev bronz şamdanlarını taşıyor, Ayasofya mihrabının iki yanına dikiliyor.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 158
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.44 (Ayasofya şamdanları-Budin/Buda katedrali, Kanuni 1526)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OSM-022",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kanuni-viyana-kusatmasi",
+  "soru": "Kanuni Sultan Süleyman'ın Budin'in güvenliğini sağlamak amacıyla 1529'da gerçekleştirdiği ve Osmanlı ordusunun Avrupa'nın ortasına kadar ilerlediği kuşatma aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Rodos Kuşatması",
+   "B": "Viyana Kuşatması",
+   "C": "Malta Kuşatması",
+   "D": "Kandiye Kuşatması",
+   "E": "Belgrad Kuşatması"
+  },
+  "dogru": "B",
+  "cozum": "1529 Viyana Kuşatması'nın asıl amacı Budin'in emniyetini sağlamaktı; mevsim şartlarının ağırlaşması üzerine kuşatma kaldırılmış, ordu Budin'e geri dönmüştür.",
+  "hafiza_ipucu": "Budin'i korumak için 1529'da VİYANA kapılarına kadar gidildi, ama şehir alınamadı.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 159
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-023",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kanuni-mimar-sinan",
+  "soru": "Mimar Sinan'ın kendi ifadesiyle 'çıraklık, kalfalık, ustalık' eserleri olarak nitelendirdiği üç cami aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+  "siklar": {
+   "A": "Süleymaniye-Şehzade-Selimiye",
+   "B": "Selimiye-Süleymaniye-Şehzade",
+   "C": "Şehzade-Süleymaniye-Selimiye",
+   "D": "Şehzade-Selimiye-Süleymaniye",
+   "E": "Süleymaniye-Selimiye-Şehzade"
+  },
+  "dogru": "C",
+  "cozum": "Mimar Sinan, İstanbul'daki Şehzade Camii'ni çıraklık, yine İstanbul'daki Süleymaniye Camii'ni kalfalık, Edirne'deki Selimiye Camii'ni (II. Selim döneminde) ise ustalık eseri olarak nitelendirmiştir.",
+  "hafiza_ipucu": "ŞEHZADE çırak, SÜLEYMANİYE kalfa, SELİMİYE usta.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1566-1789_Anadolu Üni.pdf",
+   "sayfa": 17
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-024",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kanuni-sefer-sirasi",
+  "soru": "Bir rehber, Kanuni Sultan Süleyman dönemindeki Avrupa seferlerini kronolojik sırayla anlatmak istiyor. Aşağıdaki sıralamalardan hangisi doğrudur?",
+  "siklar": {
+   "A": "Viyana Kuşatması (1529) - Mohaç Savaşı (1526)",
+   "B": "Mohaç Savaşı (1526) - Çaldıran Savaşı (1514)",
+   "C": "Ridaniye (1517) - Mohaç (1526) - Çaldıran (1514)",
+   "D": "Mohaç Savaşı (1526) - Viyana Kuşatması (1529)",
+   "E": "Viyana Kuşatması (1529) - Çaldıran Savaşı (1514)"
+  },
+  "dogru": "D",
+  "cozum": "Kanuni önce 1526'da Mohaç Savaşı'nı kazanmış, ardından Budin'in güvenliğini sağlamak için 1529'da Viyana'yı kuşatmıştır. Çaldıran (1514) ve Ridaniye (1517) ise babası Yavuz Sultan Selim dönemine aittir.",
+  "hafiza_ipucu": "Önce MOHAÇ (1526) düştü, sonra Budin'i korumak için VİYANA (1529) kuşatıldı — Çaldıran-Ridaniye babanın (Yavuz) mirası.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 158
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-025",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "divan-i-humayun-tanim",
+  "soru": "Osmanlı Devleti'nde padişah adına devlet işlerinin görüşülüp karara bağlandığı en yüksek karar ve danışma organı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Meclis-i Mebusan",
+   "B": "Şûra-yı Devlet",
+   "C": "Meclis-i Vâlâ",
+   "D": "Encümen-i Daniş",
+   "E": "Divan-ı Hümayun"
+  },
+  "dogru": "E",
+  "cozum": "Divan-ı Hümayun, Osmanlı Devleti'nin en büyük idari organı, yani devletin idari, mali, askeri ve adli işlerinin görüşülüp karara bağlandığı en yüksek karar-danışma organıdır.",
+  "hafiza_ipucu": "Devletin YÜKSEK masası.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 95
+  },
+  "akraba_cikmis_soru": "Şubat 2025 (Divan-ı Hümayun x2 — en yüksek karar-danışma organı)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-026",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "divan-baskanligi",
+  "soru": "Kuruluş döneminde bizzat padişah tarafından yönetilen Divan-ı Hümayun'un fiilî başkanlığı, Fatih Sultan Mehmed'den itibaren kime devredilmiştir?",
+  "siklar": {
+   "A": "Sadrazama",
+   "B": "Kazaskere",
+   "C": "Defterdara",
+   "D": "Şeyhülislama",
+   "E": "Nişancıya"
+  },
+  "dogru": "A",
+  "cozum": "Fatih Sultan Mehmed'den itibaren padişahlar divan toplantılarına perde arkasından katılmaya başlamış, divanın fiilî başkanlığını sadrazam üstlenmiştir.",
+  "hafiza_ipucu": "Fatih'ten sonra padişah perde arkasına çekildi, divanın başında artık SADRAZAM oturuyordu.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 95
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-027",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "divan-uyeleri-kazasker",
+  "soru": "Divan-ı Hümayun üyelerinden, devletin adalet (kazâ) işlerinden ve kadı-müderris atamalarından sorumlu olan görevli aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Defterdar",
+   "B": "Kazasker",
+   "C": "Nişancı",
+   "D": "Reisülküttap",
+   "E": "Kapdan-ı Derya"
+  },
+  "dogru": "B",
+  "cozum": "Kazasker, Divan-ı Hümayun'da devletin adalet işlerinden sorumlu üyesidir; kadı ve müderris atamaları da onun yetki alanındadır.",
+  "hafiza_ipucu": "Sadrazam KaDeNi — Ka: Kazasker (adalet).",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 105
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-028",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "divan-uyeleri-defterdar",
+  "soru": "Divan-ı Hümayun'da devletin mali işlerinden, hazine gelir ve giderlerinden sorumlu üye aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kazasker",
+   "B": "Nişancı",
+   "C": "Defterdar",
+   "D": "Sadrazam",
+   "E": "Yeniçeri Ağası"
+  },
+  "dogru": "C",
+  "cozum": "Defterdar, Divan-ı Hümayun'da devletin mali işlerinden, hazine gelir-gider hesaplarının tutulmasından sorumlu üyedir.",
+  "hafiza_ipucu": "Sadrazam KaDeNi — De: Defterdar (maliye).",
+  "kaynak": {
+   "dosya": "OSMANLI.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-029",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "divan-uyeleri-nisanci",
+  "soru": "Padişah adına çıkan ferman ve beratlara padişahın imzası yerine geçen tuğrayı çeken, aynı zamanda kanunname işleriyle de ilgilenen Divan-ı Hümayun üyesi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kazasker",
+   "B": "Defterdar",
+   "C": "Kapdan-ı Derya",
+   "D": "Nişancı",
+   "E": "Yeniçeri Ağası"
+  },
+  "dogru": "D",
+  "cozum": "Nişancı, padişah adına çıkan ferman ve beratlara tuğrayı çeken, kanunname düzenleme işleriyle de ilgilenen Divan-ı Hümayun üyesidir.",
+  "hafiza_ipucu": "Sadrazam KaDeNi — Ni: Nişancı (tuğra).",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 105
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-030",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "devsirme-sistemi",
+  "soru": "Osmanlı Devleti'nde Hristiyan tebaanın çocukları arasından seçilerek eğitilen ve Kapıkulu ocaklarıyla devlet kademelerine yetiştirilen sisteme ne ad verilir?",
+  "siklar": {
+   "A": "Tımar",
+   "B": "Cizye",
+   "C": "Avarız",
+   "D": "Mukataa",
+   "E": "Devşirme"
+  },
+  "dogru": "E",
+  "cozum": "Devşirme sistemi, Hristiyan tebaanın erkek çocukları arasından seçilip İslami eğitimden geçirilerek Kapıkulu ocaklarına ve devletin üst kademelerine yetiştirilmesi esasına dayanır.",
+  "hafiza_ipucu": "DEVŞİRME = Hristiyan çocuğun devlet kulu olarak 'devşirilmesi', Kapıkulu ocaklarının kaynağı.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 49
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-031",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "kapikulu-timarli-sipahi",
+  "soru": "Kapıkulu askeri ile tımarlı sipahi arasındaki fark açısından aşağıdaki eşleştirmelerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Kapıkulu askeri - devşirme kökenli, merkezî hazineden maaş alan asker",
+   "B": "Kapıkulu askeri - toprak geliriyle beslenen eyalet askeri",
+   "C": "Tımarlı sipahi - devşirme yoluyla toplanan, merkezden maaş alan asker",
+   "D": "Tımarlı sipahi - doğrudan padişahın has bütçesinden ücret alan muhafız",
+   "E": "Kapıkulu askeri - yalnızca donanmada görev yapan asker"
+  },
+  "dogru": "A",
+  "cozum": "Kapıkulu askerleri (yeniçeriler gibi) devşirme yoluyla toplanıp merkezî hazineden maaş alırken; tımarlı sipahiler kendilerine tahsis edilen tımarın (toprak) geliriyle geçinen eyalet askerleridir.",
+  "hafiza_ipucu": "Kapıkulu = merkezden maaşlı devşirme askeri; tımarlı sipahi = topraktan geçinen eyalet askeri — merkez vs taşra.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 130
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-032",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "timar-sistemi",
+  "soru": "Hizmet karşılığında bir asker veya devlet görevlisine belirli bir bölgenin vergi gelirinin tahsis edilmesi esasına dayanan Osmanlı toprak-asker sistemine ne ad verilir?",
+  "siklar": {
+   "A": "Mukataa",
+   "B": "Tımar",
+   "C": "Malikâne",
+   "D": "Yurtluk",
+   "E": "Vakıf"
+  },
+  "dogru": "B",
+  "cozum": "Tımar sistemi, hizmet karşılığında sipahiye belirli bir bölgenin vergi gelirinin tahsis edilmesi esasına dayanır; bu sayede merkezi hazineye yük olmadan eyalet askeri beslenmiştir.",
+  "hafiza_ipucu": "TIMAR = hizmete karşılık toprak geliri, sipahiyi eyalette ayakta tutan dirlik.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-033",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "divan-uyeleri-negatif",
+  "soru": "Aşağıdakilerden hangisi Divan-ı Hümayun'un klasik dönemdeki daimi üyeleri arasında yer almaz?",
+  "siklar": {
+   "A": "Sadrazam",
+   "B": "Kazasker",
+   "C": "Şeyhülislam",
+   "D": "Defterdar",
+   "E": "Nişancı"
+  },
+  "dogru": "C",
+  "cozum": "Şeyhülislam, klasik dönem Divan-ı Hümayun'unun daimi üyesi değildir; divanın asli üyeleri sadrazam, vezirler, kazasker, defterdar ve nişancıdır. Şeyhülislam görüşü gerektiğinde ayrıca alınmıştır.",
+  "hafiza_ipucu": "Divanın sabit üyeleri: sadrazam-vezirler-kazasker-defterdar-nişancı; şeyhülislam davetli misafirdir, sabit üye değil.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 95
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-034",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "divan-uyeleri-eslestirme",
+  "soru": "I. Kazasker  II. Defterdar  III. Nişancı\n1) Adalet (kazâ) işleri  2) Mali işler-hazine  3) Tuğra çekme-kanunname işleri\nYukarıdaki görevliler ile görev alanları aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+  "siklar": {
+   "A": "I-2, II-1, III-3",
+   "B": "I-3, II-2, III-1",
+   "C": "I-2, II-3, III-1",
+   "D": "I-1, II-2, III-3",
+   "E": "I-1, II-3, III-2"
+  },
+  "dogru": "D",
+  "cozum": "Kazasker adalet işlerinden (1), defterdar mali işlerden-hazineden (2), nişancı ise tuğra çekme ve kanunname işlerinden (3) sorumluydu; doğru eşleştirme I-1, II-2, III-3'tür.",
+  "hafiza_ipucu": "Sadrazam KaDeNi: Ka(1-adalet)-De(2-mali)-Ni(3-tuğra) — sıra bozulmaz.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1300-1566_Anadolu Üni.pdf",
+   "sayfa": 105
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "OSM-035",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "bagdat-demiryolu",
+  "soru": "II. Abdülhamid döneminde yapım ve işletme imtiyazı 1900 yılında Almanya'ya verilen ve I. Dünya Savaşı'nın çıkış nedenlerinden biri olarak gösterilen demiryolu projesi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hicaz Demiryolu",
+   "B": "Anadolu Demiryolu",
+   "C": "Şark Demiryolu",
+   "D": "Rumeli Demiryolu",
+   "E": "Bağdat Demiryolu"
+  },
+  "dogru": "E",
+  "cozum": "Berlin-Bağdat Demiryolu'nun yapım ve işletme imtiyazı 1900 yılı başında Almanlara verilmiş; bu durum İngiltere ve Fransa'nın tepkisine yol açmış, sorun I. Dünya Savaşı'nın çıkmasının nedenlerinden biri olmuştur.",
+  "hafiza_ipucu": "Bağdat'a giden ray ALMAN malı.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1876-1918_Anadolu Üni.pdf",
+   "sayfa": 152
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 (Bağdat demiryolu imtiyazı-Almanya sorusu)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-036",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "bagdat-demiryolu-negatif",
+  "soru": "Bir rehber, turistlere II. Abdülhamid dönemindeki Bağdat Demiryolu imtiyazını anlatırken bir yanlış bilgi veriyor. Aşağıdakilerden hangisi bu yanlış bilgidir?",
+  "siklar": {
+   "A": "İmtiyaz sonunda Fransa'ya verilmiştir",
+   "B": "Bağdat Demiryolu imtiyazı 1900'de Almanlara verilmiştir",
+   "C": "İngiltere başlangıçta bu yatırıma ortak olma teklifine olumlu cevap vermemiştir",
+   "D": "Demiryolu hattı boyunca maden-petrol arama imtiyazı da Almanlara verilmiştir",
+   "E": "Bağdat Demiryolu sorunu I. Dünya Savaşı'nın çıkış nedenlerinden biri sayılır"
+  },
+  "dogru": "A",
+  "cozum": "Bağdat Demiryolu imtiyazı Almanya'ya verilmiştir, Fransa'ya değil; Osmanlı Devleti başlangıçta İngiltere'yi de bu yatırıma ortak etmek istemiş, ancak İngiliz sermayesinin yetersizliği ve siyasi tereddütler yüzünden bu gerçekleşmemiştir.",
+  "hafiza_ipucu": "İmtiyaz ALMANYA'da kaldı, Fransa'ya hiç geçmedi — çeldiriciye kanma.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1876-1918_Anadolu Üni.pdf",
+   "sayfa": 152
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 (Bağdat demiryolu imtiyazı-negatif-zor kalıp: taraf olmayan devlete dikkat)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OSM-037",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "lale-devri-tarih",
+  "soru": "Sadrazam Nevşehirli Damat İbrahim Paşa'nın etkili olduğu, barış ve eğlence hayatının ön plana çıktığı Lale Devri hangi tarihler arasında yaşanmıştır?",
+  "siklar": {
+   "A": "1699-1718",
+   "B": "1718-1730",
+   "C": "1730-1754",
+   "D": "1789-1807",
+   "E": "1808-1826"
+  },
+  "dogru": "B",
+  "cozum": "Lale Devri, Pasarofça Antlaşması'nın imzalandığı 1718'den Patrona Halil İsyanı'nın patlak verdiği 1730'a kadar süren, barış ve eğlence hayatının öne çıktığı dönemdir.",
+  "hafiza_ipucu": "Lale açtı 1718'de, Patrona'nın kılıcıyla 1730'da soldu.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1566-1789_Anadolu Üni.pdf",
+   "sayfa": 162
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-038",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "lale-devri-patrona-halil",
+  "soru": "1730 yılında patlak veren ve III. Ahmed'in tahttan indirilmesiyle sonuçlanarak Lale Devri'ni sona erdiren isyan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kabakçı Mustafa İsyanı",
+   "B": "Genç Osman Vakası",
+   "C": "Patrona Halil İsyanı",
+   "D": "Yeniçeri Vakası",
+   "E": "31 Mart Vakası"
+  },
+  "dogru": "C",
+  "cozum": "Eski bir yeniçeri olan Patrona Halil'in başlattığı 1730 isyanı, III. Ahmed'in tahttan indirilip yerine I. Mahmud'un çıkarılmasıyla sonuçlanmış ve Lale Devri'ni sona erdirmiştir.",
+  "hafiza_ipucu": "Eski yeniçeri, eski tellâl PATRONA HALİL — 1730'da laleyi ezip geçti.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1566-1789_Anadolu Üni.pdf",
+   "sayfa": 166
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "OSM-039",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "tanzimat-fermani",
+  "soru": "3 Kasım 1839'da Topkapı Sarayı'nın Gülhane Bahçesi'nde okunarak ilan edilen ve Osmanlı reform tarihinde yeni bir dönem başlatan ferman aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Islahat Fermanı",
+   "B": "Kanun-ı Esasi",
+   "C": "Sened-i İttifak",
+   "D": "Tanzimat Fermanı",
+   "E": "Adalet Fermanı"
+  },
+  "dogru": "D",
+  "cozum": "Sadrazam Mustafa Reşid Paşa'nın öncülüğünde hazırlanan Tanzimat Fermanı, 3 Kasım 1839'da Topkapı Sarayı'nın Gülhane Bahçesi'nde okunarak ilan edilmiş ve Tanzimat Dönemi'ni (1839-1876) başlatmıştır.",
+  "hafiza_ipucu": "3 Kasım 1839, GÜLHANE Bahçesi'nde okunan ferman: TANZİMAT'ın başlangıcı.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1789-1876_Anadolu Üni.pdf",
+   "sayfa": 149
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OSM-040",
+  "konu": "Osmanlı Tarihi",
+  "alt_konu": "birinci-mesrutiyet",
+  "soru": "İlk Osmanlı anayasası olan Kanun-ı Esasi'nin ilan edilmesiyle Osmanlı Devleti'nde 1876'da başlayan yönetim dönemi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tanzimat",
+   "B": "Islahat",
+   "C": "II. Meşrutiyet",
+   "D": "Mütareke",
+   "E": "I. Meşrutiyet"
+  },
+  "dogru": "E",
+  "cozum": "1876'da Kanun-ı Esasi'nin ilan edilmesiyle I. Meşrutiyet dönemi başlamış; bu ilk Osmanlı anayasasının hazırlanmasında Midhat Paşa etkili olmuştur.",
+  "hafiza_ipucu": "1876: KANUN-I ESASİ ile I. MEŞRUTİYET başladı — ilk Osmanlı anayasası.",
+  "kaynak": {
+   "dosya": "Osmanlı Tarihi_1789-1876_Anadolu Üni.pdf",
+   "sayfa": 201
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ }
+]

@@ -1,0 +1,182 @@
+{
+  "ders_kodu": "DNT",
+  "ders_adi": "Dinler Tarihi",
+  "toplam_soru": 510,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "Dinin Tanımı ve Temel Teolojik Kavramlar",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Birden fazla tanrının varlığını kabul etmekle birlikte, bu tanrılardan yalnızca birine üstünlük tanıyarak sadece ona ibadet etme inancına ne ad verilir?",
+          "secenekler": {
+            "A": "Monoteizm",
+            "B": "Politeizm",
+            "C": "Henoteizm (Kathenoteizm)",
+            "D": "Panteizm",
+            "E": "Deizm"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Henoteizm çok tanrılı sistem içinde tek bir tanrıyı seçip yalnızca ona bağlanmaktır (örneğin Max Müller sınıflaması).",
+          "hafiza_capasi": "Henoteizm = Birçok tanrı varken birini seçip tapınma"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Evrenin tanrı ile özdeş olduğunu, var olan her şeyin tanrının bir parçası veya tezahürü olduğunu savunan (tüm-tanrıcılık) felsefi-dini görüş hangisidir?",
+          "secenekler": {
+            "A": "Deizm",
+            "B": "Panteizm",
+            "C": "Ateizm",
+            "D": "Agnostisizm",
+            "E": "Düalizm"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Panteizm Tanrı ile evreni bir ve özdeş kabul eder; Spinoza ve Vahdet-i Vücud düşüncesiyle sıkça karşılaştırılır.",
+          "hafiza_capasi": "Panteizm = Evren eşittir Tanrı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Doğu ve Uzak Doğu Dinleri (Hinduizm, Budizm, Jainizm, Taoizm)",
+      "soru_sayisi": 105,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Hinduizm ve Budizm'de ruhun ölümden sonra yaptığı eylemlerin niteliğine göre başka bir bedende yeniden dünyaya gelmesi döngüsüne (tenasüh) ne ad verilir?",
+          "secenekler": {
+            "A": "Karma",
+            "B": "Samsara",
+            "C": "Mokşa",
+            "D": "Nirvana",
+            "E": "Dharma"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Samsara doğum-ölüm-yeniden doğuş çemberidir; Karma bu çarktaki neden-sonuç yasasıdır; Mokşa ve Nirvana ise bu çarktan kurtuluştur.",
+          "hafiza_capasi": "Samsara = Yeniden doğuş çarkı"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Jainizm inancının temel direği olan, karıncadan bitkiye kadar hiçbir canlı varlığa bilerek veya bilmeyerek zarar vermeme mutlak şiddetsizlik ilkesine ne ad verilir?",
+          "secenekler": {
+            "A": "Ahimsa",
+            "B": "Satya",
+            "C": "Asteya",
+            "D": "Brahmacarya",
+            "E": "Aparigraha"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Ahimsa mutlak şiddetsizlik kuralıdır; Jain rahipleri ağızlarına böcek kaçmasın diye maske takar ve yeri süpürerek yürür.",
+          "hafiza_capasi": "Ahimsa = Karıncayı bile incitmeme ilkesi"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "İbrahimi Dinler (Yahudilik, Hristiyanlık, İslamiyet)",
+      "soru_sayisi": 115,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Yahudilikte Hz. Musa'ya Sina Dağı'nda vahyedildiğine inanılan Tevrat (Tora), Peygamberler (Neviim) ve Yazılar (Ketuvim) bölümlerinden oluşan yazılı kutsal külliyatın genel adı nedir?",
+          "secenekler": {
+            "A": "Talmud",
+            "B": "Tanah",
+            "C": "Mişna",
+            "D": "Gemara",
+            "E": "Kabala"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Tanah; Tora, Neviim ve Ketuvim kelimelerinin baş harflerinden oluşan İbrani kutsal kitabıdır.",
+          "hafiza_capasi": "Tanah = Tora + Neviim + Ketuvim"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "325 yılında İmparator I. Konstantin tarafından toplanan, Arius'un teslis karşıtı görüşlerinin mahkûm edildiği ve İsa'nın Baba ile aynı tözden (homoousios) olduğunun kabul edildiği ilk ekümenik konsil hangisidir?",
+          "secenekler": {
+            "A": "I. İznik Konsili",
+            "B": "I. İstanbul Konsili",
+            "C": "Efes Konsili",
+            "D": "Kalkedon (Kadıköy) Konsili",
+            "E": "II. İznik Konsili"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "325 I. İznik Konsili Hristiyan amentüsünün (İznik İnanç Bildirisi) yazıldığı temel konsildir.",
+          "hafiza_capasi": "325 I. İznik Konsili = İlk konsil + Teslis amentüsü"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Kadim ve Senkretik İnançlar (Zerdüştlük, Maniheizm, Yezidilik)",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Eski İran'da Zerdüşt tarafından kurulan, Ahura Mazda (İyilik) ile Ehrimen (Kötülük) arasındaki kozmik savaşa dayanan ve kutsal ateşi tapınaklarında (Ateşkede) söndürmeyen kadim din hangisidir?",
+          "secenekler": {
+            "A": "Mecusilik / Zerdüştlük",
+            "B": "Maniheizm",
+            "C": "Mithraizm",
+            "D": "Mazdekçilik",
+            "E": "Sabiilik"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Zerdüştlüğün kutsal kitabı Avesta'dır; ateş Ahura Mazda'nın saflığını ve nurunu temsil eder.",
+          "hafiza_capasi": "Zerdüştlük = Ahura Mazda vs Ehrimen + Ateşkede"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Zerdüştlük, Hristiyanlık ve Budizm'in ışık-karanlık düalizmini harmanlayan, Uygur Kağanı Bögü Kağan tarafından resmi din ilan edilen senkretik inanç hangisidir?",
+          "secenekler": {
+            "A": "Maniheizm",
+            "B": "Mithraizm",
+            "C": "Sabiilik",
+            "D": "Tengrizm",
+            "E": "Şamanizm"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Peygamber Mani'nin kurduğu Maniheizm et yemeyi ve savaşmayı yasaklayarak Uygurları yerleşik hayata geçirmiştir.",
+          "hafiza_capasi": "Maniheizm = Bögü Kağan + Yerleşik hayata geçiş"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 5,
+      "alt_baslik_adi": "Kutsal Mekânlar ve Türkiye'de İnanç Turizmi",
+      "soru_sayisi": 100,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Antakya'da Habip-i Neccar Dağı eteğinde yer alan, Hz. İsa'nın havarisi Petrus'un ilk vaazlarını verdiği ve takipçilerine tarihte ilk kez 'Hristiyan (Christian)' adının verildiği mağara kilise hangisidir?",
+          "secenekler": {
+            "A": "St. Pierre Kilisesi",
+            "B": "Meryem Ana Evi",
+            "C": "St. Nikolaos Kilisesi",
+            "D": "Sümela Manastırı",
+            "E": "Deyrülzafaran"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "St. Pierre Mağara Kilisesi Hristiyanlığın ilk katedrali kabul edilir.",
+          "hafiza_capasi": "St. Pierre = Hristiyan adının ilk verildiği mağara kilise"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "İncil'in Vahiy (Apokalips) bölümünde adı geçen ve tamamı Batı Anadolu'da bulunan 'Asya'nın Yedi Kilisesi' arasında aşağıdakilerden hangisi yer almaz?",
+          "secenekler": {
+            "A": "Efes ve İzmir (Smyrna)",
+            "B": "Bergama ve Thyateira (Akhisar)",
+            "C": "Sardes ve Philadelphia (Alaşehir)",
+            "D": "Laodikeia (Denizli)",
+            "E": "Antakya (Antiokheia)"
+          },
+          "dogru_cevap": "E",
+          "cozum_ve_gerekce": "Yedi Kilise: Efes, İzmir, Bergama, Akhisar, Sardes, Alaşehir ve Laodikeia'dır. Antakya bu yedi kilise arasında yer almaz.",
+          "hafiza_capasi": "Yedi Kilise = Ege bölgesindedir; Antakya listede yoktur"
+        }
+      ]
+    }
+  ]
+}

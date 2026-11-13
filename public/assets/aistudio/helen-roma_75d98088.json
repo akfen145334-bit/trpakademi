@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "HLR-001",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "polis-akropol-agora",
+  "soru": "Antik Yunan dünyasında, halkın bir arada iyi bir yaşam sürdürebilmesinin ancak mümkün olduğu kabul edilen ve çekirdeğini akropol ile agoranın oluşturduğu kent-devletine ne ad verilir?",
+  "siklar": {
+   "A": "Nekropol",
+   "B": "Nymphaion",
+   "C": "Stoa",
+   "D": "Bouleuterion",
+   "E": "Polis"
+  },
+  "dogru": "E",
+  "cozum": "Aristoteles'e göre insanların birlikte iyi bir yaşam sürmeleri ancak polis adı verilen kent-devletinde mümkün olmuştur; polis, akropol (yukarı kent) ve agora (meydan) etrafında örgütlenir.",
+  "hafiza_ipucu": "POLİS = kent-devletinin kendisi; içinde akropol (tapınak) + agora (pazar-meclis) barınır.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 31
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.62 (Antik Yunan şehir devletlerine ne ad verilir? - Cevap: Polis)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-002",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "polis-akropol-agora",
+  "soru": "Antik Yunan kentinin en önemli öğesi olarak, başta dinî ve siyasi merkez ile savunmanın kalbi işlevini gören, yüksekte kurulu 'yukarı kent' bölümüne ne ad verilir?",
+  "siklar": {
+   "A": "Akropol",
+   "B": "Agora",
+   "C": "Nekropol",
+   "D": "Gymnasion",
+   "E": "Stadion"
+  },
+  "dogru": "A",
+  "cozum": "Akropolis (akropol) kentin en önemli öğesidir; başta dinî, siyasi merkez ve savunmanın kalbidir; kentler geliştikçe dinî kült merkezi kimliğini korumuştur.",
+  "hafiza_ipucu": "AKROpol = yukArı; kentin en yüksek, en kutsal noktası.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 133
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-003",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "polis-akropol-agora",
+  "soru": "Antik Yunan kentinde ilk kuruluşunda siyasi toplanma yeri iken MÖ 5. yüzyıldan sonra ticari merkez (pazar yeri) kimliği de kazanan, düz bir alana kurulu meydana ne ad verilir?",
+  "siklar": {
+   "A": "Agora",
+   "B": "Akropol",
+   "C": "Heroon",
+   "D": "Prytaneion",
+   "E": "Bouleuterion"
+  },
+  "dogru": "A",
+  "cozum": "Agora, kentin siyasi ve sosyal iş hayatının merkezidir; ilk kuruluşunda siyasi toplanma yeriyken MÖ 5. yüzyıldan sonra pazar yeri anlamı da kazanmıştır.",
+  "hafiza_ipucu": "AGOra = Alışveriş + GOrüşme meydanı (pazar + meclis).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 133
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-004",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "tarih-yazarlari",
+  "soru": "Halikarnassos (Bodrum) doğumlu olup eserleriyle 'tarihin babası' unvanıyla anılan Antik Çağ tarihçisi kimdir?",
+  "siklar": {
+   "A": "Herodot",
+   "B": "Homeros",
+   "C": "Thukydides",
+   "D": "Strabon",
+   "E": "Hesiodos"
+  },
+  "dogru": "A",
+  "cozum": "Klasik dönemde tarih yazıcılığını başlatan Halikarnaslı Herodot, siyasi ve askeri konularda verdiği bilgilerle 'tarihin babası' kabul edilir.",
+  "hafiza_ipucu": "HERodot = HER şeyin babası; Bodrumlu.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 37
+  },
+  "akraba_cikmis_soru": "Şubat 2025 S.33 (Tarihin babası olarak bilinen kişi - Cevap: Herodot)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-005",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "tarih-yazarlari",
+  "soru": "Amasya doğumlu olup 17 kitaptan oluşan 'Geographika' adlı eseriyle tanınan Antik Çağ coğrafyacı ve tarihçisi kimdir?",
+  "siklar": {
+   "A": "Herodot",
+   "B": "Hesiodos",
+   "C": "Thukydides",
+   "D": "Homeros",
+   "E": "Strabon"
+  },
+  "dogru": "E",
+  "cozum": "Amasyalı Strabon, Antik Çağ'ın en önemli coğrafya eseri olan ve 17 kitaptan oluşan Geographika'nın yazarıdır.",
+  "hafiza_ipucu": "STRAbon = haSTA'lık değil COĞRAFYA yazar; Amasyalı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 137
+  },
+  "akraba_cikmis_soru": "Şubat 2025 S.34 ve S.76 (Geographika adlı eserin yazarı - Cevap: Strabon, iki kez soruldu)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-006",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "atina-sparta",
+  "soru": "MÖ 5. yüzyılda Atina ve Sparta arasında yaşanan ve Hellen dünyasını iki kutba bölen Peloponnesos Savaşları'nı kaleme alan tarihçi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ksenophon",
+   "B": "Prokopios",
+   "C": "Herodot",
+   "D": "Homeros",
+   "E": "Thukydides"
+  },
+  "dogru": "E",
+  "cozum": "Peloponnesos Savaşları'nın (MÖ 431'den itibaren) tarihini yazan kişi Thukydides'tir; Herodot ondan önceki nesle, Pers Savaşları'na aittir.",
+  "hafiza_ipucu": "THUkydides = THUzağa (Peloponnesos'a) düşen savaşı anlatır.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 50
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.76 (Peloponnes Savaşlarını kaleme alan tarihçi - Cevap: Thukydides)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-007",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "felsefe",
+  "soru": "Miletos Okulu'nun kurucusu kabul edilen, matematik ve astronomi çalışmalarıyla da tanınan ve bir güneş tutulmasını önceden hesapladığı söylenen Antik Çağ düşünürü kimdir?",
+  "siklar": {
+   "A": "Diogenes",
+   "B": "Demokritos",
+   "C": "Sokrates",
+   "D": "Thales",
+   "E": "Anaksagoras"
+  },
+  "dogru": "D",
+  "cozum": "Miletli Thales, Miletos (İyon) Okulu'nun kurucusu sayılır; güneş tutulmasını hesaplamış ve evrenin fiziksel oluşumlar sonucu meydana geldiğini öne sürmüştür.",
+  "hafiza_ipucu": "MİLET'in THALESİ güneşi hesapla(t)tı — Miletos Okulu = Thales.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 44
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.61 (Miletos Okulu'nun kurucusu - Cevap: Thales)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-008",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "felsefe",
+  "soru": "Yazılı bir eser bırakmayan, düşüncelerini Ksenophon ve Platon'un eserlerinden öğrendiğimiz; karşısındakine sorular sorarak bilgiyi 'doğurtma' (maieutike) yöntemini kullanan ve 'Hiçbir şey bilmediğimi biliyorum' sözüyle tanınan filozof kimdir?",
+  "siklar": {
+   "A": "Aristoteles",
+   "B": "Thales",
+   "C": "Sokrates",
+   "D": "Platon",
+   "E": "Herakleitos"
+  },
+  "dogru": "C",
+  "cozum": "Sokrates yazılı eser bırakmamış, düşünceleri öğrencileri Ksenophon ve Platon aracılığıyla günümüze ulaşmıştır; soru-cevap yöntemiyle (maieutike) karşısındakinin bilgisizliğini ortaya çıkarırdı.",
+  "hafiza_ipucu": "SOKrates SORU sorar, karşısındakinin cehaletini DOĞURTUR (maieutike = ebelik).",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 59
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-009",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "felsefe",
+  "soru": "Sokrates, MÖ 399 yılında Atina'da hangi gerekçeyle ölüm cezasına çarptırılmıştır?",
+  "siklar": {
+   "A": "Sparta'ya casusluk yapmakla",
+   "B": "Vergi kaçırmakla",
+   "C": "Halk Meclisi'ni yıkmaya teşebbüsle",
+   "D": "Persler'le iş birliği yapmakla",
+   "E": "Gençleri kötü yola sevk edip dine karşı suç işlemekle"
+  },
+  "dogru": "E",
+  "cozum": "Sokrates, MÖ 399'da gençleri kötü yola sevk ettiği ve yeni tanrılar önererek dine karşı suç işlediği gerekçesiyle yargılanmış ve ölüm cezasına çarptırılmıştır.",
+  "hafiza_ipucu": "SOKrates gençleri 'SORGUlatarak' düzeni sarstı — dine karşı suç suçlaması.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-010",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "felsefe",
+  "soru": "Büyük İskender'in hocası olan ve ona Pella yakınındaki Mieza'da felsefe ve siyaset bilimi dersleri veren filozof aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sokrates",
+   "B": "Thales",
+   "C": "Platon",
+   "D": "Demokritos",
+   "E": "Aristoteles"
+  },
+  "dogru": "E",
+  "cozum": "İskender, 14 yaşındayken başkent Pella yakınındaki Mieza'da Aristoteles'ten felsefe ve siyaset bilimi dersleri almaya başlamıştır.",
+  "hafiza_ipucu": "ARİstoteles İskender'e ARİ bir zihin verdi — Mieza'da özel ders.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 72
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.11 (Büyük İskender'in hocası olan filozof - Cevap: Aristoteles)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-011",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "felsefe",
+  "soru": "Aristoteles'in, ders verirken dolaşarak öğretim yaptığı için bu adla anılan okuluna ne ad verilir?",
+  "siklar": {
+   "A": "Akademia",
+   "B": "Stoa Okulu",
+   "C": "Kinik Okul",
+   "D": "Epikuros Okulu",
+   "E": "Peripatetik Okul (Lykeion)"
+  },
+  "dogru": "E",
+  "cozum": "Aristoteles'in okulu Lykeion, dolaşarak (Yunanca peripatetikos) ders verildiği için 'Peripatetik Okul' olarak anılır.",
+  "hafiza_ipucu": "PERİpatetik = PERİPatik (dolaşan) hoca; Lykeion'da yürüyerek öğretir.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 165
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "HLR-012",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "atina-sparta",
+  "soru": "I. Herodotos\nII. Perikles\nIII. Aristophanes\nIV. Sokrates\n\nAntik Çağ'da yukarıdakilerden hangileri demokrasinin taraftarları arasında sayılır?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I-II",
+   "C": "I-II-III-IV",
+   "D": "III-IV",
+   "E": "I-II-IV"
+  },
+  "dogru": "E",
+  "cozum": "Antik Çağ'da demokrasinin taraftarları arasında Herodotos, Perikles ve Sokrates sayılırken; Aristophanes, Ksenophon, Platon ve Aristoteles güçlü muhalifleri arasında yer alır.",
+  "hafiza_ipucu": "Taraftar üçlüsü: Herodotos-Perikles-Sokrates (H-P-S); karşıt dörtlü: Aristophanes-Ksenophon-Platon-Aristoteles.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 33
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "HLR-013",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "atina-sparta",
+  "soru": "I. Spartalılar (yurttaşlar)\nII. Perioikoi (yarı-yurttaşlar)\nIII. Heilotes (devlet köleleri)\n\nAntik Sparta toplumunun tabakalanmasıyla ilgili yukarıdaki eşleştirmelerden hangileri doğrudur?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I-II",
+   "C": "II-III",
+   "D": "I-II-III",
+   "E": "Yalnız III"
+  },
+  "dogru": "D",
+  "cozum": "Sparta halkı; Sparta'da ikamet eden yurttaşlar (Spartalılar), çevre köylerde oturan yarı-yurttaşlar (perioikoi) ve toprağa bağlı yarı-köle sınıfı olan heilotes'ten oluşuyordu.",
+  "hafiza_ipucu": "Sparta üç kat: yurttaş (Spartalı) - yarı-yurttaş (perioikoi) - köle (heilotes).",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 35
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-014",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "atina-sparta",
+  "soru": "Ege dünyasında kent-devletlerinde krallık MÖ 8. yüzyıldan itibaren ortadan kalkmaya başlamışken, iki kralın birlikte yönetime ortak olduğu, krallığın en uzun sürdüğü kent-devlet aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sparta",
+   "B": "Korinthos",
+   "C": "Atina",
+   "D": "Argos",
+   "E": "Theba"
+  },
+  "dogru": "A",
+  "cozum": "Krallığın sürdüğü tek yer Sparta idi; önceleri tek kral hüküm sürerken sonradan iki kral yönetime ortak olmuştur.",
+  "hafiza_ipucu": "SPARTA'da iki kral yan yana — Sparta askerî disiplinini krallıkta da ikiye böler.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 33
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-015",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "atina-sparta",
+  "soru": "Atinalıların, Persler'e karşı Marathon Savaşı öncesinde Sparta'dan yardım istemek için gönderdikleri atlet kimdir?",
+  "siklar": {
+   "A": "Leonidas",
+   "B": "Themistokles",
+   "C": "Miltiades",
+   "D": "Pheidippides",
+   "E": "Pausanias"
+  },
+  "dogru": "D",
+  "cozum": "Atinalılar, atlet Pheidippides'i Sparta'ya göndererek yardım istemişlerdi; Spartalılar dinsel bir festival nedeniyle yardımı geç göndermiştir.",
+  "hafiza_ipucu": "PHEidippides koşarak Sparta'ya PHElaket haberi taşır — maraton koşusunun kökeni.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 47
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-016",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "atina-sparta",
+  "soru": "MÖ 480 yılında Thermopylai geçidini az sayıda askerle tutarak Perslerin ilerleyişini geciktiren Spartalı komutan kimdir?",
+  "siklar": {
+   "A": "Leonidas",
+   "B": "Pausanias",
+   "C": "Lysandros",
+   "D": "Agesilaos",
+   "E": "Leotykhides"
+  },
+  "dogru": "A",
+  "cozum": "Thermopylai geçidini tutan Spartalı komutan Leonidas yenilgiye uğrayınca Persler Orta Yunanistan'ı ele geçirip Atina'yı yakıp yıkmıştır.",
+  "hafiza_ipucu": "LEOnidas geçitte asLAn gibi direndi — Thermopylai.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 48
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-017",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "atina-sparta",
+  "soru": "Atina'nın hegemonya kurma çabası ve Delos Deniz Birliği üzerindeki tekelci tutumu nedeniyle Sparta ile Atina'nın arası açılmış ve iki taraf MÖ 431 yılında hangi savaşa girmiştir?",
+  "siklar": {
+   "A": "Korinthos Savaşı",
+   "B": "Peloponnesos Savaşı",
+   "C": "Med Savaşları",
+   "D": "İyonya İsyanı",
+   "E": "Khaironeia Savaşı"
+  },
+  "dogru": "B",
+  "cozum": "Atina'nın sikke tekeli ve hegemonya sevdası MÖ 431'de Delos Deniz Birliği'nin sonuna ve Perslere karşı birlikte savaşmış olan Atina ile Sparta'nın karşı kutuplarda çarpıştığı Peloponnesos Savaşı'na yol açmıştır.",
+  "hafiza_ipucu": "431 = Atina-Sparta arası dörtyüz otuz bir'de koptu, Thukydides bu savaşı yazdı.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 49
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-018",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "polis-akropol-agora",
+  "soru": "Atina turu yapan bir rehber, gruba önce tapınakların bulunduğu yüksek tepeyi, ardından ticaretin ve halk toplantılarının yapıldığı düz meydanı gezdiriyor. Rehberin sırasıyla gezdirdiği bu iki alan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Nekropol - Stoa",
+   "B": "Bouleuterion - Prytaneion",
+   "C": "Agora - Akropol",
+   "D": "Gymnasion - Stadion",
+   "E": "Akropol - Agora"
+  },
+  "dogru": "E",
+  "cozum": "Antik Yunan kentinde dinî-savunma merkezi yüksekte kurulu akropol, ticaret ve meclis meydanı ise düz alandaki agoradır.",
+  "hafiza_ipucu": "Yukarıda tapınak = akropol; aşağıda pazar-meclis = agora.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 133
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-019",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "iskender",
+  "soru": "Frig başkenti Gordion'da, çözebilen kişinin Asya'nın hâkimi olacağına inanılan meşhur düğümü kılıcıyla kesen kişi kimdir?",
+  "siklar": {
+   "A": "Julius Caesar",
+   "B": "Büyük İskender",
+   "C": "Hannibal",
+   "D": "III. Darius",
+   "E": "Xerxes"
+  },
+  "dogru": "B",
+  "cozum": "Büyük İskender, Frig başkenti Gordion'da bulunan ve Kral Gordios'un arabasına bağlı düğümü tek bir kılıç darbesiyle keserek çözmüştür.",
+  "hafiza_ipucu": "GORDİon düğümünü İskender KILIÇLA çözdü — çözmedi, KESTİ.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 121
+  },
+  "akraba_cikmis_soru": "Şubat 2025 S.23 (Gordion'daki düğümü kılıcıyla kesen kimdir? - Cevap: Büyük İskender)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-020",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "iskender",
+  "soru": "İçinde meşhur düğümün bulunduğu araba tapınağa adanmış olan ve günümüzde Ankara'nın Polatlı ilçesi sınırlarında yer alan antik Frig başkenti aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sardes",
+   "B": "Gordion",
+   "C": "Pessinus",
+   "D": "Kültepe",
+   "E": "Hattuşa"
+  },
+  "dogru": "B",
+  "cozum": "Gordion, Frig Krallığı'nın başkentidir; Kral Gordias'ın tapınağa adadığı kağnı arabası, oğlu Midas'a ve İskender'in kestiği düğüme ününü borçludur.",
+  "hafiza_ipucu": "GORDİon = GORDİos'un kenti; Ankara-Polatlı'da.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-021",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "iskender",
+  "soru": "Büyük İskender'in Pers ordusuna karşı kazandığı ve Anadolu'ya girişini sağlayan ilk büyük zaferi aşağıdaki savaşlardan hangisidir?",
+  "siklar": {
+   "A": "Issos Savaşı",
+   "B": "Gaugamela Savaşı",
+   "C": "Granikos Savaşı",
+   "D": "İpsos Savaşı",
+   "E": "Magnesia Savaşı"
+  },
+  "dogru": "C",
+  "cozum": "İskender, MÖ 334'te Granikos Savaşı'nı kazanarak Anadolu'ya giriş yapmış, ardından Issos (MÖ 333) ve Gaugamela zaferleriyle Pers İmparatorluğu'nu çökertmiştir.",
+  "hafiza_ipucu": "GRANİkos = GİRİŞ kapısı; İskender'in Anadolu'ya ilk adımı.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-022",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "iskender",
+  "soru": "Büyük İskender'in Anadolu'yu terk edip Suriye üzerinden Mısır'a ilerlemesini sağlayan, Pers Kralı III. Darius'a karşı MÖ 333'te kazandığı savaş aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Granikos Savaşı",
+   "B": "Gaugamela Savaşı",
+   "C": "Issos Savaşı",
+   "D": "Salamis Deniz Savaşı",
+   "E": "Plataia Savaşı"
+  },
+  "dogru": "C",
+  "cozum": "İskender, MÖ 333'te Issos Savaşı'nda III. Darius'u yenilgiye uğratarak Suriye ve Mısır yolunu açmıştır.",
+  "hafiza_ipucu": "ISSos = üç ü üç (333) rakamıyla anımsanır.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-023",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "iskender",
+  "soru": "Büyük İskender'in Pers Kralı III. Darius'a karşı kazandığı ve Pers İmparatorluğu'nun sonunu getiren kesin zaferi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gaugamela Savaşı",
+   "B": "Granikos Savaşı",
+   "C": "Marathon Savaşı",
+   "D": "Salamis Deniz Savaşı",
+   "E": "Kunaksa Savaşı"
+  },
+  "dogru": "A",
+  "cozum": "Gaugamela Savaşı, İskender'in III. Darius'a karşı kazandığı ve Pers İmparatorluğu'nun fiilen sona ermesini sağlayan kesin zaferdir; ardından İskender Babil'e girmiştir.",
+  "hafiza_ipucu": "GAUGAmela = GAlibiyetin GAranti olduğu son perde.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-024",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "iskender",
+  "soru": "Büyük İskender MÖ 323 yılında hangi kentte hayatını kaybetmiştir?",
+  "siklar": {
+   "A": "İskenderiye",
+   "B": "Persepolis",
+   "C": "Susa",
+   "D": "Pella",
+   "E": "Babil"
+  },
+  "dogru": "E",
+  "cozum": "Büyük İskender, MÖ 323 yılında Babil'de (Babylonia) hayatını kaybetmiş; ardından generalleri (Diadokhlar) imparatorluğu paylaşmıştır.",
+  "hafiza_ipucu": "BABİl'de BAŞladığı fetih serüveni yine BABİl'de bitti.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 194
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-025",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "iskender",
+  "soru": "Büyük İskender'in, gençliğinde Aristoteles'ten felsefe dersleri aldığı; babası II. Philippos'un tahtında bulunduğu Makedon başkenti aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Atina",
+   "B": "Pella",
+   "C": "Korinthos",
+   "D": "Sparta",
+   "E": "Theba"
+  },
+  "dogru": "B",
+  "cozum": "İskender, 14 yaşındayken başkent Pella yakınındaki Mieza'da Aristoteles'ten felsefe ve siyaset bilimi dersleri almaya başlamıştır.",
+  "hafiza_ipucu": "PELLA = Makedonya'nın PEL(A)yı (başkenti); Aristoteles'in ders verdiği yerin yakını.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 72
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-026",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "helenistik-diadoklar",
+  "soru": "Büyük İskender'in ölümünden sonra, imparatorluğu kendi aralarında paylaşmak üzere mücadeleye giren, ona yakın komutanlarına verilen ortak ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Satraplar",
+   "B": "Diadokhlar",
+   "C": "Triumvirler",
+   "D": "Konsüller",
+   "E": "Peripatetikler"
+  },
+  "dogru": "B",
+  "cozum": "İskender'in ölümünün ardından, ona yakın komutanları olan 'Diadokhlar' (Diadokhoi; halefler) Babylon'da bir Devlet Konseyi toplayarak imparatorluğu paylaşmışlardır.",
+  "hafiza_ipucu": "DİADokhlar = İskender'in mirasını DAĞITan komutanlar.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-027",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "helenistik-diadoklar",
+  "soru": "I. Seleukos - Babylonia\nII. Ptolemaios - Mısır\nIII. Antigonos - Anadolu\nIV. Lysimakhos - Trakya\n\nBüyük İskender'in ölümünün hemen ardından yapılan ilk toprak paylaşımına ilişkin yukarıdaki eşleştirmelerden hangileri doğrudur?",
+  "siklar": {
+   "A": "Yalnız II",
+   "B": "I-II",
+   "C": "II-III",
+   "D": "I-II-III-IV",
+   "E": "III-IV"
+  },
+  "dogru": "D",
+  "cozum": "İskender'in ölümünün ardından yapılan paylaşımda Seleukos Babylonia'yı ve doğusunu, Ptolemaios Mısır'ı, Antigonos (oğlu Demetrios ile) Anadolu'yu, Lysimakhos ise Trakya'yı yönetmeye başlamıştır.",
+  "hafiza_ipucu": "S-P-A-L: Seleukos-Babil, Ptolemaios-Mısır, Antigonos-Anadolu, Lysimakhos-Trakya.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 194
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "HLR-028",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "helenistik-diadoklar",
+  "soru": "I. Seleukos\nII. Ptolemaios\nIII. Pergamon (Attaloslar)\nIV. Bithynia\n\nBüyük İskender'in ölümünden sonra doğrudan onun komutanları (Diadokhlar) tarafından kurulan krallıklar, yukarıdakilerden hangileridir?",
+  "siklar": {
+   "A": "I-II",
+   "B": "I-II-III-IV",
+   "C": "I-II-III",
+   "D": "II-III-IV",
+   "E": "II-III"
+  },
+  "dogru": "A",
+  "cozum": "Seleukos ve Ptolemaios, doğrudan İskender'in komutanları (Diadokhlar) tarafından kurulan krallıklardır. Pergamon (Attalos hanedanı) ve Bithynia ise daha sonra, İskender'in generalleriyle doğrudan bağlantısı olmayan yerel hanedanlarca kurulmuş krallıklardır.",
+  "hafiza_ipucu": "Sadece Seleukos + Ptolemaios = 'has' diadokh; Pergamon ve Bithynia sonradan türedi.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.77 (itiraz sonucu cevap C'den A'ya düzeltildi: yalnız Seleukos-Ptolemaios)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "HLR-029",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "pergamon",
+  "soru": "Deri üzerine yazı yazma tekniğinin geliştirildiği ve bu nedenle 'pergamentum' (parşömen) adının türediği Anadolu kenti aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efes",
+   "B": "Bergama (Pergamon)",
+   "C": "Sardes",
+   "D": "Milet",
+   "E": "Aphrodisias"
+  },
+  "dogru": "B",
+  "cozum": "Pergamon'da kurulan kütüphanede deri üzerine yazılan kitaplar 'pergamentum' (parşömen) adıyla anılmış; kelime kentin adından türemiştir.",
+  "hafiza_ipucu": "PERgamon → PERgamentum (parşömen); kelimenin kökeni kentin adı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 182
+  },
+  "akraba_cikmis_soru": "Şubat 2025 (Parşömen kağıdının ilk üretildiği yer - Cevap: Bergama)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-030",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "pergamon",
+  "soru": "Pergamon Krallığı'nın son kralı III. Attalos, MÖ 133 yılında ölümünden önce krallığını hangi devlete vasiyet etmiştir?",
+  "siklar": {
+   "A": "Seleukos Krallığı'na",
+   "B": "Pontos Krallığı'na",
+   "C": "Roma'ya",
+   "D": "Bithynia Krallığı'na",
+   "E": "Mısır'a"
+  },
+  "dogru": "C",
+  "cozum": "Bergama Kralı III. Attalos'un MÖ 133 yılında ölümü üzerine Pergamon Krallığı, vasiyeti gereği Roma'ya bırakılmıştır.",
+  "hafiza_ipucu": "III. Attalos = 133'te miras VASİyetle Roma'ya (Attalos - vAsiyeT - 133).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 113
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-031",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "pergamon",
+  "soru": "Pergamon'da kurulan ve İskenderiye Kütüphanesi'nden sonra dünyanın en büyük ikinci kütüphanesi olarak kabul edilen kütüphane, hangi Roma generali tarafından Kraliçe VII. Kleopatra'ya hediye edilerek Mısır'a taşınmıştır?",
+  "siklar": {
+   "A": "Julius Caesar",
+   "B": "Pompeius",
+   "C": "Marcus Antonius",
+   "D": "Octavianus",
+   "E": "Sulla"
+  },
+  "dogru": "C",
+  "cozum": "Pergamon Kütüphanesi, İskenderiye Kütüphanesi'nden sonra dünyanın en büyük ikinci kütüphanesiydi; MÖ 42'de yanan İskenderiye Kütüphanesi'ni yeniden kurmak üzere Marcus Antonius tarafından sevgilisi VII. Kleopatra'ya hediye edilerek Mısır'a taşınmıştır.",
+  "hafiza_ipucu": "ANTOnius aşkına kütüphaneyi ARMAĞAN etti — Pergamon'dan Mısır'a.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 182
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-032",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "helenistik-diadoklar",
+  "soru": "Helenistik Dönem'in başlangıç ve bitiş tarihleri aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "MÖ 753 - MÖ 509",
+   "B": "MÖ 431 - MÖ 404",
+   "C": "MÖ 334 - MÖ 133",
+   "D": "MÖ 323/331 - MÖ 30",
+   "E": "MS 27 - MS 476"
+  },
+  "dogru": "D",
+  "cozum": "Helenistik Dönem, Büyük İskender'in Pers üzerindeki üstünlüğü ile ölümü (MÖ 323/331 civarı) ile son Hellenistik krallık olan Ptolemaioslar'ın Actium Savaşı sonrasında Roma'ya katıldığı MÖ 30 yılı arasındaki dönemi kapsar.",
+  "hafiza_ipucu": "Helenistik dönem: İskender'in ÖLÜMÜnden (MÖ323) Kleopatra'nın ÖLÜMÜne (MÖ30) kadar.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-033",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Dünyanın Yedi Harikası arasında günümüze kadar büyük ölçüde ayakta kalabilen tek yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Rodos Heykeli",
+   "B": "Zeus Heykeli",
+   "C": "Keops Piramidi",
+   "D": "Halikarnas Mozolesi",
+   "E": "İskenderiye Feneri"
+  },
+  "dogru": "C",
+  "cozum": "Dünyanın Yedi Harikası'ndan Mısır Piramitleri (Keops Piramidi), günümüze kadar büyük ölçüde ayakta kalabilen tek yapıdır; diğer altısı yıkılmış veya yok olmuştur.",
+  "hafiza_ipucu": "KEOPS = tek ayaKta KEsintisiz duran piramit.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 274
+  },
+  "akraba_cikmis_soru": "Şubat 2025 S.20 (7 harika olmayan yer sorusu bağlamında Keops Piramidi seçenekte doğru harika olarak yer aldı)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-034",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Dünyanın Yedi Harikası'ndan biri olan ve Babil Kralı Nebukadnezar tarafından sıla hasreti çeken bir kraliçe için yaptırıldığı söylenen 'Asma Bahçeler' günümüzde hangi ülke sınırları içindedir?",
+  "siklar": {
+   "A": "Irak",
+   "B": "İran",
+   "C": "Ürdün",
+   "D": "Suriye",
+   "E": "Mısır"
+  },
+  "dogru": "A",
+  "cozum": "Babil'in Asma Bahçeleri, Babil Kralı Nebukadnezar tarafından sıla hasreti çeken kraliçesi için yaptırılmıştır; antik Babil kenti günümüz Irak sınırları içinde yer alır.",
+  "hafiza_ipucu": "BABİl = bugünkü IRAK; asma bahçeler Fırat kıyısında.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 37
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.6 (Asma Bahçeleri hangi ülke sınırları içindedir? - Cevap: Irak)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-035",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Dünyanın Yedi Harikası'ndan biri olarak kabul edilen ve heykeltıraşlığını Phidias'ın (Pheidias) yaptığı Zeus Heykeli nerede bulunmaktadır?",
+  "siklar": {
+   "A": "Rodos",
+   "B": "Delfi",
+   "C": "Olympos Dağı",
+   "D": "Atina",
+   "E": "Olympia"
+  },
+  "dogru": "E",
+  "cozum": "Zeus Heykeli, olimpiyat oyunlarının düzenlendiği Olympia kentindedir; heykeltıraşı Pheidias'tır. Olympos Dağı'yla (tanrıların meskeni) karıştırılmamalıdır.",
+  "hafiza_ipucu": "OLYMPİA'da (kent, oyunlar) heykel; OLYMPOS (dağ) DEĞİL.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.73 (Zeus Heykeli nerededir? - Cevap: Olympia)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-036",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Dünyanın Yedi Harikası'ndan biri olan Artemis Tapınağı, Türkiye'nin hangi antik kentinde yer almaktadır?",
+  "siklar": {
+   "A": "Bergama",
+   "B": "Efes",
+   "C": "Milet",
+   "D": "Aphrodisias",
+   "E": "Halikarnassos"
+  },
+  "dogru": "B",
+  "cozum": "Dünyanın Yedi Harikası'ndan Artemis Tapınağı, İzmir/Selçuk'taki antik Efes kentinde bulunmaktadır.",
+  "hafiza_ipucu": "ARTEMİS = EFES'in koruyucu tanrıçası; tapınağı orada.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 37
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-037",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Halikarnas Mozolesi, hangi kralın kendisi için yaptırdığı ve 'mozole' kelimesinin kaynağı olan mezar anıtıdır?",
+  "siklar": {
+   "A": "Kroisos",
+   "B": "III. Darius",
+   "C": "Mausolos",
+   "D": "Midas",
+   "E": "Gordios"
+  },
+  "dogru": "C",
+  "cozum": "Halikarnas kralı Mausolos'un kendisi için yaptırdığı mezar, bugünkü adıyla Halikarnas Mozolesi'dir ve Dünyanın Yedi Harikası'ndan biridir; 'mozole' kelimesi Mausolos'un adından türemiştir.",
+  "hafiza_ipucu": "MAUSolos → MOZOLe; Bodrum'da kendi mezarını kendisi yaptırdı.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 37
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-038",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Rodos Adası girişinde dikildiği kabul edilen ve Dünyanın Yedi Harikası'ndan biri sayılan dev bronz heykel, hangi tanrıyı tasvir etmektedir?",
+  "siklar": {
+   "A": "Zeus",
+   "B": "Apollon",
+   "C": "Poseidon",
+   "D": "Helios",
+   "E": "Ares"
+  },
+  "dogru": "D",
+  "cozum": "Rodos Heykeli (Kolossos), güneş tanrısı Helios'u tasvir eden dev bir bronz heykeldir ve Dünyanın Yedi Harikası arasında sayılır.",
+  "hafiza_ipucu": "RODOS = güneşin adası; heykel de güneş tanrısı HELİOS.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 37
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-039",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Dünyanın Yedi Harikası'ndan biri olan ve Mısır'daki Aleksandria'da (İskenderiye) MÖ 3. yüzyılda inşa edilen deniz fenerinin mimarı kimdir?",
+  "siklar": {
+   "A": "Pheidias",
+   "B": "Sostratos",
+   "C": "Hippodamos",
+   "D": "Praksiteles",
+   "E": "Deinokrates"
+  },
+  "dogru": "B",
+  "cozum": "İskenderiye Deniz Feneri, Knidoslu mimar Sostratos tarafından MÖ 3. yüzyılda inşa edilmiştir; Anadolu'da bu döneme ait bir deniz feneri örneği bilinmemektedir.",
+  "hafiza_ipucu": "SOSTratos = SOS ışığını yakan Knidoslu mimar.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "Şubat 2025 (İskenderiye Feneri hangi ülkededir? - Cevap: Mısır)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-040",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Aşağıdakilerden hangisi Dünyanın Yedi Harikası'ndan biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Zeus Heykeli",
+   "B": "Artemis Tapınağı",
+   "C": "Hierapolis",
+   "D": "İskenderiye Feneri",
+   "E": "Keops Piramidi"
+  },
+  "dogru": "C",
+  "cozum": "Hierapolis (Pamukkale), Dünyanın Yedi Harikası listesinde yer almaz; harika listesi Mısır Piramitleri, Babil Asma Bahçeleri, Efes Artemis Tapınağı, Halikarnas Mozolesi, Olympia'da Zeus Heykeli, İskenderiye Feneri ve Rodos Heykeli'nden oluşur.",
+  "hafiza_ipucu": "Hierapolis = travertenleriyle ünlü ama 7 harika listesinde DEĞİL, çeldirici!",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 4
+  },
+  "akraba_cikmis_soru": "Şubat 2025 S.20 (7 harikadan biri olmayan yer - Cevap: Hierapolis)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-041",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "I. Zeus Heykeli\nII. Parthenon\nIII. Halikarnas Mozolesi\nIV. Pantheon\n\nYukarıdakilerden hangileri Dünyanın Yedi Harikası arasında yer alır?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I-III",
+   "C": "II-IV",
+   "D": "I-II-III",
+   "E": "I-II-III-IV"
+  },
+  "dogru": "B",
+  "cozum": "Zeus Heykeli ve Halikarnas Mozolesi Dünyanın Yedi Harikası'ndandır; Parthenon (Atina Akropolü'nde) ve Pantheon (Roma'da) ise harika listesinde yer almayan, sıkça karıştırılan ünlü yapılardır.",
+  "hafiza_ipucu": "Parthenon ve Pantheon isim benzerliğiyle kandırır ama listede DEĞİLLER.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 274
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-042",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Olympia'da düzenlenen ve Dünyanın Yedi Harikası'ndan Zeus Heykeli'nin de bu vesileyle yapıldığı Olimpiyat Oyunları hangi tanrı adına düzenlenmekteydi?",
+  "siklar": {
+   "A": "Apollon",
+   "B": "Zeus",
+   "C": "Poseidon",
+   "D": "Athena",
+   "E": "Hera"
+  },
+  "dogru": "B",
+  "cozum": "Antik Olimpiyat Oyunları, Olympia kentinde tanrıların babası Zeus adına düzenlenirdi; kentteki ünlü Zeus Heykeli de bu kutsal alanda yer alıyordu.",
+  "hafiza_ipucu": "OLİMPİyatlar = OLİMPOS'un başı ZEUS'a adanan oyunlar.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 4
+  },
+  "akraba_cikmis_soru": "Şubat 2025 S.22 (Olimpiyatlar hangi tanrı adına yapılmıştır? - Cevap: Zeus)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-043",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Dünyanın Yedi Harikası'ndan kaç tanesi günümüz Türkiye sınırları içinde yer almaktadır?",
+  "siklar": {
+   "A": "Bir",
+   "B": "İki",
+   "C": "Üç",
+   "D": "Dört",
+   "E": "Hiçbiri"
+  },
+  "dogru": "B",
+  "cozum": "Yedi harikadan Efes Artemis Tapınağı ve Halikarnas (Bodrum) Mozolesi olmak üzere iki tanesi, günümüz Türkiye sınırları içindedir.",
+  "hafiza_ipucu": "TR'de İKİ harika: Efes (Artemis) + Bodrum (Mozole).",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 274
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-044",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "yedi-harika",
+  "soru": "Bodrum'da tur düzenleyen bir rehber, grubuna Kral Mausolos için yaptırılan ve Dünyanın Yedi Harikası'ndan sayılan anıt mezarı gezdirmektedir. Rehberin gezdirdiği eser aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Artemis Tapınağı",
+   "B": "Zeus Heykeli",
+   "C": "Rodos Heykeli",
+   "D": "Halikarnas Mozolesi",
+   "E": "İskenderiye Feneri"
+  },
+  "dogru": "D",
+  "cozum": "Bodrum'daki (antik Halikarnassos) Kral Mausolos'un mezar anıtı, günümüzde Halikarnas Mozolesi olarak bilinir ve Dünyanın Yedi Harikası'ndandır.",
+  "hafiza_ipucu": "BODRUM = Halikarnassos; kral MAUSolos'un MOZOLesi.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 37
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-045",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-kurulus",
+  "soru": "Roma'nın geleneksel kuruluş tarihi olarak kabul edilen ve dişi bir kurt tarafından emzirildiği anlatılan ikiz kardeşlerden biri tarafından MÖ 753 yılında gerçekleştirildiği söylenen olay aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Roma'nın kuruluşu",
+   "B": "Cumhuriyetin ilanı",
+   "C": "İlk imparatorun tahta çıkışı",
+   "D": "Senato'nun kurulması",
+   "E": "İkinci Triumvirlik'in kurulması"
+  },
+  "dogru": "A",
+  "cozum": "Romalı yazar Varro, yıllık seçilen konsül listelerini temel alarak Roma'nın kuruluş tarihini MÖ 753 olarak önermiştir; kentin kurucusu, dişi kurdun emzirdiği ikizlerden Romulus'tur.",
+  "hafiza_ipucu": "753 = Roma'nın doğum yılı; ROMulus kentine kendi adını verdi.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 85
+  },
+  "akraba_cikmis_soru": "Şubat 2025 S.88 (Roma'nın kurucusu kimdir? - Cevap: Romulus)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-046",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-kurulus",
+  "soru": "Roma kuruluş efsanesine göre Romulus ve Remus'un annesi Rhea Silvia'nın, ikizlere hamile kaldığı tanrı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Jüpiter",
+   "B": "Neptün",
+   "C": "Mars",
+   "D": "Vulcanus",
+   "E": "Apollon"
+  },
+  "dogru": "C",
+  "cozum": "Efsaneye göre bir Vesta rahibesi olan Rhea Silvia, Savaş Tanrısı Mars'tan ikiz oğulları Romulus ve Remus'a hamile kalmıştır.",
+  "hafiza_ipucu": "MARS = savaş tanrısı; Roma'nın savaşçı ruhu babadan (Mars) gelir.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 86
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-047",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-kurulus",
+  "soru": "Palatinus Tepesi'nde yeni kentin sınırını sabanla çizerken kardeşi sabanın izini atlayınca öfkelenip onu öldüren ve Roma'nın tek başına ilk kralı olan kişi kimdir?",
+  "siklar": {
+   "A": "Remus",
+   "B": "Numitor",
+   "C": "Amulius",
+   "D": "Romulus",
+   "E": "Tarquinius"
+  },
+  "dogru": "D",
+  "cozum": "Romulus, kardeşi Remus'un kentin sınırını çizen sabanın izini alaycı biçimde atlaması üzerine öfkeyle onu öldürmüş ve yeni kurulan kentin (Roma) tek başına ilk kralı olmuştur.",
+  "hafiza_ipucu": "ROMulus kardeşini öldürüp ROMa'yı tek başına kurdu.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 96
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-048",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-donemler",
+  "soru": "Roma'da son kral Tarquinius Superbus'un tahttan indirilmesinin ardından, bir yıllığına seçilen iki konsüle (consul) yetki verilerek MÖ 509/508 yılında hangi yönetim biçimi başlamıştır?",
+  "siklar": {
+   "A": "Krallık",
+   "B": "Cumhuriyet",
+   "C": "İmparatorluk",
+   "D": "Triumvirlik",
+   "E": "Diktatörlük"
+  },
+  "dogru": "B",
+  "cozum": "MÖ 510'da Tarquinius Superbus'un tahttan indirilmesi ve yeni bir anayasa oluşturulmasıyla Senatus, bir yıllığına seçilen iki konsüle yetki verdi; böylece Roma'da Cumhuriyet idaresi başlamış oldu (MÖ 509/508).",
+  "hafiza_ipucu": "509 = son kral gitti, İKİ konsüllü Cumhuriyet geldi.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 85
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-049",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-donemler",
+  "soru": "Roma tarihindeki siyasi yönetim dönemlerinin kronolojik sırası aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "İmparatorluk - Cumhuriyet - Krallık",
+   "B": "Cumhuriyet - Krallık - İmparatorluk",
+   "C": "Krallık - İmparatorluk - Cumhuriyet",
+   "D": "Krallık - Cumhuriyet - İmparatorluk",
+   "E": "İmparatorluk - Krallık - Cumhuriyet"
+  },
+  "dogru": "D",
+  "cozum": "Roma tarihi; Krallık Dönemi (MÖ 753-509), Cumhuriyet Dönemi (MÖ 509-27) ve İmparatorluk Dönemi (MÖ 27'den itibaren, Augustus ile başlar) olmak üzere üç ana döneme ayrılır.",
+  "hafiza_ipucu": "K-C-İ: Kral önce, Cumhuriyet sonra, İmparator en son.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 85
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-050",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-imparatorlar",
+  "soru": "Julius Caesar'ın Pontus Kralı Pharnakes'e karşı kazandığı zaferin ardından söylediği ve 'geldim, gördüm, yendim' anlamına gelen ünlü 'Veni, vidi, vici' sözünü söylediği yer aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Roma",
+   "B": "Zela",
+   "C": "Aleksandreia",
+   "D": "Philippi",
+   "E": "Farsala"
+  },
+  "dogru": "B",
+  "cozum": "Julius Caesar, MÖ 47'de Pontus Kralı Pharnakes'e karşı Zela'da (bugünkü Zile/Tokat) kazandığı hızlı zaferin ardından 'Veni, vidi, vici' (geldim, gördüm, yendim) sözünü söylemiştir.",
+  "hafiza_ipucu": "ZELA (Zile) = hızlı zaferin sözü; üç kısa fiil, üç günlük savaş.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 94
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.29 (Veni vidi vici sözünü söylediği yer - Cevap: Zela)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-051",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-imparatorlar",
+  "soru": "MÖ 31'de Actium Deniz Savaşı'nda Antonius ve Kleopatra'yı yenerek Akdeniz dünyasının tek hâkimi olan ve Roma'nın ilk imparatoru unvanını alan kişi kimdir?",
+  "siklar": {
+   "A": "Julius Caesar",
+   "B": "Pompeius",
+   "C": "Augustus (Octavianus)",
+   "D": "Marcus Antonius",
+   "E": "Tiberius"
+  },
+  "dogru": "C",
+  "cozum": "Octavianus, MÖ 31'de Actium'da Antonius ve Kleopatra'yı yenerek Mısır'ı Roma eyaleti yapmış; MÖ 27'de 'Augustus' unvanıyla Roma'nın ilk imparatoru olmuştur.",
+  "hafiza_ipucu": "OCTAvianus, AUGUSTus unvanını Actium zaferinden sonra aldı — ilk imparator.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 94
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-052",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-imparatorlar",
+  "soru": "Stoacı felsefenin ilkelerini devlet yönetimine ve kişisel yaşamına yansıtan, 'filozof imparator' olarak da anılan ve 'Kendime Düşünceler' adlı eseriyle tanınan Roma imparatoru kimdir?",
+  "siklar": {
+   "A": "Antoninus Pius",
+   "B": "Hadrianus",
+   "C": "Traianus",
+   "D": "Marcus Aurelius",
+   "E": "Nerva"
+  },
+  "dogru": "D",
+  "cozum": "Marcus Aurelius, stoacı felsefeye olan ilgisi nedeniyle 'filozof imparator' olarak anılır; 'Kendime Düşünceler' adlı eseri stoacı felsefenin devlet yönetimine ve kişisel yaşama yansımasını içerir.",
+  "hafiza_ipucu": "MARCUS AURELİUS = zırhlı ama düşünceli imparator; çadırda 'Kendime' diye not tutar.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 126
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.66 (Kendime Düşünceler eserinin sahibi imparator - Cevap: Marcus Aurelius)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-053",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-imparatorlar",
+  "soru": "I. Nerva\nII. Traianus\nIII. Hadrianus\nIV. Antoninus Pius\nV. Marcus Aurelius\n\nİktidar dönemlerinde istikrar ve refahın hâkim olması nedeniyle Antik Çağ'da 'iyi imparatorlar' olarak anılan yukarıdaki isimlerden kaç tanesi bu grupta yer alır?",
+  "siklar": {
+   "A": "İkisi",
+   "B": "Üçü",
+   "C": "Dördü",
+   "D": "Beşi",
+   "E": "Hiçbiri"
+  },
+  "dogru": "D",
+  "cozum": "Nerva'dan itibaren Roma tahtına geçen beş imparator (Nerva, Traianus, Hadrianus, Antoninus Pius ve Marcus Aurelius) döneminde istikrar ve refah hâkim olduğundan, bu beşi 'iyi imparatorlar' olarak anılmıştır.",
+  "hafiza_ipucu": "5 İYİ İMPARATOR: N-T-H-A-M (Nerva-Traianus-Hadrianus-Antoninus-Marcus).",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "HLR-054",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-imparatorlar",
+  "soru": "Augustus'un imparatorluğu ilanından sonra Roma İmparatorluğu'nda başlayan ve yaklaşık iki yüzyıl süren, göreli iç barış ve istikrar dönemine ne ad verilir?",
+  "siklar": {
+   "A": "Pax Romana",
+   "B": "Askeri Anarşi",
+   "C": "İkinci Triumvirlik",
+   "D": "Diadokhlar Dönemi",
+   "E": "Konsüllük Dönemi"
+  },
+  "dogru": "A",
+  "cozum": "Pax Romana ('Roma Barışı'), Augustus'un imparatorluğu kurmasıyla başlayan, İmparatorluğun geniş sınırları içinde göreli barış ve istikrarın hâkim olduğu döneme verilen addır.",
+  "hafiza_ipucu": "PAX = barış (Latince); ROMANA = Roma'nın barışı.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 100
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-055",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-donemler",
+  "soru": "MS 395 yılında, İmparator I. Theodosius'un ölümünün ardından Roma İmparatorluğu, oğulları arasında Doğu ve Batı olmak üzere ikiye bölünmüştür. Batı'yı yöneten Honorius'a karşılık Doğu'yu yöneten oğlu kimdir?",
+  "siklar": {
+   "A": "Arcadius",
+   "B": "II. Theodosius",
+   "C": "Iulius Nepos",
+   "D": "Romulus Augustulus",
+   "E": "Constantinus"
+  },
+  "dogru": "A",
+  "cozum": "I. Theodosius'un MS 395'teki ölümü üzerine imparatorluk, küçük oğlu Honorius'a Batı Roma, büyük oğlu Arcadius'a ise Doğu Roma bırakılarak ikiye bölünmüştür.",
+  "hafiza_ipucu": "395: THEOdosius öldü, HOnorius BATI'yı, ARCadius DOĞU'yu aldı.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 147
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-056",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-donemler",
+  "soru": "MS 476 yılında German komutanı Odoaker tarafından tahttan indirilerek Batı Roma İmparatorluğu'nun sonunu getiren, adı ilginç biçimde kentin efsanevi kurucusuyla aynı olan son Batı Roma imparatoru kimdir?",
+  "siklar": {
+   "A": "Iulius Nepos",
+   "B": "Honorius",
+   "C": "Romulus Augustulus",
+   "D": "Anthemius",
+   "E": "Valentinianus"
+  },
+  "dogru": "C",
+  "cozum": "Batı Roma'nın son imparatoru, tesadüfen kentin efsanevi kurucusuyla aynı adı taşıyan Romulus Augustulus'tur; MS 476'da German komutanı Odoaker tarafından tahttan indirilmesiyle Batı Roma İmparatorluğu sona ermiştir.",
+  "hafiza_ipucu": "Roma ROMulus ile kuruldu, ROMulus Augustulus ile Batı'da bitti — çember kapandı.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 154
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "HLR-057",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-donemler",
+  "soru": "Batı Roma İmparatorluğu MS 476'da sona ererken, Doğu Roma (Bizans) İmparatorluğu hangi yıl ve kim tarafından sona erdirilmiştir?",
+  "siklar": {
+   "A": "1453 - Fatih Sultan Mehmet",
+   "B": "1071 - Alparslan",
+   "C": "1204 - Haçlılar",
+   "D": "395 - I. Theodosius",
+   "E": "1176 - II. Kılıçarslan"
+  },
+  "dogru": "A",
+  "cozum": "Batı Roma MS 476'da Germanların eline geçerken, Doğu Roma İmparatorluğu 1453'te Osmanlı Sultanı II. Mehmet (Fatih) tarafından İstanbul'un fethiyle sona erdirilmiştir.",
+  "hafiza_ipucu": "Batı 476'da, Doğu 1453'te biter — aradaki bin yıl Bizans'ın ömrüdür.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 154
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "HLR-058",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-gunluk-yasam",
+  "soru": "Roma İmparatorluğu döneminde sıcak yiyeceklerin satıldığı, hem oturarak hem ayakta yemek yenilebilen ve günümüz hazır yiyecek restoranlarının öncüsü olarak değerlendirilen mekân aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Caldarium",
+   "B": "Stoa",
+   "C": "Tepidarium",
+   "D": "Thermopolium",
+   "E": "Macellum"
+  },
+  "dogru": "D",
+  "cozum": "Thermopolium, Roma kentlerinde sıcak yiyecek ve içeceklerin satıldığı, tezgâh önünde ayakta ya da içeride oturarak yemek yenilebilen, günümüz 'fast-food' mekânlarının antik öncüsü sayılan işletmelerdir.",
+  "hafiza_ipucu": "THERMOpolium = THERMOs gibi sıcak yemek satan Roma büfesi.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.80 (Roma döneminde sıcak yiyecek satılan mekân - Cevap: Thermopolium)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-059",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-gunluk-yasam",
+  "soru": "Roma hamamlarında (thermae) sıcak su bölümüne 'caldarium', ılık bölüme 'tepidarium' denirken; sokakta ayaküstü sıcak yemek satılan işletmelere ne ad verilir?",
+  "siklar": {
+   "A": "Frigidarium",
+   "B": "Apodyterium",
+   "C": "Macellum",
+   "D": "Basilica",
+   "E": "Thermopolium"
+  },
+  "dogru": "E",
+  "cozum": "Caldarium (sıcak) ve tepidarium (ılık), Roma hamamlarının bölümleridir; thermopolium ise hamamla ilgisi olmayan, sokakta sıcak yiyecek satılan ayrı bir yapı türüdür.",
+  "hafiza_ipucu": "Hamam bölümü ≠ yemek yeri: -ARİUM'lar hamamda, THERMOPOLİUM sokakta.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.80 (thermopolium/caldarium/tepidarium çeldiricileriyle sorulmuştu)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "HLR-060",
+  "konu": "Helen ve Roma Tarihi",
+  "alt_konu": "roma-imparatorlar",
+  "soru": "Zile'de (Tokat) tur düzenleyen bir rehber, grubuna Julius Caesar'ın Pontus Kralı Pharnakes'i hızla bozguna uğrattıktan sonra Roma Senatosu'na gönderdiği kısa ve ünlü zafer mesajını anlatıyor. Rehberin bahsettiği söz aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Alea iacta est",
+   "B": "Et tu, Brute?",
+   "C": "Veni, vidi, vici",
+   "D": "Senatus Populusque Romanus",
+   "E": "Pax Romana"
+  },
+  "dogru": "C",
+  "cozum": "Caesar, MÖ 47'de Zela'da (Zile) Pontus Kralı Pharnakes'e karşı kazandığı hızlı zaferin ardından Roma'ya 'Veni, vidi, vici' (geldim, gördüm, yendim) mesajını göndermiştir.",
+  "hafiza_ipucu": "ZİLE'de Caesar üç kelimeyle zaferini özetledi: geldim-gördüm-yendim.",
+  "kaynak": {
+   "dosya": "Helen ve Roma Tarihi_2011 basımı.pdf",
+   "sayfa": 94
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.29 (Veni vidi vici sözünü söylediği yer - Cevap: Zela)",
+  "zorluk": "kolay"
+ }
+]

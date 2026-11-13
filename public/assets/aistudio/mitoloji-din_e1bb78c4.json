@@ -1,0 +1,1542 @@
+[
+ {
+  "id": "MIT-001",
+  "konu": "mitoloji-din",
+  "alt_konu": "homeros-ilyada",
+  "soru": "Homeros'a atfedilen İlyada destanı, Troya Savaşı'nın hangi bölümünü konu edinir?",
+  "siklar": {
+   "E": "Savaşın tamamının 10 yıllık süresini",
+   "A": "Savaşın son 51 günlük bölümünü",
+   "B": "Sadece tahta at hilesini",
+   "C": "Savaş sonrası Akhalıların dönüşünü",
+   "D": "Savaşın ilk yılını"
+  },
+  "dogru": "A",
+  "cozum": "İlyada 24 bölüm ve yaklaşık 16.000 dizeden oluşur; 10 yıl süren Troya Savaşı'nın sadece 51 günlük bölümünü anlatır (s.90).",
+  "hafiza_ipucu": "51 GÜN: İlyada koca savaşın değil, son 51 günün destanı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-002",
+  "konu": "mitoloji-din",
+  "alt_konu": "homeros-odysseia",
+  "soru": "Homeros'un Odysseia adlı eseri temel olarak neyi konu alır?",
+  "siklar": {
+   "E": "Troya Savaşı'nın nedenini",
+   "A": "Akhilleus'un öfkesini",
+   "B": "Ithake kralı Odysseus'un ülkesine dönüş serüvenlerini",
+   "C": "Tanrıların doğuşunu",
+   "D": "Roma'nın kuruluşunu"
+  },
+  "dogru": "B",
+  "cozum": "Odysseia, Ithake kralı Odysseus'un Troya'dan ülkesine dönüş yolculuğundaki serüvenlerini anlatan, 24 bölümden oluşan bir destandır (s.90).",
+  "hafiza_ipucu": "OdySSeia = dönüŞ Serüveni.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-003",
+  "konu": "mitoloji-din",
+  "alt_konu": "homeros-biyografi",
+  "soru": "Homeros'un yaşadığı ve doğduğu yer olarak en çok kabul gören bilgi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Atina",
+   "B": "Girit",
+   "C": "Batı Anadolu'da İzmir (Smyrna)",
+   "D": "Roma",
+   "E": "Delphoi"
+  },
+  "dogru": "C",
+  "cozum": "Homeros'un MÖ 850 yılları civarında yaşadığı ve Batı Anadolu'da İyonya bölgesinde İzmirli (Smyrna) olduğu en çok kabul edilen bilgidir (s.89-90).",
+  "hafiza_ipucu": "HOMurdanan ozan Batı Anadolu'nun İzmir'inden çıktı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-004",
+  "konu": "mitoloji-din",
+  "alt_konu": "hesiodos-theogonia",
+  "soru": "Evrenin ve tanrıların doğuşunu (Khaos'tan başlayarak) anlatan, Yunan mitolojisinin en önemli kaynak eserlerinden biri hangisidir?",
+  "siklar": {
+   "B": "İlyada",
+   "C": "Odysseia",
+   "D": "Theogonia",
+   "E": "Aeneis",
+   "A": "Metamorfoz"
+  },
+  "dogru": "D",
+  "cozum": "Hesiodos'un Theogonia (Tanrıların Doğuşu) adlı eseri, evrenin doğuşunu ve tanrısal soy ağacını anlatır (s.90-91).",
+  "hafiza_ipucu": "HESAP tutan çiftçi Hesiodos, tanrıların soy HESABINI (Theogonia) tuttu.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025 (×2)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-005",
+  "konu": "mitoloji-din",
+  "alt_konu": "hesiodos-isler-gunler",
+  "soru": "Hesiodos'un günlük yaşam, tarım takvimi ve ahlaki öğütlerden bahseden eseri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "D": "Theogonia",
+   "E": "İşler ve Günler (Erga Kai Homerai)",
+   "A": "İlyada",
+   "B": "Odysseia",
+   "C": "Mitoloji Sözlüğü"
+  },
+  "dogru": "E",
+  "cozum": "Hesiodos'un İşler ve Günler (Erga Kai Homerai) adlı eseri, çiftçi kökenli yazarın günlük yaşam ve tarım takvimiyle ilgili öğütlerini içerir (s.90).",
+  "hafiza_ipucu": "HESAP tutan çiftçinin İKİNCİ defteri: İşler ve Günler.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-006",
+  "konu": "mitoloji-din",
+  "alt_konu": "azra-erhat",
+  "soru": "Türkiye'de mitoloji alanının temel başvuru eserlerinden biri olan Mitoloji Sözlüğü'nü kaleme alan ve İlyada, Odysseia ile Theogonia'yı da Türkçeye çeviren yazar kimdir?",
+  "siklar": {
+   "A": "Azra Erhat",
+   "B": "Melih Cevdet Anday",
+   "C": "Sabahattin Eyüboğlu",
+   "D": "Bahaeddin Ögel",
+   "E": "Halikarnas Balıkçısı"
+  },
+  "dogru": "A",
+  "cozum": "Azra Erhat, Mitoloji Sözlüğü'nün (1972) yazarı olup İlyada-Odysseia ve Theogonia çevirilerine de imza atmıştır (s.92).",
+  "hafiza_ipucu": "ERHAT = ERdemli HATırlatıcı, mitolojiyi Türkçeye taşıyan kalem.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 92
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-007",
+  "konu": "mitoloji-din",
+  "alt_konu": "theogonia-ilkeler",
+  "soru": "Hesiodos'un Theogonia'sına göre evrenin başlangıcında var olan ve ondan Gaia'nın doğduğu ilke aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Eros",
+   "B": "Khaos",
+   "C": "Pontos",
+   "D": "Ouranos",
+   "E": "Tartaros"
+  },
+  "dogru": "B",
+  "cozum": "Evrenin başlangıcı karışıklık ve sonsuz boşluk anlamına gelen Khaos'tur; Khaos'tan yerküre Gaia doğmuştur (s.90).",
+  "hafiza_ipucu": "KHAOS = kaos, düzensizlik; ilk boşluktan Toprak (Gaia) doğar.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-008",
+  "konu": "mitoloji-din",
+  "alt_konu": "titanlar",
+  "soru": "I. Kronos  II. Rheia  III. Themis  IV. Zeus  V. Okeanos\nYukarıdakilerden kaç tanesi Hesiodos'un Theogonia'sında sayılan Titanlardandır?",
+  "siklar": {
+   "E": "1",
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "dogru": "C",
+  "cozum": "Okeanos, Koios, Krios, Iapetos, Hyperion, Kronos erkek; Theia, Rheia, Themis, Mnemosyne, Phoibe, Tethys dişi Titanlardır. Zeus ise Titan değil, ikinci kuşak Olymposlu tanrıdır (s.91).",
+  "hafiza_ipucu": "Titan kuşağı BİR ÖNCEKİ nesil; Zeus onları YENEN kuşaktandır.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MIT-009",
+  "konu": "mitoloji-din",
+  "alt_konu": "kykloplar",
+  "soru": "Alınlarının ortasında tek gözleri olan, Zeus'a gök gürültüsü, şimşek ve yıldırımı bağışlayan üç varlık (Brontes, Steropes, Arges) aşağıdakilerden hangisidir?",
+  "siklar": {
+   "B": "Hekatonkheirler",
+   "C": "Titanlar",
+   "D": "Kykloplar",
+   "E": "Gigantlar",
+   "A": "Erinysler"
+  },
+  "dogru": "D",
+  "cozum": "Gaia'nın Ouranos'a doğurduğu, tek gözlü ve büyük fiziksel güce sahip üç varlık Kykloplardır: Brontes (Gök Gürültüsü), Steropes (Yıldırım), Arges (Şimşek) (s.91).",
+  "hafiza_ipucu": "tek GÖZ = KYKLOP; Zeus'a şimşeği onlar hediye etti.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-010",
+  "konu": "mitoloji-din",
+  "alt_konu": "titanomakhia",
+  "soru": "Zeus'un Titanlara karşı kazandığı ve on yıl süren savaşın adı ile bu savaşın geçtiği tepeler aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "D": "Gigantomakhia - Bergama ve Efes",
+   "E": "Titanomakhia - Othrys ve Olympos",
+   "A": "Titanomakhia - Delphoi ve Klaros",
+   "B": "Gigantomakhia - Othrys ve Olympos",
+   "C": "Titanomakhia - Girit ve Delos"
+  },
+  "dogru": "E",
+  "cozum": "Teselya'nın Othrys ve Olympos tepelerinde geçen ve on yıl süren savaşa Titanomakhia denir; Titanlar yenilip Tartaros'a atılmıştır (s.92).",
+  "hafiza_ipucu": "TİTANomakhia = TİTANLAR'la savaş; Othrys-Olympos tepeleri.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 92
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-011",
+  "konu": "mitoloji-din",
+  "alt_konu": "gigantomakhia-titanomakhia",
+  "soru": "Bergama'daki Zeus Altarı frizinde betimlenen mitolojik savaş ile Titanlar arasındaki savaş hakkında aşağıdakilerden hangisi doğrudur?",
+  "siklar": {
+   "E": "İkisi de aynı savaşı ifade eder",
+   "A": "Zeus Altarı frizinde Gigantomakhia (tanrılar-devler savaşı) betimlenirken, Titanomakhia daha önceki tanrılar-Titanlar savaşıdır",
+   "B": "Zeus Altarı'nda Titanomakhia betimlenmiştir",
+   "C": "Gigantomakhia, Kronos ile Uranos arasındaki savaştır",
+   "D": "Titanomakhia, Gaia'nın Typhon'u doğurmasıyla başlayan savaştır"
+  },
+  "dogru": "A",
+  "cozum": "Bergama Zeus Altarı frizinde tanrılarla devlerin (Gigantlar) savaşı Gigantomakhia betimlenir; Titanomakhia ise Zeus'un Titanlarla yaptığı daha önceki savaştır (s.92, MKS Ağustos 2025).",
+  "hafiza_ipucu": "friz = GİGANT (Bergama); Titan savaşı ondan ÖNCEKİ kuşak çatışması.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 92
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-012",
+  "konu": "mitoloji-din",
+  "alt_konu": "zeus-kult",
+  "soru": "I. Olympia  II. Labraunda  III. Delphoi  IV. Bergama (Zeus Altarı)\nYukarıdakilerden hangileri Zeus'un kült/tapınım merkezleri arasında sayılır?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I, II ve IV",
+   "C": "I, II, III ve IV",
+   "D": "II ve III",
+   "E": "Yalnız IV"
+  },
+  "dogru": "B",
+  "cozum": "Zeus'un en önemli kült merkezi Olympia'dır; Anadolu'da da Labraunda, Bergama (Zeus Altarı) gibi pek çok kült yeri vardır. Delphoi ise Apollon'un kehanet merkezidir, Zeus'la özdeşleşmez (s.94).",
+  "hafiza_ipucu": "Delphoi = APOLLON'un evi, Zeus'un değil.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 94
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-013",
+  "konu": "mitoloji-din",
+  "alt_konu": "olimpiyat-zeus",
+  "soru": "İlk Olimpiyat Oyunları hangi tanrı onuruna, hangi şehirde başlamıştır?",
+  "siklar": {
+   "B": "Apollon - Delphoi",
+   "C": "Zeus - Olympia",
+   "D": "Poseidon - Korinth",
+   "E": "Hera - Argos",
+   "A": "Athena - Atina"
+  },
+  "dogru": "C",
+  "cozum": "İlk Olimpiyatlar Zeus adına, Olympia şehrinde başlamış; Olympia'daki Zeus Tapınağı'ndaki heykel dünyanın 7 harikasından biridir (s.94).",
+  "hafiza_ipucu": "OLİMPİYAT-OLYMPİA-ZEUS: üçü de baş tanrının imzası.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 94
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-014",
+  "konu": "mitoloji-din",
+  "alt_konu": "olympos-12li",
+  "soru": "Olympos'ta sürekli yaşadığı kabul edilen ve 'Olympian' olarak anılan 10 tanrı arasında aşağıdakilerden hangisi yer ALMAZ?",
+  "siklar": {
+   "B": "Hermes",
+   "C": "Ares",
+   "D": "Demeter",
+   "E": "Athena",
+   "A": "Aphrodite"
+  },
+  "dogru": "D",
+  "cozum": "Sürekli Olympos'ta bulunan 10 Olympian: Zeus, Hera, Poseidon, Ares, Hermes, Hephaistos, Artemis, Apollon, Aphrodite, Athena'dır. Demeter, Hades, Dionysos ve Hestia ise zaman zaman Olympos'ta bulunmayan 4 tanrı arasındadır (s.93).",
+  "hafiza_ipucu": "DEMETER toprakla meşgul, Olympos'a sık uğramaz.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 93
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-015",
+  "konu": "mitoloji-din",
+  "alt_konu": "hera",
+  "soru": "Olymposlu tanrıçaların en büyüğü olan, evli kadınların koruyucusu kabul edilen ve simgesi tavus kuşu olan tanrıça kimdir?",
+  "siklar": {
+   "B": "Athena",
+   "C": "Aphrodite",
+   "D": "Artemis",
+   "E": "Hera",
+   "A": "Demeter"
+  },
+  "dogru": "E",
+  "cozum": "Hera, Zeus'un eşi ve Olymposlu tanrıçaların en büyüğüdür; evli kadınların koruyucusudur ve simgesi tavus kuşudur (s.94).",
+  "hafiza_ipucu": "HERA-evli HAnım-tavus kuşu.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 94
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-016",
+  "konu": "mitoloji-din",
+  "alt_konu": "poseidon",
+  "soru": "Elindeki üç dişli yaba (trident) ile tanınan, denizlerin ve depremlerin tanrısı kimdir?",
+  "siklar": {
+   "A": "Poseidon",
+   "B": "Hades",
+   "C": "Zeus",
+   "D": "Ares",
+   "E": "Hermes"
+  },
+  "dogru": "A",
+  "cozum": "Poseidon, denizlerin tanrısıdır; üç dişli yabası (trident) ile kıyıları sarsabilir, kaynak ve pınarları ortaya çıkarabilirdi (s.94-95).",
+  "hafiza_ipucu": "trident = POSEİDON'un üç dişli mızrağı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 95
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-017",
+  "konu": "mitoloji-din",
+  "alt_konu": "athena-dogumu",
+  "soru": "Athena'nın doğumuyla ilgili anlatı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Zeus ile Hera'nın evliliğinden doğmuştur",
+   "B": "Zeus'un başının Hephaistos tarafından bir baltayla yarılmasıyla, silahlı biçimde babasının kafasından çıkmıştır",
+   "C": "Deniz köpüğünden doğmuştur",
+   "D": "Kronos ile Rheia'nın kızıdır",
+   "E": "Semele'den doğmuştur"
+  },
+  "dogru": "B",
+  "cozum": "Zeus, eşi Metis'i yuttuktan sonra çektiği baş ağrısı üzerine Hephaistos'un baltasıyla başı yarılmış, Athena silahlarıyla kuşanmış olarak babasının kafasından çıkmıştır (s.93,99).",
+  "hafiza_ipucu": "ATHENA babasının KAFASINDAN, tam donanımlı doğdu.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 99
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-018",
+  "konu": "mitoloji-din",
+  "alt_konu": "apollon-kehanet",
+  "soru": "I. Pessinus  II. Efes  III. Klaros  IV. Didyma  V. Delphoi\nYukarıdakilerden hangileri Anadolu topraklarında yer alan Apollon kehanet (bilicilik) merkezleridir?",
+  "siklar": {
+   "B": "I ve V",
+   "C": "III ve IV",
+   "D": "II ve V",
+   "E": "I, II ve III",
+   "A": "III, IV ve V"
+  },
+  "dogru": "C",
+  "cozum": "Apollon'un Anadolu'daki bilicilik merkezlerinden ikisi Klaros ve Didim'dir (ayrıca Patara). Delphoi Yunanistan'dadır; Pessinus Kybele, Efes ise Artemis'in kült merkezidir (s.98, MKS Mart 2026).",
+  "hafiza_ipucu": "KLARnet çal, DİDİM'de dinle - ikisi de Anadolu'da Apollon kehaneti.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 98
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-019",
+  "konu": "mitoloji-din",
+  "alt_konu": "apollon-roma",
+  "soru": "Yunan mitolojisinden Roma mitolojisine adı değişmeden geçen tek tanrı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "B": "Zeus",
+   "C": "Hermes",
+   "D": "Apollon",
+   "E": "Ares",
+   "A": "Artemis"
+  },
+  "dogru": "D",
+  "cozum": "Apollon, adı değişmeden Roma mitolojisine geçen tek tanrı olma özelliğini taşır (s.97, 102).",
+  "hafiza_ipucu": "APOLLON: tek isim değişmeyen tanrı, Roma'da da APOLLON.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 102
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-020",
+  "konu": "mitoloji-din",
+  "alt_konu": "artemis-efes",
+  "soru": "Anadolulu bir ana tanrıça kökenine sahip olduğu kabul edilen ve en kutsal tapınım merkezi Efes'teki Artemision olan tanrıça kimdir?",
+  "siklar": {
+   "C": "Hera",
+   "D": "Demeter",
+   "E": "Artemis",
+   "A": "Aphrodite",
+   "B": "Hestia"
+  },
+  "dogru": "E",
+  "cozum": "Artemis, doğa ve av tanrıçasıdır; en kutsal tapınım merkezi Efes'teki Artemision'dur ve kaynağının Anadolulu ana tanrıça olduğu kabul edilir (s.99).",
+  "hafiza_ipucu": "ARTEMİS-EFES-Ana Tanrıça: Anadolu'nun avcı tanrıçası.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 99
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-021",
+  "konu": "mitoloji-din",
+  "alt_konu": "kubaba-kibele-artemis",
+  "soru": "Hitit dönemindeki Ana Tanrıça Kubaba, sonraki dönemlerde hangi isim değişimiyle Anadolu'daki ana tanrıça kültünün sürekliliğini gösterir?",
+  "siklar": {
+   "A": "Kubaba (Hitit) → Kybele (Phryg-Roma)",
+   "B": "Kubaba (Hitit) → Hepat (Roma)",
+   "C": "Kubaba (Hitit) → Hera (Roma)",
+   "D": "Kubaba (Hitit) → Demeter (Phryg)",
+   "E": "Kubaba (Hitit) → Athena (Roma)"
+  },
+  "dogru": "A",
+  "cozum": "Kargamış kült merkezli Ana Tanrıça Kubaba, Phryg ve Roma döneminde Kybele olarak panteondaki yerini almıştır; bu zincir Anadolu'daki Artemis kültüyle de ilişkilendirilir (s.60).",
+  "hafiza_ipucu": "KUBABA → KYBELE → (Efes'te) ARTEMİS: Anadolu'nun ana tanrıçası hiç değişmedi, adı değişti.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MIT-022",
+  "konu": "mitoloji-din",
+  "alt_konu": "hermes",
+  "soru": "Doğduğu gün mağaradan çıkıp bir kaplumbağadan lir (lyra) yapan, sürüleri çalıp habercilerin ve tüccarların tanrısı olan kimdir?",
+  "siklar": {
+   "A": "Apollon",
+   "B": "Hermes",
+   "C": "Pan",
+   "D": "Hephaistos",
+   "E": "Ares"
+  },
+  "dogru": "B",
+  "cozum": "Zeus ile Maia'nın oğlu Hermes, doğduğu gün kaplumbağadan lir yapmış, Apollon'un sürülerini çalmış ve sonunda habercilerin, tüccarların ve yolcuların koruyucusu olmuştur (s.96-97).",
+  "hafiza_ipucu": "HERMES: doğar doğmaz hırsızlık yapan zeki bebek tanrı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 96
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-023",
+  "konu": "mitoloji-din",
+  "alt_konu": "hephaistos",
+  "soru": "Topal olduğu için Olympos'tan aşağı atılan, buna karşın olağanüstü ustalıkta eserler yaratan demircilik ve zanaat tanrısı kimdir?",
+  "siklar": {
+   "A": "Ares",
+   "B": "Hermes",
+   "C": "Hephaistos",
+   "D": "Poseidon",
+   "E": "Apollon"
+  },
+  "dogru": "C",
+  "cozum": "Hephaistos topallığına rağmen madeni işleyerek olağanüstü eserler yaratan demircilik tanrısıdır; Aphrodite ile evlendirilmiştir (s.97).",
+  "hafiza_ipucu": "topal ama usta ÇEKİÇ ustası: HEPHAİSTOS.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-024",
+  "konu": "mitoloji-din",
+  "alt_konu": "aphrodite-dogus",
+  "soru": "Aphrodite'nin doğuşu hakkında Hesiodos ve Homeros'un anlatımları arasındaki fark aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "C": "Homeros'a göre denizin köpüklü dalgalarından, Hesiodos'a göre Zeus ile Dione'den doğmuştur",
+   "D": "Hesiodos'a göre denizin köpüklü dalgalarından, Homeros'a göre Zeus ile Dione'den doğmuştur",
+   "E": "Her ikisine göre de Zeus'un kızıdır",
+   "A": "Her ikisine göre de deniz köpüğünden doğmuştur",
+   "B": "Hesiodos'a göre Hera'nın kızıdır"
+  },
+  "dogru": "D",
+  "cozum": "Homeros'a göre Aphrodite, Zeus ile Okeanos kızı Dione'den doğmadır; Hesiodos'a göre ise Uranos'un kesilen organının denize düşmesiyle oluşan köpükten doğmuştur (s.91,97).",
+  "hafiza_ipucu": "HESİodos = deniz köpüğü; HOMeros = Zeus-Dione kızı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MIT-025",
+  "konu": "mitoloji-din",
+  "alt_konu": "ares",
+  "soru": "Kaba kuvveti ve savaşı simgeleyen, Roma mitolojisinde Mars adıyla anılan ve adına Areopagos (Ares Tepesi) mahkemesinin bağlandığı tanrı kimdir?",
+  "siklar": {
+   "D": "Poseidon",
+   "E": "Ares",
+   "A": "Hades",
+   "B": "Hephaistos",
+   "C": "Apollon"
+  },
+  "dogru": "E",
+  "cozum": "Ares, kaba kuvvetli ve korkunç savaşı simgeleyen tanrıdır; Roma'da Mars adını almış, Atina'daki Areopagos tepesi de onun adıyla anılmıştır (s.95-96).",
+  "hafiza_ipucu": "ARES = savAŞ, Roma'da MARS.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 96
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-026",
+  "konu": "mitoloji-din",
+  "alt_konu": "demeter-persephone",
+  "soru": "Kızı Persephone'nin Hades tarafından kaçırılması ve yılın belirli bir bölümünü yeraltında geçirmesi, mitolojide hangi doğa olgusunu açıklamak için anlatılır?",
+  "siklar": {
+   "E": "Depremlerin oluşumunu",
+   "A": "Mevsimlerin oluşumunu",
+   "B": "Yıldırım ve şimşeği",
+   "C": "Denizlerin med-cezirini",
+   "D": "Güneş tutulmasını"
+  },
+  "dogru": "A",
+  "cozum": "Demeter'in kızı Persephone yılın bir bölümünü Hades'in yanında geçirdiğinde Demeter yasa boğulup kıtlık yaratır; bu efsane mevsimlerin oluşumunu açıklar (s.100).",
+  "hafiza_ipucu": "Persephone yerin altına inince KIŞ gelir, dönünce BAHAR.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 100
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-027",
+  "konu": "mitoloji-din",
+  "alt_konu": "dionysos-kybele",
+  "soru": "Hera tarafından delirtilen ve dolaşırken Anadolu'da Phrygia'ya ulaşıp Tanrıça Kybele tarafından arındırılan tanrı kimdir?",
+  "siklar": {
+   "E": "Apollon",
+   "A": "Hermes",
+   "B": "Dionysos",
+   "C": "Ares",
+   "D": "Poseidon"
+  },
+  "dogru": "B",
+  "cozum": "Zeus ile Semele'nin oğlu Dionysos, Hera tarafından delirtilip dolaştıktan sonra Phrygia'da Kybele tarafından arındırılmış ve kültü hakkında bilgilendirilmiştir (s.101).",
+  "hafiza_ipucu": "DİONYSOS-şarap-Kybele'nin şifasıyla akıl buldu.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 101
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-028",
+  "konu": "mitoloji-din",
+  "alt_konu": "hades",
+  "soru": "Ölüler dünyasının hükümdarı olan, ruhları Styks ırmağının karşı yakasına geçiren kayıkçı Kharon ve üç başlı köpek Kerberos ile anılan tanrı kimdir?",
+  "siklar": {
+   "B": "Poseidon",
+   "C": "Hades",
+   "D": "Ares",
+   "E": "Hermes",
+   "A": "Zeus"
+  },
+  "dogru": "C",
+  "cozum": "Hades, ölüler dünyasının hükümdarıdır; yardımcıları arasında kayıkçı Kharon ve bekçi köpek Kerberos yer alır (s.100).",
+  "hafiza_ipucu": "HADES-yer altı-Kharon'un kayığı ve Kerberos'un üç başı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 100
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-029",
+  "konu": "mitoloji-din",
+  "alt_konu": "roma-mitolojisi",
+  "soru": "I. Zeus - Jupiter  II. Poseidon - Neptunus  III. Apollon - Phoebus  IV. Hermes - Mercurius\nYukarıdaki Yunan-Roma tanrı eşleştirmelerinden kaç tanesi doğrudur?",
+  "siklar": {
+   "B": "1",
+   "C": "2",
+   "D": "3",
+   "E": "4",
+   "A": "0"
+  },
+  "dogru": "D",
+  "cozum": "Zeus-Jupiter, Poseidon-Neptunus ve Hermes-Mercurius doğrudur; Apollon ise adı değişmeden Roma mitolojisine geçen tek tanrıdır, 'Phoebus' onun bir sıfatıdır, Roma karşılığı değildir (s.102).",
+  "hafiza_ipucu": "APOLLON isim DEĞİŞTİRMEDİ; diğer üç eşleştirme doğru.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 102
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MIT-030",
+  "konu": "mitoloji-din",
+  "alt_konu": "prometheus",
+  "soru": "Protagoras'ın aktardığı mite göre, tanrılardan ateşi çalarak insanlara veren ve bu yüzden Zeus tarafından cezalandırılan tanrı kimdir?",
+  "siklar": {
+   "D": "Epimetheus",
+   "E": "Prometheus",
+   "A": "Hermes",
+   "B": "Hephaistos",
+   "C": "Atlas"
+  },
+  "dogru": "E",
+  "cozum": "Canlıları donatma görevini üstlenen iki kardeşten Prometheus, çıplak kalan insana Olympos'tan çaldığı ateşi ve zanaatları vermiş, bu yüzden Zeus tarafından cezalandırılmıştır (s.31).",
+  "hafiza_ipucu": "PROMETHEUS = ateşi çalan, insana veren kahraman-tanrı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 31
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-031",
+  "konu": "mitoloji-din",
+  "alt_konu": "havariler-yahuda",
+  "soru": "Hristiyanlık inancına göre Hz. İsa'ya ihanet etmesiyle tanınan ve Kapadokya kaya kiliselerinde de sıkça tasvir edilen havari kimdir?",
+  "siklar": {
+   "C": "Petrus",
+   "D": "Matta",
+   "E": "Tomas",
+   "A": "Yahuda",
+   "B": "Simon"
+  },
+  "dogru": "A",
+  "cozum": "Hz. İsa'nın on iki havarisinden Yahuda (İskariyot), ihanet etmesiyle tanınır; bu konu Kapadokya fresklerinde sık işlenir.",
+  "hafiza_ipucu": "YAHUDA = ihanet eden havari; Kapadokya freskolarının klasik figürü.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-032",
+  "konu": "mitoloji-din",
+  "alt_konu": "dort-kanonik-incil",
+  "soru": "Yeni Ahit'te yer alan dört kanonik İncil'in yazarları aşağıdakilerin hangisinde tam ve doğru olarak verilmiştir?",
+  "siklar": {
+   "B": "Matta, Markos, Luka, Yuhanna",
+   "C": "Matta, Markos, Luka, Barnabas",
+   "D": "Petrus, Pavlos, Luka, Yuhanna",
+   "E": "Matta, Yuhanna, Barnabas, Luka",
+   "A": "Markos, Pavlos, Tomas, Yuhanna"
+  },
+  "dogru": "B",
+  "cozum": "Yeni Ahit'in ilk dört bölümünü oluşturan kanonik İnciller Matta, Markos, Luka ve Yuhanna'ya aittir (s.173-174); Barnabas kanonik İncil yazarı değildir.",
+  "hafiza_ipucu": "MMLY: Matta-Markos-Luka-Yuhanna; Barnabas listenin DIŞINDA.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 174
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-033",
+  "konu": "mitoloji-din",
+  "alt_konu": "barnabas-degil",
+  "soru": "Aşağıdakilerden hangisi kanonik (Yeni Ahit'te kabul edilen) dört İncil yazarından biri DEĞİLDİR?",
+  "siklar": {
+   "D": "Matta",
+   "E": "Markos",
+   "A": "Luka",
+   "B": "Yuhanna",
+   "C": "Barnabas"
+  },
+  "dogru": "C",
+  "cozum": "Kanonik dört İncil Matta, Markos, Luka ve Yuhanna'ya aittir; Barnabas'a atfedilen bir İncil kanonik kabul edilmez (s.173-174).",
+  "hafiza_ipucu": "MMLY dörtlüsünün dışında kalan isim: BARNABAS.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 174
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-034",
+  "konu": "mitoloji-din",
+  "alt_konu": "yeni-ahit-yapisi",
+  "soru": "Yeni Ahit'i oluşturan 27 bölüm aşağıdaki unsurların hangisinden OLUŞMAZ?",
+  "siklar": {
+   "E": "Dört kanonik İncil",
+   "A": "Pavlos'un yazdığı Resullerin İşleri",
+   "B": "21 mektup",
+   "C": "Yuhanna'nın Vahyi",
+   "D": "Tanah'ın 39 kitabı"
+  },
+  "dogru": "D",
+  "cozum": "Yeni Ahit; 4 İncil, Pavlos'un Resullerin İşleri, 21 mektup ve Vahiy bölümünden oluşur (27 bölüm). Tanah'ın 39 kitabı ise Eski Ahit'e (Yahudi kutsal metnine) aittir (s.173-174).",
+  "hafiza_ipucu": "Yeni Ahit = 4+1+21+1; Tanah AYRI, Eski Ahit'in parçası.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 174
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-035",
+  "konu": "mitoloji-din",
+  "alt_konu": "pavlus-tarsus",
+  "soru": "Hristiyanlığın Yahudi olmayan topluluklar arasında yayılmasında en büyük payı olan, Tarsus doğumlu ve 'Yabancıların Havarisi' olarak da anılan kişi kimdir?",
+  "siklar": {
+   "C": "Petrus",
+   "D": "Yakub",
+   "E": "Pavlos",
+   "A": "Barnabas",
+   "B": "Yuhanna"
+  },
+  "dogru": "E",
+  "cozum": "Tarsuslu bir Yahudi din adamı olan Pavlos, Şam yolunda yaşadığı bir vizyonla Hristiyanlığı kabul etmiş ve Yahudi olmayanlar arasında dini yaymasıyla 'Yabancıların Havarisi' olarak anılmıştır (s.170).",
+  "hafiza_ipucu": "PAVLOS-Tarsuslu-havari OLMADAN havari gibi çalıştı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 170
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-036",
+  "konu": "mitoloji-din",
+  "alt_konu": "iznik-konsili",
+  "soru": "Hristiyan inanç birliğini sağlamak amacıyla 325 yılında İmparator Konstantin tarafından toplanan ve dört İncil'in kanonik kabul edildiği ilk genel konsil aşağıdakilerden hangisidir?",
+  "siklar": {
+   "D": "Efes Konsili",
+   "E": "Kadıköy Konsili",
+   "A": "İznik Konsili",
+   "B": "İstanbul Konsili",
+   "C": "II. Vatikan Konsili"
+  },
+  "dogru": "A",
+  "cozum": "325 yılında İznik'te gerçekleştirilen ilk genel konsilde tanrısal anlayışta baba-oğul kavramları kabul edilmiş, dört İncil kanonik sayılmıştır (s.170).",
+  "hafiza_ipucu": "İZNİK 325 = ilk konsil, dört İncil'in resmileştiği yer.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 170
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-037",
+  "konu": "mitoloji-din",
+  "alt_konu": "teslis",
+  "soru": "Hristiyanlıktaki Baba-Oğul-Kutsal Ruh üçlemesine verilen ad ve bu üçlemenin tamamlandığı konsil aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+  "siklar": {
+   "A": "Teslis - 325 İznik Konsili",
+   "B": "Teslis - 381 İstanbul Konsili",
+   "C": "Sakrament - 431 Efes Konsili",
+   "D": "Teslis - 451 Kadıköy Konsili",
+   "E": "Mesih - 1054 Ayrılığı"
+  },
+  "dogru": "B",
+  "cozum": "381 yılında İstanbul'da yapılan I. İstanbul Konsili'nde Kutsal Ruh kavramı kabul edilerek Teslis akidesi Baba-Oğul-Kutsal Ruh şeklinde tamamlanmıştır (s.170).",
+  "hafiza_ipucu": "381 İstanbul = Teslis'in son parçası (Kutsal Ruh) eklendi.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 170
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-038",
+  "konu": "mitoloji-din",
+  "alt_konu": "7-kilise",
+  "soru": "I. Efes  II. Smyrna  III. Sagalassos  IV. Laodikeia  V. Priene\nYukarıdaki antik kentlerden hangileri Yeni Ahit'te sözü edilen ve Hristiyanlarca kutsal kabul edilen 7 kiliseden biridir?",
+  "siklar": {
+   "B": "Yalnız V",
+   "C": "I, II ve IV",
+   "D": "I, II, III ve IV",
+   "E": "I ve III",
+   "A": "Hepsi"
+  },
+  "dogru": "C",
+  "cozum": "Yeni Ahit'in 7 kilisesi Efes, Smyrna, Pergamon, Thyatira, Sardes, Philadelphia ve Laodikeia'dır (hepsi Batı Anadolu'da); Sagalassos ve Priene bu listede DEĞİLDİR (MKS Ağustos 2025).",
+  "hafiza_ipucu": "ESPTSPL: Efes'te Sabah Pazarı Tezgâhta Sıcak Poğaça-Lavaş.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-039",
+  "konu": "mitoloji-din",
+  "alt_konu": "ikonoklazm",
+  "soru": "8. yüzyıl sonları ve 9. yüzyıl başlarını kapsayan, Hristiyanlıkta kiliselerdeki tasvirlerin kaldırılması ve yasaklanması dönemini ifade eden kavram aşağıdakilerden hangisidir?",
+  "siklar": {
+   "B": "Sakrament",
+   "C": "Teslis",
+   "D": "İkonoklazm",
+   "E": "Konsil",
+   "A": "Vaftiz"
+  },
+  "dogru": "D",
+  "cozum": "İkonoklazm, 8. yüzyıl sonu-9. yüzyıl başında Hristiyanlıkta dini tasvirlerin kaldırılıp yasaklanması dönemini ifade eder (MKS Ağustos 2025).",
+  "hafiza_ipucu": "İKONOklazm = İKON'ları KIRAN dönem.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-040",
+  "konu": "mitoloji-din",
+  "alt_konu": "efes-kadikoy-konsilleri",
+  "soru": "431 yılında Efes'te ve 451 yılında Kadıköy'de yapılan konsillerde tartışılan temel konu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "E": "İsa'nın ilahi ve beşeri tabiatının niteliği (mono/diyofizit tartışması)",
+   "A": "Kutsal Ruh'un kimden çıktığı",
+   "B": "Papalık otoritesinin sınırları",
+   "C": "İncillerin kanonlaştırılması",
+   "D": "Vaftiz yaşı"
+  },
+  "dogru": "E",
+  "cozum": "Efes Konsili'nde Nestoryus'un savunduğu iki tabiat (diyofizit) görüşü reddedilip tek tabiat (monofizit) kabul edilmiş; Kadıköy Konsili'nde ise diyofizit anlayış benimsenmiştir (s.171).",
+  "hafiza_ipucu": "Efes-Kadıköy: İsa TEK mi İKİ tabiatlı mı tartışması.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 171
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MIT-041",
+  "konu": "mitoloji-din",
+  "alt_konu": "1054-ayrilik",
+  "soru": "1054 yılında İstanbul (Rum Ortodoks) ve Roma (Latin Katolik) kiliselerinin kesin olarak ayrılmasına yol açan tartışma konusu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kutsal Ruh'un babadan mı, babadan ve oğuldan mı çıktığı",
+   "B": "Vaftiz yaşının ne olması gerektiği",
+   "C": "İncillerin sayısı",
+   "D": "Ruhbanlığın gerekliliği",
+   "E": "Hz. İsa'nın doğum yeri"
+  },
+  "dogru": "A",
+  "cozum": "1054 ayrılığının sebebi Kutsal Ruh'un nereden çıktığı tartışmasıdır: Ortodoks kilisesi sadece babadan, Katolik kilisesi babadan ve oğuldan çıktığına inanır (s.171).",
+  "hafiza_ipucu": "1054: Kutsal Ruh'un kaynağı yüzünden Doğu-Batı ayrıldı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 171
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MIT-042",
+  "konu": "mitoloji-din",
+  "alt_konu": "protestanlik",
+  "soru": "16. yüzyılda Papalık otoritesine karşı çıkan, Alman rahip Martin Luther öncülüğünde başlayan ve İncil'in herkesçe okunup anlaşılabileceğini savunan hareket aşağıdakilerden hangisidir?",
+  "siklar": {
+   "E": "Katoliklik",
+   "A": "Ortodoksluk",
+   "B": "Protestanlık",
+   "C": "Nesturilik",
+   "D": "Monofizitlik"
+  },
+  "dogru": "B",
+  "cozum": "16. yüzyılın başında Martin Luther tarafından başlatılan, Katolik Kilisesi'nin otoritesine karşı çıkan harekete Protestanlık denir (s.171, MKS Ağustos 2025).",
+  "hafiza_ipucu": "LUTHER-16.yy-PROTESTO eden hareket: Protestanlık.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 171
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-043",
+  "konu": "mitoloji-din",
+  "alt_konu": "sakramentler-ortak",
+  "soru": "Hristiyan mezheplerinin tamamı tarafından kabul edilen, iki temel sakrament aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "C": "Vaftiz ve Evharistiya",
+   "D": "Konfirmasyon ve Ruhbanlık",
+   "E": "Tövbe ve Son Yağlama",
+   "A": "Evlilik ve Ruhbanlık",
+   "B": "Vaftiz ve Ruhbanlık"
+  },
+  "dogru": "C",
+  "cozum": "Hristiyan mezheplerinin hepsi ilk iki sakrament olan Vaftiz ve Evharistiya'yı kabul eder; diğer sakramentler (konfirmasyon, tövbe, ruhbanlık vb.) yalnız bazı kiliselerce kabul edilir (s.172).",
+  "hafiza_ipucu": "VAFTİZ+EVHARİSTİYA = tüm mezheplerin ORTAK ikilisi.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 172
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-044",
+  "konu": "mitoloji-din",
+  "alt_konu": "vaftiz",
+  "soru": "Yeni doğan çocuğun suya daldırılması veya belirli kısımlarının yıkanması yoluyla gerçekleştirilen, Hristiyanlığa giriş töreni aşağıdakilerden hangisidir?",
+  "siklar": {
+   "C": "Evharistiya",
+   "D": "Vaftiz",
+   "E": "Konfirmasyon",
+   "A": "Tövbe",
+   "B": "Ruhbanlık"
+  },
+  "dogru": "D",
+  "cozum": "Vaftiz, Baba-oğul-Kutsal Ruh adına yapılan ve Hristiyanlığa giriş anlamına gelen sakramenttir (s.172).",
+  "hafiza_ipucu": "VAFTİZ = Hristiyanlığa GİRİŞ kapısı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 172
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-045",
+  "konu": "mitoloji-din",
+  "alt_konu": "milan-fermani",
+  "soru": "313 yılında İmparator Konstantin tarafından yayımlanan ve Hristiyanlığı resmi bir din olarak tanıyan ferman aşağıdakilerden hangisidir?",
+  "siklar": {
+   "E": "Milan Fermanı",
+   "A": "İznik Fermanı",
+   "B": "Kadıköy Kararı",
+   "C": "Efes Fermanı",
+   "D": "Roma Bildirgesi"
+  },
+  "dogru": "E",
+  "cozum": "313 yılında imparator Konstantin, Milan Fermanı ile Hristiyanlığı serbest bir din olarak tanımıştır (s.170).",
+  "hafiza_ipucu": "313 MİLAN = Hristiyanlığın serbestlik belgesi.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 170
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-046",
+  "konu": "mitoloji-din",
+  "alt_konu": "mesih-anlayisi",
+  "soru": "Hristiyanlıktaki Mesih anlayışı hakkında aşağıdakilerden hangisi doğrudur?",
+  "siklar": {
+   "E": "Hristiyanlığa özgü, hiçbir dinle bağlantısı olmayan bir kavramdır",
+   "A": "Yahudilikten alınan bir kavram olup Hristiyanlar beklenen Mesih'in İsa olduğuna inanır",
+   "B": "İslam'daki Mehdi kavramıyla aynı kökten türemiştir",
+   "C": "Yalnızca Ortodoks kilisesince kabul edilir",
+   "D": "Kur'an'da da aynı şekilde yer alır"
+  },
+  "dogru": "A",
+  "cozum": "Mesih fikri Hristiyanlığın Yahudilikten aldığı bir kavramdır; Hristiyanlar, Yahudilerin beklediği Mesih'in İsa olduğunu iddia eder (s.173).",
+  "hafiza_ipucu": "MESİH kavramı önce YAHUDİLİK'te, Hristiyanlık ondan devraldı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 173
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-047",
+  "konu": "mitoloji-din",
+  "alt_konu": "kilise-kelime-kokeni",
+  "soru": "'Kilise' kelimesi hangi dilden gelmekte olup ilk dönemde hangi anlamda kullanılmıştır?",
+  "siklar": {
+   "A": "Latince'den 'mabet' anlamında",
+   "B": "Grekçe Eclesia'dan 'topluluk, cemaat' anlamında",
+   "C": "İbranice'den 'sinagog' anlamında",
+   "D": "Arapça'dan 'mescit' anlamında",
+   "E": "Latince'den 'rahip' anlamında"
+  },
+  "dogru": "B",
+  "cozum": "Kilise, Grekçe Eclesia kelimesinden gelir ve topluluk/cemaat anlamı taşır; ilk Hristiyanlar arasında başlangıçta mabetten çok topluluğu ifade etmek için kullanılmıştır (s.172).",
+  "hafiza_ipucu": "EKLESİA = toplu-luk; kilise önce CEMAAT demekti, sonra bina oldu.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 172
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-048",
+  "konu": "mitoloji-din",
+  "alt_konu": "kutsal-kitap-yapisi",
+  "soru": "Hristiyanlığın kutsal kitabı olan Kitabı Mukaddes'in iki temel bölümü aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "B": "Tevrat ve Talmud",
+   "C": "Eski Ahit ve Yeni Ahit",
+   "D": "Avesta ve Gathalar",
+   "E": "Kur'an ve Sünnet",
+   "A": "Mişna ve Gemera"
+  },
+  "dogru": "C",
+  "cozum": "Hristiyanlığın kutsal kitabı Eski Ahit (Yahudilerin Tanah'ı, 39 kitap) ile Yeni Ahit (27 bölüm) olmak üzere iki temel bölümden oluşur (s.174).",
+  "hafiza_ipucu": "Kitabı Mukaddes = ESKİ + YENİ Ahit; iki katlı kutsal kitap.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 174
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-049",
+  "konu": "mitoloji-din",
+  "alt_konu": "hristiyanligin-yayilisi",
+  "soru": "Hristiyanlığın kısa sürede Yahudi olmayan toplumlar arasında da yayılmasında en büyük gayreti gösteren ve bu yüzden 'Yabancıların Havarisi' olarak anılan kişi kimdir?",
+  "siklar": {
+   "B": "Petrus",
+   "C": "Yakub",
+   "D": "Pavlos",
+   "E": "Yuhanna",
+   "A": "Yahya"
+  },
+  "dogru": "D",
+  "cozum": "Hristiyanlığın Yahudi olmayanlar arasında yayılmasında Tarsuslu Pavlos'un gayreti belirleyici olmuş, bu sebeple ona 'Yabancıların Havarisi' denilmiştir (s.170).",
+  "hafiza_ipucu": "PAVLOS = sınır tanımayan misyoner, 'Yabancıların Havarisi'.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 170
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-050",
+  "konu": "mitoloji-din",
+  "alt_konu": "konfirmasyon",
+  "soru": "Doğumda gerçekleştirilen vaftizin, kişinin buluğ çağında kendi özgür iradesiyle kilisede yenilenmesine verilen ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "C": "Evharistiya",
+   "D": "Tövbe",
+   "E": "Konfirmasyon",
+   "A": "Son yağlama",
+   "B": "Ruhbanlık"
+  },
+  "dogru": "E",
+  "cozum": "Konfirmasyon (kuvvetlendirme), doğumda kişinin iradesi dışında yapılan vaftizin, buluğ çağında özgür iradeyle yeniden onaylanması törenidir (s.172).",
+  "hafiza_ipucu": "KONFİRMASYON = vaftizin buluğ çağında KONFİRME edilmesi.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 172
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-051",
+  "konu": "mitoloji-din",
+  "alt_konu": "hicret-622",
+  "soru": "Hz. Muhammed'in Mekke'den Medine'ye göçü (Hicret) hangi yılda gerçekleşmiş ve hicrî takvimin başlangıcı kabul edilmiştir?",
+  "siklar": {
+   "D": "570",
+   "E": "610",
+   "A": "622",
+   "B": "630",
+   "C": "632"
+  },
+  "dogru": "A",
+  "cozum": "Hz. Muhammed, Mekkeli müşriklerin baskıları üzerine 622 yılında Medine'ye hicret etmiş, bu tarih hicrî takvimin başlangıcı kabul edilmiştir (s.175).",
+  "hafiza_ipucu": "622 HİCRET = takvimin sıfır noktası.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 175
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-052",
+  "konu": "mitoloji-din",
+  "alt_konu": "hicret-onermeler",
+  "soru": "I. Hz. Muhammed'in Medine'ye hicreti hicrî takvimin başlangıcı kabul edilir.\nII. Mescid-i Nebevi hicretten sonra yapılmıştır.\nIII. Hz. Muhammed hicreti sadece kendisi ve ailesi için yapmıştır.\nYukarıdaki önermelerden hangileri doğrudur?",
+  "siklar": {
+   "E": "Yalnız I",
+   "A": "I ve III",
+   "B": "I ve II",
+   "C": "Yalnız III",
+   "D": "II ve III"
+  },
+  "dogru": "B",
+  "cozum": "Hicret 622'de gerçekleşmiş ve hicrî takvimin başlangıcı olmuştur; Mescid-i Nebevi de hicretten sonra inşa edilmiştir. Hicret sadece Hz. Muhammed'in ailesi için değil, iman eden Müslümanlarla birlikte topluca yapılmıştır, III yanlıştır.",
+  "hafiza_ipucu": "I-II doğru, III yanlış: hicret TEK BAŞINA değil, TOPLU bir göçtü.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-053",
+  "konu": "mitoloji-din",
+  "alt_konu": "mekke-beledul-emin",
+  "soru": "İslam geleneğinde 'güvenli belde' anlamına gelen 'el-beledü'l-emîn' ifadesi hangi şehir için kullanılmaktadır?",
+  "siklar": {
+   "A": "Medine",
+   "B": "Taif",
+   "C": "Mekke",
+   "D": "Kudüs",
+   "E": "Bedir"
+  },
+  "dogru": "C",
+  "cozum": "'El-beledü'l-emîn' (güvenli belde) ifadesi, Kâbe ve Mescid-i Haram'ın bulunduğu şehir olan Mekke için kullanılır (MKS Mart 2026).",
+  "hafiza_ipucu": "el-EMİN belde = MEKKE, güvenliğin şehri.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-054",
+  "konu": "mitoloji-din",
+  "alt_konu": "kabe-tarihcesi",
+  "soru": "Kabe'nin, Hz. İbrahim tarafından eşi Hacer ve oğlu İsmail ile birlikte inşa edildiği şehir aşağıdakilerden hangisidir?",
+  "siklar": {
+   "B": "Medine",
+   "C": "Kudüs",
+   "D": "Mekke",
+   "E": "Taif",
+   "A": "Şam"
+  },
+  "dogru": "D",
+  "cozum": "Mekke, MÖ 19. yüzyılda Hz. İbrahim'in eşi Hacer ve oğlu İsmail'i getirdiği ve Kâbe'yi inşa ettiği şehirdir (s.174).",
+  "hafiza_ipucu": "KÂBE-MEKKE-İbrahim: üçlünün kalıcı bağı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 174
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-055",
+  "konu": "mitoloji-din",
+  "alt_konu": "cahiliye-kabile",
+  "soru": "İslamiyet'ten önceki cahiliye döneminde toplumsal yaşamı bir arada tutan en güçlü yön aşağıdakilerden hangisidir?",
+  "siklar": {
+   "D": "Kadınlara verilen değer",
+   "E": "Kabile dayanışması",
+   "A": "İbrahimî tek tanrı inancı",
+   "B": "Merkezi devlet yapısı",
+   "C": "Yazılı hukuk sistemi"
+  },
+  "dogru": "E",
+  "cozum": "Cahiliye döneminde Arap toplumunun en güçlü toplumsal yönü kabile dayanışmasıydı (MKS Ağustos 2025).",
+  "hafiza_ipucu": "CAHİLİYE'nin çimentosu: KABİLE dayanışması.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-056",
+  "konu": "mitoloji-din",
+  "alt_konu": "hz-muhammed-el-emin",
+  "soru": "Peygamberlik görevi kendisine gelmeden önce Mekkeliler tarafından güvenilirliğinden dolayı Hz. Muhammed'e verilen sıfat aşağıdakilerden hangisidir?",
+  "siklar": {
+   "E": "Sadık",
+   "A": "el-Emin",
+   "B": "Rasul",
+   "C": "Halil",
+   "D": "Mesih"
+  },
+  "dogru": "A",
+  "cozum": "Hz. Muhammed, peygamberlik öncesinde sevilen ve güvenilen bir kişi olduğu için Mekkeliler tarafından kendisine el-Emin (güvenilen kişi) sıfatı verilmiştir (s.175).",
+  "hafiza_ipucu": "el-EMİN = peygamberlikten ÖNCE kazanılmış güven unvanı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 175
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-057",
+  "konu": "mitoloji-din",
+  "alt_konu": "ilk-vahiy",
+  "soru": "Hz. Muhammed'e ilk vahyin geldiği yer ve yıl aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Kabe - 610",
+   "B": "Hira Mağarası - 610",
+   "C": "Sevr Mağarası - 622",
+   "D": "Mescid-i Aksa - 610",
+   "E": "Hira Mağarası - 622"
+  },
+  "dogru": "B",
+  "cozum": "Hz. Muhammed'e 610 yılında Hira Mağarası'nda 'Oku!' emriyle ilk vahiy gelmiş ve peygamberliği başlamıştır (s.175).",
+  "hafiza_ipucu": "HİRA-610-'Oku!': peygamberliğin başlangıç anı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 175
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-058",
+  "konu": "mitoloji-din",
+  "alt_konu": "ilk-muslumanlar",
+  "soru": "Hz. Muhammed'in ilk vahiy sonrası yaşadıklarını paylaştığı ve ilk Müslümanlardan olan eşi kimdir?",
+  "siklar": {
+   "B": "Hz. Fatıma",
+   "C": "Hz. Hatice",
+   "D": "Hz. Aişe",
+   "E": "Hz. Zeynep",
+   "A": "Hz. Meryem"
+  },
+  "dogru": "C",
+  "cozum": "Hz. Muhammed başından geçenleri eşi Hz. Hatice'ye anlatmış, Hz. Hatice O'na iman ederek ilk Müslümanlardan olmuştur (s.175).",
+  "hafiza_ipucu": "HATİCE = ilk inanan, ilk destek.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 175
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-059",
+  "konu": "mitoloji-din",
+  "alt_konu": "kuran-yapisi",
+  "soru": "Kur'an-ı Kerim kaç sure ve kaç ayetten oluşmaktadır?",
+  "siklar": {
+   "C": "110 sure, 6000 ayet",
+   "D": "114 sure, 6236 ayet",
+   "E": "120 sure, 6666 ayet",
+   "A": "99 sure, 5000 ayet",
+   "B": "114 sure, 6000 ayet"
+  },
+  "dogru": "D",
+  "cozum": "Kur'an 114 sureden oluşur; ayet sayısı 6236'dır (bazı kaynaklarda farklı rakamlar, ayetlerin birleştirilme veya besmelenin sayılma biçiminden kaynaklanır) (s.176).",
+  "hafiza_ipucu": "114 SURE - 6236 AYET: Kur'an'ın sayısal kimliği.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 176
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-060",
+  "konu": "mitoloji-din",
+  "alt_konu": "kuran-kitaplasma",
+  "soru": "Kur'an ayetlerinin Hz. Muhammed'in vefatından sonra kitap haline getirilmesi hangi halife döneminde, çoğaltılması ise hangi halife döneminde gerçekleşmiştir?",
+  "siklar": {
+   "D": "Kitap haline getirme: Hz. Ömer - Çoğaltma: Hz. Ali",
+   "E": "Kitap haline getirme: Hz. Ebu Bekir - Çoğaltma: Hz. Osman",
+   "A": "Kitap haline getirme: Hz. Osman - Çoğaltma: Hz. Ebu Bekir",
+   "B": "Kitap haline getirme: Hz. Ali - Çoğaltma: Hz. Ömer",
+   "C": "Kitap haline getirme: Hz. Osman - Çoğaltma: Hz. Ömer"
+  },
+  "dogru": "E",
+  "cozum": "Kur'an ayetleri Hz. Muhammed'in vefatından hemen sonra Hz. Ebu Bekir döneminde kitap haline getirilmiş, Hz. Osman zamanında ise çoğaltılarak yaygınlaştırılmıştır (s.176).",
+  "hafiza_ipucu": "EBU BEKİR toparladı, OSMAN çoğalttı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 176
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MIT-061",
+  "konu": "mitoloji-din",
+  "alt_konu": "mescid-i-aksa",
+  "soru": "Kudüs'teki Mescid-i Aksa, hangi din için kutsal kabul edilir ve İslam'daki tarihsel önemi nedir?",
+  "siklar": {
+   "E": "Yalnızca Hristiyanlık için kutsaldır",
+   "A": "İslam için kutsaldır; İslam'ın ilk kıblesi olarak kabul edilir",
+   "B": "Yalnızca Yahudilik için kutsaldır",
+   "C": "Zerdüştlük için kutsaldır",
+   "D": "Budizm için kutsaldır"
+  },
+  "dogru": "A",
+  "cozum": "Mescid-i Aksa İslam için kutsaldır ve İslam'ın ilk kıblesi olarak kabul edilir; Kudüs ise üç semavi din için de kutsal bir şehirdir (MKS Şubat 2025).",
+  "hafiza_ipucu": "AKSA = İslam'ın İLK kıblesi, Kudüs üç dinin ortak toprağı.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-062",
+  "konu": "mitoloji-din",
+  "alt_konu": "dort-kutsal-kitap",
+  "soru": "I. Tevrat - Hz. Musa  II. Zebur - Hz. Davud  III. İncil - Hz. İsa  IV. Kur'an - Hz. Muhammed\nYukarıdaki kutsal kitap-peygamber eşleştirmelerinden kaç tanesi doğrudur?",
+  "siklar": {
+   "D": "1",
+   "E": "2",
+   "A": "3",
+   "B": "4",
+   "C": "0"
+  },
+  "dogru": "B",
+  "cozum": "Dört büyük kutsal kitap ve indirildiği peygamberler: Tevrat-Hz. Musa, Zebur-Hz. Davud, İncil-Hz. İsa, Kur'an-Hz. Muhammed'dir (s.27,159-176); hepsi doğrudur.",
+  "hafiza_ipucu": "Tevrat-Musa, Zebur-Davud, İncil-İsa, Kur'an-Muhammed: dörtlü zincir tam.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 176
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-063",
+  "konu": "mitoloji-din",
+  "alt_konu": "yahudilik-tanah",
+  "soru": "Yahudilerin 'Tanah' adını verdikleri 39 metinlik kutsal kitabın İLK BEŞ metnini oluşturan bölüm aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Zebur",
+   "B": "Talmud",
+   "C": "Tevrat (Tora)",
+   "D": "Mişna",
+   "E": "Neviim"
+  },
+  "dogru": "C",
+  "cozum": "Tanah 39 metinden oluşur; ilk beş metnini Tevrat (Tora) oluşturur (s.164). On Emir de Tanah'ta Hz. Musa'ya verilen hükümler arasındadır.",
+  "hafiza_ipucu": "TANAH'ın ilk 5'i = TORA (Tevrat); 'beş kitaplık çekirdek'.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 164
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-064",
+  "konu": "mitoloji-din",
+  "alt_konu": "islamda-ruhbanlik",
+  "soru": "İslamiyet'in temel özellikleri arasında aşağıdakilerden hangisi doğrudur?",
+  "siklar": {
+   "C": "İslam'da din adamları sınıfı (ruhbanlık) vardır",
+   "D": "İslam'da ruhbanlık yoktur; herkes Allah'a doğrudan ulaşabilir",
+   "E": "İslam'da peygamberler olağanüstü ilahi özellikler taşır",
+   "A": "İslam'da Mesih beklentisi iman esasıdır",
+   "B": "İslam'da insanlar doğuştan günahkar kabul edilir"
+  },
+  "dogru": "D",
+  "cozum": "İslamiyet'te ruhbanlık yoktur, din adamları sınıfı kabul edilmez; insan Allah'a doğrudan ulaşabilir (s.176).",
+  "hafiza_ipucu": "İslam'da ARACI yok: kul-Allah arası DOĞRUDAN.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 176
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MIT-065",
+  "konu": "mitoloji-din",
+  "alt_konu": "islam-temel-ibadetler",
+  "soru": "İslam'da yıllık ibadetler arasında yer alan ve ayın hareketlerine göre belirlenen, malı olanın belirli oranını ihtiyaç sahiplerine vermesini içeren ibadet aşağıdakilerden hangisidir?",
+  "siklar": {
+   "C": "Namaz",
+   "D": "Oruç",
+   "E": "Zekat",
+   "A": "Hac",
+   "B": "Kelime-i Şehadet"
+  },
+  "dogru": "E",
+  "cozum": "Zekat, malı olan kişinin belirlenen ölçülerde bir yıl dolması sonrası ihtiyaç sahiplerine verdiği, sosyal sıkıntıları gidermeyi amaçlayan bir ibadettir (s.176).",
+  "hafiza_ipucu": "ZEKAT = malın PAYLAŞILAN kısmı, sosyal denge ibadeti.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 176
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-066",
+  "konu": "mitoloji-din",
+  "alt_konu": "gok-tanri",
+  "soru": "Eski Türk inançlarında, gökte olduğuna inanılan ve her şeyin hakimi kabul edilen tek tanrı anlayışı aşağıdakilerden hangisiyle ifade edilir?",
+  "siklar": {
+   "E": "Erlik",
+   "A": "Gök Tanrı - Kök Tengri",
+   "B": "Umay Ana",
+   "C": "Kayra Han",
+   "D": "Ülgen"
+  },
+  "dogru": "A",
+  "cozum": "Eski Türk inançlarında Gök Tanrı (Kök Tengri), gökte olduğuna inanılan ve her şeyin hakimi kabul edilen tek Tanrı'yı ifade eder (s.111-112).",
+  "hafiza_ipucu": "GÖK TANRI = Türk inancının TEPESİ, her şeyin hakimi.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-067",
+  "konu": "mitoloji-din",
+  "alt_konu": "kam-samanizm",
+  "soru": "Öbür dünya ile insanlar arasında bağlantı kuran, ruhlarla iletişime geçebildiğine inanılan ve eski Türk inanç sisteminin merkezinde yer alan kişiye ne ad verilir?",
+  "siklar": {
+   "A": "Kut",
+   "B": "Kam",
+   "C": "Kült",
+   "D": "Totem",
+   "E": "Mesih"
+  },
+  "dogru": "B",
+  "cozum": "Kam (şaman), ruhlar ve insanlar arasında iletişim kuran, kâhinlik, büyücülük ve hekimlik gibi işlevleri olan kişidir; bu inanç sistemine Kamlık (Şamanizm) denir (s.16, 110).",
+  "hafiza_ipucu": "KAM = ruhlar dünyasının ARACISI.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 110
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-068",
+  "konu": "mitoloji-din",
+  "alt_konu": "ulgen-erlik",
+  "soru": "Eski Türk inancında gökyüzünün hakimi ve iyilik-merhamet tanrısı olan Ülgen ile yeraltının kötülük sembolü olan Erlik arasındaki temel fark aşağıdakilerden hangisidir?",
+  "siklar": {
+   "B": "Ülgen yeraltında, Erlik gökte yaşar",
+   "C": "Ülgen gökte iyiliği, Erlik yeraltında kötülüğü temsil eder",
+   "D": "İkisi de aynı varlığın farklı adlarıdır",
+   "E": "Ülgen kötülüğü, Erlik iyiliği temsil eder",
+   "A": "İkisi de insanlara zarar veren ruhlardır"
+  },
+  "dogru": "C",
+  "cozum": "Ülgen, göğün on altıncı katında oturan iyilik ve merhamet tanrısıdır; Erlik ise yeraltında yaşayan, kötülüğün sembolü haline gelmiş bir varlıktır (s.112-115).",
+  "hafiza_ipucu": "ÜLGEN yukarıda (iyilik) ↑ - ERLİK 'yERLİK'te (kötülük) ↓.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 115
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "zor"
+ },
+ {
+  "id": "MIT-069",
+  "konu": "mitoloji-din",
+  "alt_konu": "tamu-cehennem",
+  "soru": "Eski Türk dininde ve Budist metinlerde sıkça tekrarlanan 'Tamu' kelimesi hangi anlama gelmektedir?",
+  "siklar": {
+   "A": "Cennet",
+   "B": "Mezar",
+   "C": "Araf",
+   "D": "Cehennem",
+   "E": "Ahiret"
+  },
+  "dogru": "D",
+  "cozum": "Eski Türk dininde 'Tamu' kelimesi cehennem anlamına gelir (MKS Ağustos 2025).",
+  "hafiza_ipucu": "TAMU = eski Türkçe'nin cehennem karşılığı.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MIT-070",
+  "konu": "mitoloji-din",
+  "alt_konu": "umay-ana",
+  "soru": "Eski Türk inançlarında 'doğum tanrıçası', aile ve neslin devamının koruyucusu olarak bilinen, doğum lekelerinin kendisine bağlandığı kutsal ruh aşağıdakilerden hangisidir?",
+  "siklar": {
+   "D": "Erlik",
+   "E": "Umay Ana",
+   "A": "Kayra Han",
+   "B": "Albastı",
+   "C": "Yayık"
+  },
+  "dogru": "E",
+  "cozum": "Umay Ana (Ayıısıt), doğum tanrıçası, aile ve neslin devamının koruyucusu olarak bilinen kutsal bir ruhtur; çocuklardaki doğum lekeleri 'Umay Ana'nın el izi' sayılır (s.113).",
+  "hafiza_ipucu": "UMAY ANA = doğumun koruyucu ruhu, bebeğin ilk çapası.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 113
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ }
+]

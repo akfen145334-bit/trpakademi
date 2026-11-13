@@ -1,0 +1,182 @@
+{
+  "ders_kodu": "ILT",
+  "ders_adi": "İletişim ve Rehberlik Becerileri",
+  "toplam_soru": 480,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "İletişimin Temel Ögeleri ve Süreç Modelleri",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "İletişim sürecinde göndericinin zihnindeki duygu ve düşünceleri sözcük, ses tonu, jest ve mimik gibi sembollere dönüştürmesi işlemine ne ad verilir?",
+          "secenekler": {
+            "A": "Kod Açma (Decoding)",
+            "B": "Kodlama (Encoding)",
+            "C": "Geri Bildirim (Feedback)",
+            "D": "Kanal",
+            "E": "Gürültü"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Düşüncenin sembole dönüştürülmesine kodlama (encoding), alıcının bu sembolü anlamlandırmasına ise kod açma (decoding) denir.",
+          "hafiza_capasi": "Kodlama = Zihindekini sembole dökme"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "İletişim sürecinin başarıyla tamamlandığını, mesajın amaçlandığı şekilde anlaşıldığını veya anlaşılmadığını kaynağa bildiren en kritik öge hangisidir?",
+          "secenekler": {
+            "A": "Kanal",
+            "B": "Geri Bildirim (Dönüt / Feedback)",
+            "C": "Gürültü",
+            "D": "Bağlam",
+            "E": "Alıcı"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Geri bildirim iletişimi tek yönlü enformasyondan iki yönlü etkileşime dönüştüren kontrol halkasıdır.",
+          "hafiza_capasi": "Geri Bildirim = İletişimin pusulası ve aynası"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Sözlü ve Sözsüz İletişim Türleri, Beden Dili",
+      "soru_sayisi": 105,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Edward T. Hall'ün alan araştırmasına (Proksemik) göre resmi ilişkilerin ve profesyonel rehber-turist bilgilendirme görüşmelerinin yürütüldüğü 120 cm ile 360 cm arasındaki alan hangisidir?",
+          "secenekler": {
+            "A": "Mahrem Alan (0 - 45 cm)",
+            "B": "Kişisel Alan (45 - 120 cm)",
+            "C": "Sosyal Alan (120 - 360 cm)",
+            "D": "Kamusal Alan (360 cm ve üzeri)",
+            "E": "Evrensel Alan"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Sosyal alan (1,2 - 3,6 m) iş ve rehberlik mesafesidir. 3,6 m üzeri kamusal alandır.",
+          "hafiza_capasi": "Sosyal Alan = 120 - 360 cm iş ve grup mesafesi"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Beden dilinde göz teması kurma sıklığını, gözbebeği hareketlerini ve bakış yönünü inceleyen sözsüz iletişim dalı hangisidir?",
+          "secenekler": {
+            "A": "Kinezik",
+            "B": "Okulesik",
+            "C": "Haptik",
+            "D": "Proksemik",
+            "E": "Kronemik"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Okulesik göz hareketlerini (oculus = göz); Kinezik vücut hareketlerini; Haptik dokunmayı inceler.",
+          "hafiza_capasi": "Okulesik = Göz teması bilimi"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "İletişim Engelleri, Çatışma Yönetimi ve Empati",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Kişinin karşısındaki bireyi suçlamadan, yargılamadan, sadece kendi hissettiği duyguyu ve olayın üzerindeki etkisini ifade ettiği yapıcı iletişim dili hangisidir?",
+          "secenekler": {
+            "A": "Sen Dili",
+            "B": "Ben Dili",
+            "C": "Buyurgan Dil",
+            "D": "Yargılayıcı Dil",
+            "E": "Savunmacı Dil"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Ben dili (Örn: Tura geç kaldığınızda anlatımı yetiştiremediğim için kaygılanıyorum) savunmaya geçilmesini engeller ve empati uyandırır.",
+          "hafiza_capasi": "Ben Dili = Yargısız duygu paylaşımı"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Thomas-Kilmann çatışma modelinde hem kendi hedeflerine hem de karşı tarafın ilişkisine en yüksek önemi veren 'Kazan-Kazan' odaklı çatışma çözme tarzı hangisidir?",
+          "secenekler": {
+            "A": "Kaçınma",
+            "B": "Yarışma (Rekabet)",
+            "C": "Uyum Sağlama (Özveride Bulunma)",
+            "D": "İşbirliği Yapma (Problem Çözme)",
+            "E": "Uzlaşma"
+          },
+          "dogru_cevap": "D",
+          "cozum_ve_gerekce": "İşbirliği tarzı iki tarafın da çıkarlarını azami düzeyde karşılayan entegratif (kazan-kazan) yaklaşımdır.",
+          "hafiza_capasi": "İşbirliği = Kazan-Kazan çatışma tarzı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Kültürlerarası İletişim (Hall ve Hofstede Modelleri)",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Edward T. Hall'ün teorisinde mesajın açık, net, doğrudan sözcüklerle aktarıldığı, imaların ve arka planın ikincil planda kaldığı (Örn: Alman, İskandinav, Amerikan) kültür tipi hangisidir?",
+          "secenekler": {
+            "A": "Yüksek Bağlamlı Kültür (High Context)",
+            "B": "Düşük Bağlamlı Kültür (Low Context)",
+            "C": "Kollektivist Kültür",
+            "D": "Polikronik Kültür",
+            "E": "Belirsizlikten Kaçınan Kültür"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Düşük bağlamlı kültürlerde sözcükler her şeyi doğrudan söyler; yüksek bağlamda ise ima, statü ve beden dili esastır.",
+          "hafiza_capasi": "Düşük Bağlam = Ne söyleniyorsa odur, net ve doğrudan"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Geert Hofstede'nin kültür boyutlarında bir toplumda hiyerarşinin, statü farklarının ve liderin sorgulanmadan kabul edilme düzeyini ölçen boyut hangisidir?",
+          "secenekler": {
+            "A": "Bireycilik vs Toplulukçuluk",
+            "B": "Güç Mesafesi (Power Distance)",
+            "C": "Erillik vs Dişillik",
+            "D": "Belirsizlikten Kaçınma",
+            "E": "Uzun Vadeli Uyum"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Güç mesafesi yüksek toplumlarda lidere ve hiyerarşiye koşulsuz itaat fazladır.",
+          "hafiza_capasi": "Güç Mesafesi = Hiyerarşiyi doğal karşılama oranı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 5,
+      "alt_baslik_adi": "Psikolojik Kuramlar, Johari Penceresi ve Grup Dinamiği",
+      "soru_sayisi": 90,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Eric Berne'in Transaksiyonel Analiz kuramında nesnel verileri toplayan, mantıklı düşünen, duygusal patlamalardan uzak ve problem çözen kişilik durumu hangisidir?",
+          "secenekler": {
+            "A": "Ebeveyn Benlik (Eleştirel/Koruyucu)",
+            "B": "Yetişkin Benlik",
+            "C": "Çocuk Benlik (Doğal/Uyumlu)",
+            "D": "İdeal Benlik",
+            "E": "Gölge Benlik"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Yetişkin benlik durumu burada ve şimdi ilkesiyle çalışan rasyonel akıldır; kriz anında rehberin sığınağıdır.",
+          "hafiza_capasi": "Yetişkin Benlik = Mantık, veri ve sakinlik"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Bruce Tuckman'ın küçük grup gelişim modelinde grubun birbiriyle tanışıp kuralları aradığı ilk aşamadan sonra gelen, liderlik çekişmelerinin ve çatışmaların yaşandığı ikinci evre hangisidir?",
+          "secenekler": {
+            "A": "Forming (Oluşum)",
+            "B": "Storming (Fırtına / Çatışma)",
+            "C": "Norming (Kuralların Belirlenmesi)",
+            "D": "Performing (Başarım / Performans)",
+            "E": "Adjourning (Ayrılma / Dağılma)"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Sıralama: Forming (Oluşum) -> Storming (Fırtına) -> Norming (Normalleşme) -> Performing (Yüksek Başarım) -> Adjourning (Dağılma).",
+          "hafiza_capasi": "Storming = Grup içindeki fırtına ve sürtüşme evresi"
+        }
+      ]
+    }
+  ]
+}

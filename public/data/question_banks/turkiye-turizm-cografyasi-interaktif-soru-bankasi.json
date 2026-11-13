@@ -1,0 +1,182 @@
+{
+  "ders_kodu": "TCG",
+  "ders_adi": "Türkiye'nin Turizm Coğrafyası",
+  "toplam_soru": 540,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "Türkiye'nin Fiziki Coğrafyası ve Kıyı Tipleri",
+      "soru_sayisi": 105,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Dağların kıyı çizgisine paralel uzandığı alanlarda denize paralel vadilerin sular altında kalmasıyla oluşan, Türkiye'de Kaş-Finike (Kekova) kıyılarında görülen kıyı tipi hangisidir?",
+          "secenekler": {
+            "A": "Ria Tipi Kıyı",
+            "B": "Dalmaçya Tipi Kıyı",
+            "C": "Boyuna Kıyı",
+            "D": "Enine Kıyı",
+            "E": "Limanlı Kıyı"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kaş-Kekova kıyıları adacıklı yapısıyla Türkiye'deki yegane Dalmaçya tipi kıyıdır.",
+          "hafiza_capasi": "Kaş-Kekova = Dalmaçya kıyı tipi"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Eski akarsu vadilerinin deniz suları altında kalmasıyla oluşan; İstanbul Boğazı, Çanakkale Boğazı ve Haliç'te görülen kıyı tipi hangisidir?",
+          "secenekler": {
+            "A": "Dalmaçya",
+            "B": "Ria Tipi Kıyı",
+            "C": "Fiyort",
+            "D": "Haff",
+            "E": "Skyer"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "İstanbul Boğazı ve Haliç akarsu yataklarının boğulmasıyla oluşmuş klasik Ria tipi kıyılardır.",
+          "hafiza_capasi": "Boğazlar ve Haliç = Ria tipi kıyı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Turizm Türleri (Kış, Termal, Yayla, Mağara)",
+      "soru_sayisi": 110,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Erzurum'da yer alan, toz kar kalitesi, yüksek irtifası ve dünyanın en uzun kayak pistleri arasında yer alan kış turizmi merkezi hangisidir?",
+          "secenekler": {
+            "A": "Uludağ",
+            "B": "Palandöken",
+            "C": "Erciyes",
+            "D": "Kartalkaya",
+            "E": "Sarıkamış"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Palandöken uluslararası yarışlara ev sahipliği yapan toz karlı dik pistlere sahiptir.",
+          "hafiza_capasi": "Palandöken = Erzurum + En uzun pistler"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Sarıçam ormanlarıyla kaplı, kristal kar yapısıyla Alplerle yarışan ve çığ tehlikesinin en düşük olduğu Kars kış turizm merkezi hangisidir?",
+          "secenekler": {
+            "A": "Palandöken",
+            "B": "Sarıkamış",
+            "C": "Ilgaz",
+            "D": "Kartepe",
+            "E": "Davraz"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kars Sarıkamış kristal kar yapısı ve sarıçam korumasıyla ünlüdür.",
+          "hafiza_capasi": "Sarıkamış = Kristal kar + Sarıçam ormanı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "İlginç Doğal Oluşumlar (Jeomorfolojik Miras)",
+      "soru_sayisi": 110,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Kapadokya peribacalarının oluşumunda tüf tabakasını örterek aşınmaya karşı direnç sağlayan şapka kısmını oluşturan volkanik kayaç hangisidir?",
+          "secenekler": {
+            "A": "Bazalt",
+            "B": "Tüf",
+            "C": "Kalker",
+            "D": "Kuvarsit",
+            "E": "Gnays"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Alttaki yumuşak tüf tabakası rüzgar ve sel sularıyla aşınırken, sert bazalt ve andezit şapka peribacasını korur.",
+          "hafiza_capasi": "Peribacası şapkası = Sert Bazalt"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Konya Karapınar'da yer alan, volkanik patlama krateri içinde su birikmesiyle oluşan ve 'Dünyanın Nazar Boncuğu' olarak adlandırılan jeolojik maar gölü hangisidir?",
+          "secenekler": {
+            "A": "Meke Gölü",
+            "B": "Salda Gölü",
+            "C": "Nemrut Krater Gölü",
+            "D": "Gölcük Gölü",
+            "E": "Acıgöl"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Meke Maar Gölü volkanik patlama çukuru ve içindeki ikincil kül konisiyle nazar boncuğuna benzer.",
+          "hafiza_capasi": "Meke Gölü = Dünyanın Nazar Boncuğu volkanik maarı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Beşeri Coğrafya, Kültürel Rotalar ve Gastronomi",
+      "soru_sayisi": 110,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Fethiye Ölüdeniz'den başlayıp Antalya Geyikbayırı'nda sona eren, Kate Clow tarafından işaretlenen Türkiye'nin ilk uzun mesafeli yürüyüş rotası hangisidir?",
+          "secenekler": {
+            "A": "Karia Yolu",
+            "B": "Likya Yolu",
+            "C": "Frig Yolu",
+            "D": "St. Paul Yolu",
+            "E": "Evliya Çelebi Yolu"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Likya Yolu 500 km'yi aşan uzunluğuyla Türkiye'nin ilk ve en popüler yürüyüş rotasıdır.",
+          "hafiza_capasi": "Likya Yolu = Kate Clow + İlk uzun mesafe rota"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Türkiye'de UNESCO Yaratıcı Şehirler Ağı'na (UCCN) gastronomi alanında dahil edilen ilk ilimiz aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Hatay",
+            "B": "Gaziantep",
+            "C": "Afyonkarahisar",
+            "D": "Adana",
+            "E": "Şanlıurfa"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Gaziantep 2015 yılında Türkiye'den gastronomi listesine giren ilk şehirdir (ardından Hatay ve Afyonkarahisar gelmiştir).",
+          "hafiza_capasi": "Gaziantep = UNESCO ilk gastronomi şehri (2015)"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 5,
+      "alt_baslik_adi": "Sürdürülebilirlik, Korunan Alanlar ve Cittaslow",
+      "soru_sayisi": 105,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "İtalya'da doğan ve Türkiye'de ilk kez 2009 yılında İzmir'in hangi ilçesine verilen 'Cittaslow (Sakin Şehir)' unvanı yerel kimliği koruma hareketidir?",
+          "secenekler": {
+            "A": "Urla",
+            "B": "Seferihisar",
+            "C": "Foça",
+            "D": "Çeşme",
+            "E": "Karaburun"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Seferihisar Türkiye'nin ilk sakin şehri ve başkentidir.",
+          "hafiza_capasi": "Seferihisar = Türkiye'nin ilk Cittaslow sakin şehri"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Uluslararası öneme sahip sulak alanların, özellikle su kuşları yaşama ortamlarının korunmasını amaçlayan İran'da imzalanmış uluslararası sözleşme hangisidir?",
+          "secenekler": {
+            "A": "Barselona Sözleşmesi",
+            "B": "Ramsar Sözleşmesi",
+            "C": "Bern Sözleşmesi",
+            "D": "CITIES",
+            "E": "Kyoto Protokolü"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Ramsar Sözleşmesi sulak alanları (Manyas, Göksu Deltası, Seyfe Gölü, Sultansazlığı vb.) korur.",
+          "hafiza_capasi": "Ramsar = Sulak alan ve göçmen kuş sözleşmesi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,772 @@
+[
+ {
+  "id": "MEV-001",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "6326 sayılı Turist Rehberliği Meslek Kanunu'na göre Turist Rehberleri Birliği'ne (TUREB) bağlı meslek odalarının TOPLAM sayısı kaçtır?",
+  "siklar": {
+   "A": "13",
+   "B": "6",
+   "C": "7",
+   "D": "11",
+   "E": "19"
+  },
+  "dogru": "A",
+  "cozum": "TUREB'e bağlı 7 meslek odası ile 6 bölgesel meslek odası olmak üzere tüm Türkiye'de örgütlenmiş toplam 13 oda bulunmaktadır (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.56).",
+  "hafiza_ipucu": "7 meslek + 6 bölge = 13 — TUREB'in koridorunda 13 kapı: 7'si büyük 'MESLEK', 6'sı küçük 'BÖLGE' yazılı.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 56
+  },
+  "akraba_cikmis_soru": "Şubat 2025 (×3 sordu) - TUREB'e bağlı toplam oda sayısı",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-002",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "TUREB'e bağlı 13 odanın dağılımı aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "6 meslek odası - 7 bölgesel oda",
+   "B": "7 meslek odası - 6 bölgesel oda",
+   "C": "8 meslek odası - 5 bölgesel oda",
+   "D": "5 meslek odası - 8 bölgesel oda",
+   "E": "13 meslek odası - 0 bölgesel oda"
+  },
+  "dogru": "B",
+  "cozum": "TUREB'e bağlı 7 meslek odası ile 6 bölgesel meslek odası olmak üzere toplam 13 oda örgütlenmiştir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.56).",
+  "hafiza_ipucu": "Büyük kapı sayısı (meslek=7), küçük kapıdan (bölge=6) bir fazladır.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 56
+  },
+  "akraba_cikmis_soru": "Şubat 2025 (×3) - TUREB oda sayısı eşleştirmesi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-003",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "TUREB'in oda yapısına ilişkin aşağıdaki bilgilerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "TUREB, 6326 sayılı Kanun uyarınca kurulmuştur.",
+   "B": "TUREB'e bağlı toplam 13 oda vardır.",
+   "C": "Bir turist rehberi aynı anda birden fazla odaya üye olabilir.",
+   "D": "Meslek odası sayısı, bölgesel oda sayısından fazladır.",
+   "E": "Turist rehberleri, yerleşim yerinin bulunduğu ildeki odaya üye olmak zorundadır."
+  },
+  "dogru": "C",
+  "cozum": "Turist rehberleri birden fazla odaya üye olamaz; yerleşim yerinin bulunduğu ilde (yoksa en yakın ildeki) kurulu odalardan birine üye olmaları zorunludur (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.195). Diğer seçenekler doğrudur.",
+  "hafiza_ipucu": "Tek nikâh gibi: rehber tek odaya bağlıdır, ikinci oda yok.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 195
+  },
+  "akraba_cikmis_soru": "Şubat 2025 oda-sayısı sorusunun üyelik-kuralı açısından akraba versiyonu",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-004",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "Turist rehberliği mesleğini, TUREB'i, meslek odalarını, ruhsatname ve çalışma kartı esaslarını düzenleyen kanun aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "1618",
+   "B": "2634",
+   "C": "6502",
+   "D": "6326",
+   "E": "4848"
+  },
+  "dogru": "D",
+  "cozum": "6326 sayılı Turist Rehberliği Meslek Kanunu, 22.06.2012'de yürürlüğe girerek rehberlik mesleğini, TUREB'i ve meslek odalarını düzenlemiştir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.56).",
+  "hafiza_ipucu": "6326 REHBER: rehberlik kanunu numarası.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 56
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-005",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "6326 sayılı Turist Rehberliği Meslek Kanunu hangi tarihte Resmî Gazete'de yayımlanarak yürürlüğe girmiştir?",
+  "siklar": {
+   "A": "15.06.2012",
+   "B": "08.09.1995",
+   "C": "28.05.2014",
+   "D": "01.06.2019",
+   "E": "22.06.2012"
+  },
+  "dogru": "E",
+  "cozum": "TUREB, 22.06.2012 tarihinde Resmi Gazete'de yayımlanan 6326 sayılı Turist Rehberliği Meslek Kanunu uyarınca kurulmuştur (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.56). Diğer tarihler farklı düzenlemelere aittir.",
+  "hafiza_ipucu": "22 Haziran 2012: rehberliğin resmi doğum günü.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 56
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-006",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "Mesleğe kabul başvurusu olumlu sonuçlanan bir adaya RUHSATNAMEyi düzenleyen kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kültür ve Turizm Bakanlığı",
+   "B": "TUREB",
+   "C": "Türkiye Seyahat Acentaları Birliği",
+   "D": "İlgili meslek odası",
+   "E": "İçişleri Bakanlığı"
+  },
+  "dogru": "A",
+  "cozum": "Mesleğe kabul başvurusu Kültür ve Turizm Bakanlığına yapılır; Bakanlık 30 gün içinde inceleme yapar ve başvuruyu kabul ederse ruhsatnameyi düzenler (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.195).",
+  "hafiza_ipucu": "RUHSAT = Bakanlık'ın verdiği ömürlük nikâh belgesi.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 195
+  },
+  "akraba_cikmis_soru": "Mart 2026 - belge veren kurum KTB temasının ruhsatname versiyonu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-007",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "Ruhsatname sahibi bir turist rehberinin fiilen mesleğini icra edebilmesi için her yıl vize ettirmesi gereken ve TUREB tarafından düzenlenen belge aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İşletme belgesi",
+   "B": "Çalışma kartı",
+   "C": "Ruhsatname",
+   "D": "Sertifika",
+   "E": "Yeterlik belgesi"
+  },
+  "dogru": "B",
+  "cozum": "Rehberlik hizmeti, Bakanlıktan ruhsatname almış ve TUREB çalışma kartına sahip yetkili kişilerce verilir; çalışma kartı yıllık vize edilir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.56).",
+  "hafiza_ipucu": "RUHSAT ömürlük nikâh, KART yıllık vize.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 56
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-008",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "6326 sayılı Kanun'a göre turist rehberliği mesleğine kabul için aranan temel eğitim şartı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "En az ön lisans mezunu olmak ve yalnızca İngilizce bilmek",
+   "B": "Sadece TÜRSAB'a üye bir acentede iki yıl çalışmış olmak",
+   "C": "Turist rehberliği bölümünü tamamlamak veya başka bir bölümde en az lisans düzeyini bitirip belirlenen eğitim ve sınavlarda başarılı olmak",
+   "D": "25 yaşını doldurmuş olmak",
+   "E": "Yalnızca meslek içi seminerlere katılmak"
+  },
+  "dogru": "C",
+  "cozum": "6326 sayılı Kanun'un 3/1(ç) maddesi uyarınca mesleğe kabul için turist rehberliği bölümünü tamamlamak veya başka bir bölümde en az lisans düzeyini bitirip belirlenen eğitim ve sınavlarda başarılı olmak gerekir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.195).",
+  "hafiza_ipucu": "Lisans + sınav = mesleğe giriş bileti.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 195
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-009",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "Turist rehberliği mesleğine kabul sürecinde, dil sınavını geçen adaydan ayrıca aşağıdakilerden hangisi istenir?",
+  "siklar": {
+   "A": "TÜRSAB'a üye olmak",
+   "B": "Bir seyahat acentesinde ortak olmak",
+   "C": "A grubu seyahat acentesi işletme belgesi almak",
+   "D": "Bakanlığın gözetim ve denetimi altında düzenlenen uygulama gezisini tamamlayıp gezi sonunda yapılan sınavda başarılı olmak",
+   "E": "Devre tatil sözleşmesi imzalamak"
+  },
+  "dogru": "D",
+  "cozum": "Aday, dil sınavının ardından Bakanlığın gözetim ve denetimi altında düzenlenen uygulama gezisini tamamlamalı ve gezi sonunda yapılan sınavda başarılı olmalıdır (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.195).",
+  "hafiza_ipucu": "Dil + gezi + sınav = ruhsata giden üç basamak.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 195
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-010",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "Aşağıdaki disiplin cezası - verilme nedeni eşleştirmelerinden hangisi 6326 sayılı Kanun'a göre YANLIŞTIR?",
+  "siklar": {
+   "A": "Uyarma - çalışma kartının görünür şekilde taşınmaması",
+   "B": "Kınama - taban ücretin altında çalışılması",
+   "C": "Meslekten geçici men - haklı neden olmaksızın turun güzergâhının değiştirilmesi",
+   "D": "Meslekten çıkarma - iki kez seyahat acenteliği niteliğinde faaliyette bulunulması",
+   "E": "Kınama - ülke yararına ve millî onura aykırı söz ve davranışlarda bulunulması"
+  },
+  "dogru": "E",
+  "cozum": "Ülke yararına ve millî onura aykırı hareket, söz ve davranışlarda bulunulması meslekten çıkarma cezası sebebidir, kınama değil (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.58). Diğer eşleştirmeler doğrudur (s.57-58).",
+  "hafiza_ipucu": "Onura aykırılık en ağır ceza olan çıkarmayı getirir, hafif kınamayı değil.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "MEV-011",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "6326 sayılı Kanun'a göre turist rehberinin ruhsatnamesinin geri alınarak unvanının kaldırılması ve oda üyeliğinden silinmesi sonucunu doğuran disiplin cezası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Meslekten çıkarma",
+   "B": "Uyarma",
+   "C": "Kınama",
+   "D": "Meslekten geçici men",
+   "E": "İdari para cezası"
+  },
+  "dogru": "A",
+  "cozum": "Meslekten çıkarma cezası, ruhsatnamenin geri alınarak turist rehberi unvanının kaldırılması ve oda üyeliğinden silinmesidir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.58).",
+  "hafiza_ipucu": "Çıkarma = unvanın da, üyeliğin de kapıya konulması.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-012",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6326-tureb-rehberlik",
+  "soru": "6326 sayılı Kanun'un 2. maddesine göre 'mesleğe kabul edilerek turist rehberliği hizmetini sunma hak ve yetkisine sahip gerçek kişi' aşağıdaki kavramlardan hangisiyle tanımlanır?",
+  "siklar": {
+   "A": "Rehber adayı",
+   "B": "Turist rehberi",
+   "C": "Tur operatörü",
+   "D": "Seyahat acentesi",
+   "E": "Turizm danışmanı"
+  },
+  "dogru": "B",
+  "cozum": "6326 sayılı Kanun'un 2. maddesine göre mesleğe kabul edilerek turist rehberliği hizmetini sunma hak ve yetkisine sahip olan gerçek kişiye 'turist rehberi' denilmektedir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.56).",
+  "hafiza_ipucu": "Madde 2 = kimlik maddesi: rehberin tanımı.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 56
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-013",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "1618-seyahat-acentalari",
+  "soru": "1972 yılında yürürlüğe giren ve seyahat acentelerini TÜRSAB çatısı altında örgütleyen kanun aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "6326",
+   "B": "2634",
+   "C": "1618",
+   "D": "6502",
+   "E": "4848"
+  },
+  "dogru": "C",
+  "cozum": "1972'de acentelerin belli bir örgüt yapılanması etrafında toplanması amacıyla 1618 sayılı Seyahat Acenteleri ve Seyahat Acenteleri Birliği Kanunu yürürlüğe konulmuştur (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.24).",
+  "hafiza_ipucu": "1618 ACENTA: acenta 16'sında açılır, 18'inde uçar.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-014",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "1618-seyahat-acentalari",
+  "soru": "Seyahat Acentaları Birliği Yönetmeliği'ne göre 'kâr amacıyla turistlere turizmle ilgili bilgiler veren, paket turları ve turları oluşturan, turizm amaçlı konaklama, ulaştırma, gezi, spor ve eğlence hizmetlerini gördürmeye yetkili, ürününü kendisi veya diğer acenteler aracılığıyla pazarlayabilen' mesleki ticari kuruluş aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tur operatörü",
+   "B": "Turist rehberi",
+   "C": "Turizm işletmesi",
+   "D": "Seyahat acentesi",
+   "E": "Acente şubesi"
+  },
+  "dogru": "D",
+  "cozum": "Seyahat Acentaları Birliği Yönetmeliği'ne göre seyahat acentesi, kâr amacıyla turistlere bilgi veren, paket tur ve turlar oluşturan, ilgili hizmetleri gördürmeye yetkili, ürününü kendi veya diğer acenteler vasıtasıyla pazarlayabilen mesleki ticari kuruluştur (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.53).",
+  "hafiza_ipucu": "Acente = paketleyen ve pazarlayan ticari kuruluş.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 53
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-015",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "1618-seyahat-acentalari",
+  "soru": "TÜRSAB'ın kuruluşunun temelini oluşturan, seyahat acentelerinin meslek dayanışması amacıyla ilk örgütlendiği yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "TÜROFED",
+   "B": "TUREB",
+   "C": "TÜROB",
+   "D": "TUGEV",
+   "E": "TÜSTAC (Türkiye Seyahat Acentaları Cemiyeti)"
+  },
+  "dogru": "E",
+  "cozum": "Seyahat sektöründe faaliyet yürüten acentelerin sorumluluklarını gidermek ve mesleki dayanışmayı sağlamak amacıyla Türkiye Seyahat Acentaları Cemiyeti (TÜSTAC) adı altında örgütlenilmesi, bugünkü TÜRSAB'ın kuruluşunun temelini oluşturur (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.52).",
+  "hafiza_ipucu": "TÜSTAC = TÜRSAB'ın bebek hâli.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 52
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-016",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "1618-seyahat-acentalari",
+  "soru": "1618 sayılı Kanun kapsamında, Bakanlık tarafından tur operatörü niteliğini haiz olduğu tespit edilen ve bu yetkiyi taşıyan seyahat acentesi grubu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "A grubu",
+   "B": "B grubu",
+   "C": "C grubu",
+   "D": "D grubu",
+   "E": "Özel grup"
+  },
+  "dogru": "A",
+  "cozum": "Bakanlık tarafından tur operatörü niteliğini haiz olduğu tespit edilen seyahat acenteleri A grubu belgelidir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.193).",
+  "hafiza_ipucu": "A gibi Acente'nin en Aktif, en yetkili grubu.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-017",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "1618-seyahat-acentalari",
+  "soru": "Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu'na göre aşağıdakilerden hangisi seyahat acentelerinin yükümlülüklerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Rehber bulundurma",
+   "B": "Turiste vize verme",
+   "C": "Sözleşme örneği verme",
+   "D": "Adres değişikliğini bildirme",
+   "E": "Turizme katkı sağlama"
+  },
+  "dogru": "B",
+  "cozum": "Turiste vize verme, seyahat acentelerinin 1618 sayılı Kanun'dan doğan yükümlülükleri arasında yer almaz; vize işlemleri acentenin görevi değildir (TURİZM MEVZUATI - konu arkası, s.10).",
+  "hafiza_ipucu": "Vize = pasaport polisinin işi, acentenin/rehberin değil.",
+  "kaynak": {
+   "dosya": "TURİZM MEVZUATI.txt",
+   "sayfa": 10
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - vize işlemi rehberin görevi değil temasının acenta versiyonu",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-018",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "1618-seyahat-acentalari",
+  "soru": "Seyahat acentesi işletme belgesini veren kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "TÜRSAB",
+   "B": "TUREB",
+   "C": "Kültür ve Turizm Bakanlığı",
+   "D": "Ticaret Bakanlığı",
+   "E": "İçişleri Bakanlığı"
+  },
+  "dogru": "C",
+  "cozum": "Kültür ve Turizm Bakanlığından işletme belgesi almadan ve TÜRSAB'a üye olmadan seyahat acenteliği yapılamaz; işletme belgesini Bakanlık verir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.53).",
+  "hafiza_ipucu": "Belgenin mührü hep Bakanlık'ta.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 53
+  },
+  "akraba_cikmis_soru": "Mart 2026 - belge veren kurum KTB temasının seyahat acentesi versiyonu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-019",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "1618-seyahat-acentalari",
+  "soru": "Seyahat Acentaları Yönetmeliği'ne göre acentelerin, yükümlülüklerinin karşılığı olmak üzere ve grubuna göre miktarı değişen şekilde Bakanlığa yatırdıkları güvence aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sigorta primi",
+   "B": "Kefalet senedi",
+   "C": "Depozito",
+   "D": "Teminat",
+   "E": "Vergi"
+  },
+  "dogru": "D",
+  "cozum": "Seyahat acenteleri, yükümlülüklerinin karşılığı olmak ve yerine getirilmemesi hâlinde Bakanlıkça paraya çevrilerek ilgililere ödeme yapılmak üzere, grubuna göre değişen miktarda teminat vermek zorundadır (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.25).",
+  "hafiza_ipucu": "Teminat = acentenin güven kefaleti.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 25
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "MEV-020",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "2634-turizm-tesvik",
+  "soru": "1982 yılında yürürlüğe giren ve turizm merkezleri ile kültür ve turizm koruma-gelişim bölgelerinin belirlenmesi, turizm yatırım ve işletmelerinin teşvik edilmesi ve denetlenmesi esaslarını düzenleyen kanun aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "6326",
+   "B": "1618",
+   "C": "6502",
+   "D": "4848",
+   "E": "2634"
+  },
+  "dogru": "E",
+  "cozum": "1982 yılında yürürlüğe giren 2634 sayılı Turizmi Teşvik Kanunu, turizm koruma ve gelişim bölgeleri ile turizm merkezlerinin tespiti, turizm yatırım ve işletmelerinin teşvik edilmesi, düzenlenmesi ve denetlenmesine ilişkin hükümler içerir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.24).",
+  "hafiza_ipucu": "2634 TEŞVİK: teşvikle 26 oda 34 olur.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-021",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "2634-turizm-tesvik",
+  "soru": "2634 sayılı Turizmi Teşvik Kanunu uyarınca turizm tesislerine YATIRIM belgesi ve ardından İŞLETME belgesi veren kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kültür ve Turizm Bakanlığı",
+   "B": "İlgili belediye",
+   "C": "TÜRSAB",
+   "D": "Ticaret Bakanlığı",
+   "E": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı"
+  },
+  "dogru": "A",
+  "cozum": "Turizm tesisleri Kültür ve Turizm Bakanlığınca verilen belge kapsamında faaliyet yürütür; Bakanlık, koşulları sağlayan tesislere niteliklerine uygun olarak önce yatırım, ardından işletme belgesi verir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.197).",
+  "hafiza_ipucu": "İşletme belgesinin mührü Bakanlık'ta — belediye değil!",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 197
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Turizm İşletme Belgesi'ni Kültür ve Turizm Bakanlığı verir",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-022",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "2634-turizm-tesvik",
+  "soru": "2634 sayılı Kanun'un 8. maddesi uyarınca turizm yatırımlarına belirli sürelerle tahsis edilebilen kamu arazileri aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Belediye arsaları",
+   "B": "Hazine ve orman arazileri",
+   "C": "Vakıf arazileri",
+   "D": "Köy tüzel kişiliği arazileri",
+   "E": "Mera arazileri"
+  },
+  "dogru": "B",
+  "cozum": "2634 sayılı Kanun'un 8. maddesi uyarınca hazine ve orman arazileri, Kanun'da belirtilen sürelerle turistik yatırımlara tahsis edilebilir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.190).",
+  "hafiza_ipucu": "8. madde = arazi maddesi: Hazine + Orman.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 190
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-023",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "2634-turizm-tesvik",
+  "soru": "2634 sayılı Kanun'un 16. maddesi kapsamında turizm belgeli yatırım ve işletmelere sağlanan ekonomik kolaylık aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gelir vergisi muafiyeti",
+   "B": "Gümrük vergisi muafiyeti",
+   "C": "Elektrik, havagazı ve su ücretlerinde indirim",
+   "D": "KDV iadesi",
+   "E": "Damga vergisi muafiyeti"
+  },
+  "dogru": "C",
+  "cozum": "2634 sayılı Kanun'un 16. maddesi uyarınca turizm belgeli yatırım ve işletmelere elektrik, havagazı ve su ücretlerinde indirim şeklinde ekonomik kolaylık sağlanır (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.190).",
+  "hafiza_ipucu": "16. madde = fatura maddesi: elektrik-gaz-su indirimi.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 190
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-024",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "2634-turizm-tesvik",
+  "soru": "2634 sayılı Kanun'un 18. maddesi gereğince belgeli turizm işletmelerinde çalıştırılacak yabancı personel konusunda hangi kurumların görüşü aranır?",
+  "siklar": {
+   "A": "Ticaret Bakanlığı - Dışişleri Bakanlığı",
+   "B": "TÜRSAB - TUREB",
+   "C": "Aile ve Sosyal Hizmetler Bakanlığı - Hazine ve Maliye Bakanlığı",
+   "D": "Kültür ve Turizm Bakanlığı - İçişleri Bakanlığı",
+   "E": "Yalnızca İçişleri Bakanlığı"
+  },
+  "dogru": "D",
+  "cozum": "2634 sayılı Kanun'un 18. maddesi gereğince belgeli işletmelerde, Kültür ve Turizm Bakanlığı ile İçişleri Bakanlığının görüşü alınarak yabancı personel çalıştırılabilir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.154).",
+  "hafiza_ipucu": "18. madde = iki bakanlık el sıkışır: Kültür-Turizm + İçişleri.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 154
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "MEV-025",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "2634-turizm-tesvik",
+  "soru": "Turizm tesislerinin niteliklerini, belgelendirilmesini ve türlerini düzenleyen Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik, 2634 sayılı Kanun'un hangi maddesine dayanılarak çıkarılmıştır?",
+  "siklar": {
+   "A": "Madde 8",
+   "B": "Madde 16",
+   "C": "Madde 18",
+   "D": "Madde 42",
+   "E": "Madde 37"
+  },
+  "dogru": "E",
+  "cozum": "Turizm tesislerinin nitelikleri, belgelendirilmeleri ve türleri, 2634 sayılı Kanun'un 37. maddesinin (A) bendinin 2 numaralı alt bendi gereğince çıkarılan Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik ile düzenlenmiştir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.197).",
+  "hafiza_ipucu": "37. madde = yönetmeliğin dayanağı, tesis maddesi.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 197
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-026",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "2634-turizm-tesvik",
+  "soru": "2634 sayılı Turizmi Teşvik Kanunu'na göre belgeli turizm işletmelerinin onaylı fiyat tarifeleriyle ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+  "siklar": {
+   "A": "Mini bar ve oda servisi hizmetleri için, tarifede belirtilmesi şartıyla müşteriden farklı fiyat talep edilebilir.",
+   "B": "Onaylanan fiyat tarifeleri iki takvim yılı geçerlidir.",
+   "C": "Yeni tarife onaylatılmazsa otomatik yüzde yirmi zam uygulanır.",
+   "D": "Fiyat tarifelerini belirleyen kurum belediyelerdir.",
+   "E": "Fiyat tarifeleri her ay yeniden onaylanmalıdır."
+  },
+  "dogru": "A",
+  "cozum": "Fiyat tarifelerinde belirtilmesi şartıyla mini bar ve oda servisi hizmetleri için müşteriden farklı fiyat talep edilebilir (TURİZM MEVZUATI - konu arkası, s.10).",
+  "hafiza_ipucu": "Mini bar farkı ancak tarifede yazarsa geçerli.",
+  "kaynak": {
+   "dosya": "TURİZM MEVZUATI.txt",
+   "sayfa": 10
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-027",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "2634-turizm-tesvik",
+  "soru": "Turizm tesislerinde uygulanacak fiyat tarifesini onaylayan/belirleyen kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ticaret Bakanlığı",
+   "B": "Kültür ve Turizm Bakanlığı",
+   "C": "Hazine ve Maliye Bakanlığı",
+   "D": "Ulaştırma ve Altyapı Bakanlığı",
+   "E": "Belediyeler"
+  },
+  "dogru": "B",
+  "cozum": "Turizm tesislerinde uygulanacak fiyat tarifesi Kültür ve Turizm Bakanlığı tarafından belirlenir/onaylanır (TURİZM MEVZUATI - konu arkası, s.11).",
+  "hafiza_ipucu": "Fiyat tarifesinin de mührü Bakanlık'ta.",
+  "kaynak": {
+   "dosya": "TURİZM MEVZUATI.txt",
+   "sayfa": 11
+  },
+  "akraba_cikmis_soru": "Mart 2026 - belge/işlem-KTB temasının fiyat tarifesi versiyonu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-028",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6502-tuketici-sozlesmeleri",
+  "soru": "6502 sayılı Tüketicinin Korunması Hakkında Kanun'a göre PAKET TUR SÖZLEŞMESİ tanımında aranan asgari hizmet şartı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yalnızca ulaştırma hizmetinin verilmesi",
+   "B": "Yalnızca konaklama hizmetinin verilmesi",
+   "C": "Ulaştırma, konaklama veya bunlara bağlı olmayan başka turizm hizmetlerinden en az ikisinin birlikte, her şey dâhil fiyatla satılması",
+   "D": "Hizmetin en az 3 gün sürmesi",
+   "E": "Sözleşmenin sözlü olarak kurulması"
+  },
+  "dogru": "C",
+  "cozum": "Paket tur sözleşmesi, ulaştırma, konaklama veya bunlara bağlı olmayan başka turizm hizmetlerinden en az ikisinin birlikte, her şeyin dâhil olduğu fiyatla satıldığı veya satımının vaat edildiği sözleşmedir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.115).",
+  "hafiza_ipucu": "EN AZ İKİ hizmet paket yapar — tek uçak bileti paket değildir!",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 115
+  },
+  "akraba_cikmis_soru": "Mart 2026 - paket tur sözleşmesi 6502 kapsamında",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-029",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6502-tuketici-sozlesmeleri",
+  "soru": "6502 sayılı Kanun'a göre paket tur sözleşmesi tanımı gereği, hizmetin süresine ilişkin şart aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "En az 48 saat sürmesi",
+   "B": "Tam olarak 7 gün sürmesi",
+   "C": "En az iki ülke kapsaması",
+   "D": "24 saatten uzun sürmesi veya gecelik konaklama içermesi",
+   "E": "Yurt dışı seyahat içermesi"
+  },
+  "dogru": "D",
+  "cozum": "Paket tur sözleşmesinin geçerli sayılması için hizmetin yirmi dört saatten uzun bir süreyi kapsaması veya gecelik konaklama içermesi gerekir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.115).",
+  "hafiza_ipucu": "24 saati aşan veya bir gece konaklamalı olmalı — günübirlik tur paket tur sayılmaz.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 115
+  },
+  "akraba_cikmis_soru": "Mart 2026 - paket tur sözleşmesi 6502 kapsamının süre şartı",
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-030",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6502-tuketici-sozlesmeleri",
+  "soru": "6502 sayılı Kanun'a göre 'bir yıldan uzun süre için kurulan ve tüketiciye bu süre zarfında birden fazla dönem için bir veya daha fazla sayıda gecelik konaklama imkânı veren' sözleşme türü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Paket tur sözleşmesi",
+   "B": "Uzun süreli tatil hizmeti sözleşmesi",
+   "C": "Değişim sözleşmesi",
+   "D": "Yeniden satış sözleşmesi",
+   "E": "Devre tatil sözleşmesi"
+  },
+  "dogru": "E",
+  "cozum": "Devre tatil sözleşmesi, bir yıldan uzun süre için kurulan ve tüketiciye bu süre zarfında birden fazla dönem için bir veya daha fazla sayıda gecelik konaklama imkânı veren sözleşmedir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.114).",
+  "hafiza_ipucu": "DEVRE = her yıl aynı DEVİR, sözleşme 1 yıldan uzun.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 114
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - devre tatil sözleşmesi tanımı",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-031",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6502-tuketici-sozlesmeleri",
+  "soru": "Devre tatil sözleşmesi ile uzun süreli tatil hizmeti sözleşmesi arasındaki temel fark aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Devre tatil doğrudan bir veya daha fazla dönem gecelik konaklama imkânı verirken, uzun süreli tatil hizmeti sözleşmesi konaklama veya diğer hizmetlerde indirim/menfaat sağlar.",
+   "B": "Devre tatilde süre bir yıldan kısadır, uzun süreli tatilde bir yıldan uzundur.",
+   "C": "Devre tatil yalnızca yurt dışında kurulabilir.",
+   "D": "Uzun süreli tatil hizmeti sözleşmesinde cayma hakkı yoktur.",
+   "E": "İkisi de aynı sözleşme türüdür, fark yoktur."
+  },
+  "dogru": "A",
+  "cozum": "Devre tatil sözleşmesi bir veya daha fazla dönem gecelik konaklama imkânı verirken, uzun süreli tatil hizmeti sözleşmesi konaklamaya veya konaklamayla birlikte seyahat/diğer hizmetlere ilişkin indirim veya menfaatlerden faydalanma hakkı verir; her ikisi de bir yıldan uzun süreli kurulur (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.114).",
+  "hafiza_ipucu": "Devre tatil = KONAKLAMA hakkı, uzun süreli tatil = İNDİRİM hakkı.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 114
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "MEV-032",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6502-tuketici-sozlesmeleri",
+  "soru": "6502 sayılı Kanun kapsamındaki devre tatil, uzun süreli tatil hizmeti, değişim ve yeniden satış sözleşmelerinde tüketiciye tanınan cayma hakkı süresi kaç gündür?",
+  "siklar": {
+   "A": "7",
+   "B": "14",
+   "C": "21",
+   "D": "10",
+   "E": "30"
+  },
+  "dogru": "B",
+  "cozum": "Tüketici, on dört gün içinde herhangi bir gerekçe göstermeksizin ve cezai şart ödemeksizin sözleşmeden cayma hakkına sahiptir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.115).",
+  "hafiza_ipucu": "14 gün cayma — iki hafta düşün, vazgeç.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 115
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "MEV-033",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6502-tuketici-sozlesmeleri",
+  "soru": "6502 sayılı Kanun'a göre devre tatil, uzun süreli tatil hizmeti, değişim ve yeniden satış sözleşmelerinin kurulmasından en az bir gün önce tüketiciye verilmesi zorunlu olan ve içeriği Ticaret Bakanlığınca belirlenen belge aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İşletme belgesi",
+   "B": "Ruhsatname",
+   "C": "Ön bilgilendirme formu",
+   "D": "Teminat mektubu",
+   "E": "Kalıcı veri saklayıcısı"
+  },
+  "dogru": "C",
+  "cozum": "Bu sözleşmelerin kurulmasından en az bir gün önce, Ticaret Bakanlığı tarafından belirlenen hususları içeren ön bilgilendirme formu verilmesi zorunludur (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.115).",
+  "hafiza_ipucu": "1 gün önce ön bilgi — sürpriz sözleşme yasak.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 115
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-034",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6502-tuketici-sozlesmeleri",
+  "soru": "6502 sayılı Kanun'da tanımlanan ve 'tüketicinin gönderdiği veya kendisine gönderilen bilginin değiştirilmeden kopyalanmasına ve incelenmesine imkân veren kısa mesaj, e-posta, internet, disk, CD, DVD, hafıza kartı vb. araç veya ortam' olarak ifade edilen kavram aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ön bilgilendirme formu",
+   "B": "Elektronik imza",
+   "C": "Dijital arşiv",
+   "D": "Kalıcı veri saklayıcısı",
+   "E": "Sözleşme nüshası"
+  },
+  "dogru": "D",
+  "cozum": "Kalıcı veri saklayıcısı, tüketicinin gönderdiği veya kendisine gönderilen bilginin makul bir süre incelenmesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan kısa mesaj, e-posta, internet, disk, CD, DVD, hafıza kartı ve benzeri araç veya ortamı ifade eder (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.115).",
+  "hafiza_ipucu": "Kalıcı veri saklayıcısı = değişmeyen dijital kanıt.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.txt",
+   "sayfa": 115
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "MEV-035",
+  "konu": "Turizm Mevzuatı",
+  "alt_konu": "6502-tuketici-sozlesmeleri",
+  "soru": "Bir tüketicinin paket tur satın almak için başvurması gereken kuruluş aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kültür ve Turizm Bakanlığı",
+   "B": "Turizm bilgilendirme ofisi",
+   "C": "Otel resepsiyonu",
+   "D": "Turist rehberi",
+   "E": "Seyahat acentesi"
+  },
+  "dogru": "E",
+  "cozum": "Paket tur satın almak isteyen bir tüketici seyahat acentesine müracaat eder (TURİZM MEVZUATI - konu arkası, s.13).",
+  "hafiza_ipucu": "Paket turun kapısı: seyahat acentesi.",
+  "kaynak": {
+   "dosya": "TURİZM MEVZUATI.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ }
+]

@@ -1,0 +1,1212 @@
+[
+ {
+  "id": "SEL-001",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-medrese",
+  "soru": "13. yüzyılın sonunda İlhanlı hakimiyeti döneminde inşa edilen ve açık avlulu plan tipine sahip Yakutiye Medresesi hangi şehirdedir?",
+  "siklar": {
+   "A": "Erzurum",
+   "B": "Sivas",
+   "C": "Kayseri",
+   "D": "Kırşehir",
+   "E": "Konya"
+  },
+  "dogru": "A",
+  "cozum": "Yakutiye Medresesi Erzurum'dadır; 13. yüzyıl sonu-14. yüzyıl başında (1310-1311) İlhanlı hakimiyeti döneminde yapılmış açık avlulu bir medresedir.",
+  "hafiza_ipucu": "YAKUT taşı ERZURUM'un soğuğunda parlar.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 88
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.22 (Yakutiye Medresesi-Erzurum eşleştirmesi doğru cevaptı)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-002",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-kumbet",
+  "soru": "Kayseri'de tur düzenleyen rehber Elif, grubuna 1276 yılında Şah Cihan Hatun adına yaptırılan, dıştan on iki köşeli gövdesi ve konik külahıyla dikkat çeken mezar anıtını gezdiriyor. Rehberin bahsettiği bu eser aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Alemşah Kümbeti",
+   "B": "Döner Kümbet",
+   "C": "Üç Kümbetler",
+   "D": "Sırçalı Kümbet",
+   "E": "Emir Saltuk Kümbeti"
+  },
+  "dogru": "B",
+  "cozum": "Döner Kümbet, Kayseri'de 1276 yılında Şah Cihan Hatun adına yaptırılmış, dıştan on iki gen içten daire planlı bir Selçuklu mezar anıtıdır.",
+  "hafiza_ipucu": "Kayseri mantısı gibi DÖNEN külah.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 176
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.67 (Döner Kümbet-Kayseri eşleştirmesi doğruydu)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-003",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-kumbet",
+  "soru": "Erzurum'da bulunan ve içlerinden biri İzzeddin Saltuk'a ait olan, Saltuklu hanedanından günümüze kalan kümbet grubunun adı nedir?",
+  "siklar": {
+   "A": "Döner Kümbet",
+   "B": "Alemşah Kümbeti",
+   "C": "Üç Kümbetler",
+   "D": "Mama Hatun Kümbeti",
+   "E": "Sırçalı Kümbet"
+  },
+  "dogru": "C",
+  "cozum": "Üç Kümbetler, Saltuklu hanedanından Erzurum'da günümüze ulaşan mezar yapılarıdır; içlerinden biri İzzeddin Saltuk'a aittir.",
+  "hafiza_ipucu": "ÜÇ kardeş ERZURUM'da üşür.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.67 (kümbet eşleştirmesi)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-004",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-kumbet",
+  "soru": "Aşağıdaki illerden hangisinde Selçuklu dönemine ait Alemşah Kümbeti bulunmaktadır?",
+  "siklar": {
+   "A": "Nevşehir",
+   "B": "Erzincan",
+   "C": "Kayseri",
+   "D": "Eskişehir (Sivrihisar)",
+   "E": "Sivas"
+  },
+  "dogru": "D",
+  "cozum": "Alemşah Kümbeti, Eskişehir'in Sivrihisar ilçesindedir.",
+  "hafiza_ipucu": "ALEMi SİVRİ külahtan seyret — SİVRİhisar.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 179
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.67",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-005",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-darussifa-cami",
+  "soru": "Kayseri turu yapan rehber Ahmet, grubuna I. Gıyaseddin Keyhüsrev'in 1206-1207 yıllarında kız kardeşi adına yaptırdığı, aynı külliye içinde tıp medresesi ile darüşşifanın bir arada bulunduğu eseri anlatıyor. Bu eser aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sahabiye Medresesi",
+   "B": "Çifte Medrese",
+   "C": "Hunad Hatun Külliyesi",
+   "D": "Sırçalı Medrese",
+   "E": "Gevher Nesibe Tıp Medresesi ve Darüşşifası"
+  },
+  "dogru": "E",
+  "cozum": "Gevher Nesibe Tıp Medresesi ve Darüşşifası, I. Gıyaseddin Keyhüsrev tarafından 1206-1207'de kız kardeşi Gevher Nesibe adına Kayseri'de yaptırılmıştır.",
+  "hafiza_ipucu": "Hasta prenses kardeşine KAYSERİ'de hastane yaptıran ağabey.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 108
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.39",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-006",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-kervansaray-han",
+  "soru": "Aksaray'ın yaklaşık 35 km kuzeydoğusunda, Nevşehir yolu üzerinde tur düzenleyen rehber Zeynep, II. Kılıç Arslan tarafından 12. yüzyılda yaptırılan ve Anadolu'daki ilk Selçuklu kervansarayı kabul edilen yapıyı grubuna tanıtıyor. Bu yapı hangisidir?",
+  "siklar": {
+   "A": "Alay Han",
+   "B": "Sultan Han",
+   "C": "Ağzıkara Han",
+   "D": "Sarıhan",
+   "E": "Alara Han"
+  },
+  "dogru": "A",
+  "cozum": "Alay Han, Aksaray yakınlarında II. Kılıç Arslan tarafından 12. yüzyılda yaptırılmış, Anadolu'daki ilk Selçuklu kervansarayı kabul edilen yapıdır.",
+  "hafiza_ipucu": "ALAYı AKSARAY'dan geçer (kervan alayı).",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 196
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 (Alay Han-Aksaray eşleştirmesi)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-007",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-kervansaray-han",
+  "soru": "I. Alaeddin Keykubad tarafından Kayseri-Sivas yolu üzerinde 1232-1236 yıllarında yaptırılan ve avlusunun ortasında dört ayağa oturan bir köşk mescidi bulunan kervansaray aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Alay Han",
+   "B": "Sultan Han",
+   "C": "Ağzıkara Han",
+   "D": "Karatay Hanı",
+   "E": "Sarıhan"
+  },
+  "dogru": "B",
+  "cozum": "Kayseri-Sivas yolu üzerindeki Sultan Hanı (1232-1236), I. Alaeddin Keykubad tarafından yaptırılmış olup avlu ortasındaki köşk mescidiyle tanınan en gelişmiş kervansaray örneklerindendir.",
+  "hafiza_ipucu": "Sultan'ın hanında avlu ortasında küçük bir mescit yükselir.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 176
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-008",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-medrese",
+  "soru": "Giriş cephesindeki köşe mekânı bir kümbet formunda tasarlanmış, arka cephesine de bir minare eklenmiş olan, 1272 tarihli ve orta avlusu kubbeyle örtülü 'kapalı' tipteki medrese hangi şehirdedir?",
+  "siklar": {
+   "A": "Sivas",
+   "B": "Amasya",
+   "C": "Kırşehir",
+   "D": "Erzurum",
+   "E": "Kayseri"
+  },
+  "dogru": "C",
+  "cozum": "Cacabey Medresesi (1272), Kırşehir'dedir; kapalı avlulu plan tipine, kümbet formunda bir köşe mekânına ve arka cepheye eklenmiş bir minareye sahiptir.",
+  "hafiza_ipucu": "Cacabey Kırşehir'de kümbet gibi köşeye çöker.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 86
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.22 (Cacabey Medresesi-Amasya çeldirisi yanlıştı, doğrusu Kırşehir)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-009",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-medrese",
+  "soru": "1250-1251 yıllarında atabey Celaleddin Karatay tarafından Konya'da yaptırılan, kapalı avlulu plan tipindeki medrese aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İnce Minareli Medrese",
+   "B": "Sırçalı Medrese",
+   "C": "Sahabiye Medresesi",
+   "D": "Karatay Medresesi",
+   "E": "Gök Medrese"
+  },
+  "dogru": "D",
+  "cozum": "Karatay Medresesi, Celaleddin Karatay tarafından 1250-1251'de Konya'da kapalı avlulu plan tipinde yaptırılmıştır.",
+  "hafiza_ipucu": "Karatay Konya'da kapalı kapıyı örter.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 201
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-010",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-medrese",
+  "soru": "Konya'da bulunan ve hadis ilminin okutulduğu bir darü'l-hadis olarak inşa edilen kapalı avlulu medrese aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Karatay Medresesi",
+   "B": "Sırçalı Medrese",
+   "C": "Cacabey Medresesi",
+   "D": "Buruciye Medresesi",
+   "E": "İnce Minareli Medrese"
+  },
+  "dogru": "E",
+  "cozum": "Konya'daki İnce Minareli Medrese, bir darü'l-hadis olarak inşa edilmiş kapalı avlulu bir Selçuklu medresesidir.",
+  "hafiza_ipucu": "İnce Minare hadis okur, dar bir avluda.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 201
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-011",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-medrese",
+  "soru": "Erzurum'da bulunan, dört yönde eyvanları olan ve kurucusunun kim olduğu bilinmeyen 13. yüzyıl sonu tarihli medrese ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Kırşehir'de, Cacabey Medresesi'nin hemen yanında yer alır.",
+   "B": "Anadolu'nun en büyük medresesi kabul edilir.",
+   "C": "İki katlı olarak planlanmıştır.",
+   "D": "Dört eyvanlı, açık avlulu bir yapıdır.",
+   "E": "Bânisinin (kurucusunun) kimliği kesin olarak bilinmemektedir."
+  },
+  "dogru": "A",
+  "cozum": "Bahsedilen yapı Erzurum Çifte Minareli Medrese'dir; Kırşehir'de değil Erzurum'dadır, dolayısıyla A seçeneği yanlıştır. Yapı Anadolu'nun en büyük medresesi kabul edilir, iki katlı, dört eyvanlı ve açık avludur; kurucusu bilinmemektedir ve bitişik kümbette yatmaktadır.",
+  "hafiza_ipucu": "Çifte Minareli Erzurum'da — Cacabey ise Kırşehir'de, ikisi ayrı şehir.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 87
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-012",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-medrese",
+  "soru": "1271-1272 yıllarında İlhanlı hakimiyeti döneminde inşa edilen, açık avlulu ve çifte minareli Gök Medrese hangi şehirdedir?",
+  "siklar": {
+   "A": "Erzurum",
+   "B": "Sivas",
+   "C": "Kayseri",
+   "D": "Konya",
+   "E": "Amasya"
+  },
+  "dogru": "B",
+  "cozum": "Gök Medrese (Sivas Çifte Minareli Medrese), 1271-1272'de İlhanlı hakimiyeti döneminde Sivas'ta inşa edilmiş açık avlulu bir medresedir.",
+  "hafiza_ipucu": "Gök Medrese'nin GÖK rengi SİVAS semasında parlar.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 88
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.22 (Gök Medrese-Kayseri çeldirisi yanlıştı, doğrusu Sivas)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-013",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-darussifa-cami",
+  "soru": "Sivas'ın Divriği ilçesinde tur düzenleyen rehber Can, 1985 yılında UNESCO Dünya Kültür Mirası Listesi'ne alınan, zengin taş işçiliğiyle ünlü cami-darüşşifa kompleksinin bir Anadolu Selçuklu eseri olmadığını, bölgede hüküm süren bir Türkmen beyliği tarafından 1228-1229'da yaptırıldığını açıklıyor. Bahsedilen beylik hangisidir?",
+  "siklar": {
+   "A": "Saltuklular",
+   "B": "Danişmendliler",
+   "C": "Mengücekliler",
+   "D": "Artuklular",
+   "E": "Karamanoğulları"
+  },
+  "dogru": "C",
+  "cozum": "Divriği Ulu Camii ve Darüşşifası, 1228-1229'da Mengücekliler tarafından yaptırılmış olup 1985'te UNESCO Dünya Mirası Listesi'ne girmiştir.",
+  "hafiza_ipucu": "Divriği'yi Mengücek işledi, UNESCO mühürledi.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 189
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SEL-014",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-genel",
+  "soru": "I. Alaeddin Keykubad'ın Beyşehir Gölü kıyısında yaptırdığı Kubadabad Sarayı hakkında aşağıdaki bilgilerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Kazılarda figürlü çini panolar bulunmuştur.",
+   "B": "Selçuklu figüratif çini sanatının en kaliteli örneklerini barındırır.",
+   "C": "Kazı çalışmaları K. Otto Dorn tarafından başlatılmıştır.",
+   "D": "Saray, Antalya'daki Alara Han ile aynı vakfiyeye bağlı bir külliyedir.",
+   "E": "Çinilerinde sekiz köşeli yıldız formunda fantastik figürler (harpi vb.) yer alır."
+  },
+  "dogru": "D",
+  "cozum": "Kubadabad Sarayı ile Alara Han, ayrı işlevlere sahip iki bağımsız yapıdır; ortak bir vakfiyeye bağlı oldukları bilgisi kaynakta yer almaz, bu nedenle D yanlıştır. Sarayın kazıları K. Otto Dorn tarafından başlatılmış, çinilerinde harpi gibi fantastik figürler yer almıştır.",
+  "hafiza_ipucu": "Kubadabad = Beyşehir Gölü'nde figürlü çini sarayı, Alara Han ise ayrı bir kervansaray.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 177
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-015",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-kervansaray-han",
+  "soru": "I. Alaeddin Keykubad tarafından 1232 yılında Antalya-Alanya yolu üzerinde yaptırılan ve avlunun merkezde, kapalı bölümlerin ise yanlarda yer aldığı 'merkezi yapı' tipindeki han aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Evdir Han",
+   "B": "Şarapsa Han",
+   "C": "Kırkgöz Han",
+   "D": "Alay Han",
+   "E": "Alara Han"
+  },
+  "dogru": "E",
+  "cozum": "Alara Han (1232), I. Alaeddin Keykubad tarafından Antalya-Alanya yolunda yaptırılmış, avlusu merkezde yer alan bir yapıdır.",
+  "hafiza_ipucu": "Alara'da avlu ortada, hancı kenarda.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 176
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SEL-016",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-kervansaray-han",
+  "soru": "Kayseri-Malatya yolu üzerinde, Bünyan'da 1240-1241 yıllarında tamamlanan ve atabey Celaleddin Karatay tarafından yaptırılan kervansaray aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Karatay Hanı",
+   "B": "Sultan Han",
+   "C": "Ağzıkara Han",
+   "D": "Sarıhan",
+   "E": "Alay Han"
+  },
+  "dogru": "A",
+  "cozum": "Karatay Hanı, Celaleddin Karatay tarafından 1240-41'de Kayseri-Malatya yolu üzerinde Bünyan'da yaptırılmıştır; Karatay mütevaziliğinden dolayı açılışına dahi katılmamıştır.",
+  "hafiza_ipucu": "Karatay mütevaziydi, hanının açılışına bile gitmedi.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 197
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-017",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-medrese",
+  "soru": "1242-1243 yıllarında Konya'da inşa edilen ve bir fıkıh medresesi olarak işlev gören yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İnce Minareli Medrese",
+   "B": "Sırçalı Medrese",
+   "C": "Karatay Medresesi",
+   "D": "Cacabey Medresesi",
+   "E": "Buruciye Medresesi"
+  },
+  "dogru": "B",
+  "cozum": "Sırçalı Medrese (1242-1243), Konya'da bir fıkıh medresesi olarak inşa edilmiştir.",
+  "hafiza_ipucu": "Sırçalı'nın sırrı fıkıh dersinde.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 201
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-018",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-genel",
+  "soru": "Üstü koni veya piramit biçimli bir örtüyle kapatılan, gövdesinin altında çoğunlukla 'mumyalık' (kripta) adı verilen bir mezar odası bulunan Selçuklu dönemi anıt mezarlarına verilen genel ad nedir?",
+  "siklar": {
+   "A": "Türbe",
+   "B": "Zaviye",
+   "C": "Kümbet",
+   "D": "Külliye",
+   "E": "Eyvan"
+  },
+  "dogru": "C",
+  "cozum": "Kümbet, koni/piramit örtülü, altında mumyalık katı bulunan Selçuklu mezar anıtı tipidir; her kümbet bir türbedir ama sanat tarihinde türbe teriminde kubbe örtü şartı aranır.",
+  "hafiza_ipucu": "Kümbet = konik külahlı, altı mumyalıklı mezar kulesi.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 82
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-019",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-genel",
+  "soru": "Kökeni İslam dünyasında sınır bölgelerinde karakol/ordugâh işlevi gören 'ribat' yapılarına dayanan, Selçuklu döneminde ticaret yolları üzerinde yaklaşık 30-40 km aralıklarla inşa edilen, kervanları ve yolcuları barındıran müstahkem yapılara ne ad verilir?",
+  "siklar": {
+   "A": "Medrese",
+   "B": "Darüşşifa",
+   "C": "Bedesten",
+   "D": "Kervansaray",
+   "E": "Zaviye"
+  },
+  "dogru": "D",
+  "cozum": "Kervansaraylar, köken olarak sınır karakolu işlevi gören 'ribat' yapılarına dayanır; Selçuklu Anadolu'sunda ticaret yolları üzerinde 30-40 km aralıklarla inşa edilmiştir.",
+  "hafiza_ipucu": "Ribat asker barındırdı, kervansaray kervan.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 89
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-020",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "mimari-medrese",
+  "soru": "Aşağıdaki eser-şehir eşleştirmelerinden hangileri doğrudur?\nI. Yakutiye Medresesi – Erzurum\nII. Buruciye Medresesi – Kayseri\nIII. Cacabey Medresesi – Kırşehir\nIV. Karatay Medresesi – Konya",
+  "siklar": {
+   "A": "I ve II",
+   "B": "II ve IV",
+   "C": "Yalnız III",
+   "D": "I, II, III ve IV",
+   "E": "I, III ve IV"
+  },
+  "dogru": "E",
+  "cozum": "Yakutiye Erzurum'da, Cacabey Kırşehir'de, Karatay Medresesi Konya'dadır (I, III, IV doğru). Buruciye Medresesi ise Kayseri'de değil Sivas'tadır; bu nedenle II yanlıştır.",
+  "hafiza_ipucu": "Buruciye = Sivas kardeşi Gök Medrese'nin yanı, Kayseri değil.",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası_2_Anadolu Üni.pdf",
+   "sayfa": 63
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SEL-021",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "1040 yılında Merv yakınlarında yapılan ve Selçuklu Devleti'nin resmen kuruluşuyla sonuçlanan savaş, Selçuklular ile hangi devlet arasında gerçekleşmiştir?",
+  "siklar": {
+   "A": "Gazneliler",
+   "B": "Karahanlılar",
+   "C": "Büveyhoğulları",
+   "D": "Bizans İmparatorluğu",
+   "E": "Abbasi Halifeliği"
+  },
+  "dogru": "A",
+  "cozum": "Dandanakan Savaşı (1040), Tuğrul ve Çağrı Beyler önderliğindeki Selçuklular ile Sultan Mesud yönetimindeki Gazneliler arasında yapılmış, Selçukluların zaferiyle sonuçlanarak Selçuklu Devleti'nin kuruluşunu sağlamıştır.",
+  "hafiza_ipucu": "1040 DOĞDU (Dandanakan) — kum tepelerinde GAZNELİ filleri çöküyor.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 25
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.55 (Dandanakan-Gazneliler)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-022",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "1071 yılında Alp Arslan komutasındaki Selçuklu ordusunun, İmparator Romen Diyojen (Diogenes) yönetimindeki Bizans ordusunu yendiği ve Anadolu'nun Türklere açılmasını sağlayan savaş aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Pasinler",
+   "B": "Malazgirt",
+   "C": "Miryokefalon",
+   "D": "Katvan",
+   "E": "Yassıçimen"
+  },
+  "dogru": "B",
+  "cozum": "26 Ağustos 1071'de Malazgirt önlerindeki Rahva ovasında yapılan savaşta Alp Arslan, İmparator Romen Diyojen'i esir alarak Bizans'a karşı kesin bir zafer kazanmış ve Anadolu'nun kapılarını Türklere açmıştır.",
+  "hafiza_ipucu": "1071 KAPI (Malazgirt) — kapıyı açtı.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-023",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "Sünni İslam inancını İsmaili/Batıni propagandaya karşı güçlendirmek amacıyla Nişabur, Bağdat, Isfahan, Herat, Basra gibi şehirlerde vakıf statüsünde kurulan ve Şafii fıkhının okutulduğu büyük medrese ağını kuran Büyük Selçuklu veziri kimdir?",
+  "siklar": {
+   "A": "Kündürî",
+   "B": "Gazzâlî",
+   "C": "Nizamülmülk",
+   "D": "Ömer Hayyam",
+   "E": "Şemseddin İsfahanî"
+  },
+  "dogru": "C",
+  "cozum": "Nizamiye Medreseleri, Sultan Alp Arslan'ın veziri Nizamülmülk tarafından, Sünni akideyi güçlendirmek ve devlet kadrosu yetiştirmek amacıyla kurulmuştur.",
+  "hafiza_ipucu": "NİZAMı kuran vezir, NİZAMiye'yi açtı.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 207
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-024",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "Nizamülmülk'ün, Sultan Melikşah'ın isteği üzerine kaleme aldığı ve devlet teşkilatında bulunması gereken makam ve görevleri hikâyelerle anlatan eseri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kutadgu Bilig",
+   "B": "Divan-ı Lügati't-Türk",
+   "C": "Şehname",
+   "D": "Siyasetname",
+   "E": "Mesnevi"
+  },
+  "dogru": "D",
+  "cozum": "Nizamülmülk, Sultan Melikşah'ın isteği üzerine Siyasetname'yi yazmış; eserde devlet teşkilatındaki makam ve memuriyetlerin gerekliliği hikâyelerle anlatılmıştır.",
+  "hafiza_ipucu": "SİYASETname'yi yazdı.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 211
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-025",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "Sultan Melikşah dönemiyle ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Devletin sınırları Çin'den Akdeniz'e kadar genişlemiştir.",
+   "B": "Kendi adıyla anılan Takvim-i Celali hazırlatılmıştır.",
+   "C": "1092 yılında Bağdat'ta zehirlenerek hayatını kaybetmiştir.",
+   "D": "Veziri Nizamülmülk, Melikşah'tan kısa süre önce bir Batıni fedaisi tarafından öldürülmüştür.",
+   "E": "Melikşah, tahtı babası Alp Arslan'ın vasiyeti üzerine hiçbir taht mücadelesi yaşamadan devralmıştır."
+  },
+  "dogru": "E",
+  "cozum": "Melikşah, veliaht ilan edilmiş olmasına rağmen tahta çıktığında amcası Kavurt başta olmak üzere taht davacılarıyla mücadele etmek zorunda kalmıştır; bu nedenle E seçeneği yanlıştır.",
+  "hafiza_ipucu": "Melikşah zirveye çıktı ama tahta sorunsuz oturmadı — Kavurt isyanı.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 84
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-026",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "1141 yılında Semerkand yakınlarındaki Katvan mevkiinde, Sultan Sencer'in Karahıtaylar karşısında ağır bir yenilgi aldığı ve eşi Terken Hatun'un da esir düştüğü savaşın sonucu, Büyük Selçuklu Devleti açısından nasıl değerlendirilir?",
+  "siklar": {
+   "A": "Devletin Maveraünnehir'deki otoritesinin sarsıldığı büyük bir hezimet olmuştur.",
+   "B": "Devletin en parlak döneminin başlangıcı olmuştur.",
+   "C": "Anadolu'nun fethinin önünü açmıştır.",
+   "D": "Bizans ile barışın sağlanmasına vesile olmuştur.",
+   "E": "Nizamiye Medreseleri'nin kurulmasına yol açmıştır."
+  },
+  "dogru": "A",
+  "cozum": "Katvan Savaşı'nda (1141) Sultan Sencer, Karahıtay hükümdarı Gürhan karşısında büyük bir yenilgiye uğramış, ordusunun büyük kısmını ve eşi Terken Hatun'u kaybetmiş; bu, Büyük Selçuklu Devleti'nin Orta Asya'daki otoritesini sarsan ağır bir hezimet olmuştur.",
+  "hafiza_ipucu": "Katvan'da Sencer, Karahıtay seline kapılır.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-027",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "Malazgirt Savaşı'nda Selçuklu ordusunun, düşmanı önce geri çekilir gibi yaparak yanlara çektiği, ardından pusudaki birliklerle kuşatıp imha ettiği; Türklerin çok eski zamanlardan beri uyguladığı bu savaş taktiğinin adı nedir?",
+  "siklar": {
+   "A": "Falanks düzeni",
+   "B": "Turan taktiği (sahte ricat)",
+   "C": "Hilal taktiği",
+   "D": "Piyade duvarı",
+   "E": "Mancınık kuşatması"
+  },
+  "dogru": "B",
+  "cozum": "Sahte ricat (turan taktiği/kurt oyunu), saldıran birliklerin yenilmiş gibi geri çekilip düşmanı pusuya çektiği; Malazgirt, Mohaç ve Preveze'de uygulanan bir Türk savaş taktiğidir.",
+  "hafiza_ipucu": "Kaç gibi yap, pusuya çek, kuşat — turan taktiği.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 62
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-028",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "Malazgirt Savaşı sonrasında esir alınan İmparator Romen Diyojen ile Alp Arslan arasında yapılan anlaşmanın maddeleri arasında aşağıdakilerden hangisi YER ALMAZ?",
+  "siklar": {
+   "A": "İmparatorun 1,5 milyon dinar fidye ödemesi",
+   "B": "Bizans'ın yıllık 360.000 dinar vergi vermesi",
+   "C": "Bizans'ın İstanbul'daki tüm kiliselerin camiye çevrilmesini kabul etmesi",
+   "D": "Antakya, Urfa, Malazgirt ve Ahlat'ın Selçuklulara terk edilmesi",
+   "E": "Bizans ülkesindeki tüm Müslüman esirlerin serbest bırakılması"
+  },
+  "dogru": "C",
+  "cozum": "Anlaşma maddeleri arasında fidye, yıllık vergi, bazı kalelerin terki ve Müslüman esirlerin serbest bırakılması vardı; kiliselerin camiye çevrilmesi gibi bir madde kaynakta yer almamaktadır.",
+  "hafiza_ipucu": "Fidye + vergi + dört kale + esirler — kilise şartı YOK.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 63
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-029",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "1048 yılında Pasinler (Hasankale) yakınlarında, İbrahim Yinal komutasındaki Selçuklu Türkmenlerinin Bizans ve müttefiki Gürcü kuvvetlerini yenilgiye uğrattığı ve Selçuklu-Bizans arasındaki ilk diplomatik ilişkinin başlangıcı sayılan savaş hangi Selçuklu hükümdarı zamanında gerçekleşmiştir?",
+  "siklar": {
+   "A": "Alp Arslan",
+   "B": "Melikşah",
+   "C": "Sencer",
+   "D": "Tuğrul Bey",
+   "E": "Çağrı Bey"
+  },
+  "dogru": "D",
+  "cozum": "Pasinler Savaşı (1048), Tuğrul Bey zamanında İbrahim Yinal komutasındaki Türkmenlerin Bizans-Gürcü ittifakını yenmesiyle sonuçlanmış; bu zafer Selçuklu-Bizans diplomatik ilişkilerinin başlangıcı kabul edilir.",
+  "hafiza_ipucu": "Tuğrul'un kardeşi İbrahim Yinal, Pasinler'de Gürcü'yü devirir.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SEL-030",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "Oğuzların Kınık boyundan gelen Selçuklu ailesinin bilinen ilk atası kimdir?",
+  "siklar": {
+   "A": "Selçuk Bey",
+   "B": "Arslan Yabgu",
+   "C": "Tuğrul Bey",
+   "D": "Kutalmış",
+   "E": "Dukak Bey"
+  },
+  "dogru": "E",
+  "cozum": "Selçukluların bilinen ilk atası, Oğuz yabgusunun hizmetinde sübaşılık yapan Dukak Bey'dir; ailenin adını aldığı Selçuk Bey ise onun oğludur.",
+  "hafiza_ipucu": "DUKAK doğurdu, SELÇUK adını verdi.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 27
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-031",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "Vezir Nizamülmülk, Sultan Melikşah'ın son Bağdat seferine giderken hangi şekilde hayatını kaybetmiştir?",
+  "siklar": {
+   "A": "Nihavend yakınlarında bir Batıni fedaisi tarafından şehit edilmiştir.",
+   "B": "Malazgirt Savaşı'nda şehit düşmüştür.",
+   "C": "Katvan Savaşı'nda esir düşüp öldürülmüştür.",
+   "D": "Halife tarafından zehirletilmiştir.",
+   "E": "Dandanakan Savaşı'nda hayatını kaybetmiştir."
+  },
+  "dogru": "A",
+  "cozum": "Nizamülmülk, 1092'de Sultan Melikşah'ın arkasından Bağdat'a giderken Nihavend yakınlarında arzuhal bahanesiyle yanına gelen bir Batıni fedaisi tarafından şehit edilmiştir.",
+  "hafiza_ipucu": "Nihavend yolunda Batıni hançeri.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 82
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-032",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "buyuk-selcuklu-siyasi",
+  "soru": "Büyük Selçuklu Devleti ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Devlet, 1040 Dandanakan zaferinin ardından kurulmuştur.",
+   "B": "Devletin başkenti hiçbir dönemde değişmeden Nişabur olarak kalmıştır.",
+   "C": "Merkezi İran-Horasan bölgesidir; devlet Anadolu'da kurulmamıştır.",
+   "D": "Kurucuları Tuğrul ve Çağrı Beylerdir.",
+   "E": "Sultan Sencer, devletin son büyük hükümdarı kabul edilir."
+  },
+  "dogru": "B",
+  "cozum": "Büyük Selçuklu Devleti'nin başkenti zaman içinde değişmiş, Melikşah döneminde İsfahan'a taşınmıştır; bu nedenle B seçeneği yanlıştır. Devlet İran-Horasan merkezlidir, Anadolu'da kurulmamıştır.",
+  "hafiza_ipucu": "Büyük Selçuklu Anadolu'da KURULMADI — İran-Horasan merkezli.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 206
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 (\"Anadolu'da kurulmayan\" bağlamı)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-033",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "Türkiye (Anadolu) Selçuklu Devleti'nin kurucusu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "I. Kılıç Arslan",
+   "B": "Tuğrul Bey",
+   "C": "Kutalmışoğlu Süleyman Şah",
+   "D": "I. Alaeddin Keykubad",
+   "E": "I. İzzeddin Keykâvus"
+  },
+  "dogru": "C",
+  "cozum": "Türkiye Selçuklu Devleti'nin kurucusu, 1075'te İznik'i fethederek burayı başkent yapan Kutalmışoğlu Süleyman Şah'tır.",
+  "hafiza_ipucu": "KUTALMIŞ-oğlu kutlu İznik'i aldı.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 42
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.52",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-034",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "Türkiye Selçuklu Devleti'nin kuruluş tarihi olarak günümüzde en çok kabul gören yıl ve bu tarihte gerçekleşen olay hangisidir?",
+  "siklar": {
+   "A": "1071 – Malazgirt Zaferi",
+   "B": "1092 – Melikşah'ın ölümü",
+   "C": "1081 – Drakon Çayı Anlaşması",
+   "D": "1075 – İznik'in fethi ve başkent yapılması",
+   "E": "1086 – Süleymanşah'ın ölümü"
+  },
+  "dogru": "D",
+  "cozum": "Kuruluş tarihi tartışmalı olmakla birlikte, günümüzde en çok kabul gören tarih, İslam kaynaklarının Süleymanşah'ın İznik'i fethi olarak verdiği 1075 yılıdır.",
+  "hafiza_ipucu": "1075 = İznik alındı, devlet doğdu.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 44
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-035",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "1176 yılında dar bir geçitte yapılan ve Bizans İmparatoru Manuel Komnenos'un Anadolu'yu geri alma umudunu tamamen yitirmesine yol açan savaş aşağıdaki hükümdarlardan hangisi zamanında kazanılmıştır?",
+  "siklar": {
+   "A": "I. Kılıç Arslan",
+   "B": "I. Alaeddin Keykubad",
+   "C": "I. Gıyaseddin Keyhüsrev",
+   "D": "Kutalmışoğlu Süleyman Şah",
+   "E": "II. Kılıç Arslan"
+  },
+  "dogru": "E",
+  "cozum": "Miryokefalon Zaferi (17 Eylül 1176), II. Kılıç Arslan'ın dar bir geçitte Bizans ordusunu ağır bir yenilgiye uğratmasıyla kazanılmış; Bizans'ın Anadolu'yu geri alma girişimlerine fiilen son vermiştir.",
+  "hafiza_ipucu": "1176 TAPU (Miryokefalon) — tapuyu aldı.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 79
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-036",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "1243 yılında Moğollara karşı yapılan ve Türkiye Selçuklu Devleti'nin bağımsızlığını fiilen kaybederek Moğollara tabi olmasıyla sonuçlanan savaş hangisidir?",
+  "siklar": {
+   "A": "Kösedağ",
+   "B": "Yassıçimen",
+   "C": "Miryokefalon",
+   "D": "Katvan",
+   "E": "Ahmet Hisar"
+  },
+  "dogru": "A",
+  "cozum": "Kösedağ Savaşı (3 Temmuz 1243), II. Gıyaseddin Keyhüsrev döneminde Baycu Noyan komutasındaki Moğol ordusuna karşı ağır bir yenilgiyle sonuçlanmış; Selçuklu Devleti bu tarihten sonra Moğollara tabi hale gelmiştir.",
+  "hafiza_ipucu": "1243 KÖSTEK (Kösedağ) — köstek yedi.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 153
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-037",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "I. Alaeddin Keykubad'ın 1221-1222 kışında fethederek kendi adına nispetle Alaiyye adını verdiği ve kışlık merkez olarak kullandığı kale/şehir aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sinop",
+   "B": "Kalonoros (Alanya)",
+   "C": "Antalya",
+   "D": "Samsun",
+   "E": "Silifke"
+  },
+  "dogru": "B",
+  "cozum": "I. Alaeddin Keykubad, Kir Vard adlı valinin elindeki Kalonoros'u fethedip imar ettirmiş ve kendi adına nispetle Alaiyye (Alanya) adını vermiştir.",
+  "hafiza_ipucu": "Kalonoros → Alaiyye: Keykubad'ın kışlık tahtı.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 128
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-038",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "I. Gıyaseddin Keyhüsrev, Gevher Nesibe Tıp Medresesi ve Darüşşifası'nı hangi saltanat döneminde, Kayseri'de yaptırmıştır?",
+  "siklar": {
+   "A": "Birinci saltanatı (1192-1196) sırasında",
+   "B": "İstanbul'daki sürgün yıllarında",
+   "C": "İkinci saltanatı (1205-1211) sırasında",
+   "D": "Oğlu I. İzzeddin Keykâvus'un naipliğinde",
+   "E": "Miryokefalon Savaşı'ndan hemen sonra"
+  },
+  "dogru": "C",
+  "cozum": "Gevher Nesibe Tıp Medresesi ve Darüşşifası, I. Gıyaseddin Keyhüsrev'in 1205-1211 yılları arasındaki ikinci saltanat döneminde, 1206-1207'de kız kardeşi adına yaptırılmıştır.",
+  "hafiza_ipucu": "İkinci kez tahta oturan Keyhüsrev, kardeşine hastane bıraktı.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 108
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-039",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "I. Gıyaseddin Keyhüsrev, 1211 yılında İznik hükümdarı Laskaris'e karşı giriştiği hangi savaşta hayatını kaybetmiştir?",
+  "siklar": {
+   "A": "Miryokefalon",
+   "B": "Yassıçimen",
+   "C": "Ahmet Hisar",
+   "D": "Alaşehir (Antiochia) Savaşı",
+   "E": "Kösedağ"
+  },
+  "dogru": "D",
+  "cozum": "I. Gıyaseddin Keyhüsrev, Haziran 1211'de Laskaris'e karşı giriştiği Alaşehir Savaşı'nda, düşman ordusunu kovalarken korumasız kalıp şehit düşmüştür.",
+  "hafiza_ipucu": "Keyhüsrev zafer sarhoşluğuyla ileri atıldı, Alaşehir'de şehit düştü.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 107
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SEL-040",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "Türkiye Selçuklu Devleti'nin Akdeniz'e açılan kapısı olan Antalya ve Karadeniz'e açılan kapısı olan Sinop, sırasıyla hangi tarihlerde fethedilmiştir?",
+  "siklar": {
+   "A": "Antalya 1214 – Sinop 1207",
+   "B": "Antalya 1176 – Sinop 1243",
+   "C": "Antalya 1220 – Sinop 1230",
+   "D": "Antalya 1092 – Sinop 1075",
+   "E": "Antalya 1207 – Sinop 1214"
+  },
+  "dogru": "E",
+  "cozum": "Antalya 1207'de I. Gıyaseddin Keyhüsrev tarafından, Sinop ise 1214'te fethedilmiştir; bu fetihler Selçuklu Devleti'ni iki denize açan gelişmelerdir.",
+  "hafiza_ipucu": "Önce Akdeniz (Antalya 1207), sonra Karadeniz (Sinop 1214).",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 103
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-041",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "I. Alaeddin Keykubad'ın 1230 yılında Celaleddin Harizmşah'a karşı kazandığı, ancak Moğollara karşı önemli bir müttefikten mahrum kalmasına yol açan savaş aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yassıçimen",
+   "B": "Kösedağ",
+   "C": "Miryokefalon",
+   "D": "Malazgirt",
+   "E": "Ahmet Hisar"
+  },
+  "dogru": "A",
+  "cozum": "Yassıçimen Savaşı (10 Ağustos 1230), I. Alaeddin Keykubad'ın Celaleddin Harizmşah'ı yendiği; ancak bu zaferle Moğollara karşı tampon görevi gören Harizmşah engelinin ortadan kalktığı savaştır.",
+  "hafiza_ipucu": "Yassıçimen'de kazandı ama kalkanını kaybetti — Harizmşah gitti, Moğol geldi.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 132
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-042",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "1249'da II. İzzeddin Keykâvus, IV. Kılıç Arslan ve II. Alaeddin Keykubad'ın birlikte tahta çıkarıldığı 'müşterek saltanat' düzenini kuran ve 'Atabeg-i Rum' unvanını alan devlet adamı kimdir?",
+  "siklar": {
+   "A": "Şemseddin İsfahanî",
+   "B": "Celaleddin Karatay",
+   "C": "Sadeddin Köpek",
+   "D": "Muineddin Pervane",
+   "E": "Baycu Noyan"
+  },
+  "dogru": "B",
+  "cozum": "Celaleddin Karatay, üç kardeşi bir arada tahta oturtarak 'Atabeg-i Rum' unvanıyla hepsinin atabeyi olmuş, beş yıl boyunca nispi bir istikrar sağlamıştır.",
+  "hafiza_ipucu": "Karatay = üç kardeşin ortak atabeyi.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 156
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-043",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "Kaynakta, Bizans İmparatoru Aleksios Komnenos ile Kutalmışoğlu Süleyman Şah arasında 1081'de imzalanan ve Drakon Çayı'nın doğusundaki toprakların fiilen Türklerin elinde bırakıldığı Drakon Çayı Anlaşması, hangi popüler yorumu düzeltmek amacıyla vurgulanır?",
+  "siklar": {
+   "A": "Malazgirt Zaferi'nin önemsiz olduğu yorumunu",
+   "B": "Kösedağ yenilgisinin kaçınılmaz olduğu yorumunu",
+   "C": "Anadolu'nun tapusunun ilk kez Miryokefalon Savaşı'yla (1176) alındığı yorumunu",
+   "D": "Haçlı Seferlerinin başarısız olduğu yorumunu",
+   "E": "Dandanakan Savaşı'nın Anadolu'yla ilgisi olmadığı yorumunu"
+  },
+  "dogru": "C",
+  "cozum": "Kaynağa göre, Anadolu'nun tapusunun Miryokefalon Savaşı (1176) ile alındığı yorumu, ondan 95 yıl önce imzalanan Drakon Çayı Anlaşması (1081) dikkate alınarak düzeltilmektedir; zira bu anlaşmayla Anadolu toprakları zaten fiilen Türklerin elinde bırakılmıştır.",
+  "hafiza_ipucu": "Tapu aslında 1081'de Drakon Çayı'nda imzalandı, 1176 sadece pekiştirdi.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 45
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SEL-044",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "Kösedağ bozgunundan sonra Selçuklu veziri Mühezibüddin Ali'nin Moğol komutanı Baycu Noyan ile yaptığı anlaşmaya göre Selçuklu Devleti'nin üstlendiği yükümlülük aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Konya'nın başkentlikten çıkarılması",
+   "B": "Bütün Selçuklu ordusunun dağıtılması",
+   "C": "Ahilik teşkilatının kapatılması",
+   "D": "Yıllık haraç, koyun, sığır, at ve çeşitli değerli eşyaların Moğollara gönderilmesi",
+   "E": "Bütün medreselerin İlhanlı yönetimine devredilmesi"
+  },
+  "dogru": "D",
+  "cozum": "Anlaşmaya göre Selçuklu sultanı Moğollara her yıl 360.000 dirhem haraç, 10.000 koyun, 1.000 sığır, 1.000 at ile deve, katır ve kıymetli kumaşlar göndermeyi kabul etmiş; böylece devlet bağımsızlığını fiilen yitirmiştir.",
+  "hafiza_ipucu": "Kösedağ sonrası: koyun, sığır, at, dirhem — hepsi Moğol'a.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 154
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-045",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "I. Alaeddin Keykubad, 1237 yılında hangi şekilde hayatını kaybetmiştir?",
+  "siklar": {
+   "A": "Yassıçimen Savaşı'nda şehit düşmüştür.",
+   "B": "Kösedağ Savaşı'nda esir düşüp öldürülmüştür.",
+   "C": "Alaşehir'de Laskaris ile savaşırken şehit olmuştur.",
+   "D": "Bir Batıni fedaisi tarafından hançerlenmiştir.",
+   "E": "Kayseri'de bir ziyafette yediği zehirli kuş etinden ölmüştür."
+  },
+  "dogru": "E",
+  "cozum": "I. Alaeddin Keykubad, 1237'de Kayseri ovasında verdiği bir ziyafette çaşnigirin sunduğu kızarmış kuş etinden zehirlenerek vefat etmiş; bazı kaynaklara göre bu, oğlu II. Gıyaseddin Keyhüsrev ve destekçilerinin tertibiydi.",
+  "hafiza_ipucu": "Keykubad'ın son ziyafeti, son yemeği oldu.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 134
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-046",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "Danişmendliler ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Kutalmışoğlu Süleyman Şah tarafından kurulmuş bir hanedandır.",
+   "B": "1071-1178 yılları arasında Sivas, Tokat, Amasya, Kayseri ve Malatya havalisinde hüküm sürmüşlerdir.",
+   "C": "Kurucuları Danişmend Gazi, Malazgirt Savaşı'na katılmıştır.",
+   "D": "Malazgirt zaferinden sonra iktâ edilen Sivas'ı fethederek beyliğin temelini atmışlardır.",
+   "E": "Haçlılara karşı zaman zaman Türkiye Selçuklu sultanlarıyla birlikte hareket etmişlerdir."
+  },
+  "dogru": "A",
+  "cozum": "Danişmendliler, Kutalmışoğlu Süleyman Şah tarafından değil, Danişmend Gazi tarafından kurulmuş ayrı bir Türkmen beyliğidir; bu nedenle A seçeneği yanlıştır.",
+  "hafiza_ipucu": "Danişmendliler kendi hanedanı — Kutalmışoğulları değil.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-047",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "turkiye-selcuklu-siyasi",
+  "soru": "Malazgirt Zaferi'nden sonra Erzurum merkez olmak üzere kurulan ve Anadolu'nun ilk Türk beyliği kabul edilen hanedan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Danişmendliler",
+   "B": "Saltuklular",
+   "C": "Artuklular",
+   "D": "Mengücekliler",
+   "E": "Karamanoğulları"
+  },
+  "dogru": "B",
+  "cozum": "Saltuklular (1071-1202), Malazgirt Zaferi'nden sonra kurulan ilk Türk beyliği kabul edilir; kurucusu Malazgirt Savaşı'na da katılmış olan Ebu'l-Kasım Saltuk'tur, merkezleri Erzurum'dur.",
+  "hafiza_ipucu": "Saltuklular = ilk beylik, Erzurum'un ilk sahibi.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-048",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "kultur-teskilat",
+  "soru": "Selçuklularda, devlet görevlilerine ve askerlere maaş yerine belirli bir bölgenin vergi gelirinin tahsis edilmesi esasına dayanan; Nizamülmülk tarafından sistemli hale getirilen toprak-gelir dağıtım sistemine ne ad verilir?",
+  "siklar": {
+   "A": "Timar",
+   "B": "Mülk",
+   "C": "İkta",
+   "D": "Vakıf",
+   "E": "Has"
+  },
+  "dogru": "C",
+  "cozum": "İkta, devlet görevlisi ve askerlere hizmet karşılığında belirli bir bölgenin vergi gelirinin tahsis edilmesi sistemidir; Nizamülmülk tarafından yerleştirilmiştir.",
+  "hafiza_ipucu": "İkta = maaş yerine toprak geliri.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 211
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-049",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "kultur-teskilat",
+  "soru": "Selçuklularda, hanedan mensubu küçük yaştaki şehzadelerin eğitiminden ve idaresinden sorumlu tutulan, zamanla kendi hâkimiyet alanları oluşturabilen devlet görevlilerine ne ad verilir?",
+  "siklar": {
+   "A": "Vezir",
+   "B": "Şahne",
+   "C": "Naib",
+   "D": "Atabey",
+   "E": "Pervane"
+  },
+  "dogru": "D",
+  "cozum": "Atabey, küçük yaştaki Selçuklu şehzadelerinin eğitimi ve idaresiyle görevlendirilen, zamanla siyasi nüfuz kazanabilen bir kurumdur; Celaleddin Karatay'ın üç şehzadeye birden 'Atabeg-i Rum' unvanıyla atabeylik yapması buna bir örnektir.",
+  "hafiza_ipucu": "Atabey = şehzadenin hem hocası hem koruyucusu.",
+  "kaynak": {
+   "dosya": "Türkiye Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 156
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-050",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "kultur-teskilat",
+  "soru": "Kırşehir turu düzenleyen rehber Selin, grubuna 1172-1262 yılları arasında yaşamış, dericilik (debbağlık) esnafının piri kabul edilen ve Anadolu'da esnaf-zanaatkârları ahlak, dayanışma ve meslek eğitimi etrafında örgütleyen kişiyi tanıtıyor. Bu kişi kimdir?",
+  "siklar": {
+   "A": "Mevlana Celaleddin Rumî",
+   "B": "Yunus Emre",
+   "C": "Hacı Bektaş-ı Veli",
+   "D": "Nizamülmülk",
+   "E": "Ahi Evran"
+  },
+  "dogru": "E",
+  "cozum": "Ahi Evran (1172-1262), Anadolu'da Ahilik teşkilatını örgütleyen, dericilik esnafının piri kabul edilen bir şahsiyettir; Ahilik esaslarını fütüvvet teşkilatından almıştır.",
+  "hafiza_ipucu": "Ahi Evran = derici pîri, ahiliğin örgütleyicisi.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 199
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-051",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "kultur-teskilat",
+  "soru": "Nizamiye Medreseleri ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Vakıf statüsündedir; öğrencilere barınma, yemek ve burs sağlanır.",
+   "B": "Öğretim ücretsiz değildir, öğrenciler yüksek harç öder.",
+   "C": "Yalnızca Hanefi fıkhı okutulmuştur.",
+   "D": "İlk kez Anadolu'da, Konya'da kurulmuştur.",
+   "E": "Kurucusu Sultan Melikşah'tır."
+  },
+  "dogru": "A",
+  "cozum": "Nizamiye Medreseleri vakıf kuruluşları olup öğrencilere barınma, beslenme ve burs imkânı sağlanmıştır; Şafii fıkhı okutulmuş, kurucusu Nizamülmülk'tür ve ilk örnekleri Irak-Horasan şehirlerindedir.",
+  "hafiza_ipucu": "Nizamiye = vakıf + burs + Şafii fıkhı.",
+  "kaynak": {
+   "dosya": "Büyük Selçuklu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 207
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SEL-052",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "kultur-teskilat",
+  "soru": "Selçuklu kervansarayları ile ilgili aşağıdakilerden hangisi söylenemez?",
+  "siklar": {
+   "A": "Yolcular genellikle üç gün boyunca ücretsiz ağırlanırdı.",
+   "B": "Yalnızca dini eğitim amacıyla inşa edilmiş yapılardır.",
+   "C": "Sefer sırasında ordunun konaklaması için de kullanılırdı.",
+   "D": "Gerektiğinde hapishane ve sığınak işlevi de görebilirdi.",
+   "E": "İçlerinde hamam, mescit, eczane gibi hizmet birimleri bulunabilirdi."
+  },
+  "dogru": "B",
+  "cozum": "Kervansaraylar ticaret ve konaklama amaçlı yapılardır; barınma, hamam, mescit, eczane gibi hizmetler sunar, gerektiğinde askeri/idari işlevler de görürdü. Dini eğitim amacıyla inşa edildikleri iddiası kaynakta yer almaz.",
+  "hafiza_ipucu": "Kervansaray = konaklama+güvenlik, medrese değil.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 196
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SEL-053",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "kultur-teskilat",
+  "soru": "I. Alaeddin Keykubad'ın Beyşehir Gölü kıyısında yaptırdığı Kubadabad Sarayı kazılarında ortaya çıkan sekiz köşeli yıldız formundaki çinilerde sıkça tekrarlanan, antik mitolojiden gelen kuş gövdeli-insan başlı fantastik figürlere ne ad verilir?",
+  "siklar": {
+   "A": "Grifon",
+   "B": "Sfenks",
+   "C": "Harpi",
+   "D": "Balbal",
+   "E": "Kapitel"
+  },
+  "dogru": "C",
+  "cozum": "Kubadabad Sarayı çinilerinde krem zemin üzerine mor ve siyah renklerle işlenmiş, kuş gövdeli kadın başlı 'harpi' figürleri sıkça tekrarlanır; bu, Anadolu Selçuklu figüratif çini sanatının en zengin örneklerindendir.",
+  "hafiza_ipucu": "Kubadabad çinisinde kuş gövdeli kadın başı = harpi.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 95
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SEL-054",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "kultur-teskilat",
+  "soru": "Mimaride çininin kullanılması ve geliştirilmesinde atılan ilk büyük adım hangi dönemde gerçekleşmiş, asıl büyük gelişme hangi yüzyılda ve nerede yaşanmıştır?",
+  "siklar": {
+   "A": "İlk adım Osmanlı'da, gelişme 16. yüzyılda İznik'te",
+   "B": "İlk adım Karahanlılarda, gelişme Bizans'ta",
+   "C": "İlk adım Gaznelilerde, gelişme Memluklerde",
+   "D": "İlk adım Büyük Selçuklu'da, asıl gelişme 13. yüzyılda Anadolu Türk sanatında",
+   "E": "İlk adım Anadolu Selçuklu'da, gelişme İlhanlılarda"
+  },
+  "dogru": "D",
+  "cozum": "Çininin mimaride kullanılması ve geliştirilmesinin ilk büyük adımı Büyük Selçuklu devrinde atılmış, asıl büyük gelişme 13. yüzyılda Anadolu Türk çini sanatında gerçekleşmiştir.",
+  "hafiza_ipucu": "Çini tohumu Büyük Selçuklu'da atıldı, 13. yüzyılda Anadolu'da meyve verdi.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SEL-055",
+  "konu": "Selçuklu Tarihi",
+  "alt_konu": "kultur-teskilat",
+  "soru": "Ahilik teşkilatının esaslarının, 12. yüzyıl sonu-13. yüzyıl başında Abbasi Halifesi Nasır Li-Dinillah tarafından yeniden düzenlenip genişletilen hangi teşkilattan alındığı kabul edilir?",
+  "siklar": {
+   "A": "Divan-ı Hümayun",
+   "B": "Şahnelik",
+   "C": "Nizamiye sistemi",
+   "D": "İkta sistemi",
+   "E": "Fütüvvet teşkilatı"
+  },
+  "dogru": "E",
+  "cozum": "Ahilik, esaslarını Halife Nasır Li-Dinillah'ın genişlettiği fütüvvet teşkilatından almıştır; ahiler arasında hiyerarşik bir yapı (yamak-çırak-kalfa-usta) ve ahlak eğitimi bulunurdu.",
+  "hafiza_ipucu": "Fütüvvet halifeden geldi, Ahilik Anadolu'da olgunlaştı.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 199
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ }
+]

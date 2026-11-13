@@ -1,0 +1,182 @@
+{
+  "ders_kodu": "SGL",
+  "ders_adi": "Genel Sağlık Bilgisi ve İlk Yardım",
+  "toplam_soru": 450,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "İlk Yardımın Temel İlkeleri ve Olay Yeri Yönetimi",
+      "soru_sayisi": 90,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "İlk yardımın temel uygulamaları olan KBK zincirinin doğru açılımı ve sırası aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Kurtarma - Bildirme - Koruma",
+            "B": "Koruma - Bildirme - Kurtarma (Müdahale)",
+            "C": "Bildirme - Koruma - Kurtarma",
+            "D": "Kontrol - Bakım - Kurtarma",
+            "E": "Koruma - Kontrol - Bakım"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Önce olay yerinin güvenliği sağlanır (Koruma), sonra 112 aranır (Bildirme), en son müdahale yapılır (Kurtarma).",
+          "hafiza_capasi": "KBK Zinciri = Koruma -> Bildirme -> Kurtarma"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Çok sayıda yaralının bulunduğu kaza ve afet ortamlarında yaralıların öncelik sırasını belirleyen triyaj uygulamasında acil ve hayati tehlikesi olan yaralılar hangi renkle etiketlenir?",
+          "secenekler": {
+            "A": "Yeşil",
+            "B": "Sarı",
+            "C": "Kırmızı",
+            "D": "Siyah",
+            "E": "Mavi"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Kırmızı: Acil/Öncelikli müdahale; Sarı: İkinci derece gecikebilir; Yeşil: Hafif yaralı (ayakta); Siyah: Vefat etmiş / Yaşam belirtisi yok.",
+          "hafiza_capasi": "Kırmızı Kod = Birinci öncelikli acil yaralı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Temel Yaşam Desteği (ABC) ve Hava Yolu Tıkanıklıkları",
+      "soru_sayisi": 100,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Yetişkin bir kazazedede bilincin kapalı ve solunumun olmadığı saptandığında uygulanacak göğüs basısı ve suni solunum oranı ile dakikadaki bası ritmi kaçtır?",
+          "secenekler": {
+            "A": "15 bası / 2 solunum - 60 bası/dk",
+            "B": "30 göğüs basısı / 2 suni solunum - 100-120 bası/dk",
+            "C": "30 bası / 1 solunum - 80 bası/dk",
+            "D": "10 bası / 2 solunum - 100 bası/dk",
+            "E": "5 bası / 1 solunum - 120 bası/dk"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Temel Yaşam Desteği oranı tüm yaş gruplarında tek ilk yardımcıda 30:2'dir. Bası hızı dakikada 100-120, derinlik yetişkinde 5 cm'dir.",
+          "hafiza_capasi": "TYD Altın Kuralı = 30 Bası / 2 Solunum"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Yabancı bir cisimle tam tıkanma yaşayan, ellerini boğazına götüren, konuşamayan ve nefes alamayan bilinci açık kazazedeye hangi manevra uygulanır?",
+          "secenekler": {
+            "A": "Rentek Manevrası",
+            "B": "Heimlich Manevrası",
+            "C": "Koma Pozisyonu",
+            "D": "Şok Pozisyonu",
+            "E": "İtfaiyeci Taşıması"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Tam tıkanmada göbek ile göğüs kemiği arasına yukarı ve içe doğru ani basınç uygulanan Heimlich manevrası yapılır.",
+          "hafiza_capasi": "Tam tıkanma = Heimlich manevrası"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "Kanamalar, Şok ve Turnike Uygulamaları",
+      "soru_sayisi": 90,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Kalp atışlarıyla uyumlu olarak fışkırır tarzda ve açık kırmızı renkte akan en tehlikeli kanama türü hangisidir?",
+          "secenekler": {
+            "A": "Toplardamar kanaması",
+            "B": "Kılcaldamar kanaması",
+            "C": "Atardamar (Arter) kanaması",
+            "D": "İç kanama",
+            "E": "Doğal delik kanaması"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Atardamar kanaması fışkırır ve açık kırmızı renklidir; toplardamar sızıntı şeklinde ve koyu kırmızı renklidir.",
+          "hafiza_capasi": "Atardamar = Açık kırmızı ve fışkıran kan"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Dolaşım yetmezliği sonucu beyin ve hayati organlara yeterli kan gitmediğinde kazazedeye verilen şok pozisyonunda ayaklar kaç cm yukarı kaldırılır?",
+          "secenekler": {
+            "A": "15 cm",
+            "B": "30 cm",
+            "C": "45 cm",
+            "D": "60 cm",
+            "E": "90 cm"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Şok pozisyonunda sırtüstü yatan hastanın ayakları 30 cm yükseltilerek beyne kan akışı desteklenir.",
+          "hafiza_capasi": "Şok pozisyonu = Ayaklar 30 cm yukarı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Kırık, Çıkık, Burkulmalar ve Yaralı Taşıma Teknikleri",
+      "soru_sayisi": 85,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Kaza yapmış bir araç içerisinden patlama veya yangın riski gibi hayati tehlike durumlarında omuriliğe zarar vermeden yaralıyı çıkarma tekniği hangisidir?",
+          "secenekler": {
+            "A": "Heimlich Manevrası",
+            "B": "Rentek Manevrası",
+            "C": "Rautek Pozisyonu",
+            "D": "İtfaiyeci Yöntemi",
+            "E": "Altınbeşik Yöntemi"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Rentek manevrası baş-boyun-gövde eksenini bozmadan araç içinden yaralı çıkarma manevrasıdır.",
+          "hafiza_capasi": "Araçtan yaralı çıkarma = Rentek Manevrası"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Kırık ve çıkıkların tespitinde kullanılan temel ilke aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Kırık kemik uçları yerine oturtulmalıdır",
+            "B": "Tespit kırık bölgenin üstündeki ve altındaki eklemleri de içine almalıdır",
+            "C": "Çıkık hemen yerine çekilmelidir",
+            "D": "Yaralı bölgeye sıcak masaj yapılmalıdır",
+            "E": "Turnike uygulanmalıdır"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Tespit işlemi kırık kemiğin hem altındaki hem üstündeki sağlam eklemleri sabitleyecek şekilde atellenir.",
+          "hafiza_capasi": "Kırık tespiti = Alt ve üst eklemleri kilitle"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 5,
+      "alt_baslik_adi": "Bilinç Bozuklukları, Zehirlenmeler, Yanık ve Donmalar",
+      "soru_sayisi": 85,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Deride bül adı verilen içi su dolu kabarcıkların oluştuğu, şiddetli ağrılı yanık derecesi hangisidir?",
+          "secenekler": {
+            "A": "1. Derece Yanık",
+            "B": "2. Derece Yanık",
+            "C": "3. Derece Yanık",
+            "D": "4. Derece Yanık",
+            "E": "Kimyasal Yanık"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "1. derece kızarıklık, 2. derece içi su dolu kabarcık (bül), 3. derece sinir harabiyeti ve kömürleşmedir.",
+          "hafiza_capasi": "Su kabarcığı (bül) = 2. Derece yanık"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Solunumu ve nabzı olan ancak bilinci tamamen kapalı bir kazazedeye soluk yolunun açık kalmasını sağlamak ve kusmuk aspirasyonunu önlemek için hangi pozisyon verilir?",
+          "secenekler": {
+            "A": "Şok Pozisyonu",
+            "B": "Yarı Oturur Pozisyon",
+            "C": "Koma Pozisyonu (Yarı Yüzükoyun Yan Yatış)",
+            "D": "Sırtüstü Sert Zemin",
+            "E": "Fowler Pozisyonu"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Koma pozisyonu dilin geriye kaymasını engeller ve kusma halinde boğulmayı önler.",
+          "hafiza_capasi": "Bilinci kapalı soluyan yaralı = Koma Pozisyonu"
+        }
+      ]
+    }
+  ]
+}

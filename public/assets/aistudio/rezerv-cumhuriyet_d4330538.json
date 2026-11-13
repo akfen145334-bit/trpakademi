@@ -1,0 +1,1542 @@
+[
+ {
+  "id": "REZ-001",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Osmanlı Devleti'nin İtilaf Devletleri ile imzaladığı ve fiilen Birinci Dünya Savaşı'ndaki yenilgisini kabul ettiği Mondros Ateşkes Antlaşması hangi tarihte imzalanmıştır?",
+  "siklar": {
+   "A": "30 Ekim 1918",
+   "B": "30 Ekim 1919",
+   "C": "11 Kasım 1918",
+   "D": "24 Temmuz 1923",
+   "E": "3 Mart 1920"
+  },
+  "dogru": "A",
+  "cozum": "Mondros Ateşkes Antlaşması 30 Ekim 1918'de imzalanmış, Osmanlı Devleti'ni fiilen işgale açık hale getirmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.20).",
+  "hafiza_ipucu": "MONDROSta MONDe (dünyaya) teslim olduk: 1918.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-002",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Mondros Ateşkes Antlaşması, hangi adadaki limanda imzalanmıştır?",
+  "siklar": {
+   "A": "Bozcaada",
+   "B": "Limni",
+   "C": "Midilli",
+   "D": "Rodos",
+   "E": "Sakız"
+  },
+  "dogru": "B",
+  "cozum": "Antlaşma, Limni Adası'ndaki Mondros Limanı'nda imzalanmıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.20).",
+  "hafiza_ipucu": "Mondros = Limni'nin limanı; antlaşmaya limanın adı verildi.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-003",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Mondros Ateşkes Antlaşması'nın, İtilaf Devletleri'ne güvenlik gerekçesiyle ülkenin herhangi bir yerini işgal etme hakkı tanıyan ve uygulamada işgallerin hukuki dayanağı sayılan maddesi kaçıncı maddedir?",
+  "siklar": {
+   "A": "3. madde",
+   "B": "5. madde",
+   "C": "7. madde",
+   "D": "12. madde",
+   "E": "24. madde"
+  },
+  "dogru": "C",
+  "cozum": "7. madde hükmü gereğince İtilaf Devletleri güvenlik tehdidi gördükleri her noktayı işgal hakkına sahip kılınmıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.20-21).",
+  "hafiza_ipucu": "7. madde = 7 kapıdan giren işgal.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "REZ-004",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Yunan kuvvetlerinin İzmir'i işgal ettiği tarih aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "30 Ekim 1918",
+   "B": "19 Mayıs 1919",
+   "C": "23 Temmuz 1919",
+   "D": "15 Mayıs 1919",
+   "E": "16 Mart 1920"
+  },
+  "dogru": "D",
+  "cozum": "Yunan işgali 15 Mayıs 1919'da İzmir'de başlamış, Mustafa Kemal'in dört gün sonra Samsun'a çıkışının hemen öncesindeki gelişme olmuştur (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.21).",
+  "hafiza_ipucu": "15 Mayıs İzmir ağlar, 19 Mayıs Samsun'da umut doğar.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-005",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Mustafa Kemal Paşa'nın Millî Mücadele'yi başlatma sürecinin sembolik başlangıcı sayılan Samsun'a çıkış tarihi hangisidir?",
+  "siklar": {
+   "A": "23 Nisan 1920",
+   "B": "30 Ekim 1918",
+   "C": "15 Mayıs 1919",
+   "D": "4 Eylül 1919",
+   "E": "19 Mayıs 1919"
+  },
+  "dogru": "E",
+  "cozum": "Mustafa Kemal Paşa 19 Mayıs 1919'da Samsun'a çıkmış, bu tarih Millî Mücadele'nin başlangıç simgesi kabul edilir (Millî Mücadele Tarihi.txt, s.3).",
+  "hafiza_ipucu": "19 Mayıs = gençliğe ve spora armağan edilen kuruluş günü.",
+  "kaynak": {
+   "dosya": "MİLLİ MÜCADELE TARİHİ.txt",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-006",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Mustafa Kemal Paşa, Samsun'a hangi resmî görevle çıkmıştır?",
+  "siklar": {
+   "A": "9. Ordu Müfettişi",
+   "B": "Harbiye Nazırı",
+   "C": "Yıldırım Orduları Grup Komutanı",
+   "D": "Kafkas Cephesi Komutanı",
+   "E": "Meclis-i Mebusan Başkanı"
+  },
+  "dogru": "A",
+  "cozum": "Mustafa Kemal Paşa, 9. (sonradan 3.) Ordu Müfettişi olarak Samsun'a çıkmış, bölgesindeki askeri-sivil erkâna emretme yetkisiyle donatılmıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.23; Millî Mücadele Tarihi.txt, s.5).",
+  "hafiza_ipucu": "9. Ordu Müfettişi = geniş yetkili müfettişlik.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-007",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Millî Mücadele'nin ilk genel çaplı genelgesi olan Amasya Genelgesi hangi ayda yayımlanmıştır?",
+  "siklar": {
+   "A": "Mayıs 1919",
+   "B": "Haziran 1919",
+   "C": "Temmuz 1919",
+   "D": "Eylül 1919",
+   "E": "Ekim 1919"
+  },
+  "dogru": "B",
+  "cozum": "Amasya Genelgesi Haziran 1919'da yayımlanmış, Erzurum ve Sivas'ta kongre toplanması çağrısını içermiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.23).",
+  "hafiza_ipucu": "A-E-S sırası: önce Amasya (Haziran), sonra Erzurum, sonra Sivas.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-008",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır' ifadesi, Millî Mücadele'nin amaç ve yöntemini ortaya koyan hangi belgede yer alır?",
+  "siklar": {
+   "A": "Misak-ı Millî",
+   "B": "Sivas Kongresi Beyannamesi",
+   "C": "Amasya Genelgesi",
+   "D": "Erzurum Kongresi Beyannamesi",
+   "E": "1921 Teşkilat-ı Esasiye Kanunu"
+  },
+  "dogru": "C",
+  "cozum": "Bu ifade Amasya Genelgesi'nde yer alır ve Millî Mücadele'nin dayandığı temel gerekçeyi/yöntemi belirler (Millî Mücadele Tarihi.txt, s.4).",
+  "hafiza_ipucu": "Amasya = evde alınan karar; kurtuluş milletin kendi azminde.",
+  "kaynak": {
+   "dosya": "MİLLİ MÜCADELE TARİHİ.txt",
+   "sayfa": 4
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-009",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Erzurum Kongresi hangi tarihler arasında toplanmıştır?",
+  "siklar": {
+   "A": "4-11 Eylül 1919",
+   "B": "22 Haziran 1919",
+   "C": "30 Ekim-11 Kasım 1918",
+   "D": "23 Temmuz-7 Ağustos 1919",
+   "E": "23 Nisan-7 Mayıs 1920"
+  },
+  "dogru": "D",
+  "cozum": "Erzurum Kongresi 23 Temmuz-7 Ağustos 1919 tarihleri arasında toplanmış, bölgesel nitelikte olmakla birlikte ulusal kararlar almıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.23).",
+  "hafiza_ipucu": "Erzurum = yaz ortası, doğu illerinin buluşması.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-010",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Erzurum Kongresi ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Doğu illerini temsil eden bölgesel bir kongredir",
+   "B": "Bir manda yönetimi kesin dille reddedilmiştir",
+   "C": "Yürütme organı olarak bir Heyet-i Temsiliye seçilmiştir",
+   "D": "Mustafa Kemal Kongre'nin kararlarına damgasını vurmuştur",
+   "E": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti bu kongrede kurulmuştur"
+  },
+  "dogru": "E",
+  "cozum": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti, Erzurum'da değil Sivas Kongresi'nde kurulmuştur; Erzurum bölgesel bir kongre olarak kalmış, tüm yurdu kapsayan birleşme Sivas'ta gerçekleşmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.23-24).",
+  "hafiza_ipucu": "Erzurum bölgesel taş, Sivas ulusal çatı.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-011",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Sivas Kongresi hangi tarihler arasında toplanmıştır?",
+  "siklar": {
+   "A": "4-11 Eylül 1919",
+   "B": "23 Temmuz-7 Ağustos 1919",
+   "C": "1-11 Eylül 1920",
+   "D": "23 Nisan 1920",
+   "E": "20 Ekim 1919"
+  },
+  "dogru": "A",
+  "cozum": "Sivas Kongresi 4-11 Eylül 1919'da toplanmış, ulusal nitelikte olup direniş örgütlerini tek çatı altında birleştirmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.24).",
+  "hafiza_ipucu": "Sivas = Eylül'ün ilk haftası, tüm yurdun buluşması.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-012",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Sivas Kongresi'nde tüm direniş örgütlerinin tek çatı altında birleştirilmesiyle kurulan teşkilatın adı nedir?",
+  "siklar": {
+   "A": "Müdafaa-i Hukuk Zümresi",
+   "B": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+   "C": "Redd-i İlhak Heyeti",
+   "D": "Kuva-yı Milliye Cemiyeti",
+   "E": "Millî Kongre Cemiyeti"
+  },
+  "dogru": "B",
+  "cozum": "Sivas Kongresi'nde direniş örgütleri Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti (ARMHC) adı altında birleştirilmiş, Heyet-i Temsiliye genişletilmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.24).",
+  "hafiza_ipucu": "Sivas'ta tek çatı: ARMHC.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-013",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Aşağıdaki gelişmelerin kronolojik sırası hangi seçenekte doğru verilmiştir?\nI. Sivas Kongresi\nII. Amasya Genelgesi\nIII. Erzurum Kongresi",
+  "siklar": {
+   "A": "I-III-II",
+   "B": "III-I-II",
+   "C": "II-III-I",
+   "D": "I-II-III",
+   "E": "III-II-I"
+  },
+  "dogru": "C",
+  "cozum": "Doğru kronolojik sıra Amasya Genelgesi (Haziran 1919) → Erzurum Kongresi (Temmuz-Ağustos 1919) → Sivas Kongresi (Eylül 1919) şeklindedir, yani II-III-I (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.23-24).",
+  "hafiza_ipucu": "A-E-S: Anadolu Evden Sokağa çıktı — alfabetik sıra kronolojik sıradır.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-014",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Sivas Kongresi'nde Heyet-i Temsiliye'nin üye sayısı kaça çıkarılmıştır?",
+  "siklar": {
+   "A": "9",
+   "B": "11",
+   "C": "14",
+   "D": "16",
+   "E": "20"
+  },
+  "dogru": "D",
+  "cozum": "Sivas Kongresi'nde Heyet-i Temsiliye'nin üye sayısı 16'ya çıkarılarak temsil gücü artırılmıştır (Millî Mücadele Tarihi.txt, s.3).",
+  "hafiza_ipucu": "Sivas'ta heyet 16'ya büyüdü.",
+  "kaynak": {
+   "dosya": "MİLLİ MÜCADELE TARİHİ.txt",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "REZ-015",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Son Osmanlı Mebusan Meclisi'nin kabul ettiği ve ateşkes sınırları içindeki toprakların bölünmezliğini vurgulayan Misak-ı Millî kararları hangi tarihte kabul edilmiştir?",
+  "siklar": {
+   "A": "23 Nisan 1920",
+   "B": "16 Mart 1920",
+   "C": "4 Eylül 1919",
+   "D": "30 Ekim 1918",
+   "E": "28 Ocak 1920"
+  },
+  "dogru": "E",
+  "cozum": "Meclis-i Mebusan 28 Ocak 1920'de Misak-ı Millî'yi kabul etmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.24).",
+  "hafiza_ipucu": "28 Ocak: kışın ortasında millî yemin.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-016",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "İtilaf Devletleri'nin İstanbul'u resmen işgal ederek Meclis-i Mebusan'ı dağıttığı tarih hangisidir?",
+  "siklar": {
+   "A": "16 Mart 1920",
+   "B": "15 Mayıs 1919",
+   "C": "23 Nisan 1920",
+   "D": "10 Ağustos 1920",
+   "E": "1 Kasım 1922"
+  },
+  "dogru": "A",
+  "cozum": "İstanbul 16 Mart 1920'de resmen işgal edilmiş, Misak-ı Millî kararlarından memnun olmayan İtilaf Devletleri Meclis-i Mebusan'ı lağvetmiştir; bu gelişme TBMM'nin Ankara'da açılmasını hızlandırmıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.24).",
+  "hafiza_ipucu": "16 Mart: İstanbul kapanır, Ankara açılır.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-017",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Büyük Millet Meclisi'nin Ankara'da açıldığı tarih hangisidir?",
+  "siklar": {
+   "A": "19 Mayıs 1920",
+   "B": "23 Nisan 1920",
+   "C": "20 Ocak 1921",
+   "D": "1 Kasım 1922",
+   "E": "29 Ekim 1923"
+  },
+  "dogru": "B",
+  "cozum": "TBMM 23 Nisan 1920'de Ankara'da açılmış, yasama-yürütme-yargı yetkilerini tek elde toplamıştır (Millî Mücadele Tarihi.txt, s.6; Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.24).",
+  "hafiza_ipucu": "23 Nisan: hem çocukların hem meclisin bayramı.",
+  "kaynak": {
+   "dosya": "MİLLİ MÜCADELE TARİHİ.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-018",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "TBMM'nin ilk anayasası olan 1921 Teşkilat-ı Esasiye Kanunu hangi tarihte kabul edilmiştir?",
+  "siklar": {
+   "A": "23 Nisan 1920",
+   "B": "28 Ocak 1920",
+   "C": "20 Ocak 1921",
+   "D": "16 Mart 1921",
+   "E": "30 Ağustos 1922"
+  },
+  "dogru": "C",
+  "cozum": "Teşkilat-ı Esasiye Kanunu 20 Ocak 1921'de kabul edilmiş, millet egemenliği ve TBMM'nin üstünlüğü ilkesine dayanan demokratik bir içerik taşımıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.26,37).",
+  "hafiza_ipucu": "20 Ocak 1921: yılın ilk ayında ilk anayasa.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-019",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "1921 Teşkilat-ı Esasiye Kanunu'nun dayandığı temel fikir aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Laiklik",
+   "B": "Güçler ayrılığı",
+   "C": "Cumhuriyetçilik",
+   "D": "Halkçılık",
+   "E": "Çok partili hayat"
+  },
+  "dogru": "D",
+  "cozum": "1921 Teşkilat-ı Esasiye Kanunu'na kaynaklık eden temel fikir halkçılıktır; egemenliğin kayıtsız şartsız millete ait olduğu ilkesi benimsenmiştir (Millî Mücadele Tarihi.txt, s.6).",
+  "hafiza_ipucu": "Halkçılık: egemenlik halkın elinde.",
+  "kaynak": {
+   "dosya": "MİLLİ MÜCADELE TARİHİ.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-020",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Birinci İnönü Muharebesi'ne (Ocak 1921) hangi komutan kumanda etmiştir?",
+  "siklar": {
+   "A": "Kazım Karabekir Paşa",
+   "B": "Ali Fuat Paşa",
+   "C": "Fevzi Çakmak Paşa",
+   "D": "Refet Bey",
+   "E": "Albay İsmet Bey (İnönü)"
+  },
+  "dogru": "E",
+  "cozum": "Birinci İnönü Muharebesi'ne Albay İsmet Bey (sonradan İnönü) komuta etmiştir (Millî Mücadele Tarihi.txt, s.16-17).",
+  "hafiza_ipucu": "İsmet Bey İnönü'de kazandı, adını savaştan aldı.",
+  "kaynak": {
+   "dosya": "MİLLİ MÜCADELE TARİHİ.txt",
+   "sayfa": 16
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-021",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "TBMM Hükûmeti'nin Sovyet Rusya ile imzaladığı ve doğu sınırlarını Misak-ı Millî'ye uygun biçimde düzenleyen Moskova Antlaşması hangi tarihte imzalanmıştır?",
+  "siklar": {
+   "A": "16 Mart 1921",
+   "B": "20 Ekim 1921",
+   "C": "11 Ekim 1922",
+   "D": "24 Temmuz 1923",
+   "E": "20 Ocak 1921"
+  },
+  "dogru": "A",
+  "cozum": "Moskova Antlaşması 16 Mart 1921'de imzalanmış; Sovyetler Birliği TBMM Hükûmeti'ne maddi ve askeri yardımda bulunmayı kabul etmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.25,27).",
+  "hafiza_ipucu": "16 Mart: bahar başında doğu sınırı Moskova ile netleşti.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 25
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-022",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Sakarya Meydan Muharebesi'ndeki zaferi sonrasında TBMM tarafından Mustafa Kemal'e verilen unvanlar aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Başkomutan ve Cumhurbaşkanı",
+   "B": "Gazilik ve Mareşallik",
+   "C": "Halife ve Padişah",
+   "D": "Meclis Başkanı ve Genelkurmay Başkanı",
+   "E": "İstiklal Madalyası ve Şövalyelik"
+  },
+  "dogru": "B",
+  "cozum": "Eylül 1921'deki Sakarya zaferi sonrasında Mustafa Kemal'e Gazilik ve Mareşallik unvanları verilmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.27).",
+  "hafiza_ipucu": "Sakarya kıyısında omzuna Gazi apoleti takıldı.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 27
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-023",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Başkomutanlık Meydan Muharebesi (Büyük Taarruz) hangi tarihte başlamıştır?",
+  "siklar": {
+   "A": "13 Eylül 1921",
+   "B": "11 Ekim 1922",
+   "C": "30 Ağustos 1922",
+   "D": "24 Temmuz 1923",
+   "E": "5 Ağustos 1921"
+  },
+  "dogru": "C",
+  "cozum": "30 Ağustos 1922'de kazanılan Başkomutanlık Meydan Muharebesi ile Yunan ordusunun ana kuvvetleri Afyon-Kütahya arasında kesin biçimde yenilgiye uğratılmıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.28).",
+  "hafiza_ipucu": "30 Ağustos: Zafer Bayramı'nın kökeni.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-024",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "11 Ekim 1922'de imzalanan Mudanya Ateşkes Antlaşması'na aşağıdaki devletlerden hangisi taraf olarak katılmamıştır?",
+  "siklar": {
+   "A": "TBMM Hükûmeti",
+   "B": "İngiltere",
+   "C": "Fransa",
+   "D": "Yunanistan",
+   "E": "İtalya"
+  },
+  "dogru": "D",
+  "cozum": "Mudanya Ateşkes Antlaşması TBMM Hükûmeti ile İngiltere, Fransa ve İtalya arasında 11 Ekim 1922'de imzalanmış; antlaşmaya dahil edilmeyen Yunanistan 14 Ekim'de anlaşmayı kendiliğinden tanıdığını ilan etmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.28; Millî Mücadele Tarihi.txt, s.14).",
+  "hafiza_ipucu": "MUDANYAda MUTluyuz: zafer ateşkesi, Yunanistan masada yok.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-025",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "milli-mucadele-kronoloji",
+  "soru": "Türkiye'nin bağımsızlığının uluslararası alanda tescil edildiği Lozan Barış Antlaşması hangi tarihte ve kimin başkanlığındaki heyet tarafından imzalanmıştır?",
+  "siklar": {
+   "A": "11 Ekim 1922 - Rauf Orbay",
+   "B": "30 Ağustos 1922 - Fevzi Çakmak",
+   "C": "29 Ekim 1923 - Mustafa Kemal",
+   "D": "20 Kasım 1922 - Kazım Karabekir",
+   "E": "24 Temmuz 1923 - İsmet Paşa"
+  },
+  "dogru": "E",
+  "cozum": "Lozan Barış Antlaşması 24 Temmuz 1923'te, TBMM heyetinin başkanı İsmet Paşa (İnönü) tarafından imzalanmıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.28-29).",
+  "hafiza_ipucu": "Lozan = tapu senedi; imza İsmet Paşa'dan.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 29
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-026",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "TBMM'nin saltanatı kaldırma kararını oy birliğiyle aldığı tarih hangisidir?",
+  "siklar": {
+   "A": "1 Kasım 1922",
+   "B": "29 Ekim 1923",
+   "C": "3 Mart 1924",
+   "D": "24 Temmuz 1923",
+   "E": "20 Nisan 1924"
+  },
+  "dogru": "A",
+  "cozum": "TBMM, Lozan görüşmeleri öncesinde egemenlik konusunda iktidar ikiliğini önlemek amacıyla 1 Kasım 1922'de saltanatı kaldırma kararını oy birliğiyle almıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.31).",
+  "hafiza_ipucu": "22'de saltanAT gitti (1 Kasım 1922).",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 31
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-027",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Saltanatın kaldırılmasının ardından 18 Kasım 1922'de TBMM tarafından halife seçilen ve siyasi yetkisi olmadan yaklaşık 16 ay bu unvanı taşıyan kişi kimdir?",
+  "siklar": {
+   "A": "VI. Mehmet (Vahdettin)",
+   "B": "Abdülmecid Efendi",
+   "C": "II. Abdülhamit",
+   "D": "V. Mehmet Reşat",
+   "E": "III. Selim"
+  },
+  "dogru": "B",
+  "cozum": "TBMM 18 Kasım 1922'de Şehzade Abdülmecid Efendi'yi halife seçmiş, siyasi yetkisiz halifelik yaklaşık 16 ay sürmüştür (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.41).",
+  "hafiza_ipucu": "Abdülmecid: tahtsız, yalnız unvanlı halife.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 41
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-028",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Ankara'nın Türkiye'nin başkenti ilan edildiği tarih hangisidir?",
+  "siklar": {
+   "A": "23 Nisan 1920",
+   "B": "29 Ekim 1923",
+   "C": "13 Ekim 1923",
+   "D": "24 Temmuz 1923",
+   "E": "20 Nisan 1924"
+  },
+  "dogru": "C",
+  "cozum": "Lozan Antlaşması Meclis tarafından onaylandıktan sonra Ankara, 13 Ekim 1923'te başkent ilan edilmiş, Cumhuriyet'in ilanı bunu izlemiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.41,55).",
+  "hafiza_ipucu": "13 Ekim: başkent Ankara, 16 gün sonra Cumhuriyet.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 41
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-029",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Türkiye Cumhuriyeti'nin ilan edildiği tarih hangisidir?",
+  "siklar": {
+   "A": "13 Ekim 1923",
+   "B": "24 Temmuz 1923",
+   "C": "3 Mart 1924",
+   "D": "29 Ekim 1923",
+   "E": "20 Nisan 1924"
+  },
+  "dogru": "D",
+  "cozum": "Cumhuriyet, Anayasa'nın 1. maddesinde yapılan değişiklikle 29 Ekim 1923'te ilan edilmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.41).",
+  "hafiza_ipucu": "23'te CUMHUR geldi (29 Ekim 1923).",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 41
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-030",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Cumhuriyetin ilanı ile birlikte Mustafa Kemal Paşa'nın oy birliğiyle seçildiği makam ve atadığı ilk Başvekil (Başbakan) kimdir?",
+  "siklar": {
+   "A": "Meclis Başkanı - Rauf Orbay",
+   "B": "Halife - Kazım Karabekir",
+   "C": "Padişah - Fevzi Çakmak",
+   "D": "Genelkurmay Başkanı - Refet Bey",
+   "E": "Cumhurbaşkanı - İsmet Paşa"
+  },
+  "dogru": "E",
+  "cozum": "Mustafa Kemal Paşa 29 Ekim 1923'te 158 milletvekilinin oy birliğiyle Cumhurbaşkanı seçilmiş, Başvekilliğe İsmet Paşa'yı atamıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.41).",
+  "hafiza_ipucu": "Mustafa Kemal başkanlıkta, İsmet Paşa hükûmette.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 41
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-031",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Halifeliğin kaldırıldığı tarih hangisidir?",
+  "siklar": {
+   "A": "3 Mart 1924",
+   "B": "1 Kasım 1922",
+   "C": "29 Ekim 1923",
+   "D": "20 Nisan 1924",
+   "E": "17 Kasım 1924"
+  },
+  "dogru": "A",
+  "cozum": "Halifelik, 3 Mart 1924'te TBMM kararıyla kaldırılmış ve Osmanlı hanedanı yurt dışına çıkarılmıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.41-42).",
+  "hafiza_ipucu": "24'te HALİFE gitti (3 Mart 1924).",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 42
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-032",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Halifeliğin kaldırıldığı gün, tüm okulların Maarif Vekâleti'ne bağlanmasını sağlayan ve eğitimde birliği getiren kanun aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Teşkilat-ı Esasiye Kanunu",
+   "B": "Tevhid-i Tedrisat Kanunu",
+   "C": "Takrir-i Sükûn Kanunu",
+   "D": "Hıyanet-i Vataniye Kanunu",
+   "E": "Medeni Kanun"
+  },
+  "dogru": "B",
+  "cozum": "3 Mart 1924'te halifeliğin kaldırılmasıyla aynı gün kabul edilen Tevhid-i Tedrisat Kanunu, bütün okulları Maarif Vekâleti'ne bağlamıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.42).",
+  "hafiza_ipucu": "Aynı gün üçlüsü: halifelik gider, eğitim birleşir.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 42
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-033",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "3 Mart 1924'te Şer'iye ve Evkaf Vekâleti kaldırılırken yerine Başbakanlığa bağlı olarak kurulan iki kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Adliye Vekâleti ve Maarif Vekâleti",
+   "B": "Millî Eğitim Bakanlığı ve İçişleri Bakanlığı",
+   "C": "Diyanet İşleri Reisliği ve Vakıflar Umum Müdürlüğü",
+   "D": "İstiklal Mahkemeleri ve Diyanet İşleri Reisliği",
+   "E": "Maarif Vekâleti ve Vakıflar Umum Müdürlüğü"
+  },
+  "dogru": "C",
+  "cozum": "Şer'iye ve Evkaf Vekâleti kaldırılıp yerine Başbakanlığa bağlı Diyanet İşleri Reisliği ile Vakıflar Umum Müdürlüğü kurulmuştur (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.42).",
+  "hafiza_ipucu": "Tek vekalet ikiye bölündü: Diyanet + Vakıflar.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 42
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "REZ-034",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "1924 Anayasası TBMM'de hangi tarihte kabul edilmiştir?",
+  "siklar": {
+   "A": "3 Mart 1924",
+   "B": "17 Kasım 1924",
+   "C": "13 Şubat 1925",
+   "D": "20 Nisan 1924",
+   "E": "29 Ekim 1923"
+  },
+  "dogru": "D",
+  "cozum": "1924 Anayasası 20 Nisan 1924'te Mecliste kabul edilmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.42).",
+  "hafiza_ipucu": "20 Nisan: 1924'ün baharında yeni anayasa.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 42
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-035",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "1924 Anayasası'nın 3. maddesinde yer alan ve egemenliğin kaynağını belirten ilke aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Egemenlik cumhurbaşkanına aittir",
+   "B": "Egemenlik halifeye aittir",
+   "C": "Egemenlik orduya aittir",
+   "D": "Egemenlik hükûmete aittir",
+   "E": "Egemenlik kayıtsız şartsız millete aittir"
+  },
+  "dogru": "E",
+  "cozum": "1924 Anayasası'nın 3. maddesi egemenliğin kayıtsız şartsız millete ait olduğunu, 4. maddesi ise bu egemenliği kullanma yetkisinin TBMM'ye ait olduğunu belirtir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.42).",
+  "hafiza_ipucu": "3. madde: egemenlik millette, nokta.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 42
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-036",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Cumhuriyet döneminin ilk muhalefet partisi olan Terakkiperver Cumhuriyet Fırkası hangi tarihte kurulmuştur?",
+  "siklar": {
+   "A": "17 Kasım 1924",
+   "B": "13 Şubat 1925",
+   "C": "12 Ağustos 1930",
+   "D": "7 Ocak 1946",
+   "E": "3 Haziran 1925"
+  },
+  "dogru": "A",
+  "cozum": "Terakkiperver Cumhuriyet Fırkası (TpCF) 17 Kasım 1924'te kurulmuştur (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.43).",
+  "hafiza_ipucu": "TERAKKİ 24'te kuruldu, aynı hükûmet döneminde TERK edilecek (kapatılacak).",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 43
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-037",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Terakkiperver Cumhuriyet Fırkası'nın genel başkanlığını üstlenen Millî Mücadele komutanı kimdir?",
+  "siklar": {
+   "A": "Ali Fuat Cebesoy",
+   "B": "Kazım Karabekir Paşa",
+   "C": "Rauf Orbay",
+   "D": "Refet Bele",
+   "E": "Cafer Tayyar Eğilmez"
+  },
+  "dogru": "B",
+  "cozum": "TpCF'nin başkanlığını Kazım Karabekir Paşa, ikinci başkanlıklarını Rauf Orbay ve Adnan Adıvar üstlenmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.43).",
+  "hafiza_ipucu": "Karabekir Paşa, yeni fırkanın başında.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 43
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-038",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Şeyh Sait Ayaklanması hangi tarihte başlamıştır?",
+  "siklar": {
+   "A": "17 Kasım 1924",
+   "B": "4 Mart 1925",
+   "C": "13 Şubat 1925",
+   "D": "3 Haziran 1925",
+   "E": "16 Haziran 1926"
+  },
+  "dogru": "C",
+  "cozum": "Şeyh Sait Ayaklanması 13 Şubat 1925'te Genç'in Piran Köyü'nde başlamış, Doğu Anadolu'da geniş çaplı bir isyana dönüşmüştür (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.43-44).",
+  "hafiza_ipucu": "13 Şubat: kıvılcım Piran'dan yayıldı.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 43
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-039",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Şeyh Sait Ayaklanması üzerine hükûmete olağanüstü hâl yetkileri tanıyan Takrir-i Sükûn Kanunu hangi tarihte çıkarılmıştır?",
+  "siklar": {
+   "A": "13 Şubat 1925",
+   "B": "17 Kasım 1924",
+   "C": "3 Haziran 1925",
+   "D": "4 Mart 1925",
+   "E": "20 Nisan 1924"
+  },
+  "dogru": "D",
+  "cozum": "İsmet Paşa hükûmeti güvenoyu aldığı gün, 4 Mart 1925'te Takrir-i Sükûn Kanunu çıkarılmış, iki yıl yürürlükte kalmıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.44).",
+  "hafiza_ipucu": "4 Mart: sükûnu sağlama kanunu.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 44
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-040",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Terakkiperver Cumhuriyet Fırkası, Şeyh Sait Ayaklanması ile ilişkilendirilerek hangi tarihte Takrir-i Sükûn Kanunu'na dayanılarak tamamen kapatılmıştır?",
+  "siklar": {
+   "A": "17 Kasım 1924",
+   "B": "13 Şubat 1925",
+   "C": "4 Mart 1925",
+   "D": "12 Ağustos 1930",
+   "E": "3 Haziran 1925"
+  },
+  "dogru": "E",
+  "cozum": "TpCF, ayaklanma ile bağlantılı görülerek 3 Haziran 1925'te hükûmet kararıyla tamamen kapatılmıştır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.45).",
+  "hafiza_ipucu": "TERAKKİ 24'te doğdu, 25'te TERK edildi (kapatıldı).",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 45
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-041",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Mustafa Kemal'in isteğiyle Fethi Okyar tarafından kurulan ve güdümlü muhalefet denemesi olarak bilinen Serbest Cumhuriyet Fırkası hangi yılda kurulmuştur?",
+  "siklar": {
+   "A": "1930",
+   "B": "1924",
+   "C": "1925",
+   "D": "1946",
+   "E": "1950"
+  },
+  "dogru": "A",
+  "cozum": "Serbest Cumhuriyet Fırkası (SCF) Ağustos 1930'da Fethi Okyar liderliğinde kurulmuştur (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.47).",
+  "hafiza_ipucu": "SERBEST 30'da doğdu, kendi kendini SERBEST bıraktı (feshetti).",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 47
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-042",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Serbest Cumhuriyet Fırkası ne kadar süre faaliyette kaldıktan sonra kendini feshetmiştir?",
+  "siklar": {
+   "A": "Bir yıl",
+   "B": "Yaklaşık üç ay",
+   "C": "İki yıl",
+   "D": "Beş yıl",
+   "E": "On yıl"
+  },
+  "dogru": "B",
+  "cozum": "SCF, Ağustos 1930'da kuruluşundan yaklaşık üç ay sonra, Kasım 1930'da kendini feshetmiştir (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.47).",
+  "hafiza_ipucu": "Üç ayda açtı, üç ayda kapattı.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 47
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-043",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "7 Haziran 1945'te CHP Meclis Grubu'na sunulan ve Demokrat Parti'nin kuruluşuna zemin hazırlayan Dörtlü Takrir'i imzalayanlar arasında aşağıdakilerden hangisi YER ALMAZ?",
+  "siklar": {
+   "A": "Celal Bayar",
+   "B": "Adnan Menderes",
+   "C": "Fevzi Çakmak",
+   "D": "Refik Koraltan",
+   "E": "Mehmet Fuad Köprülü"
+  },
+  "dogru": "C",
+  "cozum": "Dörtlü Takrir'i Celal Bayar, Adnan Menderes, Refik Koraltan ve Mehmet Fuad Köprülü imzalamıştır; Fevzi Çakmak bu dörtlü arasında yer almaz (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.59,61).",
+  "hafiza_ipucu": "Dörtlü: Bayar-Menderes-Koraltan-Köprülü, Çakmak yok.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "REZ-044",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Demokrat Parti hangi tarihte ve kimin genel başkanlığında kurulmuştur?",
+  "siklar": {
+   "A": "14 Mayıs 1950 - Adnan Menderes",
+   "B": "17 Kasım 1924 - Kazım Karabekir",
+   "C": "Ağustos 1930 - Fethi Okyar",
+   "D": "7 Ocak 1946 - Celal Bayar",
+   "E": "21 Temmuz 1946 - İsmet İnönü"
+  },
+  "dogru": "D",
+  "cozum": "Demokrat Parti (DP), CHP'den ayrılan Bayar, Menderes, Koraltan ve Köprülü tarafından 7 Ocak 1946'da Celal Bayar'ın genel başkanlığında kurulmuştur (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.61).",
+  "hafiza_ipucu": "46'da Ocak ayında Bayar'ın partisi doğdu.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-045",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cumhuriyet-kilometre-taslari",
+  "soru": "Türkiye'de tek parti iktidarının serbest genel seçimler sonucunda barışçıl biçimde el değiştirdiği ve Demokrat Parti'nin iktidara geldiği seçim hangi tarihte yapılmıştır?",
+  "siklar": {
+   "A": "21 Temmuz 1946",
+   "B": "7 Ocak 1946",
+   "C": "29 Ekim 1923",
+   "D": "3 Mart 1924",
+   "E": "14 Mayıs 1950"
+  },
+  "dogru": "E",
+  "cozum": "14 Mayıs 1950 genel seçimleriyle CHP'nin 27 yıllık tek parti iktidarı sona ermiş, Demokrat Parti iktidara gelmiştir; bu barışçıl geçiş dönemin kaynaklarında 'Kansız Devrim' olarak da anılır (Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt, s.64).",
+  "hafiza_ipucu": "14 Mayıs 1950: sandıkta sessiz devrim.",
+  "kaynak": {
+   "dosya": "Türkiye Cumhuriyeti Siyasi Tarihi_Anadolu Üni_2.txt",
+   "sayfa": 64
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-046",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "1991'de SSCB'nin dağılmasının ardından bağımsızlığını kazanan Türk cumhuriyetlerinin sayısı kaçtır?",
+  "siklar": {
+   "A": "5",
+   "B": "3",
+   "C": "6",
+   "D": "7",
+   "E": "4"
+  },
+  "dogru": "A",
+  "cozum": "1991'de SSCB dağılınca Azerbaycan, Kazakistan, Özbekistan, Kırgızistan ve Türkmenistan olmak üzere 5 Türk cumhuriyeti bağımsızlığını ilan etmiştir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.84).",
+  "hafiza_ipucu": "Kızıl perde yırtıldı, beş bayrak yükseldi.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 84
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-047",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Azerbaycan Cumhuriyeti'nin başkenti neresidir?",
+  "siklar": {
+   "A": "Tiflis",
+   "B": "Bakü",
+   "C": "Erivan",
+   "D": "Gence",
+   "E": "Nahçıvan"
+  },
+  "dogru": "B",
+  "cozum": "Azerbaycan Cumhuriyeti'nin başkenti Bakü'dür (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.70).",
+  "hafiza_ipucu": "BAKÜde ASTANa TAŞKENTten BİŞKEK ALdı AŞKABATta zincirinin ilk halkası.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-048",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Kazakistan Cumhuriyeti'nin bugünkü başkenti neresidir?",
+  "siklar": {
+   "A": "Almatı",
+   "B": "Taşkent",
+   "C": "Astana",
+   "D": "Bişkek",
+   "E": "Semerkand"
+  },
+  "dogru": "C",
+  "cozum": "Kazakistan'ın başkenti, eski başkent Almatı'dan taşınarak Astana olmuştur (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.121-123).",
+  "hafiza_ipucu": "ASTAna-kazAK: kuzeye taşınan yeni başkent.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 121
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-049",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Özbekistan Cumhuriyeti'nin başkenti neresidir?",
+  "siklar": {
+   "A": "Semerkand",
+   "B": "Buhara",
+   "C": "Hive",
+   "D": "Taşkent",
+   "E": "Fergana"
+  },
+  "dogru": "D",
+  "cozum": "Özbekistan'ın başkenti Taşkent'tir; Semerkand ise Sovyet dönemi Özbek Cumhuriyeti'nin ilk başkenti olmuştur (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.175).",
+  "hafiza_ipucu": "TAŞKENTten geçen zincirin üçüncü halkası.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 175
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-050",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Kırgızistan Cumhuriyeti'nin başkenti neresidir?",
+  "siklar": {
+   "A": "Oş",
+   "B": "Talas",
+   "C": "Almatı",
+   "D": "Narın",
+   "E": "Bişkek"
+  },
+  "dogru": "E",
+  "cozum": "Kırgızistan'ın başkenti Bişkek'tir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.147).",
+  "hafiza_ipucu": "BİŞKEK ALdı zincirin dördüncü halkası.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 147
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-051",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Türkmenistan Cumhuriyeti'nin başkenti neresidir?",
+  "siklar": {
+   "A": "Aşkabat",
+   "B": "Merv",
+   "C": "Türkmenbaşı",
+   "D": "Daşoğuz",
+   "E": "Mari"
+  },
+  "dogru": "A",
+  "cozum": "Türkmenistan'ın başkenti Aşkabat'tır (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.203).",
+  "hafiza_ipucu": "AŞKABATta zincir tamamlandı: Bakü-Astana-Taşkent-Bişkek-Aşkabat.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 203
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-052",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Aşağıdaki ülke-başkent eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Azerbaycan - Bakü",
+   "B": "Kırgızistan - Aşkabat",
+   "C": "Kazakistan - Astana",
+   "D": "Özbekistan - Taşkent",
+   "E": "Türkmenistan - Aşkabat"
+  },
+  "dogru": "B",
+  "cozum": "Aşkabat, Kırgızistan'ın değil Türkmenistan'ın başkentidir; Kırgızistan'ın başkenti Bişkek'tir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.147,203).",
+  "hafiza_ipucu": "ASTAna-kazAK; AŞKabat-türkMEN: harf benzerliğiyle ayırt et.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 147
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-053",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Azerbaycan, SSCB'den bağımsızlığını hangi tarihte ilan etmiştir?",
+  "siklar": {
+   "A": "31 Ağustos 1991",
+   "B": "1 Eylül 1991",
+   "C": "Ekim 1991",
+   "D": "16 Aralık 1991",
+   "E": "28 Mayıs 1918"
+  },
+  "dogru": "C",
+  "cozum": "Azerbaycan, SSCB'nin dağılma sürecinde Ekim 1991'de bağımsızlığını ilan etmiştir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.84).",
+  "hafiza_ipucu": "Ekim 1991: SSCB sonrası Hazar kıyısında yeni bayrak.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 84
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-054",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Transkafkasya Federe Cumhuriyeti'nden ayrılıp bağımsızlığını ilan eden ilk cumhuriyet olan ve 28 Mayıs 1918'de Tiflis'teki toplantıda kurulan Azerbaycan Halk Cumhuriyeti hangi seçenekte doğru tarihlendirilmiştir?",
+  "siklar": {
+   "A": "Ekim 1991 - Bakü",
+   "B": "16 Aralık 1991 - Astana",
+   "C": "29 Ekim 1923 - Ankara",
+   "D": "28 Mayıs 1918 - Tiflis",
+   "E": "31 Ağustos 1991 - Bişkek"
+  },
+  "dogru": "D",
+  "cozum": "Azerbaycan Millî Şûrâsı, 28 Mayıs 1918'de Tiflis'teki tarihî toplantısında Azerbaycan'ın bağımsızlığını ilan etmiş, Transkafkasya Federe Cumhuriyeti'nden ayrılıp bağımsızlığını ilan eden ilk cumhuriyet olmuştur (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.70).",
+  "hafiza_ipucu": "1918 Tiflis'te ilk bağımsızlık kıvılcımı, 1991'de ikinci kez doğdu.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-055",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "SSCB'den bağımsızlığını en son ilan eden Türk cumhuriyeti olan Kazakistan hangi tarihte bağımsızlığını ilan etmiştir?",
+  "siklar": {
+   "A": "Ekim 1991",
+   "B": "31 Ağustos 1991",
+   "C": "1 Eylül 1991",
+   "D": "28 Mayıs 1918",
+   "E": "16 Aralık 1991"
+  },
+  "dogru": "E",
+  "cozum": "Kazakistan, Nazarbayev'in başkanlık seçimini kazanmasının hemen ardından 16 Aralık 1991'de bağımsızlığını ilan etmiş, SSCB'den ayrılan son cumhuriyet olmuştur (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.120).",
+  "hafiza_ipucu": "16 Aralık: yılın sonunda son bağımsızlık.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-056",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Kırgızistan hangi tarihte bağımsızlığını ilan etmiştir?",
+  "siklar": {
+   "A": "31 Ağustos 1991",
+   "B": "1 Eylül 1991",
+   "C": "Ekim 1991",
+   "D": "16 Aralık 1991",
+   "E": "28 Mayıs 1918"
+  },
+  "dogru": "A",
+  "cozum": "Kırgızistan 31 Ağustos 1991'de bağımsızlığını ilan etmiş, Ekim 1991 seçimlerinde Akayev ilk cumhurbaşkanı seçilmiştir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.149-150).",
+  "hafiza_ipucu": "31 Ağustos: yaz sonunda bağımsızlık.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 149
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-057",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Özbekistan hangi tarihte bağımsızlığını ilan etmiştir?",
+  "siklar": {
+   "A": "31 Ağustos 1991",
+   "B": "1 Eylül 1991",
+   "C": "16 Aralık 1991",
+   "D": "Ekim 1991",
+   "E": "28 Mayıs 1918"
+  },
+  "dogru": "B",
+  "cozum": "Özbekistan, Moskova'daki darbe girişiminin başarısızlıkla sonuçlanmasının ardından 1 Eylül 1991'de bağımsızlığını ilan etmiştir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.184).",
+  "hafiza_ipucu": "1 Eylül: Kırgızistan'dan bir gün sonra Özbekistan da bağımsız.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 184
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-058",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Türkmenistan, 1990'da egemenliğini ilan ettikten sonra halkoylamasıyla hangi tarihte bağımsızlığını ilan etmiştir?",
+  "siklar": {
+   "A": "31 Ağustos 1991",
+   "B": "16 Aralık 1991",
+   "C": "Ekim 1991",
+   "D": "1 Eylül 1991",
+   "E": "28 Mayıs 1918"
+  },
+  "dogru": "C",
+  "cozum": "Türkmenistan 1990'da egemenliğini, Ekim 1991'de yapılan halk oylamasıyla da bağımsızlığını ilan etmiştir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.205).",
+  "hafiza_ipucu": "Ekim 1991: Azerbaycan'la aynı ay, farklı uçta bağımsızlık.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 205
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-059",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Tarihi İpek Yolu üzerindeki Semerkand, Buhara ve Hive şehirleri bugün hangi Türk cumhuriyetinin sınırları içindedir?",
+  "siklar": {
+   "A": "Kazakistan",
+   "B": "Kırgızistan",
+   "C": "Türkmenistan",
+   "D": "Özbekistan",
+   "E": "Azerbaycan"
+  },
+  "dogru": "D",
+  "cozum": "Semerkand, Buhara ve Hive, tarihî İpek Yolu'nun önemli merkezleri olup bugün Özbekistan sınırları içindedir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.175-199).",
+  "hafiza_ipucu": "Semerkand-Buhara-Hive: Özbekistan'ın üç inci şehri.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 175
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-060",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Sovyet döneminde kurulan Özbek Sovyet Sosyalist Cumhuriyeti'nin ilk başkenti neresi olmuş, daha sonra başkent hangi şehre taşınmıştır?",
+  "siklar": {
+   "A": "Taşkent'ten Semerkand'a",
+   "B": "Hive'den Buhara'ya",
+   "C": "Buhara'dan Hive'ye",
+   "D": "Taşkent'ten Buhara'ya",
+   "E": "Semerkand'dan Taşkent'e"
+  },
+  "dogru": "E",
+  "cozum": "Özbekistan'ın ilk başkenti Semerkand olmuş, daha sonra başkent Taşkent'e taşınmıştır (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.175).",
+  "hafiza_ipucu": "Semerkand ilk sahne, Taşkent kalıcı başkent.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 175
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "REZ-061",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Türk-İslam dünyasının önemli manevi merkezlerinden olan Hoca Ahmed Yesevi'nin türbesinin ve adını taşıyan üniversitenin bulunduğu Türkistan şehri hangi ülkededir?",
+  "siklar": {
+   "A": "Kazakistan",
+   "B": "Özbekistan",
+   "C": "Kırgızistan",
+   "D": "Türkmenistan",
+   "E": "Azerbaycan"
+  },
+  "dogru": "A",
+  "cozum": "Hoca Ahmed Yesevi'nin türbesinin bulunduğu Türkistan şehri Kazakistan'dadır; şehirde onun adını taşıyan Hoca Ahmet Yesevi Türk-Kazak Üniversitesi hizmet vermektedir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.137).",
+  "hafiza_ipucu": "Türkistan şehri = Yesevi'nin toprağı, Kazakistan'da.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 137
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-062",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Kahramanı Manas'ın sekiz kuşağının Kırgız halkına liderlik ederek özgürlük mücadelesi verdiğini anlatan, dünyanın en uzun sözlü destanlarından biri kabul edilen eser aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Dede Korkut Hikâyeleri",
+   "B": "Manas Destanı",
+   "C": "Kutadgu Bilig",
+   "D": "Divanü Lugati't-Türk",
+   "E": "Köroğlu Destanı"
+  },
+  "dogru": "B",
+  "cozum": "Manas Destanı, Kırgızların efsanevi kahramanı Manas ve ailesinin sekiz kuşağının mücadelesini anlatan sözlü destan geleneğinin en önemli örneğidir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.156-159).",
+  "hafiza_ipucu": "Manas = Kırgız'ın destan kahramanı.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 156
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-063",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Manas Destanı'nı ilk kez 1869 yılında derleyen Batılı Türkolog kimdir?",
+  "siklar": {
+   "A": "Vilhelm Thomsen",
+   "B": "Louis Bazin",
+   "C": "W. Radloff",
+   "D": "Vasili Barthold",
+   "E": "Nikolay Katanov"
+  },
+  "dogru": "C",
+  "cozum": "Manas Destanı ilk kez 1869 yılında Türkolog W. Radloff tarafından derlenmiştir (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.165).",
+  "hafiza_ipucu": "Radloff: destanı ilk deftere geçiren.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 165
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "REZ-064",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Dinî bir özelliği olmadığı hâlde tüm Orta Asya Türk halklarının ortak bayramı olan ve Sovyet döneminde kutlanması yasaklanan bayram aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kurban Bayramı",
+   "B": "Ramazan Bayramı",
+   "C": "Zafer Bayramı",
+   "D": "Nevruz",
+   "E": "Cumhuriyet Bayramı"
+  },
+  "dogru": "D",
+  "cozum": "Nevruz, dinî bir özelliği olmamasına rağmen tüm Orta Asya halklarının ortak bayramıdır; Sovyet döneminde kutlanması yasaklanmıştır (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.26).",
+  "hafiza_ipucu": "Nevruz: Türk dünyasının ortak baharı.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-065",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Türk dünyasının ortak işbirliği platformu olarak kurulan ve merkezi İstanbul'da bulunan Türk Konseyi'nin ilk üyeleri arasında aşağıdakilerden hangisi YER ALMAZ?",
+  "siklar": {
+   "A": "Azerbaycan",
+   "B": "Kazakistan",
+   "C": "Kırgızistan",
+   "D": "Türkiye",
+   "E": "Özbekistan"
+  },
+  "dogru": "E",
+  "cozum": "Türk Konseyi'nin ilk üyeleri Azerbaycan, Kazakistan, Kırgızistan ve Türkiye'dir; merkezi İstanbul'dur (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.132).",
+  "hafiza_ipucu": "Dörtlü Konsey: Azerbaycan-Kazakistan-Kırgızistan-Türkiye.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 132
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-066",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Türk Konseyi'nin merkezi hangi şehirdedir?",
+  "siklar": {
+   "A": "İstanbul",
+   "B": "Bakü",
+   "C": "Astana",
+   "D": "Ankara",
+   "E": "Bişkek"
+  },
+  "dogru": "A",
+  "cozum": "Türk Konseyi'nin merkezi İstanbul'dur (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.132).",
+  "hafiza_ipucu": "Konsey İstanbul'da toplanır.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 132
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "REZ-067",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Türk Konseyi çatısı altında kurulan ve merkezi Astana'da bulunan kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "TÜRKPA",
+   "B": "Türk Akademisi",
+   "C": "TÜRKSOY",
+   "D": "Türk Dil Kurumu",
+   "E": "Türk Tarih Kurumu"
+  },
+  "dogru": "B",
+  "cozum": "Türk Konseyi çerçevesinde merkezi Astana'da olan Türk Akademisi kurulmuştur (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.132).",
+  "hafiza_ipucu": "Akademi Astana'da, Konsey İstanbul'da.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 132
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-068",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Türk Konseyi'ne bağlı Parlamenterler Asamblesi (TÜRKPA)'nın merkezi hangi şehirdedir?",
+  "siklar": {
+   "A": "İstanbul",
+   "B": "Astana",
+   "C": "Bakü",
+   "D": "Bişkek",
+   "E": "Aşkabat"
+  },
+  "dogru": "C",
+  "cozum": "Parlamenterler Asamblesi TÜRKPA'nın merkezi Azerbaycan'ın başkenti Bakü'dür (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.132).",
+  "hafiza_ipucu": "TÜRKPA Bakü'de, Akademi Astana'da, Konsey İstanbul'da.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 132
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-069",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "Orta Asya Türk cumhuriyetleri arasında yüzölçümü bakımından en büyük ülke aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Özbekistan",
+   "B": "Kırgızistan",
+   "C": "Türkmenistan",
+   "D": "Kazakistan",
+   "E": "Tacikistan"
+  },
+  "dogru": "D",
+  "cozum": "Kazakistan, 2,7 milyon km²'lik yüzölçümüyle Orta Asya Türk cumhuriyetleri arasında en büyük ülkedir; dünya sıralamasında dokuzuncu sırada yer alır (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.106).",
+  "hafiza_ipucu": "Kazakistan: Türkiye'nin dört katı genişlik.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 106
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "REZ-070",
+  "konu": "Milli Mücadele-Cumhuriyet-Türk Dünyası",
+  "alt_konu": "cagdas-turk-dunyasi",
+  "soru": "5 Türk cumhuriyetinin bağımsızlığını kazanmasına yol açan tarihsel gelişme aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Birinci Dünya Savaşı'nın sona ermesi",
+   "B": "Osmanlı Devleti'nin dağılması",
+   "C": "Soğuk Savaş'ın başlaması",
+   "D": "II. Dünya Savaşı'nın sona ermesi",
+   "E": "SSCB'nin (Sovyetler Birliği'nin) dağılması"
+  },
+  "dogru": "E",
+  "cozum": "1991'de SSCB'nin dağılmasıyla Azerbaycan, Kazakistan, Özbekistan, Kırgızistan ve Türkmenistan bağımsızlıklarını kazanmıştır (Çağdaş Türk Dünyası_Anadolu Üni.txt, s.84,120,149-150,184,205).",
+  "hafiza_ipucu": "1991: kızıl perde yırtılır, beş yeni devlet doğar.",
+  "kaynak": {
+   "dosya": "Çağdaş Türk Dünyası_Anadolu Üni.txt",
+   "sayfa": 84
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ }
+]

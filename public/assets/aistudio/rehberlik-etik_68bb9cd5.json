@@ -1,0 +1,772 @@
+[
+ {
+  "id": "RET-001",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "gorevi-olmayan-vize",
+  "soru": "Aşağıdakilerden hangisi turist rehberinin görevleri arasında yer almaz?",
+  "siklar": {
+   "A": "Turistlerin vize ve pasaport işlemleriyle bizzat ilgilenmek",
+   "B": "Turu programa uygun yönetmek",
+   "C": "Turist sağlığı ve güvenliğini gözetmek",
+   "D": "Grup düzenini sağlamak",
+   "E": "Ülkeyi doğru temsil etmek"
+  },
+  "dogru": "A",
+  "cozum": "Vize ve pasaport işlemleri turistin veya seyahat acentasının sorumluluğundadır; rehberin görev alanına girmez. Rehberin görevleri tur yönetimi, doğru bilgi aktarımı, sağlık-güvenlik ve temsil etrafında toplanır (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Rehberin elinde mikrofon vardır, kaşe (vize damgası) yoktur — kaşe işi acentanın/konsolosluğun işidir.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 s.no 59 (turistlerin vize işlemleriyle ilgilenmek rehberin görevi değildir — direkt akraba)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-002",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "gorevi-olmayan-vize-senaryo",
+  "soru": "Rehber Aslı, turu sırasında bir turistin pasaportunu yenileme işlemi için konsolosluğa gitmesi gerektiğini öğrenir. Aslı'nın izlemesi gereken doğru tutum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Turisti bırakıp konsolosluğa birlikte gitmek",
+   "B": "Bu işlemin kendi görevi olmadığını nazikçe belirtip turisti acenta ya da ilgili mercie yönlendirmek",
+   "C": "Turun geri kalanını iptal etmek",
+   "D": "Turist grubunu konsolosluk önünde beklemeye almak",
+   "E": "Pasaport işlemini kendisi acenta adına yürütmek"
+  },
+  "dogru": "B",
+  "cozum": "Vize/pasaport işlemleri rehberin görev tanımı dışındadır; rehber turu aksatmadan turisti doğru mercie yönlendirmelidir (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Kaşe işi rehberde değil — nazikçe yönlendir, turu bölme.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-003",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "gorevler-coklu-madde",
+  "soru": "I. Turu programa uygun yönetmek\nII. Turist sağlığı ve güvenliğini gözetmek\nIII. Turistler adına otel rezervasyonu ve işletmeciliği yapmak\nIV. Grup düzenini sağlamak\nYukarıdakilerden hangileri turist rehberinin görevleri arasındadır?",
+  "siklar": {
+   "A": "Yalnız III",
+   "B": "I ve III",
+   "C": "I, II ve IV",
+   "D": "II, III ve IV",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "C",
+  "cozum": "Otel işletmeciliği ayrı bir meslek alanıdır; rehberin görevi değildir. Rehberin görevleri programı yönetmek, sağlık-güvenliği gözetmek ve grup düzenini sağlamaktır (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Otel işletmeciliği = otelcinin işi, rehberin değil.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-004",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "gorevi-olmayan-bilet-komisyon",
+  "soru": "Aşağıdakilerden hangisi turist rehberinin değil, seyahat acentasının görev alanına girer?",
+  "siklar": {
+   "A": "Doğru ve güncel bilgi aktarmak",
+   "B": "Grup düzenini sağlamak",
+   "C": "Turistlerle empatik iletişim kurmak",
+   "D": "Bilet satışı ve komisyonculuğu yürütmek",
+   "E": "Kriz anında sorunu kabul edip çözüm üretmek"
+  },
+  "dogru": "D",
+  "cozum": "Bilet satışı ve komisyonculuk işlemleri acentanın ticari faaliyet alanındadır; rehberin görevi turu yönetmek ve turiste doğru rehberlik etmektir (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Rehberin cebi para değil bilgi taşır.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-005",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "tur-oncesi-gorev",
+  "soru": "Rehber Kemal, tur programında yer alan müzelerin giriş saatlerini ve ücretlerini tur öncesinde güncel kaynaklardan kontrol eder. Bu davranış turist rehberinin hangi görev alanıyla ilgilidir?",
+  "siklar": {
+   "A": "Tur sonu işlemleri",
+   "B": "Otel işletmeciliği",
+   "C": "Vize işlemleri",
+   "D": "Bilet komisyonculuğu",
+   "E": "Tur öncesi hazırlık"
+  },
+  "dogru": "E",
+  "cozum": "Müze ve ören yeri bilgilerini güncelleyerek turla ilgili hazırlık yapmak, rehberin tur öncesi görevleri arasındadır (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Tur başlamadan önce yapılan her kontrol = tur öncesi hazırlık.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-006",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "role-cevre-koruyucu",
+  "soru": "Bir eko-tur rehberinin, turistleri doğal alanlardaki olası tehlikelere karşı uyarması ve çevreyi korumaya yönlendirmesi aşağıdaki rehber rollerinden hangisiyle en çok ilişkilidir?",
+  "siklar": {
+   "A": "Çevre koruyucu",
+   "B": "Kültür elçisi",
+   "C": "Eğlendirici",
+   "D": "Arabulucu",
+   "E": "Bilgi aktarıcı"
+  },
+  "dogru": "A",
+  "cozum": "Eko tur rehberlerinin üstlenmesi gereken en önemli rol çevre koruyucu rolüdür (TURİST REH VE ETİK s.8-9).",
+  "hafiza_ipucu": "Eko = ekoloji = çevre koruyucu rol.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-007",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "role-arabulucu",
+  "soru": "Tur esnasında iki turist arasında çıkan bir anlaşmazlığı yatıştırıp tarafları uzlaştıran rehber, hangi rolü üstlenmiş olur?",
+  "siklar": {
+   "A": "Kültür elçisi",
+   "B": "Arabulucu",
+   "C": "Koruyucu",
+   "D": "Eğlendirici",
+   "E": "Lider/yönetici"
+  },
+  "dogru": "B",
+  "cozum": "Anlaşmazlıkta tarafları uzlaştıran, aracılık eden kişiye arabulucu denir; bu, rehberin üstlenebileceği rollerden biridir (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Arabulucu = araya giren, barıştıran.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-008",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "gorevi-olmayan-otel-isletmeciligi",
+  "soru": "Rehber Ece, turdaki bir otelin oda tahsisi ve nakit akışıyla ilgili idari işleriyle bizzat ilgilenmek ister. Bu istek neden rehberin görev tanımıyla bağdaşmaz?",
+  "siklar": {
+   "A": "Çünkü rehberin yabancı dil bilmesi gerekir",
+   "B": "Çünkü turistler bunu istemez",
+   "C": "Çünkü bu, otel işletmeciliği kapsamına giren bir iştir ve rehberin görevi değildir",
+   "D": "Çünkü acenta bunu her zaman yasaklamıştır",
+   "E": "Çünkü bu doğrudan bir etik ihlalidir"
+  },
+  "dogru": "C",
+  "cozum": "Otel işletmeciliğine ilişkin idari işler otel yönetiminin sorumluluğundadır; rehberin görevi programı yönetmek ve turisti doğru bilgilendirmektir (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Otelin kasası otelcinin işi, rehberin mikrofonu kendi işi.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-009",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "durustluk-ilkesi-tanim",
+  "soru": "Turistlere bilmediği bir konuda bilgi uydurmak yerine, bilgiyi araştırıp doğru şekilde aktarmayı ilke edinen bir rehber, öncelikle hangi etik ilkeye uygun davranmış olur?",
+  "siklar": {
+   "A": "Tarafsızlık",
+   "B": "Gizlilik",
+   "C": "Mesleğe saygı",
+   "D": "Dürüstlük",
+   "E": "Adalet"
+  },
+  "dogru": "D",
+  "cozum": "Turisti yanıltmamak, gerçek dışı bilgi vermemek dürüstlük ilkesinin özüdür (TURİST REH VE ETİK s.18).",
+  "hafiza_ipucu": "Bilmiyorsan uydurma, yanıltma = dürüstlük.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "Şubat 2025 s.no 85 (turistlere yanlış bilgi vermek etik olmayan davranıştır — dürüstlük ilkesinin ihlali, akraba tema)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-010",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "durustluk-ilkesi-negatif",
+  "soru": "Aşağıdakilerden hangisi meslek etiğinde dürüstlük ilkesiyle bağdaşan bir davranıştır?",
+  "siklar": {
+   "A": "İşletmelerden bahşiş istemek",
+   "B": "Kişisel siyasi görüşünü aktarmak",
+   "C": "Turistleri belirli bir mağazaya yönlendirmek",
+   "D": "Turu erken bitirip dinlenmek",
+   "E": "Bilmediği bir konuda turiste gerçek dışı bilgi vermemek"
+  },
+  "dogru": "E",
+  "cozum": "Dürüstlük ilkesi, gerçek dışı bilgi vermemeyi yani turisti yanıltmamayı kapsar; diğer şıklar etik dışı davranış örnekleridir (TURİST REH VE ETİK s.18).",
+  "hafiza_ipucu": "Dürüstlük = uydurmadan, yanıltmadan bilgi vermek.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "Mart 2026 s.no 78 (dürüstlük ilkesi kapsamında değerlendirilen davranış = gerçek dışı bilgi vermemek — direkt akraba)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-011",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "tarafsizlik-ilkesi-tanim",
+  "soru": "Din, dil, ırk ya da milliyet farkı gözetmeksizin tüm turistlere eşit mesafede davranmak, aşağıdaki etik ilkelerden hangisiyle açıklanır?",
+  "siklar": {
+   "A": "Tarafsızlık",
+   "B": "Dürüstlük",
+   "C": "Gizlilik",
+   "D": "Mesleğe saygı",
+   "E": "Sadakat"
+  },
+  "dogru": "A",
+  "cozum": "Ayrım yapmadan eşit davranmak tarafsızlık ilkesinin gereğidir; turist rehberlerinin ilişki kurallarından biridir (TURİST REH VE ETİK s.18-19).",
+  "hafiza_ipucu": "Tarafsızlık = ayrım yapmamak, herkese aynı mesafe.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-012",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "etik-degil-kisisel-gorus",
+  "soru": "Rehber Burak, tur sırasında kendi siyasi görüşlerini genel geçer bir doğruymuş gibi turist grubuna anlatır. Bu davranış öncelikle hangi açıdan etik dışıdır?",
+  "siklar": {
+   "A": "Turu geciktirdiği için",
+   "B": "Tarafsızlık ilkesini ihlal ettiği için",
+   "C": "Yabancı dil kullanmadığı için",
+   "D": "Grup düzenini bozduğu için",
+   "E": "Bilgi aktarma görevini yerine getirmediği için"
+  },
+  "dogru": "B",
+  "cozum": "Kişisel siyasi/dini görüşü turiste dayatmak tarafsızlık ilkesine aykırıdır ve etik dışı kabul edilir (TURİST REH VE ETİK s.18-19).",
+  "hafiza_ipucu": "Rehberin mikrofonu tarafsız bir mikrofondur; kişisel görüş için değil.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 s.no 79 (kişisel görüşünü genel görüşmüş gibi anlatması etik olmayan davranıştır — direkt akraba)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-013",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "etik-degil-bahsis",
+  "soru": "Aşağıdakilerden hangisi turist rehberi için etik olmayan bir davranıştır?",
+  "siklar": {
+   "A": "Turiste doğru ve güncel bilgi vermek",
+   "B": "Grup düzenini sağlamak",
+   "C": "İşletmelerden bahşiş istemek",
+   "D": "Turistin sağlığını gözetmek",
+   "E": "Turisti nazikçe karşılamak"
+  },
+  "dogru": "C",
+  "cozum": "Turistin kendi isteğiyle verdiği bahşişi kabul etmek farklı, bahşişi istemek ise etik dışıdır; kişisel çıkar mesleğin önüne geçemez (TURİST REH VE ETİK s.18).",
+  "hafiza_ipucu": "Bahşiş alınabilir ama İSTENEMEZ.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "Mart 2026 s.no 78 (E şıkkı: işletmelerden bahşiş istemek — etik dışı davranış örneği olarak akraba)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-014",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "gizlilik-ilkesi-senaryo",
+  "soru": "Rehber Sevgi, bir turistin sağlık durumu hakkında öğrendiği özel bilgiyi grubun geri kalanıyla paylaşır. Bu davranış hangi etik ilkeye aykırıdır?",
+  "siklar": {
+   "A": "Dürüstlük",
+   "B": "Tarafsızlık",
+   "C": "Mesleğe saygı",
+   "D": "Gizlilik",
+   "E": "Adalet"
+  },
+  "dogru": "D",
+  "cozum": "Turiste ait kişisel bilgilerin izinsiz üçüncü kişilerle paylaşılmaması gizlilik ilkesinin gereğidir (TURİST REH VE ETİK s.18-19).",
+  "hafiza_ipucu": "Turistin özeli, rehberin sırrı; grubun malzemesi değil.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-015",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "etik-degil-coklu-madde",
+  "soru": "I. Turisti belirli bir mağazaya alışverişe zorlamak\nII. Doğru ve güncel bilgi aktarmak\nIII. Habersiz komisyonlu alışveriş molası eklemek\nIV. Turist güvenliğini gözetmek\nYukarıdakilerden hangileri etik olmayan davranışlardandır?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "II ve IV",
+   "C": "I, II ve IV",
+   "D": "I, II, III ve IV",
+   "E": "I ve III"
+  },
+  "dogru": "E",
+  "cozum": "Turisti belirli bir mağazaya zorlamak ve habersiz komisyonlu mola eklemek kişisel çıkar odaklı, etik dışı davranışlardır; bilgi aktarmak ve güvenliği gözetmek ise rehberin görevidir (TURİST REH VE ETİK s.18).",
+  "hafiza_ipucu": "Çeldirici kokusu: para/çıkar veya zorlama varsa = etik dışı.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-016",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "meslege-saygi-ilkesi-tanim",
+  "soru": "Bir turist rehberinin, meslektaşını turistler önünde kötülememesi ve mesleğin itibarını gözetmesi hangi etik ilkeyle ilgilidir?",
+  "siklar": {
+   "A": "Mesleğe saygı",
+   "B": "Dürüstlük",
+   "C": "Tarafsızlık",
+   "D": "Gizlilik",
+   "E": "Empati"
+  },
+  "dogru": "A",
+  "cozum": "Meslektaşları ve mesleğin itibarını koruma tutumu mesleğe saygı ilkesi kapsamındadır (TURİST REH VE ETİK s.18-19).",
+  "hafiza_ipucu": "Mesleğe saygı = kendi mesleğinin ve meslektaşının değerini düşürmemek.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-017",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "etik-degil-komisyon-senaryo",
+  "soru": "Rehber Onur, turu bitirdikten sonra grubu belirli bir hediyelik eşya dükkânına götürüp burada alışveriş yapmaları için ısrar eder ve karşılığında satıcıdan komisyon alır. Onur'un bu davranışı öncelikle hangi açıdan sorunludur?",
+  "siklar": {
+   "A": "Zaman yönetimine aykırıdır",
+   "B": "Etik dışıdır; kişisel çıkar turistin özgür tercihinin önüne geçmiştir",
+   "C": "Yabancı dil eksikliğidir",
+   "D": "Grup düzenine aykırıdır",
+   "E": "Bilgi aktarma görevini ihmal etmiştir"
+  },
+  "dogru": "B",
+  "cozum": "Komisyon karşılığı turisti belirli bir mağazaya zorlamak, kişisel çıkarı turistin çıkarının önüne koyduğu için etik dışıdır (TURİST REH VE ETİK s.18).",
+  "hafiza_ipucu": "Zorla mağaza + komisyon = klasik etik dışı kalıp.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-018",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "disiplin-cezasi-uyarma",
+  "soru": "Turist rehberlerinin meslek kuralları ile etik ilkelerine uymaması durumunda 6326 sayılı Kanun'a göre verilebilecek cezalardan en hafifi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Meslekten çıkarma",
+   "B": "Meslekten geçici men",
+   "C": "Uyarma",
+   "D": "Kınama",
+   "E": "Para cezası"
+  },
+  "dogru": "C",
+  "cozum": "6326 sayılı Kanun'un 5. maddesine göre meslek kurallarına uymayan rehberlere verilebilecek cezalar sırasıyla uyarma, kınama, meslekten geçici men ve meslekten çıkarmadır; en hafifi uyarmadır (Turizm Mevzuatı s.57).",
+  "hafiza_ipucu": "Ceza merdiveni: Uyar-Kına-Men-Çıkar (U-K-M-Ç), en alt basamak uyarma.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.pdf",
+   "sayfa": 57
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-019",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "disiplin-cezasi-calisma-karti",
+  "soru": "Mesleğini icra ederken çalışma kartını göğüs hizasında görünür şekilde taşımayan bir rehbere hangi ceza verilir?",
+  "siklar": {
+   "A": "Meslekten çıkarma",
+   "B": "Meslekten geçici men",
+   "C": "Kınama",
+   "D": "Uyarma",
+   "E": "Herhangi bir ceza verilmez"
+  },
+  "dogru": "D",
+  "cozum": "Çalışma kartının bulundurulmaması veya görünür şekilde taşınmaması durumunda uyarma cezası verilir (Turizm Mevzuatı s.57; TURİST REH VE ETİK s.18-19).",
+  "hafiza_ipucu": "Kart görünmüyorsa ilk ceza en hafifi: uyarma.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.pdf",
+   "sayfa": 57
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-020",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "disiplin-cezasi-meslekten-cikarma",
+  "soru": "Ülke yararına ve milli onura aykırı söz ve davranışlarda bulunan bir turist rehberi hakkında 6326 sayılı Kanun'a göre verilecek ceza aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Uyarma",
+   "B": "Kınama",
+   "C": "Meslekten geçici men",
+   "D": "Para cezası",
+   "E": "Meslekten çıkarma"
+  },
+  "dogru": "E",
+  "cozum": "Ülke yararına ve milli onura aykırı hareket, söz ve davranışlarda bulunulması durumunda meslekten çıkarma cezası verilir; bu ceza ruhsatnamenin geri alınmasıyla sonuçlanır (Turizm Mevzuatı s.58).",
+  "hafiza_ipucu": "En ağır ihlal = en ağır ceza: meslekten çıkarma.",
+  "kaynak": {
+   "dosya": "Turizm Mevzuatı_Eylül 2020_Anadolu Üni.pdf",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "RET-021",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "empati-tanimi",
+  "soru": "Bir rehberin kendisini turistin yerine koyarak onun duygu ve düşüncelerini onun bakış açısından doğru olarak anlamaya çalışması aşağıdaki kavramlardan hangisiyle ifade edilir?",
+  "siklar": {
+   "A": "Empati",
+   "B": "Sempati",
+   "C": "Anlayış",
+   "D": "Sabır",
+   "E": "Tarafsızlık"
+  },
+  "dogru": "A",
+  "cozum": "Empati, bir insanın kendisini karşısındaki insanın yerine koyarak onun duygularını ve düşüncelerini doğru olarak anlamasıdır (Etkili İletişim Teknikleri s.22).",
+  "hafiza_ipucu": "Rehber, turistin gözlüğünü takıp dünyaya onun camından bakıyor.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 s.no 96 (rehberin turistin yerine kendini koyarak hareket edebilme yeteneği = Empati — direkt akraba)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-022",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "empati-sempati-farki",
+  "soru": "Empati ile sempati arasındaki temel fark aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Empati duyguya katılmaktır, sempati anlamaktır",
+   "B": "Empati karşıdakinin duygu ve düşüncesini anlamaktır, sempati onun duygusuna katılıp aynısını hissetmektir",
+   "C": "İkisi de birbirinin eş anlamlısıdır",
+   "D": "Empati sadece sözle, sempati sadece bedenle ifade edilir",
+   "E": "Sempati mesleki, empati kişisel bir tutumdur"
+  },
+  "dogru": "B",
+  "cozum": "Sempati duyduğumuz kişiyle birlikte üzülür ya da seviniriz; empati kurduğumuzda ise aynı duyguya sahip olmadan karşımızdakinin duygu ve düşüncesini anlarız (Etkili İletişim Teknikleri s.24).",
+  "hafiza_ipucu": "Empati = camından görmek; sempati = camına ağlamak.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-023",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "empati-yarim-kalma",
+  "soru": "Rehber Aylin, sevgilisinden ayrılan bir turist arkadaşını dinlerken onun üzüntüsünü doğru anlar ama Boş ver, yenisini bulursun diyerek tepki verir. Bu durum aşağıdakilerden hangisini gösterir?",
+  "siklar": {
+   "A": "Empati hiç kurulmamıştır",
+   "B": "Sempati kurulmuştur",
+   "C": "Empati doğru kurulmuş ancak çelişen bir ifadeyle iletişime devam edilmiş, empati yarım kalmıştır",
+   "D": "Tarafsızlık ilkesi ihlal edilmiştir",
+   "E": "Gizlilik ilkesi ihlal edilmiştir"
+  },
+  "dogru": "C",
+  "cozum": "Karşıdakinin duygusal durumu doğru algılanabilir ama söylenen söz bununla çelişirse, empati doğru kurulmuş fakat karşı tarafa yeterince iletilememiş olur (Etkili İletişim Teknikleri s.23).",
+  "hafiza_ipucu": "Anlamak yetmez, doğru ifade etmek de gerekir — yoksa empati yarıda kalır.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-024",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "kriz-ilk-adim-kabul",
+  "soru": "Rehber Deniz, turun ortasında yoğun bir şikâyetle karşı karşıya kalan bir turist grubuyla konuşurken önce savunmaya geçmeden dinler ve Haklısınız, anlıyorum diyerek durumu kabullenir. Deniz'in izlediği bu ilk adım, kriz/şikâyet yönetiminin hangi aşamasıdır?",
+  "siklar": {
+   "A": "Çözüm önerme",
+   "B": "Takip etme",
+   "C": "Suçu turiste yükleme",
+   "D": "Sorunu tanıma ve kabul etme",
+   "E": "Görmezden gelme"
+  },
+  "dogru": "D",
+  "cozum": "Kriz/şikâyet yönetiminde ilk adım sorunu tanımak ve kabul etmektir; savunmaya geçmek ya da görmezden gelmek yanlıştır (TURİST REH VE ETİK s.18-19).",
+  "hafiza_ipucu": "Önce KABUL, sonra ÇÖZÜM — şikâyet eden turistin önünde rehber ilk iş dinlediğini gösterir.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 s.no 84 (bir rehberin turda sorunu kabul etmesi = sorunu tanıma ve kabul aşaması — direkt akraba)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-025",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "kriz-yanlis-davranis",
+  "soru": "Bir turistin şikâyeti karşısında rehberin yapmaması gereken davranış aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Turisti dinlemek",
+   "B": "Sorunu kabul etmek",
+   "C": "Çözüm önermek",
+   "D": "Sonrasında durumu takip etmek",
+   "E": "Savunmaya geçip suçu turiste yüklemek"
+  },
+  "dogru": "E",
+  "cozum": "Şikâyet karşısında savunmaya geçmek ve suçu turiste yüklemek, kriz yönetiminde yapılmaması gereken yaklaşımdır; doğru akış dinleme, kabul, çözüm ve takiptir (TURİST REH VE ETİK s.18-19).",
+  "hafiza_ipucu": "Savunma kalkanı kaldıran sınavı kaybeder.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-026",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "kriz-siralama-coklu-madde",
+  "soru": "Bir şikâyet karşısında izlenmesi gereken doğru sıralama aşağıdakilerden hangisidir?\nI. Çözüm önermek\nII. Dinlemek\nIII. Sorunu kabul etmek\nIV. Takip etmek",
+  "siklar": {
+   "A": "II-III-I-IV",
+   "B": "I-II-III-IV",
+   "C": "III-II-I-IV",
+   "D": "IV-III-II-I",
+   "E": "II-I-III-IV"
+  },
+  "dogru": "A",
+  "cozum": "Doğru şikâyet yönetimi akışı önce dinlemek, sonra sorunu kabul etmek, ardından çözüm önermek ve son olarak durumu takip etmektir (TURİST REH VE ETİK s.18-19; Etkili İletişim Teknikleri s.14).",
+  "hafiza_ipucu": "Dinle-Kabul-Çöz-Takip: D-K-Ç-T.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-027",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "empati-nesnellik",
+  "soru": "Empati kuran bir rehberin, karşısındakinin duygu ve düşüncelerini anlarken taraf tutmaması ve onun yerine karar vermemesi, empatinin hangi özelliğini yansıtır?",
+  "siklar": {
+   "A": "Empati her zaman aynı duyguyu hissetmeyi gerektirir",
+   "B": "Empati sempatiden farklı olarak nesnelliğini korur, taraf tutmaz",
+   "C": "Empati sadece sözle ifade edilir",
+   "D": "Empati bir kişilik bozukluğudur",
+   "E": "Empati yalnızca yakın arkadaşlar arasında kurulur"
+  },
+  "dogru": "B",
+  "cozum": "Empati kuran kişi taraf tutmaz; karşısındakini düşündürmeyi ve anlamayı amaçlar. Sempati gösteren kişi ise karşısındakinin tarafını tutar (Etkili İletişim Teknikleri s.24).",
+  "hafiza_ipucu": "Empati anlar ama karar vermez; taraf tutmaz.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-028",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "sikayet-yonetimi-senaryo",
+  "soru": "Bir turist, otobüsün klimasının bozuk olmasından sürekli şikâyet etmektedir. Rehberin göstermesi gereken ilk profesyonel tepki aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Şikâyeti önemsememek",
+   "B": "Şikâyeti şoförün sorunu olduğunu söyleyip geçiştirmek",
+   "C": "Turistin haklı olabileceğini kabul edip sorunu dinlemek ve çözüm için girişimde bulunmak",
+   "D": "Diğer turistlerin önünde turistle tartışmak",
+   "E": "Turu erken bitirmek"
+  },
+  "dogru": "C",
+  "cozum": "Şikâyet karşısında ilk adım sorunu dinleyip kabul etmek, ardından çözüm için girişimde bulunmaktır; geçiştirme ve görmezden gelme yanlıştır (TURİST REH VE ETİK s.18-19).",
+  "hafiza_ipucu": "Önce KABUL, sonra ÇÖZÜM.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-029",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "empati-guven",
+  "soru": "Rehberin turiste güven duygusu aşılamasında en etkili iletişim becerisi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sempati",
+   "B": "Kayıtsızlık",
+   "C": "Otorite kurma",
+   "D": "Empati",
+   "E": "Ses tonunu yükseltme"
+  },
+  "dogru": "D",
+  "cozum": "Empati kurabilme, insan ilişkilerinin sürekliliği açısından önemli bir etmendir; turistin kendisini anlaşılmış hissetmesi güveni artırır (Etkili İletişim Teknikleri s.22).",
+  "hafiza_ipucu": "Anlaşıldığını hisseden turist güvenir.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-030",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "grup-onunde-tartisma-yanlis",
+  "soru": "Rehber Cem, bir turistin şikâyetini dinlerken grubun önünde turistle yüksek sesle tartışmaya girer. Bu davranış neden yanlıştır?",
+  "siklar": {
+   "A": "Çünkü zaman kaybettirir",
+   "B": "Çünkü acenta bunu istemez",
+   "C": "Çünkü grup düzenini etkilemez",
+   "D": "Çünkü dil bilgisi yetersizdir",
+   "E": "Çünkü profesyonel imaj zedelenir ve kriz büyür"
+  },
+  "dogru": "E",
+  "cozum": "Grup önünde tartışmaya girmek profesyonel imajı zedeler, sorunu büyütür; doğru yaklaşım sakin kalıp sorunu kabul edip çözüm aramaktır (TURİST REH VE ETİK s.18-19).",
+  "hafiza_ipucu": "Sahne herkese açık: tartışma büyür, güven küçülür.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-031",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "gec-kalan-turist-senaryosu",
+  "soru": "Tur sırasında geç kalan bir turist, grubun geri kalanını beklemek zorunda bırakmaktadır. Rehberin izlemesi gereken en doğru tavır aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Grubu makul bir süre nazikçe bilgilendirerek beklemek, tekrarında turisti kibarca uyarmak",
+   "B": "Geciken turisti bırakıp turu sürdürmek",
+   "C": "Diğer turistlerin önünde geciken turisti azarlamak",
+   "D": "Tur programını tamamen iptal etmek",
+   "E": "Geciken turistin bagajını bırakıp gitmek"
+  },
+  "dogru": "A",
+  "cozum": "Rehber grup düzenini korurken sabırlı ve profesyonel kalmalı, grubu bilgilendirmeli ve geciken turisti nazikçe uyarmalıdır; sert veya dışlayıcı tepkiler profesyonel değildir.",
+  "hafiza_ipucu": "Sabır + profesyonel mesafe = zor turist yönetiminin anahtarı.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-032",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "grup-onunde-tartisma-mudahale",
+  "soru": "Tur esnasında iki turist grup önünde tartışmaya başlar. Rehberin öncelikli olarak yapması gereken aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tartışmayı izlemek",
+   "B": "Tarafları sakinleştirip gerekirse özel olarak görüşmek, grup düzenini korumak",
+   "C": "Taraflardan birine hak vermek",
+   "D": "Tartışmaya bizzat katılmak",
+   "E": "Turu durdurup herkesi otobüse bindirmek"
+  },
+  "dogru": "B",
+  "cozum": "Rehber, arabulucu rolüyle tarafları sakinleştirmeli, gerekirse özel olarak görüşmeli ve grup düzenini bozmadan sorunu çözmelidir (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Arabulucu rolü: taraf tutmadan barıştır.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "RET-033",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "saglik-sorunu-acil-senaryo",
+  "soru": "Turda bir turist aniden fenalaşır. Rehberin ilk yapması gereken aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Turu hemen iptal etmek",
+   "B": "Durumu görmezden gelip tura devam etmek",
+   "C": "Turistin durumunu değerlendirip gerekiyorsa ilk yardım uygulamak ve sağlık desteği çağırmak",
+   "D": "Diğer turistlerden yardım istemeden beklemek",
+   "E": "Turisti tek başına bırakıp acenta ile görüşmeye gitmek"
+  },
+  "dogru": "C",
+  "cozum": "Turist sağlığını ve güvenliğini gözetmek rehberin temel görevidir; acil durumda önce durum değerlendirilmeli, gerekiyorsa ilk yardım uygulanmalı ve sağlık desteği çağrılmalıdır (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Sağlık-güvenlik önceliği her zaman program önceliğinin üstündedir.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "RET-034",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "bilgiye-itiraz-eden-turist-senaryosu",
+  "soru": "Bir turist, rehberin verdiği bilgiye inanmadığını ve kendi araştırmasının doğru olduğunu iddia ederek tartışma başlatır. Rehberin göstermesi gereken profesyonel tavır aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Turistle tartışmaya girip haklı olduğunu ispatlamaya çalışmak",
+   "B": "Turisti görmezden gelmek",
+   "C": "Diğer turistlerin önünde turisti küçük düşürmek",
+   "D": "Sakin kalıp kaynağını nazikçe belirtmek, gerekirse konuyu daha sonra netleştirmek üzere kapatmak",
+   "E": "Konuyu tamamen değiştirmek"
+  },
+  "dogru": "D",
+  "cozum": "Rehber sakin ve profesyonel kalmalı, bilgisinin kaynağını nazikçe belirtmeli; gerginliği büyütmeden konuyu kapatıp gerekirse sonra netleştirmelidir. Dürüstlük ilkesi doğru bilgiyi savunmayı gerektirir ama bu, tartışmaya girmek anlamına gelmez.",
+  "hafiza_ipucu": "Doğruyu savun ama tartışmaya girme; sakinlik profesyonelliktir.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "RET-035",
+  "konu": "Rehberlik ve Meslek Etiği",
+  "alt_konu": "oncelik-saglik-guvenlik-senaryosu",
+  "soru": "Rehber Zeynep, turun ortasında hem bir turistin sağlık sorunuyla hem de diğer turistlerin program gecikmesi şikâyetiyle aynı anda karşılaşır. Zeynep'in önceliklendirmesi gereken doğru davranış aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Önce şikâyeti çözüp sonra sağlık sorununu ele almak",
+   "B": "İkisini de görmezden gelip programa devam etmek",
+   "C": "Sağlık sorununu acentaya bırakıp programı sürdürmek",
+   "D": "Grubu dağıtıp herkesi kendi başına bırakmak",
+   "E": "Turistin sağlık ve güvenliğini öncelikli tutup gerekli müdahaleyi sağladıktan sonra grubu bilgilendirip şikâyeti ele almak"
+  },
+  "dogru": "E",
+  "cozum": "Turist sağlığı ve güvenliği rehberin en temel görevidir ve her zaman öncelik taşır; sağlık müdahalesi sağlandıktan sonra grup bilgilendirilip program gecikmesi şikâyeti ele alınmalıdır (TURİST REH VE ETİK s.8).",
+  "hafiza_ipucu": "Öncelik sırası: önce can güvenliği, sonra program.",
+  "kaynak": {
+   "dosya": "TURİST REH VE ETİK.pdf",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ }
+]

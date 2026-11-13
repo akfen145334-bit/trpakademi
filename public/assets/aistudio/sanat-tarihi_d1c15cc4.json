@@ -1,0 +1,1872 @@
+[
+ {
+  "id": "SAN-001",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "Ağırlığını sağ ayağı üzerine vererek elindeki diski fırlatmak üzere olan çıplak bir atleti tasvir eden, orijinali bronzdan yapılmış olup günümüze Roma Dönemi mermer kopyalarından ulaşan ünlü heykel aşağıdaki heykeltıraşlardan hangisine aittir?",
+  "siklar": {
+   "A": "Polykleitos",
+   "B": "Phidias",
+   "C": "Myron",
+   "D": "Praxiteles",
+   "E": "Lysippos"
+  },
+  "dogru": "C",
+  "cozum": "Myron'un Diskobolos (Disk Atan Atlet) heykeli, Olgun Klasik Dönem'in (MÖ 450-420) en tanınmış eseridir; hareket hâlindeki bedenin dengesini başarıyla yansıtır (s.89).",
+  "hafiza_ipucu": "MYRON = MOMENT'i yakalayan usta; diski fırlatmadan hemen önceki anı donduran heykeltıraş.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 89
+  },
+  "akraba_cikmis_soru": "Şub25 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-002",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "Antik Yunan heykel sanatında, orijinali bronzdan yapılmış olup günümüze yalnızca Roma Dönemi mermer kopyalarından ulaşan, disk atmak üzere olan bir atleti betimleyen eserin adı nedir?",
+  "siklar": {
+   "A": "Diskobolos",
+   "B": "Dorifor",
+   "C": "Apoxymenos",
+   "D": "Apollon Sauroktonos",
+   "E": "Herakles Farnese"
+  },
+  "dogru": "A",
+  "cozum": "Söz konusu eser Myron'a ait Diskobolos (Disk Atan Atlet) heykelidir (s.89).",
+  "hafiza_ipucu": "DİSKOBOLOS: adının içinde 'disk' geçer — disk fırlatan atlet.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 89
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-003",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "Knidos kenti için yapılan, banyo yapmak üzere çıkardığı elbisesini bir hydrianın üzerine koyan ve heykel tarihinde tanrıça ile ölümlü kadın arasındaki sınırı belirsizleştiren ünlü çıplak Aphrodite heykelinin sanatçısı kimdir?",
+  "siklar": {
+   "A": "Skopas",
+   "B": "Praxiteles",
+   "C": "Phidias",
+   "D": "Lysippos",
+   "E": "Polykleitos"
+  },
+  "dogru": "B",
+  "cozum": "Knidos Aphroditesi (MÖ 350-340), Geç Klasik Dönem heykeltıraşı Praxiteles'in eseridir (s.90-91).",
+  "hafiza_ipucu": "PRAXİTELES = 'PRAT-ik çıplaklık': tanrıçayı ilk kez tam çıplak, insansı bir güzellikle gösteren usta.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "Mar26 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-004",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "Pelerinini bir ağaç gövdesinin üzerine atmış hâlde tasvir edilen Hermes'in, kolundaki bebek Dionysos'u elindeki üzüm salkımına doğru uzattığı, iki figürden oluşan grup heykel aşağıdaki sanatçılardan hangisine atfedilir?",
+  "siklar": {
+   "A": "Myron",
+   "B": "Skopas",
+   "C": "Phidias",
+   "D": "Praxiteles",
+   "E": "Kephisodotos"
+  },
+  "dogru": "D",
+  "cozum": "Hermes ve Bebek Dionysos heykeli, babası Kephisodotos gibi grup heykellere ilgi duyan Praxiteles'in eseridir; figürlere S kıvrımı kazandırması onun tipik üslubudur (s.91).",
+  "hafiza_ipucu": "Praxiteles'in eserlerinde vücut ağırlığı bir desteğe yaslanır ve S kıvrımı oluşur — 'Praxiteles'in S'si'.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-005",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "Atina Akropolü'ndeki Athena Parthenos ile Olympia Zeus Tapınağı'nın altın ve fildişinden (chryselephantine) yapılmış kült heykellerinin sanatçısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Polykleitos",
+   "B": "Myron",
+   "C": "Lysippos",
+   "D": "Skopas",
+   "E": "Phidias"
+  },
+  "dogru": "E",
+  "cozum": "Phidias, dünyanın yedi harikasından Olympia Zeus heykeli ile Athena Parthenos heykelini altın-fildişi (chryselephantine) tekniğiyle yapmıştır; her iki eser de günümüze ulaşmamıştır (s.89-90).",
+  "hafiza_ipucu": "PHİDİAS = 'yedi harikanın FİDAN'ı: dev boyutlu, altın-fildişi kaplı tanrı heykelleri.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-006",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "Antik Yunan heykel sanatında Phidias'ın büyük boyutlu kült heykellerinde kullandığı, ahşap iskelet üzerine altın ve fildişi levhaların işlenmesiyle oluşturulan tekniğin adı nedir?",
+  "siklar": {
+   "A": "Kanon",
+   "B": "Chryselephantine",
+   "C": "Entasis",
+   "D": "Peripteros",
+   "E": "Grotesk"
+  },
+  "dogru": "B",
+  "cozum": "Chryselephantine teknik, Phidias'ın Athena Parthenos ve Olympia Zeus heykellerinde kullandığı altın-fildişi tekniğidir; heykellerin karanlık iç mekânda parlak görünmesini sağlamıştır (s.89-90).",
+  "hafiza_ipucu": "CHRYSE(altın)-ELEPHANT(fil/fildişi): adının içinde hem altın hem fil saklı.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-007",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "İnsan vücudundaki oranları matematiksel bir sisteme (kanon) bağlayan, bu sisteme göre başın gövde yüksekliğinin yedide biri olması gerektiğini savunan ve Doryphoros (Mızrak Taşıyan) heykeliyle tanınan sanatçı kimdir?",
+  "siklar": {
+   "A": "Polykleitos",
+   "B": "Myron",
+   "C": "Lysippos",
+   "D": "Praxiteles",
+   "E": "Skopas"
+  },
+  "dogru": "A",
+  "cozum": "Polykleitos (MÖ 460-420), 1/7 oranına dayanan kanon sistemini geliştirmiş, bu sistemi Doryphoros ve Diadumenos heykellerinde uygulamıştır (s.90).",
+  "hafiza_ipucu": "POLYKLEİTOS = 'POLİ-ölçülü': vücudu POLİtika gibi kurallara, orana bağlayan usta; 1/7 kanonu.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-008",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "Polykleitos'un baş-gövde oranını 1/7 olarak belirlediği kanon sistemini 1/8'e çıkararak figürlere daha ince ve uzun bir görünüm kazandıran, Büyük İskender'in sarayında da çalışmış heykeltıraş aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Skopas",
+   "B": "Phidias",
+   "C": "Lysippos",
+   "D": "Myron",
+   "E": "Praxiteles"
+  },
+  "dogru": "C",
+  "cozum": "Lysippos, Erken Helenistik Dönem'de Polykleitos'un 1/7'lik kanonunu 1/8'e çıkarmış; Apoxyomenos ve Herakles Farnese gibi eserler vermiş, İskender'in portrelerini yapmıştır (s.91).",
+  "hafiza_ipucu": "LYSİPPOS = İskender'in ressamı değil heykeltıraşı: 7'yi 8'e çıkararak figürleri 'uzatan' usta.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-009",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "Halikarnasos'taki Kral Mausolos'un anıt mezarının batı cephesindeki kabartmaları yaptığı kabul edilen, figürlerinde derin göz çukurları ve çatık kaşlarla verilen hiddet ya da acı dolu yüz ifadeleriyle tanınan Geç Klasik Dönem heykeltıraşı kimdir?",
+  "siklar": {
+   "A": "Praxiteles",
+   "B": "Lysippos",
+   "C": "Polykleitos",
+   "D": "Skopas",
+   "E": "Timotheus"
+  },
+  "dogru": "D",
+  "cozum": "Skopas, Halikarnasos Mausoleum'unun batı cephe kabartmalarını yapmış; Ephesos Artemis ve Tegea Alea Tapınaklarında da çalışmıştır; figürlerindeki hiddet/acı ifadesi Helenistik Dönem'e model olmuştur (s.91).",
+  "hafiza_ipucu": "SKOPAS = 'ıSKObilen kaşlar': çatık kaş ve derin göz çukuruyla acı/hiddet veren yüzler.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-010",
+  "konu": "sanat-tarihi",
+  "alt_konu": "antik-heykel",
+  "soru": "Aşağıdaki heykeltıraş-eser eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Myron - Diskobolos",
+   "B": "Praxiteles - Knidos Aphroditesi",
+   "C": "Phidias - Athena Parthenos",
+   "D": "Lysippos - İskender portreleri",
+   "E": "Polykleitos - Apoxyomenos"
+  },
+  "dogru": "E",
+  "cozum": "Apoxyomenos, Polykleitos'un değil Lysippos'un eseridir; Polykleitos'un imza eseri Doryphoros'tur (s.90-91).",
+  "hafiza_ipucu": "APOXYOMENOS terini kazıyan atlet, LYSİPPOS'un elinden çıkmıştır — Polykleitos'a değil.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-011",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sutun-duzenleri",
+  "soru": "Kare formlu düz bir tabla (abakus) ve altında içe eğimli sade bir profilden oluşan, üç temel Yunan sütun düzeni arasında en yalın başlığa sahip düzen aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İon",
+   "B": "Dor",
+   "C": "Korinth",
+   "D": "Kompozit",
+   "E": "Toskan"
+  },
+  "dogru": "B",
+  "cozum": "Dor Düzeni'nin başlığı kare tabla (abakus) ve sade bir profilden oluşur; üç düzenin en sadesi ve hantal görünümlüsüdür (s.80-81).",
+  "hafiza_ipucu": "\"DİK dur\": Dor - İon - Korint sadelikten süslüye sıralanır. Dor asker gibi DİK ve süssüz.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 81
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-012",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sutun-duzenleri",
+  "soru": "Batı Anadolu kökenli kabul edilen, sütun başlığı kıvrımlı volütlerle biçimlenen ve tapınaklarında iki sıra sütun dizisi (dipteros) tercih edilen Yunan mimari düzeni aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Dor",
+   "B": "Korinth",
+   "C": "Toskan",
+   "D": "İon",
+   "E": "Aiol"
+  },
+  "dogru": "D",
+  "cozum": "İon Düzeni, Batı Anadolu (İonya) kökenli kabul edilir; başlığı volüt denen kıvrımlı biçimle tanınır, Efes Artemis gibi tapınakları dipteros planlıdır (s.80-81).",
+  "hafiza_ipucu": "\"DİK dur\": İon saçını kıvırmış gibi — volüt kıvrımı.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 80
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-013",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sutun-duzenleri",
+  "soru": "Sütun başlığı akantus (yaban enginarı) yaprağı motifleriyle bezenen, üç temel Yunan mimari düzeni içinde en son ortaya çıkan düzen aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Korinth",
+   "B": "İon",
+   "C": "Dor",
+   "D": "Aiol",
+   "E": "Toskan"
+  },
+  "dogru": "A",
+  "cozum": "Korinth Düzeni'nin temel ögesi akantus yaprağı motifli sütun başlığıdır; Klasik Dönem'de (MÖ 4. yy) diğer düzenlerden sonra ortaya çıkmış, Helenistik Dönem'de yaygınlaşmıştır (s.84).",
+  "hafiza_ipucu": "\"DİK dur\": Korint başına AKANTUS (çiçek/yaprak) takmış — en süslü başlık.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 84
+  },
+  "akraba_cikmis_soru": "Mar26 benzer soru sordu (akantus-Korint boşluk doldurma)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-014",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sutun-duzenleri",
+  "soru": "Aşağıdaki sütun düzeni-özellik eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Dor - sade, süssüz başlık",
+   "B": "İon - volütlü (kıvrımlı) başlık",
+   "C": "Dor - ince ve zarif sütun gövdesi",
+   "D": "Korinth - akantus yapraklı başlık",
+   "E": "İon - Batı Anadolu kökenli kabul edilme"
+  },
+  "dogru": "C",
+  "cozum": "İnce ve zarif sütun gövdesi İon Düzeni'nin özelliğidir; Dor Düzeni'nde sütunlar daha kalın, sık aralıklı ve hantal görünümlüdür (s.81).",
+  "hafiza_ipucu": "Dor kalın bacaklı bir asker gibi durur, ince-zarif olan İon'dur.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 81
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-015",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sutun-duzenleri",
+  "soru": "Atina Akropolü'ndeki Erechtheion Tapınağı'nın güney balkonunda, üst yapıyı sütunlar yerine taşıyan kadın figürü biçimindeki mimari taşıyıcı elemanlara ne ad verilir?",
+  "siklar": {
+   "A": "Atlant",
+   "B": "Herma",
+   "C": "Telamon",
+   "D": "Kaneluralı sütun",
+   "E": "Karyatid"
+  },
+  "dogru": "E",
+  "cozum": "Erechtheion'un güney balkonunda üst yapı, Delphi Siphnoslular Hazine Binası'nda olduğu gibi Karyatid denen kadın heykelleri tarafından taşınır (s.83, 87).",
+  "hafiza_ipucu": "\"Taş kariyer yapan kadın\": KARYATİD, sütunun yerine geçen kadın heykeli.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "Ağu25 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-016",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sutun-duzenleri",
+  "soru": "Kadın heykeli biçimindeki taşıyıcı sütunlarıyla (karyatid) tanınan, Persler tarafından yıkılan eski Athena Tapınağı'nın yerine MÖ 421-405 yılları arasında Mimar Mnesikles tarafından inşa edilen Atina Akropolü yapısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Parthenon",
+   "B": "Erechtheion",
+   "C": "Propylon",
+   "D": "Athena Nike Tapınağı",
+   "E": "Pinakotheke"
+  },
+  "dogru": "B",
+  "cozum": "Erechtheion, asimetrik ve çok mekânlı planı ile karyatidli güney balkonuyla tanınan, kentin efsanevi kurucularına adanmış özgün bir tapınaktır (s.83).",
+  "hafiza_ipucu": "Erechtheion = 'birden çok tanrıya ev sahipliği eden' tek tapınak; karyatidlerin adresi.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-017",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sutun-duzenleri",
+  "soru": "Eş aralıklarla dizilmiş çok sayıda taşıyıcı sütunla oluşturulmuş, 'sütun ormanı' görünümündeki büyük salon ya da mekânlara verilen mimari terim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Peristil",
+   "B": "Pronaos",
+   "C": "Naos",
+   "D": "Hipostil",
+   "E": "Cella"
+  },
+  "dogru": "D",
+  "cozum": "Hipostil, eş aralıklı sütunlarla oluşturulmuş çok sütunlu salonları tanımlar; Mısır tapınaklarında ve Anadolu Selçuklu çok destekli (Kûfe tipi) camilerinde görülür (s.30).",
+  "hafiza_ipucu": "HİPOSTİL = 'HEP-üst-sütun': tavanı hep sütunlarla tutulan sütun ormanı salon.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 30
+  },
+  "akraba_cikmis_soru": "Şub25 sordu (\"sütunlu cami\")",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-018",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sutun-duzenleri",
+  "soru": "Aşağıdakilerden hangisi 'peristil' teriminin doğru tanımıdır?",
+  "siklar": {
+   "A": "Tapınak ya da iç avluların çevresinin sütun dizileriyle çevrelenmesi",
+   "B": "Çok sayıda sütunla örtülü, ışığını tepeden alan kapalı salon",
+   "C": "Kıble duvarındaki içbükey niş",
+   "D": "Hutbe okunan basamaklı kürsü",
+   "E": "Kadın figürlü taşıyıcı sütun"
+  },
+  "dogru": "A",
+  "cozum": "Peristil, tapınak ya da avluların sütun dizileriyle çevrelenmiş hâlidir; B hipostil'in, C mihrabın, D minberin, E karyatidin tanımıdır (s.30).",
+  "hafiza_ipucu": "PERİstil = etrafı (PERİ-) sütunla ÇEVRİLİ avlu; hipostilden farklı olarak dıştan sarar.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 30
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-019",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sutun-duzenleri",
+  "soru": "Helenistik Dönem mimarisinde giderek yaygınlaşan, aynı yapıda farklı düzenlerin bir arada kullanılması ya da Dor başlıklarına İon unsurlarının eklenmesi gibi karma uygulamaların genel eğilimi aşağıdakilerden hangisiyle en iyi açıklanır?",
+  "siklar": {
+   "A": "Düzenlerin standart uygulamalara sıkı sıkıya bağlı kalması",
+   "B": "Dor Düzeni'nin Helenistik Dönem'de daha fazla tercih edilmesi",
+   "C": "Yapısal elemanların salt dekoratif amaçla, düzen geleneğinden bağımsız kullanılması",
+   "D": "Kompozit düzenin Arkaik Dönem'de ortaya çıkması",
+   "E": "Hipostil planın yalnızca Roma tapınaklarında görülmesi"
+  },
+  "dogru": "C",
+  "cozum": "Helenistik Dönem'de düzen, form ve oran standartlarına bağlılık azalmış; yapısal elemanlar zaman zaman gelenekteki işlevinden bağımsız, salt dekoratif amaçla kullanılmıştır (s.84).",
+  "hafiza_ipucu": "Helenistik = kuralların gevşediği dönem; süs artık işlevden koptu.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 84
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-020",
+  "konu": "sanat-tarihi",
+  "alt_konu": "selcuklu-mimarisi",
+  "soru": "Anadolu Selçuklu Dönemi kervansaraylarının plan şemaları arasında aşağıdakilerden hangisi YER ALMAZ?",
+  "siklar": {
+   "A": "Avlulu ve kapalı kısımlı kervansaraylar",
+   "B": "Yalnızca kapalı bir kısımdan oluşanlar",
+   "C": "Yalnızca avludan oluşanlar",
+   "D": "Bir merkezi yapı etrafında gelişenler",
+   "E": "Sekiz sütunlu merkezi kubbeli plan"
+  },
+  "dogru": "E",
+  "cozum": "Anadolu Selçuklu kervansaraylarında dört farklı plan uygulaması görülür: avlulu-kapalı kısımlı, yalnız kapalı, yalnız avlulu ve bir merkezi yapı etrafında gelişen; 'sekiz sütunlu merkezi kubbeli plan' bu sınıflamada yer almaz (s.191).",
+  "hafiza_ipucu": "Kervansaray planı DÖRT çeşittir; beşinci uydurma şık her zaman yanlış çeldiricidir.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 191
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-021",
+  "konu": "sanat-tarihi",
+  "alt_konu": "selcuklu-mimarisi",
+  "soru": "Kahire'de 1356-1362 yılları arasında inşa edilen, taç kapısının düzen ve süsleme programı açısından Büyük Selçuklu taç kapılarını hatırlattığı belirtilen Türk Memlük dönemi yapısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Baybars Camii",
+   "B": "Sultan Hasan Medresesi",
+   "C": "Kalavun Külliyesi",
+   "D": "Zahiriye Medresesi",
+   "E": "Kutbü'l-İslam Camii"
+  },
+  "dogru": "B",
+  "cozum": "Kahire Sultan Hasan Medresesi'nin (1356-1362) taç kapısı, düzen ve süsleme programı açısından Büyük Selçuklu taç kapılarını hatırlatır (s.173).",
+  "hafiza_ipucu": "Memlük ustaları Selçuklu taç kapısını Kahire'ye 'taşıdı' — Sultan Hasan Medresesi'nde.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 173
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-022",
+  "konu": "sanat-tarihi",
+  "alt_konu": "selcuklu-mimarisi",
+  "soru": "Anadolu Selçuklu Dönemi'nden günümüze ulaşan, mihrap aksına dik veya paralel sahınlı, avlusuz, çok destekli/hipostil planlı ahşap direkli camiler arasında aşağıdakilerden hangisi YER ALMAZ?",
+  "siklar": {
+   "A": "Afyon Ulu Camii",
+   "B": "Sivrihisar Ulu Camii",
+   "C": "Ankara Arslanhane Camii",
+   "D": "Divriği Ulu Camii",
+   "E": "Bunların hepsi bu gruba dahildir"
+  },
+  "dogru": "D",
+  "cozum": "Anadolu Selçuklu'dan günümüze üç ahşap direkli hipostil cami olarak Afyon Ulu, Sivrihisar Ulu ve Ankara Arslanhane Camileri sayılır; Divriği Ulu Camii ise kubbeli mihrap önü ve farklı tonoz çeşitleriyle örtülü, çok bölüntülü ayrı bir plana sahiptir (s.174).",
+  "hafiza_ipucu": "Ahşap direkli üçlü: Afyon-Sivrihisar-Arslanhane. Divriği farklı ligde: kubbeli ve süslemeli.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 174
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-023",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sinan-uclemesi",
+  "soru": "Mimar Sinan'ın kendi ifadesiyle 'çıraklık eserim' dediği, merkezî kubbesi dört serbest destek üzerine oturan ve dört yarım kubbeyle desteklenen İstanbul camisi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Şehzade Camii",
+   "B": "Süleymaniye Camii",
+   "C": "Selimiye Camii",
+   "D": "Sultanahmet Camii",
+   "E": "Rüstem Paşa Camii"
+  },
+  "dogru": "A",
+  "cozum": "Sinan'ın 'çıraklık eserimdir' dediği Şehzade Camii (1544-1548), Kanuni'nin oğlu Şehzade Mehmed adına yaptırılmıştır (s.180).",
+  "hafiza_ipucu": "\"Çırak Şehzade'yi, kalfa Süleymaniye'yi, usta Selimiye'yi yapar.\"",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 180
+  },
+  "akraba_cikmis_soru": "Şub25 benzer soru sordu (Selimiye-ustalık)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-024",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sinan-uclemesi",
+  "soru": "Mimar Sinan'ın Kanuni Sultan Süleyman adına yaptığı, merkezî kubbesi iki yarım kubbeyle desteklenen ve Sinan'ın kariyerinde 'kalfalık' dönemine karşılık gelen külliye aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Şehzade Külliyesi",
+   "B": "Selimiye Külliyesi",
+   "C": "Süleymaniye Külliyesi",
+   "D": "Fatih Külliyesi",
+   "E": "Sultanahmet Külliyesi"
+  },
+  "dogru": "C",
+  "cozum": "Süleymaniye Külliyesi (1550-1557), Sinan'ın kalfalık dönemi eseridir; planı Ayasofya'nın izlerini taşır ve inşasında günde ortalama üç bin kişi çalışmıştır (s.180; Anadolu Kültür Tarihi s.224).",
+  "hafiza_ipucu": "\"Çırak Şehzade'yi, kalfa Süleymaniye'yi, usta Selimiye'yi yapar.\"",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 180
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-025",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sinan-uclemesi",
+  "soru": "Mimar Sinan'ın 'ustalık eserimdir' dediği, merkezî kubbesi sekiz serbest destek üzerine oturan ve 2011'de UNESCO Dünya Kültür Mirası Listesi'ne alınan yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Süleymaniye Camii ve Külliyesi",
+   "B": "Şehzade Camii",
+   "C": "Sultanahmet Camii",
+   "D": "Rüstem Paşa Camii",
+   "E": "Edirne Selimiye Camii ve Külliyesi"
+  },
+  "dogru": "E",
+  "cozum": "Selimiye Camii ve Külliyesi (1569-1574, Edirne), Sinan'ın 'ustalık eserim' dediği, kubbeli mekân gelişiminin ulaştığı en üst aşama kabul edilen eseridir (s.180).",
+  "hafiza_ipucu": "\"Çırak Şehzade'yi, kalfa Süleymaniye'yi, usta Selimiye'yi yapar.\" USTALIK ESERİM = SELİMİYE.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 180
+  },
+  "akraba_cikmis_soru": "Şub25 iki kez sordu (Selimiye-ustalık)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-026",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sinan-uclemesi",
+  "soru": "Hassa Mimarlar Ocağı'nın baş mimarı olarak Sultan I. Ahmed adına, plan şeması bakımından Şehzade Camii'ni tekrarlayan Sultanahmet Camii'ni (1609-1617) inşa eden, Mimar Sinan'ın öğrencisi olan mimar aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Mimar Sinan",
+   "B": "Sedefkâr Mehmed Ağa",
+   "C": "Mimar Mustafa Ağa",
+   "D": "Davud Ağa",
+   "E": "Dalgıç Ahmed Ağa"
+  },
+  "dogru": "B",
+  "cozum": "Sultanahmet Camii, Sinan'ın öğrencisi Sedefkâr Mehmed Ağa tarafından, Şehzade Camii'nin plan şemasını tekrarlayacak biçimde inşa edilmiştir (s.180).",
+  "hafiza_ipucu": "Selimiye = usta (Sinan), Sultanahmet = öğrencisi Sedefkâr Mehmed Ağa.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 180
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-027",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sinan-uclemesi",
+  "soru": "Mimar Sinan'ın çıraklık, kalfalık ve ustalık dönemi eserleri olarak nitelendirdiği yapılar, inşa edildikleri şehirlerle birlikte aşağıdakilerin hangisinde doğru sıra ve eşleştirmeyle verilmiştir?",
+  "siklar": {
+   "A": "Süleymaniye (İstanbul) - Şehzade (İstanbul) - Selimiye (Edirne)",
+   "B": "Şehzade (Edirne) - Selimiye (İstanbul) - Süleymaniye (İstanbul)",
+   "C": "Selimiye (Edirne) - Süleymaniye (İstanbul) - Şehzade (İstanbul)",
+   "D": "Şehzade (İstanbul) - Süleymaniye (İstanbul) - Selimiye (Edirne)",
+   "E": "Süleymaniye (İstanbul) - Selimiye (Edirne) - Şehzade (İstanbul)"
+  },
+  "dogru": "D",
+  "cozum": "Doğru sıra çıraklık-kalfalık-ustalık olacak şekilde Şehzade (İstanbul) - Süleymaniye (İstanbul) - Selimiye (Edirne) biçimindedir (s.180).",
+  "hafiza_ipucu": "Sıra: Ş-S-S (Şehzade-Süleymaniye-Selimiye), son adım şehir değiştirir: Edirne.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 180
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-028",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sinan-uclemesi",
+  "soru": "İstanbul'da inşa edilen son büyük Osmanlı külliyesi olan, inşasına 1597'de başlanıp 1661-1663'te Mimar Mustafa Ağa tarafından tamamlanan yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yeni Cami Külliyesi",
+   "B": "Süleymaniye Külliyesi",
+   "C": "Sultanahmet Külliyesi",
+   "D": "Şehzade Külliyesi",
+   "E": "Nur-u Osmaniye Külliyesi"
+  },
+  "dogru": "A",
+  "cozum": "Yeni Cami Külliyesi'nin inşası 1597'de başlamış, 1661-1663'te Mimar Mustafa Ağa tarafından tamamlanarak İstanbul'daki son büyük külliye olmuştur (s.180).",
+  "hafiza_ipucu": "\"YENİ Cami\" adı yanıltıcı — aslında klasik dönemin SON büyük külliyesidir.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 180
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-029",
+  "konu": "sanat-tarihi",
+  "alt_konu": "osmanli-saraylari",
+  "soru": "Fatih Sultan Mehmed döneminde 1474-1479 yılları arasında inşasına başlanan, 19. yüzyıla kadar farklı dönemlerde eklemelerle büyütülerek Osmanlı'nın klasik saray kompleksi hâline gelen yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Dolmabahçe Sarayı",
+   "B": "Beylerbeyi Sarayı",
+   "C": "Topkapı Sarayı",
+   "D": "Çırağan Sarayı",
+   "E": "Yıldız Sarayı"
+  },
+  "dogru": "C",
+  "cozum": "Topkapı Sarayı (eski adıyla Saray-ı Cedid), Fatih devrinde inşasına başlanmış, sonraki dönemlerde eklemelerle büyümüştür (s.180-181).",
+  "hafiza_ipucu": "Topkapı = Fatih'in mirası; Osmanlı'nın klasik/eski başkent sarayı.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 180
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-030",
+  "konu": "sanat-tarihi",
+  "alt_konu": "osmanli-saraylari",
+  "soru": "Sultan Abdülmecid'in Karabet ve Nikolas Balyan adlı mimarlara yaptırdığı, barok/batılı üsluptaki saray aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Topkapı Sarayı",
+   "B": "Beylerbeyi Sarayı",
+   "C": "İshak Paşa Sarayı",
+   "D": "Çırağan Sarayı",
+   "E": "Dolmabahçe Sarayı"
+  },
+  "dogru": "E",
+  "cozum": "Dolmabahçe Sarayı (1853), Sultan Abdülmecid tarafından Karabet ve Nikolas Balyan'a yaptırılmış, Ampir/barok üslupta boğaz kıyısına inşa edilmiştir (s.181).",
+  "hafiza_ipucu": "\"Batılı Abdülmecid\": barok merdiven, Balyan imzası — Dolmabahçe.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 181
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-031",
+  "konu": "sanat-tarihi",
+  "alt_konu": "osmanli-saraylari",
+  "soru": "Aşağıdaki yapı-mimar eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Dolmabahçe Sarayı - Karabet ve Nikolas Balyan",
+   "B": "Topkapı Sarayı - Mimar Sinan",
+   "C": "Çırağan Sarayı - Sarkis Balyan",
+   "D": "Sultanahmet Camii - Sedefkâr Mehmed Ağa",
+   "E": "Süleymaniye Külliyesi - Mimar Sinan"
+  },
+  "dogru": "B",
+  "cozum": "Topkapı Sarayı, Fatih döneminde inşa edilmiş olup Mimar Sinan'la ilişkilendirilmez; Sinan'ın eserleri arasında Süleymaniye, Şehzade ve Selimiye Külliyeleri sayılır (s.180-181).",
+  "hafiza_ipucu": "Sinan 16. yüzyılda yaşadı; Topkapı ise 15. yüzyılda Fatih tarafından başlatıldı — tarihler uyuşmaz.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 181
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-032",
+  "konu": "sanat-tarihi",
+  "alt_konu": "osmanli-saraylari",
+  "soru": "İlk olarak II. Mahmud döneminde inşa ettirilen, Mermer Köşk, Sarı Köşk ve Ahır Köşkü gibi ek yapılara sahip olan ve yazlık saray olarak da kullanılan Boğaziçi'ndeki Osmanlı sarayı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yıldız Sarayı",
+   "B": "Dolmabahçe Sarayı",
+   "C": "Topkapı Sarayı",
+   "D": "Beylerbeyi Sarayı",
+   "E": "Çırağan Sarayı"
+  },
+  "dogru": "D",
+  "cozum": "Beylerbeyi Sarayı ilk olarak II. Mahmud döneminde yaptırılmış; Mermer Köşk, Sarı Köşk, Ahır Köşkü gibi ek yapılarıyla yazlık saray işlevi görmüştür. Günümüzdeki taş yapısı Sultan Abdülaziz'in 1865'teki yaptırımıyla şekillenmiştir (Mart 2026 çıkmış sınav; Sanat Tarihi s.181).",
+  "hafiza_ipucu": "\"Yazlıkçı sultan\": II. Mahmud yazın Boğaz'ın Anadolu yakasına geçer; bahçesinde Mermer ve Sarı köşkler parlar.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt (çıkmış sınav) + Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 181
+  },
+  "akraba_cikmis_soru": "Mar26 birebir sordu",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-033",
+  "konu": "sanat-tarihi",
+  "alt_konu": "osmanli-saraylari",
+  "soru": "1784 yılında tamamlanan, Selçuklu taş mimarisi, Osmanlı çini süslemesi ve İran estetiğinin bir arada görüldüğü, 360 odası ile bölge valisi tarafından Doğubayazıt'ta yaptırılan saray aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İshak Paşa Sarayı",
+   "B": "Beylerbeyi Sarayı",
+   "C": "Topkapı Sarayı",
+   "D": "Yıldız Sarayı",
+   "E": "Dolmabahçe Sarayı"
+  },
+  "dogru": "A",
+  "cozum": "İshak Paşa Sarayı (1784), bölge valisi İshak Paşa tarafından Doğubayazıt'ta yaptırılmış; Selçuklu-Osmanlı-İran unsurlarını birleştiren 360 odalı bir komplekstir (s.181).",
+  "hafiza_ipucu": "\"Üç kültür karması\": Selçuklu taşı + Osmanlı çinisi + İran zarafeti; 1784 → '17 84'lük üç kültür'.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 181
+  },
+  "akraba_cikmis_soru": "Ağu25 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-034",
+  "konu": "sanat-tarihi",
+  "alt_konu": "osmanli-saraylari",
+  "soru": "İshak Paşa Sarayı'nın yapı programında aşağıdakilerden hangisi BULUNMAZ?",
+  "siklar": {
+   "A": "Cami",
+   "B": "Harem dairesi",
+   "C": "Tiyatro salonu",
+   "D": "Mutfak",
+   "E": "Asker koğuşları"
+  },
+  "dogru": "C",
+  "cozum": "İshak Paşa Sarayı, 360 odası, mutfağı, camii, asker koğuşları, harem dairesi ve avlularıyla bilinir; tiyatro salonu bu programda yer almaz (s.181).",
+  "hafiza_ipucu": "İshak Paşa'da yaşam vardır (harem, mutfak, koğuş, cami) ama Batılı anlamda tiyatro yoktur.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 181
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-035",
+  "konu": "sanat-tarihi",
+  "alt_konu": "osmanli-saraylari",
+  "soru": "Sarkis Balyan'a yaptırılan, Sultan Abdülaziz döneminin (1871) Boğaziçi sarayı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Dolmabahçe Sarayı",
+   "B": "Beylerbeyi Sarayı",
+   "C": "İshak Paşa Sarayı",
+   "D": "Yıldız Sarayı",
+   "E": "Çırağan Sarayı"
+  },
+  "dogru": "E",
+  "cozum": "Çırağan Sarayı (1871), mimar Sarkis Balyan'a yaptırılmıştır (s.181).",
+  "hafiza_ipucu": "Balyan ailesi hem Dolmabahçe (Karabet-Nikolas) hem Çırağan'ı (Sarkis) imzalamıştır.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 181
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-036",
+  "konu": "sanat-tarihi",
+  "alt_konu": "osmanli-saraylari",
+  "soru": "II. Abdülhamid'in çeşitli köşkler eklettiği, 19. yüzyıl İstanbul'unda inşa edilen Avrupa tarzı Osmanlı saray yapılarından biri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Topkapı Sarayı",
+   "B": "Yıldız Sarayı",
+   "C": "İshak Paşa Sarayı",
+   "D": "Edirne Sarayı",
+   "E": "Fatih Külliyesi"
+  },
+  "dogru": "B",
+  "cozum": "Yıldız Sarayı'na II. Abdülhamid çeşitli köşkler eklettirmiştir; Dolmabahçe, Beylerbeyi ve Çırağan ile birlikte 19. yüzyılın Avrupa tarzı saraylarındandır (s.181).",
+  "hafiza_ipucu": "Çırağan-Yıldız-Dolmabahçe-Beylerbeyi: 19. yüzyılın 'dört batılı saray'ı.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 181
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-037",
+  "konu": "sanat-tarihi",
+  "alt_konu": "cami-elemanlari",
+  "soru": "Caminin kıble duvarında yer alan, genellikle yoğun süslemeye sahip içbükey nişe verilen ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Minber",
+   "B": "Şerefe",
+   "C": "Hünkâr Mahfili",
+   "D": "Mihrap",
+   "E": "Mukarnas"
+  },
+  "dogru": "D",
+  "cozum": "Mihrap, kıble duvarındaki içbükey niştir; Hz. Muhammed'in namaz kıldırdığı yerin onurlandırılması amacıyla Emeviler zamanında cami mimarisine girmiştir (s.140).",
+  "hafiza_ipucu": "MİHRAP = yönelinen niş (kıbleye bakar); MİNBER ise çıkılan yerdir. 'Mİ ile başlar ama yönü farklıdır.'",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 140
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-038",
+  "konu": "sanat-tarihi",
+  "alt_konu": "cami-elemanlari",
+  "soru": "Cuma hutbesinin okunduğu, basamaklarla çıkılan ve mihrabın sağında yer alan litürjik mimari eleman aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Minber",
+   "B": "Minare",
+   "C": "Mihrap",
+   "D": "Şadırvan",
+   "E": "Kürsü"
+  },
+  "dogru": "A",
+  "cozum": "Minber, üzerinde hutbe okunan, basamaklarla çıkılan, mihrabın sağında yer alan litürjik ögedir; ilk şekliyle Hz. Muhammed zamanından beri bilinir (s.140).",
+  "hafiza_ipucu": "MİNBER = hutbe MERDİVENİ; çıkılan yer. Mihrap ise yönelinen niştir.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 140
+  },
+  "akraba_cikmis_soru": "Ağu25 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-039",
+  "konu": "sanat-tarihi",
+  "alt_konu": "cami-elemanlari",
+  "soru": "Osmanlı camilerinde padişahların namaz kıldıkları özel, genellikle yüksekte ve kafesli bölüme verilen ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Müezzin mahfili",
+   "B": "Son cemaat yeri",
+   "C": "Hünkâr mahfili",
+   "D": "Şadırvan avlusu",
+   "E": "Maksure"
+  },
+  "dogru": "C",
+  "cozum": "Hünkâr mahfili, Osmanlı camilerinde padişahların namaz kıldıkları özel mekândır (Kültür Tarihi sözlük, s.274).",
+  "hafiza_ipucu": "HÜNKÂR = padişah; hünkâr mahfili padişahın kendi 'locası'dır.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 274
+  },
+  "akraba_cikmis_soru": "Ağu25 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-040",
+  "konu": "sanat-tarihi",
+  "alt_konu": "cami-elemanlari",
+  "soru": "Aşağıdaki cami mimarisi terimi-tanım eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Şerefe - müezzinin ezan okuduğu minare balkonu",
+   "B": "Alem - minare veya kubbe tepesindeki hilal biçimli süsleme",
+   "C": "Minber - hutbe okunan basamaklı kürsü",
+   "D": "Hünkâr mahfili - padişahın namaz kıldığı özel bölüm",
+   "E": "Mihrap - inananları namaza çağırma işlevi gören yüksek yapı"
+  },
+  "dogru": "E",
+  "cozum": "İnananları namaza çağırma (ezan okuma) işlevi minareye aittir; mihrap ise kıble duvarındaki içbükey niştir (s.140).",
+  "hafiza_ipucu": "Ezan okunan yüksek yapı MİNAREdir, mihrap yönelinen niştir — karıştırma!",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 140
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-041",
+  "konu": "sanat-tarihi",
+  "alt_konu": "cami-elemanlari",
+  "soru": "İnananları namaza çağırmak amacıyla ezanın okunduğu, ilk kullanımının Şam Emeviye Camii'nde görüldüğü kabul edilen mimari yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Minber",
+   "B": "Minare",
+   "C": "Mihrap",
+   "D": "Şadırvan",
+   "E": "Türbe"
+  },
+  "dogru": "B",
+  "cozum": "Minarenin ilk kullanımı Şam Emeviye Camii'ndedir; camiden daha yüksekçe inşa edilen minare, ezanın okunma işlevini görür (s.140).",
+  "hafiza_ipucu": "MİNARE = 'MİNA gibi yükseklerden' seslenen kule; ilk örneği Şam'dadır.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 140
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-042",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sivil-mimari",
+  "soru": "Aşağıdakilerden hangisi Osmanlı Dönemi sivil mimarisini yansıtan, günümüzde yaşayan bir doku sergileyen tarihî ev yerleşimlerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Safranbolu",
+   "B": "Cumalıkızık",
+   "C": "Beypazarı",
+   "D": "Kayaköy",
+   "E": "Odunpazarı"
+  },
+  "dogru": "D",
+  "cozum": "Kayaköy, 1923 nüfus mübadelesiyle terk edilmiş bir Rum yerleşimidir; Safranbolu, Cumalıkızık, Beypazarı, Odunpazarı ve Sivrihisar gibi yaşayan Osmanlı sivil mimarisi örneklerinden farklı olarak, yaşayan tarihî ev listesinde yer almaz.",
+  "hafiza_ipucu": "\"İçinde yaşanmayan ev, sivil mimari örneği sayılmaz\": Kayaköy boş, hayalet bir Rum köyüdür.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt (çıkmış sınav)",
+   "sayfa": 2
+  },
+  "akraba_cikmis_soru": "Mar26 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-043",
+  "konu": "sanat-tarihi",
+  "alt_konu": "sivil-mimari",
+  "soru": "Aşağıdakilerden hangisi Anadolu'da geleneksel Osmanlı sivil mimarisini yansıtan, tarihî ev dokusuyla öne çıkan yaşayan yerleşimlerden biridir?",
+  "siklar": {
+   "A": "Sivrihisar",
+   "B": "Kayaköy",
+   "C": "Efes",
+   "D": "Bergama Zeus Altarı çevresi",
+   "E": "Pergamon Akropolü"
+  },
+  "dogru": "A",
+  "cozum": "Sivrihisar; Safranbolu, Cumalıkızık, Beypazarı ve Odunpazarı ile birlikte yaşayan Osmanlı sivil mimarisi örnekleri arasında sayılır. Kayaköy terk edilmiş bir yerleşimdir; diğer şıklar ise antik ören yerleridir.",
+  "hafiza_ipucu": "Yaşayan Osmanlı evi beşlisi: Safranbolu-Cumalıkızık-Beypazarı-Odunpazarı-Sivrihisar.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt (çıkmış sınav)",
+   "sayfa": 2
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-044",
+  "konu": "sanat-tarihi",
+  "alt_konu": "ebru",
+  "soru": "Kitreli su üzerine serpilen boyalarla oluşturulan desenin kâğıda aktarılmasıyla yapılan geleneksel Türk sanatı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ebru",
+   "B": "Tezhip",
+   "C": "Minyatür",
+   "D": "Katı'",
+   "E": "Hat"
+  },
+  "dogru": "A",
+  "cozum": "Ebru, kitreli su üzerine serpilen boyalarla oluşan desenin kâğıda alınmasıyla yapılır.",
+  "hafiza_ipucu": "EBRU = suda dans eden boya (kitre!).",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası_2_Anadolu Üni.pdf",
+   "sayfa": 158
+  },
+  "akraba_cikmis_soru": "Mar26 (ebru kavramı sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-045",
+  "konu": "sanat-tarihi",
+  "alt_konu": "ebru",
+  "soru": "Osmanlı'dan Avrupa'ya yayılan ebru sanatı, kâğıt üzerindeki desen özelliği nedeniyle Avrupalılarca hangi adla tanınmıştır?",
+  "siklar": {
+   "A": "Osmanlı kâğıdı",
+   "B": "Türk (mermer) kâğıdı",
+   "C": "İstanbul kâğıdı",
+   "D": "İpek kâğıdı",
+   "E": "Şark kâğıdı"
+  },
+  "dogru": "B",
+  "cozum": "Ebru, Avrupa'ya yayılırken desenlerindeki mermer görünümü nedeniyle 'Türk mermer kâğıdı' ya da kısaca 'Türk kâğıdı' olarak tanımlanmıştır.",
+  "hafiza_ipucu": "Ebru = suda mermer deseni → 'Türk mermer kâğıdı'.",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası_2_Anadolu Üni.pdf",
+   "sayfa": 158
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-046",
+  "konu": "sanat-tarihi",
+  "alt_konu": "ebru",
+  "soru": "Çin, Hindistan ve İran gibi ülkelerde uygulanan ebru sanatı, İstanbul'da hangi dönemden itibaren benimsenmiştir?",
+  "siklar": {
+   "A": "14. yüzyıl başları",
+   "B": "15. yüzyıl ortaları",
+   "C": "16. yüzyıl sonları",
+   "D": "16. yüzyıl başları",
+   "E": "18. yüzyıl"
+  },
+  "dogru": "C",
+  "cozum": "Kaynağa göre ebru, 16. yüzyıl sonlarından itibaren İstanbul'da da benimsenmiş ve gelişerek Avrupa'ya yayılmıştır.",
+  "hafiza_ipucu": "Ebru: Çin-Hindistan-İran'dan gelir, 16.yy SONU İstanbul'a yerleşir.",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası_2_Anadolu Üni.pdf",
+   "sayfa": 158
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-047",
+  "konu": "sanat-tarihi",
+  "alt_konu": "hat",
+  "soru": "'Güzel yazı sanatı' olarak tanımlanan, İslam sanatları içinde en saygın konumda görülen sanat dalı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tezhip",
+   "B": "Minyatür",
+   "C": "Kündekari",
+   "D": "Hat",
+   "E": "Ebru"
+  },
+  "dogru": "D",
+  "cozum": "Hat, Arap harfleriyle yazının estetik kurallara göre güzel yazılması sanatıdır.",
+  "hafiza_ipucu": "HAT = güzel yazı; harfin kendisi sanat eseri olur.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 226
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-048",
+  "konu": "sanat-tarihi",
+  "alt_konu": "hat",
+  "soru": "Abbasi halifesi Mu'tasım'ın himayesindeki Türk hattat Yakut'un önceden bilinen tüm yazı türlerini sınıflandırarak oluşturduğu 'Aklâm-ı Sitte', kaç çeşit yazıyı kapsar?",
+  "siklar": {
+   "A": "4",
+   "B": "5",
+   "C": "8",
+   "D": "10",
+   "E": "6"
+  },
+  "dogru": "E",
+  "cozum": "Aklâm-ı Sitte; nesih, sülüs, muhakkak, reyhani, tevki ve rika olmak üzere altı yazı türünü kapsar.",
+  "hafiza_ipucu": "Aklâm-ı SİTTE = altı (sitte=6) kalem yazı: nesih-sülüs-muhakkak-reyhani-tevki-rika.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 156
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-049",
+  "konu": "sanat-tarihi",
+  "alt_konu": "hat",
+  "soru": "Dekoratif kûfi yazının mimaride ilk kullanıldığı, 692 tarihli yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kubbetü's-Sahra",
+   "B": "Emeviye Camii",
+   "C": "Kayravan Ulu Camii",
+   "D": "Amr İbnü'l-As Camii",
+   "E": "Mescid-i Nebevi"
+  },
+  "dogru": "A",
+  "cozum": "Kaynağa göre kûfi yazının mimaride ilk kullanılışı 692 tarihli Kubbetü's-Sahra'dadır.",
+  "hafiza_ipucu": "692 = KUBBE'nin altında ilk KÛFİ yazı parlar (Kubbetü's-Sahra).",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 156
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-050",
+  "konu": "sanat-tarihi",
+  "alt_konu": "hat",
+  "soru": "Şeyh Hamdullah'tan kısa süre sonra Yakut ekolünü yeniden canlandırarak harflerdeki dağınıklığı gideren ve yazıya dinamizm kazandıran hattat aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hafız Osman",
+   "B": "Ahmed Karahisarî",
+   "C": "Mustafa Rakım",
+   "D": "Matrakçı Nasuh",
+   "E": "Kazasker Hasan Efendi"
+  },
+  "dogru": "B",
+  "cozum": "Ahmed Karahisarî (1469?-1556), Yakut ekolünü canlandırarak Osmanlı hat sanatına dinamizm kazandırmıştır.",
+  "hafiza_ipucu": "KARAHİSARÎ = Yakut'un dağınık harflerini toparlayıp canlandıran usta.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 227
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-051",
+  "konu": "sanat-tarihi",
+  "alt_konu": "hat",
+  "soru": "16. yüzyılda yetişen Osmanlı hattatları arasından hangi ikisi kendi adına bağlı birer 'ekol' oluşturabilmiştir?\nI. Yahyâ-yı Rûmî\nII. Hafız Osman\nIII. Kazasker Hasan Efendi\nIV. Mustafa Rakım",
+  "siklar": {
+   "A": "I ve II",
+   "B": "I ve III",
+   "C": "II ve IV",
+   "D": "III ve IV",
+   "E": "I ve IV"
+  },
+  "dogru": "C",
+  "cozum": "Kaynağa göre dönemin hattatları arasında yalnızca Hafız Osman ve Mustafa Rakım ekol oluşturabilmiştir.",
+  "hafiza_ipucu": "Ekol kuran ikili: HAFIZ Osman + RAKIM (H-R ikilisi).",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 227
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-052",
+  "konu": "sanat-tarihi",
+  "alt_konu": "minyatur",
+  "soru": "Kitap sayfalarında küçük boyutlu ve ince işçilikle yapılan el yazması resim sanatına ne ad verilir?",
+  "siklar": {
+   "A": "Tezhip",
+   "B": "Katı'",
+   "C": "Ebru",
+   "D": "Minyatür",
+   "E": "Hat"
+  },
+  "dogru": "D",
+  "cozum": "Minyatür, elyazması eserlerde küçük boyutlarda ve titiz bir işçilikle yapılan resim sanatıdır.",
+  "hafiza_ipucu": "MİNYATÜR = mini-titiz resim.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 46
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-053",
+  "konu": "sanat-tarihi",
+  "alt_konu": "minyatur",
+  "soru": "13. yüzyılda Konya'da resimlenen, Hz. Muhammed döneminde yaşadığı anlatılan iki gencin aşk hikâyesini konu alan minyatürlü yazma eser aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tahir ile Zühre",
+   "B": "Ferhat ile Şirin",
+   "C": "Leyla ile Mecnun",
+   "D": "Bahramgur ile Azade",
+   "E": "Varka ile Gülşah"
+  },
+  "dogru": "E",
+  "cozum": "Anadolu Selçuklu Sultanı I. Alâeddin Keykubad döneminde Konya'da resimlenen Varka ve Gülşah, Peygamber zamanında yaşanan bir aşk hikâyesini anlatır.",
+  "hafiza_ipucu": "Konya'nın 13.yy aşk minyatürü = VARKA ile GÜLŞAH.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 190
+  },
+  "akraba_cikmis_soru": "Kitap kendi kendini sınama sorusu (Varka ve Gülşah)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-054",
+  "konu": "sanat-tarihi",
+  "alt_konu": "minyatur",
+  "soru": "Anadolu'nun 13. yüzyıla ait en önemli minyatürlü yazması olan Varka ve Gülşah, hangi Anadolu Selçuklu hükümdarı döneminde Konya'da resimlenmiştir?",
+  "siklar": {
+   "A": "I. Alâeddin Keykubad",
+   "B": "II. Kılıçarslan",
+   "C": "I. Gıyaseddin Keyhüsrev",
+   "D": "III. Alâeddin Keykubad",
+   "E": "II. İzzeddin Keykavus"
+  },
+  "dogru": "A",
+  "cozum": "Varka ve Gülşah, I. Alâeddin Keykubad döneminde (1220-1237) Hoylu nakkaş Mehmed ibn Abdülmümin tarafından Konya'da resimlenmiştir.",
+  "hafiza_ipucu": "KEYKUBAD döneminde Konya'da Varka-Gülşah'ın aşkı resmedildi.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 183
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-055",
+  "konu": "sanat-tarihi",
+  "alt_konu": "surname",
+  "soru": "Osmanlı sarayında şehzadelerin sünnet düğünleri gibi saray şenliklerini minyatürlerle anlatan yazma eser türüne ne ad verilir?",
+  "siklar": {
+   "A": "Şehname",
+   "B": "Surname",
+   "C": "Hünername",
+   "D": "Siyer-i Nebi",
+   "E": "Divan"
+  },
+  "dogru": "B",
+  "cozum": "Surname, şehzadelerin sünnet törenleri gibi saray şenliklerini minyatürlerle anlatan yazma eser türüdür.",
+  "hafiza_ipucu": "SURNAME = 'SÜNNET-NAME': şenlik/sünnet kitabı.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 183
+  },
+  "akraba_cikmis_soru": "Ağu25 (Surname kavramı sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-056",
+  "konu": "sanat-tarihi",
+  "alt_konu": "minyatur",
+  "soru": "Selimname, Süleymanname ve Hünername gibi 16. yüzyıl Osmanlı minyatürlü yazmalarının ortak konusu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Peygamberler tarihi",
+   "B": "İran mitolojisi",
+   "C": "Osmanlı padişahlarının tarihi ve seferleri",
+   "D": "Divan edebiyatı klasikleri",
+   "E": "İslam öncesi Türk destanları"
+  },
+  "dogru": "C",
+  "cozum": "Bu yazmalar, Osmanlı padişahlarının tarihini ve seferlerini konu edinen 16. yüzyıl minyatürlü eserlerdir.",
+  "hafiza_ipucu": "-name'li kitaplar (Selim-Süleyman-Hüner) = padişah tarihi anlatır.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 183
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-057",
+  "konu": "sanat-tarihi",
+  "alt_konu": "minyatur",
+  "soru": "Minyatür sanatının 18. yüzyıldaki son yetkin ustalarından olup aynı zamanda minyatürden yağlıboya resme geçişi de temsil eden sanatçı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Nakkaş Osman",
+   "B": "Nigârî",
+   "C": "Matrakçı Nasuh",
+   "D": "Levni",
+   "E": "Şeyh Hamdullah"
+  },
+  "dogru": "D",
+  "cozum": "Levni ve Abdullah Buharî, 18. yüzyıl Osmanlı minyatür sanatının son büyük ustaları olup minyatürden yağlıboya resme geçişi temsil ederler.",
+  "hafiza_ipucu": "LEVNİ = minyatürün son büyük ustası, yağlıboyaya AÇILAN kapı.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 240
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-058",
+  "konu": "sanat-tarihi",
+  "alt_konu": "tezhip",
+  "soru": "Elyazması eserlerin sayfalarını başta altın olmak üzere çeşitli renklerle süsleme sanatına ne ad verilir?",
+  "siklar": {
+   "A": "Minyatür",
+   "B": "Katı'",
+   "C": "Hat",
+   "D": "Kündekari",
+   "E": "Tezhip"
+  },
+  "dogru": "E",
+  "cozum": "Tezhip, elyazması eserleri altın ve renkli desenlerle süsleme sanatıdır ('altınlama').",
+  "hafiza_ipucu": "TEZ-altın-HİP: TEZHİP = altınla süsle.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 157
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-059",
+  "konu": "sanat-tarihi",
+  "alt_konu": "tezhip",
+  "soru": "16. yüzyılın ikinci yarısında, Kanuni döneminde desende tekrar olmamasıyla tanınan 'Saz Yolu' üslubunu geliştiren ünlü müzehhip aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Karamemi",
+   "B": "Nakkaş Osman",
+   "C": "Levni",
+   "D": "Şahkulu",
+   "E": "Matrakçı Nasuh"
+  },
+  "dogru": "A",
+  "cozum": "16. yüzyılın ünlü müzehhibi Karamemi, desende tekrar olmamasıyla tanınan Saz Yolu üslubunu geliştirerek Türk bezeme sanatına yeni bir anlayış kazandırmıştır.",
+  "hafiza_ipucu": "KARAMEMİ = Kanuni devrinin 'tekrarsız desen' ustası, Saz Yolu.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 228
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-060",
+  "konu": "sanat-tarihi",
+  "alt_konu": "tezhip",
+  "soru": "Erken dönem tezhiplerde parlak biçimde uygulanan altının yanı sıra, sonraki yüzyıllarda ağırlıkla kullanılan renk aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kırmızı",
+   "B": "Koyu mavi",
+   "C": "Yeşil",
+   "D": "Turuncu",
+   "E": "Mor"
+  },
+  "dogru": "B",
+  "cozum": "Altının yanı sıra tezhipte ağırlıkla kullanılan renk koyu mavidir.",
+  "hafiza_ipucu": "Tezhip: altın + KOYU MAVİ ikilisi.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 157
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-061",
+  "konu": "sanat-tarihi",
+  "alt_konu": "kundekari",
+  "soru": "Ahşap parçaların çivi ya da tutkal kullanılmadan, geometrik oyuklarla birbirine geçirilerek birleştirilmesi tekniğine ne ad verilir?",
+  "siklar": {
+   "A": "Kakma",
+   "B": "Oyma",
+   "C": "Kündekari",
+   "D": "Sedef işçiliği",
+   "E": "Telkari"
+  },
+  "dogru": "C",
+  "cozum": "Kündekari, ahşap parçaların çivi veya yapıştırıcı kullanılmadan geometrik geçmelerle birleştirildiği tekniktir.",
+  "hafiza_ipucu": "Çivisiz KÜNDE — ahşap güreş tutuşu gibi birbirine geçer.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 (kündekari tanımı birebir sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-062",
+  "konu": "sanat-tarihi",
+  "alt_konu": "kundekari",
+  "soru": "Kündekari tekniği için aşağıdakilerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Ahşap parçalar çivi kullanılmadan birleştirilir",
+   "B": "Tutkal kullanılmaz",
+   "C": "Parçalar geometrik geçmelerle bağlanır",
+   "D": "Parçalar arasında metal çivilerle sağlamlık sağlanır",
+   "E": "Osmanlı ahşap işçiliğinin önemli bir tekniğidir"
+  },
+  "dogru": "D",
+  "cozum": "Kündekari tekniğinin ayırt edici özelliği tam olarak çivi ve tutkal KULLANILMAMASIdır; parçalar yalnızca geometrik geçmelerle bir arada durur.",
+  "hafiza_ipucu": "Kündekari'de çivi/metal YOK — bu seçenek yanlış olduğu için doğru cevap.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 (kündekari-sedef işçiliği ayrımı sorulmuş)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-063",
+  "konu": "sanat-tarihi",
+  "alt_konu": "cini",
+  "soru": "Anadolu Türk çini sanatının asıl büyük gelişimi hangi yüzyılda gerçekleşmiştir?",
+  "siklar": {
+   "A": "11. yüzyıl",
+   "B": "12. yüzyıl",
+   "C": "15. yüzyıl",
+   "D": "17. yüzyıl",
+   "E": "13. yüzyıl"
+  },
+  "dogru": "E",
+  "cozum": "Çininin mimaride kullanımının ilk adımı Büyük Selçuklu döneminde atılmış, asıl büyük gelişme ise 13. yüzyılda Anadolu Selçuklu çini sanatında gerçekleşmiştir.",
+  "hafiza_ipucu": "Anadolu çinisinin zirvesi: 13. yüzyıl Selçuklu.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-064",
+  "konu": "sanat-tarihi",
+  "alt_konu": "cini",
+  "soru": "Osmanlı çinilerinde sıklıkla hangi renkler kullanılmıştır?",
+  "siklar": {
+   "A": "Canlı renkler ve mavi tonları",
+   "B": "Kırmızı ve siyah",
+   "C": "Sarı ve kahverengi",
+   "D": "Beyaz ve gri",
+   "E": "Pastel tonlar"
+  },
+  "dogru": "A",
+  "cozum": "Osmanlı çiniciliğinde canlı renkler ve özellikle mavi tonları ağırlıklı olarak kullanılmıştır.",
+  "hafiza_ipucu": "Osmanlı çinisi = canlı renk + MAVİ ton ikilisi.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "Ağu25 (çini renkleri birebir sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-065",
+  "konu": "sanat-tarihi",
+  "alt_konu": "cini",
+  "soru": "Figürlü çini parçalarıyla Anadolu Selçuklu Dönemi'nin en kaliteli çini örneklerini veren saray kazısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Topkapı Sarayı",
+   "B": "Kubadabad Sarayı",
+   "C": "Beylerbeyi Sarayı",
+   "D": "Dolmabahçe Sarayı",
+   "E": "İshak Paşa Sarayı"
+  },
+  "dogru": "B",
+  "cozum": "Kubadabad Sarayı kazılarında bulunan figürlü çini parçaları, Anadolu Selçuklu Dönemi'nin en kaliteli çini örnekleri arasında yer alır.",
+  "hafiza_ipucu": "KUBADabad = figürlü çininin Selçuklu sarayı.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-066",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Viyana Belvedere Sarayı'nda sergilenen ünlü 'Öpücük' adlı tablo aşağıdaki ressamlardan hangisine aittir?",
+  "siklar": {
+   "A": "Michelangelo",
+   "B": "Raffaello",
+   "C": "Gustav Klimt",
+   "D": "Salvador Dalí",
+   "E": "Vincent Van Gogh"
+  },
+  "dogru": "C",
+  "cozum": "Öpücük, Gustav Klimt'in eseri olup Viyana Belvedere Sarayı'nda sergilenmektedir.",
+  "hafiza_ipucu": "Altın yaldızlı Öpücük, KLİMT imzalı, Viyana BELVEDERE'nin bahçesinde.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "Mar26 (Öpücük-Klimt birebir sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-067",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Gustav Klimt'in ünlü 'Öpücük' adlı tablosu hangi şehirdeki müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Paris",
+   "B": "Londra",
+   "C": "Floransa",
+   "D": "Viyana",
+   "E": "Madrid"
+  },
+  "dogru": "D",
+  "cozum": "Öpücük tablosu, Viyana'daki Belvedere Sarayı Müzesi'nde sergilenmektedir.",
+  "hafiza_ipucu": "Klimt Avusturyalıdır; eseri VİYANA'da kalır.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "Mar26 (Öpücük-Klimt bağlantılı)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-068",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Dünyaca ünlü 'Davut Heykeli' aşağıdaki sanatçılardan hangisine aittir?",
+  "siklar": {
+   "A": "Donatello",
+   "B": "Bernini",
+   "C": "Praxiteles",
+   "D": "Myron",
+   "E": "Michelangelo"
+  },
+  "dogru": "E",
+  "cozum": "Ünlü mermer Davut Heykeli, Michelangelo'nun eseridir.",
+  "hafiza_ipucu": "Mermer dev Floransa'da sapanını tutuyor: MICHELANGELO-Davut.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 11
+  },
+  "akraba_cikmis_soru": "Ağu25 (Davut Heykeli-Michelangelo birebir sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-069",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "'Son Akşam Yemeği' adlı ünlü duvar resminin sanatçısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Leonardo da Vinci",
+   "B": "Michelangelo",
+   "C": "Vincent Van Gogh",
+   "D": "Pablo Picasso",
+   "E": "Raffaello"
+  },
+  "dogru": "A",
+  "cozum": "Son Akşam Yemeği, Leonardo da Vinci'nin fresk tekniğiyle yaptığı ünlü eseridir.",
+  "hafiza_ipucu": "Masanın tek tarafına oturan 13 kişi: DA VİNCİ-Son Akşam Yemeği.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 11
+  },
+  "akraba_cikmis_soru": "Ağu25 (Son Akşam Yemeği birebir sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-070",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Aşağıdakilerden hangisi Leonardo da Vinci'nin eseri ya da uğraşlarından biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Mona Lisa tablosu",
+   "B": "Davut Heykeli",
+   "C": "Kayaların Meryem'i",
+   "D": "Son Akşam Yemeği",
+   "E": "Mekanik makine proje çizimleri"
+  },
+  "dogru": "B",
+  "cozum": "Davut Heykeli, Leonardo değil Michelangelo'ya aittir; diğer seçenekler Leonardo'nun eser ve uğraşlarıdır.",
+  "hafiza_ipucu": "Leonardo ressam-mühendistir ama heykeltıraş DEĞİL — Davut ona ait değil.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "Kitap kendi kendini sınama sorusu (Leonardo eserleri)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-071",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Aşağıdakilerden hangisi Michelangelo Buonarroti'nin eserlerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Davut Heykeli",
+   "B": "Pietà",
+   "C": "Donatello",
+   "D": "Âdem'in Yaradılışı",
+   "E": "Musa Heykeli"
+  },
+  "dogru": "C",
+  "cozum": "Donatello, Michelangelo'nun bir eseri değil, kendisi de ünlü bir heykeltıraş olan farklı bir sanatçıdır.",
+  "hafiza_ipucu": "Donatello bir İSİM'dir, eser değil — tuzağa düşme.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "Kitap kendi kendini sınama sorusu (Michelangelo eserleri)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-072",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Leonardo da Vinci'nin ünlü 'Mona Lisa' tablosu hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "British Museum",
+   "B": "Prado Müzesi",
+   "C": "Uffizi Galerisi",
+   "D": "Louvre Müzesi",
+   "E": "Belvedere Sarayı"
+  },
+  "dogru": "D",
+  "cozum": "Mona Lisa, Paris'teki Louvre Müzesi'nde sergilenmektedir (Leonardo'nun eserleri: Kültür Tarihi s.129).",
+  "hafiza_ipucu": "Mona Lisa camın ardında, Paris LOUVRE'da bekler.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-073",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Vatikan'daki Sixtine (Sistina) Şapeli'nin tavan freskleri kim tarafından yapılmıştır?",
+  "siklar": {
+   "A": "Raffaello",
+   "B": "Leonardo da Vinci",
+   "C": "Botticelli",
+   "D": "Donatello",
+   "E": "Michelangelo"
+  },
+  "dogru": "E",
+  "cozum": "Sixtine Şapeli'nin tavan freskleri 1512'de Michelangelo tarafından yapılmış, Rönesans'ın en önemli mimari süslemelerinden biri sayılmıştır.",
+  "hafiza_ipucu": "Sırtüstü çalışıp tavanı boyayan usta: MICHELANGELO-Sistina.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 211
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-074",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "'Guernica' adlı ünlü tablo aşağıdaki ressamlardan hangisine aittir?",
+  "siklar": {
+   "A": "Pablo Picasso",
+   "B": "Salvador Dalí",
+   "C": "Henri Matisse",
+   "D": "Joan Miró",
+   "E": "Diego Rivera"
+  },
+  "dogru": "A",
+  "cozum": "Guernica, Pablo Picasso'nun kübist üslupla yaptığı ünlü savaş karşıtı tablosudur.",
+  "hafiza_ipucu": "PİCASSO'nun kübist çığlığı: Guernica.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 230
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-075",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Picasso'nun 'Guernica' adlı tablosu hangi olayı konu almaktadır?",
+  "siklar": {
+   "A": "İspanya Engizisyonu",
+   "B": "İspanya'daki Guernica kasabasının bombalanması",
+   "C": "I. Dünya Savaşı'nda Paris kuşatması",
+   "D": "Fransız Devrimi",
+   "E": "II. Dünya Savaşı'nda Madrid işgali"
+  },
+  "dogru": "B",
+  "cozum": "Guernica, 27 Nisan 1937'de İspanya'daki Guernica kasabasının Almanlar tarafından bombalanmasını konu alır.",
+  "hafiza_ipucu": "Tablonun adı zaten olayın yeri: GUERNICA kasabası bombalandı.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 230
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-076",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Ekspresyonizm akımının öncü örneği sayılan 'Çığlık' adlı tablonun ressamı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Vincent Van Gogh",
+   "B": "Paul Gauguin",
+   "C": "Edvard Munch",
+   "D": "Wassily Kandinsky",
+   "E": "Franz Marc"
+  },
+  "dogru": "C",
+  "cozum": "Çığlık, Norveçli ressam Edvard Munch'a ait olup ekspresyonizm akımının öncü örneği kabul edilir.",
+  "hafiza_ipucu": "MUNCH'ın figürü elleriyle yüzünü tutup çığlık atar.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 228
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-077",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Aşağıdakilerden hangisi ekspresyonizm (dışavurumculuk) akımının öncü sanatçılarından biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Edvard Munch",
+   "B": "James Ensor",
+   "C": "Ferdinand Hodler",
+   "D": "Claude Monet",
+   "E": "Wassily Kandinsky"
+  },
+  "dogru": "D",
+  "cozum": "Claude Monet, Munch-Ensor-Hodler-Kandinsky gibi ekspresyonist değil, empresyonizmin (izlenimciliğin) öncü ismidir.",
+  "hafiza_ipucu": "MONET = izlenim(empresyonizm)'in babası, ekspresyonizmle karıştırma.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 228
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-078",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Empresyonizmden dışavurumculuğa (ekspresyonizme) yönelen, 'Yıldızlı Gece' adlı tablosuyla tanınan ressam aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Paul Cézanne",
+   "B": "Paul Gauguin",
+   "C": "Claude Monet",
+   "D": "Henri Matisse",
+   "E": "Vincent Van Gogh"
+  },
+  "dogru": "E",
+  "cozum": "Van Gogh, empresyonizmden dışavurumculuğa yönelmiştir; Yıldızlı Gece bu dönemin tanınmış tablolarındandır.",
+  "hafiza_ipucu": "VAN GOGH'un kıvrımlı fırça darbeleri gökyüzünü 'yıldızlı gece'ye çevirir.",
+  "kaynak": {
+   "dosya": "Kültür Tarihi.pdf",
+   "sayfa": 203
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-079",
+  "konu": "sanat-tarihi",
+  "alt_konu": "bati-resmi",
+  "soru": "Pablo Picasso'nun 1901-1904 yılları arasındaki 'Mavi Dönem'inde ağırlıklı olarak resmettiği konular aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Göçebeler, körler, sokak kadınları gibi zor yaşam koşullarındaki sıradan insanlar",
+   "B": "Kral ve saray çevresi",
+   "C": "Deniz manzaraları",
+   "D": "Mitolojik tanrı figürleri",
+   "E": "Rönesans azizleri"
+  },
+  "dogru": "A",
+  "cozum": "Picasso'nun hüzün ve mavi rengin hâkim olduğu Mavi Dönem'inde göçebeler, körler, sakatlar, sokak kadınları gibi zor yaşam koşullarındaki insanlar konu edilmiştir.",
+  "hafiza_ipucu": "MAVİ DÖNEM = hüznün rengi, kentin unutulmuşlarının portresi.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 230
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-080",
+  "konu": "sanat-tarihi",
+  "alt_konu": "turk-resmi",
+  "soru": "'Kaplumbağa Terbiyecisi' adlı ünlü tablonun ressamı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Şeker Ahmet Paşa",
+   "B": "Osman Hamdi Bey",
+   "C": "İbrahim Çallı",
+   "D": "Fikret Mualla",
+   "E": "Nazmi Ziya Güran"
+  },
+  "dogru": "B",
+  "cozum": "Kaplumbağa Terbiyecisi, Osman Hamdi Bey'in en tanınmış tablosudur.",
+  "hafiza_ipucu": "Müzeci ressam OSMAN HAMDİ, kaplumbağaları bile 'eğitiyor'.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25 (Kaplumbağa Terbiyecisi-Osman Hamdi Bey birebir sorulmuş)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAN-081",
+  "konu": "sanat-tarihi",
+  "alt_konu": "turk-resmi",
+  "soru": "Osman Hamdi Bey'in çabalarıyla 1883 yılında kurulan, Batılı anlamda güzel sanatlar eğitimi veren ilk kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Darülfünun",
+   "B": "Mühendishane-i Berrî-i Hümâyun",
+   "C": "Sanayi-i Nefise Mektebi",
+   "D": "Osmanlı Ressamlar Cemiyeti",
+   "E": "Müstakil Ressamlar ve Heykeltıraşlar Birliği"
+  },
+  "dogru": "C",
+  "cozum": "Sanayi-i Nefise Mektebi, 1883'te Osman Hamdi Bey'in çabalarıyla kurularak Batılı anlamda güzel sanatlar eğitimine başlamıştır.",
+  "hafiza_ipucu": "1883 = OSMAN HAMDİ'nin okulu: Sanayi-i Nefise.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 184
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-082",
+  "konu": "sanat-tarihi",
+  "alt_konu": "turk-resmi",
+  "soru": "19. yüzyılda Avrupa'da ünlü ressamların atölyelerinde eğitim gören ilk Türk ressamları arasında aşağıdakilerden hangileri sayılabilir?\nI. Şeker Ahmet Paşa\nII. Osman Hamdi Bey\nIII. İbrahim Çallı\nIV. Süleyman Seyyid",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "II, III ve IV",
+   "C": "Yalnız I ve II",
+   "D": "I, II ve IV",
+   "E": "Hepsi"
+  },
+  "dogru": "D",
+  "cozum": "Şeker Ahmet Paşa, Osman Hamdi Bey ve Süleyman Seyyid 19. yüzyılda Avrupa'da eğitim görmüştür; İbrahim Çallı ise 20. yüzyıl başındaki 1914 Kuşağı'nın bir ismidir.",
+  "hafiza_ipucu": "19.yy üçlüsü: Şeker Ahmet Paşa - Osman Hamdi - Süleyman Seyyid (Çallı sonraki kuşak).",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 184
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-083",
+  "konu": "sanat-tarihi",
+  "alt_konu": "turk-resmi",
+  "soru": "Aşağıdaki ressamlardan hangisi, Sanayi-i Nefise'den mezun olup I. Dünya Savaşı nedeniyle yurda dönen '1914 Kuşağı' sanatçılarından biri DEĞİLDİR?",
+  "siklar": {
+   "A": "İbrahim Çallı",
+   "B": "Avni Lifij",
+   "C": "Feyhaman Duran",
+   "D": "Nazmi Ziya Güran",
+   "E": "Osman Hamdi Bey"
+  },
+  "dogru": "E",
+  "cozum": "Osman Hamdi Bey (1842-1910), 1914 Kuşağı'ndan önceki kuşağın öncü ressamlarındandır; İbrahim Çallı, Avni Lifij ve Feyhaman Duran ise 1914 Kuşağı'nın temsilcileridir.",
+  "hafiza_ipucu": "Osman Hamdi 1910'da vefat etti — 1914 Kuşağı'na yetişemedi.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 184
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAN-084",
+  "konu": "sanat-tarihi",
+  "alt_konu": "turk-resmi",
+  "soru": "1909 yılında kurulan, Türk ressamlarının ilk meslek birliği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Osmanlı Ressamlar Cemiyeti",
+   "B": "Müstakil Ressamlar ve Heykeltıraşlar Birliği",
+   "C": "Güzel Sanatlar Birliği",
+   "D": "Sanayi-i Nefise Mektebi",
+   "E": "1914 Kuşağı Derneği"
+  },
+  "dogru": "A",
+  "cozum": "Osmanlı Ressamlar Cemiyeti, 1909'da kurulan Türk ressamlarının ilk meslek birliğidir.",
+  "hafiza_ipucu": "1909 = ilk birlik: OSMANLI Ressamlar Cemiyeti.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 184
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAN-085",
+  "konu": "sanat-tarihi",
+  "alt_konu": "turk-resmi",
+  "soru": "1928 yılında kurulan ve Ekspresyonizm, Kübizm ve Konstrüktivizm gibi Batılı akımların Türk resim sanatına girmesini sağlayan birlik aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Osmanlı Ressamlar Cemiyeti",
+   "B": "Müstakil Ressamlar ve Heykeltıraşlar Birliği",
+   "C": "1914 Kuşağı",
+   "D": "Sanayi-i Nefise Mektebi",
+   "E": "Güzel Sanatlar Akademisi"
+  },
+  "dogru": "B",
+  "cozum": "1928'de kurulan Müstakil Ressamlar ve Heykeltıraşlar Birliği ile ekspresyonizm, kübizm ve konstrüktivizm gibi akımlar Türk resim sanatına girmiştir.",
+  "hafiza_ipucu": "1928 = MÜSTAKİL birlik, akımları Türk resmine taşıyan ikinci dalga.",
+  "kaynak": {
+   "dosya": "Sanat Tarihi_Anadolu Üni.pdf",
+   "sayfa": 184
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ }
+]

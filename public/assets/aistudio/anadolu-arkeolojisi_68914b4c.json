@@ -1,0 +1,3742 @@
+[
+ {
+  "id": "ARK-001",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Anadolu'da tarih öncesi çağların kronolojik sıralaması aşağıdakilerin hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Neolitik-Paleolitik-Mezolitik-Kalkolitik-Tunç-Demir",
+   "B": "Paleolitik-Mezolitik-Neolitik-Kalkolitik-Tunç-Demir",
+   "C": "Paleolitik-Neolitik-Mezolitik-Tunç-Kalkolitik-Demir",
+   "D": "Mezolitik-Paleolitik-Neolitik-Tunç-Kalkolitik-Demir",
+   "E": "Paleolitik-Mezolitik-Kalkolitik-Neolitik-Tunç-Demir"
+  },
+  "dogru": "B",
+  "cozum": "Kitabın ünite sırası da bu kronolojiyi izler: Paleolitik, Mezolitik, Neolitik, Kalkolitik, Tunç, Demir Çağı (s.10-94).",
+  "hafiza_ipucu": "Rehberdeki 'PaMeNeKaTuDe' hikâye zinciri: taş yontuldu, ara verildi, cilalandı+ekildi, bakır karıştı, kalay katıldı, en sert kazandı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 10
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-002",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Paleolitik Çağ, değişen çevre koşulları ve taş teknolojisindeki gelişime göre kaç ana evreye ayrılır?",
+  "siklar": {
+   "A": "İki",
+   "B": "Üç",
+   "C": "Dört",
+   "D": "Beş",
+   "E": "Altı"
+  },
+  "dogru": "B",
+  "cozum": "Paleolitik dönem \"Alt\", \"Orta\" ve \"Üst\" olmak üzere üç ana evreye ayrılır (s.12).",
+  "hafiza_ipucu": "Taş 1.0 (Alt) → 1.5 (Orta) → 2.0 (Üst) model yükseltmesi gibi düşün.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-003",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Aşağıdakilerden hangisi Paleolitik dönemin özelliklerinden biri değildir?",
+  "siklar": {
+   "A": "İlk taş aletlerin yapılmaya başlanması",
+   "B": "İlk dinsel uygulamaların ortaya çıkması",
+   "C": "İlk tarımsal üretimin başlaması",
+   "D": "İnsanın soyut düşünmeye başlaması",
+   "E": "İlk mağara resimlerinin yapılması"
+  },
+  "dogru": "C",
+  "cozum": "Tarımsal üretim Neolitik Çağ'ın getirdiği bir yeniliktir; Paleolitik avcı-toplayıcı bir dönemdir (s.34, kendimizi sınayalım).",
+  "hafiza_ipucu": "Taş 1.0'da tarım yok — tarım ancak Neolitik'in 'devrimi'yle gelir.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 34
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-004",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "\"Eski Taş Çağı\" olarak da bilinen ve Yunanca \"palaios (eski) + lithos (taş)\" sözcüklerinden türeyen dönem aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Neolitik",
+   "B": "Kalkolitik",
+   "C": "Mezolitik",
+   "D": "Paleolitik",
+   "E": "Tunç Çağı"
+  },
+  "dogru": "D",
+  "cozum": "Paleolitik terimi Yunanca palaios=eski ve lithos=taş sözcüklerinden gelir (s.12, kenar not).",
+  "hafiza_ipucu": "Palaios=eski → Paleolitik=Eski Taş.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-005",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Günümüz insanıyla kıyaslanabilecek beyin kapasitesine sahip olan ve 120 bin yıl öncesinden itibaren Avrupa ile Yakındoğu'da görülen Neandertal insanı, Paleolitik Çağ'ın hangi evresiyle özdeşleştirilir?",
+  "siklar": {
+   "A": "Alt Paleolitik",
+   "B": "Orta Paleolitik",
+   "C": "Üst Paleolitik",
+   "D": "Epipaleolitik",
+   "E": "Mezolitik"
+  },
+  "dogru": "B",
+  "cozum": "Neandertal insanı, Orta Paleolitik Dönem içinde değerlendirilir (s.14). Ağustos 2025 sınavında sorulmuştur.",
+  "hafiza_ipucu": "Rehberde altı çizili 'Neanderthal = Orta Paleolitik' kuralı — Ağu25'te çıktı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "Ağu25 Neandertal-OrtaPaleolitik",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-006",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Anadolu'da Homo Erectus'a ait en eski insan izlerinin, yaklaşık G.Ö. 900.000 yıl öncesine tarihlenen bulgularla saptandığı yerleşim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Karain",
+   "B": "Yarımburgaz",
+   "C": "Konya Dursunlu",
+   "D": "Öküzini",
+   "E": "Aşıklı Höyük"
+  },
+  "dogru": "C",
+  "cozum": "Anadolu'daki en eski insan izlerine, G.Ö. 900.000 yıl önce Konya Dursunlu'daki bulgularla ulaşılmıştır (s.13).",
+  "hafiza_ipucu": "\"Dursun'lu\" en eski dursun — Anadolu'nun en eski insan izi Dursunlu'da.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-007",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "2000'li yıllarda Denizli'de Kocabaş traverten yataklarında bulunan ve G.Ö. 500.000 yıl civarına tarihlenen kafatası parçası hangi insan türüne bağlanmaktadır?",
+  "siklar": {
+   "A": "Homo Sapiens",
+   "B": "Homo Habilis",
+   "C": "Homo Erectus",
+   "D": "Homo Neandertal",
+   "E": "Homo Ergaster"
+  },
+  "dogru": "C",
+  "cozum": "Kocabaş kafatası, anatomik açıdan Homo Erectus'a bağlanmaktadır (s.14).",
+  "hafiza_ipucu": "Kocabaş'ın kafası 'erken' bir tür: Erectus.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-008",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Küçük boyutlu, tahta veya kemik saplara yerleştirilerek kullanılan minik taş aletlere ne ad verilir ve bunlar hangi çağın tipik buluntularındandır?",
+  "siklar": {
+   "A": "Megalit - Neolitik",
+   "B": "Mikrolit - Mezolitik/Epipaleolitik",
+   "C": "Obsidyen - Kalkolitik",
+   "D": "Ostrakon - Tunç Çağı",
+   "E": "Litik - Alt Paleolitik"
+  },
+  "dogru": "B",
+  "cozum": "Mikrolit adı verilen minik taş aletler Mezolitik/Epipaleolitik Çağ'ın tipik buluntularıdır (s.15-16).",
+  "hafiza_ipucu": "Mikro=küçük; Mezolitik'in aletleri de küçük (mikro-lit).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 15
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-009",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Neolitik dönemdeki köklü değişimi \"Neolitik Devrim\" olarak adlandıran ve dönemin gerçekleşme koşulunu iklim ile bitki örtüsünün tarıma elverişliliğine bağlayan arkeolog kimdir?",
+  "siklar": {
+   "A": "Robert J. Braidwood",
+   "B": "H. J. Breasted",
+   "C": "Gordon Childe",
+   "D": "James Mellaart",
+   "E": "Ian Hodder"
+  },
+  "dogru": "C",
+  "cozum": "\"Neolitik Devrim\" kavramını ortaya atan kuramcı arkeolog Gordon Childe'dır (s.16-17).",
+  "hafiza_ipucu": "Childe = değişimin \"çocuğu\" (devrim) — yeni bir çağ doğurdu.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 16
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-010",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "İlk tarıma başlayan toplulukların vahalar ya da nehir boyları yerine bol yağış alan dağ eteklerinde yaşadığını öne süren \"Doğal Yaşam Bölgesi\" kuramı kime aittir?",
+  "siklar": {
+   "A": "Gordon Childe",
+   "B": "H. J. Breasted",
+   "C": "Robert J. Braidwood",
+   "D": "Klaus Schmidt",
+   "E": "Mehmet Özdoğan"
+  },
+  "dogru": "C",
+  "cozum": "Robert J. Braidwood, Yakındoğu araştırmaları sonucunda \"Doğal Yaşam Bölgesi\" kuramını ortaya koymuştur (s.17).",
+  "hafiza_ipucu": "Braidwood'un 'wood'u (orman/dağ eteği) → dağ eteği kuramı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 17
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-011",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "I. Çanak Çömleksiz Neolitik A (ÇÇNA)\nII. Çanak Çömleksiz Neolitik B (ÇÇNB)\nIII. Çanak Çömlekli (Seramik) Neolitik\nYukarıdaki evreler, Neolitik Dönem kronolojisinde hangi sırayla gerçekleşmiştir?",
+  "siklar": {
+   "A": "I-II-III",
+   "B": "II-I-III",
+   "C": "III-I-II",
+   "D": "I-III-II",
+   "E": "II-III-I"
+  },
+  "dogru": "A",
+  "cozum": "Neolitik Dönem kronolojisi seramik kullanımına göre önce Çanak Çömleksiz (A sonra B), sonra Çanak Çömlekli evre şeklinde ilerler (s.17).",
+  "hafiza_ipucu": "Önce çömlek yok (A,B) sonra çömlek var — mantıken sıralama alfabetik gibi de akılda kalır.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 17
+  },
+  "akraba_cikmis_soru": "Şub25 Cilalı Taş=Neolitik",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-012",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Yunanca \"khalkos (bakır)\" ve \"lithos (taş)\" sözcüklerinden türeyen ve aletlerin hem bakırdan hem taştan yapılmaya devam edildiği dönem aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tunç Çağı",
+   "B": "Demir Çağı",
+   "C": "Kalkolitik Çağ",
+   "D": "Neolitik Çağ",
+   "E": "Mezolitik Çağ"
+  },
+  "dogru": "C",
+  "cozum": "Kalkolitik (Bakır-Taş) Çağı, MÖ 5500-3000 arasında bakırın taşla birlikte kullanıldığı dönemdir (s.41).",
+  "hafiza_ipucu": "Kal-KO-litik: bakır (KO=kupro/khalkos) + taş bir arada.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 41
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-013",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Kalkolitik Çağ ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Taş aletler eski önemini yitirmeye başlamıştır.",
+   "B": "Madencilik ve bölgeler arası ticaret önem kazanmıştır.",
+   "C": "Mezopotamya'da Halaf, Obeyd ve Uruk kültürleriyle temsil edilir.",
+   "D": "Anadolu'da bu dönemde yazı zaten kullanılmaktaydı.",
+   "E": "Artı ürün, yönetici bir sınıfın ortaya çıkmasını sağlamıştır."
+  },
+  "dogru": "D",
+  "cozum": "Anadolu'da yazı, Kalkolitik'ten çok sonra Asur Ticaret Kolonileri Çağı'nda (Orta Tunç) kullanılmaya başlamıştır; Kalkolitik'te henüz resim yazısı bile çözülememiştir (s.42).",
+  "hafiza_ipucu": "Yazı = Asur tüccarlarının kil tabletleriyle gelir, Kalkolitik'te değil.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 42
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-014",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "cağlar-kronolojisi",
+  "soru": "Batıda Doğu Akdeniz kıyılarından başlayıp Kuzey Suriye ve Güneydoğu Anadolu üzerinden Zagros Dağları boyunca Basra Körfezi'ne kadar uzanan, tarihçi H.J. Breasted tarafından adlandırılan yay biçimli verimli bölgeye ne ad verilir?",
+  "siklar": {
+   "A": "Anadolu Yarımadası",
+   "B": "Bereketli Hilal",
+   "C": "Doğal Yaşam Bölgesi",
+   "D": "Çekirdek Bölge",
+   "E": "Yukarı Mezopotamya"
+  },
+  "dogru": "B",
+  "cozum": "Bu yay biçimli bölge, tarihçi H.J. Breasted tarafından \"Bereketli Hilal\" olarak adlandırılmıştır (s.16).",
+  "hafiza_ipucu": "Hilal (ay şekli) = yay biçimli bereketli kuşak.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 16
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-015",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "göbeklitepe-taş-tepeler",
+  "soru": "Göbekli Tepe yerleşimi aşağıdaki illerin hangisinde yer almaktadır?",
+  "siklar": {
+   "A": "Gaziantep",
+   "B": "Mardin",
+   "C": "Şanlıurfa",
+   "D": "Diyarbakır",
+   "E": "Adıyaman"
+  },
+  "dogru": "C",
+  "cozum": "Göbekli Tepe, Şanlıurfa'nın 15 km kuzeydoğusunda yer alır (s.36).",
+  "hafiza_ipucu": "Rehberdeki 'Taş Tepeler ailesi' hepsi Şanlıurfa yıldız kümesi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "Şub25 Göbeklitepe-Neolitik(3x)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-016",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "göbeklitepe-taş-tepeler",
+  "soru": "Göbekli Tepe'de 1995 yılından bu yana kazılara başlayan ve yerleşimin dünyanın bilinen en erken tapınak yapısı olduğunu ortaya koyan Alman arkeolog kimdir?",
+  "siklar": {
+   "A": "Ekrem Akurgal",
+   "B": "Klaus Schmidt",
+   "C": "Wilhelm Dörpfeld",
+   "D": "James Mellaart",
+   "E": "Ian Hodder"
+  },
+  "dogru": "B",
+  "cozum": "Göbekli Tepe'de 1995'ten itibaren kazı yürüten Alman arkeolog Klaus Schmidt'tir (s.36).",
+  "hafiza_ipucu": "Göbekli usta Schmidt: Göbeklitepe'nin dikilitaşlarını yontan 'usta' Schmidt.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "Mar26-7 Göbeklitepe-Schmidt",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-017",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "göbeklitepe-taş-tepeler",
+  "soru": "Göbekli Tepe ve çağdaşı Neolitik kült yapılarının tabanlarında kullanılan, kireç harcının sıkıştırılıp perdahlanmasıyla elde edilen taban döşeme tekniği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Mozaik",
+   "B": "Terrazzo",
+   "C": "Opus sectile",
+   "D": "Fresko",
+   "E": "Kerpiç sıva"
+  },
+  "dogru": "B",
+  "cozum": "Neolitik kült yapılarının tabanları terrazzo tekniğiyle döşenmiştir (s.21).",
+  "hafiza_ipucu": "Terrazzo bugün de zemin döşemesidir — 'ilk şık zemin' Göbeklitepe'de.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-018",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "göbeklitepe-taş-tepeler",
+  "soru": "I. Karahantepe\nII. Sayburç\nIII. Sefertepe\nYukarıdaki yerleşimlerden hangileri Şanlıurfa'da yürütülen Taş Tepeler Projesi kapsamındadır?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve II",
+   "C": "II ve III",
+   "D": "I, II ve III",
+   "E": "Yalnız III"
+  },
+  "dogru": "D",
+  "cozum": "Taş Tepeler Projesi kapsamında Göbeklitepe'nin yanı sıra Karahantepe, Sayburç ve Sefertepe gibi Şanlıurfa yerleşimleri yer alır (güncel arkeoloji, rehber kaynaklı).",
+  "hafiza_ipucu": "\"Urfa'nın tepeleri taştan\" — hepsi tek aile.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "Mar26 Karahantepe-TaşTepeler",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-019",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "göbeklitepe-taş-tepeler",
+  "soru": "Taş Tepeler Projesi kapsamında Göbeklitepe'ye yaklaşık 25 km uzaklıkta olan ve benzer T biçimli dikmelerle tanınan Karahantepe hangi ildedir?",
+  "siklar": {
+   "A": "Mardin",
+   "B": "Adıyaman",
+   "C": "Şanlıurfa",
+   "D": "Gaziantep",
+   "E": "Kilis"
+  },
+  "dogru": "C",
+  "cozum": "Karahantepe, Göbeklitepe gibi Şanlıurfa sınırları içinde yer alan Taş Tepeler yerleşimlerindendir.",
+  "hafiza_ipucu": "Karahan = 'büyük ağabey', Göbeklitepe'nin kardeşi, ikisi de Urfa'lı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "Mar26 Karahantepe-TaşTepeler",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-020",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "göbeklitepe-taş-tepeler",
+  "soru": "Göbekli Tepe, Nevali Çori ve Çayönü'ndeki kült yapılarının kullanım ömürlerinin sonunda uygulanan ortak ritüel aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yapıların yıkılıp tamamen yok edilmesi",
+   "B": "Yapıların doldurularak bilinçli biçimde gömülmesi",
+   "C": "Yapıların pazar yerine dönüştürülmesi",
+   "D": "Yapıların sur içine alınması",
+   "E": "Yapıların mezarlığa çevrilmesi"
+  },
+  "dogru": "B",
+  "cozum": "Bu anıtsal kült yapıları, terk edilme aşamasında bilinçli bir törenle doldurularak gömülmüştür (s.26).",
+  "hafiza_ipucu": "Tapınak ölünce de 'gömülür' — insan gibi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-021",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "göbeklitepe-taş-tepeler",
+  "soru": "Göbekli Tepe ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Çanak Çömleksiz Neolitik döneme (MÖ 9-8 bin) tarihlenir.",
+   "B": "Dünyanın bilinen en erken tapınak yapılarını barındırır.",
+   "C": "Yapıların tabanları terrazzo tekniğiyle döşenmiştir.",
+   "D": "Kazı çalışmalarına ilk olarak Ekrem Akurgal başlamıştır.",
+   "E": "Dikmeler üzerinde yılan, tilki, yaban domuzu gibi hayvan kabartmaları bulunur."
+  },
+  "dogru": "D",
+  "cozum": "Göbekli Tepe kazılarını 1995'ten itibaren Klaus Schmidt yürütmüştür; Ekrem Akurgal Phokaia, Pitane, Erythrai kazılarıyla tanınır (s.36, 74).",
+  "hafiza_ipucu": "Akurgal = Foça/Klasik Çağ; Schmidt = Göbeklitepe/Neolitik. Karıştırma!",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-022",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "göbeklitepe-taş-tepeler",
+  "soru": "Göbekli Tepe yerleşiminin arkeolojik açıdan en dikkat çekici yönü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Anadolu'nun bilinen ilk tarımcı köyü olması",
+   "B": "Yerleşik hayata henüz geçmemiş avcı-toplayıcı toplulukların inşa ettiği anıtsal tapınak yapıları barındırması",
+   "C": "Çanak çömlek üretiminin ilk kez burada başlaması",
+   "D": "Anadolu'nun ilk sur ile çevrili şehri olması",
+   "E": "İlk yazılı belgelerin bulunduğu yerleşim olması"
+  },
+  "dogru": "B",
+  "cozum": "Göbekli Tepe, henüz yerleşik yaşama geçmemiş avcı-toplayıcı toplulukların inşa ettiği anıtsal tapınak yapılarıyla dikkat çeker; bu durum \"önce tapınak, sonra kentleşme\" tezini doğurmuştur (s.36-37).",
+  "hafiza_ipucu": "Çatalhöyük=ilk kent-yerleşim, Göbeklitepe=ilk tapınak — rehberin ayırt edici çapası.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 37
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-023",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "çatalhöyük",
+  "soru": "UNESCO Dünya Mirası Listesi'nde yer alan Çatalhöyük yerleşimi hangi ildedir?",
+  "siklar": {
+   "A": "Aksaray",
+   "B": "Karaman",
+   "C": "Konya",
+   "D": "Niğde",
+   "E": "Kayseri"
+  },
+  "dogru": "C",
+  "cozum": "Çatalhöyük, Konya ilinde yer alan ve UNESCO Dünya Mirası Listesi'nde bulunan bir Neolitik yerleşimdir.",
+  "hafiza_ipucu": "Konya Ovası = Çatalhöyük'ün evi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-024",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "çatalhöyük",
+  "soru": "Çatalhöyük'ü 1960'lı yılların başında keşfeden ve yerleşmedeki yapıları \"tapınak\" olarak adlandıran İngiliz arkeolog kimdir?",
+  "siklar": {
+   "A": "Ian Hodder",
+   "B": "James Mellaart",
+   "C": "Wilhelm Dörpfeld",
+   "D": "Robert Braidwood",
+   "E": "Klaus Schmidt"
+  },
+  "dogru": "B",
+  "cozum": "Çatalhöyük'ü 1960'lı yılların başında keşfeden İngiliz arkeolog James Mellaart'tır (s.35).",
+  "hafiza_ipucu": "Mel-l-aart: Çatalhöyük'ün ilk 'sanat' (art) kâşifi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 35
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-025",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "çatalhöyük",
+  "soru": "1990'lı yılların başından itibaren Çatalhöyük'te kazılara başlayan ve yerleşmede en az on iki tabaka ortaya çıkaran Cambridge Üniversitesi'nden arkeolog kimdir?",
+  "siklar": {
+   "A": "Ian Hodder",
+   "B": "Gordon Childe",
+   "C": "Ekrem Akurgal",
+   "D": "Halet Çambel",
+   "E": "Mehmet Özdoğan"
+  },
+  "dogru": "A",
+  "cozum": "1990'lardan itibaren Çatalhöyük kazılarını Cambridge Üniversitesi'nden Ian Hodder yürütmüştür (s.35).",
+  "hafiza_ipucu": "Hodder = Hoca Dedektif — Çatalhöyük'ün dinî yaşamını çözmeye çalışan 'ikinci kâşif'.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 35
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-026",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "çatalhöyük",
+  "soru": "Çatalhöyük evlerine giriş genellikle nasıl sağlanmıştır?",
+  "siklar": {
+   "A": "Sokağa bakan büyük kapılardan",
+   "B": "Avludan geçen dar bir koridordan",
+   "C": "Damdaki bir açıklıktan ahşap merdivenlerle",
+   "D": "Yer altı tünellerinden",
+   "E": "Sur kapılarından"
+  },
+  "dogru": "C",
+  "cozum": "Genellikle kapısız olan Çatalhöyük evlerine damlardaki bir açıklıktan ahşap merdivenlerle girilirdi (s.23-24).",
+  "hafiza_ipucu": "Kapı yok, çatıdan gir — apartmanın 'çatı katı girişi' gibi düşün.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-027",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "çatalhöyük",
+  "soru": "Çatalhöyük yerleşmesinin mimari özellikleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Evler tek katlı ve düz damlıdır.",
+   "B": "Evler birbirine bitişik olarak inşa edilmiştir.",
+   "C": "Mahalleler arasında geniş caddeler ve meydanlar bulunur.",
+   "D": "Duvarlar taş temelsiz kerpiçtendir.",
+   "E": "Kimi evlerin duvarları kült amaçlı resimlerle süslenmiştir."
+  },
+  "dogru": "C",
+  "cozum": "Çatalhöyük'te evler bitişik nizamda kümelenmiş olup aralarında sokak bulunmaz; yer yer büyük avlu ve ağıllara yer verilmiştir (s.23).",
+  "hafiza_ipucu": "Sokak yok, çatıdan çatıya geçilir — 'meydan' değil 'sıkışık köy'.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-028",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "çatalhöyük",
+  "soru": "Çatalhöyük'te bulunan ve doğurganlığı simgeleyen şişman kadın heykelcikleri arkeologlarca genellikle nasıl yorumlanmaktadır?",
+  "siklar": {
+   "A": "Kraliyet ailesi üyesi",
+   "B": "Ana tanrıça",
+   "C": "Rahip figürü",
+   "D": "Savaşçı kadın",
+   "E": "Sıradan bir ev kadını"
+  },
+  "dogru": "B",
+  "cozum": "Kadınlık uzuvları vurgulanmış şişman kadın heykelcikleri, Anadolu'da binlerce yıl sonra Frig döneminde Kubaba/Kibele'ye uzanan ana tanrıça inancının erken göstergesi olarak yorumlanır (s.27).",
+  "hafiza_ipucu": "Çatalhöyük'ün 'şişman hanımı' → Kibele'nin atası.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 27
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-029",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "nevali-çori",
+  "soru": "Nevali Çori yerleşimi hangi ildedir?",
+  "siklar": {
+   "A": "Adıyaman",
+   "B": "Şanlıurfa",
+   "C": "Diyarbakır",
+   "D": "Mardin",
+   "E": "Malatya"
+  },
+  "dogru": "B",
+  "cozum": "Nevali Çori, Şanlıurfa sınırları içinde yer alan Çanak Çömleksiz Neolitik dönem yerleşimidir (s.19-21).",
+  "hafiza_ipucu": "Göbeklitepe'nin Urfa'lı 'kuzeni' — Taş Tepeler ailesinden.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": "Mar26 NevaliÇori-AtatürkBarajı",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-030",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "nevali-çori",
+  "soru": "Nevali Çori yerleşimi günümüzde hangi barajın suları altında kalmıştır?",
+  "siklar": {
+   "A": "Keban Barajı",
+   "B": "Karakaya Barajı",
+   "C": "Birecik Barajı",
+   "D": "Atatürk Barajı",
+   "E": "Ilısu Barajı"
+  },
+  "dogru": "D",
+  "cozum": "Nevali Çori, bugün Atatürk Barajı'nın suları altında kalmıştır (s.19-21, rehber).",
+  "hafiza_ipucu": "Nevali Çori 'boğulan kuzen' — Atatürk Barajı altında.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": "Mar26 NevaliÇori-AtatürkBarajı",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-031",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "nevali-çori",
+  "soru": "Einkorn buğdayı ile koyun ve keçinin ilk evcil örneklerinin görüldüğü Neolitik yerleşim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Çayönü",
+   "B": "Cafer Höyük",
+   "C": "Nevali Çori",
+   "D": "Hallan Çemi",
+   "E": "Aşıklı Höyük"
+  },
+  "dogru": "C",
+  "cozum": "Einkorn buğdayının, koyun ve keçinin ilk evcil örnekleri Nevali Çori'de görülür (s.19).",
+  "hafiza_ipucu": "Nevali Çori = 'ilk evcilleşen üçlü': einkorn+koyun+keçi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 19
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-032",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "nevali-çori",
+  "soru": "Nevali Çori ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Dinî öğelerin günlük yaşam alanından ayrıldığı anlaşılmıştır.",
+   "B": "T biçimli payeler üzerinde insan yontuları ve kabartmalar bulunmuştur.",
+   "C": "Göbekli Tepe'ye en yakın karşılaştırmalı örnekleri barındırır.",
+   "D": "Bugün Birecik Barajı'nın suları altında kalmıştır.",
+   "E": "Çanak Çömleksiz Neolitik döneme tarihlenir."
+  },
+  "dogru": "D",
+  "cozum": "Nevali Çori Atatürk Barajı altında kalmıştır; Birecik Barajı altında kalan yerleşim (Halfeti) farklıdır — bu ikisi sık karıştırılır (s.21, rehber).",
+  "hafiza_ipucu": "Nevali Çori→Atatürk Barajı; Halfeti→Birecik Barajı. Mar26'da tuzak şıktı!",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": "Mar26 NevaliÇori-AtatürkBarajı",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-033",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "aşıklı-höyük",
+  "soru": "En erken örneklerinden biri olan ve Orta Anadolu'nun bitişik düzenli, kerpiç mimari geleneğinin habercisi sayılan Aşıklı Höyük hangi ildedir?",
+  "siklar": {
+   "A": "Niğde",
+   "B": "Konya",
+   "C": "Aksaray",
+   "D": "Nevşehir",
+   "E": "Kayseri"
+  },
+  "dogru": "C",
+  "cozum": "Aşıklı Höyük, Aksaray ilinde yer alan Akeramik Neolitik dönem yerleşimidir (s.22).",
+  "hafiza_ipucu": "Ağu25'te çıkan höyük-il eşleştirmesi: Aşıklı-Aksaray.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "Ağu25 höyük-şehir eşleştirme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-034",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "aşıklı-höyük",
+  "soru": "Aşıklı Höyük'ün yerleşim düzeni ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Birbirinden bağımsız, dağınık kulübelerden oluşur.",
+   "B": "Bütün yapılar bitişik düzende, dar yollarla ayrılmış kalabalık mahalleler biçimindedir.",
+   "C": "Yalnızca çadır tipi geçici barınaklardan oluşur.",
+   "D": "Anıtsal tapınak yapıları merkezdedir, konut yoktur.",
+   "E": "Yerleşim tamamen taş bloklardan inşa edilmiştir."
+  },
+  "dogru": "B",
+  "cozum": "Aşıklı Höyük'te Yakındoğu'nun aksine bütün yapılar bitişik düzende, dar yollarla ayrılmış kalabalık mahalleler oluşturur (s.22).",
+  "hafiza_ipucu": "Aşıklı = ilk 'apartman mahallesi' mimarisi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-035",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "aşıklı-höyük",
+  "soru": "Bacakları karna çekili, bebeğin anne karnındaki duruşuna benzer biçimde yapılan ve Aşıklı Höyük'te ev içi gömülerde görülen ölü gömme biçimine ne ad verilir?",
+  "siklar": {
+   "A": "Kremasyon",
+   "B": "Hocker",
+   "C": "Tümülüs gömüsü",
+   "D": "Sarkofag gömüsü",
+   "E": "Urne gömüsü"
+  },
+  "dogru": "B",
+  "cozum": "Hocker, ölülerin cenin pozisyonunda gömülmesidir; Aşıklı Höyük'te ev tabanı altı gömülerde görülür (s.24).",
+  "hafiza_ipucu": "Hocker = 'çök(er)' pozisyonu, bebek gibi büzülmüş.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-036",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "aşıklı-höyük",
+  "soru": "Aşıklı Höyük ile Çatalhöyük arasındaki temel fark için aşağıdakilerden hangisi söylenebilir?",
+  "siklar": {
+   "A": "Aşıklı Höyük'te bulunan kemiklerin tamamı evcil hayvanlara aittir, Çatalhöyük'te ise yabanidir.",
+   "B": "Aşıklı Höyük halkı daha çok toplayıcılıkla geçinmiştir, morfolojik açıdan evcil sayılabilecek hayvan kemiğine rastlanmamıştır.",
+   "C": "Aşıklı Höyük, Çatalhöyük'ten daha geç bir tarihe aittir.",
+   "D": "Aşıklı Höyük tamamen göçebe bir topluluğa aittir.",
+   "E": "Aşıklı Höyük'te hiç mimari kalıntı bulunmamıştır."
+  },
+  "dogru": "B",
+  "cozum": "Aşıklı Höyük'te bulunan kemiklerin tümü yabani hayvanlara ait olup halk daha çok toplayıcılıkla geçinmiştir; bu yönüyle klasik Neolitik tanımlamayla tam örtüşmez (s.36, okuma parçası).",
+  "hafiza_ipucu": "Aşıklı = 'ev var ama tarım-hayvancılık henüz olgunlaşmamış' aşama.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-037",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "yarımburgaz",
+  "soru": "İki girişli mağarasıyla bilinen ve Alt Paleolitik dönem Oldowan endüstrisinin ele geçtiği Yarımburgaz Mağarası hangi ildedir?",
+  "siklar": {
+   "A": "Tekirdağ",
+   "B": "Kırklareli",
+   "C": "İstanbul",
+   "D": "Edirne",
+   "E": "Bursa"
+  },
+  "dogru": "C",
+  "cozum": "Yarımburgaz, İstanbul'da (Küçükçekmece) Oldowan endüstrisinin ele geçtiği önemli sitlerden biridir (s.14).",
+  "hafiza_ipucu": "Rehberin en sık çıkan üçlüsü: Yarımburgaz=İstanbul/Küçükçekmece+Paleolitik+iki girişli.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "Şub25 Yarımburgaz(2x); Mar26 Yarımburgaz-Küçükçekmece",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-038",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "yarımburgaz",
+  "soru": "Yarımburgaz ve Konya Dursunlu'da ele geçen ve işlenmiş çakıllar ile yonga üretimiyle nitelenen Alt Paleolitik endüstri hangisidir?",
+  "siklar": {
+   "A": "Aşölyen",
+   "B": "Musteryen",
+   "C": "Oldowan",
+   "D": "Lövaluva",
+   "E": "Gravettien"
+  },
+  "dogru": "C",
+  "cozum": "Yarımburgaz ve Dursunlu, 2.5 milyon yıl öncesinden başlayan Oldowan endüstrisinin ele geçtiği sitlerdir (s.14).",
+  "hafiza_ipucu": "Old-owan = 'eski' (old) endüstri, en erken taş yontma geleneği.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-039",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "yarımburgaz",
+  "soru": "Yarımburgaz Mağarası'nı diğer paleolitik mağara yerleşimlerinden ayıran mimari/coğrafi özelliği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tek girişli olması",
+   "B": "İki girişli olması",
+   "C": "Yer altı su kanalına sahip olması",
+   "D": "Yapay olarak inşa edilmiş olması",
+   "E": "Deniz seviyesinin çok altında olması"
+  },
+  "dogru": "B",
+  "cozum": "Yarımburgaz Mağarası, iki girişli olmasıyla bilinir ve bu özelliği sınavlarda sıkça vurgulanır (s.14, rehber).",
+  "hafiza_ipucu": "\"Yarım\" adı bile ipucu: iki yarım kapı gibi düşün.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "Şub25/Mar26 Yarımburgaz",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-040",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "karain",
+  "soru": "Aşölyen aletlerin tabakalanmış halde ele geçtiği ve Anadolu'daki bilinen tek Neandertal fosil kalıntısının (alt çene kemiği) bulunduğu mağara hangi ildedir?",
+  "siklar": {
+   "A": "Antalya",
+   "B": "Muğla",
+   "C": "Burdur",
+   "D": "Isparta",
+   "E": "Konya"
+  },
+  "dogru": "A",
+  "cozum": "Karain Mağarası Antalya'dadır; hem Aşölyen alet tabakalanması hem de Anadolu'daki tek Neandertal fosili burada bulunmuştur (s.14).",
+  "hafiza_ipucu": "Karain = Antalya'nın 'taş devri' mağarası.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-041",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "karain",
+  "soru": "Anadolu'da bilinen tek Neandertal insanı fosil kalıntısı olan alt çene kemiği hangi mağarada bulunmuştur?",
+  "siklar": {
+   "A": "Yarımburgaz",
+   "B": "Öküzini",
+   "C": "Karain",
+   "D": "Beldibi",
+   "E": "Belbaşı"
+  },
+  "dogru": "C",
+  "cozum": "Anadolu'da bilinen tek Neandertal fosil kalıntısı, Karain Mağarası'nda (Antalya) bulunan alt çene kemiğidir (s.14).",
+  "hafiza_ipucu": "Karain'in tek 'Neandertal çenesi' — eşsiz buluntu.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-042",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "karain",
+  "soru": "I. Alt Paleolitik (Aşölyen aletler)\nII. Orta Paleolitik (Neandertal fosili)\nIII. Üst Paleolitik/Epipaleolitik (Karain B)\nKarain Mağarası'nda yukarıdaki evrelerden hangilerine ait izlere rastlanmıştır?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve II",
+   "C": "II ve III",
+   "D": "I, II ve III",
+   "E": "Yalnız III"
+  },
+  "dogru": "D",
+  "cozum": "Karain Mağarası, Aşölyen aletlerden Neandertal fosiline, Karain B Üst Paleolitik/Epipaleolitik tabakalarına kadar kesintisiz bir dizi barındırır (s.14-15).",
+  "hafiza_ipucu": "Karain = 'her çağdan bir kat' — Anadolu'nun en uzun süreli mağara yerleşimi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 15
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-043",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "alacahöyük",
+  "soru": "Tunç Çağı kral mezarlarıyla tanınan Alacahöyük hangi ildedir?",
+  "siklar": {
+   "A": "Amasya",
+   "B": "Yozgat",
+   "C": "Çorum",
+   "D": "Kırşehir",
+   "E": "Tokat"
+  },
+  "dogru": "C",
+  "cozum": "Alacahöyük, Çorum ilinde yer alan ve Tunç Çağı kral mezarlarıyla tanınan bir yerleşimdir (s.50, rehber).",
+  "hafiza_ipucu": "Ağu25'te çıkan eşleştirme: Alacahöyük-Çorum.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 50
+  },
+  "akraba_cikmis_soru": "Ağu25 höyük-şehir eşleştirme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-044",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "alacahöyük",
+  "soru": "Atatürk'ün emriyle Remzi Oğuz Arık tarafından 1935 yılında başlatılan, Türkiye Cumhuriyeti'nin ilk millî kazısı aşağıdaki yerleşimlerden hangisidir?",
+  "siklar": {
+   "A": "Truva",
+   "B": "Alacahöyük",
+   "C": "Aizanoi",
+   "D": "Aphrodisias",
+   "E": "Efes"
+  },
+  "dogru": "B",
+  "cozum": "Türkiye'nin ilk millî kazısı, Atatürk'ün emriyle Remzi Oğuz Arık tarafından Alacahöyük'te başlatılmıştır (rehber, s.97/110 civarı; Mart 2026 sınavında sorulmuştur).",
+  "hafiza_ipucu": "Rehberdeki AAA zinciri: Arık-Atatürk-Alacahöyük.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "Mar26-30 ilkMillîKazı-Alacahöyük",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-045",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "alacahöyük",
+  "soru": "Alacahöyük'te ele geçen ve Hitit İmparatorluk döneminin özgün eserlerinden sayılan, kapı girişlerini süsleyen kabartmalı taş bloklara ne ad verilir?",
+  "siklar": {
+   "A": "Stel",
+   "B": "Ortostat",
+   "C": "Fibula",
+   "D": "Sitadel",
+   "E": "Megaron"
+  },
+  "dogru": "B",
+  "cozum": "Alacahöyük kabartmalı kapı ortostatları, Hitit İmparatorluk dönemi eserlerinin güzel bir örneğidir (s.97).",
+  "hafiza_ipucu": "Ortostat = duvar dibine 'ayakta duran' (orto=dik) taş levha.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-046",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "alacahöyük",
+  "soru": "Alacahöyük ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Çorum ilinde yer alır.",
+   "B": "Türkiye'nin ilk millî kazı alanıdır.",
+   "C": "Tunç Çağı kral mezarlarıyla tanınır.",
+   "D": "Kazısı Klaus Schmidt tarafından başlatılmıştır.",
+   "E": "Kabartmalı kapı ortostatlarıyla bilinir."
+  },
+  "dogru": "D",
+  "cozum": "Alacahöyük'ün ilk millî kazısı Remzi Oğuz Arık tarafından başlatılmıştır; Klaus Schmidt ise Göbekli Tepe'nin kazıcısıdır (Mar26 sınavı; s.36, 97).",
+  "hafiza_ipucu": "Arık→Alacahöyük; Schmidt→Göbeklitepe. Karıştırma!",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "Mar26 ilkMillîKazı-Alacahöyük",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-047",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "truva",
+  "soru": "Hisarlık Tepesi üzerinde kurulu olan ve Çanakkale Boğazı'nın Asya kıyısında yer alan Truva (Troia) antik kenti hangi ildedir?",
+  "siklar": {
+   "A": "Balıkesir",
+   "B": "Çanakkale",
+   "C": "İzmir",
+   "D": "Tekirdağ",
+   "E": "Edirne"
+  },
+  "dogru": "B",
+  "cozum": "Truva, Çanakkale il sınırları içinde, İda Dağı (Kaz Dağı) eteklerindeki Hisarlık'ta bulunmaktadır (s.74, kenar not).",
+  "hafiza_ipucu": "Truva=Çanakkale Boğazı'nın Asya yakası, Hisarlık Tepesi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 74
+  },
+  "akraba_cikmis_soru": "Mar26 Priam-Troya",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-048",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "truva",
+  "soru": "1870 yılında Homeros'un İlyada Destanı'ndan yola çıkarak Truva'yı bulmak amacıyla kazılara başlayan ve Priamos'un efsanevi hazinesini arayan kişi kimdir?",
+  "siklar": {
+   "A": "Wilhelm Dörpfeld",
+   "B": "James Mellaart",
+   "C": "Heinrich Schliemann",
+   "D": "Klaus Schmidt",
+   "E": "Ekrem Akurgal"
+  },
+  "dogru": "C",
+  "cozum": "Truva'da ilk kazılara 1870'te başlayan ve define arayışı içinde olan kişi Heinrich Schliemann'dır (s.83).",
+  "hafiza_ipucu": "Rehberdeki 'Şilep-man': hazineyi şilebe yükleyip kaçıran Schliemann.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "Mar26 Priam-Troya",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-049",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "truva",
+  "soru": "Heinrich Schliemann'ın bulduğu ve sonradan Priamos'a değil daha erken bir krala ait olduğu anlaşılan hazine, Truva'nın hangi kültür katından çıkarılmıştır?",
+  "siklar": {
+   "A": "Troia I",
+   "B": "Troia II",
+   "C": "Troia IV",
+   "D": "Troia VI",
+   "E": "Troia VIIa"
+  },
+  "dogru": "B",
+  "cozum": "Schliemann'ın bulduğu hazine, Troia II evresinden kapı ve rampa yanında yapılan kazılarda ele geçmiştir (s.83).",
+  "hafiza_ipucu": "İki (II) numara: Schliemann'ın 'ikinci' katmandaki hazinesi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-050",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "truva",
+  "soru": "Batı Edebiyatı'nın ilk büyük eserleri sayılan İlyada ve Odysseia destanlarının derleyicisi kimdir?",
+  "siklar": {
+   "A": "Ksenophon",
+   "B": "Strabon",
+   "C": "Aristoteles",
+   "D": "Homeros",
+   "E": "Herodotos"
+  },
+  "dogru": "D",
+  "cozum": "İlyada ve Odysseia destanlarının derleyicisi, MÖ 8. veya 9. yüzyılda yaşadığı düşünülen Homeros'tur (s.84).",
+  "hafiza_ipucu": "Homeros = destanların 'evi' (Homer).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 84
+  },
+  "akraba_cikmis_soru": "Mar26/Ağu25 Homeros-İlyada",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-051",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "truva",
+  "soru": "Troia Savaşı'nın efsanevi başlangıcıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Kavga tanrıçası Eris'in 'en güzele' yazılı elması ortaya atması olayı tetiklemiştir.",
+   "B": "Paris, hakemliği kabul ederek Aphrodite'yi seçmiştir.",
+   "C": "Aphrodite, Paris'e dünyanın en güzel kadınını vaat etmiştir.",
+   "D": "Helen, Sparta Kralı Menelaos'un karısıydı.",
+   "E": "Savaşı başlatan taraf, kaçırılan Helen'i geri almak isteyen Troialılardır."
+  },
+  "dogru": "E",
+  "cozum": "Savaşı başlatan taraf, karısı kaçırılan Sparta Kralı Menelaos'un önderliğindeki Akhalardır, Troialılar değil (s.85).",
+  "hafiza_ipucu": "Menelaos saldırır, Troia savunur — savaşı açan Akhalardır.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 85
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-052",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "truva",
+  "soru": "1995 yılında ele geçen Luvice bir mühür, Truva'nın Hitit belgelerinde geçen hangi kentle özdeş olduğunu ortaya koymuştur?",
+  "siklar": {
+   "A": "Arzava",
+   "B": "Wilusa",
+   "C": "Kaniş",
+   "D": "Tarhuntaşşa",
+   "E": "Kummuh"
+  },
+  "dogru": "B",
+  "cozum": "1995'te ele geçen Luvice mühür, Truva'nın Hitit belgelerinde sözü edilen Wilusa kenti olduğunu ortaya koymuştur (s.84).",
+  "hafiza_ipucu": "Wilusa ≈ İlios (Truva'nın diğer adı) sesteşliği.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 84
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-053",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "arslantepe",
+  "soru": "Kalkolitik dönemde bir ticaret kolonisi izlenimi veren ve Geç Hitit döneminde de kral Sulumeli'nin egemen olduğu Arslantepe yerleşimi hangi ildedir?",
+  "siklar": {
+   "A": "Elazığ",
+   "B": "Adıyaman",
+   "C": "Malatya",
+   "D": "Diyarbakır",
+   "E": "Şanlıurfa"
+  },
+  "dogru": "C",
+  "cozum": "Arslantepe, Malatya'da yer alır; hem Kalkolitik/Obeyd dönemi hem de Geç Hitit dönemi katmanlarıyla tanınır (s.36, 97).",
+  "hafiza_ipucu": "Ağu25'te çıkan eşleştirme: Arslantepe-Malatya.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "Ağu25 höyük-şehir eşleştirme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-054",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "arslantepe",
+  "soru": "Aslantepe sarayının kapısını süsleyen kabartmalarda tanrı ve tanrıçalara içki sunuşu betimlenen Geç Hitit dönemi Malatya Beyliği kralı kimdir?",
+  "siklar": {
+   "A": "Sulumeli",
+   "B": "Varpalavas",
+   "C": "Kuştaşpili",
+   "D": "Piyuşti",
+   "E": "Anitta"
+  },
+  "dogru": "A",
+  "cozum": "Aslantepe kapı kabartmalarında Malatya Beyliği Kralı Sulumeli'nin tanrı ve tanrıçalara içki sunuşu betimlenmiştir (s.97).",
+  "hafiza_ipucu": "Sulumeli = Malatya'nın Geç Hitit kralı, Arslantepe'nin kapı süsleyicisi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-055",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "arslantepe",
+  "soru": "Malatya yakınındaki Değirmentepe ile birlikte, mimari plan anlayışı ve ticaret verileriyle Obeyd döneminin bir ticaret kolonisi izlenimi veren yerleşim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Norşuntepe",
+   "B": "Aslantepe",
+   "C": "Hassek Höyük",
+   "D": "Tülintepe",
+   "E": "Korucutepe"
+  },
+  "dogru": "B",
+  "cozum": "Malatya Aslantepe, Hacı Nebi ve Zeytinlibahçe kazılarıyla birlikte, Güneydoğu Anadolu'nun Obeyd döneminde bir ticaret kolonisi izlenimi verdiğini göstermiştir (s.36).",
+  "hafiza_ipucu": "Aslantepe: Kalkolitik'te 'koloni', Demir Çağı'nda 'krallık merkezi'.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-056",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "ikiztepe",
+  "soru": "İlk Tunç Çağı yerleşimlerinden olan İkiztepe hangi ildedir?",
+  "siklar": {
+   "A": "Sinop",
+   "B": "Samsun",
+   "C": "Ordu",
+   "D": "Amasya",
+   "E": "Tokat"
+  },
+  "dogru": "B",
+  "cozum": "İkiztepe, Samsun ilinde yer alan İlk Tunç Çağı yerleşimlerindendir (Eski Anadolu Tarihi kitabı, s.27-28). Ağustos 2025 sınavında höyük-il eşleştirmesinde sorulmuştur.",
+  "hafiza_ipucu": "Ağu25'te çıkan eşleştirme: İkiztepe-Samsun.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": "Ağu25 höyük-şehir eşleştirme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-057",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "ikiztepe",
+  "soru": "İkiztepe'deki kazılarda ölülere hediye olarak bırakılmış ve dönemin politik çalkantısına kanıt sunan silahlar hangi malzemeden yapılmıştır?",
+  "siklar": {
+   "A": "Saf bakır",
+   "B": "Arsenikli bakır alaşımı",
+   "C": "Tunç (kalay-bakır alaşımı)",
+   "D": "Demir",
+   "E": "Gümüş"
+  },
+  "dogru": "B",
+  "cozum": "İkiztepe'deki kazılarda ölülerin yanına hediye olarak konmuş arsenikli bakır alaşımlarından yapılmış silahlar bulunmuştur (Eski Anadolu Tarihi, s.28).",
+  "hafiza_ipucu": "İkiztepe = erken metalurjinin (henüz tunç değil, arsenikli bakır) kanıtı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-058",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "küllüoba",
+  "soru": "Batı Anadolu'nun en eski kentleşme örneklerinden biri sayılan ve çömlekçi çarkının Orta Anadolu'dan Batı Anadolu'ya (Troia'ya) ulaşım rotası üzerinde bulunan Küllüoba hangi ildedir?",
+  "siklar": {
+   "A": "Kütahya",
+   "B": "Bilecik",
+   "C": "Eskişehir",
+   "D": "Bursa",
+   "E": "Afyonkarahisar"
+  },
+  "dogru": "C",
+  "cozum": "Küllüoba, Eskişehir Ovası'nda yer alır ve çömlekçi çarkının Kilikya-Orta Anadolu üzerinden Batı Anadolu'ya (Troia'ya) yayılım rotasında anılır (s.47).",
+  "hafiza_ipucu": "Ağu25'te çıkan eşleştirme: Küllüoba-Eskişehir.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 47
+  },
+  "akraba_cikmis_soru": "Ağu25 höyük-şehir eşleştirme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-059",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "küllüoba",
+  "soru": "Küllüoba yerleşimi arkeoloji literatüründe en çok hangi özelliğiyle anılır?",
+  "siklar": {
+   "A": "Anadolu'nun ilk tapınak yapıları",
+   "B": "Batı Anadolu'daki en eski kent oluşumlarından biri olması",
+   "C": "Asur Ticaret Kolonisi karum merkezi olması",
+   "D": "Frig tümülüs geleneğinin başlangıç noktası olması",
+   "E": "Roma dönemi asklepion merkezi olması"
+  },
+  "dogru": "B",
+  "cozum": "Küllüoba, İlk Tunç Çağı'nda Batı Anadolu'daki en eski kent oluşumu örneklerinden biri olarak kabul edilir (Eski Anadolu Tarihi, s.28).",
+  "hafiza_ipucu": "Küllüoba = Eskişehir Ovası'nın 'ilk kenti'.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-060",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "hacılar",
+  "soru": "Geç Neolitik ve Kalkolitik dönem mimari buluntularıyla tanınan, taş temel üzerine kerpiç bloklarla yapılmış kalın duvarlı evleriyle bilinen Hacılar yerleşimi hangi ildedir?",
+  "siklar": {
+   "A": "Isparta",
+   "B": "Antalya",
+   "C": "Burdur",
+   "D": "Denizli",
+   "E": "Konya"
+  },
+  "dogru": "C",
+  "cozum": "Hacılar, Burdur ilinde yer alan Geç Neolitik-Kalkolitik dönem yerleşimidir (s.24, 37-39).",
+  "hafiza_ipucu": "Hacılar = Göller Yöresi'nin (Burdur) Neolitik-Kalkolitik köyü.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-061",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "hacılar",
+  "soru": "Hacılar'ın yaklaşık 8 km kuzeyinde bulunan ve 11. yapı katında yuvarlak kule çıkıntılı, taş temel üzerine kerpiçten yapılmış bir savunma duvarıyla korunmalı bir köy hâline gelen yerleşim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Canhasan",
+   "B": "Kuruçay",
+   "C": "Köşk Höyük",
+   "D": "Beycesultan",
+   "E": "Höyücek"
+  },
+  "dogru": "B",
+  "cozum": "Hacılar'ın 8 km kuzeyindeki Kuruçay'ın 11. yapı katı, dış yüzeyinde yuvarlak kule çıkıntıları bulunan bir savunma duvarıyla korunmalı bir köy durumuna gelmiştir (s.24).",
+  "hafiza_ipucu": "Hacılar'ın kuzey komşusu, kuleli savunma duvarlı: Kuruçay.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-062",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "hacılar",
+  "soru": "Hacılar VI. yerleşmesi hangi olayla son bulmuştur?",
+  "siklar": {
+   "A": "Deprem",
+   "B": "Sel felaketi",
+   "C": "Büyük bir yangın",
+   "D": "Düşman istilası",
+   "E": "Salgın hastalık"
+  },
+  "dogru": "C",
+  "cozum": "Son dönemleri Çatalhöyük ile çağdaş olan Hacılar VI. yerleşmesi büyük bir yangın felaketine sahne olmuştur (s.29).",
+  "hafiza_ipucu": "Hacılar'ın sonu 'ateşle' gelir — VI. kat yangınla biter.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 29
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-063",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "asur-ticaret-kolonileri",
+  "soru": "Asur Ticaret Kolonileri Çağı'nda Anadolu'daki sistemin başşehri olan Kültepe'nin antik dönemdeki adı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hattuşa",
+   "B": "Kaniş (Neşa)",
+   "C": "Alişar",
+   "D": "Karum",
+   "E": "Sam'al"
+  },
+  "dogru": "B",
+  "cozum": "Kültepe'nin eski adı Kaniş veya Neşa'dır; Kaniş Krallığı'nın merkezi ve Asur Ticaret Kolonileri sisteminin başşehridir (s.70).",
+  "hafiza_ipucu": "K-K-K zinciri: Kültepe = Karum = Kayseri; antik adı Kaniş.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-064",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "asur-ticaret-kolonileri",
+  "soru": "Asur dilinde \"liman, rıhtım\" anlamına gelen ve Asurlu tüccarların şehrin yanında serbestçe alışveriş yapabildikleri büyük ticaret merkezine verilen ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Wabartum",
+   "B": "Karum",
+   "C": "Sitadel",
+   "D": "Agora",
+   "E": "Bit Hilani"
+  },
+  "dogru": "B",
+  "cozum": "Karum, Asur dilinde \"liman/rıhtım\" anlamına gelir ve Asurlu tüccarların kurduğu büyük ticaret merkezini ifade eder (s.70, kenar not).",
+  "hafiza_ipucu": "KARum = KARargâh — büyük ticaret merkezi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-065",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "asur-ticaret-kolonileri",
+  "soru": "Asurlu tüccarların ana ticaret merkezleri arasında yolculuk sırasında konakladıkları küçük tesislere ne ad verilirdi?",
+  "siklar": {
+   "A": "Karum",
+   "B": "Bit Hilani",
+   "C": "Wabartum",
+   "D": "Stoa",
+   "E": "Prytaneion"
+  },
+  "dogru": "C",
+  "cozum": "Wabartum, Asurlu tüccarların ana merkezler arasında konakladıkları küçük tesislere verilen addır (s.70, kenar not).",
+  "hafiza_ipucu": "WabarTUM = bir TUTam — karum'a göre çok daha küçük konaklama birimi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-066",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "asur-ticaret-kolonileri",
+  "soru": "Asur Ticaret Kolonileri Çağı'nın en büyük ve merkezi karumu olan Kültepe/Kaneş Karumu hangi ildedir?",
+  "siklar": {
+   "A": "Sivas",
+   "B": "Kayseri",
+   "C": "Yozgat",
+   "D": "Nevşehir",
+   "E": "Malatya"
+  },
+  "dogru": "B",
+  "cozum": "Karumların merkezi ve en büyüğü, Kayseri'nin yaklaşık 20 km doğusundaki Kültepe Höyüğü'nde bulunan Kaneş Karumu'dur (s.70).",
+  "hafiza_ipucu": "K-K-K: Kültepe=Karum=Kayseri.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-067",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "asur-ticaret-kolonileri",
+  "soru": "Kültepe-Karum'dan ele geçen tabletlere göre Asurlu tüccarların Anadolu'ya getirip sattığı mallar arasında aşağıdakilerden hangisi yer alır?",
+  "siklar": {
+   "A": "Bakır ve gümüş",
+   "B": "Kereste",
+   "C": "Kalay ve kumaş",
+   "D": "Demir cevheri",
+   "E": "Tahıl"
+  },
+  "dogru": "C",
+  "cozum": "Asurlu tüccarlar Anadolu'dan kereste, gümüş, bakır gibi işlenmemiş hammadde alıyor, karşılığında kendi ürettikleri kumaşları ve kalayı veriyorlardı (s.70).",
+  "hafiza_ipucu": "Kalay+kumaş getirirler, bakır+gümüş+kereste götürürler.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "Ağu25 Asurticaret",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-068",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "asur-ticaret-kolonileri",
+  "soru": "Asur Koloni Çağı ticareti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Asurlu tüccarlar Anadolu'ya hububat, bakır ve demir ticareti yapmıştır.",
+   "B": "Asurlu tüccarlar Anadolu'ya kalay başta olmak üzere parfüm ve kumaş gibi mallar da getirmiştir.",
+   "C": "Asurlu tüccarlar getirdikleri malların karşılığında Anadolu'dan savaş malzemesi almıştır.",
+   "D": "Asurlu tüccarlar Anadolu'yu yalnızca bir geçiş güzergâhı olarak kullanmıştır.",
+   "E": "Asurlu tüccarlar yaptıkları ticaret karşılığında yerli beylere hiç vergi vermemiştir."
+  },
+  "dogru": "B",
+  "cozum": "Asurlu tüccarlar Anadolu'ya kalay başta olmak üzere kumaş ve çeşitli değerli mallar getirip karşılığında hammadde almışlardır (s.70; konu arkası sorular s.5, Ağu25 sınavı).",
+  "hafiza_ipucu": "Getirilenler: kalay+kumaş(+değerli eşya); alınanlar: bakır+gümüş+altın.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-069",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "asur-ticaret-kolonileri",
+  "soru": "Asur Ticaret Kolonileri Çağı'nda Anadolu'ya gelişiyle birlikte hangi teknolojik/kültürel yenilik tüm Anadolu'ya hızla yayılmıştır?",
+  "siklar": {
+   "A": "Demir işleme teknolojisi",
+   "B": "Çömlekçi çarkı",
+   "C": "Tümülüs mezar geleneği",
+   "D": "Sitadel mimarisi",
+   "E": "Fresk tekniği"
+  },
+  "dogru": "B",
+  "cozum": "Bu dönemin ikinci büyük gelişmesi çömlekçi çarkının tüm Anadolu'da yayılmasıdır (s.71).",
+  "hafiza_ipucu": "Çömlekçi çarkı = Asur Koloni Çağı'nın 'ikinci büyük armağanı'.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-070",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "asur-ticaret-kolonileri",
+  "soru": "I. Hattuşaş\nII. Alişar\nIII. Acemhöyük\nIV. Karahöyük\nAsur Ticaret Kolonileri Çağı'nda Kültepe dışında yukarıdaki yerleşimlerden hangilerinde karum kurulmuştur?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve II",
+   "C": "I, II ve III",
+   "D": "I, II, III ve IV",
+   "E": "Yalnız IV"
+  },
+  "dogru": "D",
+  "cozum": "Kültepe'den başka Hattuşaş, Alişar, Acemhöyük, Karahöyük gibi yerleşimlerin de aralarında olduğu dokuz yerde daha karum kurulmuştur (s.70).",
+  "hafiza_ipucu": "Kültepe'nin \"dokuz kardeşi\" var — hepsi karum ağının bir parçası.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-071",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazı-terimleri",
+  "soru": "Üst üste kurulmuş yerleşim katmanlarının zamanla oluşturduğu yapay tepeye ne ad verilir?",
+  "siklar": {
+   "A": "Tümülüs",
+   "B": "Sitadel",
+   "C": "Höyük",
+   "D": "Nekropol",
+   "E": "Akropol"
+  },
+  "dogru": "C",
+  "cozum": "Höyük, üst üste kurulmuş yerleşim katmanlarının oluşturduğu tepedir (s.19-28 genelinde geçen temel kazı terimi).",
+  "hafiza_ipucu": "Höyükte 'kat kat ev' — apartman gibi, her yıkılanın üstüne yenisi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 19
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-072",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazı-terimleri",
+  "soru": "Ölülerin ahşap mezar odaları içindeki sedirler üzerine değerli armağanlarla yatırılıp üzerlerinin bir tepe oluşuncaya kadar toprakla örtülmesiyle oluşan, Anadolu'ya Frigler tarafından Trakya ve Makedonya'dan getirilen mezar tipine ne ad verilir?",
+  "siklar": {
+   "A": "Höyük",
+   "B": "Tümülüs",
+   "C": "Nekropol",
+   "D": "Ortostat",
+   "E": "Sitadel"
+  },
+  "dogru": "B",
+  "cozum": "Tümülüs, ahşap mezar odası üzerine toprak yığılarak oluşturulan tek kişilik anıt mezar tipidir; Anadolu'ya ilk kez Frigler tarafından getirilmiştir (s.110).",
+  "hafiza_ipucu": "Tümülüs'ün T'si = Tek kişilik Tepe.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 110
+  },
+  "akraba_cikmis_soru": "Mar26 sitadel-stel-höyük-fibula eşleştirme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-073",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazı-terimleri",
+  "soru": "Ulaşılması zor, dik ve sarp kayalıklar üzerine konuşlandırılmış, savunması kolay ve genellikle idari-dinsel işlevli anıtsal yapıları barındıran kaya yerleşimlerine ne ad verilir?",
+  "siklar": {
+   "A": "Nekropol",
+   "B": "Sitadel (Citadel)",
+   "C": "Tümülüs",
+   "D": "Agora",
+   "E": "Bit Hilani"
+  },
+  "dogru": "B",
+  "cozum": "Sitadel (Citadel), ulaşılması zor sarp kayalıklara konuşlandırılmış, savunması kolay kaya yerleşimleridir; Geç Hitit şehirlerinde tepedeki ana bölümü tanımlar (s.97).",
+  "hafiza_ipucu": "Sitadel=Citadel (kale) — İngilizcesi bedava ipucu.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "Mar26 sitadel-stel-höyük-fibula eşleştirme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-074",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazı-terimleri",
+  "soru": "Üzerinde yazıt veya kabartma bulunan, dinsel/siyasal mesaj ya da sınır işareti amacıyla dikilen taşa ne ad verilir?",
+  "siklar": {
+   "A": "Fibula",
+   "B": "Ortostat",
+   "C": "Stel",
+   "D": "Megaron",
+   "E": "Potern"
+  },
+  "dogru": "C",
+  "cozum": "Stel, üzerinde yazıt/kabartma bulunan dikili taştır; Geç Hitit döneminde Sultanhanı-Kayseri ve Köylütolu stelleri örnek gösterilir (s.97-98).",
+  "hafiza_ipucu": "Stel = taşa (stela) yazı yaz.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "Mar26 sitadel-stel-höyük-fibula eşleştirme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-075",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazı-terimleri",
+  "soru": "Tunç, altın veya gümüşten yapılan, giysi tutturmak veya süs amacıyla kullanılan çengelli iğneye ne ad verilir ve bu eserler özellikle hangi uygarlığın ustalığıyla tanınır?",
+  "siklar": {
+   "A": "Stel - Urartu",
+   "B": "Fibula - Frigler",
+   "C": "Ortostat - Geç Hitit",
+   "D": "Omphalos - Lidya",
+   "E": "Amphora - İon"
+  },
+  "dogru": "B",
+  "cozum": "Fibula (çengelli iğne), özellikle Frigler'in ustalığıyla tanınan bir giysi tutturucu/süs eşyasıdır; Kral Midas'ın batı dünyasına gönderdiği armağanlar arasındadır (s.104-107).",
+  "hafiza_ipucu": "Fibula = baldırın ince kemiği (anatomi) gibi ince çengelli iğne.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 104
+  },
+  "akraba_cikmis_soru": "Mar26 sitadel-stel-höyük-fibula eşleştirme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-076",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazı-terimleri",
+  "soru": "Hattuşa surlarının altından geçen, çok iri taşların bindirme yöntemiyle inşa edildiği, düşmana ansızın baskın/çıkartma yapmak amacıyla kullanılan tünele ne ad verilir?",
+  "siklar": {
+   "A": "Sitadel",
+   "B": "Propylon",
+   "C": "Potern",
+   "D": "Nymphaion",
+   "E": "Bit Hilani"
+  },
+  "dogru": "C",
+  "cozum": "Potern, Boğazköy'de sfenksli kapının altında yer alan, çok iri taşlardan bindirme yöntemiyle inşa edilmiş, baskın amaçlı bir tüneldir; Hattuşa'da toplam 5 potern bulunmaktadır (s.75, 79).",
+  "hafiza_ipucu": "Potern = sur altı gizli baskın tüneli; propylon ise şaşaalı ana giriş kapısıdır — karıştırma!",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 75
+  },
+  "akraba_cikmis_soru": "Mar26 potern",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-077",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazı-terimleri",
+  "soru": "Önde bir giriş holü, arkada ocaklı büyük bir salondan oluşan ve Batı Anadolu'da MÖ 3. binyılın başlarından itibaren kullanılan dikdörtgen planlı ev/yapı tipine ne ad verilir?",
+  "siklar": {
+   "A": "Bit Hilani",
+   "B": "Megaron",
+   "C": "Tholos",
+   "D": "Tripartit yapı",
+   "E": "Hilani"
+  },
+  "dogru": "B",
+  "cozum": "Megaron, önde giriş holü ve arkada ocaklı büyük salondan oluşan Tunç Çağı kökenli yapı tipidir; Troia I ve Phryg sitadellerinde de kullanılmıştır (s.106; Eski Anadolu Tarihi s.27).",
+  "hafiza_ipucu": "Megaron = ortası ocaklı, ön-odalı ev tipi (Tunç Çağı).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 106
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-078",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazı-terimleri",
+  "soru": "I. Höyük – üst üste kurulmuş yerleşim katmanlarının oluşturduğu tepe\nII. Tümülüs – tek mezarın üzerine yığılmış yapay tepe\nIII. Sitadel – uzunluk ölçü birimi\nIV. Fibula – giysi tutturmaya yarayan çengelli iğne\nYukarıdaki tanım-terim eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "I ve II",
+   "B": "I, II ve III",
+   "C": "I, II ve IV",
+   "D": "II, III ve IV",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "C",
+  "cozum": "Sitadel ölçü birimi değil, sarp kayalık üstünde surlu yönetim merkezidir; diğer üç eşleştirme doğrudur (s.97, 104-110). Mart 2026'da bu terimler eşleştirme sorusu olarak çıktı.",
+  "hafiza_ipucu": "Rehberin dörtlü ailesi: höyük=apartman, tümülüs=tek tepe, sitadel=citadel/kale, fibula=iğne kemiği.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "Mar26-88 sitadel-stel-höyük-fibula eşleştirme",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-079",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazıcılar",
+  "soru": "Müze-i Hümayun müdürü olarak görev yapan, Sidon (Sayda) kazılarında İskender Lahdi'yi bularak İstanbul'a getiren ve ilk Eski Eser Nizamnamesi'nin hazırlanmasında rol oynayan kişi kimdir?",
+  "siklar": {
+   "A": "Ekrem Akurgal",
+   "B": "Halet Çambel",
+   "C": "Osman Hamdi Bey",
+   "D": "Remzi Oğuz Arık",
+   "E": "Klaus Schmidt"
+  },
+  "dogru": "C",
+  "cozum": "Osman Hamdi Bey, Müze-i Hümayun müdürlüğü döneminde Sidon kazılarını yürütmüş, İskender Lahdi'yi İstanbul'a kazandırmış ve ilk Eski Eser Nizamnamesi'nin öncüsü olmuştur (Müzecilik ve Sergileme kitabı; rehber).",
+  "hafiza_ipucu": "Osman Hamdi: Sidon'dan İskender Lahdi'yi 'kurtarıp' İstanbul'a getirdi.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme_Eylül 2023_ Anadolu Üni.pdf",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-080",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazıcılar",
+  "soru": "Osman Hamdi Bey'in Osmanlı döneminde üstlendiği görev aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sadrazam",
+   "B": "Müze-i Hümayun müdürü",
+   "C": "Şeyhülislam",
+   "D": "Darphane nazırı",
+   "E": "Evkaf nazırı"
+  },
+  "dogru": "B",
+  "cozum": "Osman Hamdi Bey, Osmanlı döneminde Müze-i Hümayun (bugünkü İstanbul Arkeoloji Müzeleri'nin öncülü) müdürlüğü görevini üstlenmiştir (rehber; Müzecilik kitabı).",
+  "hafiza_ipucu": "Hamdi Bey = ilk 'müze müdürü' kimliğiyle akılda tut.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme_Eylül 2023_ Anadolu Üni.pdf",
+   "sayfa": 73
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-081",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazıcılar",
+  "soru": "Türkiye'nin ilk millî kazısı olan Alacahöyük kazısını Atatürk'ün emriyle 1935 yılında başlatan arkeolog kimdir?",
+  "siklar": {
+   "A": "Halet Çambel",
+   "B": "Ekrem Akurgal",
+   "C": "Remzi Oğuz Arık",
+   "D": "Osman Hamdi Bey",
+   "E": "Kurt Bittel"
+  },
+  "dogru": "C",
+  "cozum": "Alacahöyük'teki Türkiye'nin ilk millî kazısı, Atatürk'ün emriyle Remzi Oğuz Arık tarafından 1935'te başlatılmıştır (rehber; Mart 2026 sınavı).",
+  "hafiza_ipucu": "AAA zinciri: Arık-Atatürk-Alacahöyük.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "Mar26-30 ilkMillîKazı-Alacahöyük",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-082",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazıcılar",
+  "soru": "Göbekli Tepe'de 1995'ten itibaren kazı yürüten Klaus Schmidt hangi ülkeden bir arkeologdur?",
+  "siklar": {
+   "A": "İngiltere",
+   "B": "Fransa",
+   "C": "Almanya",
+   "D": "İtalya",
+   "E": "ABD"
+  },
+  "dogru": "C",
+  "cozum": "Klaus Schmidt, Şanlıurfa Müzesi ile Alman Arkeoloji Enstitüsü iş birliğinde Göbekli Tepe'yi kazan Alman arkeologdur (s.36).",
+  "hafiza_ipucu": "Schmidt = Almanca 'demirci usta' anlamına gelen soyadı; Alman arkeolog.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "Mar26-7 Göbeklitepe-Schmidt",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-083",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazıcılar",
+  "soru": "Phokaia, Pitane ve Erythrai gibi yerlerde kazı çalışmaları yürüten ve \"Anadolu Uygarlıkları\" adlı kitabın da yazarı olan arkeolog kimdir?",
+  "siklar": {
+   "A": "Ekrem Akurgal",
+   "B": "Halet Çambel",
+   "C": "Jale İnan",
+   "D": "Remzi Oğuz Arık",
+   "E": "Kurt Bittel"
+  },
+  "dogru": "A",
+  "cozum": "Phokaia, Pitane, Erythrai kazılarını yürüten ve \"Anadolu Uygarlıkları\" kitabının yazarı Ekrem Akurgal'dır (Ağustos 2025 sınavında sorulmuştur; s.74 ve devamında sıkça kaynak gösterilir).",
+  "hafiza_ipucu": "AKURGAL → Phokaia (Foça): 'Anadolu Uygarlıkları' kitabının yazarı; FOÇA'yı kazan HOCA.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 74
+  },
+  "akraba_cikmis_soru": "Ağu25-37 Akurgal-Phokaia",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-084",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazıcılar",
+  "soru": "Karatepe-Aslantaş kazısı ve Hitit hiyerogliflerinin çözümüne katkısıyla anılan, Türkiye'nin öncü kadın arkeologlarından biri kimdir?",
+  "siklar": {
+   "A": "Jale İnan",
+   "B": "Halet Çambel",
+   "C": "Ufuk Esin",
+   "D": "Belkıs Dinçol",
+   "E": "Nezahat Baydur"
+  },
+  "dogru": "B",
+  "cozum": "Halet Çambel, Karatepe-Aslantaş kazısıyla ve bu kazıda ortaya çıkan iki dilli yazıtın Hitit hiyerogliflerinin çözümüne katkısıyla tanınan öncü bir Türk arkeologdur (Eski Anadolu Tarihi kitabı kaynakçası, s.98).",
+  "hafiza_ipucu": "Çambel → Karatepe-Aslantaş: hiyeroglif çözümüne kadın arkeoloğun imzası.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 98
+  },
+  "akraba_cikmis_soru": "Ağu25-37 Halet Çambel (çeldirici)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-085",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "kazıcılar",
+  "soru": "I. Klaus Schmidt - Göbeklitepe\nII. Heinrich Schliemann - Truva\nIII. Remzi Oğuz Arık - Alacahöyük\nIV. Ekrem Akurgal - Phokaia\nYukarıdaki arkeolog-kazı yeri eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "Yalnız I ve II",
+   "B": "Yalnız I, II ve III",
+   "C": "Yalnız II, III ve IV",
+   "D": "I, II, III ve IV",
+   "E": "Yalnız III ve IV"
+  },
+  "dogru": "D",
+  "cozum": "Dört eşleştirme de kaynakla doğrulanmıştır: Schmidt-Göbeklitepe (s.36), Schliemann-Truva (s.83), Arık-Alacahöyük (rehber/Mar26), Akurgal-Phokaia (s.74, Ağu25).",
+  "hafiza_ipucu": "Rehberin 'kazıcılar-isim çapaları' listesini tek tek zihinde canlandır.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 36
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-086",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Antik kentlerde halkın güneşten ve yağmurdan korunması için agora ve tapınak alanlarının çevresine inşa edilen, içinde dükkânların da yer aldığı üstü kapalı sütunlu galeri yapısına ne ad verilir?",
+  "siklar": {
+   "A": "Bouleuterion",
+   "B": "Stoa",
+   "C": "Nymphaion",
+   "D": "Propylon",
+   "E": "Tholos"
+  },
+  "dogru": "B",
+  "cozum": "Stoa, agora ve tapınak çevresine inşa edilen sütunlu, üstü kapalı revaktır; içinde dükkânlar bulunur (Anadolu Arkeolojisi s.192).",
+  "hafiza_ipucu": "Loci rotasında 'güneş yaktı, sütunlu gölgeliğe kaçtın' durağı — Stoa (rehber 01, loci rotası).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 192
+  },
+  "akraba_cikmis_soru": "Şub25-7 tanım→Stoa",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-087",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Kent meclisinin toplantılarını yaptığı, erken örnekleri kare planlı ve içine \"U\" biçiminde oturma sıraları yerleştirilen antik yapıya ne ad verilir?",
+  "siklar": {
+   "A": "Prytaneion",
+   "B": "Odeon",
+   "C": "Bouleuterion",
+   "D": "Agora",
+   "E": "Heroon"
+  },
+  "dogru": "C",
+  "cozum": "Bouleuterion, kent meclisinin toplandığı yapıdır; Priene'deki erken örneği kare planlı ve U biçimli oturma sıralıdır (Anadolu Arkeolojisi s.192-193, s.198).",
+  "hafiza_ipucu": "Bouleuterion'da 'adamlar toplantıda bağrışıyor' — loci rotası 4. durak (rehber 01).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "Mart26-83(benzer Pritaneum), Ağu25 Bouleuterion",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-088",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Antik kentlerde ocağında tanrıça Hestia'nın kutsal ateşi hiç sönmeden yanan, yabancı elçilerin ve kahramanların ağırlandığı, günümüzdeki devlet konukevi işlevini gören yapıya ne ad verilir?",
+  "siklar": {
+   "A": "Prytaneion",
+   "B": "Bouleuterion",
+   "C": "Gymnasion",
+   "D": "Nymphaion",
+   "E": "Tholos"
+  },
+  "dogru": "A",
+  "cozum": "Prytaneion (Pritaneum), içinde Hestia'nın kutsal ateşinin yandığı, elçi ve kahramanların ağırlandığı devlet konukevi işlevindeki yapıdır (Anadolu Arkeolojisi s.192-193).",
+  "hafiza_ipucu": "'Bacası hep tüten binada elçiler yemekte' — loci rotası 5. durak (rehber 01).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "Mart26-83 Pritaneum tanımı",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-089",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Sağlık tanrısı Asklepios adına kurulan, Bergama, Kos ve Allianoi'de örnekleri bulunan şifa/tıp merkezlerine ne ad verilir?",
+  "siklar": {
+   "A": "Asklepion",
+   "B": "Nekropol",
+   "C": "Agora",
+   "D": "Stoa",
+   "E": "Odeon"
+  },
+  "dogru": "A",
+  "cozum": "Asklepios adına kurulan sağlık kompleksine Asklepion denir; en ünlüleri Bergama, Kos ve Allianoi'dedir (Anadolu Arkeolojisi s.182; Türkiyenin Kültürel Mirası II s.52).",
+  "hafiza_ipucu": "'Hastalar yılanlı asaya koşuyor' — Asklepios'un yılanı bugünkü eczane simgesi (rehber 01, loci rotası).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 182
+  },
+  "akraba_cikmis_soru": "Şub25-27 tanım→Asklepion",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-090",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Antik Yunan ve Roma kentlerinde \"ölüler kenti\" anlamına gelen ve sur dışında konumlanan mezarlık alanına ne ad verilir?",
+  "siklar": {
+   "A": "Akropol",
+   "B": "Nekropol",
+   "C": "Heroon",
+   "D": "Tümülüs",
+   "E": "Sitadel"
+  },
+  "dogru": "B",
+  "cozum": "Nekropol, 'ölüler kenti' anlamına gelir ve geleneksel olarak sur dışında yer alır (genel antik kent terminolojisi).",
+  "hafiza_ipucu": "Nekro=ölü; loci rotasının son durağı, kentten çıkarken görülen mezar taşları (rehber 01).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "Şub25-28 tanım→Nekropol",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-091",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Roma İmparatorluk Çağı'nda antik kentlere eklenen, çok sayıda heykelle bezenmiş anıtsal çeşme yapısına ne ad verilir? (Efes'teki Traianus örneği ünlüdür.)",
+  "siklar": {
+   "A": "Nymphaion",
+   "B": "Propylon",
+   "C": "Latrina",
+   "D": "Basilika",
+   "E": "Tetrapylon"
+  },
+  "dogru": "A",
+  "cozum": "Nymphaion, Roma döneminde anıtsal forma bürünen, heykellerle süslenen çeşme yapısıdır; Efes'teki üç katlı Traianus Nymphaionu örnektir (Anadolu Arkeolojisi s.218).",
+  "hafiza_ipucu": "'Duvardan su sesi, süslü çeşme' — su perisi nympha (rehber 01, loci rotası).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 218
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-092",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Roma İmparatorluğu döneminde sıcak yiyeceklerin satıldığı, hem oturarak hem ayakta yemek yenilebilen, günümüz hazır yiyecek restoranlarının öncüsü sayılan mekâna ne ad verilir?",
+  "siklar": {
+   "A": "Caldarium",
+   "B": "Stoa",
+   "C": "Tepidarium",
+   "D": "Thermopolium",
+   "E": "Macellum"
+  },
+  "dogru": "D",
+  "cozum": "Thermopolium, Roma'nın sıcak yemek satılan sokak lokantasıdır, günümüz fast-food'un öncüsü kabul edilir (Mart 2026 sınavı s.9, s.80. soru).",
+  "hafiza_ipucu": "THERMOpolium = THERMOS gibi sıcak tutar (rehber 01, loci rotası 6. durak).",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Mart26-80 aynı soru (farklı açıdan sorulmuştur)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-093",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Düşmana karşı baskın düzenlemek ve çıkartma yapmak amacıyla, toprak yığmasının altında iri taşların sivri kemer biçiminde bindirilmesiyle inşa edilen gizli sur tüneline ne ad verilir?",
+  "siklar": {
+   "A": "Girland",
+   "B": "Potern",
+   "C": "Megaron",
+   "D": "Propylon",
+   "E": "Diazoma"
+  },
+  "dogru": "B",
+  "cozum": "Potern, surların altında baskın/çıkartma amacıyla inşa edilen, sivri kemerli iri taşlardan oluşan gizli geçit tünelidir (Mart 2026 sınavı s.3, 28. soru).",
+  "hafiza_ipucu": "Potern (gizli çıkış) vs Propylon (şaşaalı giriş) — karşıt çapa (rehber 01, karıştırılan kavramlar).",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "Mart26-28 aynı tanım",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-094",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Ortası ocaklı, dikdörtgen planlı ve önünde giriş odası bulunan, Tunç Çağı'na özgü ev tipine ne ad verilir?",
+  "siklar": {
+   "A": "Megaron",
+   "B": "Atriumlu ev",
+   "C": "Peristilli ev",
+   "D": "Hilani",
+   "E": "Sitadel"
+  },
+  "dogru": "A",
+  "cozum": "Megaron, ortası ocaklı, dikdörtgen planlı, ön odalı Tunç Çağı ev tipidir; Mart 2026 sınavında Potern'e çeldirici olarak sunulmuştur (Mart 2026 sınavı s.3, 28. soru şıkları).",
+  "hafiza_ipucu": "Megaron = Mega (büyük) salon + ortada ocak — Tunç Çağı'nın 'salon evi'.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "Mart26-28 (çeldirici olarak geçti)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-095",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Hellenistik Dönem'de yaygınlaşan, antik kentlerin okulu işlevini gören; okuma-yazmanın yanı sıra beden eğitimi (Palaestra) ve silah kullanmanın da öğretildiği yapı tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bouleuterion",
+   "B": "Gymnasion",
+   "C": "Basilika",
+   "D": "Odeon",
+   "E": "Prytaneion"
+  },
+  "dogru": "B",
+  "cozum": "Gymnasion, antik kentin okuludur; kitaplık, yemek salonu ve sanat eseri sergileme alanları da içerebilir. Roma döneminde hamamlarla birleştirilmiştir (Anadolu Arkeolojisi s.193).",
+  "hafiza_ipucu": "Gymnasion → günümüz 'jimnastik' kelimesinin köküdür: spor + eğitim bir arada.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-096",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Stratonikeia Kenti'ndeki gymnasion yapısında, tarih, felsefe ve edebiyat derslerinin verildiği yarım yuvarlak planlı odaya ne ad verilir?",
+  "siklar": {
+   "A": "Palaestra",
+   "B": "Ephebion",
+   "C": "Frigidarium",
+   "D": "Caldarium",
+   "E": "Apodyterium"
+  },
+  "dogru": "B",
+  "cozum": "Ephebion, gymnasion içinde tarih, felsefe ve edebiyat derslerinin işlendiği yarım yuvarlak planlı odadır (Türkiyenin Kültürel Mirası I-II konu arkası soruları s.13).",
+  "hafiza_ipucu": "Ephebion = 'efebos' (genç) kelimesinden — gençlerin ders odası.",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası I-II.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-097",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Kentlerin efsanevi kurucusu veya kente büyük hizmetlerde bulunmuş kişiler için şehir içine dikilen anıtsal mezar yapısına ne ad verilir? (Efes'te Kuretler Caddesi'ndeki Androklos örneği ünlüdür.)",
+  "siklar": {
+   "A": "Heroon",
+   "B": "Tümülüs",
+   "C": "Stel",
+   "D": "Sitadel",
+   "E": "Nekropol"
+  },
+  "dogru": "A",
+  "cozum": "Heroon, kentin kurucusu ya da kahramanı için şehir içine yapılan anıtsal mezardır; Efes'te Androklos'un Dor düzenindeki Heroon'u bilinen örnektir (Anadolu Arkeolojisi s.193).",
+  "hafiza_ipucu": "Heroon = Hero (kahraman) mezarı; nekropolün aksine şehir İÇİNDE yer alır.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-098",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Hellenistik Dönem'de Mausolleion'u model alan, Ephesos Belevi ve Milas Gümüşkesen örnekleriyle bilinen yapı tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Anıtsal mezar (Mausolleion tipi)",
+   "B": "Tümülüs",
+   "C": "Sitadel",
+   "D": "Megaron",
+   "E": "Nymphaion"
+  },
+  "dogru": "A",
+  "cozum": "Halikarnassos Mausolleion'unu (dünyanın 7 harikasından biri) model alan anıtsal mezar mimarisinin Anadolu örnekleri Ephesos Belevi ve Milas Gümüşkesen Mausolleion'larıdır (Anadolu Arkeolojisi s.193).",
+  "hafiza_ipucu": "Mausolleion = Mausolos'un adından gelir; tümülüs gibi toprak yığma DEĞİL, taş anıt mezardır — tümülüs-dışı anıt mezar grubu.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-099",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Yuvarlak planlı tapınak/yapı tiplerine verilen genel ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tholos",
+   "B": "Megaron",
+   "C": "Pseudo-dipteros",
+   "D": "Peripteros",
+   "E": "Basilika"
+  },
+  "dogru": "A",
+  "cozum": "Tholos, yuvarlak planlı yapıların genel adıdır; Hellenistik dönemde özellikle agoraların ortasındaki Tykhe tapınaklarında kullanılmıştır (Anadolu Arkeolojisi s.191, s.198 Kendimizi Sınayalım).",
+  "hafiza_ipucu": "Tholos = 'top/yuvarlak' çağrışımı; Antik Yunanistan'daki tondo/kubbe formunun kökeni.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 198
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-100",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Mimar Hermogenes tarafından geliştirildiği düşünülen, dipteral tapınağın anıtsal görüntüsünü verirken sütun sayısını azaltarak daha ekonomik inşa edilen tapınak plan tipine ne ad verilir?",
+  "siklar": {
+   "A": "Peripteros",
+   "B": "Pseudo-Dipteral",
+   "C": "Tholos",
+   "D": "Prostylos",
+   "E": "Amphiprostylos"
+  },
+  "dogru": "B",
+  "cozum": "Pseudo-Dipteral plan, Magnesia'daki Artemis Leukophryene Tapınağı'nda Hermogenes tarafından geliştirilmiş; dipteral görünüm verirken iç sütun sırasını kaldırarak daha ekonomik olmuştur (Anadolu Arkeolojisi s.182).",
+  "hafiza_ipucu": "Pseudo = 'sahte/görünüşte' — gerçek dipteros gibi GÖRÜNÜR ama daha az sütunludur.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 182
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-101",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Roma döneminde mahkeme ve borsa binası olarak kullanılan, kalabalık kitleleri içine alabilen ve daha sonra ilk Hristiyan kiliselerine model olan yapı tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Basilika",
+   "B": "Thermopolium",
+   "C": "Macellum",
+   "D": "Nymphaion",
+   "E": "Tetrapylon"
+  },
+  "dogru": "A",
+  "cozum": "Basilika, Roma'da mahkeme ve borsa yapısı olarak kullanılmış; Geç Roma'dan itibaren ilk Hristiyan kiliselerine mimari model olmuştur (Anadolu Arkeolojisi s.218).",
+  "hafiza_ipucu": "Basilika → günümüz kilise mimarisinin atasıdır: mahkemeden kiliseye dönüşüm.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 218
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-102",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Aşağıdakilerden hangisi antik kentte toplu olarak kullanılabilen tuvalet yapısına verilen addır?",
+  "siklar": {
+   "A": "Frigidarium",
+   "B": "Latrina",
+   "C": "Apodyterium",
+   "D": "Caldarium",
+   "E": "Tepidarium"
+  },
+  "dogru": "B",
+  "cozum": "Latrina, aynı anda çok kişinin kullanabildiği toplu tuvalet yapısıdır; Side Agorası ile Efes Skholastika Hamamları'ndaki örnekleri günümüze ulaşmıştır (Anadolu Arkeolojisi s.218-219).",
+  "hafiza_ipucu": "Latrina — Latince kökeninden İngilizce 'latrine' kelimesine geçmiştir.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 219
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-103",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Suyun araziden geçirilirken eğim ve çukur noktaları aşabilmesi için kemerler üzerinde yükseltilen su köprüsü yapısına ne ad verilir?",
+  "siklar": {
+   "A": "Nymphaion",
+   "B": "Latrina",
+   "C": "Aquadukt",
+   "D": "Sifon",
+   "E": "Basilika"
+  },
+  "dogru": "C",
+  "cozum": "Aquadukt, suyu uzak mesafelerden düşük eğimle taşımak için kemerler üzerine inşa edilen su köprüsüdür; en güzel örneklerinden biri Aspendos'tadır (Anadolu Arkeolojisi s.217-218).",
+  "hafiza_ipucu": "Aqua (su) + dukt (kanal) — Latince kökten doğrudan anlaşılır.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 218
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-104",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Aşağıdakilerden hangisi Roma döneminde zafer amaçlı olmayıp anıtsal giriş kapısı işlevi gören ve Aphrodisias'ta Aphrodite Tapınağı'nın kutsal alan girişinde bulunan yapıya verilen addır?",
+  "siklar": {
+   "A": "Zafer Takı",
+   "B": "Propylon",
+   "C": "Tetrapylon",
+   "D": "Nymphaion",
+   "E": "Sebasteion"
+  },
+  "dogru": "C",
+  "cozum": "Tetrapylon, alınlığı kemerler üzerinde taşınan bir yapıdır; Aphrodisias'taki örnek Aphrodite Tapınağı kutsal alanının anıtsal giriş kapısıdır (Anadolu Arkeolojisi s.217).",
+  "hafiza_ipucu": "Tetra = dört — dört yönlü/dört sütunlu anıtsal kapı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 217
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-105",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Tanrıça Roma ve tanrılaştırılmış Roma İmparatoruna tapınmak için inşa edilen tapınak tipine ne ad verilir? (Aphrodisias'taki örneği en önde gelenlerdendir.)",
+  "siklar": {
+   "A": "Sebasteion",
+   "B": "Asklepion",
+   "C": "Bouleuterion",
+   "D": "Heroon",
+   "E": "Ptolemaion"
+  },
+  "dogru": "A",
+  "cozum": "Sebasteion, tanrıça Roma ve tanrılaştırılmış imparator kültü için inşa edilen tapınaktır; Aphrodisias'taki, imparatorları yerel kült tanrılarıyla birleştiren kabartmalarıyla ünlüdür (Anadolu Arkeolojisi s.215).",
+  "hafiza_ipucu": "Sebastos = Yunanca 'Augustus' karşılığı — imparator kültü tapınağı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 215
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-106",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "I. Bouleuterion — meclis binası\nII. Nekropol — mezarlık alanı\nIII. Agora — çarşı/meydan\nIV. Akropol — sur dışı alan\nV. Odeon — anıtsal çeşme\nYukarıdaki yapı-işlev eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "I, III ve IV",
+   "C": "II, III ve V",
+   "D": "I, II, IV ve V",
+   "E": "Yalnız I ve II"
+  },
+  "dogru": "A",
+  "cozum": "Akropol 'yukarı kent'tir (sur dışı değil); Odeon küçük kapalı konser yapısıdır, çeşme değildir. Doğru eşleşmeler I, II ve III'tür (Anadolu Arkeolojisi s.192-193).",
+  "hafiza_ipucu": "Akropol=akro/yukarı, Odeon=audio/konser — karıştırılan kavramlar tablosu (rehber 01).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-107",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Aşağıdakilerden hangisi bir antik kentte agoranın etrafında genellikle bulunmayan yapı tiplerinden biridir?",
+  "siklar": {
+   "A": "Stoa",
+   "B": "Bouleuterion (devlet agorası bünyesinde)",
+   "C": "Tholos (Tykhe tapınağı)",
+   "D": "Tümülüs",
+   "E": "Anıtlar ve heykeller"
+  },
+  "dogru": "D",
+  "cozum": "Tümülüs, kral/soylu mezarı olup kent dışında yığma tepe biçiminde yapılır; agora çevresinde bulunmaz. Stoa, Bouleuterion, Tholos ve heykeller ise Hellenistik agoraların olağan bileşenleridir (Anadolu Arkeolojisi s.192).",
+  "hafiza_ipucu": "Tümülüs kral mezarıdır, agoranın değil nekropolün/kırın parçasıdır.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 192
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-108",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Aşağıdakilerden hangisi Roma İmparatorluk Çağı'nda Anadolu'ya getirilen yeni bir yapı tipi değildir?",
+  "siklar": {
+   "A": "Hamam",
+   "B": "Latrina",
+   "C": "Basilika",
+   "D": "Agora",
+   "E": "Nymphaion (anıtsal formuyla)"
+  },
+  "dogru": "D",
+  "cozum": "Agora, Hellenistik ve hatta daha erken dönemden beri Anadolu kentlerinin merkeziydi; Roma'nın Anadolu'ya getirdiği yeni yapı tipleri arasında hamam, latrina, basilika ve anıtsal nymphaion sayılır (Anadolu Arkeolojisi s.217-218).",
+  "hafiza_ipucu": "Agora zaten Hellenistik Çağ'ın (hatta Arkaik'in) yapısıdır; Roma sadece devraldı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 217
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-109",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Antik Yunan siyasal ve sosyal yaşamının en karakteristik yönetim biçimi olan, kendi yasaları ile yönetilen, bağımsız kent-devletine ne ad verilir?",
+  "siklar": {
+   "A": "Polis",
+   "B": "Satraplık",
+   "C": "Eyalet (Provincia)",
+   "D": "Diocesis",
+   "E": "Conventus"
+  },
+  "dogru": "A",
+  "cozum": "Polis, kendi yöneticileri ve yasalarıyla yönetilen bağımsız Yunan kent-devletidir (Anadolu Arkeolojisi s.127-129).",
+  "hafiza_ipucu": "Polis → 'politika', 'metropol' gibi günümüz kelimelerinin köküdür.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 127
+  },
+  "akraba_cikmis_soru": "Ağu25-62 tanım→Polis",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-110",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik kent yapı sözlüğü",
+  "soru": "Birkaç kentin ya da küçük yerleşim biriminin bir araya gelerek tek bir kent-devleti oluşturmasına antik Yunanca'da ne ad verilir?",
+  "siklar": {
+   "A": "Synoikismos",
+   "B": "Kleros",
+   "C": "Oikist",
+   "D": "Neokoros",
+   "E": "Dioecesis"
+  },
+  "dogru": "A",
+  "cozum": "Synoikismos, birkaç kent veya küçük yerleşimin birleşerek tek bir kent-devleti (polis) oluşturmasıdır (Anadolu Arkeolojisi s.128).",
+  "hafiza_ipucu": "Syn = birlikte + oikos = ev/yerleşim — 'birlikte yerleşme'.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 128
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-111",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Roma dönemine ait fresk ve mozaikleriyle ünlü \"Yamaç Evler\" aşağıdaki antik kentlerden hangisinde bulunur?",
+  "siklar": {
+   "A": "Bergama",
+   "B": "Hierapolis",
+   "C": "Efes",
+   "D": "Side",
+   "E": "Aphrodisias"
+  },
+  "dogru": "C",
+  "cozum": "Yamaç Evler (Atriumlu ev örnekleri), Efes'te bulunan, duvar resimleri ve mozaikleriyle ünlü zengin Roma dönemi konutlarıdır (Anadolu Arkeolojisi s.219).",
+  "hafiza_ipucu": "Efes = yamaç şehir; zenginler yamaçta, manzaralı evlerde otururdu.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 219
+  },
+  "akraba_cikmis_soru": "Mart26-29 aynı bilgi farklı soru kökü",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-112",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Kroisos'un kabartmalı sütun tamburlarına bağışta bulunduğu, dünyanın yedi harikasından biri sayılan tapınak aşağıdaki antik kentlerden hangisindedir?",
+  "siklar": {
+   "A": "Efes (Artemis Tapınağı)",
+   "B": "Didyma (Apollon Tapınağı)",
+   "C": "Bergama (Zeus Altarı)",
+   "D": "Sardes (Artemis Tapınağı)",
+   "E": "Aizanoi (Zeus Tapınağı)"
+  },
+  "dogru": "A",
+  "cozum": "Lidya Kralı Kroisos, Efes Artemis Tapınağı'nın inşasına, özellikle kabartmalı sütun tamburlarına büyük bağışlarda bulunmuştur (Anadolu Arkeolojisi s.125).",
+  "hafiza_ipucu": "Kroisos zengin kraldı, zenginliğini dünyanın 7 harikasından birine akıttı: Efes Artemis.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 125
+  },
+  "akraba_cikmis_soru": "Şub25-20 (7 harika listesi)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-113",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Roma İmparatoru Lucius Verus'un Parthia seferini kabartmalarla anlatan \"Parthlar Anıtı\" hangi antik kentte bulunmuştur (bugün Viyana'da sergilenmektedir)?",
+  "siklar": {
+   "A": "Bergama",
+   "B": "Efes",
+   "C": "Aphrodisias",
+   "D": "Side",
+   "E": "Aspendos"
+  },
+  "dogru": "B",
+  "cozum": "Parthlar Anıtı Efes'te, Mazeus-Mithridates Kapısı karşısında bulunmuştur; kabartmaları bugün Viyana'da sergilenmektedir (Anadolu Arkeolojisi s.220).",
+  "hafiza_ipucu": "Efes zaten çok anıta ev sahipliği yapar: Artemis, Yamaç Evler, Nymphaion, Parthlar Anıtı — hepsi Efes ailesi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 220
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-114",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Pergamon Kralı II. Attalos'un kendi adını vererek kurduğu, bugünkü Antalya kentinin antik ismi olan yerleşim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sagalassos",
+   "B": "Perge",
+   "C": "Attaleia",
+   "D": "Side",
+   "E": "Aspendos"
+  },
+  "dogru": "C",
+  "cozum": "Pamphylia bölgesinde II. Attalos (MÖ 159-138) kendi adını taşıyan Attaleia (Antalya) kentini kurmuştur (Anadolu Arkeolojisi s.182).",
+  "hafiza_ipucu": "Attaleia = Attalos'un kenti → Antalya (isim benzerliği doğrudan ipucu).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 182
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-115",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Aşağıdaki antik kent-il eşleştirmelerinden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Aspendos – Antalya",
+   "B": "Hierapolis – Denizli",
+   "C": "Aizanoi – Kütahya",
+   "D": "Zeugma – Gaziantep",
+   "E": "Kibyra – Muğla"
+  },
+  "dogru": "E",
+  "cozum": "Kibyra, günümüz Burdur ili sınırlarındadır (Gölhisar), Muğla değildir. Diğer eşleştirmeler doğrudur (Anadolu Arkeolojisi s.211, s.187, s.219; Türkiyenin Kültürel Mirası I-II konu arkası s.13).",
+  "hafiza_ipucu": "Kibyra-Burdur: Sagalassos'un komşusu, ikisi de Burdur'un antik kent ikilisi.",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası I-II.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "Şub25-74 antik kent-il eşleştirme (benzer format)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-116",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Aşağıdakilerden hangisi Bergama'daki (Pergamon) Hellenistik yapılardan biri değildir?",
+  "siklar": {
+   "A": "Asklepion",
+   "B": "Zeus Altarı",
+   "C": "Plutonion",
+   "D": "Pergamon Kütüphanesi",
+   "E": "Dionysos Tapınağı (yüksek podyumlu)"
+  },
+  "dogru": "C",
+  "cozum": "Plutonion, Bergama'da değil Hierapolis'te bulunan yeraltı kutsal alanıdır. Asklepion, Zeus Altarı, kütüphane ve Dionysos Tapınağı Bergama'ya aittir (Anadolu Arkeolojisi s.182, 191).",
+  "hafiza_ipucu": "Plutonion'u Bergama'ya değil Hierapolis'e bağla: 'Pluton yeraltı tanrısı, Pamukkale'nin travertenlerinin altında saklı'.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 182
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-117",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "2000'den fazla mezar yapısı bulunan nekropol alanına ve Plutonion adı verilen yeraltı kutsal alanına sahip antik kent aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efes",
+   "B": "Bergama",
+   "C": "Aizanoi",
+   "D": "Aphrodisias",
+   "E": "Hierapolis"
+  },
+  "dogru": "E",
+  "cozum": "Hierapolis (Pamukkale), antik çağın en büyük nekropollerinden birine ve Plutonion adlı yeraltı kutsal alanına sahiptir (Ağustos 2025 sınavı s.16, 61. soru).",
+  "hafiza_ipucu": "Hierapolis = Plutonion + dev nekropol ikilisi (rehber 01, MUTLAKA BİL 16).",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 16
+  },
+  "akraba_cikmis_soru": "Ağu25-61 aynı soru (farklı ifade)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-118",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Afrodisias antik kentinde önemli kamu yapılarının inşasını üstlenen ve kentin gelişiminde adı öne çıkan kişi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Zoilos",
+   "B": "Augustus",
+   "C": "Hadrianus",
+   "D": "Nero",
+   "E": "Traianus"
+  },
+  "dogru": "A",
+  "cozum": "Zoilos, Aphrodisias'ta önemli kamu yapılarının inşasını finanse eden ve kentin gelişiminde kilit rol oynayan yerel önder olarak bilinir (Şubat 2025 sınavı s.1, 44. soru).",
+  "hafiza_ipucu": "Zoilos-Afrodisias: 'Z' harfi ikisinde de var — Zoilos'un Zenginliği Afrodisias'ı süsledi.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-44 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-119",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Aphrodisias antik kentinin ünlü heykeltıraşlık okulunun yanı sıra sahip olduğu, alınlığı kemerler üzerinde taşınan anıtsal giriş yapısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tetrapylon",
+   "B": "Propylon",
+   "C": "Potern",
+   "D": "Nymphaion",
+   "E": "Zafer Takı"
+  },
+  "dogru": "A",
+  "cozum": "Aphrodisias'taki Tetrapylon, Aphrodite Tapınağı'nın kutsal alanına anıtsal giriş sağlayan, alınlığı kemerler üzerinde taşınan bir yapıdır (Anadolu Arkeolojisi s.217).",
+  "hafiza_ipucu": "Aphrodisias'ın iki markası: heykel okulu + Tetrapylon kapısı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 217
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-120",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Bütün Akdeniz'de Roma tiyatro mimarisinin en iyi korunmuş örneği kabul edilen ve suyunu anıtsal bir aquadukt ile taşıyan antik kent aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Side",
+   "B": "Perge",
+   "C": "Aspendos",
+   "D": "Termessos",
+   "E": "Sagalassos"
+  },
+  "dogru": "C",
+  "cozum": "Aspendos Tiyatrosu, bütün Akdeniz'de Roma tiyatrolarının en iyi örneğidir; kentin su ihtiyacı ise ünlü aquadukt ve su sifonlarıyla karşılanmıştır (Anadolu Arkeolojisi s.218-219).",
+  "hafiza_ipucu": "Aspendos = Antalya'nın iki markası: tiyatro + su kemeri (rehber 01, sınavın klasiği).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 219
+  },
+  "akraba_cikmis_soru": "Şub25-2,32 Aspendos-Antalya konumu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-121",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Aspendos antik tiyatrosu hangi ilin sınırları içerisindedir?",
+  "siklar": {
+   "A": "İzmir",
+   "B": "Muğla",
+   "C": "Antalya",
+   "D": "Denizli",
+   "E": "Aydın"
+  },
+  "dogru": "C",
+  "cozum": "Aspendos (Belkız), günümüz Antalya ili sınırları içindedir (Şubat 2025 sınavı s.1, 2. ve 32. sorular).",
+  "hafiza_ipucu": "Aspendos-Antalya: sınavın en klasik eşleştirmesi, 3 sınavda da çıktı.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-2 ve Şub25-32 aynı soru iki kez sorulmuş",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-122",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Hellenistik Dönem'de inşa edilmiş, Anadolu'da at nalı planlı Hellenistik hâliyle Roma döneminde değiştirilmeden günümüze ulaşan az sayıdaki tiyatrodan biri Antiphellos'ta bulunur. Antiphellos günümüzde hangi ilçededir?",
+  "siklar": {
+   "A": "Kaş",
+   "B": "Datça",
+   "C": "Demre",
+   "D": "Alanya",
+   "E": "Marmaris"
+  },
+  "dogru": "A",
+  "cozum": "Antiphellos, günümüz Antalya'nın Kaş ilçesinde yer alan antik kenttir; Hellenistik dönem tiyatrosu değiştirilmeden korunmuştur (Anadolu Arkeolojisi s.192).",
+  "hafiza_ipucu": "Antiphellos = Kaş'ın antik adı; 'Phellos'un karşısı (anti)' anlamı ile Likya bölgesi kıyı kenti.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 192
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-123",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Nereidler Anıtı'nın çıkarıldığı antik kent aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efes",
+   "B": "Ksantos",
+   "C": "Bergama",
+   "D": "Afrodisias",
+   "E": "Hierapolis"
+  },
+  "dogru": "B",
+  "cozum": "Nereidler Anıtı, Likya bölgesindeki Ksantos (Xanthos) antik kentinden çıkarılmış ve İngiltere'ye (British Museum) götürülmüştür (Şubat 2025 sınavı s.1, 9. soru; Anadolu Arkeolojisi s.163).",
+  "hafiza_ipucu": "Nereidler = deniz perileri; Ksantos'tan gemiyle Thames'e 'yüzdürüldüler' (rehber 01).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 163
+  },
+  "akraba_cikmis_soru": "Şub25-9 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-124",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Anadolu'dan yurt dışına götürülen \"Nereidler Anıtı\" günümüzde hangi ülkede sergilenmektedir?",
+  "siklar": {
+   "A": "Almanya",
+   "B": "Rusya",
+   "C": "Avusturya",
+   "D": "Fransa",
+   "E": "İngiltere"
+  },
+  "dogru": "E",
+  "cozum": "Nereidler Anıtı, Ksantos'tan çıkarılarak İngiltere'ye (British Museum) götürülmüştür (Mart 2026 sınavı s.5, 47. soru).",
+  "hafiza_ipucu": "Nereidler-İngiltere: Şub25'te 'nereden' (Ksantos), Mart26'da 'nereye' (İngiltere) soruldu — aynı bilginin iki açısı.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "Mart26-47 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-125",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Augustus dönemine tarihlenen bir çeşmenin Iulius-Claudius sülalesi zamanında yeniden inşa edildiği, Burdur ili sınırlarındaki antik kent aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sagalassos",
+   "B": "Aizanoi",
+   "C": "Aphrodisias",
+   "D": "Perge",
+   "E": "Kibyra"
+  },
+  "dogru": "A",
+  "cozum": "Sagalassos (Ağlasun, Burdur), Augustus döneminde yapılan bir çeşmenin Iulius-Claudius sülalesi zamanında yenilendiği antik kenttir (Türkiyenin Kültürel Mirası I-II konu arkası soruları s.13).",
+  "hafiza_ipucu": "Sagalassos'u Burdur'a bağla: dağ eteğinde, Pisidia bölgesinin gözde kenti.",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası I-II.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-126",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Odeon yapısının orkestra bölümünde, \"opus sectile\" tekniğiyle yapılmış yaklaşık 2000 yıllık Medusa mozaiği aşağıdaki antik kentlerden hangisinde bulunur?",
+  "siklar": {
+   "A": "Ephesus",
+   "B": "Hierapolis",
+   "C": "Kibyra",
+   "D": "Aizanoi",
+   "E": "Bergama"
+  },
+  "dogru": "C",
+  "cozum": "Kibyra Odeonu'nun orkestra tabanındaki opus sectile tekniğiyle yapılmış Medusa mozaiği, yaklaşık 2000 yıllıktır (Mart 2026 sınavı s.11, 100. soru).",
+  "hafiza_ipucu": "Medusa-Kibyra: Sınavın en yeni klasiği (Mar26'da hem odeon mozaiği hem opus sectile tekniği vurgulandı).",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 11
+  },
+  "akraba_cikmis_soru": "Mart26-100 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-127",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Kibyra Odeonu'nun mozaik tabanında tasvir edilen mitolojik yaratık, saçları yılanlardan oluşan ve bakışıyla insanı taşa çeviren kadın figürüdür. Bu figürün adı nedir?",
+  "siklar": {
+   "A": "Griffon",
+   "B": "Sphenks",
+   "C": "Medusa",
+   "D": "Moiralar",
+   "E": "Horalar"
+  },
+  "dogru": "C",
+  "cozum": "Kibyra Odeonu mozaiğinde tasvir edilen yaratık, saçları yılan olan Gorgon'lardan Medusa'dır (Türkiyenin Kültürel Mirası I-II konu arkası soruları s.13).",
+  "hafiza_ipucu": "Medusa'nın bakışı taşlaştırır — Kibyra'daki taş mozaikte 'taşlaşmış' hâliyle ölümsüzleşti.",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası I-II.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "Mart26-100 (aynı bilginin terim sorusu)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-128",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "I. Bergama\nII. Kos\nIII. Allianoi\nIV. Sagalassos\nV. Myra\nYukarıdaki antik yerleşimlerden hangileri Asklepion'a (sağlık/şifa merkezine) sahiptir?",
+  "siklar": {
+   "A": "I ve V",
+   "B": "II ve III",
+   "C": "I, II ve III",
+   "D": "I, II ve IV",
+   "E": "I, II, III ve V"
+  },
+  "dogru": "C",
+  "cozum": "Asklepion'a sahip klasik üçlü Bergama, Kos ve Allianoi'dir; Sagalassos ve Myra'da Asklepion yoktur (Mart 2026 sınavı s.8, 68. soru; Anadolu Arkeolojisi s.182).",
+  "hafiza_ipucu": "Asklepion üçlüsü: Bergama-Kos-Allianoi — 'B-K-A' kısaltmasıyla ezberle (rehber 01, MUTLAKA BİL 8).",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": "Mart26-68 aynı soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-129",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Bergama'ya yaklaşık 18 km uzaklıkta olan, kazılarda dört yüzden fazla tıp aygıtının bulunduğu, sıcak suyla sağaltımın yapıldığı antik sağlık kenti aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Allianoi",
+   "B": "Aizanoi",
+   "C": "Sagalassos",
+   "D": "Amorium",
+   "E": "Zeugma"
+  },
+  "dogru": "A",
+  "cozum": "Allianoi, Bergama'ya 18 km uzaklıkta, kazılarda 400'den fazla tıp aygıtı bulunan bir antik sağlık/termal kentidir (Türkiyenin Kültürel Mirası II s.52).",
+  "hafiza_ipucu": "Allianoi = Bergama'nın 'ılıca' komşusu — sıcak sudan şifa.",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası_2_Anadolu Üni.txt",
+   "sayfa": 52
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-130",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Aşağıdakilerden hangisi Nemrut Dağı'ndaki dev heykellerin ve Hierothesion'un yapılmasını sağlayan Kommagene kralıdır?",
+  "siklar": {
+   "A": "I. Antiochos",
+   "B": "IV. Antiochos",
+   "C": "III. Antiochos",
+   "D": "Büyük İskender",
+   "E": "Kroisos"
+  },
+  "dogru": "A",
+  "cozum": "Kommagene Kralı I. Antiochos (MÖ 69-34), kendisi için Nemrut Dağı üzerinde tümülüs ve etrafındaki kutsal alanı (Hierothesion) inşa ettirmiştir (Anadolu Arkeolojisi s.187).",
+  "hafiza_ipucu": "Nemrut'un devasa kafaları 'Anti-hoş' değil çok hoş — I. Antiochos, Kommagene kralı (rehber 01).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 187
+  },
+  "akraba_cikmis_soru": "Şub25-39 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-131",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Kommagene Krallığı, Seleukos Krallığı'nın zayıflaması ile MÖ 162 yılında hangi kişi tarafından kurulmuştur?",
+  "siklar": {
+   "A": "Ptolemaios (bölge valisi)",
+   "B": "I. Antiochos",
+   "C": "IV. Antiochos",
+   "D": "Zoilos",
+   "E": "Vespasianus"
+  },
+  "dogru": "A",
+  "cozum": "Kommagene Krallığı, bugünkü Adıyaman-Maraş-Antep civarının valisi olan Ptolemaios'un MÖ 162'de bağımsızlığını ilan etmesiyle kurulmuştur (Anadolu Arkeolojisi s.187).",
+  "hafiza_ipucu": "Kommagene'nin kurucusu Ptolemaios (vali) — I. Antiochos ise ANIT MEZARI yaptıran torun kraldır, kurucu değil!",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 187
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-132",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Kommagene Krallığı, Roma tarafından hangi imparator döneminde ilhak edilerek ortadan kaldırılmıştır?",
+  "siklar": {
+   "A": "Augustus",
+   "B": "Vespasianus",
+   "C": "Traianus",
+   "D": "Hadrianus",
+   "E": "Konstantin"
+  },
+  "dogru": "B",
+  "cozum": "Kommagene Krallığı'nın topraklarını İmparator Vespasianus (MS 69-79) ilhak etmiştir; küçük krallık MS 72'ye kadar varlığını sürdürmüştür (Anadolu Arkeolojisi s.187, s.213).",
+  "hafiza_ipucu": "Vespasianus = Flaviuslar hanedanının kurucusu; Kommagene'yi imparatorluğa kattı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 213
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-133",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Kommagene Kralı IV. Antiokhos'un gömülü olduğu, Nemrut yakınlarındaki tümülüs aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bintepe",
+   "B": "Karakuş Tümülüsü",
+   "C": "Gordion Tümülüsü",
+   "D": "Üç Tepeler Tümülüsü",
+   "E": "Sardes Tümülüsü"
+  },
+  "dogru": "B",
+  "cozum": "Kommagene Kralı IV. Antiokhos, Nemrut yakınlarındaki Karakuş Tümülüsü'ne gömülmüştür; kraliyet ailesinin diğer üyeleri de Sesonk'daki tümülüste yatmaktadır (Anadolu Arkeolojisi s.193).",
+  "hafiza_ipucu": "Karakuş = 'kara kuş' heykelli sütunlarından adını alır; Nemrut'un küçük kardeşi tümülüs.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-134",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Kommagene Krallığı'na bağlı olan Seleukia ad Euphratem kenti, günümüzde hangi antik kent adıyla ve hangi ilde bilinir?",
+  "siklar": {
+   "A": "Zeugma – Gaziantep",
+   "B": "Zeugma – Şanlıurfa",
+   "C": "Samsat – Adıyaman",
+   "D": "Dülük – Gaziantep",
+   "E": "Amorium – Afyonkarahisar"
+  },
+  "dogru": "A",
+  "cozum": "Seleukia ad Euphratem, günümüzde Belkıs/Zeugma adıyla bilinen ve Gaziantep sınırlarındaki antik kenttir; Kommagene Krallığı'na bağlıydı (Anadolu Arkeolojisi s.187).",
+  "hafiza_ipucu": "Zeugma = 'köprü/geçit' anlamına gelir; Fırat üzerinde geçiş noktası olduğu için bu adı almıştır.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 187
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-135",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Zeugma antik kentinden çıkarılan ve bugün Gaziantep Zeugma Mozaik Müzesi'nde sergilenen mozaikler, hangi teknik ve dönemin ürünüdür?",
+  "siklar": {
+   "A": "Roma dönemi taş tanecikli mozaik",
+   "B": "Bizans dönemi fresk",
+   "C": "Selçuklu dönemi çini",
+   "D": "Hitit dönemi kabartma",
+   "E": "Helenistik dönemi opus sectile"
+  },
+  "dogru": "A",
+  "cozum": "Zeugma'daki zengin konutların zeminleri, Roma dönemine özgü küçük taş taneleriyle yapılmış mozaiklerle kaplıydı; bu eserler bugün Gaziantep Arkeoloji/Zeugma Müzesi'nde sergilenmektedir (Anadolu Arkeolojisi s.220).",
+  "hafiza_ipucu": "Zeugma mozaikleri = Roma konut süslemesinin Anadolu'daki zirvesi.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 220
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-136",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "MS 301 yılında kaleme alınan ve imparatorluk çapında mal ve hizmetler için en yüksek fiyatların sabitlenmesini amaçlayan \"Narh Emirnamesi\"nin yazılı olduğu macellum (et pazarı) yapısı hangi antik kentte bulunur?",
+  "siklar": {
+   "A": "Aizanoi",
+   "B": "Efes",
+   "C": "Side",
+   "D": "Perge",
+   "E": "Hierapolis"
+  },
+  "dogru": "A",
+  "cozum": "Aizanoi'deki (Çavdarhisar, Kütahya) macellum (et pazarı) yapısının duvarlarında İmparator Diocletianus'un Narh Emirnamesi (MS 301) yazılıdır (Anadolu Arkeolojisi s.211).",
+  "hafiza_ipucu": "Aizanoi = Kütahya'nın antik 'fiyat listesi' kenti — enflasyona karşı ilk narh burada yazıldı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 211
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-137",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Aşağıdaki ifadelerden hangisi Aizanoi Zeus Tapınağı'na aittir?",
+  "siklar": {
+   "A": "Tapınak çift katlı inşa edilmiştir",
+   "B": "Tapınak kerpiçten inşa edilmiştir",
+   "C": "Tapınağın frizinde Troia Savaşı sahneleri anlatılmıştır",
+   "D": "Tapınak Zeus ve Kybele'ye adanmıştır",
+   "E": "Tapınağın duvarları üzerinde İmparator Büyük Konstantin'in mektubu yer almaktadır"
+  },
+  "dogru": "D",
+  "cozum": "Aizanoi Zeus Tapınağı, Zeus ile birlikte Ana Tanrıça Kybele'ye de adanmıştır (Türkiyenin Kültürel Mirası I-II konu arkası soruları s.13).",
+  "hafiza_ipucu": "Aizanoi'de iki tanrı bir tapınakta: Zeus + Kybele — Anadolu'nun yerel ana tanrıçası Yunan baş tanrısıyla paylaşıyor.",
+  "kaynak": {
+   "dosya": "Türkiyenin Kültürel Mirası I-II.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-138",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Bizans Dönemi'nde askeri üs ve idari merkez olan, Anatolikon Theması'nın başkentliğini de yapan \"Amorium\" antik kenti günümüzde hangi ilin sınırları içerisindedir?",
+  "siklar": {
+   "A": "Ankara",
+   "B": "Antalya",
+   "C": "Aydın",
+   "D": "Afyonkarahisar",
+   "E": "Aksaray"
+  },
+  "dogru": "D",
+  "cozum": "Amorium, Bizans Anatolikon Theması'nın başkenti olarak önemli bir askeri üs ve idari merkezdi; günümüzde Afyonkarahisar il sınırları içindedir (Mart 2026 sınavı s.5, 40. soru).",
+  "hafiza_ipucu": "Amorium-Afyonkarahisar: rehberin loci listesindeki son kent (rehber 01, kent-lokasyon klasikleri).",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "Mart26-40 aynı soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-139",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "I. Tuşpa – Urartu\nII. Hattuşa – Hitit\nIII. Sardes – Karya\nIV. Gordion – Frig\nV. Aigai – Likya\nYukarıdaki antik kent-uygarlık eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "I, II ve IV",
+   "C": "II, III ve V",
+   "D": "II, IV ve V",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "B",
+  "cozum": "Sardes, Karya değil Lidya'nın başkentidir; Aigai (Nemrutkale, İzmir/Aliağa) Likya değil Aiolia bölgesindedir. Doğru eşleştirmeler I, II ve IV'tür (Mart 2026 sınavı s.11, 95. soru).",
+  "hafiza_ipucu": "Sardes-Lidya (Karya değil!), Aigai-Aiolia (Likya değil!) — sınavın klasik tuzak çiftleri.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 11
+  },
+  "akraba_cikmis_soru": "Mart26-95 aynı soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-140",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "önemli antik kentler ve konumları",
+  "soru": "Aşağıdakilerden hangisi Likya Uygarlığına ait antik kentlerden biridir?",
+  "siklar": {
+   "A": "Sagalassos",
+   "B": "Hattuşa",
+   "C": "Knidos",
+   "D": "Aphrodisias",
+   "E": "Xanthos"
+  },
+  "dogru": "E",
+  "cozum": "Xanthos (Ksantos), Likya Birliği'nin en önemli ve başkent niteliğindeki kentidir; Nereidler Anıtı da buradan çıkarılmıştır (Mart 2026 sınavı s.9, 86. soru; Türkiyenin Kültürel Mirası I-II s.14).",
+  "hafiza_ipucu": "Xanthos = Likya'nın kalbi; Nereidler Anıtı'nın memleketi.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Mart26-86 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-141",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "\"Yorgun Herakles\" heykeli günümüzde hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzesi",
+   "B": "Antalya Müzesi",
+   "C": "Ankara Anadolu Medeniyetleri Müzesi",
+   "D": "İzmir Arkeoloji Müzesi",
+   "E": "Gaziantep Zeugma Müzesi"
+  },
+  "dogru": "B",
+  "cozum": "Yorgun Herakles (üst ve alt gövde parçaları birleştirilmiş hâliyle) Antalya Müzesi'nde sergilenmektedir (Şubat 2025 sınavı s.1, 11. ve 50. sorular).",
+  "hafiza_ipucu": "Yorgun Herakles → Antalya: yorulan tatile Antalya'ya gider (rehber 01).",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-11 ve Şub25-50 aynı soru iki kez sorulmuş",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-142",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Bergama'da (Pergamon) bulunan ve üzerinde Gigantomakhia (Tanrılar-Devler savaşı) sahnesi işlenen Zeus Altarı günümüzde hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Louvre Müzesi",
+   "B": "British Museum",
+   "C": "Berlin Pergamon Müzesi",
+   "D": "Vatikan Müzesi",
+   "E": "Metropolitan Müzesi"
+  },
+  "dogru": "C",
+  "cozum": "Zeus Altarı (frizinde Gigantomakhia sahnesi, MÖ 190-180), Berlin Pergamon Müzesi'nde sergilenmektedir (Anadolu Arkeolojisi s.182, Resim 7.11; Şubat 2025 sınavı s.1, 24. ve 60. sorular).",
+  "hafiza_ipucu": "Zeus Altarı-Berlin Pergamon Müzesi: müzenin adı zaten Bergama'dan geliyor, kendi kendini cevaplar (rehber 01).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 182
+  },
+  "akraba_cikmis_soru": "Şub25-24 ve Şub25-60 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-143",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Zeus Altarı'nın frizinde anlatılan mitolojik savaş sahnesi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Titanomakhia",
+   "B": "Gigantomakhia",
+   "C": "Troya Savaşı",
+   "D": "Pers Savaşları",
+   "E": "Amazonomakhia"
+  },
+  "dogru": "B",
+  "cozum": "Zeus Altarı'nın frizinde tanrılar ile devlerin (gigantlar) savaşı olan Gigantomakhia betimlenmiştir; bu sahne Attalos'ların Galatlara karşı zaferini simgeler (Anadolu Arkeolojisi s.181-182).",
+  "hafiza_ipucu": "Giganto-makhia = 'dev savaşı' — Zeus Altarı'nın friz konusu budur, Amazonomakhia ise Magnesia Artemis Tapınağı'nda görülür.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 181
+  },
+  "akraba_cikmis_soru": "Şub25-52 aynı soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-144",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Türkiye'den kaçırılan Milet Agora Kapısı, günümüzde hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzesi",
+   "B": "British Museum",
+   "C": "Fransa Louvre Müzesi",
+   "D": "Berlin Pergamon Müzesi",
+   "E": "New York Metropolitan Müzesi"
+  },
+  "dogru": "D",
+  "cozum": "Milet Agora Kapısı, Almanya'ya götürülerek Berlin Pergamon Müzesi'nde yeniden inşa edilip sergilenmektedir (Ağustos 2025 sınavı s.12, 46. soru).",
+  "hafiza_ipucu": "Berlin Pergamon Müzesi = Anadolu'nun 'kaçırılmış anıtlar' deposu: hem Zeus Altarı hem Milet Agora Kapısı orada.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "Ağu25-46 aynı soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-145",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Mısır-Hitit devletleri arasında yapılan, dünyanın ilk yazılı barış antlaşması kabul edilen Kadeş Barış Antlaşması'nın orijinali (Hitit tableti hâli) hangi müzede bulunmaktadır?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzesi",
+   "B": "Mısır Kahire Müzesi",
+   "C": "Louvre Müzesi",
+   "D": "British Museum",
+   "E": "Birleşmiş Milletler Binası"
+  },
+  "dogru": "A",
+  "cozum": "Kadeş Barış Antlaşması'nın Hititçe çivi yazılı tablet orijinali İstanbul Arkeoloji Müzesi'nde sergilenmektedir (Ağustos 2025 sınavı s.12, 45. soru).",
+  "hafiza_ipucu": "Kadeş orijinali-İstanbul: 'Anadolu'nun toprağında bulunan Hitit tableti evine (İstanbul'a) döndü' (rehber 01).",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "Ağu25-45 aynı soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-146",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Kadeş Antlaşması hangi iki uygarlık arasında imzalanmıştır?",
+  "siklar": {
+   "A": "Hititler – Asurlular",
+   "B": "Hititler – Mısırlılar",
+   "C": "Lidyalılar – Persler",
+   "D": "Sümerler – Babilliler",
+   "E": "Romalılar – Yunanlılar"
+  },
+  "dogru": "B",
+  "cozum": "Kadeş Antlaşması, Hitit Kralı III. Hattuşili ile Mısır Firavunu II. Ramses arasında imzalanmış dünyanın ilk yazılı barış antlaşmasıdır (Şubat 2025 sınavı s.1, 1. soru).",
+  "hafiza_ipucu": "Kadeş = Hitit-Mısır barışı; orijinali İstanbul'da, kopyası New York'ta BM binasında sergilenir.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-1 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-147",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Ünlü \"Çingene Kızı\" mozaiği günümüzde hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzesi",
+   "B": "Bergama Müzesi",
+   "C": "Antalya Müzesi",
+   "D": "Şanlıurfa Müzesi",
+   "E": "Gaziantep Zeugma Müzesi"
+  },
+  "dogru": "E",
+  "cozum": "Zeugma antik kentinde bulunan Çingene Kızı mozaiği, Gaziantep Zeugma Mozaik Müzesi'nde sergilenmektedir (Ağustos 2025 sınavı s.15, 57. soru).",
+  "hafiza_ipucu": "Çingene Kızı → Gaziantep Zeugma: mozaiğin bulunduğu kent ile müzenin adı aynı (rehber 01).",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 15
+  },
+  "akraba_cikmis_soru": "Ağu25-57 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-148",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Priam'ın Hazinesi arkeolojik olarak nerede bulunmuştur?",
+  "siklar": {
+   "A": "Troya",
+   "B": "Efes",
+   "C": "Bergama",
+   "D": "Afrodisias",
+   "E": "Hierapolis"
+  },
+  "dogru": "A",
+  "cozum": "Priam Hazinesi, Heinrich Schliemann tarafından Troya (Truva) kazılarında bulunmuş ve sonrasında yurt dışına kaçırılmıştır (Şubat 2025 sınavı s.1, 83. soru).",
+  "hafiza_ipucu": "Schliemann = 'Şilep-man' — Priam Hazinesi'ni şilebe yükleyip Truva'dan kaçırdı (rehber 01).",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-83 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-149",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Troya'yı kazarak Priam Hazinesi'ni bulan ve yurt dışına kaçıran arkeolog aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Klaus Schmidt",
+   "B": "Heinrich Schliemann",
+   "C": "Ekrem Akurgal",
+   "D": "Osman Hamdi Bey",
+   "E": "Remzi Oğuz Arık"
+  },
+  "dogru": "B",
+  "cozum": "Heinrich Schliemann, Troya kazılarını gerçekleştirmiş ve buluntuların önemli bir kısmını (Priam Hazinesi dâhil) yurt dışına çıkarmıştır (genel kazı tarihi bilgisi, rehber 01).",
+  "hafiza_ipucu": "Schliemann-Truva: kazıcılar listesinde Klaus Schmidt=Göbeklitepe, Remzi Oğuz Arık=Alacahöyük, Schliemann=Truva üçlüsünü karıştırma (rehber 01).",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-83 ile bağlantılı",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-150",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Yasadışı yollarla yurt dışına çıkarılan, 2013 yılında Türkiye'ye iadesi sağlanan, Karun Hazinesi'nin parçası olan ve som altından yapılmış \"Kanatlı Denizatı Broşu\" günümüzde hangi müzede sergilenmektedir?",
+  "siklar": {
+   "A": "Mardin Müzesi",
+   "B": "Uşak Müzesi",
+   "C": "Bergama Müzesi",
+   "D": "Akhisar Müzesi",
+   "E": "Bursa Arkeoloji Müzesi"
+  },
+  "dogru": "B",
+  "cozum": "Kanatlı Denizatı Broşu, Karun Hazinesi'nin bir parçasıdır; 2013'te Türkiye'ye iade edilmiş ve Uşak Müzesi'nde sergilenmektedir (Mart 2026 sınavı s.7, 63. soru).",
+  "hafiza_ipucu": "Kanatlı Denizatı Broşu-Uşak: Karun Hazinesi Lidya'nın (başkenti Sardes) mirasıdır, Uşak bölgenin merkezi müzesidir.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 7
+  },
+  "akraba_cikmis_soru": "Mart26-63 aynı soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-151",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Karun Hazinesi olarak bilinen eser grubu hangi antik uygarlığa aittir?",
+  "siklar": {
+   "A": "Lidya",
+   "B": "Frigya",
+   "C": "Urartu",
+   "D": "Hitit",
+   "E": "Urfa/Kommagene"
+  },
+  "dogru": "A",
+  "cozum": "Karun Hazinesi, Lidya Krallığı'na ait değerli eserler grubudur; Kanatlı Denizatı Broşu bu hazinenin parçalarından biridir ve 2013'te Uşak Müzesi'ne iade edilmiştir (Mart 2026 sınavı s.7, 63. soru).",
+  "hafiza_ipucu": "Karun = Kroisos'un (Krezüs) efsanevi zenginliğinden gelen halk arasındaki addır; Lidya'nın altın ülkesi.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 7
+  },
+  "akraba_cikmis_soru": "Mart26-63 ile bağlantılı",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-152",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Sidon (Sayda) kazılarında bulunan ve Osman Hamdi Bey tarafından İstanbul'a getirilerek Müze-i Hümayun'da sergilenen ünlü lahit aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Zeus Altarı",
+   "B": "İskender Lahdi",
+   "C": "Priam Hazinesi",
+   "D": "Karun Hazinesi",
+   "E": "Çingene Kızı Mozaiği"
+  },
+  "dogru": "B",
+  "cozum": "İskender Lahdi, Osman Hamdi Bey'in yönettiği Sidon (Sayda) kazılarında bulunmuş ve İstanbul'a getirilerek Müze-i Hümayun'da (bugünkü İstanbul Arkeoloji Müzeleri) sergilenmeye başlamıştır (Müzecilik ve Sergileme s.60-61).",
+  "hafiza_ipucu": "İskender Lahdi-İstanbul: Osman Hamdi Sidon'dan İstanbul'a getirdi; KURTARILDI, kaçmadı (rehber 01).",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.txt",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-153",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Osmanlı Dönemi'nde kurulan \"Müze-i Hümayun\"un temellerini oluşturduğu, Osman Hamdi Bey'in müdürlüğünü yaptığı ve Sidon (Sayda) kazılarından önemli eserleri barındıran müze aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İstanbul Arkeoloji Müzeleri",
+   "B": "Zeugma Mozaik Müzesi",
+   "C": "Anadolu Medeniyetleri Müzesi",
+   "D": "Troya Müzesi",
+   "E": "Topkapı Sarayı Müzesi"
+  },
+  "dogru": "A",
+  "cozum": "Müze-i Hümayun, bugünkü İstanbul Arkeoloji Müzeleri'nin temelidir; Osman Hamdi Bey'in müdürlüğü döneminde Sidon kazılarından gelen İskender Lahdi burada sergilenmeye başlamıştır (Mart 2026 sınavı s.3, 19. soru; Müzecilik ve Sergileme s.60-61).",
+  "hafiza_ipucu": "Müze-i Hümayun = İstanbul Arkeoloji Müzeleri'nin Osmanlı dönemindeki adı.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "Mart26-19 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-154",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Parşömen kâğıdının ilk üretildiği yer aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efes",
+   "B": "Bergama",
+   "C": "Milet",
+   "D": "İskenderiye",
+   "E": "Atina"
+  },
+  "dogru": "B",
+  "cozum": "Parşömen (pergamentum), Bergama Kütüphanesi'nde deri üzerine yazı yazma tekniğinden adını almıştır; kütüphane Aleksandria'dan sonra dünyanın ikinci büyük kütüphanesiydi (Anadolu Arkeolojisi s.182; Şubat 2025 sınavı s.1, 35. soru).",
+  "hafiza_ipucu": "Parşömen → Bergama'nın kütüphane rekabetinin ürünü; Mısır'ın papirüs ihracatını kesmesine karşı geliştirilen alternatif.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 182
+  },
+  "akraba_cikmis_soru": "Şub25-35 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-155",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Pergamon Kütüphanesi'ndeki kitaplar, Roma Generali Marcus Antonius tarafından hangi kraliçeye hediye edilerek Mısır'a taşınmıştır?",
+  "siklar": {
+   "A": "VII. Kleopatra",
+   "B": "Nefertiti",
+   "C": "Semiramis",
+   "D": "Zenobia",
+   "E": "Hatşepsut"
+  },
+  "dogru": "A",
+  "cozum": "Pergamon Kütüphanesi'ndeki kitaplar, MÖ 42'de yanan İskenderiye Kütüphanesi'ni yeniden kurmak amacıyla Marcus Antonius tarafından sevgilisi Kraliçe VII. Kleopatra'ya hediye edilerek Mısır'a taşınmıştır (Anadolu Arkeolojisi s.182).",
+  "hafiza_ipucu": "Bergama Kütüphanesi'nin kitapları aşk hediyesi olarak Mısır'a gitti: Antonius'tan Kleopatra'ya.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 182
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-156",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Aşağıdaki eser-müze eşleştirmelerinden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Yorgun Herakles – Antalya Müzesi",
+   "B": "Zeus Altarı – Berlin Pergamon Müzesi",
+   "C": "Çingene Kızı – Gaziantep Zeugma Müzesi",
+   "D": "Kanatlı Denizatı Broşu – Uşak Müzesi",
+   "E": "İskender Lahdi – British Museum"
+  },
+  "dogru": "E",
+  "cozum": "İskender Lahdi, British Museum'da değil İstanbul Arkeoloji Müzeleri'nde sergilenmektedir; diğer eşleştirmeler doğrudur (Müzecilik ve Sergileme s.60-61; Şub25, Ağu25, Mart26 sınavları).",
+  "hafiza_ipucu": "İskender Lahdi'yi British Museum'a değil İstanbul'a bağla — Nereidler British Museum'dadır, İskender Lahdi DEĞİL.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.txt",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-157",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "I. Zeus Altarı – Berlin\nII. Milet Agora Kapısı – Berlin\nIII. Nereidler Anıtı – İngiltere\nIV. İskender Lahdi – İstanbul\nV. Yorgun Herakles – Bergama\nYukarıdaki eser-müze eşleştirmelerinden kaç tanesi doğrudur?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5"
+  },
+  "dogru": "D",
+  "cozum": "I, II, III ve IV doğrudur; V yanlıştır çünkü Yorgun Herakles Antalya Müzesi'nde sergilenmektedir, Bergama'da değil (çeşitli sınavlarda doğrulanmış eşleştirmeler).",
+  "hafiza_ipucu": "Dört doğru bir yanlış tuzağı: Yorgun Herakles'i Antalya'ya sabitle, sınav bazen 'Bergama' ile şaşırtır.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-158",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Aşağıdakilerden hangisi Roma dönemine ait, İskenderiye'deki İsis-Serapis kültü kökenli, Bergama'da tuğladan inşa edilmiş ve sonradan kiliseye dönüştürülmüş tapınak yapısıdır?",
+  "siklar": {
+   "A": "Zeus Altarı",
+   "B": "Kızıl Avlu",
+   "C": "Traianus Tapınağı",
+   "D": "Asklepion",
+   "E": "Sebasteion"
+  },
+  "dogru": "B",
+  "cozum": "Kızıl Avlu, Bergama'da tamamen tuğladan inşa edilmiş bir Roma tapınağıdır; Mısır kökenli İsis ve Serapis kültüne adanmıştı, sonradan kiliseye dönüştürülmüştür (Anadolu Arkeolojisi s.216-217).",
+  "hafiza_ipucu": "Kızıl Avlu = tuğlanın kırmızı rengi + Mısır tanrılarının 'yabancı kültü' Bergama'ya taşındı.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 217
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-159",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Aşağıdakilerden hangisi Anadolu'dan çıkarılıp yurt dışındaki bir müzede sergilenen eserlerden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Nereidler Anıtı (British Museum)",
+   "B": "Zeus Altarı (Berlin Pergamon Müzesi)",
+   "C": "Milet Agora Kapısı (Berlin Pergamon Müzesi)",
+   "D": "İskender Lahdi (İstanbul Arkeoloji Müzeleri)",
+   "E": "Priam Hazinesi'nin bir kısmı (Puşkin Müzesi, Moskova)"
+  },
+  "dogru": "D",
+  "cozum": "İskender Lahdi, kaçırılmamış; Osman Hamdi Bey tarafından İstanbul'a getirilerek Türkiye'de kalmıştır. Diğerleri yurt dışına çıkarılmış eserlerdir (Müzecilik ve Sergileme s.60-61; rehber 01).",
+  "hafiza_ipucu": "İskender Lahdi = 'kurtarılan' eser, listedeki tek istisna — diğerleri kaçırılmış/götürülmüştür.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.txt",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-160",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "eser-müze eşleşmeleri",
+  "soru": "Bodrum açıklarında bulunan ve İzmir Arkeoloji Müzesi'nde sergilenen, MÖ 3. yüzyıldan bronz drapeli, Hellenistik dönemin nadir orijinal başyapıtlarından biri olan heykel aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Demeter Heykeli",
+   "B": "Yorgun Herakles",
+   "C": "Çömelen Aphrodite",
+   "D": "Antiokheia Tykhesi",
+   "E": "Diskobolos"
+  },
+  "dogru": "A",
+  "cozum": "Bodrum açıklarında bulunan bronz Demeter Heykeli, İzmir Arkeoloji Müzesi'nde sergilenen, Hellenistik dönemin günümüze ulaşan az sayıdaki orijinal bronz başyapıtlarından biridir (Anadolu Arkeolojisi s.188).",
+  "hafiza_ipucu": "Demeter Heykeli-İzmir: bronz olduğu için nadirdir, çoğu bronz heykel eritilip yeniden kullanılmıştır.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-161",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "Attaleia'da (Antalya) bulunan ve İmparator Hadrianus'un onuruna, zafer amaçlı olmayıp anıtsal giriş kapısı olarak inşa edilen yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hadrianus Kapısı",
+   "B": "Mazaeus-Mithridates Kapısı",
+   "C": "Tetrapylon",
+   "D": "Theodosius Takı",
+   "E": "Propylon"
+  },
+  "dogru": "A",
+  "cozum": "Attaleia'daki (Antalya) Hadrianus Kapısı, Ephesos'taki Mazaeus-Mithridates Kapısı gibi zafer amacı taşımayan, anıtsal bir giriş kapısıdır (Anadolu Arkeolojisi s.217).",
+  "hafiza_ipucu": "Hadrianus Kapısı = Antalya'nın simgesi, 'Üç Kapılar' olarak da bilinir (rehber 01).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 217
+  },
+  "akraba_cikmis_soru": "Ağu25 Hadrianus Kapısı-Antalya",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-162",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "Hadrianus Kapısı hangi antik kentte (bugünkü Antalya'da) bulunur?",
+  "siklar": {
+   "A": "Perge",
+   "B": "Attaleia",
+   "C": "Side",
+   "D": "Aspendos",
+   "E": "Termessos"
+  },
+  "dogru": "B",
+  "cozum": "Hadrianus Kapısı, Pergamon Kralı II. Attalos'un kurduğu Attaleia kentinde (bugünkü Antalya) bulunur (Anadolu Arkeolojisi s.182, 217).",
+  "hafiza_ipucu": "Attaleia = Antalya'nın antik adı; hem kurucusu II. Attalos hem de İmparator Hadrianus adını taşıyan anıt burada.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 217
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-163",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "Türkiye'nin Atatürk'ün emriyle başlatılan ilk millî kazısı olan Alacahöyük kazısını yürüten arkeolog aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Klaus Schmidt",
+   "B": "Remzi Oğuz Arık",
+   "C": "Ekrem Akurgal",
+   "D": "Osman Hamdi Bey",
+   "E": "Heinrich Schliemann"
+  },
+  "dogru": "B",
+  "cozum": "Remzi Oğuz Arık, 1935'te Atatürk'ün emriyle başlatılan Türkiye'nin ilk millî kazısını Alacahöyük'te yürütmüştür (Mart 2026 sınavı s.4, 30. soru).",
+  "hafiza_ipucu": "Arık-Atatürk-Alacahöyük = AAA (millî üçleme) — rehber 01.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 4
+  },
+  "akraba_cikmis_soru": "Mart26-30 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-164",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "Sidon (Sayda) kazılarını yöneten ve Müze-i Hümayun müdürlüğü yaparak Türkiye'de ilk Eski Eser Nizamnamesi'nin hazırlanmasına öncülük eden kişi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Osman Hamdi Bey",
+   "B": "Remzi Oğuz Arık",
+   "C": "Ekrem Akurgal",
+   "D": "Klaus Schmidt",
+   "E": "Heinrich Schliemann"
+  },
+  "dogru": "A",
+  "cozum": "Osman Hamdi Bey, Müze-i Hümayun müdürlüğü döneminde Sidon kazılarını yönetmiş, İskender Lahdi'yi İstanbul'a getirmiş ve Türkiye'nin ilk Eski Eser Nizamnamesi'ne öncülük etmiştir (Müzecilik ve Sergileme s.60-61).",
+  "hafiza_ipucu": "Osman Hamdi Bey = hem ressam ('Kaplumbağa Terbiyecisi') hem müzeci hem kazıcı — çok yönlü öncü.",
+  "kaynak": {
+   "dosya": "Müzecilik ve Sergileme__Aralık 2018_Anadolu Üni.txt",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "Şub25-4 (Kaplumbağa Terbiyecisi ile dolaylı bağlantı)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-165",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "Nemrut Dağı'ndaki Hierothesion (kutsal mezar alanı) hangi kişi için inşa edilmiştir?",
+  "siklar": {
+   "A": "Kommagene Kralı I. Antiochos",
+   "B": "Pontus Kralı VI. Mithridates",
+   "C": "Pergamon Kralı II. Eumenes",
+   "D": "Kral Midas",
+   "E": "Kral Kroisos"
+  },
+  "dogru": "A",
+  "cozum": "Nemrut Dağı üzerindeki tümülüs ve etrafındaki kutsal alan (Hierothesion), Kommagene Kralı I. Antiochos'un kendisi için inşa ettirdiği bir anıt mezar kompleksidir (Anadolu Arkeolojisi s.187).",
+  "hafiza_ipucu": "Hierothesion = 'kutsal yerleştirme alanı' — kralın kendini tanrılarla birlikte ölümsüzleştirdiği anıt.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 187
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-166",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "Aşağıdakilerden hangisi tümülüs biçiminde olmayan, taş yapılı anıtsal mezar örneklerinden biridir?",
+  "siklar": {
+   "A": "Bintepe Alyattes Tümülüsü",
+   "B": "Karakuş Tümülüsü",
+   "C": "Ephesos Belevi Mausolleion'u",
+   "D": "Nemrut Dağı Tümülüsü",
+   "E": "Gordion Tümülüsü"
+  },
+  "dogru": "C",
+  "cozum": "Ephesos Belevi Mausolleion'u, Halikarnassos Mausolleion'unu model alan taş yapılı anıtsal bir mezardır; toprak yığma tümülüs formunda değildir (Anadolu Arkeolojisi s.193).",
+  "hafiza_ipucu": "Tümülüs = toprak yığma tepe; Mausolleion = taştan anıt yapı — ikisi de kral mezarı ama formu farklı (rehber 01, karıştırılan kavramlar).",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-167",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "Aşağıdakilerden hangisi Anadolu'da bulunan en büyük tümülüstür?",
+  "siklar": {
+   "A": "Nemrut Dağı Tümülüsü",
+   "B": "Bintepe Alyattes Tümülüsü",
+   "C": "Gordion Tümülüsü",
+   "D": "Üç Tepeler Tümülüsü",
+   "E": "Karakuş Tümülüsü"
+  },
+  "dogru": "B",
+  "cozum": "Lidya Kralı Alyattes'in Bintepe'deki (Sardes yakını) tümülüsü, Anadolu'nun en büyük tümülüsüdür (Ağustos 2025 sınavı s.16, 60. soru).",
+  "hafiza_ipucu": "Bintepe Alyattes = en büyük tümülüs; Tümülüs'ün T'si = Tek kişilik Tepe (rehber 01).",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 16
+  },
+  "akraba_cikmis_soru": "Ağu25-60 aynı soru",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ARK-168",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "Milet Okulu'nun kurucusu kabul edilen, matematik ve astronomi çalışmalarıyla tanınan Miletli düşünür aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Diogenes",
+   "B": "Demokritos",
+   "C": "Sokrates",
+   "D": "Thales",
+   "E": "Anaksagoras"
+  },
+  "dogru": "D",
+  "cozum": "Thales, Miletos Okulu'nun kurucusu kabul edilen, matematik ve astronomi alanlarındaki çalışmalarıyla tanınan Antik Çağ düşünürüdür (Mart 2026 sınavı s.7, 61. soru).",
+  "hafiza_ipucu": "Thales-Miletos: felsefe tarihinin ilk filozofu, İon bölgesinin düşünce mirası.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 7
+  },
+  "akraba_cikmis_soru": "Mart26-61 aynı soru",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ARK-169",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "I. Bintepe Alyattes Tümülüsü – Lidya kralı için yapılmıştır\nII. Nemrut Dağı Hierothesion – I. Antiochos için yapılmıştır\nIII. Ephesos Belevi Mausolleion'u – tümülüs formundadır\nIV. Karakuş Tümülüsü – IV. Antiokhos'un ailesine aittir\nYukarıdakilerden hangileri doğrudur?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve II",
+   "C": "I, II ve IV",
+   "D": "II, III ve IV",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "C",
+  "cozum": "III yanlıştır; Belevi Mausolleion'u toprak yığma tümülüs değil, taş yapılı anıtsal bir mezardır. I, II ve IV doğrudur (Anadolu Arkeolojisi s.126, 187, 193).",
+  "hafiza_ipucu": "Mausolleion asla 'tümülüs' değildir — taş yapı vs toprak yığma ayrımını tekrar hatırla.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ARK-170",
+  "konu": "anadolu-arkeolojisi",
+  "alt_konu": "antik dönem kişileri ve anıt mezarlar",
+  "soru": "Aşağıdakilerden hangisi antik dönemde bir kentin kurucusu (oikist) olarak anılan ve kurduğu kentte kendisi için Heroon inşa edilen kişi tipine örnektir?",
+  "siklar": {
+   "A": "Androklos (Efes'in efsanevi kurucusu)",
+   "B": "I. Antiochos (Kommagene)",
+   "C": "Zoilos (Afrodisias)",
+   "D": "Osman Hamdi Bey",
+   "E": "Remzi Oğuz Arık"
+  },
+  "dogru": "A",
+  "cozum": "Androklos, Efes'in efsanevi kurucusu (oikist) olarak anılır; kentte Kuretler Caddesi'nde Dor düzeninde bir Heroon'u bulunmaktadır (Anadolu Arkeolojisi s.193).",
+  "hafiza_ipucu": "Heroon şehir kurucusuna yapılır; Androklos-Efes klasik örnektir, tümülüsten farklı olarak şehir İÇİNDE yer alır.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.txt",
+   "sayfa": 193
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ }
+]

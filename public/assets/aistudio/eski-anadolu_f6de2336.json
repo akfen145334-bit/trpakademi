@@ -1,0 +1,2752 @@
+[
+ {
+  "id": "EAT-001",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-eski-krallik",
+  "soru": "Hitit Eski Krallık Dönemi'nin kurucusu ve başkenti Hattuşa'ya taşıyan ilk büyük kral aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "I. Şuppiluliuma",
+   "B": "I. Hattuşili",
+   "C": "I. Murşili",
+   "D": "Telipinu",
+   "E": "III. Hattuşili"
+  },
+  "dogru": "B",
+  "cozum": "I. Hattuşili, adını başkent Hattuşa'dan almış, Anadolu sınırları dışına taşan yayılımcı politikası nedeniyle ilk Hitit Büyük Kralı sayılır (s.67-68).",
+  "hafiza_ipucu": "I. HATTUŞİLİ = 'HATTUŞA'lı' — adı zaten başkentinin imzası, kurucu O.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "Şub25 + Mar26 (iki kez) sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-002",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-eski-krallik",
+  "soru": "MÖ 1750 dolaylarında başkentini Kuşşar'dan Kaneş'e taşıyan, Hattuşa kentini fethedip burayı yerleşime açacak kişiyi lanetleyen Kuşşar kralı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "I. Hattuşili",
+   "B": "Pithana",
+   "C": "Anitta",
+   "D": "Telipinu",
+   "E": "I. Murşili"
+  },
+  "dogru": "C",
+  "cozum": "Anitta, babası Pithana'nın ardından Anadolu'da ilk siyasal birliği kurmuş, başkentini Kaneş'e taşımış ve Hattuşa'yı lanetlemiştir; I. Hattuşili bu laneti göz ardı ederek Hattuşa'yı başkent yapmıştır (s.66-67).",
+  "hafiza_ipucu": "ANİTTA, HATTUŞİLİ'den ÖNCEKİ halka: Kuşşar kralı, Hattuşa'yı henüz LANETledi, kurmadı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-003",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-eski-krallik",
+  "soru": "Torunu olduğu I. Hattuşili'nin veliaht ilan ettiği, sefer düzenleyerek Babil'i ele geçiren fakat dönüşünde eniştesi Hantili tarafından öldürülen Hitit kralı kimdir?",
+  "siklar": {
+   "A": "I. Hattuşili",
+   "B": "I. Murşili",
+   "C": "Telipinu",
+   "D": "I. Hantili",
+   "E": "I. Şuppiluliuma"
+  },
+  "dogru": "B",
+  "cozum": "I. Murşili, Halpa'yı ve ardından Babil'i almış, ancak dönüş yolunda eniştesi Hantili'nin düzenlediği komployla öldürülmüştür (s.68).",
+  "hafiza_ipucu": "I. MURŞİLİ = 'MARŞLA Babil'e' — en uzak sefer, Babil.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "Şub25 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-004",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-eski-krallik",
+  "soru": "Taht kavgalarına son vermek amacıyla veraset (tahta geçiş) kurallarını düzenleyen; buna göre önce birinci dereceden, o yoksa ikinci dereceden bir prensin, o da yoksa bir prensese alınacak içgüveyinin kral olmasını öngören Hitit belgesi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kadeş Antlaşması",
+   "B": "Telipinu Fermanı",
+   "C": "Hitit Kanunları",
+   "D": "Anitta Metni",
+   "E": "Kumarbi Efsanesi"
+  },
+  "dogru": "B",
+  "cozum": "Kral Telipinu, kendisinden önceki entrika ve cinayetlere son vermek için tahta geçiş sırasını düzenleyen fermanı çıkarmıştır (s.68).",
+  "hafiza_ipucu": "TELİPİNU = 'TELİF hakkı fermanı' — tahtın telifini (verasetini) yazdı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-005",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-eski-krallik",
+  "soru": "Aşağıdaki Hitit Eski Krallık dönemi kralları hangi sırayla tahta çıkmıştır?\nI. Telipinu  II. I. Hattuşili  III. I. Murşili  IV. I. Hantili",
+  "siklar": {
+   "A": "II-III-IV-I",
+   "B": "I-II-III-IV",
+   "C": "III-II-I-IV",
+   "D": "II-IV-III-I",
+   "E": "IV-III-II-I"
+  },
+  "dogru": "A",
+  "cozum": "Kral listesine göre sıra I. Hattuşili → I. Murşili → I. Hantili → Telipinu şeklindedir (s.67).",
+  "hafiza_ipucu": "Zincir: HATTUŞA'yı kuran (Hattuşili) → Babil'e giden (Murşili) → eniştesi tahtı kapan (Hantili) → düzeni FERMANLA kurtaran (Telipinu).",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-006",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-eski-krallik",
+  "soru": "I. I. Hattuşili  II. I. Şuppiluliuma  III. I. Murşili  IV. Telipinu\nYukarıdaki kişilerden kaç tanesi Hitit Eski Krallık Dönemi (I. Hattuşili - Telipinu arası) kral listesinde yer alır?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "0"
+  },
+  "dogru": "C",
+  "cozum": "I, III ve IV Eski Krallık kral listesindedir (s.67); I. Şuppiluliuma ise çok daha sonraki İmparatorluk Dönemi'nin (MÖ 1380-1345) kralıdır, listede yer almaz (s.67-68).",
+  "hafiza_ipucu": "ŞUPPİLULİUMA imparatorluk kurucusu — Eski Krallık zincirinin DIŞINDA, çok sonraki halka.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-007",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-eski-krallik",
+  "soru": "Hititlerin kendilerini ve dillerini tanımlamak için kullandıkları kelimeler aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Hattili - Hattice",
+   "B": "Neşalı - Neşaca",
+   "C": "Luwili - Luwice",
+   "D": "Hurrili - Hurrice",
+   "E": "Asyanik - Asyanikçe"
+  },
+  "dogru": "B",
+  "cozum": "Boğazköy arşivlerinden, Hititlerin kendilerini 'Neşalı', dillerini 'Neşaca' olarak adlandırdıkları anlaşılmıştır (s.63).",
+  "hafiza_ipucu": "NEŞA, Hititlerin gerçek adı; 'Hitit' sonradan Tevrat üzerinden yakıştırılan bir isimdir.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 63
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-008",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-eski-krallik",
+  "soru": "I. Hattuşa – Çorum  II. Gordion – Ankara/Polatlı  III. Kargamış – Gaziantep/Nizip  IV. Malatya (Melid) – Arslantepe\nYukarıdaki başkent/merkez eşleştirmelerinden kaçı doğrudur?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "0"
+  },
+  "dogru": "D",
+  "cozum": "Dört eşleştirme de doğrudur: Hattuşa-Çorum (s.66), Gordion-Ankara/Polatlı (s.119), Kargamış-Gaziantep/Nizip (s.87), Malatya(Melid)-Arslantepe (s.87).",
+  "hafiza_ipucu": "Kent-uygarlık eşleştirme kalıbı (Mar26 formatı): dörtlüyü blok hâlinde ezberle, sınav genelde birini bozarak tuzak kurar.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "Ağu25 (Hattuşa-Çorum) sordu",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-009",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-imparatorluk",
+  "soru": "Hitit Devleti'ni bir imparatorluğa dönüştüren, Halpa ve Kargamış'ı alarak Kuzey Suriye'yi egemenlik alanına katan kral aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "II. Muvatalli",
+   "B": "I. Şuppiluliuma",
+   "C": "III. Hattuşili",
+   "D": "II. Murşili",
+   "E": "IV. Tuthaliya"
+  },
+  "dogru": "B",
+  "cozum": "I. Şuppiluliuma, Halpa ve Kargamış'ı alarak Kuzey Suriye'yi egemenliğine katmış, Mitanni Devleti'ni ağır bir yenilgiye uğratarak Hitit Devleti'ni imparatorluğa dönüştürmüştür (s.68).",
+  "hafiza_ipucu": "I. ŞUPPİLULİUMA = 'SÜPER-lülü' — süper güç yapan imparator.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "Şub25 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-010",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-imparatorluk",
+  "soru": "Mısır kraliçesinin, tahta geçecek bir oğula sahip olmadığı gerekçesiyle Hitit kralından kendisiyle evlenecek bir prens istediği, ancak gönderilen prensin yolda öldürüldüğü olayla ilgili Hitit prensinin adı nedir?",
+  "siklar": {
+   "A": "Zannanza",
+   "B": "Muvatalli",
+   "C": "Kurunta",
+   "D": "Urhi-Teşup",
+   "E": "Telipinu"
+  },
+  "dogru": "A",
+  "cozum": "I. Şuppiluliuma'nın Mısır'a firavun olması için gönderdiği oğlu Zannanza, Mısırlı muhalifler tarafından öldürülmüş; bu olay Hitit-Mısır çatışmalarını (Kadeş'e giden süreci) başlatmıştır (s.68).",
+  "hafiza_ipucu": "ZANNANZA: 'zan altında ölen' prens — Mısır tahtına giderken tuzağa düştü.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-011",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-imparatorluk",
+  "soru": "Babası I. Şuppiluliuma'nın ve kendisinin icraatını yıllara göre kaydettirerek önemli bir tarih yazıcısı sayılan, döneminde ülkeyi kasıp kavuran bir veba salgını yaşanan Hitit kralı kimdir?",
+  "siklar": {
+   "A": "II. Muvatalli",
+   "B": "II. Murşili",
+   "C": "III. Hattuşili",
+   "D": "IV. Tuthaliya",
+   "E": "II. Arnuvanda"
+  },
+  "dogru": "B",
+  "cozum": "II. Murşili, babasının ve kendi dönemine ait ayrıntılı yıllıklar bıraktığı için önemli bir tarih yazıcısı sayılır; döneminde ayrıca büyük bir veba salgını yaşanmıştır (s.69).",
+  "hafiza_ipucu": "II. MURŞİLİ: 'yıllık tutan Murşili' — babasından farkı, kalemi elden bırakmaması.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-012",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-imparatorluk",
+  "soru": "Aşağıdaki krallardan hangisi Hitit İmparatorluk Dönemi kralları arasında yer almaz?",
+  "siklar": {
+   "A": "I. Şuppiluliuma",
+   "B": "II. Muvatalli",
+   "C": "III. Hattuşili",
+   "D": "I. Hattuşili",
+   "E": "IV. Tuthaliya"
+  },
+  "dogru": "D",
+  "cozum": "I. Hattuşili, Hitit Eski Krallık Dönemi'nin kurucu kralıdır; diğerleri imparatorluk dönemine (MÖ 1380 sonrası) aittir (s.67-70).",
+  "hafiza_ipucu": "I. HATTUŞİLİ zincirin EN BAŞINDA — imparatorluk halkasına dahil değil.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-013",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-imparatorluk",
+  "soru": "II. Muvatalli döneminde, kardeşi Hattuşili'nin idaresine bırakılan ve başkenti bugünkü Amasya yakınlarında kabul edilen bölgenin adı nedir?",
+  "siklar": {
+   "A": "Aşağı Ülke",
+   "B": "Tarhuntaşşa",
+   "C": "Yukarı Ülke",
+   "D": "Kaşka Ülkesi",
+   "E": "Arzawa"
+  },
+  "dogru": "C",
+  "cozum": "II. Muvatalli, kardeşi Hattuşili'yi Yeşilırmak Havzası'nı içine alan Yukarı Ülke'nin idaresiyle görevlendirmiş, kendisi ise başkentini Aşağı Ülke'deki Tarhuntaşşa'ya taşımıştır (s.69).",
+  "hafiza_ipucu": "YUKARI Ülke = kuzeyde Hattuşili; AŞAĞI Ülke (Tarhuntaşşa) = güneyde Muvatalli — ülke fiilen ikiye bölündü.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-014",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-imparatorluk",
+  "soru": "I. I. Murşili   II. I. Şuppiluliuma   III. Telipinu   IV. III. Hattuşili\na. Veraset fermanı çıkardı   b. Babil'i aldı   c. Kadeş barışını imzaladı   d. Mitanni'yi yendi\nYukarıdaki kral-icraat eşleştirmesi hangi seçenekte doğru verilmiştir?",
+  "siklar": {
+   "A": "I-b, II-d, III-a, IV-c",
+   "B": "I-a, II-b, III-c, IV-d",
+   "C": "I-d, II-a, III-b, IV-c",
+   "D": "I-b, II-c, III-a, IV-d",
+   "E": "I-c, II-d, III-b, IV-a"
+  },
+  "dogru": "A",
+  "cozum": "I. Murşili Babil'i aldı (s.68), I. Şuppiluliuma Mitanni'yi yendi (s.68), Telipinu veraset fermanı çıkardı (s.68), III. Hattuşili Kadeş barışını imzaladı (s.69).",
+  "hafiza_ipucu": "D-K-P-M zincirinin öncesi: 'Babil-Mitanni-Ferman-Barış' sırasını kralın 'imza attığı iş' üzerinden eşleştir.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-015",
+  "konu": "eski-anadolu",
+  "alt_konu": "kades-antlasmasi",
+  "soru": "Kadeş Savaşı, Hitit kralı II. Muvatalli ile hangi Mısır firavunu arasında yaşanmıştır?",
+  "siklar": {
+   "A": "II. Ramses",
+   "B": "I. Ramses",
+   "C": "III. Tutmosis",
+   "D": "Akhenaton",
+   "E": "I. Seti"
+  },
+  "dogru": "A",
+  "cozum": "Kadeş kenti yakınlarında Hitit ordusu ile Firavun II. Ramses'in orduları karşı karşıya gelmiştir (s.69).",
+  "hafiza_ipucu": "MUVATALLI vs RAMSES: iki büyük ordu, Kadeş'te (Orontes/Asi Nehri kıyısında) karşılaştı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-016",
+  "konu": "eski-anadolu",
+  "alt_konu": "kades-antlasmasi",
+  "soru": "Kadeş Savaşı sonrasındaki gerginliği bitiren 'ebedî barış ve ebedî kardeşlik' antlaşmasını Mısır ile imzalayan Hitit kralı kimdir?",
+  "siklar": {
+   "A": "II. Muvatalli",
+   "B": "III. Murşili",
+   "C": "III. Hattuşili",
+   "D": "IV. Tuthaliya",
+   "E": "Kurunta"
+  },
+  "dogru": "C",
+  "cozum": "Kadeş Savaşı'ndan sonraki gerginliği bitiren barış antlaşmasını, savaşa ordu komutanı olarak katılmış olan III. Hattuşili imzalamıştır (kaynakta MÖ 1270; s.69-70).",
+  "hafiza_ipucu": "Savaşı Muvatalli yaptı, barışı kardeşi III. Hattuşili imzaladı — 'savaşan ile barışı yapan farklı kişi' tuzağına dikkat.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": "Şub25 sordu (ilk yazılı barış antlaşması)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-017",
+  "konu": "eski-anadolu",
+  "alt_konu": "kades-antlasmasi",
+  "soru": "Tarihte devletler arasında yapılan ilk yazılı barış antlaşması olarak kabul edilen ve orijinal tableti günümüzde İstanbul Arkeoloji Müzesi'nde sergilenen antlaşma aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kızılırmak Barışı",
+   "B": "Kadeş Antlaşması",
+   "C": "Telipinu Fermanı",
+   "D": "Sina Antlaşması",
+   "E": "Amurru Antlaşması"
+  },
+  "dogru": "B",
+  "cozum": "Kadeş Antlaşması, Hitit ve Mısır ülkeleri arasında yapılan, tarihteki ilk uluslararası barış antlaşması olarak kabul edilir; çivi yazılı kil tablet İstanbul Arkeoloji Müzesi'nde sergilenmektedir (s.70, Resim 3.6).",
+  "hafiza_ipucu": "İSTANBUL'da duran tablet = dünyanın İLK yazılı barışı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "Şub25 sordu; Ağu25 (orijinali İstanbul'da) sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-018",
+  "konu": "eski-anadolu",
+  "alt_konu": "kades-antlasmasi",
+  "soru": "Kadeş Antlaşması ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Hitit ve Mısır arasında imzalanmıştır",
+   "B": "Tarihteki ilk yazılı barış antlaşması kabul edilir",
+   "C": "Orijinal tableti İstanbul Arkeoloji Müzesi'ndedir",
+   "D": "Antlaşmayı imzalayan kral I. Şuppiluliuma'dır",
+   "E": "Antlaşma öncesinde Kadeş kenti yakınlarında bir savaş yaşanmıştır"
+  },
+  "dogru": "D",
+  "cozum": "Antlaşmayı, savaşa katılan ve sonradan kral olan III. Hattuşili imzalamıştır; I. Şuppiluliuma çok daha önceki bir imparatorluk kurucusu kraldır (s.68-70).",
+  "hafiza_ipucu": "ŞUPPİLULİUMA çok erken, kurucu kral — Kadeş'in kahramanı O DEĞİL.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-019",
+  "konu": "eski-anadolu",
+  "alt_konu": "kades-antlasmasi",
+  "soru": "Kadeş Savaşı, Hitit tahtında hangi kral otururken gerçekleşmiştir?",
+  "siklar": {
+   "A": "I. Şuppiluliuma",
+   "B": "II. Muvatalli",
+   "C": "III. Hattuşili",
+   "D": "IV. Tuthaliya",
+   "E": "II. Murşili"
+  },
+  "dogru": "B",
+  "cozum": "Kadeş kenti yakınlarındaki savaş (kaynakta MÖ 1285), II. Muvatalli'nin krallığı döneminde yaşanmış; barış antlaşması ise sonradan tahta geçen kardeşi III. Hattuşili tarafından imzalanmıştır (s.69).",
+  "hafiza_ipucu": "SAVAŞ: Muvatalli · BARIŞ: III. Hattuşili — iki kardeş, iki farklı rol.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-020",
+  "konu": "eski-anadolu",
+  "alt_konu": "kades-antlasmasi",
+  "soru": "III. Hattuşili'nin, Kadeş Savaşı'ndan dönerken Lavazantiya kentinde evlendiği, Hitit tarihinin en kişilikli kadını sayılan ve diğer ülke krallarıyla kendi adına mektuplaşan kraliçesi kimdir?",
+  "siklar": {
+   "A": "Nikkalmati",
+   "B": "Puduhepa",
+   "C": "Taduhepa",
+   "D": "Aşmunikal",
+   "E": "Tavananna"
+  },
+  "dogru": "B",
+  "cozum": "III. Hattuşili, Kadeş Savaşı dönüşünde bir rahibin kızı olan Puduhepa ile evlenmiş; Puduhepa eşinin görevlerini paylaşan, diğer ülke krallarıyla bizzat mektuplaşan güçlü bir kraliçe olmuştur (s.69).",
+  "hafiza_ipucu": "PUDUHEPA: Kadeş dönüşünde bulunan, 'kendi kalemiyle diplomasi yapan' kraliçe.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 69
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-021",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-devlet-yapisi",
+  "soru": "Hitit Devleti'nde çoğunlukla kraliyet ailesine mensup devlet memurlarından oluşan, ölüm cezalarına onay verme yetkisi de bulunan danışma/asiller meclisinin adı nedir?",
+  "siklar": {
+   "A": "Tuliya",
+   "B": "Panku",
+   "C": "Karum",
+   "D": "Yaşlılar Meclisi",
+   "E": "Pankuş Sarayı"
+  },
+  "dogru": "B",
+  "cozum": "'Panku' adı verilen asiller meclisi kraliyet ailesinden memurlardan oluşur; ölüm cezaları gibi konularda onay yetkisine sahiptir (s.72).",
+  "hafiza_ipucu": "PANKU: kralın yanında duran, 'onay mührünü' elinde tutan asiller kurulu.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 72
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-022",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-devlet-yapisi",
+  "soru": "I. Başrahip  II. Başkomutan  III. Baş yargıç  IV. Baş vergi memuru\nYukarıdakilerden kaçı Hitit krallarının üstlendiği resmî görevler arasındadır?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "0"
+  },
+  "dogru": "C",
+  "cozum": "Hitit kralları başrahip, başkomutan ve baş yargıç olmak üzere üç temel görevi bir arada yürütürdü; 'baş vergi memurluğu' metinde kralın görevleri arasında sayılmaz (s.72).",
+  "hafiza_ipucu": "3R kuralı: Rahip-Reis(komutan)-yaRgıç — kralın üç şapkası.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 72
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-023",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-devlet-yapisi",
+  "soru": "Hitit kanunlarında görülen ve 'göze göz, dişe diş' anlamına gelen, zarara uğrayan tarafın suçluya kendisine gelenden daha fazla zarar vermesini önlemeyi amaçlayan ilkenin adı nedir?",
+  "siklar": {
+   "A": "Panku ilkesi",
+   "B": "Talion ilkesi",
+   "C": "Parnaşşea şuwayezzi",
+   "D": "Angarya ilkesi",
+   "E": "Tavananna ilkesi"
+  },
+  "dogru": "B",
+  "cozum": "Talion ilkesi, ceza ile intikamın eşitlenmesini önlemek amacıyla Hitit kanunlarında uygulanan 'göze göz, dişe diş' ilkesidir (s.74).",
+  "hafiza_ipucu": "TALİON = 'TALEP kadar ceza' — fazlasını değil.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 74
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-024",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-devlet-yapisi",
+  "soru": "Hitit hukuku ile ilgili aşağıdakilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Kanun metinleri toplam 200 madde içerir",
+   "B": "Bedeni sakatlama cezaları yalnızca kölelere uygulanabilirdi",
+   "C": "Hitit hukuku Mezopotamya'ya göre daha geridir",
+   "D": "Ölüm cezaları ırza geçme gibi ağır suçlarda uygulanırdı",
+   "E": "Kanunlar geleneksel düzenlemelerden başlayarak dört aşamadan geçmiştir"
+  },
+  "dogru": "C",
+  "cozum": "Kaynakta, Hitit kanunlarının tazminat esaslı cezalar ve sınırlı ölüm cezaları nedeniyle Mezopotamya'ya göre 'oldukça ileri' olduğu belirtilir; 'geri' ifadesi yanlıştır (s.74).",
+  "hafiza_ipucu": "Hitit hukuku Mezopotamya'dan İLERİ — tazminat esası, sınırlı ölüm cezası.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 74
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-025",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-dini-mitoloji",
+  "soru": "Çok tanrılı sistemlerde bir devletin oluşturduğu resmi tanrılar topluluğuna verilen isim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Synkretizm",
+   "B": "Pantheon",
+   "C": "Panku",
+   "D": "Tuliya",
+   "E": "Asyanik"
+  },
+  "dogru": "B",
+  "cozum": "Pantheon, bir devletin resmi tanrılar topluluğuna verilen isimdir; Hititler kendilerini 'bin tanrılı' olarak tanımlar (s.75).",
+  "hafiza_ipucu": "PANTHEON = 'PAN' (hepsi) + tanrılar — hepsinin bir arada durduğu resmi kurul.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 75
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-026",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-dini-mitoloji",
+  "soru": "Hititlerin kült törenlerini gerçekleştirdiği, Boğazköy'ün yaklaşık iki kilometre kuzeydoğusunda iki doğal kaya odasından oluşan açık hava tapınağının adı nedir?",
+  "siklar": {
+   "A": "Alacahöyük",
+   "B": "Yazılıkaya",
+   "C": "Aslankaya",
+   "D": "Karatepe",
+   "E": "Kızıldağ"
+  },
+  "dogru": "B",
+  "cozum": "Yazılıkaya Açık Hava Tapınağı, Boğazköy yakınında Hititlerin kült törenlerini gerçekleştirdikleri kutsal alandır (s.75).",
+  "hafiza_ipucu": "YAZILIKAYA = Hitit tanrılarının 'yazıldığı' kaya sahnesi (Frig'in kendi Yazılıkaya/Midas Kenti ile karıştırma!).",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 75
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-027",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-dini-mitoloji",
+  "soru": "Hitit mitolojisinde 'Kaybolan Tanrı' motifiyle bilinen, kayboluşuyla birlikte bereketi de götüren tanrı ile, taht kavgalarını bitiren veraset fermanını çıkaran kral aynı isimle anılmaktadır. Bu ortak isim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Teşup",
+   "B": "Telipinu",
+   "C": "Kumarbi",
+   "D": "Alalu",
+   "E": "Anu"
+  },
+  "dogru": "B",
+  "cozum": "Kaybolan Tanrı Mitolojisi'nin en bilinen örneği Tanrı Telipinu'nun kayboluşudur (s.76-77); aynı isim, veraset fermanını çıkaran Kral Telipinu için de kullanılır (s.68) — ikisi farklı kişiliklerdir.",
+  "hafiza_ipucu": "⚓ Kral Telipinu = 'TELİF fermanı' (s.68); Tanrı Telipinu = küsüp kaybolan, bereketi götüren tanrı (s.76-77). İsim aynı, kimlik ayrı — klasik sınav tuzağı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 77
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-028",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-dini-mitoloji",
+  "soru": "Hurri kökenli Kumarbi Efsanesi'nde tanrı Anu'nun erkekliğini ısırıp yutan, daha sonra Eski Yunan mitolojisindeki Kronos'a benzetilen tanrının adı nedir?",
+  "siklar": {
+   "A": "Teşup",
+   "B": "Kumarbi",
+   "C": "Ubelluri",
+   "D": "Alalu",
+   "E": "Ullikummi"
+  },
+  "dogru": "B",
+  "cozum": "Kumarbi, Anu'nun erkekliğini ısırıp yutarak Fırtına Tanrısı Teşup'a gebe kalmış; bu motif Yunan mitolojisindeki Kronos-Uranos mücadelesine paralellik gösterir (s.76).",
+  "hafiza_ipucu": "KUMARBİ ≈ Kronos, Anu ≈ Uranos, Teşup ≈ Zeus — Hitit mitolojisi Yunan'a köprü kurar.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 76
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-029",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-dini-mitoloji",
+  "soru": "Hititlerde çivi yazısının aksine, halka açık kaya kabartmalarında ve mühürlerde kullanılan yazı sistemi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Çivi yazısı",
+   "B": "Hitit-Luwi Hiyeroglifi",
+   "C": "Fenike alfabesi",
+   "D": "Linear B",
+   "E": "Ugarit alfabesi"
+  },
+  "dogru": "B",
+  "cozum": "Çivi yazısı resmi/devlet yazısıyken, Hitit-Luwi Hiyeroglifi halkın kullandığı, halka açık alanlarda görülen yazı sistemidir (s.66).",
+  "hafiza_ipucu": "ÇİVİ yazısı = saray/devlet; HİYEROGLİF = halk/açık hava.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-030",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-yikilisi",
+  "soru": "Hitit İmparatorluğu'nun MÖ 1200 yıllarında yıkılmasında en önemli dış etken olarak kabul edilen, Ege adalarından kıyılara yönelen göç/istila hareketi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Trak Göçleri",
+   "B": "Deniz Kavimleri Göçü",
+   "C": "Dor Göçü",
+   "D": "Kimmer İstilası",
+   "E": "Aram Göçü"
+  },
+  "dogru": "B",
+  "cozum": "Ege adalarından geldikleri sanılan 'Deniz Kavimleri', kıyılardan başlayarak Anadolu'yu işgal etmiş; bu göç dalgası, iç kargaşa ve kuraklıkla birlikte Hitit Devleti'nin sonunu getirmiştir (s.71).",
+  "hafiza_ipucu": "DENİZ Kavimleri = Hitit'i BOĞAN dalga (D-K-P-M zincirinin ilk halkası).",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-031",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-yikilisi",
+  "soru": "Aşağıdakilerden hangisi Hitit İmparatorluğu'nun çöküş sürecinde rol oynayan etkenlerden biri değildir?",
+  "siklar": {
+   "A": "Yedi yıl süren kuraklık",
+   "B": "Deniz Kavimleri göçü",
+   "C": "Taht kavgaları ve iç kargaşa",
+   "D": "Mısır'ın Hitit topraklarını işgal etmesi",
+   "E": "Ekonomik dengelerin bozulması"
+  },
+  "dogru": "D",
+  "cozum": "Kaynakta yıkılış nedenleri arasında kuraklık, göç, iç kargaşa ve ekonomik bozulma sayılır; Mısır'ın Hitit topraklarını işgal ettiğine dair bilgi yoktur — aksine Kadeş sonrası ilişkiler barışla düzelmiştir (s.70-71).",
+  "hafiza_ipucu": "Mısır'la ilişki Kadeş'ten sonra BARIŞ oldu; yıkılışın suçlusu Mısır değil.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-032",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-yikilisi",
+  "soru": "Deniz Kavimleri Göçü (Ege Göçleri) öncesinde Batı Anadolu'da yaşayan, sonradan gelen İon-Aiol-Dor göçmen halklarından ayırt edilmesi gereken yerli halk aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Lelegler",
+   "B": "İonlar",
+   "C": "Aioller",
+   "D": "Dorlar",
+   "E": "Frigler"
+  },
+  "dogru": "A",
+  "cozum": "Lelegler, Deniz Kavimleri Göçü (Ege Göçleri) öncesinde Batı Anadolu'da yaşayan yerli halklardandır; İon-Aiol-Dor göçleri bu göçten SONRA gelmiştir (Anadolu Arkeolojisi, s.121-122).",
+  "hafiza_ipucu": "LELEG = 'YERLİ-leleg' — göçten ÖNCE buradaydı. İon/Aiol/Dor ise sonradan GELen üç dalga.",
+  "kaynak": {
+   "dosya": "Anadolu Arkeolojisi__Anadolu Üni.pdf",
+   "sayfa": 121
+  },
+  "akraba_cikmis_soru": "Mart 2026 sınavı S.9 ile akraba (farklı açıdan sorulmuştur)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-033",
+  "konu": "eski-anadolu",
+  "alt_konu": "hitit-yikilisi",
+  "soru": "Hattuşa (Boğazköy) arşivlerinde ortaya çıkarılan çivi yazılı tablet ve tablet parçalarının sayısı aşağıdaki aralıklardan hangisiyle ifade edilir?",
+  "siklar": {
+   "A": "1.000'den az",
+   "B": "5.000 civarı",
+   "C": "25.000'den fazla",
+   "D": "100.000'den fazla",
+   "E": "Yalnızca birkaç yüz"
+  },
+  "dogru": "C",
+  "cozum": "Boğazköy'deki arşivlerde 25.000'den fazla tablet ve tablet parçası bulunmuştur (s.66).",
+  "hafiza_ipucu": "25 BİN'den fazla — Hattuşa, dönemin en büyük 'devlet arşivi'.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-034",
+  "konu": "eski-anadolu",
+  "alt_konu": "gec-hitit-genel",
+  "soru": "Hitit İmparatorluğu'nun yıkılışından sonra, özellikle Toroslar'ın güneyinde, Güneydoğu Anadolu ve Kuzey Suriye'de ortaya çıkan, Hitit kültürünün devamı niteliğindeki küçük kent devletlerine ne ad verilir?",
+  "siklar": {
+   "A": "Karum Devletleri",
+   "B": "Geç Hitit Devletleri/Beylikleri",
+   "C": "Arami Prenslikleri",
+   "D": "Luwi Krallıkları",
+   "E": "Assur Eyaletleri"
+  },
+  "dogru": "B",
+  "cozum": "Geç Hitit Devletleri/Beylikleri, Hitit yıkılışından sonra Toros bölgesinde kurulan ve hanedan isimleriyle Hitit devamı sayılan kent devletleridir (s.85).",
+  "hafiza_ipucu": "GEÇ Hitit = 'Hitit'in külünden doğan' beylikler zinciri — Anadolu güneyinde devam.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 85
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-035",
+  "konu": "eski-anadolu",
+  "alt_konu": "karkamis-kubaba",
+  "soru": "Kargamış'ta tapınılan ve Geç Hitit Dönemi'nin önemli tanrıçalarından biri olan, Friglerin Matar'ıyla akraba kabul edilen tanrıça kimdir?",
+  "siklar": {
+   "A": "Hepat",
+   "B": "Kubaba",
+   "C": "Arinna",
+   "D": "Şivini",
+   "E": "Teişeba"
+  },
+  "dogru": "B",
+  "cozum": "Kargamış kabartmalarında Tanrıça Kubaba için yapılan dinsel törenler tasvir edilmiştir; Kubaba, Geç Hitit dünyasının önemli tanrıçalarındandır (s.93).",
+  "hafiza_ipucu": "Kubaba ANNE (Karkamış/Geç Hitit), Kibele/Matar TORUN (Frig) — aynı soyun iki farklı ismi.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 93
+  },
+  "akraba_cikmis_soru": "Mar26 sordu (Kubaba-Karkamış)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-036",
+  "konu": "eski-anadolu",
+  "alt_konu": "karkamis-kubaba",
+  "soru": "Kargamış'ta 1911'de British Müzesi adına başlayan ve 1912-1914 arasında sürdürülen bilimsel kazıların başkanlarından biri, I. Dünya Savaşı sırasındaki 'Arabistanlı Lawrence' lakabıyla tanınan kişidir. Bu kişi kimdir?",
+  "siklar": {
+   "A": "David H. Hogarth",
+   "B": "Leonard Woolley",
+   "C": "T. E. Lawrence",
+   "D": "George Smith",
+   "E": "Henry Maundrell"
+  },
+  "dogru": "C",
+  "cozum": "Kargamış kazıları Leonard Woolley ve T. E. Lawrence başkanlığında sürdürülmüştür (s.87).",
+  "hafiza_ipucu": "LAWRENCE, Kargamış kazısından sonra 'Arabistanlı Lawrence' olarak ün kazandı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 87
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-037",
+  "konu": "eski-anadolu",
+  "alt_konu": "karkamis-kubaba",
+  "soru": "Kargamış şehri, MÖ 717 yılında hangi Assur kralı tarafından yağmalanarak Assur şehri hâline getirilmiştir?",
+  "siklar": {
+   "A": "III. Şalmaneser",
+   "B": "II. Sargon",
+   "C": "Aşurbanipal",
+   "D": "I. Tiglat-pileser",
+   "E": "Esarhaddon"
+  },
+  "dogru": "B",
+  "cozum": "MÖ 717'de Assur kralı II. Sargon, Kargamış'ı yağmalayıp halkını Assur'a sürerek kenti bir Assur şehri hâline getirmiştir (s.87).",
+  "hafiza_ipucu": "II. SARGON: Kargamış'ı (717), sonra Gurgum'u (711) sırayla Assur'a katan kral.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 87
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-038",
+  "konu": "eski-anadolu",
+  "alt_konu": "gec-hitit-genel",
+  "soru": "I. Bit-hilani planlı saray ve tapınaklar  II. Kabartmalı ortostatlar  III. Sadece çivi yazısının kullanılması  IV. Hiyeroglif Luwicesi ve Arami alfabesiyle yazıtlar\nYukarıdakilerden kaçı Geç Hitit dönemi mimari/yazı özellikleri arasında doğru sayılır?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "0"
+  },
+  "dogru": "C",
+  "cozum": "I, II ve IV doğrudur (s.85-86). III yanlıştır: çivi yazısı, Hitit İmparatorluğu'nun yıkılışıyla terk edilmiş; Geç Hitit döneminde Luwi hiyeroglifi ve Arami alfabesi kullanılmıştır (s.97).",
+  "hafiza_ipucu": "Geç Hitit'te ÇİVİ yazısı YOK — sadece hiyeroglif + Arami alfabesi devam eder.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 85
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-039",
+  "konu": "eski-anadolu",
+  "alt_konu": "malatya-arslantepe",
+  "soru": "Hitit kaynaklarında Maldiya, Assur kaynaklarında Melid adıyla anılan Geç Hitit kenti, modern Malatya yakınlarındaki hangi höyükte kurulmuştur?",
+  "siklar": {
+   "A": "Kültepe",
+   "B": "Alişar",
+   "C": "Arslantepe",
+   "D": "Alacahöyük",
+   "E": "Kalehöyük"
+  },
+  "dogru": "C",
+  "cozum": "Malatya/Melid kenti, modern Malatya'nın yedi kilometre kuzeydoğusundaki Arslantepe Höyüğü üzerinde kurulmuştur (s.87).",
+  "hafiza_ipucu": "Malatya = Melid = ARSLANTEPE üçlüsü blok hâlinde ezberlenmeli.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 87
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-040",
+  "konu": "eski-anadolu",
+  "alt_konu": "malatya-arslantepe",
+  "soru": "Arslantepe Höyüğü'nde 1932'de Fransız Hititolog Louis Delaporte'un başlattığı kazılarda ortaya çıkarılan, kapı aslanları nedeniyle bu adı alan Geç Hitit yapısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İvriz Kabartması",
+   "B": "Aslanlı Kapı",
+   "C": "Aslankaya Anıtı",
+   "D": "Yazılıkaya",
+   "E": "Kral Burcu"
+  },
+  "dogru": "B",
+  "cozum": "Arslantepe'deki Geç Hitit Melid Kalesi'nin kabartmalı kuzeydoğu kapısı, kapı aslanları nedeniyle 'Aslanlı Kapı' olarak tanınmıştır (s.87-88).",
+  "hafiza_ipucu": "ASLANLI Kapı, ARSLANtepe'de — isim zaten eserin adresini veriyor.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 88
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-041",
+  "konu": "eski-anadolu",
+  "alt_konu": "gec-hitit-diger-beylikler",
+  "soru": "I. Kilamuwa  II. Warpalawas  III. Hartapu  IV. Azatiwatas\na. Sam'al  b. Tabal (İvriz/Tuwana)  c. Kızıldağ/Tarhuntaşşa  d. Karatepe-Aslantaş (Azatiwataya)\nYukarıdaki kral-merkez eşleştirmesi hangi seçenekte doğru verilmiştir?",
+  "siklar": {
+   "A": "I-a, II-b, III-c, IV-d",
+   "B": "I-b, II-a, III-d, IV-c",
+   "C": "I-a, II-c, III-b, IV-d",
+   "D": "I-d, II-b, III-a, IV-c",
+   "E": "I-a, II-b, III-d, IV-c"
+  },
+  "dogru": "A",
+  "cozum": "Kilamuwa Sam'al kralıdır (s.92); Warpalawas Tabal/Tuwana kralıdır, İvriz kabartmasında betimlenir (s.88); Hartapu Kızıldağ/Tarhuntaşşa'da 'Büyük Kral'dır (s.88-89); Azatiwatas Karatepe-Aslantaş'ın (Azatiwataya) kurucusudur (s.91).",
+  "hafiza_ipucu": "Dört kral-dört merkez: Kilamuwa-Sam'al, Warpalawas-Tabal, Hartapu-Kızıldağ, Azatiwatas-Karatepe — blok hâlinde ezberle.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 92
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-042",
+  "konu": "eski-anadolu",
+  "alt_konu": "gurgum",
+  "soru": "I. Gurgum – Kahramanmaraş  II. Malatya (Melid) – Arslantepe  III. Tabal – Adıyaman  IV. Sam'al – Zincirli Höyüğü\nYukarıdaki beylik-merkez eşleştirmelerinden kaçı doğrudur?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "0"
+  },
+  "dogru": "C",
+  "cozum": "I, II ve IV doğrudur (s.87-92). III yanlıştır: Tabal, Kayseri-Niğde-Nevşehir-Aksaray bölgesiyle özdeşleşir (s.88); Adıyaman ise Kummuh Krallığı'nın bölgesidir (s.94).",
+  "hafiza_ipucu": "Tabal = Kapadokya (Kayseri-Niğde) bölgesi; Adıyaman'ı Kummuh'a bağla, Tabal'a değil.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "Ağu25 sordu (Gurgum-Kahramanmaraş)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-043",
+  "konu": "eski-anadolu",
+  "alt_konu": "gurgum",
+  "soru": "MÖ 711 yılında Gurgum kralı Mutallu'yu tahttan indirip Gurgum Devleti'ni Assur'un bir eyaleti hâline getiren ve eyaletin adını Marqas olarak değiştiren Assur kralı kimdir?",
+  "siklar": {
+   "A": "III. Şalmaneser",
+   "B": "III. Adad-nirari",
+   "C": "II. Sargon",
+   "D": "III. Tiglatpileser",
+   "E": "II. Aşurnasirpal"
+  },
+  "dogru": "C",
+  "cozum": "II. Sargon, MÖ 711'de Mutallu'yu tahttan indirerek Gurgum'u Assur eyaleti (Marqas) hâline getirmiştir (s.90).",
+  "hafiza_ipucu": "II. SARGON: Kargamış'ı (717) ve Gurgum'u (711) sırayla Assur'a bağlayan fatih.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-044",
+  "konu": "eski-anadolu",
+  "alt_konu": "gurgum",
+  "soru": "Aşağıdakilerden hangisi Gurgum Devleti krallarından biri değildir?",
+  "siklar": {
+   "A": "Mutalli",
+   "B": "Tarhulara",
+   "C": "Mutallu",
+   "D": "Qalparunda (Gurgum'daki)",
+   "E": "Warpalawas"
+  },
+  "dogru": "E",
+  "cozum": "Warpalawas, Tabal bölgesindeki Tuwana kentinin kralıdır (İvriz kabartmasındaki kral, s.88); Mutalli, Tarhulara, Mutallu ve Qalparunda ise Gurgum krallarıdır (s.90).",
+  "hafiza_ipucu": "WARPALAWAS = Tabal/İvriz'in kralı, Gurgum'a ait DEĞİL.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-045",
+  "konu": "eski-anadolu",
+  "alt_konu": "gec-hitit-diger-beylikler",
+  "soru": "Zincirli Höyüğü'nde yönetim merkezi bulunan, Kilamuwa, Barrakib ve Panamuwa gibi kralları bilinen Geç Hitit devleti aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tabal",
+   "B": "Sam'al",
+   "C": "Kummuh",
+   "D": "Que",
+   "E": "Pattin"
+  },
+  "dogru": "B",
+  "cozum": "Sam'al (Zincirli Höyüğü), Gaziantep'in güneyinde yer alır; Kilamuwa, Barrakib ve Panamuwa bu devletin bilinen krallarındandır (s.92).",
+  "hafiza_ipucu": "SAM'AL = ZİNCİRLİ — isim ile höyük adını zincirleme çağrışımla bağla.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 92
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-046",
+  "konu": "eski-anadolu",
+  "alt_konu": "gec-hitit-diger-beylikler",
+  "soru": "Kayseri, Niğde, Nevşehir ve Aksaray'ı kapsayan, Klasik Çağ'da Kapadokya olarak adlandırılan bölgede kurulan ve İvriz Kabartması'yla (Kral Warpalawas) tanınan Geç Hitit devleti hangisidir?",
+  "siklar": {
+   "A": "Gurgum",
+   "B": "Tabal",
+   "C": "Kummuh",
+   "D": "Que",
+   "E": "Sam'al"
+  },
+  "dogru": "B",
+  "cozum": "Tabal, Kayseri-Niğde-Nevşehir-Aksaray bölgesini kapsar; İvriz'deki kabartmada kral Warpalawas, Fırtına Tanrısı ile birlikte betimlenmiştir (s.88).",
+  "hafiza_ipucu": "TABAL = bugünkü KAPADOKYA — Tabal'ı 'Nevşehir bacaları' ile eşleştir.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 88
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-047",
+  "konu": "eski-anadolu",
+  "alt_konu": "gec-hitit-diger-beylikler",
+  "soru": "MÖ 709'da Frig kralı Mita'ya (Midas'a) karşı askeri harekâta giriştiği bilinen Geç Hitit devleti hangisidir?",
+  "siklar": {
+   "A": "Que",
+   "B": "Kummuh",
+   "C": "Sam'al",
+   "D": "Pattin",
+   "E": "Tabal"
+  },
+  "dogru": "A",
+  "cozum": "Que Krallığı'nın MÖ 709'da Frig kralı Mita'ya karşı bir askeri harekâta giriştiği bilinmektedir (s.91).",
+  "hafiza_ipucu": "QUE (Çukurova) ↔ MİDAS: Geç Hitit-Frig teması, iki bölgenin komşuluğunu gösteriyor.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-048",
+  "konu": "eski-anadolu",
+  "alt_konu": "gec-hitit-diger-beylikler",
+  "soru": "Bugüne kadar bulunmuş en uzun çift dilli (Fenikece ve Luwi Hiyeroglifi) yazıtın bulunduğu, kurucusu Azatiwatas olan Geç Hitit kalesi/kenti aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Zincirli",
+   "B": "Karatepe-Aslantaş (Azatiwataya)",
+   "C": "Kızıldağ",
+   "D": "İvriz",
+   "E": "Arslantepe"
+  },
+  "dogru": "B",
+  "cozum": "Karatepe-Aslantaş'ta bulunan çift dilli (Fenikece-Luwi Hiyeroglifi) yazıt, kentin Geç Hitit dönemindeki adının Azatiwataya olduğunu ve kurucusunun Azatiwatas olduğunu ortaya koymuştur (s.91).",
+  "hafiza_ipucu": "KARATEPE = iki dilli 'Rosetta taşı' misali — Fenikece + Luwi hiyeroglifi bir arada.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-049",
+  "konu": "eski-anadolu",
+  "alt_konu": "gec-hitit-diger-beylikler",
+  "soru": "Konya-Karaman yakınlarındaki Kızıldağ'da 'Büyük Kral' unvanıyla anılan, babası (III.) Murşili olan Geç Hitit dönemi kralı kimdir?",
+  "siklar": {
+   "A": "Kuzi-Teşup",
+   "B": "Hartapu",
+   "C": "Warpalawas",
+   "D": "Azatiwatas",
+   "E": "Kilamuwa"
+  },
+  "dogru": "B",
+  "cozum": "Kızıldağ yazıtlarında 'Büyük Kral Hartapu' olarak geçen kral, sürgündeki III. Murşili'nin (II. Muvatalli'nin torunu) oğlu olarak tanımlanır (s.88-89).",
+  "hafiza_ipucu": "HARTAPU = 'Büyük Kral' unvanını taşıyan tek Geç Hitit kralı, Kızıldağ'ın efendisi.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 89
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-050",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-siyasi-tarih",
+  "soru": "Antik Batı kaynaklarına göre, adını başkent Gordion'a veren ve merkezi Frig Devleti'nin ilk kralı kabul edilen kişi kimdir?",
+  "siklar": {
+   "A": "Midas",
+   "B": "Gordias (Gordios)",
+   "C": "Adrastos",
+   "D": "Alyattes",
+   "E": "Mita"
+  },
+  "dogru": "B",
+  "cozum": "Antik Batı kaynaklarına göre merkezi Frig Devleti'nin ilk kralı, başkent Gordion'a adını veren Gordias'tır (s.120).",
+  "hafiza_ipucu": "GORDİOS → GORDİON: kral-kent aynı isim; düğüm de onun arabasında.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": "Ağu25 sordu (Frig ilk kralı)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-051",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-siyasi-tarih",
+  "soru": "Assur kaynaklarında 'Muşkili Mita' adıyla geçen, tarihi kimliği Assur belgeleriyle doğrulanan Frig kralı kimdir?",
+  "siklar": {
+   "A": "Gordias",
+   "B": "Midas",
+   "C": "Adrastos",
+   "D": "Alyattes",
+   "E": "Warpalawas"
+  },
+  "dogru": "B",
+  "cozum": "Kral Midas, Assur kaynaklarında Muşki halkının kralı 'Muşkili Mita' adıyla geçer ve MÖ 717-709 arasında II. Sargon'un çağdaşıdır (s.120).",
+  "hafiza_ipucu": "MİDAS = MUŞKİLİ MİTA — Assur belgesindeki 'gerçek' adı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-052",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-siyasi-tarih",
+  "soru": "Assur kaynaklarına göre kral Midas (Mita), aşağıdaki krallardan/yöneticilerden hangisiyle doğrudan ilişki kurmamıştır?",
+  "siklar": {
+   "A": "Kargamışlı Pisiris",
+   "B": "Taballı Ambaris",
+   "C": "Urartu kralı I. Rusa",
+   "D": "Assur kralı II. Sargon",
+   "E": "Mısır firavunu II. Ramses"
+  },
+  "dogru": "E",
+  "cozum": "Midas'ın ilişki kurduğu isimler arasında Pisiris, Ambaris, Atunalı Matti, Urartu kralı I. Rusa ve Assur kralı II. Sargon sayılır; II. Ramses ise çok daha önceki bir dönemin (Kadeş Savaşı, MÖ 13.yy) Mısır firavunudur, Midas ile (MÖ 8.yy) çağdaş değildir (s.120).",
+  "hafiza_ipucu": "RAMSES, Kadeş'in adamı — Midas'tan yaklaşık 500 yıl önce yaşadı, aralarında ilişki olamaz.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-053",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-siyasi-tarih",
+  "soru": "Efsaneye göre kral Gordias'ın arabasına bağlanmış ve çözenin Asya'nın hâkimi olacağına inanılan ünlü düğümü bir kılıç darbesiyle kesen Makedon kralı kimdir?",
+  "siklar": {
+   "A": "I. Philip",
+   "B": "Büyük İskender",
+   "C": "I. Ptolemaios",
+   "D": "III. Antiokhos",
+   "E": "Perdikkas"
+  },
+  "dogru": "B",
+  "cozum": "Gordion düğümünü Makedonyalı Büyük İskender bir kılıç darbesiyle keserek çözmüştür (s.121).",
+  "hafiza_ipucu": "GORDİON düğümü → İSKENDER'in kılıcı — 'çözemeyeni kes' çözümü.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 121
+  },
+  "akraba_cikmis_soru": "Şub25 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-054",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-din-matar",
+  "soru": "Frig yazıtlarında 'Ana' anlamına gelen ve Ana Tanrıça olarak tapılan, Hitit-Luvilerin 'Kubaba', Yunanlıların 'Kybele' dediği tanrıçanın Frigce adı nedir?",
+  "siklar": {
+   "A": "Arinna",
+   "B": "Matar",
+   "C": "Teişeba",
+   "D": "Hepat",
+   "E": "Şivini"
+  },
+  "dogru": "B",
+  "cozum": "Frig yazıt ve sanat eserlerinde 'Matar' (Ana) olarak tanımlanan tanrıça, Hitit-Luviler'in Kubaba'sı, Yunanlıların Kybele'siyle özdeşleştirilir (s.126).",
+  "hafiza_ipucu": "MATAR = 'MATER' (Ana) — Roma'da Magna Mater, Yunan'da Kybele, Hitit'te Kubaba, Frig'de Matar: tek tanrıça, dört isim.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 126
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-055",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-din-matar",
+  "soru": "Frig kaya anıtlarının en büyüğü ve en görkemlisi olan, üzerindeki 'MIDAI' yazıtı nedeniyle bu adı alan anıt aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Aslankaya Anıtı",
+   "B": "Areyastis Anıtı",
+   "C": "Yazılıkaya/Midas Anıtı",
+   "D": "Büyük Kapı Kaya Anıtı",
+   "E": "Bahşayiş Anıtı"
+  },
+  "dogru": "C",
+  "cozum": "17 m yükseklik, 16,50 m genişlikteki Yazılıkaya/Midas Anıtı, üzerindeki MIDAI=MİDAS yazıtı nedeniyle bu adı taşır ve Frig fasadlarının en büyüğüdür (s.127).",
+  "hafiza_ipucu": "Frig'in kendi Yazılıkaya'sı, Midas'ın adını taşır — Hitit'in Boğazköy Yazılıkaya'sıyla KARIŞTIRMA.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 127
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-056",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-din-matar",
+  "soru": "Kral ve soylu kişiler için yapılan, altında genellikle ahşap veya taştan bir mezar odası bulunan, tepe şeklinde yığma toprak ya da taş mezar anıtına ne ad verilir?",
+  "siklar": {
+   "A": "Nekropol",
+   "B": "Tümülüs",
+   "C": "Ortostat",
+   "D": "Stel",
+   "E": "Sitadel"
+  },
+  "dogru": "B",
+  "cozum": "Tümülüs, kral ve soylular için yapılmış, altında mezar odası bulunan tepe biçimli yığma mezar anıtıdır; bu gelenek Anadolu'ya ilk kez Frigler tarafından Trakya-Makedonya'dan getirilmiştir (s.128).",
+  "hafiza_ipucu": "TÜMÜLÜS = toprak TÜMÜS(seki) — Frig soylusunun tepe biçimli mezarı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 128
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-057",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-din-matar",
+  "soru": "Gordion'daki Büyük Tümülüs ve fibula ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Büyük Tümülüs 300 m çapında, 53 m yüksekliğindedir",
+   "B": "Tümülüs uzun süre kral Midas'a atfedilmiştir",
+   "C": "Fibula bir Frig buluşudur ve ilk kez Frigler tarafından icat edilmiştir",
+   "D": "Tümülüste 65 yaşlarında bir erkeğe ait iskelet bulunmuştur",
+   "E": "Fibula, giysi uçlarını tutturmaya yarayan çengelli bir iğnedir"
+  },
+  "dogru": "C",
+  "cozum": "Kaynağa göre fibula bir Frig buluşu DEĞİLDİR; ancak Frigler belirli fibula tiplerini Anadolu'da moda hâline getirmiştir (s.129).",
+  "hafiza_ipucu": "FİBULA Frig icadı DEĞİL — Frigler sadece onu 'moda' yaptı; asıl Frig buluşu makara kulplu kâsedir.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-058",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-siyasi-tarih",
+  "soru": "Frig Krallığı'nı zayıflatan, göçebe atlı bir topluluk olan Kimmerler, Anadolu'ya hangi güzergâhtan göç etmiştir?",
+  "siklar": {
+   "A": "Boğazlar üzerinden",
+   "B": "Kafkaslar üzerinden",
+   "C": "Süveyş üzerinden",
+   "D": "Ege adalarından",
+   "E": "Toroslar üzerinden"
+  },
+  "dogru": "B",
+  "cozum": "Kimmerlerin bir kısmı Kafkaslar üzerinden Anadolu'ya göçerek Orta Anadolu, Karadeniz ve Edremit Körfezi civarına yerleşmiş, Batı Anadolu'ya yağma seferleri düzenlemiştir; Frig kralı Midas da bu Kimmer tehlikesine karşı II. Sargon ile ittifak kurmuştur (s.120-121, 153).",
+  "hafiza_ipucu": "Kimmerler: Kafkasya'dan girdi, Frig'i bitirdi — D-K-P-M zincirinin ikinci halkası.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 153
+  },
+  "akraba_cikmis_soru": "Şub25 sordu (×2) 'Kafkaslardan gelen halk'",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-059",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-siyasi-tarih",
+  "soru": "MÖ 547/546'da Lidya Krallığı'nın Perslere yenilmesinin ardından Frigya toprakları hangi idari birime bağlanmıştır?",
+  "siklar": {
+   "A": "Kapadokya Satraplığı",
+   "B": "Büyük Frigya Satraplığı",
+   "C": "Lidya Eyaleti",
+   "D": "Kilikya Satraplığı",
+   "E": "İyonya Satraplığı"
+  },
+  "dogru": "B",
+  "cozum": "MÖ 547/46'da Lidya Krallığı yıkılınca Frigya toprakları, Kapadokya ve Paflagonya ile birlikte Pers İmparatorluğu'nun Büyük Frigya Satraplığı'na bağlanmıştır (s.122).",
+  "hafiza_ipucu": "Frig sırası: bağımsız → Lidya'ya bağımlı → Pers'in Büyük Frigya Satraplığı — üç aşamalı çöküş.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 122
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-060",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-din-matar",
+  "soru": "I. Fibula  II. Tümülüs mezar geleneği  III. Omphaloslu (göbekli) kâse  IV. Makara kulp eklentili kâse\nYukarıdakilerden kaç tanesi kaynakta doğrudan 'bir Frig buluşu' olarak nitelendirilir?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "0"
+  },
+  "dogru": "A",
+  "cozum": "Yalnızca makara kulp eklentili kâseler (IV) tamamen bir Frig buluşu olarak tanımlanır. Fibula Frig buluşu değildir; tümülüs geleneği Trakya-Makedonya kökenlidir; omphaloslu kâseler Doğu kökenli öncüllerden geliştirilmiştir (s.128-129).",
+  "hafiza_ipucu": "Sadece MAKARA KULPLU kâse '%100 Frig malı' — diğer üçü ödünç alınmış ya da geliştirilmiştir.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-061",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-siyasi-tarih",
+  "soru": "Herodotos'un bildirdiğine göre, Midas - Gordios - Adrastos sıralamasıyla anılan son Frig kral sülalesinden, Lidya kralı Kroisos'a sığınan prens kimdir?",
+  "siklar": {
+   "A": "Gordias",
+   "B": "Midas",
+   "C": "Adrastos",
+   "D": "Mita",
+   "E": "Alyattes"
+  },
+  "dogru": "C",
+  "cozum": "Herodotos'a göre son Frig kral sülalesi Midas-Gordios-Adrastos şeklinde sıralanır; Midas oğlu Gordios'un oğlu olan Adrastos, Lidya kralı Kroisos'a sığınmıştır (s.122).",
+  "hafiza_ipucu": "ADRASTOS: son sülalenin son halkası, Lidya sarayına SIĞINan prens.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 122
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-062",
+  "konu": "eski-anadolu",
+  "alt_konu": "frig-din-matar",
+  "soru": "19 harften oluşan, Eski Yunan, Lidya ve Likya alfabelerine benzeyen Frig alfabesi hangi alfabeden alınmıştır?",
+  "siklar": {
+   "A": "Sümer çivi yazısından",
+   "B": "Fenike alfabesinden",
+   "C": "Luwi hiyeroglifinden",
+   "D": "Aram alfabesinden",
+   "E": "Hitit çivi yazısından"
+  },
+  "dogru": "B",
+  "cozum": "Frig alfabesi, Fenike alfabesinden alınmış 19 harften oluşur ve Eski Yunan, Lidya, Likya alfabelerine benzer (s.123).",
+  "hafiza_ipucu": "FENİKE alfabesi = Ege dünyasının 'ortak ana rahmi' — Frig, Yunan, Lidya, Likya hepsi ondan türer.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-063",
+  "konu": "eski-anadolu",
+  "alt_konu": "fon-yazi",
+  "soru": "Çivi yazısı ilk olarak hangi uygarlık tarafından, hangi coğrafyada icat edilmiştir?",
+  "siklar": {
+   "A": "Hititler - Anadolu",
+   "B": "Sümerler - Mezopotamya",
+   "C": "Mısırlılar - Nil Vadisi",
+   "D": "Fenikeliler - Doğu Akdeniz",
+   "E": "Frigler - Sakarya Vadisi"
+  },
+  "dogru": "B",
+  "cozum": "Çivi yazısı ilk olarak Mezopotamya'da, Sümerler tarafından ortaya çıkarılmış bir yazı sistemidir; Anadolu'ya bu yazı, Assur Ticaret Kolonileri Çağı'nda (MÖ 1950-1750) Assurlu tüccarlar aracılığıyla ulaşmıştır (s.65).",
+  "hafiza_ipucu": "SÜMER = yazının anavatanı; Anadolu'ya yazı KARUM tüccarlarıyla (Kültepe) geldi.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "Şub25 sordu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-064",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya Krallığı'nı güçlü bir devlet olarak tarih sahnesine çıkaran hanedan ve bu hanedanın ilk kralı aşağıdakilerin hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Heraklidler - Kandaules",
+   "B": "Mermnadlar - Gyges",
+   "C": "Atyadlar - Lydos",
+   "D": "Tylonidler - Meles",
+   "E": "Mermnadlar - Alyattes"
+  },
+  "dogru": "B",
+  "cozum": "Lidya'da güçlü krallığı kuran üçüncü hanedan Mermnadlar'dır; hanedanın ilk kralı Gyges'tir (MÖ 680-644).",
+  "hafiza_ipucu": "GYGES = 'JİG-START': Lidya'yı çalıştıran ilk marş motoru.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 140
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-065",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya Krallığı'nın başkenti aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gordion",
+   "B": "Tuşpa",
+   "C": "Sardeis (Sardes)",
+   "D": "Hattuşa",
+   "E": "Halikarnassos"
+  },
+  "dogru": "C",
+  "cozum": "Lidya başkenti Sardeis (bugünkü Sart/Salihli), Paktolos (Sart) Çayı kıyısındadır.",
+  "hafiza_ipucu": "Kent-uygarlık dörtlüsü: Sardes-LİDYA (Karya değil!).",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 140
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-066",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "'Dünya tarihinde ilk madeni parayı (sikkeyi) darp eden uygarlık' tanımı aşağıdaki uygarlıklardan hangisine aittir?",
+  "siklar": {
+   "A": "Urartular",
+   "B": "Frigler",
+   "C": "Lidyalılar",
+   "D": "Karyalılar",
+   "E": "İyonyalılar"
+  },
+  "dogru": "C",
+  "cozum": "Lidyalılar MÖ 7. yüzyılın ikinci yarısında dünyanın ilk madeni parasını basmışlardır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 145
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.1 (aynı bilgi ailesi)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-067",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "İlk Lidya sikkelerinin yapıldığı 'electrum' alaşımı hangi iki değerli madenin doğal karışımından oluşur?",
+  "siklar": {
+   "A": "Bakır - Kalay",
+   "B": "Altın - Gümüş",
+   "C": "Gümüş - Kurşun",
+   "D": "Demir - Karbon",
+   "E": "Altın - Bakır"
+  },
+  "dogru": "B",
+  "cozum": "Paktolos (Sart) Çayı kumlarından elde edilen elektron, doğal bir altın-gümüş karışımıdır.",
+  "hafiza_ipucu": "ELEK'te ALTIN-GÜMÜŞ kaldı (demir, bakır, kalay elekten döküldü).",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 145
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.1",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-068",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya Krallığı'nın son kralı, zenginliğiyle ünlü olan ve 'Karun kadar zengin' deyiminin kaynağı kabul edilen hükümdar kimdir?",
+  "siklar": {
+   "A": "Gyges",
+   "B": "Alyattes",
+   "C": "Ardys",
+   "D": "Kroisos",
+   "E": "Sadyattes"
+  },
+  "dogru": "D",
+  "cozum": "Kroisos (MÖ 560-546) zenginliğiyle ünlüydü; Perslere yenilmesiyle Lidya Krallığı yıkılmıştır.",
+  "hafiza_ipucu": "KROİSOS = 'KARUN': son ve en zengin kral.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 142
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-069",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya Krallığı'nı yıkan Pers kralı ve krallığın yıkıldığı yıl aşağıdakilerin hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Dareios - MÖ 490",
+   "B": "Kyros - MÖ 547",
+   "C": "Kserkses - MÖ 480",
+   "D": "Kambyses - MÖ 525",
+   "E": "Kyros - MÖ 585"
+  },
+  "dogru": "B",
+  "cozum": "Pers kralı Kyros, on dört günlük kuşatmanın ardından Sardeis'i ele geçirmiş, Lidya Krallığı MÖ 547'de yıkılmıştır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 143
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-070",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya kralı Alyattes ile Med kralı Kyaksares arasındaki savaşı sona erdiren ve MÖ 585 tarihinin kesin olarak belirlenmesini sağlayan doğa olayı nedir?",
+  "siklar": {
+   "A": "Deprem",
+   "B": "Sel",
+   "C": "Güneş tutulması",
+   "D": "Kuraklık",
+   "E": "Volkanik patlama"
+  },
+  "dogru": "C",
+  "cozum": "Savaş sırasında meydana gelen güneş tutulması, iki tarafça tanrıların barış istediği biçiminde yorumlanmış ve Kızılırmak Barışı yapılmıştır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 142
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-071",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "MÖ 585 Kızılırmak Barışı'na göre Lidya Krallığı ile Med Krallığı arasındaki sınır hangi coğrafi unsur olmuştur?",
+  "siklar": {
+   "A": "Fırat Nehri",
+   "B": "Kızılırmak (Halys)",
+   "C": "Toros Dağları",
+   "D": "Ege Denizi",
+   "E": "Dicle Nehri"
+  },
+  "dogru": "B",
+  "cozum": "Barışla birlikte Kızılırmak'ın doğusu Medlere, batısı Lidyalılara bırakılmış; bu sınır Lidya'nın yıkılışına kadar korunmuştur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 142
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-072",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Aşağıdakilerden hangisi Lidya Mermnad hanedanı krallarından biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Gyges",
+   "B": "Ardys",
+   "C": "Sadyattes",
+   "D": "Alyattes",
+   "E": "Kandaules"
+  },
+  "dogru": "E",
+  "cozum": "Kandaules, Mermnadlardan önceki Heraklidler (Tylonidler) hanedanının son kralıdır; onu deviren Gyges Mermnad hanedanını kurmuştur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 139
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-073",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya kralı Gyges ile ilgili aşağıdaki bilgilerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Kandaules'ten sonra tahta çıkmıştır",
+   "B": "Delphoi rahibesi (Phythia) tahta çıkışını onaylamıştır",
+   "C": "Assur kralı Aşurbanipal'e elçi göndermiştir",
+   "D": "Kimmerlere karşı verdiği son savaşta hayatını kaybetmiştir",
+   "E": "Elektronu altın ve gümüşe ayrıştırıp saf sikkeler bastırmıştır"
+  },
+  "dogru": "E",
+  "cozum": "Elektronu altın-gümüşe ayrıştırma ve saf altın (Kroeseid) sikke basımı Kroisos dönemine aittir, Gyges'e değil. Diğer bilgiler Gyges için doğrudur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 141
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-074",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Perslerin başkenti Susa'yı Lidya başkenti Sardes'e bağlayan, ticaret ve haberleşme amaçlı ünlü yola ne ad verilir?",
+  "siklar": {
+   "A": "İpek Yolu",
+   "B": "Baharat Yolu",
+   "C": "Kral Yolu",
+   "D": "Amber Yolu",
+   "E": "Kraliyet Geçidi"
+  },
+  "dogru": "C",
+  "cozum": "Pers Kral Yolu, Susa'dan Sardes'e uzanan ticaret-haberleşme yoludur; büyük bölümü Frigya toprağından geçer.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 119
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.63",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-075",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Anadolu'nun bilinen en büyük tümülüsü olan ve Bintepe Mezarlığı'nda bulunan anıtsal mezar hangi Lidya kralına aittir?",
+  "siklar": {
+   "A": "Gyges",
+   "B": "Ardys",
+   "C": "Sadyattes",
+   "D": "Alyattes",
+   "E": "Kroisos"
+  },
+  "dogru": "D",
+  "cozum": "Taban çapı yaklaşık 350 metre, yüksekliği yaklaşık 61-65 metre olan Bintepe'deki en büyük tümülüs, Kroisos'un babası Alyattes'e aittir.",
+  "hafiza_ipucu": "Ara kral ALYATTES = en büyük tümülüs onun!",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 146
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-076",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Krallar ve soylular için ahşap ya da taş mezar odası üzerine toprak/taş yığılarak oluşturulan tepe biçimli anıtsal mezara ne ad verilir?",
+  "siklar": {
+   "A": "Sitadel",
+   "B": "Tümülüs",
+   "C": "Nekropol",
+   "D": "Megaron",
+   "E": "Stel"
+  },
+  "dogru": "B",
+  "cozum": "Tümülüs, hem Frig hem Lidya kral mezarlarında görülen yığma mezar tepesidir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 146
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-077",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya tümülüsleri ile Frig tümülüsleri arasındaki farklarla ilgili aşağıdakilerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Lidya mezar odaları taştan, Frig mezar odaları ahşaptandır",
+   "B": "Lidya tümülüslerinde dromos (giriş yolu) bulunur, Frig tümülüslerinde bulunmaz",
+   "C": "Her iki toplumda da tümülüs yüksekliği ölünün önemine göre artar",
+   "D": "Lidya tümülüslerinde krepis (çevre taş duvarı) bulunmaz, Frig tümülüslerinde bulunur",
+   "E": "Alyattes Tümülüsü bilinen en büyük Lidya tümülüsüdür"
+  },
+  "dogru": "D",
+  "cozum": "Kaynağa göre tam tersidir: Lidya tümülüslerinde krepis duvarı bulunur, Frig tümülüslerinde bulunmaz.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 102
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-078",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya Krallığı ile ilgili aşağıdaki bilgilerden hangileri doğrudur?\nI. Başkenti Sardeis'tir.\nII. İlk sikkeyi Karyalılar bulmuştur.\nIII. Mermnad hanedanının kurucusu Gyges'tir.\nIV. Krallığı Perslerin Kyros'u yıkmıştır.\nV. Baş tanrıları Haldi'dir.",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "I, III ve IV",
+   "C": "II, IV ve V",
+   "D": "I, II, III ve IV",
+   "E": "I, III, IV ve V"
+  },
+  "dogru": "B",
+  "cozum": "II yanlıştır (sikkeyi Lidyalılar bulmuştur); V yanlıştır (Haldi, Urartu'nun baş tanrısıdır). I, III, IV doğrudur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 143
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-079",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya kralı Kroisos'un Perslere karşı savaşmadan önce danıştığı ve 'büyük bir imparatorluğun yıkılacağı' kehanetini aldığı ünlü kehanet merkezi neresidir?",
+  "siklar": {
+   "A": "Didyma",
+   "B": "Delphoi",
+   "C": "Muşaşir",
+   "D": "Telmessos",
+   "E": "Klaros"
+  },
+  "dogru": "B",
+  "cozum": "Kroisos, Orta Yunanistan'daki Delphoi'de Apollon kehanet merkezine danışmış, yanıtı kendi lehine yorumlayarak savaşı kaybetmiştir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 143
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-080",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya kralı Gyges'in MÖ 644 yılında yenilip öldürüldüğü, bozkır kökenli savaşçı topluluk hangisidir?",
+  "siklar": {
+   "A": "İskitler",
+   "B": "Persler",
+   "C": "Kimmerler",
+   "D": "Medler",
+   "E": "Frigler"
+  },
+  "dogru": "C",
+  "cozum": "Gyges, MÖ 644'te Lygdamis (Dugdamme) komutasındaki Kimmerlere yenilerek öldürülmüştür.",
+  "hafiza_ipucu": "D-K-P-M zinciri: Kimmer, Frig'i yıktı ve Gyges'i de sarstı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 141
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-081",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Lidya Krallığı'nın doğu sınırının Kızılırmak Nehri'ne kadar genişlemesi hangi kral döneminde gerçekleşmiştir?",
+  "siklar": {
+   "A": "Gyges",
+   "B": "Ardys",
+   "C": "Sadyattes",
+   "D": "Alyattes",
+   "E": "Kroisos"
+  },
+  "dogru": "D",
+  "cozum": "Alyattes döneminde Medlerle yapılan MÖ 585 barışı sonucu Kızılırmak, Lidya'nın doğu sınırı olmuştur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 142
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-082",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Tmolos (Bozdağ) Dağı'ndan gelip Sardeis yakınından geçen ve elektron kaynağı olan, Lidyalıların sikke basımında kullandığı akarsuyun adı nedir?",
+  "siklar": {
+   "A": "Gediz (Hermos)",
+   "B": "Büyük Menderes",
+   "C": "Paktolos (Sart Çayı)",
+   "D": "Kaikos (Bakırçay)",
+   "E": "Kaystros (Küçük Menderes)"
+  },
+  "dogru": "C",
+  "cozum": "Paktolos (Sart) Çayı'nın kumlarından elde edilen elektron, sikke basımında kullanılmıştır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 145
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-083",
+  "konu": "eski-anadolu",
+  "alt_konu": "lidyalilar",
+  "soru": "Kroisos döneminde elektron sikkelerin altın ve gümüşe ayrıştırılmasıyla basılan saf altın sikkelere, kral adına izafeten verilen isim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Daric",
+   "B": "Stater",
+   "C": "Kroeseid",
+   "D": "Tetradrahmi",
+   "E": "Siglos"
+  },
+  "dogru": "C",
+  "cozum": "Kroisos, elektronu altın ve gümüşe ayrıştırmış; saf altın sikkelere 'Kroeseid' adı verilmiştir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 101
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-084",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu Devleti'nin kurucusu kabul edilen ve başkenti Tuşpa'da devletin kuruluşunu ilan eden ilk yazıtı yazdıran kral kimdir?",
+  "siklar": {
+   "A": "Minua",
+   "B": "İşpuini",
+   "C": "I. Sarduri",
+   "D": "I. Argişti",
+   "E": "II. Rusa"
+  },
+  "dogru": "C",
+  "cozum": "Lutipri oğlu I. Sarduri, Tuşpa'da devletin kuruluşunu ilan eden ilk Urartu yazıtını Assurca yazdırmıştır.",
+  "hafiza_ipucu": "I. SARDURİ = 'SUR-DURU': Van kayalıklarına SUR DURduran kurucu.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 106
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.65",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-085",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu Krallığı'nın başkenti Tuşpa, günümüzde hangi ilimiz sınırları içinde yer almaktadır?",
+  "siklar": {
+   "A": "Ağrı",
+   "B": "Bitlis",
+   "C": "Muş",
+   "D": "Van",
+   "E": "Hakkari"
+  },
+  "dogru": "D",
+  "cozum": "Urartu başkenti Tuşpa, Van Gölü'nün doğu kıyısında, bugünkü Van'dadır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 101
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-086",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Van Gölü havzasında yüksek kayalıklar üzerinde kurulan, çevresi surlarla çevrili, içinde saray, tapınak, depo ve atölyelerin bulunduğu Urartu yönetim birimine ne ad verilir?",
+  "siklar": {
+   "A": "Nekropol",
+   "B": "Sitadel",
+   "C": "Megaron",
+   "D": "Akropol",
+   "E": "Kalıntı"
+  },
+  "dogru": "B",
+  "cozum": "Sitadel, yüksek kayalık yükseltiler üzerine kurulan, sur ile çevrelenmiş Urartu yönetim merkezidir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 102
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-087",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu panteonunda ilk üç sırayı paylaşan tanrı üçlüsü aşağıdakilerin hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Haldi - Teşup - Şimegi",
+   "B": "Haldi - Teişeba - Şivini",
+   "C": "Teşup - Haldi - Kubaba",
+   "D": "Haldi - Kybele - Şivini",
+   "E": "Teişeba - Haldi - Matar"
+  },
+  "dogru": "B",
+  "cozum": "Meher Kapı yazıtına göre 79 tanrı/tanrıçadan ilk üç sırayı Haldi (baş/savaş), Teişeba (fırtına) ve Şivini (güneş) paylaşır.",
+  "hafiza_ipucu": "'HAL-TEY-Şİ': HALdi baş tanrı, TEİşeba fırtına, ŞİVİni güneş.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 110
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-088",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Aşağıdaki tanrı-uygarlık eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Urartu - Haldi",
+   "B": "Hitit - Haldi",
+   "C": "Frigya - Matar",
+   "D": "Urartu - Teişeba",
+   "E": "Urartu - Şivini"
+  },
+  "dogru": "B",
+  "cozum": "Haldi yalnızca Urartuların baş tanrısıdır; Hitit'in fırtına/baş tanrısı Teşup'tur.",
+  "hafiza_ipucu": "Haldi'yi Hitit'e verme; Hitit'in tanrısı Teşup'tur.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 110
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.38",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-089",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu fırtına tanrısı Teişeba'nın Hititçedeki karşılığı hangisidir?",
+  "siklar": {
+   "A": "Şimegi",
+   "B": "Kubaba",
+   "C": "Teşup",
+   "D": "Matar",
+   "E": "Haldi"
+  },
+  "dogru": "C",
+  "cozum": "Teişeba Hurri kökenlidir; Hititçede karşılığı Teşup'tur.",
+  "hafiza_ipucu": "Teşup (Hitit) ile Teişeba (Urartu) akraba ama ayrı ev.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 110
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-090",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu güneş tanrısı Şivini'nin Hititçedeki karşılığı hangisidir?",
+  "siklar": {
+   "A": "Teşup",
+   "B": "Şimegi",
+   "C": "Kubaba",
+   "D": "Arinna",
+   "E": "İştar"
+  },
+  "dogru": "B",
+  "cozum": "Şivini Hurri kökenlidir; Hititlerdeki Şimegi'nin karşılığıdır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 110
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-091",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu kralı Minua tarafından yaptırılan ve günümüzde de kullanılmaya devam eden, yaklaşık 54 km uzunluğundaki sulama kanalının adı nedir?",
+  "siklar": {
+   "A": "Kral Yolu",
+   "B": "Şamram Kanalı",
+   "C": "Keşişgöl Barajı",
+   "D": "Habibuşağı Kanalı",
+   "E": "Paktolos Kanalı"
+  },
+  "dogru": "B",
+  "cozum": "Şamram Kanalı, Minua tarafından yaptırılmış ve Edremit civarında tarımın gelişmesini sağlamıştır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 106
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-092",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu Devleti'ni MÖ 6. yüzyıl başında ortadan kaldıran devlet aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kimmerler",
+   "B": "Persler",
+   "C": "Medler",
+   "D": "Assurlar",
+   "E": "İskitler"
+  },
+  "dogru": "C",
+  "cozum": "Urartu, MÖ 7. yüzyıl sonu - 6. yüzyıl başında Kimmer ve İskit akınlarıyla zayıflamış, ardından Medlerin egemenliğine girmiştir.",
+  "hafiza_ipucu": "D-K-P-M zinciri: dağdaki Urartu'yu MED indirdi.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 108
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-093",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu kralları ve yerel yöneticileri için sitadellerde kayalara oyularak yapılan; girişte bir platform, geniş bir ana oda ve yan odalardan oluşan mezar tipine ne ad verilir?",
+  "siklar": {
+   "A": "Tümülüs",
+   "B": "Kremasyon mezarı",
+   "C": "Çok odalı kaya mezarı",
+   "D": "Urne mezar",
+   "E": "Sanduka mezar"
+  },
+  "dogru": "C",
+  "cozum": "Çok odalı kaya mezarları, kralların, valilerin ve yerel yöneticilerin sitadellerde yaptırdığı anıtsal mezarlardır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-094",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu adının yazılı kaynaklarda ilk kez geçtiği yazıtlar, hangi Assur kralına aittir?",
+  "siklar": {
+   "A": "II. Sargon",
+   "B": "III. Şalmaneser",
+   "C": "I. Şalmaneser",
+   "D": "I. Tiglat-Pileser",
+   "E": "III. Tiglat-Pileser"
+  },
+  "dogru": "C",
+  "cozum": "I. Şalmaneser (MÖ 1275-1245), Torosların kuzeyindeki aşiretleri 'Uruatri' olarak adlandırmıştır; bu, devletin varlığına dair en erken kanıttır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 104
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-095",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartuların kendi yazıtlarında ülkeleri için kullandıkları isim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Nairi",
+   "B": "Uruatri",
+   "C": "Biainili",
+   "D": "Hate",
+   "E": "Etiuni"
+  },
+  "dogru": "C",
+  "cozum": "Assur kaynaklarının 'Urartu' dediği devlete, kendi yazıtlarında 'Biainili' denmektedir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 104
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-096",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Assur kralı II. Sargon'un MÖ 714'te ele geçirip yağmaladığı, Urartuların baş tanrısı Haldi'nin en önemli kült merkezi olan yer neresidir?",
+  "siklar": {
+   "A": "Tuşpa",
+   "B": "Çavuştepe",
+   "C": "Muşaşir",
+   "D": "Bastam",
+   "E": "Toprakkale"
+  },
+  "dogru": "C",
+  "cozum": "Haldi'nin en büyük tapınağı Muşaşir'deydi; II. Sargon MÖ 714'te burayı yağmalamıştır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 107
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-097",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu uygarlığıyla ilgili aşağıdakilerden hangileri doğrudur?\nI. Demir madenciliği ve silah üretiminde ileriydiler.\nII. Sulama kanalları inşa ettiler.\nIII. İlk madeni parayı icat ettiler.\nIV. Çok odalı kaya mezarı mimarisi geliştirdiler.",
+  "siklar": {
+   "A": "I ve II",
+   "B": "I, II ve IV",
+   "C": "I, III ve IV",
+   "D": "II, III ve IV",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "B",
+  "cozum": "III yanlıştır; ilk madeni parayı Lidyalılar icat etmiştir. I, II, IV Urartu'nun özellikleridir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 112
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-098",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Aşağıdakilerden hangileri Urartu Devleti'nin kültürel/ekonomik özellikleri arasında sayılabilir?\nI. Sulama kanalları ve suni göletler inşa etmek\nII. Sikke (madeni para) icat etmek\nIII. Çok odalı kaya mezarları yapmak\nIV. Demir madenciliğinde ileri olmak\nV. Ana Tanrıça Matar'a tapmak",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "I, III ve IV",
+   "C": "II, IV ve V",
+   "D": "I, II, IV ve V",
+   "E": "II, III ve V"
+  },
+  "dogru": "B",
+  "cozum": "II sikke Lidya'ya, V Matar tanrıçası Frig'e aittir. I, III, IV Urartu'ya aittir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 112
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-099",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu dilinin, günümüzde Doğu Kafkas dil ailesinden hangi dillerle benzerlik gösterdiği belirtilir?",
+  "siklar": {
+   "A": "Gürcüce ve Ermenice",
+   "B": "Çeçence ve İnguşça",
+   "C": "Farsça ve Kürtçe",
+   "D": "Azerice ve Türkmence",
+   "E": "Abhazca ve Adigece"
+  },
+  "dogru": "B",
+  "cozum": "Urartuca, Hurrice ile akraba bir dildir ve günümüzde Çeçence ile İnguşça'ya benzerlikler gösterir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 109
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-100",
+  "konu": "eski-anadolu",
+  "alt_konu": "kent-uygarlik-eslestirme",
+  "soru": "I. Tuşpa - Urartu\nII. Sardes - Lidya\nIII. Aigai - Likya\nIV. Gordion - Frig\nV. Hattuşa - Hitit\nYukarıdaki antik kent-uygarlık eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "I, II, III ve IV",
+   "B": "I, II, IV ve V",
+   "C": "II, III, IV ve V",
+   "D": "I, III ve V",
+   "E": "I, II, III, IV ve V"
+  },
+  "dogru": "B",
+  "cozum": "III yanlıştır; Aigai bir Aiolia kentidir, Likya değildir. I, II, IV, V doğru eşleştirmelerdir.",
+  "hafiza_ipucu": "Kent-uygarlık dörtlüsü sabit: Tuşpa-Urartu, Hattuşa-Hitit, Gordion-Frig, Sardes-Lidya; Aigai-AİOLİA (Likya değil!).",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 140
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.95 (benzer soru tipi)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-101",
+  "konu": "eski-anadolu",
+  "alt_konu": "urartular",
+  "soru": "Urartu Krallığı'nda kuruluşu ilan eden ilk yazıtı Assurca yazdıran kral, aşağıdaki merkezlerden hangisinde oturmaktaydı?",
+  "siklar": {
+   "A": "Çavuştepe",
+   "B": "Toprakkale",
+   "C": "Tuşpa",
+   "D": "Bastam",
+   "E": "Ayanis"
+  },
+  "dogru": "C",
+  "cozum": "I. Sarduri, Tuşpa'da (Van) oturmakta ve kuruluş kitabesini burada yazdırmıştır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 106
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-102",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Ege (Deniz Kavimleri) Göçleri sonrasında Batı Anadolu kıyılarına kuzeyden güneye doğru sırasıyla hangi Hellen toplulukları yerleşmiştir?",
+  "siklar": {
+   "A": "Dorlar - İonlar - Aioller",
+   "B": "İonlar - Aioller - Dorlar",
+   "C": "Aioller - İonlar - Dorlar",
+   "D": "Dorlar - Aioller - İonlar",
+   "E": "Aioller - Dorlar - İonlar"
+  },
+  "dogru": "C",
+  "cozum": "Kuzeyden güneye sırasıyla Aioller, İonlar (ortada) ve Dorlar (güneyde) yerleşmiştir.",
+  "hafiza_ipucu": "A-İ-D inişi: Aiol kuzey, İon orta, Dor güney - alfabetik sıralama.",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 115
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-103",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Ege Göçleri öncesinde Batı Anadolu'da yaşayan yerli halklar aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "İonlar ve Dorlar",
+   "B": "Lelegler ve Karlar",
+   "C": "Aioller ve Frigler",
+   "D": "Lidyalılar ve Likyalılar",
+   "E": "Hititler ve Luwiler"
+  },
+  "dogru": "B",
+  "cozum": "Hellen göçmenlerinden önce bölgede Lelegler ve Karlar (Karialılar) yaşamaktaydı.",
+  "hafiza_ipucu": "LELEG = 'YERLİ-leleg' (göçten ÖNCE buradaydı).",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 117
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.9 (Lelegler)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-104",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Batı Anadolu'nun orta kesimine yerleşen 12 kentin kurduğu, savaş gibi ortak kararların alındığı dinsel nitelikli birliğe ne ad verilir?",
+  "siklar": {
+   "A": "Attika-Delos Birliği",
+   "B": "Panionion",
+   "C": "Likya Birliği",
+   "D": "Kral Barışı",
+   "E": "Hexapolis"
+  },
+  "dogru": "B",
+  "cozum": "Panionion, 12 İon kentinin kendi aralarında kurduğu, Poseidon Helikonios kültü etrafında toplanan dinsel birliktir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 117
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-105",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Aşağıdaki kentlerden hangisi İyonyalıların kurduğu 12 kentten biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Miletos",
+   "B": "Efes (Ephesos)",
+   "C": "Priene",
+   "D": "Halikarnassos",
+   "E": "Klazomenai"
+  },
+  "dogru": "D",
+  "cozum": "Halikarnassos, Dorların kurduğu bir kenttir; Miletos, Efes, Priene ve Klazomenai İon kentlerindendir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 116
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-106",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Batı Anadolu'nun kuzeyine yerleşen; Kyme, Larissa ve Aigai gibi kentleri kuran Hellen topluluğu hangisidir?",
+  "siklar": {
+   "A": "Dorlar",
+   "B": "İonlar",
+   "C": "Aioller",
+   "D": "Akalar",
+   "E": "Frigler"
+  },
+  "dogru": "C",
+  "cozum": "Aioller kuzey kıyılara yerleşmiş; Kyme, Myrina, Larissa, Aigai gibi kentleri kurmuşlardır.",
+  "hafiza_ipucu": "Kent-uygarlık dörtlüsü: Aigai-AİOLİA (Likya değil!).",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 117
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-107",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Aşağıdakilerden hangisi Dorların Batı Anadolu'ya yerleşerek kurduğu kentlerden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Halikarnassos",
+   "B": "Knidos",
+   "C": "Miletos",
+   "D": "Phaselis (koloni)",
+   "E": "Soloi (koloni)"
+  },
+  "dogru": "C",
+  "cozum": "Miletos bir İon kentidir. Halikarnassos ve Knidos Dorların kurduğu kentler; Phaselis ve Soloi Dor kolonileridir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 117
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-108",
+  "konu": "eski-anadolu",
+  "alt_konu": "karya-likya",
+  "soru": "Karya bölgesinin merkezi ve tarihçi Herodotos'un doğum yeri olan antik kent hangisidir?",
+  "siklar": {
+   "A": "Xanthos",
+   "B": "Knidos",
+   "C": "Halikarnassos",
+   "D": "Aigai",
+   "E": "Efes"
+  },
+  "dogru": "C",
+  "cozum": "Halikarnassos (bugünkü Bodrum), Karya'nın merkez kentiydi ve tarihçi Herodotos'un memleketiydi.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 137
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-109",
+  "konu": "eski-anadolu",
+  "alt_konu": "karya-likya",
+  "soru": "Antik dünyanın yedi harikasından biri olan ve Karya kralı Mausollos için Halikarnassos'ta inşa edilen anıt mezara ne ad verilir?",
+  "siklar": {
+   "A": "Mausoleion",
+   "B": "Nekropol",
+   "C": "Heroon",
+   "D": "Tümülüs",
+   "E": "Stel"
+  },
+  "dogru": "A",
+  "cozum": "Halikarnassos'taki Mausollos'un anıt mezarı 'Mausoleion' olarak adlandırılır; dilimize 'mozole' sözcüğü olarak geçmiştir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 130
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-110",
+  "konu": "eski-anadolu",
+  "alt_konu": "karya-likya",
+  "soru": "Likya uygarlığının önemli kenti olan ve üzerindeki Harpy Anıtı ile tanınan antik kent hangisidir?",
+  "siklar": {
+   "A": "Halikarnassos",
+   "B": "Xanthos",
+   "C": "Aigai",
+   "D": "Knidos",
+   "E": "Priene"
+  },
+  "dogru": "B",
+  "cozum": "Xanthos (Kınık), Likya'nın önemli kenti olup üzerindeki Harpy Anıtı ile tanınır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 122
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.86",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-111",
+  "konu": "eski-anadolu",
+  "alt_konu": "karya-likya",
+  "soru": "Aşağıdakilerden hangisi Likya bölgesi ile ilişkilendirilemez?",
+  "siklar": {
+   "A": "Xanthos",
+   "B": "Yerel lahitler",
+   "C": "Likya-Pamphylia Eyaleti (Roma dönemi)",
+   "D": "Halikarnassos",
+   "E": "Harpy Anıtı"
+  },
+  "dogru": "D",
+  "cozum": "Halikarnassos, Likya değil Karya bölgesindedir; diğer seçenekler Likya ile ilişkilidir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 122
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-112",
+  "konu": "eski-anadolu",
+  "alt_konu": "karya-likya",
+  "soru": "Roma İmparatoru Claudius döneminde Anadolu'da kurulan ve Likya bölgesini de kapsayan eyalet aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Asia Eyaleti",
+   "B": "Galatia Eyaleti",
+   "C": "Likya-Pamphylia Eyaleti",
+   "D": "Kilikya Eyaleti",
+   "E": "Bithynia Eyaleti"
+  },
+  "dogru": "C",
+  "cozum": "İmparator Claudius (MS 41-54) döneminde Likya-Pamphylia Eyaleti (Provincia Lycia et Pamphylia) kurulmuştur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 138
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-113",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Batı Anadolu kolonizasyon hareketiyle ilgili aşağıdaki bilgilerden kaç tanesi doğrudur?\nI. En fazla koloniyi Miletoslular kurmuştur.\nII. Karadeniz'e önceleri 'konuk sevmez' (Pontus Exeinos) denilirdi.\nIII. Aioller Marmara bölgesinde Sestos ve Madytos kolonilerini kurmuştur.\nIV. Dorlar Likya bölgesinde Phaselis kolonisini kurmuştur.",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "Hiçbiri"
+  },
+  "dogru": "D",
+  "cozum": "Dört bilgi de kaynakla uyumludur: Miletos yaklaşık 90 koloni kurmuş, Karadeniz önceleri 'konuk sevmez' denmiş, Aioller Sestos/Madytos, Dorlar Likya'da Phaselis'i kurmuştur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 118
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-114",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "MÖ 500 yılında tiran Aristagoras önderliğinde başlayan ve MÖ 494'te Miletos'un düşmesiyle sona eren, Batı Anadolu Hellen kentlerinin Perslere karşı ayaklanmasına ne ad verilir?",
+  "siklar": {
+   "A": "Peloponnesos Savaşı",
+   "B": "İonia Ayaklanması",
+   "C": "Kral Barışı",
+   "D": "Attika-Delos Birliği",
+   "E": "Truva Savaşı"
+  },
+  "dogru": "B",
+  "cozum": "İonia Ayaklanması, Miletos'un Persler tarafından ele geçirilmesiyle MÖ 494'te sona ermiştir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-115",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Attika-Delos Deniz Birliği'nden ağır vergiler nedeniyle ayrılan Anadolu bölgeleri hangi seçenekte doğru verilmiştir?",
+  "siklar": {
+   "A": "Lidya ve Frigya",
+   "B": "Karya ve Likya",
+   "C": "Kilikya ve Pamphylia",
+   "D": "Misya ve Bithynia",
+   "E": "Pontos ve Kapadokya"
+  },
+  "dogru": "B",
+  "cozum": "Perikles döneminde ağırlaşan vergiler nedeniyle Karya ve Likya kentlerinin pek çoğu Attika-Delos Birliği'nden ayrılmıştır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-116",
+  "konu": "eski-anadolu",
+  "alt_konu": "kimmerler",
+  "soru": "Kimmerler, Anadolu'ya hangi coğrafi bölge üzerinden göç ederek girmişlerdir?",
+  "siklar": {
+   "A": "Balkanlar",
+   "B": "Kafkasya",
+   "C": "Mezopotamya",
+   "D": "İran platosu",
+   "E": "Ege adaları"
+  },
+  "dogru": "B",
+  "cozum": "Kimmerler, Karadeniz'in kuzeyindeki yurtlarını terk ederek Kafkasların güneyinden Anadolu'ya girmişlerdir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 154
+  },
+  "akraba_cikmis_soru": "Şubat 2025 S.87",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-117",
+  "konu": "eski-anadolu",
+  "alt_konu": "kimmerler",
+  "soru": "Kimmerlerin Anadolu'daki siyasi ilişki/çatışma sıralaması hangi seçenekte doğru verilmiştir?",
+  "siklar": {
+   "A": "Lidya - Frig - Urartu",
+   "B": "Urartu - Frig - Lidya",
+   "C": "Frig - Urartu - Lidya",
+   "D": "Lidya - Urartu - Frig",
+   "E": "Urartu - Lidya - Frig"
+  },
+  "dogru": "B",
+  "cozum": "Kimmerler önce Doğu Anadolu'da Urartu (ve Assur), sonra Orta Anadolu'da Frig, son olarak Batı Anadolu'da Lidya ile ilişki/çatışma yaşamıştır.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 154
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-118",
+  "konu": "eski-anadolu",
+  "alt_konu": "kimmerler",
+  "soru": "Urartu kralı II. Rusa'nın, ülkesine zarar gelmemesi karşılığında bir kısım Kimmer halkının kendi topraklarına yerleşmesine izin vermesi öncelikle neyi göstermektedir?",
+  "siklar": {
+   "A": "Urartu'nun Kimmerlere askeri olarak üstün geldiğini",
+   "B": "Urartu'nun Kimmerleri Assur'a karşı tampon güç olarak kullanmak istediğini",
+   "C": "Kimmerlerin Urartu dinini benimsediğini",
+   "D": "Urartu'nun başkentini Kimmerlere terk ettiğini",
+   "E": "Kimmerlerin Urartu'yu tamamen işgal ettiğini"
+  },
+  "dogru": "B",
+  "cozum": "II. Rusa, Kimmerlerin güneydeki Assur için daha büyük bir tehlike olacağını düşünerek onlarla anlaşma yoluna gitmiştir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 154
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "EAT-119",
+  "konu": "eski-anadolu",
+  "alt_konu": "kent-uygarlik-eslestirme",
+  "soru": "I. Urartu - Haldi\nII. Frigya - Matar\nIII. Hitit - Haldi\nIV. Lidya - Kybele\nYukarıdaki tanrı-uygarlık eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV",
+   "E": "I ve IV"
+  },
+  "dogru": "C",
+  "cozum": "Haldi yalnızca Urartuların baş tanrısıdır; Hitit'in baş/fırtına tanrısı Teşup'tur. Diğer eşleştirmeler doğrudur.",
+  "hafiza_ipucu": "Haldi'yi Hitit'e verme; Hitit'in tanrısı Teşup'tur.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 110
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 S.38 (benzer tuzak)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "EAT-120",
+  "konu": "eski-anadolu",
+  "alt_konu": "kent-uygarlik-eslestirme",
+  "soru": "I. Tuşpa - Urartu\nII. Sardes - Lidya\nIII. Aigai - Likya\nIV. Gordion - Frig\nV. Hattuşa - Hitit\nYukarıdaki eşleştirmelerden kaç tanesi doğrudur?",
+  "siklar": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "E": "1"
+  },
+  "dogru": "C",
+  "cozum": "III yanlıştır; Aigai bir Aiolia kentidir, Likya değildir. Diğer dört eşleştirme (I, II, IV, V) doğrudur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 140
+  },
+  "akraba_cikmis_soru": "Mart 2026 S.95 (benzer soru tipi)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-121",
+  "konu": "eski-anadolu",
+  "alt_konu": "karya-likya",
+  "soru": "I. Likya - Xanthos\nII. Karya - Halikarnassos\nIII. Aiolia - Aigai\nIV. İyonya - Miletos\nYukarıdaki bölge-kent eşleştirmelerinden kaç tanesi doğrudur?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "Hiçbiri"
+  },
+  "dogru": "D",
+  "cozum": "Dört eşleştirme de doğrudur: Likya'nın kenti Xanthos, Karya'nın kenti Halikarnassos, Aiolia'nın kenti Aigai, İyonya'nın kenti Miletos'tur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 117
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-122",
+  "konu": "eski-anadolu",
+  "alt_konu": "karya-likya",
+  "soru": "Aşağıdakilerden hangisi Karya bölgesiyle ilgili YANLIŞ bir bilgidir?",
+  "siklar": {
+   "A": "Merkezi Halikarnassos'tur",
+   "B": "Dorlar tarafından kurulmuştur",
+   "C": "Likya Birliği'nin merkezidir",
+   "D": "Tarihçi Herodotos'un memleketidir",
+   "E": "Antik dünyanın yedi harikasından biri olan Mausoleion buradadır"
+  },
+  "dogru": "C",
+  "cozum": "Likya Birliği, Likya bölgesine aittir, Karya'ya değil; Karya'nın merkezi Halikarnassos'tur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 137
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-123",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Pers hakimiyetindeki Batı Anadolu kentleriyle ilgili aşağıdaki bilgilerden hangileri doğrudur?\nI. Bölge satraplar tarafından yönetilmiştir.\nII. Kentlerin başına satraplara bağlı tiranlar geçmiştir.\nIII. MÖ 500'de Aristagoras önderliğinde bir ayaklanma başlamıştır.\nIV. Ayaklanma Miletos'un düşmesiyle MÖ 494'te sona ermiştir.",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve II",
+   "C": "I, II ve III",
+   "D": "I, II, III ve IV",
+   "E": "II, III ve IV"
+  },
+  "dogru": "D",
+  "cozum": "Dört bilgi de kaynakla uyumludur.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-124",
+  "konu": "eski-anadolu",
+  "alt_konu": "ege-gocleri",
+  "soru": "Batı Anadolu'daki İon kent devletlerinde, yasalara aykırı biçimde iktidarı ele geçiren; Miletoslu Thrasybulos ve Efesoslu Pythagoras gibi örnekleri bulunan yöneticilere verilen unvan hangisidir?",
+  "siklar": {
+   "A": "Satrap",
+   "B": "Arkhon",
+   "C": "Tiran",
+   "D": "Basileus",
+   "E": "Efor"
+  },
+  "dogru": "C",
+  "cozum": "Kolonizasyon döneminde İonia kentlerinin başına 'tiran' adı verilen despotlar geçmiştir.",
+  "hafiza_ipucu": "",
+  "kaynak": {
+   "dosya": "Anadolu Kültür Tarihi.pdf",
+   "sayfa": 119
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "EAT-125",
+  "konu": "eski-anadolu",
+  "alt_konu": "kent-uygarlik-eslestirme",
+  "soru": "Aşağıdaki bilgilerden kaç tanesi doğrudur?\nI. Lidya Krallığı'nı Persler yıkmıştır.\nII. Urartu Krallığı'nı Medler yıkmıştır.\nIII. Frig Krallığı'nı Kimmerler yıkmıştır.\nIV. Karya ve Likya, Ege Göçleri öncesinde de yerleşilmiş yerli bölgelerdir.\nV. Aioller, Batı Anadolu'nun güneyine yerleşmiştir.",
+  "siklar": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "E": "1"
+  },
+  "dogru": "C",
+  "cozum": "V yanlıştır; Aioller kuzeye, Dorlar güneye yerleşmiştir. I, II, III ve IV doğrudur.",
+  "hafiza_ipucu": "D-K-P-M zinciri: Deniz Kavmi Hitit'i, Kimmer Frig'i, Pers Lidya'yı, Med Urartu'yu yıktı.",
+  "kaynak": {
+   "dosya": "Eski Anadolu Tarihi_Anadolu Üni.pdf",
+   "sayfa": 108
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ }
+]

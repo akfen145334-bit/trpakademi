@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "GTB-001",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Yaşadığı ve çalıştığı yerin dışına, boş zamanında konaklama, seyahat, yeme-içme ve eğlenme gibi gereksinimlerini karşılamak amacıyla gittiği yerde en az 24 saat ve en fazla bir yıl konaklayan kişiye ne ad verilir?",
+  "siklar": {
+   "A": "Turist",
+   "B": "Günübirlikçi",
+   "C": "Gezgin",
+   "D": "Ziyaretçi",
+   "E": "Yolcu"
+  },
+  "dogru": "A",
+  "cozum": "Kitapta turist, gittiği yerde en az 24 saat (bir gece) ve en fazla bir yıl konaklayan kişi olarak tanımlanır (Genel Turizm Bilgisi 2021, s.18).",
+  "hafiza_ipucu": "GECEyi geçiren TURİST'tir — 24 saat=1 gece eşiği aklında kalsın.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - turist tanımı (tanım→terim)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-002",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Gittiği ülkede veya yerde 24 saatten az kalan, geceleme yapmayan ziyaretçiye ne ad verilir?",
+  "siklar": {
+   "A": "Turist",
+   "B": "Günübirlikçi",
+   "C": "Gezgin",
+   "D": "Yolcu",
+   "E": "Seyyah"
+  },
+  "dogru": "B",
+  "cozum": "UNWTO tanımına göre günübirlikçi, gidilen ülkede/yerde 24 saatten az kalan, gecelemeyen ziyaretçidir (Genel Turizm Bilgisi 2021, s.20).",
+  "hafiza_ipucu": "Akşam evine dönen GÜNÜbirlikçi; geceyi orada geçiren TURİST.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-003",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Rehber Ayşe'nin eşlik ettiği bir grup, tatil için uçakla Almanya üzerinden aktarmalı olarak İngiltere'ye gitmekte ve Frankfurt Havalimanı'nda yalnızca üç saat transit beklemektedir. Bu durumda grup, Almanya açısından hangi kategoride değerlendirilir?",
+  "siklar": {
+   "A": "Turist",
+   "B": "Yerli ziyaretçi",
+   "C": "Günübirlikçi",
+   "D": "Gezgin",
+   "E": "Sınır işçisi"
+  },
+  "dogru": "C",
+  "cozum": "Kitaptaki örnekte, üç saat transit kalan yolcular gecelemedikleri için o ülke açısından turist değil günübirlikçi sayılır (Genel Turizm Bilgisi 2021, s.20).",
+  "hafiza_ipucu": "Transit'te gece yok, geceleme yok → günübirlikçi.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-004",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Turist kavramının bilimsel olarak ilk kez tanımlandığı 'Turist Hareketi' adlı eserin yazarı kimdir?",
+  "siklar": {
+   "A": "Guyer-Feuler",
+   "B": "Thomas Cook",
+   "C": "Robert Smart",
+   "D": "Frederick Wolff Ogilvie",
+   "E": "John Urry"
+  },
+  "dogru": "D",
+  "cozum": "Turist kavramı bilimsel olarak ilk kez ekonomist Frederick Wolff Ogilvie tarafından 1933'te İngiltere'de yayımlanan 'Turist Hareketi' adlı eserde tanımlanmıştır (Genel Turizm Bilgisi 2021, s.18).",
+  "hafiza_ipucu": "OGİLVİE = 1933'te turist tanımını yazıya döken ekonomist.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-005",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Turist ve günübirlikçi kavramlarının UNWTO tanımına göre ortak üst kavramı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yolcu",
+   "B": "Seyyah",
+   "C": "Gezgin",
+   "D": "Misafir",
+   "E": "Ziyaretçi"
+  },
+  "dogru": "E",
+  "cozum": "UNWTO'ya göre turist ve günübirlikçi, ziyaretçi üst kavramının iki alt kategorisidir; turist en az bir gece konaklayan, günübirlikçi ise konaklamayan ziyaretçidir (Genel Turizm Bilgisi 2021, s.19-20).",
+  "hafiza_ipucu": "Ziyaretçi şemsiye kavramdır; altında turist ve günübirlikçi durur.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 19
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-006",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Tur operatöründen veya seyahat acentesinden paket ürün olarak tatil satın alan kişiye turist denirken, kişisel bir tatil için kendi bağımsız düzenlemelerini yapan, genellikle sınırlı bütçe ve sırt çantasıyla seyahat eden kişiye ne ad verilir?",
+  "siklar": {
+   "A": "Gezgin (seyyah)",
+   "B": "Günübirlikçi",
+   "C": "Ziyaretçi",
+   "D": "Sınır işçisi",
+   "E": "Transit yolcu"
+  },
+  "dogru": "A",
+  "cozum": "Kitapta turist ile gezgin (seyyah) ayrımı yapılır; gezgin, bağımsız düzenlemelerle, sınırlı bütçe ve macera ruhuyla seyahat eden kişidir (Genel Turizm Bilgisi 2021, s.19).",
+  "hafiza_ipucu": "Paket tur alan TURİST, kendi rotasını çizen GEZGİN'dir.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 19
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-007",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Turizm ürününün, fiziksel bir mal olmayıp deneyimlenmeden önce test edilememesiyle ilgili özelliği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Heterojen olması",
+   "B": "Soyut (hizmet ağırlıklı) olması",
+   "C": "Arzının inelastik olması",
+   "D": "İkame edilebilir olması",
+   "E": "Emek-yoğun olması"
+  },
+  "dogru": "B",
+  "cozum": "Turizm ürününün ilk özelliği soyut oluşudur; fiziksel mal olmadığından deneyimlenmeden önce test edilemez (Genel Turizm Bilgisi 2021, s.137).",
+  "hafiza_ipucu": "SES-E: Soyut, Eş-zamanlı, Stoklanamaz, Emek-yoğun — Soyut = dokunulamaz, önceden test edilemez.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 137
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-008",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Turizm ürününün temel özellikleriyle ilgili;\nI. Hizmet ağırlıklı (soyut) olması\nII. Üretildiği yerde eş zamanlı tüketilmesi\nIII. Homojen (standart) bir yapıya sahip olması\nifadelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "Yalnız III",
+   "C": "I ve II",
+   "D": "II ve III",
+   "E": "I, II ve III"
+  },
+  "dogru": "C",
+  "cozum": "Turizm ürünü soyuttur ve eş zamanlı tüketilir; ancak homojen değil heterojendir (III yanlıştır), bu nedenle doğru cevap I ve II'dir (Genel Turizm Bilgisi 2021, s.137).",
+  "hafiza_ipucu": "Homojen gördüğün şık her zaman yanlıştır — turizm ürünü heterojendir.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 137
+  },
+  "akraba_cikmis_soru": "Mart 2026 - turistik ürün özellikleri (çoklu-madde)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-009",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Aşağıdakilerden hangisi turizm ürününün özelliklerinden biri değildir?",
+  "siklar": {
+   "A": "Soyut olması",
+   "B": "Üretildiği anda tüketilmesi",
+   "C": "Arzının inelastik olması",
+   "D": "Homojen olması",
+   "E": "Talebinin esnek (elastik) olması"
+  },
+  "dogru": "D",
+  "cozum": "Turizm ürünü homojen değil heterojendir; her turizm deneyimi (ör. Uludağ ile Alpler'deki kış turizmi) birbirinden farklıdır (Genel Turizm Bilgisi 2021, s.137).",
+  "hafiza_ipucu": "'Homojen' şıkkı gördüğünde işaretle — turizm ürünü asla standart/homojen değildir.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 137
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "GTB-010",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Bir gecede boş kalan otel odasının ya da bir uçuşta boş giden koltuğun ileride tekrar kullanılmak üzere depolanamaması, turizm arzının hangi özelliğiyle açıklanır?",
+  "siklar": {
+   "A": "Emek-yoğun olması",
+   "B": "İkame edilebilir olması",
+   "C": "Yüksek yatırım gerektirmesi",
+   "D": "Heterojen olması",
+   "E": "Eş zamanlı tüketilmesi (stoklanamaması)"
+  },
+  "dogru": "E",
+  "cozum": "Turizm arzı eş zamanlı tüketildiği için mal ve hizmetler daha sonra kullanılmak üzere depolanamaz; boş kalan oda veya koltuk telafi edilemez (Genel Turizm Bilgisi 2021, s.139).",
+  "hafiza_ipucu": "Satılmayan oda akşam çöpe gider — stoklanamaz.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 139
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-011",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Turizm faaliyetine fiilen katılan, bizzat seyahate çıkmış olan gerçek kişi sayısını ifade eden talep türüne ne ad verilir?",
+  "siklar": {
+   "A": "Efektif (gerçek) talep",
+   "B": "Potansiyel talep",
+   "C": "Ertelenmiş talep",
+   "D": "Oluşmamış talep",
+   "E": "Baskı altındaki talep"
+  },
+  "dogru": "A",
+  "cozum": "Efektif ya da gerçek talep, turizmde fiilen (de facto) yer alan, seyahat etmekte olan gerçek kişi sayısıdır ve istatistiklerde en kolay ölçülen unsurdur (Genel Turizm Bilgisi eski basım, s.120).",
+  "hafiza_ipucu": "Efektif = fiilen yolda olan, çantasını çoktan toplamış kişi.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_Anadolu Üni.txt",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-012",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Satın alma gücünde artış olması veya uygun bir tatil paketinin sunulması gibi koşullarda bir değişiklik yaşandığında gelecekte seyahate katılabilecek olan, ancak henüz katılmamış kişileri ifade eden talep türü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efektif talep",
+   "B": "Potansiyel talep",
+   "C": "Ertelenmiş talep",
+   "D": "Oluşmamış talep",
+   "E": "Talep ikamesi"
+  },
+  "dogru": "B",
+  "cozum": "Potansiyel talep, koşullarında değişiklik olması durumunda gelecekte seyahat edecek kişileri ifade eder ve bu kişiler her zaman efektif talebe dönüşme şansına sahiptir (Genel Turizm Bilgisi eski basım, s.120).",
+  "hafiza_ipucu": "Potansiyel = 'param artarsa giderim' diyen kişi; henüz katılmamış ama şansı var.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_Anadolu Üni.txt",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-013",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "İstekli ve satın alma gücüne sahip olduğu hâlde, gidilmek istenen destinasyondaki konaklama olanaklarının yetersizliği, olumsuz hava koşulları ya da terörizm ihtimali gibi arz kaynaklı bir nedenle gerçekleşemeyen; arz kaynaklarındaki olumsuzluk giderildiğinde ise efektif talebe dönüşebilecek olan talep türüne ne ad verilir?",
+  "siklar": {
+   "A": "Potansiyel talep",
+   "B": "Oluşmamış talep",
+   "C": "Ertelenmiş talep",
+   "D": "Efektif talep",
+   "E": "Talep ikamesi"
+  },
+  "dogru": "C",
+  "cozum": "Ertelenmiş talep, arz kaynaklarında meydana gelen bir nedenle ertelenen taleptir; sorun talepte değil arzdadır ve arz olanakları düzelince talep efektife dönüşebilir (Genel Turizm Bilgisi eski basım, s.120).",
+  "hafiza_ipucu": "İstek VAR, para VAR ama otel kapalı — suçlu ARZ'dır; arz düzelince talep efektifleşir.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_Anadolu Üni.txt",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - ertelenmiş talep (terim→tanım yerine burada tanım→terim açıdan sorulmuştur)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "GTB-014",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Seyahat etmek istemeyen ya da herhangi bir nedenle seyahat edemeyen, dolayısıyla hiçbir talep oluşturmayan kişilerden meydana gelen kategoriye ne ad verilir?",
+  "siklar": {
+   "A": "Efektif talep",
+   "B": "Potansiyel talep",
+   "C": "Ertelenmiş talep",
+   "D": "Oluşmamış talep",
+   "E": "Baskı altındaki talep"
+  },
+  "dogru": "D",
+  "cozum": "Oluşmamış talep, seyahat etmek istemeyen ya da seyahat edemeyen kişilerin oluşturduğu, talebin hiç var olmadığı kategoridir (Genel Turizm Bilgisi eski basım, s.120).",
+  "hafiza_ipucu": "Oluşmamış talep = hiç istemeyen kişi; efektife dönüşme ihtimali dahi yok.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_Anadolu Üni.txt",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-015",
+  "konu": "Genel Turizm",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Bir turistin deniz-kum-güneş tatili yerine dağ turizmini tercih edebilmesi, turizm ürününün hangi özelliğiyle açıklanabilir?",
+  "siklar": {
+   "A": "Stoklanamama",
+   "B": "Heterojenlik",
+   "C": "Emek-yoğunluk",
+   "D": "Arz kısıtlılığı",
+   "E": "İkame edilebilirlik"
+  },
+  "dogru": "E",
+  "cozum": "Turistin motivasyonu çok fazla unsurdan etkilenebildiğinden, turizm ürünü çok farklı ürün gruplarıyla ikame edilebilme özelliğine sahiptir (Genel Turizm Bilgisi 2021, s.139).",
+  "hafiza_ipucu": "Deniz olmazsa dağa gidilir — turizm ürünü birbirinin yerini tutabilir (ikame).",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 139
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-016",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "17. ve 18. yüzyıllarda Avrupa'da, özellikle Fransa ve İtalya'ya yönelik olarak varlıklı genç bireyler tarafından eğitim ve görgü amacıyla gerçekleştirilen, 'turizm' ve 'turist' sözcüklerinin kökeni sayılan uzun seyahat uygulamasına ne ad verilir?",
+  "siklar": {
+   "A": "Grand Tour",
+   "B": "Kaplıca Turu",
+   "C": "Kutsal Yolculuk",
+   "D": "Kolonizasyon Seferi",
+   "E": "Keşif Seyahati"
+  },
+  "dogru": "A",
+  "cozum": "1613'te başlayan Grand Tour, varlıklı genç Avrupalıların eğitim amaçlı Avrupa seyahatidir ve 'turizm/turist' sözcüklerinin kökeni kabul edilir (Genel Turizm Bilgisi 2021, s.25, 76).",
+  "hafiza_ipucu": "Peruklu İngiliz genci babasının parasıyla İtalya'da heykel seyrediyor — TUR'dan turizm doğdu.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 25
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - Grand Tour (×2)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-017",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "Genel Turizm Bilgisi kaynağına göre Büyük Tur (Grand Tour), başlangıçta bir eğitim deneyimi olarak öncelikle hangi meslek gruplarından kişiler tarafından Fransa ve İtalya şehirlerine yönelik gerçekleştirilmiştir?",
+  "siklar": {
+   "A": "Askerler ve denizciler",
+   "B": "Diplomatlar, iş adamları ve akademisyenler",
+   "C": "Rahipler ve keşişler",
+   "D": "Zanaatkârlar ve tüccarlar",
+   "E": "Çiftçiler ve göçmenler"
+  },
+  "dogru": "B",
+  "cozum": "Kitaba göre Büyük Tur, Avrupa'ya özellikle Fransa ve İtalya şehirlerine seyahat eden diplomatlar, iş adamları ve akademisyenler tarafından yapılmıştır (Genel Turizm Bilgisi 2021, s.76).",
+  "hafiza_ipucu": "Grand Tour sadece 'soylu genç' değil; diplomat-işadamı-akademisyen üçlüsü de kervanda.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 76
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - Grand Tour",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-018",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "1841 yılında Leicester'den Loughborough'ya düzenlediği tren gezisiyle tarihteki ilk kitle (grup) turunu gerçekleştirdiği kabul edilen kişi kimdir?",
+  "siklar": {
+   "A": "Robert Smart",
+   "B": "Frederick Ogilvie",
+   "C": "Thomas Cook",
+   "D": "Raşit Saffet Atabinen",
+   "E": "John Gilhard"
+  },
+  "dogru": "C",
+  "cozum": "Thomas Cook, 1841'de düzenlediği tren gezisiyle ilk kitle turizm hareketini başlatan kişi olarak kabul edilir ve Fordist üretim dönemiyle ilişkilendirilir (Genel Turizm Bilgisi 2021, s.25, 77).",
+  "hafiza_ipucu": "1841 = Cook'un treni; kitle turizminin doğum yılı.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 77
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-019",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "Thomas Cook'un 5 Temmuz 1841'de düzenlediği ve halka açık ilk gezi treni olarak kabul edilen seferde, yolcu başına ne kadarlık gidiş-dönüş ücretiyle kaç yolcu taşınmıştır?",
+  "siklar": {
+   "A": "2 şilin - 250 yolcu",
+   "B": "5 şilin - 100 yolcu",
+   "C": "1 pound - 750 yolcu",
+   "D": "1 şilin - 570 yolcu",
+   "E": "3 şilin - 400 yolcu"
+  },
+  "dogru": "D",
+  "cozum": "Cook'un treni 5 Temmuz 1841'de yolcu başına 1 şilin gidiş-dönüş fiyatıyla 570 yolcu taşımıştır; bu, halka açık ilk gezi treni olarak kabul edilir (Genel Turizm Bilgisi 2021, s.77).",
+  "hafiza_ipucu": "1-5-7-0: 1 şilin, 5 Temmuz, 570 yolcu.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 77
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-020",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "1822 yılında kendisini ilk buharlı gemi acentesi olarak ilan ederek Bristol Kanalı limanlarında yolcu rezervasyonu yapmaya başlayan kişi kimdir?",
+  "siklar": {
+   "A": "Thomas Cook",
+   "B": "Ziya Bey",
+   "C": "Raşit Saffet Atabinen",
+   "D": "Frederick Ogilvie",
+   "E": "Robert Smart"
+  },
+  "dogru": "E",
+  "cozum": "İngiltere'nin Bristol kentinden Robert Smart, 1822'de kendisini ilk buharlı gemi acentesi olarak ilan etmiştir; Thomas Cook'tan (1841) önce gelen bu gelişme ilk seyahat acenteciliği örneklerindendir (Genel Turizm Bilgisi 2021, s.77).",
+  "hafiza_ipucu": "SMART, Cook'tan 19 yıl önce (1822) gemi biletiyle işe başladı.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 77
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-021",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "Turizm ve seyahatin gelişim tablosuna göre, bireylerin gelirlerinde ve boş zamanlarında önemli bir artışa yol açan gelişme aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Endüstri Devrimi",
+   "B": "Grand Tour'un başlaması",
+   "C": "Matbaanın icadı",
+   "D": "İlk buharlı lokomotif",
+   "E": "Çalışanların ücretli tatil hakkını kazanması"
+  },
+  "dogru": "A",
+  "cozum": "Kitaptaki dönüm noktaları tablosunda MS 1750'de Endüstri Devrimi'yle bireylerin gelirlerinde ve boş zamanlarında artış yaşandığı belirtilir (Genel Turizm Bilgisi 2021, s.25).",
+  "hafiza_ipucu": "1750 = fabrikalar açıldı, cepler ve boş zaman doldu.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 25
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-022",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "Turizm ve seyahatin gelişim tarihine ilişkin dönüm noktaları arasında, çalışanların ilk kez ücretli tatil hakkını kazandığı yıl olarak hangisi gösterilmektedir?",
+  "siklar": {
+   "A": "1841",
+   "B": "1913",
+   "C": "1903",
+   "D": "1919",
+   "E": "1950"
+  },
+  "dogru": "B",
+  "cozum": "Kitaptaki tabloya göre MS 1913'te çalışanlar ilk kez ücretli tatil hakkını kazanmıştır (Genel Turizm Bilgisi 2021, s.25).",
+  "hafiza_ipucu": "19-13: 1. Dünya Savaşı öncesi işçiler ilk kez tatile çıkma hakkı kazandı.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 25
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-023",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "İngiltere'de Roma döneminden beri bir kaplıca şehri olarak bilinen ve günümüzde dünya miras listesinde yer alan şehir aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Londra",
+   "B": "Liverpool",
+   "C": "Bath",
+   "D": "York",
+   "E": "Manchester"
+  },
+  "dogru": "C",
+  "cozum": "İngiltere'deki Bath şehri, Roma döneminden beri kaplıca şehri olarak bilinir ve başarılı bir sağlık-sosyal merkez olarak dünya miras listesindedir (Genel Turizm Bilgisi 2021, s.77).",
+  "hafiza_ipucu": "BATH = 'banyo' anlamına gelen isim, Romalıların kaplıca şehri.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 77
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-024",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "Roma İmparatorluğu döneminde sıcak yiyeceklerin satıldığı, hem oturarak hem de ayakta yemek yenilebilen ve günümüz hazır yiyecek (fast-food) restoranlarının öncüsü olarak değerlendirilen mekâna ne ad verilir?",
+  "siklar": {
+   "A": "Macellum",
+   "B": "Tepidarium",
+   "C": "Stoa",
+   "D": "Thermopolium",
+   "E": "Caldarium"
+  },
+  "dogru": "D",
+  "cozum": "Thermopolium, Roma döneminde sıcak yiyecek satılan, günümüz fast-food kültürünün öncüsü sayılan mekândır; Caldarium/Tepidarium hamam bölümleri, Macellum pazar yeri, Stoa ise sütunlu galeridir.",
+  "hafiza_ipucu": "THERMO-polium: 'sıcak' (thermo) yiyecek satan antik dükkan.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Mart 2026 - thermopolium (aynı olgu, çeldiriciler değiştirilerek)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "GTB-025",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "Türkiye'de yataklı vagonlarla gerçekleştirilen konforlu tren seyahatlerinin (Orient Express) yarattığı talebi karşılamak üzere açılan ve modern anlamda ülkenin ilk oteli olarak kabul edilen otel aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tokatlıyan Oteli",
+   "B": "Sirkeci Palas",
+   "C": "İstanbul Hilton",
+   "D": "Park Otel",
+   "E": "Pera Palas Oteli"
+  },
+  "dogru": "E",
+  "cozum": "1892'de Büyük Londra Oteli'nin ardından açılan Pera Palas, Avrupa'dan gelen yataklı vagon talebini karşılamış ve modern anlamda Türkiye'nin ilk oteli kabul edilir (Genel Turizm Bilgisi 2021, s.224-225).",
+  "hafiza_ipucu": "Orient Express'ten inen şapkalı yolcular doğruca PERA PALAS'a.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 225
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Türkiye'de ilk otel Pera Palas",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-026",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "18 Ekim 1923'te Beyoğlu Pera Palas Oteli'nde faaliyete geçen ve Türkiye'nin ilk seyahat acentesi kabul edilen kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Milli Türk Seyahat Acenteciliği (NATTA)",
+   "B": "Türk Seyyahin Cemiyeti",
+   "C": "Türkiye Turing ve Otomobil Kurumu",
+   "D": "Passrapid",
+   "E": "Türk Hava Yolları"
+  },
+  "dogru": "A",
+  "cozum": "NATTA (Milli Türk Seyahat Acenteciliği Ziya ve Şürekası), 18 Ekim 1923'te Pera Palas Oteli'nde faaliyete geçen ilk seyahat acentesidir; bilet satışı, otomobil kiralama, rehberlik gibi hizmetler sunmuştur (Genel Turizm Bilgisi 2021, s.225).",
+  "hafiza_ipucu": "NATTA = otelin içinden doğan acente; Pera Palas'ta kurulan ilk acente.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 225
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-027",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "1923 yılında Raşit Saffet Atabinen ve bir grup aydın tarafından kurulan dernek aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "NATTA",
+   "B": "Türk Seyyahin Cemiyeti",
+   "C": "Otelciler ve Hancılar Cemiyeti",
+   "D": "Türkiye Turizm Bankası",
+   "E": "Türk Ofisi"
+  },
+  "dogru": "B",
+  "cozum": "Türkiye Cumhuriyeti'nin kurulduğu 1923 yılında Raşit Saffet Atabinen ve bir grup aydın tarafından Türk Seyyahin Cemiyeti kurulmuştur (Genel Turizm Bilgisi 2021, s.225).",
+  "hafiza_ipucu": "Cumhuriyet kuruldu, SEYYAHİN yola çıktı — 1923 çifte doğum: Cumhuriyet + Cemiyet.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 225
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - Türk Seyyahin Cemiyeti (×2)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-028",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "Türk Seyyahin Cemiyeti, 1930 yılında hangi kuruma dönüştürülmüştür?",
+  "siklar": {
+   "A": "Turizm Bürosu",
+   "B": "Türk Ofisi",
+   "C": "Türkiye Turing ve Otomobil Kurumu",
+   "D": "Turizm Müdürlüğü",
+   "E": "Basın Yayın ve Turizm Vekaleti"
+  },
+  "dogru": "C",
+  "cozum": "1923'te kurulan Türk Seyyahin Cemiyeti, 1930'da Türkiye Turing ve Otomobil Kurumu'na dönüşmüştür (Genel Turizm Bilgisi 2021, s.225).",
+  "hafiza_ipucu": "1930'da Seyyahin direksiyon başına geçti: TURİNG ve OTOMOBİL.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 225
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - Türk Seyyahin Cemiyeti'nin devamı",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-029",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "1934 yılında 2450 sayılı İktisat Vekâleti Teşkilat ve Vazifeleri Kanunu ile turizm işlerinin bağlandığı, İktisat Vekâleti Dış Ticaret Dairesine bağlı kurum aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Türkiye Turing ve Otomobil Kurumu",
+   "B": "Turizm Müdürlüğü",
+   "C": "Türkiye Turizm Bankası",
+   "D": "Türk Ofisi",
+   "E": "Devlet Planlama Teşkilatı"
+  },
+  "dogru": "D",
+  "cozum": "1934'te çıkarılan 2450 sayılı Kanun ile turizm işleri, İktisat Vekâleti Dış Ticaret Dairesine bağlı Türk Ofisine bırakılmıştır; bu ofis içindeki Turizm Masası daha sonra 1939'da Turizm Müdürlüğü adını almıştır (Genel Turizm Bilgisi 2021, s.225).",
+  "hafiza_ipucu": "1934: Türk Ofisi turizmi bünyesine aldı, sonra 1939'da Turizm Müdürlüğü doğdu.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 225
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "GTB-030",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-tarihi",
+  "soru": "Osmanlı İmparatorluğu döneminde iç turizme yönelik ilk etkinlik olarak kabul edilen ve 1863 yılında düzenlenen organizasyon aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Seyyahine Tercümanlık Nizamnamesi",
+   "B": "Orient Express seferleri",
+   "C": "I. Turizm Danışma Toplantısı",
+   "D": "Turizm Ana Programı",
+   "E": "Sergi-i Umumi-i Osmani"
+  },
+  "dogru": "E",
+  "cozum": "1863'te düzenlenen Sergi-i Umumi-i Osmani, Osmanlı döneminde iç turizme yönelik ilk etkinlik olarak kabul edilir (Genel Turizm Bilgisi 2021, s.224).",
+  "hafiza_ipucu": "1863 = Osmanlı'nın kendi vatandaşına 'gel gör' dediği ilk sergi.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 224
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-031",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Turizm gelirinin ekonomide el değiştirdikçe katlanarak toplam gelir yaratması, yani başlangıçtaki 1 liralık turizm harcamasının ekonomiye toplamda 1 liradan daha fazla katkı sağlaması olgusuna ne ad verilir?",
+  "siklar": {
+   "A": "Çarpan etkisi",
+   "B": "Görünmeyen ihracat",
+   "C": "Talep ikamesi",
+   "D": "Sızıntı etkisi",
+   "E": "Uyarılmış gelir"
+  },
+  "dogru": "A",
+  "cozum": "Çarpan etkisi, turizm gelirinin dolaylı olarak diğer sektörleri canlandırarak ekonomide el değiştirdikçe katlanmasını ifade eder (Genel Turizm Bilgisi 2021, s.30).",
+  "hafiza_ipucu": "Turistin verdiği 100 lira otelciden manava, manavdan berbere zıplayarak çoğalır — el değiştiren para çarpan yaratır.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 30
+  },
+  "akraba_cikmis_soru": "Mart 2026 - çarpan etkisi (tanım→terim)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-032",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Yabancı turistlerin ülkeye gelerek yaptıkları harcamaların, fabrikasyon bir ürünün yurt dışına satılmasında olduğu gibi ödemeler dengesi bilançosuna döviz girdisi olarak yansıması olgusuna verilen ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Çarpan etkisi",
+   "B": "Görünmeyen ihracat",
+   "C": "Sızıntı",
+   "D": "Dolaylı gelir",
+   "E": "Uyarılmış gelir"
+  },
+  "dogru": "B",
+  "cozum": "Turist harcamaları, herhangi bir ürünün ihracatı gibi ödemeler dengesinde 'görünmeyen ihracat' kalemi altında değerlendirilir (Genel Turizm Bilgisi 2021, s.30).",
+  "hafiza_ipucu": "Turist gördüğün ama gümrükten geçmeyen 'ihracat' — görünmeyen ihracat.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 30
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-033",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Aşağıdakilerden hangisi turizm ürününü oluşturan bileşenler arasında sayılan 'turizm işletmeleri' kapsamına girmez?",
+  "siklar": {
+   "A": "Konaklama işletmeleri",
+   "B": "Seyahat acenteleri",
+   "C": "Tarım işletmeleri",
+   "D": "Yiyecek-içecek işletmeleri",
+   "E": "Tur operatörleri"
+  },
+  "dogru": "C",
+  "cozum": "Kitapta turizm işletmeleri; ulaştırma, konaklama, yiyecek-içecek, tur operatörleri, seyahat acenteleri ve rekreasyon işletmeleri olarak sayılır. Tarım, çarpan etkisiyle dolaylı olarak beslenen bir sektördür, doğrudan turizm işletmesi değildir (Genel Turizm Bilgisi 2021, s.138, 30).",
+  "hafiza_ipucu": "Çiftçi turisti ağırlamaz, oteli besler — tarım doğrudan değil dolaylıdır.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 138
+  },
+  "akraba_cikmis_soru": "Mart 2026 - doğrudan turizm işletmesi değil: tarım (negatif soru)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-034",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Turizm sektöründe doğrudan turizm işletmelerinden elde edilen gelire ne ad verilir?",
+  "siklar": {
+   "A": "Dolaylı gelir",
+   "B": "Uyarılmış gelir",
+   "C": "Sızıntı geliri",
+   "D": "Doğrudan gelir",
+   "E": "Görünmeyen ihracat geliri"
+  },
+  "dogru": "D",
+  "cozum": "Turizmin ülke ekonomisine katkısı doğrudan, dolaylı ve uyarılmış gelir olmak üzere üç grupta incelenir; doğrudan gelir direkt olarak turizm işletmelerinden sağlanır (Genel Turizm Bilgisi 2021, s.188).",
+  "hafiza_ipucu": "Doğrudan gelir = otelin kasasına doğrudan giren para.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-035",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Turistik bir bölgede, turizmden kaynaklı olarak gelişen yan sektörlerden elde edilen gelire ne ad verilir?",
+  "siklar": {
+   "A": "Doğrudan gelir",
+   "B": "Uyarılmış gelir",
+   "C": "Efektif gelir",
+   "D": "Net gelir",
+   "E": "Dolaylı gelir"
+  },
+  "dogru": "E",
+  "cozum": "Dolaylı gelir, turistik bölgede turizmden kaynaklı gelişen yan sektörlerin (ör. tarım, inşaat) elde ettiği gelirdir (Genel Turizm Bilgisi 2021, s.188).",
+  "hafiza_ipucu": "Otel açıldı, komşu manav da kazandı — dolaylı gelir.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-036",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Turizm çalışanlarının elde ettikleri ücretleri harcayarak bölge ekonomisine katkı sağlamalarından doğan gelire ne ad verilir?",
+  "siklar": {
+   "A": "Uyarılmış gelir",
+   "B": "Doğrudan gelir",
+   "C": "Dolaylı gelir",
+   "D": "Görünmeyen ihracat geliri",
+   "E": "Sızıntı geliri"
+  },
+  "dogru": "A",
+  "cozum": "Uyarılmış gelir, turizm çalışanlarının maaşlarını harcayarak bölge ekonomisine katkı sağlamalarından doğan gelirdir (Genel Turizm Bilgisi 2021, s.188).",
+  "hafiza_ipucu": "Otel çalışanı maaşını markette harcar — bu da uyarılmış gelirdir.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "GTB-037",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Rehber Mehmet'in çalıştığı turistik bölgede yeni bir otel inşa edilmesi, bölgedeki inşaat sektörünü ve otele sebze-meyve sağlayan tarım işletmelerini de hareketlendirmektedir. Bu durum turizmin ekonomik etkilerinden hangisiyle açıklanır?",
+  "siklar": {
+   "A": "Görünmeyen ihracat",
+   "B": "Çarpan etkisi",
+   "C": "Ödemeler dengesi açığı",
+   "D": "Talebin yer değiştirmesi",
+   "E": "Sızıntı etkisi"
+  },
+  "dogru": "B",
+  "cozum": "Konaklama tesisi yapımının inşaat ve tarım gibi diğer sektörleri dolaylı olarak canlandırması, çarpan etkisinin somut bir örneğidir (Genel Turizm Bilgisi 2021, s.30).",
+  "hafiza_ipucu": "Bir otelin inşası zincirleme etki yaratır — bu zincirleme çarpandır.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 30
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-038",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Uluslararası turizm harcamalarında turistlerin genel olarak en çok harcama yaptığı kalem aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yiyecek-içecek",
+   "B": "Hediyelik eşya",
+   "C": "Konaklama",
+   "D": "Ulaştırma",
+   "E": "Eğlence"
+  },
+  "dogru": "C",
+  "cozum": "Turist harcamaları içinde en büyük payı konaklama harcamaları oluşturur.",
+  "hafiza_ipucu": "Tatilde en büyük fatura her zaman otelden gelir.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - en çok harcama-konaklama",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-039",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Ödemeler dengesi açığı bulunan gelişmekte olan ülkelerin, negatif ticaret dengesini kendi lehlerine çevirebilmek için başvurdukları en yaygın yöntemlerden biri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İthalatı artırmak",
+   "B": "Sızıntıyı artırmak",
+   "C": "Döviz kurunu sabitlemek",
+   "D": "Daha fazla turist ağırlamak",
+   "E": "İhracatı durdurmak"
+  },
+  "dogru": "D",
+  "cozum": "Ödemeler dengesi açığı olan gelişmekte olan ülkeler, mümkün olduğunca fazla turist ağırlayarak negatif ticaret dengesini kendi lehlerine çevirmeye çalışır (Genel Turizm Bilgisi 2021, s.188).",
+  "hafiza_ipucu": "Açık veren ülke için çözüm: daha fazla turist, daha fazla döviz.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-040",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Turizm faaliyetinin kaliteli sunulabilmesi için yurt dışından satın alınan ürün ve hizmetlerin ödemeler dengesinde yarattığı olumsuz etkiye ekonomi literatüründe ne ad verilir?",
+  "siklar": {
+   "A": "Çarpan etkisi",
+   "B": "Görünmeyen ihracat",
+   "C": "Uyarılmış gelir",
+   "D": "Talep ikamesi",
+   "E": "Sızıntı"
+  },
+  "dogru": "E",
+  "cozum": "Turizm hizmetinin kalitesi için yapılan ithalatlar, ödemeler dengesinde olumsuz etki yaratan 'sızıntı' olarak kabul edilir (Genel Turizm Bilgisi 2021, s.188).",
+  "hafiza_ipucu": "Yurt dışından alınan mal, döviz kasasından sızıp gider — sızıntı.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-041",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Turizm sektörünün, ağır sanayiden farklı olarak çevreye görece daha az fiziksel kirlilik yaratarak gelir ve istihdam sağlamasından dolayı literatürde nitelendirildiği kavram aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bacasız sanayi",
+   "B": "Görünmeyen ihracat",
+   "C": "Emek-yoğun sektör",
+   "D": "Hizmet ekonomisi",
+   "E": "Katma değer sektörü"
+  },
+  "dogru": "A",
+  "cozum": "Turizm, fabrika bacası gibi görünür bir kirlilik kaynağı olmadan gelir ve istihdam yarattığı için 'bacasız sanayi' olarak nitelendirilir (Genel Turizm Bilgisi eski basım, s.144).",
+  "hafiza_ipucu": "Fabrika baca tüttürür, otel sadece anahtar döndürür — bacasız sanayi.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_Anadolu Üni.txt",
+   "sayfa": 144
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-042",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-ekonomisi",
+  "soru": "Verimli tarım topraklarının turizm amaçlı bir havaalanı inşaatı için kullanılması durumunda ortaya çıkan ve bu toprakların alternatif kullanımından vazgeçilmiş olması anlamına gelen ekonomik kavram aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Çarpan etkisi",
+   "B": "Fırsat maliyeti",
+   "C": "Sızıntı",
+   "D": "Görünmeyen ihracat",
+   "E": "Talep esnekliği"
+  },
+  "dogru": "B",
+  "cozum": "Havaalanı veya yolların yapılacağı verimli topraklar başka amaçla kullanılabileceğinden, alınan yatırım kararının bir fırsat maliyeti bulunmaktadır (Genel Turizm Bilgisi 2021, s.188).",
+  "hafiza_ipucu": "Toprağa havaalanı yapınca, o toprağın tarım için kaybı fırsat maliyetidir.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 188
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-043",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Katılan kişi sayısı bakımından turizm çeşitleri temel olarak hangi üç grupta incelenir?",
+  "siklar": {
+   "A": "İç, dış, transit",
+   "B": "Aktif, pasif, karma",
+   "C": "Bireysel, grup, kitle",
+   "D": "Örgütlü, örgütsüz, bağımsız",
+   "E": "Yerli, yabancı, karma"
+  },
+  "dogru": "C",
+  "cozum": "Turizm faaliyetlerine katılan kişi sayısı bakımından turizm çeşitleri bireysel, grup ve kitle turizmi olmak üzere üç gruba ayrılır (Genel Turizm Bilgisi eski basım, s.32-33).",
+  "hafiza_ipucu": "Tek kişi=bireysel, küçük topluluk=grup, kalabalık=kitle.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_Anadolu Üni.txt",
+   "sayfa": 32
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - kitle turizmi (kişi sayısına göre sınıflandırma)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-044",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Katılan kişi sayısının sınırlı (11-16 kişi) olması ve sürekliliğinin bulunmaması yönüyle kitle turizminden ayrılan turizm çeşidi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bireysel turizm",
+   "B": "Kitle turizmi",
+   "C": "Alternatif turizm",
+   "D": "Grup (kollektif) turizm",
+   "E": "Kruvaziyer turizm"
+  },
+  "dogru": "D",
+  "cozum": "Grup turizmi, toplumsal grup, örgüt veya kulüp üyelerinin birlikte katıldığı, kişi sayısının sınırlı (11-16) olduğu ve sürekliliğin bulunmadığı turizm türüdür (Genel Turizm Bilgisi eski basım, s.33).",
+  "hafiza_ipucu": "11-16 kişi = tek bir minibüs dolusu; kitleden küçük, bireyselden büyük.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_Anadolu Üni.txt",
+   "sayfa": 33
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "GTB-045",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Birbirleriyle ilişkili olan ya da olmayan büyük grupların katıldığı, kitlesel üretim ve tüketimin yaşandığı turizm türüne ne ad verilir?",
+  "siklar": {
+   "A": "Bireysel turizm",
+   "B": "Grup turizmi",
+   "C": "Alternatif turizm",
+   "D": "Ekoturizm",
+   "E": "Kitle turizmi"
+  },
+  "dogru": "E",
+  "cozum": "Kitle turizmi, birbiriyle ilişkili olan ya da olmayan büyük grupların katıldığı, kitlesel üretim ve tüketimin deneyimlendiği turizm aktivitesidir (Genel Turizm Bilgisi eski basım, s.32-33).",
+  "hafiza_ipucu": "Kitle = paket tur otobüsleri dolusu insan, deniz-kum-güneş klasiği.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_Anadolu Üni.txt",
+   "sayfa": 33
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - kitle turizmi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-046",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Ülke içinde ikamet edenlerin yine kendi ülkeleri içinde gerçekleştirdikleri turizm hareketlerine ne ad verilir?",
+  "siklar": {
+   "A": "İç turizm",
+   "B": "Dış turizm",
+   "C": "Aktif turizm",
+   "D": "Pasif turizm",
+   "E": "Transit turizm"
+  },
+  "dogru": "A",
+  "cozum": "İç turizm, ülke içinde ikamet edenlerin yine aynı ülke içinde yaptıkları turizm hareketlerini ifade eder (Genel Turizm Bilgisi 2021, s.46).",
+  "hafiza_ipucu": "İç turizm = kendi vatandaşın kendi ülkesinde gezmesi.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 46
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-047",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Ülke vatandaşlarının yurt dışına çıkarak gerçekleştirdikleri, ödemeler dengesinde döviz çıkışı yaratan turizm hareketine ne ad verilir?",
+  "siklar": {
+   "A": "Aktif dış turizm",
+   "B": "Pasif dış turizm",
+   "C": "İç turizm",
+   "D": "Kitle turizmi",
+   "E": "Alternatif turizm"
+  },
+  "dogru": "B",
+  "cozum": "Dış turizm, ödemeler dengesindeki etkileri açısından aktif ve pasif olarak ikiye ayrılır; pasif dış turizm, ülke vatandaşlarının yurt dışına çıkmasından kaynaklanan döviz çıkışını ifade eder (Genel Turizm Bilgisi 2021, s.46).",
+  "hafiza_ipucu": "Aktif = döviz giren (gelen yabancı), Pasif = döviz çıkan (giden vatandaş).",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 46
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-048",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Mevcut ve gelecekteki ekonomik, sosyal ve çevresel etkilerini tam olarak hesaba katarak ziyaretçilerin, endüstrinin, çevrenin ve ev sahibi toplulukların ihtiyaçlarına hitap eden turizm anlayışına ne ad verilir?",
+  "siklar": {
+   "A": "Ekoturizm",
+   "B": "Alternatif turizm",
+   "C": "Sürdürülebilir turizm",
+   "D": "Kitle turizmi",
+   "E": "Sosyal turizm"
+  },
+  "dogru": "C",
+  "cozum": "UNWTO'nun tanımına göre sürdürülebilir turizm, mevcut ve gelecekteki ekonomik, sosyal ve çevresel etkilerini tam olarak hesaba katan, ziyaretçilerin, endüstrinin, çevrenin ve ev sahibi toplulukların ihtiyaçlarına hitap eden turizmdir (Genel Turizm Bilgisi 2021, s.48).",
+  "hafiza_ipucu": "Sürdürülebilir turizm = bugünün ihtiyacını, gelecek kuşakların hakkını yemeden karşılamak.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 48
+  },
+  "akraba_cikmis_soru": "Mart 2026 - sürdürülebilir turizm tanımı (boşluk doldurma)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-049",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Sürdürülebilir turizm ile ekoturizm arasındaki temel farkla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "siklar": {
+   "A": "İki kavram birebir aynı anlama gelir",
+   "B": "Ekoturizm daha esnek, sürdürülebilir turizm daha katıdır",
+   "C": "Sürdürülebilir turizm yalnızca deniz turizmini kapsar",
+   "D": "Sürdürülebilir turizmin bakış açısı daha esnekken ekoturizm bozulmamış çevre odaklılığa daha duyarlıdır",
+   "E": "Ekoturizm kitle turizminin bir alt türüdür"
+  },
+  "dogru": "D",
+  "cozum": "Ekoturizm bazen sürdürülebilir turizm ile eş anlamlı kullanılsa da, sürdürülebilir turizmin bakış açısı daha esnek iken ekoturizm bozulmamış çevre ve doğa odaklılığı konusunda daha duyarlı bir tutum benimser (Genel Turizm Bilgisi 2021, s.48).",
+  "hafiza_ipucu": "Ekoturizm 'doğaya dokunma' der, sürdürülebilir turizm 'dengeyi koru' der — ekoturizm daha katı.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 48
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "GTB-050",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "İki ülke arasındaki ilişkilerin gergin olması ve vize şartlarının ağırlaştırılması gibi nedenlerle turizm talebinin caydırılması, turizm talebini etkileyen hangi faktör grubuna girer?",
+  "siklar": {
+   "A": "Ekonomik faktörler",
+   "B": "Sosyal faktörler",
+   "C": "Teknolojik faktörler",
+   "D": "Psikolojik faktörler",
+   "E": "Politik faktörler"
+  },
+  "dogru": "E",
+  "cozum": "Gidilen ülkenin politik yapısı, iki ülke arasındaki ilişkiler ve vize kolaylığı/zorluğu, turizm talebini etkileyen politik faktörler arasında sayılır (Genel Turizm Bilgisi 2021, s.149).",
+  "hafiza_ipucu": "Vize zorlaşınca talep de zorlaşır — politik faktörün adresi vizedir.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 149
+  },
+  "akraba_cikmis_soru": "Mart 2026 - politik faktör-vize",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-051",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Turizm arzını etkileyen faktörlerle ilgili;\nI. Doğal kaynaklar\nII. Altyapı ve üstyapı\nIII. Konukseverlik\nifadelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "Yalnız I",
+   "C": "I ve II",
+   "D": "II ve III",
+   "E": "Yalnız III"
+  },
+  "dogru": "A",
+  "cozum": "Kitapta turizm arzını etkileyen altı faktör; doğal kaynaklar, altyapı, ulaştırma durumu, sosyokültürel varlıklar, üstyapı ve konukseverlik olarak sıralanır; bu nedenle üç ifade de doğrudur (Genel Turizm Bilgisi 2021, s.140-141).",
+  "hafiza_ipucu": "Altı faktör: Doğal-Alt-Ulaştırma-Sosyokültürel-Üst-Konukseverlik = 'DAUSÜK'.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 140
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-052",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Rehber Can'ın grubu, Kaçkar Dağları'nda yürüyüş, tırmanma ve kamp yapma amacıyla düzenlenen bir tura katılmaktadır. Bu tur hangi turizm türü kapsamında değerlendirilir?",
+  "siklar": {
+   "A": "Deniz turizmi",
+   "B": "Dağ turizmi",
+   "C": "Kruvaziyer turizm",
+   "D": "Kitle turizmi",
+   "E": "Termal turizm"
+  },
+  "dogru": "B",
+  "cozum": "Millî parklar, yaylalar, ormanlar veya dağlık alanlarda yürüyüş, tırmanma ve kamp gibi faaliyetleri içeren turizm türü dağ turizmidir; kitapta Kaçkarlar bu türe örnek olarak verilir (Genel Turizm Bilgisi 2021, s.46).",
+  "hafiza_ipucu": "Kaçkar = dağ turizminin kitaptaki örnek destinasyonu.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 46
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-053",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Yapıldığı yere bağlı olarak belirli bir düzeyde risk ve macera içeren, genellikle uzmanlık, beceri ve fiziksel çaba gerektiren turizm türüne ne ad verilir?",
+  "siklar": {
+   "A": "Kruvaziyer turizm",
+   "B": "Ekoturizm",
+   "C": "Macera turizmi",
+   "D": "Kitle turizmi",
+   "E": "Sosyal turizm"
+  },
+  "dogru": "C",
+  "cozum": "Macera turizmi, belirli bir düzeye kadar risk ve macera içeren, uzmanlık, beceri ve fiziksel çaba gerektiren turizm türüdür; bazı durumlarda tehlike/şok turizmi olarak da adlandırılır (Genel Turizm Bilgisi 2021, s.47-48).",
+  "hafiza_ipucu": "Macera = risk + beceri + fiziksel çaba üçlüsü.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 48
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-054",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-cesitleri-siniflandirma",
+  "soru": "Turistlerin bir paket tur çerçevesinde kruvaziyer gemisinde seyahatleri boyunca farklı destinasyonlarda gerçekleştirdikleri çok merkezli tatile ne ad verilir?",
+  "siklar": {
+   "A": "Yat turizmi",
+   "B": "Deniz turizmi",
+   "C": "Dağ turizmi",
+   "D": "Kruvaziyer turizm",
+   "E": "Safari turizmi"
+  },
+  "dogru": "D",
+  "cozum": "Kruvaziyer turizm, turistlerin paket tur çerçevesinde kruvaziyer gemisiyle farklı destinasyonlarda gerçekleştirdikleri çok merkezli tatili ifade eder (Genel Turizm Bilgisi 2021, s.46).",
+  "hafiza_ipucu": "Kruvaziyer = gemi otel gibi, birden fazla limana uğrayan çok merkezli tatil.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 46
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-055",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-pazarlamasi",
+  "soru": "Tüketicinin bir ürün veya hizmeti satın alma kararı verirken, elde edeceği faydayı katlanacağı toplam maliyetle karşılaştırması sonucunda ortaya çıkan farka pazarlama literatüründe ne ad verilir?",
+  "siklar": {
+   "A": "Müşteri sadakati",
+   "B": "Müşteri memnuniyeti",
+   "C": "Marka imajı",
+   "D": "Pazar bölümlendirme",
+   "E": "Müşteri değeri"
+  },
+  "dogru": "E",
+  "cozum": "Müşteri değeri, elde edilen faydanın katlanılan toplam maliyetle karşılaştırılmasından doğar; fayda maliyetin üstündeyse tüketici satın almaya niyetlenir (Turizm Pazarlaması, s.194-195).",
+  "hafiza_ipucu": "Fayda − Maliyet = Müşteri Değeri; terazi faydadan yana ağır basmalı.",
+  "kaynak": {
+   "dosya": "Turizm Pazarlaması_Anadolu Üni.txt",
+   "sayfa": 195
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - müşteri değeri (tanım→terim)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-056",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-pazarlamasi",
+  "soru": "İlişkisel pazarlama anlayışının gelişmesiyle Robert Lauterborn'un geleneksel 4P pazarlama karmasına alternatif olarak önerdiği, ürünün yerini müşteri değerinin, fiyatın yerini müşteri maliyetinin aldığı model aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "4C",
+   "B": "7P",
+   "C": "SWOT",
+   "D": "STP",
+   "E": "AIDA"
+  },
+  "dogru": "A",
+  "cozum": "Robert Lauterborn, tüketici perspektifinden bakan 4C modelini önermiştir: ürün yerine müşteri değeri, fiyat yerine müşteri maliyeti, tutundurma yerine müşteri iletişimi, dağıtım yerine müşteriye kolaylık (Turizm Pazarlaması, s.194).",
+  "hafiza_ipucu": "4P satıcının bakışı, 4C alıcının bakışıdır — Lauterborn müşteriyi merkeze koydu.",
+  "kaynak": {
+   "dosya": "Turizm Pazarlaması_Anadolu Üni.txt",
+   "sayfa": 194
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-057",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-pazarlamasi",
+  "soru": "Alım gücüyle desteklenmiş isteklere pazarlama literatüründe ne ad verilir?",
+  "siklar": {
+   "A": "İhtiyaç",
+   "B": "Talep",
+   "C": "İstek",
+   "D": "Ürün",
+   "E": "Değer"
+  },
+  "dogru": "B",
+  "cozum": "Pazarlama literatüründe talep, alım gücü ile desteklenmiş isteklere verilen addır (Turizm Pazarlaması, s.29).",
+  "hafiza_ipucu": "İstek + Para = Talep.",
+  "kaynak": {
+   "dosya": "Turizm Pazarlaması_Anadolu Üni.txt",
+   "sayfa": 29
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-058",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-pazarlamasi",
+  "soru": "Tatmin edilmemiş bir insan dürtüsüne pazarlama literatüründe ne ad verilir?",
+  "siklar": {
+   "A": "İstek",
+   "B": "Talep",
+   "C": "İhtiyaç",
+   "D": "Fayda",
+   "E": "Değer"
+  },
+  "dogru": "C",
+  "cozum": "İhtiyaç, tatmin edilmemiş bir insan dürtüsü olarak tanımlanır; alım gücüyle desteklenip belirli bir nesneye yönelince istek, ardından talep hâline gelir (Turizm Pazarlaması, s.29).",
+  "hafiza_ipucu": "İhtiyaç → İstek → Talep: dürtüden paraya giden üçlü basamak.",
+  "kaynak": {
+   "dosya": "Turizm Pazarlaması_Anadolu Üni.txt",
+   "sayfa": 29
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "GTB-059",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-pazarlamasi",
+  "soru": "Geleneksel 4P pazarlama karmasının (ürün, fiyat, tutundurma, dağıtım) hizmet sektöründe yetersiz kalması nedeniyle bu unsurlara insan, süreç ve fiziksel kanıtın eklenmesiyle oluşturulan model aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "4C",
+   "B": "SWOT",
+   "C": "PESTLE",
+   "D": "7P",
+   "E": "STP"
+  },
+  "dogru": "D",
+  "cozum": "McCarthy'nin 4P modeli hizmetler için yetersiz kaldığından, ürün-fiyat-tutundurma-dağıtıma insan, süreç ve fiziksel kanıt eklenerek 7P pazarlama karması geliştirilmiştir (Turizm Pazarlaması, s.194).",
+  "hafiza_ipucu": "4P + insan + süreç + fiziksel kanıt = 7P (hizmetin karması).",
+  "kaynak": {
+   "dosya": "Turizm Pazarlaması_Anadolu Üni.txt",
+   "sayfa": 194
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "GTB-060",
+  "konu": "Genel Turizm",
+  "alt_konu": "turizm-pazarlamasi",
+  "soru": "Rehber Zeynep'in çalıştığı işletme, turistleri konaklama ve ulaştırma işletmeleriyle buluşturan, pazarlama açısından bağımsız kişi ve kuruluşlar aracılığıyla faaliyet göstermektedir. Turizm sektöründeki başlıca aracı kuruluşlar aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Bankalar ve sigorta şirketleri",
+   "B": "Reklam ajansları ve medya kuruluşları",
+   "C": "Toptancılar ve perakendeciler",
+   "D": "Otelciler ve Hancılar Cemiyeti",
+   "E": "Tur operatörleri ve seyahat acenteleri"
+  },
+  "dogru": "E",
+  "cozum": "Turizm sektöründe başlıca aracı kuruluşlar tur operatörleri ve seyahat acenteleridir; bunlar işletme ile pazarlar arasında köprü görevi görür (Turizm Pazarlaması, s.47).",
+  "hafiza_ipucu": "Turizmde aracı denince akla ilk gelen ikili: tur operatörü + seyahat acentesi.",
+  "kaynak": {
+   "dosya": "Turizm Pazarlaması_Anadolu Üni.txt",
+   "sayfa": 47
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ }
+]

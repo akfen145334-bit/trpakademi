@@ -1,0 +1,182 @@
+{
+  "ders_kodu": "MIT",
+  "ders_adi": "Mitoloji",
+  "toplam_soru": 480,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "Mitolojinin Tanımı ve Temel Kavramlar",
+      "soru_sayisi": 90,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Mitolojik metinlerde evrenin, dünyanın ve gök cisimlerinin kökenini, kaos halinden nasıl düzene geçtiğini anlatan yaratılış mitlerine ne ad verilir?",
+          "secenekler": {
+            "A": "Teogoni",
+            "B": "Kozmogoni",
+            "C": "Antropogoni",
+            "D": "Eskatoloji",
+            "E": "Etiyoloji"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kozmogoni evrenin doğuşunu (kosmos = evren, gonos = doğum); Teogoni tanrıların soyunu; Antropogoni insanın yaratılışını inceler.",
+          "hafiza_capasi": "Kozmogoni = Evrenin doğuş miti"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Soyut tanrısal güçlerin, doğa olaylarının insan biçiminde, insani duygu ve zaaflarla (öfke, kıskançlık, aşk) donatılarak tasvir edilmesine ne ad verilir?",
+          "secenekler": {
+            "A": "Animizm",
+            "B": "Totemizm",
+            "C": "Antropomorfizm",
+            "D": "Henoteizm",
+            "E": "Politeizm"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Antropomorfizm (insan-biçimcilik) Yunan ve Roma panteonunun temel karakteridir.",
+          "hafiza_capasi": "Antropomorfizm = İnsan kılıklı tanrı anlayışı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Yunan ve Roma Mitolojisi",
+      "soru_sayisi": 105,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Yunan mitolojisinde bilgelik, stratejik savaş ve zanaat tanrıçası olan, Zeus'un başından zırhıyla doğan Athena'nın Roma mitolojisindeki karşılığı hangisidir?",
+          "secenekler": {
+            "A": "Juno",
+            "B": "Minerva",
+            "C": "Venus",
+            "D": "Diana",
+            "E": "Vesta"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Zeus-Jüpiter, Hera-Juno, Athena-Minerva, Ares-Mars, Poseidon-Neptün, Hades-Plüton, Afrodit-Venüs eşleşmesidir.",
+          "hafiza_capasi": "Athena = Minerva (Bilgelik baykuşu)"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Tanrılardan ateşi çalarak insanlığa armağan eden ve bu yüzden Kafkas Dağları'nda zincire vurulup her gün ciğeri bir kartal tarafından yenilmeye mahkûm edilen Titan kimdir?",
+          "secenekler": {
+            "A": "Atlas",
+            "B": "Prometheus",
+            "C": "Kronos",
+            "D": "Epimetheus",
+            "E": "Uranos"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Prometheus önceden gören akıl ve insanlığın kurtarıcısı olan başkaldırı simgesidir.",
+          "hafiza_capasi": "Prometheus = Ateş hırsızı fedakâr Titan"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "Hatti ve Hitit Mitolojisi",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Hitit mitolojisinde Fırtına Tanrısı Teşup ile devasa yer altı yılanı/canavarı arasında geçen ve ilkbahar bayramı Purulli törenlerinde okunan meşhur efsane hangisidir?",
+          "secenekler": {
+            "A": "Telipinu Efsanesi",
+            "B": "İlluyanka Miti",
+            "C": "Kumarbi Destanı",
+            "D": "Ullikummi Şarkısı",
+            "E": "Appu Masalı"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "İlluyanka efsanesi Fırtına Tanrısı ile yılanın mücadelesini ve ilkbaharın gelişini anlatır.",
+          "hafiza_capasi": "İlluyanka = Hitit ejderha/yılan miti"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Öfkelenerek yeraltına çekilen, onun gidişiyle doğada tüm hayatın kuruduğu, ocakların söndüğü ve bir arının sokarak uyandırdığı Hitit bereket tanrısı kimdir?",
+          "secenekler": {
+            "A": "Teşup",
+            "B": "Telipinu",
+            "C": "Kumarbi",
+            "D": "Şarruma",
+            "E": "Nergal"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kaybolan Tanrı Telipinu miti doğanın kışın ölümü ve baharda arı ısırığıyla dirilişini simgeler.",
+          "hafiza_capasi": "Telipinu = Kaybolan öfkeli bereket tanrısı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Sümer ve Mezopotamya Mitolojisi",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Uruk Kralı'nın dostu Enkidu'nun ölümü üzerine ölümsüzlük otunu aramak için tufandan sağ kurtulan Utnapiştim'e yaptığı yolculuğu anlatan ilk büyük destan hangisidir?",
+          "secenekler": {
+            "A": "Enuma Eliş",
+            "B": "Gılgamış Destanı",
+            "C": "Atrahasis Destanı",
+            "D": "İnanna'nın Yeraltına İnişi",
+            "E": "Erra Destanı"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Gılgamış Destanı insanlığın ölümsüzlük arayışını ve tufan anlatısını içeren ilk şaheserdir.",
+          "hafiza_capasi": "Gılgamış = Ölümsüzlük arayışı + Enkidu + Utnapiştim"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Babil yaratılış destanı Enuma Eliş'te tuzlu su kaosu ejderhası Tiamat'ı öldürerek evreni onun bedeninden yaratan ve Babil'in baş tanrısı olan ilah kimdir?",
+          "secenekler": {
+            "A": "Enlil",
+            "B": "Marduk",
+            "C": "Ea",
+            "D": "Anu",
+            "E": "Nabu"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Marduk Tiamat'ı ikiye bölerek göğü ve yeri kuran Babil koruyucusudur.",
+          "hafiza_capasi": "Marduk = Tiamat'ı yenen Babil baş tanrısı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 5,
+      "alt_baslik_adi": "Türk Mitolojisi ve Bozkır İnançları",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Altay ve Sibirya Türk yaratılış mitolojisinde göğün 17. katında oturan, iyiliğin, merhametin ve ışığın kaynağı olan baş tanrı kimdir?",
+          "secenekler": {
+            "A": "Erlik Han",
+            "B": "Kayra Han (Bay Ülgen)",
+            "C": "Umay Ana",
+            "D": "Mergen Han",
+            "E": "Ayaz Ata"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kayra Han en yüce yaratıcıdır; Bay Ülgen göğün katlarında insanlara iyilik dağıtan koruyucu ruhtur.",
+          "hafiza_capasi": "Kayra Han ve Ülgen = İyilik ve göklerin hâkimi"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Türk mitolojisinde yeraltı dünyasının (Tamu), kötülüklerin ve karanlıkların hâkimi kabul edilen mitolojik figür kimdir?",
+          "secenekler": {
+            "A": "Ülgen",
+            "B": "Erlik Han",
+            "C": "Albastı",
+            "D": "Karakoncolos",
+            "E": "Tepegöz"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Erlik Han yer altındaki kara tahtında oturan, can alan ve kötülüğü temsil eden ruhtur.",
+          "hafiza_capasi": "Erlik Han = Yeraltının karanlık hâkimi"
+        }
+      ]
+    }
+  ]
+}

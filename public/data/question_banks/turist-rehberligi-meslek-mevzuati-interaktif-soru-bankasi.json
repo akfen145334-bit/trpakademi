@@ -1,0 +1,147 @@
+{
+  "ders_kodu": "TRM",
+  "ders_adi": "Turist Rehberliği Meslek Mevzuatı ve Etiği",
+  "toplam_soru": 366,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "Turist Rehberliği Meslek Kanunu (6326 Sayılı Kanun)",
+      "soru_sayisi": 107,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "6326 Sayılı Turist Rehberliği Meslek Kanunu'na göre ruhsatname sahibi olup fiilen rehberlik mesleğini icra edebilmek için o yıl adına meslek odasından alınan izin belgesine ne ad verilir?",
+          "secenekler": {
+            "A": "Rehberlik Ruhsatnamesi",
+            "B": "Çalışma Kartı",
+            "C": "Acenta Kimlik Kartı",
+            "D": "Mesleki Yeterlilik Belgesi",
+            "E": "Rehberlik Vizesi"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Ruhsatname ömür boyu hak verir ancak mesleğin icrası için her yıl aidatı ödenerek odadan Çalışma Kartı alınması zorunludur.",
+          "hafiza_capasi": "Çalışma Kartı = Eylemli rehberin yıllık çalışma vizesi"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "6326 Sayılı Kanun'a göre turist rehberleri için taban ücret tarifesi her yıl kim tarafından belirlenerek ilan edilir?",
+          "secenekler": {
+            "A": "TUREB Yönetim Kurulu",
+            "B": "TÜRSAB",
+            "C": "Kültür ve Turizm Bakanlığı",
+            "D": "İlgili Meslek Odası",
+            "E": "Hazine ve Maliye Bakanlığı"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "TUREB'in görüşü alınarak Bakanlık tarafından her yıl taban ücret belirlenir ve Resmi Gazete'de yayımlanır.",
+          "hafiza_capasi": "Taban Ücret = Kültür ve Turizm Bakanlığı belirler"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Kurumsal Yapı (TUREB ve Meslek Odaları)",
+      "soru_sayisi": 102,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Türkiye Turist Rehberleri Birliği (TUREB) organları arasında aşağıdakilerden hangisi yer almaz?",
+          "secenekler": {
+            "A": "Genel Kurul",
+            "B": "Yönetim Kurulu",
+            "C": "Denetim Kurulu",
+            "D": "Disiplin Kurulu",
+            "E": "Yüksek Hakem Heyeti"
+          },
+          "dogru_cevap": "E",
+          "cozum_ve_gerekce": "TUREB'in 4 yasal organı vardır: Genel Kurul, Yönetim Kurulu, Denetim Kurulu ve Disiplin Kurulu. Yüksek Hakem Heyeti yoktur.",
+          "hafiza_capasi": "TUREB Organları = Genel Kurul, Yönetim, Denetim, Disiplin"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Bir ilde turist rehberleri odası kurulabilmesi için o il sınırları içinde ikamet eden en az kaç eylemli veya eylemsiz rehberin başvurusu şarttır?",
+          "secenekler": {
+            "A": "50 rehber",
+            "B": "100 rehber",
+            "C": "150 rehber",
+            "D": "250 rehber",
+            "E": "500 rehber"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Bir ilde oda kurulabilmesi için en az 150 rehberin yazılı başvurusu ve Bakanlık onayı gerekir.",
+          "hafiza_capasi": "Oda kurma barajı = En az 150 rehber"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "Hak ve Yükümlülükler ile Disiplin Hükümleri",
+      "soru_sayisi": 105,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "6326 Sayılı Kanun gereğince rehberlik görevi sırasında çalışma kartını görünür şekilde boynunda taşımayan rehbere uygulanacak ilk disiplin cezası hangisidir?",
+          "secenekler": {
+            "A": "Uyarma",
+            "B": "Kınama",
+            "C": "Meslekten Geçici Men",
+            "D": "Ruhsatnamenin İptali",
+            "E": "İdari Para Cezası"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Disiplin basamakları: Uyarma -> Kınama -> Meslekten Geçici Men -> Meslekten Çıkarma (Ruhsat İptali). Kart takmamak uyarma ile başlar.",
+          "hafiza_capasi": "Disiplin merdiveni = Uyarma - Kınama - Geçici Men - İptal"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Taban ücretin altında bir ücretle çalışmayı kabul eden veya belgesiz rehberlik yapan kişilere uygulanacak yaptırım nedir?",
+          "secenekler": {
+            "A": "Kınama ve İdari Para Cezası",
+            "B": "Yalnızca yazılı ihtar",
+            "C": "Sözlü uyarı",
+            "D": "Hapis cezası",
+            "E": "Acentanın kapatılması"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Taban ücret altında çalışmak hem mesleki onuru zedeler (kınama cezası) hem de mülki amirce ağır idari para cezası kesilir.",
+          "hafiza_capasi": "Taban ücret altı çalışma = Kınama + İdari Para Cezası"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Meslek Etiği, İlkeler ve Kırmızı Çizgiler",
+      "soru_sayisi": 52,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Turist rehberinin mesleki etik ilkeleri arasında aşağıdakilerden hangisi doğrudan bir ihlal (kırmızı çizgi) teşkil eder?",
+          "secenekler": {
+            "A": "Turistlerin dini ve milli hassasiyetlerine saygı göstermek",
+            "B": "Program dışı alışveriş noktalarına turisti zorla yönlendirip gizli komisyon (hanut) talep etmek",
+            "C": "Bölge tarihi hakkında nesnel bilgi vermek",
+            "D": "Engelli misafirlere öncelik tanımak",
+            "E": "Tura zamanında başlamak"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Hanutçuluk (zoraki komisyon ve yönlendirme) hem 6326 Sayılı Kanun'a hem de meslek etiğine aykırı en ağır ihlaldir.",
+          "hafiza_capasi": "Hanutçuluk = En ağır etik kırmızı çizgi"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Turist rehberliğinde geleneksel esnaf dayanışması, haksız rekabetten kaçınma, cömertlik ve misafirperverlik değerlerini besleyen tarihi Anadolu esnaf teşkilatı felsefesi hangisidir?",
+          "secenekler": {
+            "A": "Ahilik Teşkilatı",
+            "B": "Lonca Rejimi",
+            "C": "İltizam",
+            "D": "Gediz Nizamı",
+            "E": "Dirlik"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Ahi Evran felsefesi dürüstlük, eline-beline-diline sahip olma ilkeleriyle rehberlik etiğinin yerli ruhudur.",
+          "hafiza_capasi": "Ahilik = Rehberlik etiğinin kadim kökü"
+        }
+      ]
+    }
+  ]
+}

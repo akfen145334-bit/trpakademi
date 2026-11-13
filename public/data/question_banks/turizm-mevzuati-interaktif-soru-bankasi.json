@@ -1,0 +1,182 @@
+{
+  "ders_kodu": "TMV",
+  "ders_adi": "Turizm Mevzuatı",
+  "toplam_soru": 490,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "Hukukun Temel Kavramları ve Normlar Hiyerarşisi",
+      "soru_sayisi": 95,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Hans Kelsen'in normlar hiyerarşisi piramidinde en üst basamakta yer alan ve diğer hiçbir hukuk kuralının aykırı olamayacağı bağlayıcı temel metin hangisidir?",
+          "secenekler": {
+            "A": "Kanun",
+            "B": "Anayasa",
+            "C": "Cumhurbaşkanlığı Kararnamesi",
+            "D": "Yönetmelik",
+            "E": "Genelge"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Anayasa normlar piramidinin en tepesindedir ve Anayasa Mahkemesi denetimine tabidir.",
+          "hafiza_capasi": "Normlar Piramidi = Anayasa en tepededir"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Hukuk kurallarının yaptırım türleri arasında yer alan, hukuka aykırı yapılmış bir idari işlemin yargı kararıyla baştan itibaren ortadan kaldırılması işlemine ne ad verilir?",
+          "secenekler": {
+            "A": "Cebri İcra",
+            "B": "Tazminat",
+            "C": "İptal",
+            "D": "Hükümsüzlük (Butlan)",
+            "E": "Müsadere"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "İptal idare hukukuna özgü bir yaptırımdır; idari işlemler Danıştay veya İdare Mahkemesi kararıyla iptal edilir.",
+          "hafiza_capasi": "İdari işlem = İptal davasıyla kalkar"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Temel Turizm Kanunları (1618, 2634, 2863)",
+      "soru_sayisi": 105,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "1618 Sayılı Seyahat Acentaları Kanunu'na göre seyahat acentalarının kurulması ve işletme belgesi verilmesi hangi kurumun yetkisindedir?",
+          "secenekler": {
+            "A": "TÜRSAB",
+            "B": "Kültür ve Turizm Bakanlığı",
+            "C": "Ticaret Bakanlığı",
+            "D": "TUREB",
+            "E": "İçişleri Bakanlığı"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Seyahat acentası işletme belgesini Bakanlık verir; TÜRSAB meslek örgütüdür ve görüş bildirir.",
+          "hafiza_capasi": "Acenta Belgesi = Kültür ve Turizm Bakanlığı verir"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "2634 Sayılı Turizmi Teşvik Kanunu'na göre Kültür ve Turizm Koruma ve Gelişim Bölgeleri (KTKGB) ilan etme yetkisi kime aittir?",
+          "secenekler": {
+            "A": "İlgili İl Valiliği",
+            "B": "Cumhurbaşkanı",
+            "C": "Kültür ve Turizm Bakanı",
+            "D": "Çevre ve Şehircilik Bakanı",
+            "E": "TBMM"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Bakanlığın önerisi üzerine Cumhurbaşkanı kararıyla turizm koruma ve gelişim bölgeleri ilan edilir.",
+          "hafiza_capasi": "KTKGB ilanı = Cumhurbaşkanı yetkisi"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "Turizm Yatırım ve İşletmeleri, Tesislerin Nitelikleri",
+      "soru_sayisi": 100,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik gereğince 5 yıldızlı bir otelde bulunması zorunlu olan en az yatak kapasitesi kaçtır?",
+          "secenekler": {
+            "A": "60 yatak",
+            "B": "120 yatak",
+            "C": "200 yatak",
+            "D": "300 yatak",
+            "E": "500 yatak"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Beş yıldızlı otellerde asgari 120 yatak kapasitesi aranır (1 yıldız: 20 yatak, 2 yıldız: 40 yatak, 3 yıldız: 60 yatak, 4 yıldız: 80 yatak, 5 yıldız: 120 yatak).",
+          "hafiza_capasi": "5 Yıldızlı Otel = En az 120 yatak"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Tarihi veya özgün mimari değere sahip, yapımında geleneksel malzemeler kullanılmış ve en az 10 odalı butik veya tarihi oteller hangi belge türünü alır?",
+          "secenekler": {
+            "A": "Özel Tesis Belgesi",
+            "B": "Tatil Köyü Belgesi",
+            "C": "Apart Otel Belgesi",
+            "D": "Motel Belgesi",
+            "E": "Pansiyon Belgesi"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Özel tesisler standart yıldız kriterlerine uymayan ancak tarihi/mimari özgünlüğü tescilli yapılardır.",
+          "hafiza_capasi": "Özgün tarihi bina = Özel Tesis Belgesi"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Tüketici Hakları ve Paket Tur Sözleşmeleri",
+      "soru_sayisi": 100,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Paket Tur Sözleşmeleri Yönetmeliği'ne göre katılımcı paket turun başlamasına en az kaç gün kala fesih bildiriminde bulunursa kesintisiz tam iade alma hakkına sahiptir?",
+          "secenekler": {
+            "A": "7 gün",
+            "B": "14 gün",
+            "C": "30 gün",
+            "D": "45 gün",
+            "E": "60 gün"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "30 gün öncesine kadar yapılan fesihlerde vergi ve zorunlu harçlar dışında kesinti yapılamaz.",
+          "hafiza_capasi": "Paket tur = 30 gün kala kesintisiz iptal"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Acentanın paket tur sözleşmesinde esaslı bir unsuru değiştirmesi durumunda tüketici hangi hakkını kullanamaz?",
+          "secenekler": {
+            "A": "Sözleşmeden dönerek parasını iade alma",
+            "B": "Eşdeğer başka bir tura katılma",
+            "C": "Acentanın tüm varlığına el koyma",
+            "D": "Fiyat farkını talep etme",
+            "E": "Tazminat isteme"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Tüketici iade, eşdeğer tur veya tazminat isteyebilir ancak acentanın varlığına el koyamaz.",
+          "hafiza_capasi": "Tüketici hakları = İade, eşdeğer tur veya tazminat"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 5,
+      "alt_baslik_adi": "Ulusal ve Uluslararası Turizm Örgütleri",
+      "soru_sayisi": 90,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Birleşmiş Milletler bünyesinde faaliyet gösteren, merkezi Madrid'de bulunan dünya turizminin çatı örgütü hangisidir?",
+          "secenekler": {
+            "A": "UNWTO (UN Tourism)",
+            "B": "WTTC",
+            "C": "IATA",
+            "D": "ICAO",
+            "E": "UFTAA"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Birleşmiş Milletler Dünya Turizm Örgütü (UNWTO) Madrid merkezlidir.",
+          "hafiza_capasi": "UNWTO = Madrid merkezli BM Turizm Örgütü"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Merkezi Cenevre ve Montreal'de bulunan, uluslararası hava yolu taşıyıcılarını bünyesinde toplayan sivil havacılık örgütü hangisidir?",
+          "secenekler": {
+            "A": "IATA",
+            "B": "ICAO",
+            "C": "TÜRSAB",
+            "D": "TGA",
+            "E": "EUROCONTROL"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "IATA Uluslararası Hava Taşımacılığı Birliği'dir; ICAO ise devletlerarası sivil havacılık teşkilatıdır.",
+          "hafiza_capasi": "IATA = Havayolu şirketleri birliği"
+        }
+      ]
+    }
+  ]
+}

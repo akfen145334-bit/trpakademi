@@ -1,0 +1,552 @@
+[
+ {
+  "id": "SAG-001",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Termomineral sular, peloidler ve gazlar gibi doğal tedavi unsurlarının banyo, içme ve inhalasyon (soluma) yöntemleriyle kür tarzında tedavi amaçlı kullanılmasına ne ad verilir?",
+  "siklar": {
+   "A": "Balneoterapi",
+   "B": "Talassoterapi",
+   "C": "Klimaterapi",
+   "D": "Hidroterapi",
+   "E": "Peloidoterapi"
+  },
+  "dogru": "A",
+  "cozum": "Balneoterapi, termomineral sular, peloidler ve gazlar gibi doğal tedavi unsurlarının banyo, içme ve inhalasyon yöntemleriyle kür tarzında kullanılmasıdır (SAGLIK-TURIZMI s.111). Ağustos 2025 sınavında da 'Balneoterapi nedir?' sorusunun cevabı 'çamur ve mineralli su ile banyo tedavisi' olmuştur.",
+  "hafiza_ipucu": "BALNEO = banyo (Latince balneum); mineralli su + çamur (peloid) + gaz üçlüsü hep birlikte anılır.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - 85. Balneoterapi nedir?",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-002",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Koruyucu, tedavi edici ve/veya kür amaçlı olarak tıbbi gözetim ve denetim altında, deniz suyu, deniz iklimi ve unsurlarının kür tarzında uygulandığı tedavi sistemine ne ad verilir?",
+  "siklar": {
+   "A": "Klimaterapi",
+   "B": "Talassoterapi",
+   "C": "Hidroterapi",
+   "D": "Peloidoterapi",
+   "E": "Helioterapi"
+  },
+  "dogru": "B",
+  "cozum": "Talassoterapi, deniz suyu, deniz iklimi ve unsurlarının tıbbi gözetim altında kür tarzında kullanılmasıdır (SAGLIK-TURIZMI s.111); Yunanca 'thalassa' deniz anlamına gelir.",
+  "hafiza_ipucu": "THALASSA = deniz (Yunanca); talassoterapi = deniz kürü, kıyı iklimiyle iç içedir.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-003",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Hava sıcaklığı, rüzgâr şiddeti ve hızı, nem, güneş ışınımı gibi iklimsel faktörlerin sistematik ve dozlanmış kür tarzında uygulanmasına ne ad verilir?",
+  "siklar": {
+   "A": "Talassoterapi",
+   "B": "Balneoterapi",
+   "C": "Klimaterapi",
+   "D": "Peloidoterapi",
+   "E": "Hidroterapi"
+  },
+  "dogru": "C",
+  "cozum": "Klimaterapi, hava sıcaklığı, rüzgâr, nem ve güneş ışınımı gibi iklimsel faktörlerin sistematik ve dozlanmış kür tarzında uygulanmasıdır (SAGLIK-TURIZMI s.111, kitaptan birebir).",
+  "hafiza_ipucu": "KLİMA = iklim; sıcaklık + rüzgâr + nem + güneş ışınımı dörtlüsü klimaterapiye aittir.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-004",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Doğal, jeolojik ve/veya biyolojik olaylar sonucu oluşan organik ve/veya inorganik maddeler olan peloidlerin bir balneoterapi yöntemi olarak kullanılmasına, halk arasında 'şifalı çamur tedavisi' olarak da bilinen uygulamaya ne ad verilir?",
+  "siklar": {
+   "A": "Klimaterapi",
+   "B": "Helioterapi",
+   "C": "Hidroterapi",
+   "D": "Peloidterapi",
+   "E": "Talassoterapi"
+  },
+  "dogru": "D",
+  "cozum": "Peloidterapi (peloidoterapi), peloidlerin (çamurların) bir balneoterapi yöntemi olarak kullanılmasıdır; halk arasında şifalı çamur tedavisi olarak bilinir (SAGLIK-TURIZMI s.111).",
+  "hafiza_ipucu": "PELOİD = çamur; peloidoterapi, balneoterapinin bir alt yöntemidir — bağımsız bir 'terapi ailesi' değildir.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-005",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Termomineral sularla yapılan yıkama, duş ve dökme uygulamalarının yanı sıra, her birey için özel olarak düzenlenmiş havuzlarda sinir-kas-iskelet sistemine yönelik fonksiyonları geliştirmeyi amaçlayan havuz tedavi programına ne ad verilir?",
+  "siklar": {
+   "A": "Balneoterapi",
+   "B": "Peloidterapi",
+   "C": "Klimaterapi",
+   "D": "Talassoterapi",
+   "E": "Hidroterapi"
+  },
+  "dogru": "E",
+  "cozum": "Hidroterapi, termomineral sularla yapılan yıkama-duş-dökme uygulamaları ile özel havuzlarda sinir-kas-iskelet sistemi fonksiyonlarını geliştirmeye yönelik bir programı ifade eder (SAGLIK-TURIZMI s.111). Balneoterapiden farkı, banyo-içme-inhalasyon üçlüsü yerine yıkama/duş/dökme ve havuz programına odaklanmasıdır.",
+  "hafiza_ipucu": "HİDRO = su, vurgu HAVUZ PROGRAMI'nda; BALNEO'da vurgu BANYO-İÇME-İNHALASYON üçlüsündedir.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-006",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Güneş ışığı maruziyeti yoluyla uygulanan tedavi yöntemine ne ad verilir?",
+  "siklar": {
+   "A": "Helioterapi",
+   "B": "Klimaterapi",
+   "C": "Peloidoterapi",
+   "D": "Hidroterapi",
+   "E": "Talassoterapi"
+  },
+  "dogru": "A",
+  "cozum": "Helioterapi, güneş ışığı (güneş maruziyeti) yoluyla uygulanan tedavi yöntemidir; kaynakta İsrail sağlık turizmi örneğinde balneoterapi, helioterapi, talassoterapi, peloterapi ve klimatoterapi birlikte sayılır (SAGLIK-TURIZMI s.462).",
+  "hafiza_ipucu": "HELİOS = güneş (Yunan güneş tanrısı); helioterapi = güneş kürü.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 462
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-007",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Toprak, yeraltı ve deniz kaynaklı mineralli sular, gazlar, peloidler (çamurlar) ve iklimsel unsurlar gibi doğal tedavi unsurlarının, yöredeki iklim olanakları ve gerekli görülen diğer tedavilerle birlikte kür tarzında uygulandığı tedavi sistemine ne ad verilir?",
+  "siklar": {
+   "A": "Balneoterapi",
+   "B": "Kaplıca Tedavisi",
+   "C": "Termal Turizm",
+   "D": "SPA",
+   "E": "Wellness"
+  },
+  "dogru": "B",
+  "cozum": "Bu, balneoterapiden daha kapsamlı olan 'Kaplıca Tedavisi' tanımıdır; balneoterapi yalnızca termomineral su + peloid + gaz + banyo/içme/inhalasyon iken, kaplıca tedavisi buna iklimsel unsurları ve diğer destek tedavilerini de ekler (SAGLIK-TURIZMI s.111).",
+  "hafiza_ipucu": "Kaplıca Tedavisi = balneoterapi + iklim + diğer tüm destek tedaviler — şemsiye kavramdır.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-008",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Tedavi etkeninin belli dozda, seri halde, düzenli aralıklarla ve belli sürelerle tekrarlanarak verilmesiyle uygulanan tedavi yöntemine, termal turizm terminolojisinde ne ad verilir?",
+  "siklar": {
+   "A": "Kaptaj",
+   "B": "Rehabilitasyon",
+   "C": "Kür",
+   "D": "İnhalasyon",
+   "E": "Fizik tedavi"
+  },
+  "dogru": "C",
+  "cozum": "'Kür', tedavi etkeninin belli dozda, seri halde, düzenli aralıklarla, belli sürelerle tekrarlanarak verilmesiyle uygulanan tedavi yöntemidir (SAGLIK-TURIZMI s.110); tüm -terapi tanımlarında 'kür tarzında' ifadesi bu kavrama dayanır.",
+  "hafiza_ipucu": "Kür = 'tekrarlı doz' mantığı; -terapi isimlerinin hepsinin tanımında 'kür tarzında' ifadesi geçer.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 110
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-009",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Termomineral su zerrecikleriyle yapılan soluma uygulamalarına ne ad verilir?",
+  "siklar": {
+   "A": "İçme kürü",
+   "B": "Hidroterapi",
+   "C": "Klimaterapi",
+   "D": "İnhalasyon uygulamaları",
+   "E": "Fizik tedavi"
+  },
+  "dogru": "D",
+  "cozum": "İnhalasyon uygulamaları, termomineral su zerrecikleriyle yapılan soluma uygulamalarıdır; balneoterapinin banyo-içme-inhalasyon üçlü yönteminden biridir (SAGLIK-TURIZMI s.111).",
+  "hafiza_ipucu": "İnhalasyon = soluma; balneoterapinin 3 yönteminden biri (banyo - içme - inhalasyon).",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-010",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "terapi-terimleri",
+  "soru": "Aşağıdakilerden hangisi, balneoterapinin SAĞLIK-TURİZMİ kaynağındaki tanımında yer ALMAZ?",
+  "siklar": {
+   "A": "Termomineral sular",
+   "B": "Peloidler",
+   "C": "Gazlar",
+   "D": "Banyo, içme ve inhalasyon yöntemleri",
+   "E": "Deniz suyu"
+  },
+  "dogru": "E",
+  "cozum": "Balneoterapi tanımı; termomineral sular, peloidler ve gazlar gibi doğal tedavi unsurlarının banyo, içme ve inhalasyon yöntemleriyle kullanılmasını kapsar (SAGLIK-TURIZMI s.111). Deniz suyu bu tanımda geçmez; deniz suyu ve iklimi talassoterapinin konusudur.",
+  "hafiza_ipucu": "Balneo = mineralli su + çamur + gaz; 'deniz suyu' görürsen bu seni TALASSO'ya yönlendirmeli, balneoya değil.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-011",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "kaplica-sehir-eslestirme",
+  "soru": "I. Pamukkale – Denizli\nII. Sandıklı (Gazlıgöl) – Afyonkarahisar\nIII. Yalova – Bursa\nIV. Çeşme Ilıca – İzmir\nV. Haymana – Antalya\n\nYukarıdaki şehir-kaplıca eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "I, II ve IV",
+   "B": "I ve II",
+   "C": "I, III ve V",
+   "D": "II, IV ve V",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "A",
+  "cozum": "Pamukkale-Denizli, Sandıklı(Gazlıgöl)-Afyonkarahisar ve Çeşme Ilıca-İzmir eşleştirmeleri doğrudur. Yalova kaplıcası Bursa'da değil Yalova ilinin kendisindedir; Haymana kaplıcası ise Antalya'da değil Ankara'dadır.",
+  "hafiza_ipucu": "Mart 2026'nın kaplıca-şehir çoklu eşleştirme kalıbı (I-V, 2 tuzak) tekrar gelebilir: her seçenekte il-kaplıca eşleşmesini tek tek doğrula.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 53 (aynı I-V kalıp, farklı kaplıca-il kombinasyonu)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAG-012",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "kaplica-sehir-eslestirme",
+  "soru": "Kozaklı kaplıcası hangi il sınırları içerisinde yer alır?",
+  "siklar": {
+   "A": "Kayseri",
+   "B": "Nevşehir",
+   "C": "Niğde",
+   "D": "Kırşehir",
+   "E": "Aksaray"
+  },
+  "dogru": "B",
+  "cozum": "Kozaklı kaplıcası Nevşehir ilindedir; Mart 2026 sınavının kaplıca-şehir eşleştirme sorusunda da doğru eşleşme olarak onaylanmıştır.",
+  "hafiza_ipucu": "KOZAKlı PERİBACASI — Nevşehir'in ünlü peribacalarıyla aynı coğrafyada.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 53 (I-V çoklu eşleştirme; Kozaklı-Nevşehir doğru eşleşmelerden biriydi)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-013",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "kaplica-sehir-eslestirme",
+  "soru": "Oylat kaplıcası hangi il sınırları içerisinde yer alır?",
+  "siklar": {
+   "A": "Bilecik",
+   "B": "Balıkesir",
+   "C": "Bursa",
+   "D": "Kütahya",
+   "E": "Eskişehir"
+  },
+  "dogru": "C",
+  "cozum": "Oylat kaplıcası Bursa ilindedir; Mart 2026 sınavının kaplıca-şehir eşleştirme sorusunda da doğru eşleşme olarak onaylanmıştır.",
+  "hafiza_ipucu": "OYLATta KESTANE — Bursa'nın kestaneleriyle özdeşleşen bölge.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 53 (I-V çoklu eşleştirme; Oylat-Bursa doğru eşleşmelerden biriydi)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-014",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "kaplica-sehir-eslestirme",
+  "soru": "Kızılcahamam kaplıcası hangi il sınırları içerisinde yer alır?",
+  "siklar": {
+   "A": "Çankırı",
+   "B": "Bolu",
+   "C": "Kırıkkale",
+   "D": "Ankara",
+   "E": "Eskişehir"
+  },
+  "dogru": "D",
+  "cozum": "Kızılcahamam kaplıcası Ankara ilindedir; Mart 2026 sınavının kaplıca-şehir eşleştirme sorusunda da doğru eşleşme olarak onaylanmıştır.",
+  "hafiza_ipucu": "KIZILCAhamam, Ankara'nın hamamı — başkentin termal köşesi.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 53 (I-V çoklu eşleştirme; Kızılcahamam-Ankara doğru eşleşmelerden biriydi)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-015",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "kaplica-sehir-eslestirme",
+  "soru": "Gönen kaplıcası hangi il sınırları içerisinde yer alır?",
+  "siklar": {
+   "A": "Denizli",
+   "B": "Manisa",
+   "C": "Çanakkale",
+   "D": "Bursa",
+   "E": "Balıkesir"
+  },
+  "dogru": "E",
+  "cozum": "Gönen kaplıcası Balıkesir ilindedir; Denizli ile eşleştirilmesi yaygın bir hatadır ve Mart 2026 sınavında tam olarak bu tuzak kullanılmıştı (Gönen-Denizli eşleştirmesi yanlış çıkmıştı).",
+  "hafiza_ipucu": "GÖNENli BALIK tutar (Balıkesir); Pamukkale'nin Denizli'siyle karıştırma!",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 53 (I-V çoklu eşleştirme; Gönen-Denizli tuzağıydı, doğrusu Balıkesir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-016",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "kaplica-sehir-eslestirme",
+  "soru": "Balçova kaplıcası hangi il sınırları içerisinde yer alır?",
+  "siklar": {
+   "A": "İzmir",
+   "B": "Aydın",
+   "C": "Muğla",
+   "D": "Manisa",
+   "E": "Denizli"
+  },
+  "dogru": "A",
+  "cozum": "Balçova kaplıcası İzmir ilindedir; Aydın ile eşleştirilmesi yaygın bir hatadır ve Mart 2026 sınavında tam olarak bu tuzak kullanılmıştı (Balçova-Aydın eşleştirmesi yanlış çıkmıştı).",
+  "hafiza_ipucu": "BALÇOVAlı İZMİRli; Aydın'daki diğer termal noktalarla karıştırma.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "Mart 2026 - 53 (I-V çoklu eşleştirme; Balçova-Aydın tuzağıydı, doğrusu İzmir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-017",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "kaplica-sehir-eslestirme",
+  "soru": "I. Güney Marmara Termal Turizm Bölgesi – Balıkesir\nII. Güney Ege Termal Turizm Bölgesi – Aydın\nIII. Frigya Termal Turizm Bölgesi – Konya\nIV. Güney Ege Termal Turizm Bölgesi – Manisa\nV. Güney Marmara Termal Turizm Bölgesi – Antalya\n\nYukarıdaki termal turizm bölgesi-il eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "I ve II",
+   "B": "I, II ve IV",
+   "C": "II, III ve V",
+   "D": "I, III, IV ve V",
+   "E": "I, II, III, IV ve V"
+  },
+  "dogru": "B",
+  "cozum": "Güney Marmara Termal Turizm Bölgesi: Balıkesir, Çanakkale, Yalova; Güney Ege Termal Turizm Bölgesi: Aydın, Denizli, Manisa, İzmir; Frigya Termal Turizm Bölgesi: Afyonkarahisar, Ankara, Uşak, Eskişehir, Kütahya (SAGLIK-TURIZMI s.135). Konya Frigya bölgesinde, Antalya ise Güney Marmara bölgesinde yer almaz.",
+  "hafiza_ipucu": "Bölge isimleri coğrafi ipucudur: Güney MARMARA → Balıkesir/Çanakkale/Yalova; Güney EGE → Aydın/Denizli/Manisa/İzmir; FRİGYA → Afyonkarahisar/Ankara/Uşak/Eskişehir/Kütahya.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 135
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ },
+ {
+  "id": "SAG-018",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "kaplica-sehir-eslestirme",
+  "soru": "Kapadokya turunda olan bir grup, bölgedeki ünlü bir kaplıcayı da ziyaret etmek istemektedir. Rehber, grubu Nevşehir sınırları içerisinde yer alan aşağıdaki kaplıcalardan hangisine yönlendirebilir?",
+  "siklar": {
+   "A": "Oylat",
+   "B": "Gönen",
+   "C": "Kozaklı",
+   "D": "Balçova",
+   "E": "Haymana"
+  },
+  "dogru": "C",
+  "cozum": "Kozaklı kaplıcası Nevşehir ilindedir; Kapadokya turuna kolayca entegre edilebilecek bir termal turizm noktasıdır. Diğer seçenekler (Oylat-Bursa, Gönen-Balıkesir, Balçova-İzmir, Haymana-Ankara) farklı illerdedir.",
+  "hafiza_ipucu": "KOZAKlı PERİBACASI — Nevşehir'in peribacaları ile aynı coğrafyada, bir turda birleştirilebilir.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-019",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "termal-cografya-ve-turler",
+  "soru": "Türkiye'de jeotermal kurulumların en yoğun olduğu bölge aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Karadeniz",
+   "B": "Marmara",
+   "C": "Akdeniz",
+   "D": "Ege",
+   "E": "Doğu Anadolu"
+  },
+  "dogru": "D",
+  "cozum": "Türkiye'de jeotermal kurulumların en fazla olduğu bölge Ege'dir; bölgedeki yoğun fay hatları jeotermal potansiyeli artırır. Ağustos 2025 sınavında birebir sorulmuştur; SAGLIK-TURIZMI kaynağı da (s.132-135) Türkiye'nin jeotermal potansiyelini ve Ege ağırlıklı termal turizm bölgelerini (Güney Ege Bölgesi) anlatır.",
+  "hafiza_ipucu": "Ege'nin fay çatlaklarından her yerde buhar tütüyor — fay hattı yoğunluğu = jeotermal zenginlik = EGE birinci.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 2
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - 9. Türkiye'de en fazla jeotermal kurulumların olduğu bölge hangisidir?",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-020",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "termal-cografya-ve-turler",
+  "soru": "Dünyadaki ilk talassoterapi merkezi aşağıdaki ülkelerden hangisinde kurulmuştur?",
+  "siklar": {
+   "A": "İtalya",
+   "B": "Yunanistan",
+   "C": "Türkiye",
+   "D": "İspanya",
+   "E": "Fransa"
+  },
+  "dogru": "E",
+  "cozum": "İlk talassoterapi merkezinin Fransa'da kurulduğu kabul edilir; Şubat 2025 sınavında bu şekilde sorulmuştur. SAGLIK-TURIZMI kaynağında bu bilginin yeri/yılı ayrıca verilmemektedir — cevap genel bilgi + sınav ile teyitlidir.",
+  "hafiza_ipucu": "Fransız doktor dalgaların içinde reçete yazıyor: 'Günde iki dalga!' — deniz + Fransa tek imgede birleşir.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - 10. İlk Talasso merkezi nerede kurulmuştur?",
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-021",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "termal-cografya-ve-turler",
+  "soru": "Uluslararası hasta potansiyelini kullanarak, tedavi olmak amacıyla gelen turistlere uzman doktorlar ve sağlık çalışanları tarafından hastane ortamında sunulan check-up, estetik cerrahi, diş, göz gibi hizmetleri kapsayan sağlık turizmi türüne ne ad verilir?",
+  "siklar": {
+   "A": "Medikal turizm",
+   "B": "Termal turizm",
+   "C": "Wellness turizmi",
+   "D": "SPA turizmi",
+   "E": "Yaşlı turizmi"
+  },
+  "dogru": "A",
+  "cozum": "Medikal turizm, hastane ortamında uzman sağlık personeli tarafından sunulan tedavi/ameliyat amaçlı hizmetleri kapsar (SAGLIK-TURIZMI s.227); sağlık turizmi tanımı zaman zaman medikal turizmle eşanlamlı da kullanılır (s.64).",
+  "hafiza_ipucu": "Medikal = hastane; hastane geçince akla ameliyat/check-up gelir.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 227
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "kolay"
+ },
+ {
+  "id": "SAG-022",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "termal-cografya-ve-turler",
+  "soru": "Termomineral su banyosu, içme, inhalasyon, çamur banyosu gibi yöntemlerin yanı sıra iklim kürü, fizik tedavi, rehabilitasyon, egzersiz, psikoterapi ve diyet gibi destek tedavilerinin birleştirilmesiyle yapılan kür uygulamalarını ve termal suların eğlence-rekreasyon amaçlı kullanımını kapsayan turizm türü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Medikal turizm",
+   "B": "Termal turizm",
+   "C": "Wellness turizmi",
+   "D": "SPA turizmi",
+   "E": "Talasso turizmi"
+  },
+  "dogru": "B",
+  "cozum": "Bu, Kültür ve Turizm Bakanlığı'nın termal turizm tanımıdır (SAGLIK-TURIZMI s.106).",
+  "hafiza_ipucu": "Termal = kaynak suyu merkezli; ameliyat değil, kür ve rekreasyon esastır.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 106
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-023",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "termal-cografya-ve-turler",
+  "soru": "Aşağıdakilerden hangisi wellness turizmi kapsamında yer alan uygulamalardan biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Masaj",
+   "B": "Cilt bakımı",
+   "C": "Estetik ameliyat",
+   "D": "Çamur banyosu",
+   "E": "Yosun tedavisi"
+  },
+  "dogru": "C",
+  "cozum": "Wellness turizmi; masaj, cilt bakımı, çamur banyosu, yosun tedavileri ve talassoterapi gibi dinlenme-zindelik odaklı uygulamaları kapsar (SAGLIK-TURIZMI s.72, s.227). Estetik ameliyat gibi cerrahi müdahaleler medikal turizmin konusudur.",
+  "hafiza_ipucu": "Wellness = zindelik/bakım; bıçak/ameliyat devreye girince konu medikale kayar.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 227
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-024",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "termal-cografya-ve-turler",
+  "soru": "Bir turist, tatilinde herhangi bir tıbbi rahatsızlığı olmadığı hâlde kendini iyi hissetmek amacıyla masaj, cilt bakımı ve çamur banyosu hizmetleri almak istemektedir. Bu talep, sağlık turizminin hangi türüne girer?",
+  "siklar": {
+   "A": "Medikal turizm",
+   "B": "Yaşlı turizmi",
+   "C": "Engelli bakım turizmi",
+   "D": "Wellness turizmi",
+   "E": "Termal turizm"
+  },
+  "dogru": "D",
+  "cozum": "Wellness, sağlıklı bireylerin hastalığın ortaya çıkmasını engellemek ve kendini iyi hissetmek amacıyla kullandığı bir yöntemdir (SAGLIK-TURIZMI s.227).",
+  "hafiza_ipucu": "Hasta değil ama iyi hissetmek istiyor → Wellness.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 227
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "orta"
+ },
+ {
+  "id": "SAG-025",
+  "konu": "Sağlık Turizmi",
+  "alt_konu": "termal-cografya-ve-turler",
+  "soru": "Sağlık Bakanlığı bünyesinde 2015 yılında kurulan ve sağlık turizmiyle ilgili iş ve işleyişlere yönelik gerekli düzenlemeleri yapan kurul aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kültür ve Turizm Bakanlığı Termal Turizm Genel Müdürlüğü",
+   "B": "Dünya Turizm Örgütü",
+   "C": "Sağlık Turizm Derneği",
+   "D": "Sağlık Turizm Kurulu",
+   "E": "Sağlık Turizmi Koordinasyon Kurulu (SATURK)"
+  },
+  "dogru": "E",
+  "cozum": "SATURK, Sağlık Bakanlığı bünyesinde 2015 yılında kurulmuş; sağlık turizmiyle ilgili iş ve işleyişlere yönelik düzenlemeleri yapan kuruldur (SAGLIK-TURIZMI s.106).",
+  "hafiza_ipucu": "SATURK = SAğlık TURizm Koordinasyon Kurulu; kuruluş yılı 2015'i akılda tut.",
+  "kaynak": {
+   "dosya": "SAGLIK-TURIZMI.txt",
+   "sayfa": 106
+  },
+  "akraba_cikmis_soru": null,
+  "zorluk": "zor"
+ }
+]

@@ -1,0 +1,1212 @@
+[
+ {
+  "id": "IYD-001",
+  "konu": "ilk-yardim",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Olay yerinde, hayatın kurtarılması ya da hastanın durumunun daha da kötüleşmesini önlemek amacıyla, ilaçsız olarak eldeki imkânlarla yapılan müdahaleye ne ad verilir?",
+  "siklar": {
+   "A": "Acil tedavi",
+   "B": "İlkyardım",
+   "C": "Acil müdahale",
+   "D": "Temel yaşam desteği",
+   "E": "İlk acil müdahale"
+  },
+  "dogru": "B",
+  "cozum": "İlkyardım, olay yerinde, İLAÇSIZ olarak, eldeki mevcut imkânlarla yapılan müdahaledir; acil tedavi ise sağlık personelinin ilaçlı/donanımlı müdahalesidir (Temel İlkyardım Bilgisi s.28).",
+  "hafiza_ipucu": "İlkyardım = olay yerinde İLAÇSIZ müdahale; acil tedavi = hastanede sağlıkçının donanımlı işi.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-002",
+  "konu": "ilk-yardim",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Acil tedavi aşağıdaki mesleklerden hangisi tarafından gerçekleştirilir?",
+  "siklar": {
+   "A": "Olay yerindeki herhangi bir tanık",
+   "B": "Turist rehberi",
+   "C": "112 çağrı merkezi operatörü",
+   "D": "İlkyardım eğitimi almış herhangi bir kişi",
+   "E": "Doktor, hemşire, acil sağlık personeli gibi uzman sağlık çalışanları"
+  },
+  "dogru": "E",
+  "cozum": "Acil tedavi, tıp alanında eğitim görmüş uzman sağlık personeli (doktor, hemşire, acil sağlık personeli, sağlık memuru) tarafından yapılır (Temel İlkyardım Bilgisi s.29).",
+  "hafiza_ipucu": "Acil tedavi = üniformalı-diplomalı ekip; ilkyardım = elindeki imkânla herkes.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 29
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-003",
+  "konu": "ilk-yardim",
+  "alt_konu": "temel-kavramlar",
+  "soru": "İlkyardımın temel uygulamaları olan koruma, bildirme ve kurtarma aşamalarının olay yerindeki doğru uygulama sırası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kurtarma – Bildirme – Koruma",
+   "B": "Bildirme – Koruma – Kurtarma",
+   "C": "Koruma – Bildirme – Kurtarma",
+   "D": "Koruma – Kurtarma – Bildirme",
+   "E": "Bildirme – Kurtarma – Koruma"
+  },
+  "dogru": "C",
+  "cozum": "İlkyardımın temel uygulamaları sırasıyla koruma, bildirme ve kurtarmadır; olay yerine gelindiğinde ilk yapılması gereken uygulama, ortamın güvenliğini sağlamak yani korumadır (Temel İlkyardım Bilgisi s.29-111).",
+  "hafiza_ipucu": "KBK 🔑: \"Önce KORU (ikinci kaza olmasın), sonra BİLDİR (112), sonra KURTAR\" — kahramanlık sırası değil güvenlik sırasıdır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-004",
+  "konu": "ilk-yardim",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Bir kültür turu sırasında kaza geçiren bir turistin yanına ulaşan rehber, ilkyardımın temel uygulamalarına göre ilk olarak aşağıdakilerden hangisini yapmalıdır?",
+  "siklar": {
+   "A": "Yaralının bilincini kontrol etmelidir.",
+   "B": "155 polis imdatı aramalıdır.",
+   "C": "112 acil yardım servisini aramalıdır.",
+   "D": "Olay yerinin güvenliğini sağlamalıdır.",
+   "E": "Yaralının kanamasını durdurmalıdır."
+  },
+  "dogru": "D",
+  "cozum": "İlkyardımcı, kişi kendisinin, çevresinin ve olay yerinin güvenliğini sağlamadan müdahale aşamasına geçmemelidir; koruma ilkesi her zaman ilk sıradadır (Temel İlkyardım Bilgisi s.29).",
+  "hafiza_ipucu": "Güvenlik yoksa ikinci bir kazazede de sen olursun — önce ortamı KORU.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 29
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-005",
+  "konu": "ilk-yardim",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Hayat kurtarma zinciri kaç halkadan oluşur ve ilkyardımcının asıl sorumlu olduğu halkalar hangileridir?",
+  "siklar": {
+   "A": "3 halka; 1. ve 2. halka",
+   "B": "4 halka; 1. ve 2. halka",
+   "C": "4 halka; 3. ve 4. halka",
+   "D": "5 halka; tüm halkalar",
+   "E": "2 halka; sadece 1. halka"
+  },
+  "dogru": "B",
+  "cozum": "Hayat kurtarma zinciri 4 halkadan oluşur: 112'ye haber verme, olay yerindeki müdahaleler, ambulanstaki müdahaleler ve hastane acil servisindeki müdahaleler. İlkyardımcının sorumluluk alanı 1. ve 2. halkadır (Temel İlkyardım Bilgisi s.29).",
+  "hafiza_ipucu": "4 halka: 112-Olay Yeri-Ambulans-Hastane; ilkyardımcı sadece ilk İKİ halkadan sorumlu.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 29
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "IYD-006",
+  "konu": "ilk-yardim",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Hayat kurtarma zincirinin birinci halkası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Temel yaşam desteği",
+   "B": "Suni solunum",
+   "C": "112 acil yardım merkezine haber verme",
+   "D": "Turnike",
+   "E": "Heimlich manevrası"
+  },
+  "dogru": "C",
+  "cozum": "Hayat kurtarma zincirinin ilk halkası, olayın 112 acil yardım merkezine bildirilmesidir; bu, profesyonel yardımın yola çıkmasını sağlayan ilk adımdır (Temel İlkyardım Bilgisi s.28-29).",
+  "hafiza_ipucu": "Zincirin ilk halkası KBK'daki \"B\"dir: önce Bildir (112).",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-007",
+  "konu": "ilk-yardim",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Temel yaşam desteğinde uygulanan ABC değerlendirmesinde \"A\" harfi hangi girişimi ifade eder?",
+  "siklar": {
+   "A": "Solunumun değerlendirilmesi",
+   "B": "Dolaşımın değerlendirilmesi",
+   "C": "Hava yolunun açılması (ağız içi kontrol ve baş-çene pozisyonu)",
+   "D": "Temel yaşam desteğine geçilmesi",
+   "E": "Bilinç kontrolü"
+  },
+  "dogru": "C",
+  "cozum": "A (Airway): hava yolunun kontrolü; ağız içi kontrol ve baş-çene pozisyonu verilerek hava yolu açılır. B (Breathing) solunumun, C (Circulation) dolaşımın değerlendirilmesidir (Temel İlkyardım Bilgisi s.29).",
+  "hafiza_ipucu": "A-B-C: Airway (yol aç) → Breathing (nefese bak) → Circulation (nabza bak).",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 29
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-008",
+  "konu": "ilk-yardim",
+  "alt_konu": "temel-kavramlar",
+  "soru": "ABC değerlendirmesinde \"B\" (Breathing) harfinin karşılığı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ağız içi kontrol",
+   "B": "Bilinç kontrolü",
+   "C": "Baş-çene pozisyonu",
+   "D": "Solunumun değerlendirilmesi",
+   "E": "Temel yaşam desteği"
+  },
+  "dogru": "D",
+  "cozum": "B (Breathing): solunumun bak-dinle-hisset yöntemi ile değerlendirilmesidir (Temel İlkyardım Bilgisi s.29, İLK YARDIM konu-arkası s.190).",
+  "hafiza_ipucu": "A-Hava yolu, B-solunum(Breathing), C-dolaşım(Circulation) — B'yi Bilinçle karıştırma, o ayrı bir aşamadır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 190
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-009",
+  "konu": "ilk-yardim",
+  "alt_konu": "temel-kavramlar",
+  "soru": "Bir kişide solunumun olup olmadığını değerlendirmek için kullanılan \"bak-dinle-hisset\" yöntemi en az kaç saniye uygulanmalıdır?",
+  "siklar": {
+   "A": "3",
+   "B": "5",
+   "C": "10",
+   "D": "20",
+   "E": "30"
+  },
+  "dogru": "C",
+  "cozum": "Göğüs kafesine bakılıp (bak), ağız-buruna yaklaşılıp nefes sesi dinlenip (dinle) ve nefesin sıcaklığı-nemi hissedilerek (hisset) solunum en az 10 saniye kontrol edilmelidir (Temel İlkyardım Bilgisi s.16-17).",
+  "hafiza_ipucu": "10 saniye — nabız kontrolündeki 5 saniyeyle karıştırma, solunum kontrolü daha uzun sürer.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 17
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-010",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "Aşağıdakilerden hangisi vücudumuzdaki sistemlerden biri değildir?",
+  "siklar": {
+   "A": "Dolaşım sistemi",
+   "B": "Düşünme Sistemi",
+   "C": "Sindirim sistemi",
+   "D": "Boşaltım sistemi",
+   "E": "Sinir sistemi"
+  },
+  "dogru": "B",
+  "cozum": "Bedeni oluşturan temel sistemler hareket, dolaşım, solunum, sinir, boşaltım, sindirim ve üreme sistemleridir; \"düşünme sistemi\" diye ayrı bir sistem yoktur, düşünme sinir sisteminin (beyin korteksinin) bir işlevidir (Temel İlkyardım Bilgisi s.11; Ağu25 S.8 cevap anahtarı B).",
+  "hafiza_ipucu": "\"Düşünme sistemi\" diye bir sistem YOK — düşünme, sinir sisteminin (beynin) bir GÖREVİdir, ayrı organ topluluğu değildir.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 11
+  },
+  "akraba_cikmis_soru": "Ağu25-8 vücut sistemleri (düşünme sistemi yok)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-011",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "I. Kalp\nII. Akciğer\nIII. Damarlar\nIV. Kan\nV. Yutak\nYukarıdakilerden hangileri dolaşım sisteminin organlarındandır?",
+  "siklar": {
+   "A": "II-III-IV",
+   "B": "I-II-III",
+   "C": "I-IV",
+   "D": "I-IV-V",
+   "E": "I-III-IV"
+  },
+  "dogru": "E",
+  "cozum": "Dolaşım sistemi kalp, damarlar ve kandan oluşur (I-III-IV); akciğer solunum sistemine, yutak ise hem sindirim hem solunum sistemine aittir (Temel İlkyardım Bilgisi s.13; Ağu25 S.20 cevap anahtarı B).",
+  "hafiza_ipucu": "Dolaşım = POMPA+BORU+SIVI: Kalp(pompa)-Damar(boru)-Kan(sıvı). Akciğer ve yutak listeye SIZAN çeldiricilerdir.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "Ağu25-20 dolaşım sistemi organları",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-012",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "I. Yutak\nII. Omurilik\nIII. Soluk Borusu\nIV. Burun\nV. Kan\nYukarıdakilerden hangileri solunum sisteminde yer alır?",
+  "siklar": {
+   "A": "III ve IV",
+   "B": "IV ve V",
+   "C": "I, III ve IV",
+   "D": "III, IV ve V",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "C",
+  "cozum": "Solunum sistemi burun boşluğu, yutak (farinks), gırtlak (larinks), soluk borusu (trake), bronşlar ve akciğerlerden oluşur; bu nedenle I (yutak), III (soluk borusu) ve IV (burun) doğrudur. Omurilik sinir sistemine, kan dolaşım sistemine aittir (Temel İlkyardım Bilgisi s.15; Mar26 S.15 cevap anahtarı C).",
+  "hafiza_ipucu": "Solunum = hava YOLU: burun→yutak→gırtlak→soluk borusu→akciğer. Omurilik sinir kablosudur, kan dolaşım sıvısıdır — sızan çeldiriciler.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 15
+  },
+  "akraba_cikmis_soru": "Mar26-15 solunum sistemi organları",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-013",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "Temel İlkyardım Bilgisi kaynağına göre bedeni oluşturan temel sistemler aşağıdakilerin hangisinde eksiksiz verilmiştir?",
+  "siklar": {
+   "A": "Dolaşım – Solunum – Sinir – Boşaltım – Bağışıklık – Üreme",
+   "B": "Hareket – Dolaşım – Solunum – Sinir – Sindirim",
+   "C": "Dolaşım – Solunum – Sindirim – Üreme – Duyu",
+   "D": "Hareket – Dolaşım – Solunum – Sinir – Boşaltım – Sindirim – Üreme",
+   "E": "Hareket – Dolaşım – Solunum – Düşünme – Boşaltım – Sindirim"
+  },
+  "dogru": "D",
+  "cozum": "Kaynağa göre bedeni oluşturan temel sistemler hareket, dolaşım, solunum, sinir, boşaltım, sindirim ve üreme sistemi olmak üzere yedi tanedir (Temel İlkyardım Bilgisi s.11).",
+  "hafiza_ipucu": "7 SİSTEM: Hareket-Dolaşım-Solunum-Sinir-Boşaltım-Sindirim-Üreme; \"düşünme\" ve \"bağışıklık\" ayrı sistem olarak sayılmaz.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 11
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "IYD-014",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "Hareket (kas-iskelet) sisteminin temel yapı elemanları aşağıdakilerin hangisinde birlikte verilmiştir?",
+  "siklar": {
+   "A": "Kemik – Eklem – Kas",
+   "B": "Kemik – Sinir – Damar",
+   "C": "Eklem – Tendon – Kan",
+   "D": "Kas – Deri – Kemik",
+   "E": "Kemik – Kıkırdak – Kan"
+  },
+  "dogru": "A",
+  "cozum": "Hareket sistemi, kemikler, kemiklerin birleştiği eklemler ve hareketi sağlayan kaslardan oluşur; temel elemanları kemik, eklem ve kastır (Temel İlkyardım Bilgisi s.12).",
+  "hafiza_ipucu": "Hareket sistemi = ÇATI(kemik)+MENTEŞE(eklem)+MOTOR(kas).",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-015",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "İnsan kalbi kaç odacıklıdır?",
+  "siklar": {
+   "A": "2 odalı",
+   "B": "3 odalı",
+   "C": "4 odalı (2 kulakçık, 2 karıncık)",
+   "D": "5 odalı",
+   "E": "1 odalı"
+  },
+  "dogru": "C",
+  "cozum": "Kalp, üstte 2 kulakçık ve altta 2 karıncık olmak üzere ortadan ikiye bölünmüş şekilde 4 odalıdır ve 4 kapakçığı vardır (Temel İlkyardım Bilgisi s.13).",
+  "hafiza_ipucu": "Kalp = 2 kat, her katta 2 oda: üst kat kulakçık(x2), alt kat karıncık(x2) = 4 oda.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-016",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "Solunan havanın vücuda giriş sırasında izlediği yol aşağıdakilerin hangisinde doğru sıralanmıştır?",
+  "siklar": {
+   "A": "Yutak – Burun – Gırtlak – Soluk borusu – Akciğer",
+   "B": "Burun – Gırtlak – Yutak – Soluk borusu – Akciğer",
+   "C": "Burun – Yutak – Gırtlak – Soluk borusu – Akciğer",
+   "D": "Soluk borusu – Burun – Yutak – Gırtlak – Akciğer",
+   "E": "Burun – Yutak – Soluk borusu – Gırtlak – Akciğer"
+  },
+  "dogru": "C",
+  "cozum": "Hava sırasıyla burun boşluğundan girer, yutaktan (farinks) geçer, gırtlaktan (larinks) soluk borusuna (trake) iner ve bronşlarla akciğerlere ulaşır (Temel İlkyardım Bilgisi s.15-16).",
+  "hafiza_ipucu": "Hava yolu zinciri: Burun→Yutak→Gırtlak→Soluk borusu→Akciğer — sırayı bozan şık çeldiricidir.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 15
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "IYD-017",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "Kanda oksijen taşıyan hücre grubu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Eritrosit",
+   "B": "Lökosit",
+   "C": "Trombosit",
+   "D": "Nötrofil",
+   "E": "Eozinofil"
+  },
+  "dogru": "A",
+  "cozum": "Kırmızı kan hücreleri (alyuvar/eritrosit), içlerindeki hemoglobin sayesinde O2 ve CO2 taşırlar (Temel İlkyardım Bilgisi s.20; İLK YARDIM konu-arkası s.77).",
+  "hafiza_ipucu": "ERİTROSİT = kırmızı taşıyıcı (O2); LÖKOSİT = savunma askeri; TROMBOSİT = tamirci (pıhtı).",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-018",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "Boşaltım sistemini oluşturan organlar aşağıdakilerin hangisinde birlikte verilmiştir?",
+  "siklar": {
+   "A": "Böbrekler – İdrar boruları (üreter) – Sidik torbası (mesane) – İdrar kanalı (üretra)",
+   "B": "Böbrekler – Karaciğer – Dalak – Mesane",
+   "C": "Böbrekler – Akciğer – Deri – Bağırsak",
+   "D": "Mesane – Üreter – Mide – Böbrek",
+   "E": "Böbrekler – Pankreas – Üretra – Karaciğer"
+  },
+  "dogru": "A",
+  "cozum": "Boşaltım sistemi böbrekler, idrar boruları (üreter), sidik torbası (mesane) ve idrar kanalından (üretra) oluşur; görevi kan içindeki atıkları süzüp idrar yoluyla dışarı atmaktır (Temel İlkyardım Bilgisi s.20).",
+  "hafiza_ipucu": "Boşaltım hattı: Böbrek(süzer)→Üreter(taşır)→Mesane(biriktirir)→Üretra(atar).",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-019",
+  "konu": "ilk-yardim",
+  "alt_konu": "vucut-sistemleri",
+  "soru": "Temel İlkyardım Bilgisi kaynağına göre normal beden içi sıcaklığı kaç santigrat derecedir?",
+  "siklar": {
+   "A": "34 °C",
+   "B": "35 °C",
+   "C": "36,5 °C",
+   "D": "38 °C",
+   "E": "39,5 °C"
+  },
+  "dogru": "C",
+  "cozum": "Normal beden içi sıcaklığı 36,5 °C'dir; 41-42 °C üzeri ve 34 °C altı kalıcı hasarlara neden olabilir (Temel İlkyardım Bilgisi s.14).",
+  "hafiza_ipucu": "36,5°C = beden termostatının \"normal\" ayarı; 34'ün altı ve 41'in üstü TEHLİKE sınırı.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-020",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-tikanma",
+  "soru": "Bir restoranda turun bir üyesinin boğazına yemek kaçarak hava yolunun tam olarak tıkanması (konuşamama, öksürememe, morarma) durumunda rehberin ilk tercih etmesi gereken uygulama aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Oturur pozisyona getirmek",
+   "B": "Ayakta tutmak",
+   "C": "Sırtüstü düz yatırmak",
+   "D": "Heimlich manevrası",
+   "E": "Turnike uygulamak"
+  },
+  "dogru": "D",
+  "cozum": "Hava yolu tam tıkanan bir kişide (konuşamıyor, öksüremiyor) uygulanması gereken ilk yardım Heimlich manevrasıdır (Temel İlkyardım Bilgisi s.53; Mar26 S.85 cevap anahtarı A).",
+  "hafiza_ipucu": "Heimlich 👁: arkadan kavrayıp göbeğin üstünden İÇE-YUKARI bastır — yabancı cisim fırlasın.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 53
+  },
+  "akraba_cikmis_soru": "Mar26-85 tam tıkanma-Heimlich",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-021",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-tikanma",
+  "soru": "Bir turistin boğazına küçük bir lokma kaçmasına rağmen hâlâ öksürebiliyor ve kısık sesle konuşabiliyorsa (kısmî tıkanma), rehberin doğru davranışı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sırtına sertçe vurmadan turnike uygulamak",
+   "B": "Kişiyi sırtüstü yatırıp kalp masajına başlamak",
+   "C": "Ağzına parmağını sokup cismi çıkarmaya çalışmak",
+   "D": "Hemen Heimlich manevrasına başlamak",
+   "E": "Kişiyi öksürmeye teşvik ederek gözlemlemeye devam etmek"
+  },
+  "dogru": "E",
+  "cozum": "Kısmî tıkanmada kişi hâlâ öksürebiliyor ve konuşabiliyorsa öksürmeye teşvik edilip yakından izlenir; Heimlich manevrası ancak tam tıkanmada (konuşamama/öksürememe) uygulanır (Temel İlkyardım Bilgisi s.46-53).",
+  "hafiza_ipucu": "Konuşabiliyorsa (kısmî) sadece öksürt; konuşamıyorsa (tam) Heimlich — ayırt edici çapa: konuşma yeteneği.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 46
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-022",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-tikanma",
+  "soru": "Hava yolu tam tıkanan bir kişide yapılması gereken uygulama aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Heimlich manevrası",
+   "B": "Rentek",
+   "C": "Temel yaşam desteği",
+   "D": "Acil tedavi",
+   "E": "Soluk borusunu delme"
+  },
+  "dogru": "A",
+  "cozum": "Hava yolu tam tıkanan bir kişide ilk yapılması gereken uygulama Heimlich manevrasıdır (İLK YARDIM konu-arkası s.53).",
+  "hafiza_ipucu": "Tam tıkanma = Heimlich; Rentek ise araçtan çıkarma taşımasıdır, tıkanmayla ilgisizdir.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 53
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-023",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-tikanma",
+  "soru": "Hava yolu tam tıkanan ve bilinci kaybolan bir turistte Heimlich manevrası başarısız olursa rehberin uygulaması gereken sıradaki adım aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Turnike uygulamak",
+   "B": "Kişiyi sırtüstü sert bir zemine yatırıp temel yaşam desteğine (kalp masajı) geçmek",
+   "C": "Kişiye şok pozisyonu vermek",
+   "D": "Kişiye koma pozisyonu vererek beklemek",
+   "E": "Ağzına su vermeye çalışmak"
+  },
+  "dogru": "B",
+  "cozum": "Heimlich manevrasına rağmen tıkanıklık açılmaz ve bilinç kaybolursa kişi hemen sırtüstü sert bir zemine yatırılıp 112 aranarak temel yaşam desteğine (göğüs baskılarıyla) geçilir (Temel İlkyardım Bilgisi s.46-53).",
+  "hafiza_ipucu": "Heimlich işe yaramazsa ve bilinç giderse, sıradaki basamak hep TYD'dir — ABC zinciri kesintisiz sürer.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 53
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "IYD-024",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-kirik",
+  "soru": "Bir turistin otel merdivenlerinden düşmesi sonucunda kırık şüphesi oluşması durumunda ilk yapılması gereken uygulama aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Masaj yaparak rahatlatmak",
+   "B": "Turnike uygulamak",
+   "C": "Bölgeyi sabitlemek",
+   "D": "Sıcak su ile yıkamak",
+   "E": "Egzersiz yaptırmak"
+  },
+  "dogru": "C",
+  "cozum": "Kırık şüphesi olan bölge hareket ettirilmeden, bulunduğu şekliyle sabitlenmelidir; masaj, egzersiz ve sıcak su uygulaması kırığın kötüleşmesine yol açar (Temel İlkyardım Bilgisi s.91-92; Mar26 S.57 cevap anahtarı C).",
+  "hafiza_ipucu": "Kırık KIPIRDAMAZ 🔑 — sabitle, oynatma; masaj yapan hastayı da sınavı da kaybeder.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "Mar26-57 kırıkta bölgeyi sabitleme",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-025",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-kirik",
+  "soru": "Kırık bölgesinde deri bütünlüğünün bozulmadığı, kemik uçlarının dışarı çıkmadığı kırık türüne ne ad verilir?",
+  "siklar": {
+   "A": "Açık kırık",
+   "B": "Kapalı kırık",
+   "C": "Burkulma",
+   "D": "Çıkık",
+   "E": "Çatlak"
+  },
+  "dogru": "B",
+  "cozum": "Deri bütünlüğünün bozulmayıp sağlam kaldığı ancak kemik bütünlüğünün bozulduğu kırıklara kapalı kırık denir; açık kırıkta ise deri yırtılır ve kemik uçları görünür (Temel İlkyardım Bilgisi s.90).",
+  "hafiza_ipucu": "KAPALI kırık = deri KAPALI kalır (sağlam); AÇIK kırık = kemik dışarı AÇIĞA çıkar.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-026",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-kirik",
+  "soru": "Eklem yüzeylerinin zorlanma ya da baskı sonucu kalıcı olarak yerinden ayrılmasına ne ad verilir?",
+  "siklar": {
+   "A": "Kırık",
+   "B": "İncinme",
+   "C": "Zorlanma",
+   "D": "Burkulma",
+   "E": "Çıkık"
+  },
+  "dogru": "E",
+  "cozum": "Zorlanma ya da baskı sonucunda kemiklerin eklem yerinden kalıcı olarak ayrılmasına çıkık denir; çıkan eklemler genellikle tıbbi müdahale olmadan yerine oturtulamaz (Temel İlkyardım Bilgisi s.90; İLK YARDIM konu-arkası s.111).",
+  "hafiza_ipucu": "Çıkık = eklem yerinden ÇIKAR (kalıcı ayrılma); burkulma ise geçici zorlanmadır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-027",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-kirik",
+  "soru": "Kırık, çıkık ve burkulmalarda sabitleme (atelleme) yapılırken uyulması gereken kurallardan biri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sabitleme yalnızca kırık olan eklemi kapsamalıdır.",
+   "B": "Sabitleme, kırık bölgenin bir alt ve bir üst eklemini de içine alacak şekilde yapılmalıdır.",
+   "C": "Parmak uçları tamamen sargı içine alınmalıdır.",
+   "D": "Kırık kemik önce düzeltilip sonra sabitlenmelidir.",
+   "E": "Sabitlemeden önce bölgeye masaj yapılmalıdır."
+  },
+  "dogru": "B",
+  "cozum": "Kırığın hareketini engellemek için, kırık olan bölgenin hareketine neden olacak bir alt ve bir üst eklemi de içine alacak şekilde sabitleme yapılmalıdır; kan akımının izlenebilmesi için parmak uçları açıkta bırakılır, kemik asla düzeltilmeye çalışılmaz (Temel İlkyardım Bilgisi s.91).",
+  "hafiza_ipucu": "Atel, kırığın hem ALT hem ÜST eklemini kapsar — sadece kırığı değil, komşu eklemleri de sabitler.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "IYD-028",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-koma-bilinc",
+  "soru": "Tur sırasında yaşanan bir kaza sonrasında bilinci kapalı ancak yaşam belirtileri (solunum) olan, başka hiçbir olumsuzluk tespit edilmeyen bir turist aşağıdaki pozisyonlardan hangisine getirilmelidir?",
+  "siklar": {
+   "A": "Oturur pozisyon",
+   "B": "Yüzüstü yatırma pozisyonu",
+   "C": "Rentek pozisyonu",
+   "D": "Yan yatış (koma) pozisyonu",
+   "E": "Ayakta dik pozisyon"
+  },
+  "dogru": "D",
+  "cozum": "Bilinci kapalı ancak solunumu (yaşam belirtisi) olan ve şok ya da yarı oturur pozisyon gerektiren başka bir durumu bulunmayan kişiye koma (yan yatış) pozisyonu verilir; bu pozisyon dilin geriye kaçmasını ve kusmuğun soluk borusunu tıkamasını önler (Temel İlkyardım Bilgisi s.97-98; Mar26 S.87 cevap anahtarı A).",
+  "hafiza_ipucu": "Nefes alan baygın turisti YAN yatır — dil geriye düşmez, kusmuk yol bulmaz. \"Rentek\" pozisyon değil, araçtan taşıma tekniğidir — tuzağa düşme!",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 97
+  },
+  "akraba_cikmis_soru": "Mar26-87 bilinç kapalı+yaşam belirtisi var: koma pozisyonu",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-029",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-koma-bilinc",
+  "soru": "Bir turla yürüyüş yaparken aniden yere yığılan (bayılan) bir turistle karşılaşan rehberin ilk olarak yapması gereken aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kişiye şok pozisyonu vermelidir.",
+   "B": "Kişiye koma pozisyonu vermelidir.",
+   "C": "Temel yaşam desteğine geçmelidir.",
+   "D": "Güvenlik önlemlerini almalıdır.",
+   "E": "Kişiye yarı oturur pozisyon vermelidir."
+  },
+  "dogru": "D",
+  "cozum": "Bayılan bir kişiyle karşılaşıldığında da genel ilkyardım kuralı geçerlidir: önce kendisinin, çevresinin ve kazazedenin güvenliği sağlanır, ardından bilinç kontrolüne ve gerekli pozisyona geçilir (Temel İlkyardım Bilgisi s.96-97, 111).",
+  "hafiza_ipucu": "Bayılma senaryosunda bile ilk hamle hep KORUMA'dır — pozisyon vermek daha sonraki adımdır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 111
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-030",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-koma-bilinc",
+  "soru": "Trafik kazası geçiren bir aracın içinden kazazedeyi güvenli şekilde çıkarma tekniğine ne ad verilir?",
+  "siklar": {
+   "A": "Heimlich",
+   "B": "Rentek",
+   "C": "Hematom",
+   "D": "Yandan yaklaşma",
+   "E": "Kaşık tekniği"
+  },
+  "dogru": "B",
+  "cozum": "Araç içindeki yaralıyı kişiye zarar vermeden çıkarma tekniğine Rentek manevrası denir; Rentek bir pozisyon değil, bir TAŞIMA tekniğidir (Temel İlkyardım Bilgisi s.169; İLK YARDIM konu-arkası s.171).",
+  "hafiza_ipucu": "Rentek = araçtan çıkarma taşıması, YATIŞ pozisyonu değil — koma pozisyonuyla karıştırılan klasik çeldirici.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 169
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-031",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-sara",
+  "soru": "Tur sırasında sara (epilepsi) krizi geçiren bir turiste rehberin uygulaması gereken doğru ilkyardım aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Çevre güvenliğini sağlamak, başının altına yumuşak bir şey koymak ve krizin kendiliğinden geçmesini beklemek",
+   "B": "Kollarını ve bacaklarını sıkıca tutup kasılmayı durdurmaya çalışmak",
+   "C": "Ağzını zorla açıp diline bir cisim yerleştirmek",
+   "D": "Kişiyi ayağa kaldırıp yürütmek",
+   "E": "Burnuna kolonya veya soğan koklatmak"
+  },
+  "dogru": "A",
+  "cozum": "Sara krizinde ilkyardımcı kişiyi çevresindeki eşyalardan koruyarak (başının altına yastık vb.) krizin kendiliğinden sonlanmasını beklemelidir; kişiyi sıkıca tutmak, ağzını açmaya çalışmak ve bir şey koklatmak yanlıştır (Temel İlkyardım Bilgisi s.100).",
+  "hafiza_ipucu": "Sara krizinde MÜDAHALE değil KORUMA yapılır: çevreyi güvenli hâle getir, dokunma, bağlama, ağzına bir şey sokma.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 100
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-032",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-sara",
+  "soru": "Sara krizi ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Kriz sırasında kişi sıkıca bağlanmalıdır.",
+   "B": "Krizin geçici olduğu unutulmamalıdır.",
+   "C": "Kişinin güvenliği sağlanmalıdır.",
+   "D": "Kriz sırasında kişiye herhangi bir cisim koklatılmamalıdır.",
+   "E": "Kişinin çenesi açılmaya çalışılmamalıdır."
+  },
+  "dogru": "A",
+  "cozum": "Sara krizi geçiren kişi çok sıkı tutulmamalı, bağlanmamalıdır; bu davranış hem kişiye hem ilkyardımcıya zarar verebilir. Doğru olan kişinin güvenliğini sağlamak ve krizin kendiliğinden sonlanmasını beklemektir (Temel İlkyardım Bilgisi s.100; İLK YARDIM konu-arkası s.111).",
+  "hafiza_ipucu": "\"Sıkıca bağlamak\" en klasik YANLIŞ şıktır — sara krizinde kısıtlama değil koruma yapılır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 100
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-033",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-dehidrasyon",
+  "soru": "Yaz sıcaklarında açık havada yapılan kültür turlarında, yürüyüş ve hareket esnasında turistlerde en sık görülebilecek sağlık riski aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Anksiyete",
+   "B": "Gastrit",
+   "C": "Hipotermi",
+   "D": "Dehidrasyon",
+   "E": "Enflamasyon"
+  },
+  "dogru": "D",
+  "cozum": "Sıcak havada uzun süreli yürüyüş, aşırı terleme yoluyla su ve elektrolit kaybına (dehidrasyona) yol açar; hipotermi ise soğuğa bağlı bir durumdur ve yaz turu senaryosunda söz konusu değildir (Temel İlkyardım Bilgisi s.125; Mar26 S.89 cevap anahtarı A).",
+  "hafiza_ipucu": "DEHİDRASYON = yaz güneşinde sıvı kaybı; HİPOTERMİ = kışın soğukta beden ısısı düşmesi. Yaz turunda cevap hep dehidrasyon.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 125
+  },
+  "akraba_cikmis_soru": "Mar26-89 yaz turu-dehidrasyon riski",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-034",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-dehidrasyon",
+  "soru": "Aşırı sıcağa maruz kalan bir kişide susama, kas krampları, hızlı-zayıf nabız, terli-nemli cilt ve baş dönmesi görülüyorsa bu tablo aşağıdakilerden hangisiyle en çok örtüşür?",
+  "siklar": {
+   "A": "Sıcak bitkinliği (sıvı-elektrolit eksikliği)",
+   "B": "Hipotermi",
+   "C": "3. derece yanık",
+   "D": "Sara krizi",
+   "E": "Koma"
+  },
+  "dogru": "A",
+  "cozum": "Sıcak bitkinliği, aşırı sıcağa maruz kalan kişilerde ortaya çıkan sıvı eksikliği durumudur; belirtileri arasında aşırı susama, kas krampları, hızlı-zayıf nabız, terli-nemli cilt, bulantı ve baş dönmesi sayılır (Temel İlkyardım Bilgisi s.125).",
+  "hafiza_ipucu": "Sıcak bitkinliği = dehidrasyonun somut kliniği: ter+kramp+baş dönmesi — gölgeye al, sıvı ver.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 125
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-035",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-dehidrasyon",
+  "soru": "Beden ısısının 35 °C'nin altına düşmesi durumuna ne ad verilir?",
+  "siklar": {
+   "A": "Eritremi",
+   "B": "Donma",
+   "C": "Soğuk ısırığı",
+   "D": "Yanık",
+   "E": "Hipotermi"
+  },
+  "dogru": "E",
+  "cozum": "Beden ısısının 35 °C'nin altına düşmesi hipotermi olarak adlandırılır; dehidrasyonun tam tersine, soğuk ortam ve kış koşullarıyla ilişkilidir (İLK YARDIM konu-arkası s.127).",
+  "hafiza_ipucu": "HİPOTERMİ ⚓: HİPO = düşük, TERM = ısı → düşük beden ısısı, kışın buzunda; dehidrasyon yazın güneşinde.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 127
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-036",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-yanik",
+  "soru": "Bir kamp ateşinde eli yanan turistin yarasına bakan rehber, kömürleşmiş görünümlü bölgede turistin \"acımıyor\" dediğini fark ediyor. Bu durum hangi derece yanığı düşündürür ve en tehlikeli yanık derecesi hangisidir?",
+  "siklar": {
+   "A": "1. derece",
+   "B": "2. derece",
+   "C": "3. derece",
+   "D": "4. derece",
+   "E": "5. derece"
+  },
+  "dogru": "C",
+  "cozum": "3. derece yanık en ciddi yanıktır; derinin tüm tabakaları ile altındaki kas, sinir ve damarlar etkilenir. Sinirler ağır hasar gördüğü için ağrı hissedilemeyebilir; bu, durumun daha da tehlikeli olduğunun işaretidir (Temel İlkyardım Bilgisi s.125; Şub25 S.59/89 cevap: 3. derece).",
+  "hafiza_ipucu": "3'üncü derecede SİNİR de yandı — acı azaldıysa durum EN KÖTÜdür, iyileşme değil!",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 125
+  },
+  "akraba_cikmis_soru": "Şub25-59/89 en tehlikeli yanık derecesi (3.)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-037",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-yanik",
+  "soru": "3. derece yanıklarda, deride ciddi doku hasarına rağmen kişinin ağrıyı daha az hissetmesinin temel nedeni aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kas dokusunun güçlenmesi",
+   "B": "Vücudun endorfin salgılamayı bırakması",
+   "C": "Deri renginin koyulaşması",
+   "D": "Derideki sinir uçlarının da ağır hasar görmüş olması",
+   "E": "Kanın pıhtılaşmış olması"
+  },
+  "dogru": "D",
+  "cozum": "3. derece yanıkta derinin tüm tabakaları ve altındaki sinirler ağır hasar gördüğünden ağrı hissedilemeyebilir; bu durum yanığın hafif değil aksine çok ciddi olduğunun göstergesidir (Temel İlkyardım Bilgisi s.125).",
+  "hafiza_ipucu": "Ağrısız yanık = iyi haber DEĞİL; sinir ölmüşse duyu da ölmüştür.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 125
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-038",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-yanik",
+  "soru": "Alev veya haşlanma sonucu oluşan sınırlı bir yanıkta ilkyardımda uygulanması gereken ilk müdahale aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yanık bölgesine yağ ya da diş macunu sürmek",
+   "B": "Kabarcıkları hemen patlatıp temizlemek",
+   "C": "Yanık bölgesini sıkıca sargıyla bağlamak",
+   "D": "Yanan bölgeye hemen buz uygulamak",
+   "E": "Yanık bölgesini akan tazyiksiz su altında en az 20 dakika tutmak"
+  },
+  "dogru": "E",
+  "cozum": "Aleve ya da haşlanmaya bağlı sınırlı yanıklarda bölge, akan tazyiksiz su altında en az 20 dakika soğutulur; yanık bedenin büyük bölümünü kaplıyorsa şok riski nedeniyle su uygulanmaz (Temel İlkyardım Bilgisi s.126).",
+  "hafiza_ipucu": "Yanığa su: soğut ama BOĞMA (tazyiksiz, 10-20 dk); yağ-macun-buz hep YANLIŞ şıklardır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 126
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-039",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-yanik",
+  "soru": "Yanıklarda ilkyardım uygulamasına aykırı olan davranış aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yaralıya morfin verme",
+   "B": "Yanan elbiseleri çıkarma",
+   "C": "Yaralıya su verme",
+   "D": "Yaraya su ile müdahale etme",
+   "E": "Yaranın üstünü örtme"
+  },
+  "dogru": "A",
+  "cozum": "Morfin gibi ilaç uygulamak, ilaçsız müdahale ilkesine aykırıdır ve sağlık personelinin (acil tedavi) görevidir; ilkyardımcı ağrı kesici veya ilaç uygulamaz (İLK YARDIM konu-arkası s.127).",
+  "hafiza_ipucu": "İlkyardımcı İLAÇSIZ müdahale eder — morfin/ağrı kesici vermek acil tedavinin işidir, ilkyardımın değil.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 127
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-040",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-kanama",
+  "soru": "Tur otobüsünde bir turistin kolunda ciddi bir dış kanama olduğu görülüyor. Rehberin ilk yapması gereken müdahale aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kanayan bölgeye temiz bir bezle doğrudan baskı uygulamak",
+   "B": "Hemen turnike uygulamak",
+   "C": "Kanayan bölgeyi kalp seviyesinin altına indirmek",
+   "D": "Kanayan bölgeye buz uygulamak",
+   "E": "Kanayan bölgeyi hareket ettirmeden bırakmak"
+  },
+  "dogru": "A",
+  "cozum": "Dış kanamalarda ilkyardımda ilk ve en etkin yöntem, kanayan bölgeye temiz bir bezle doğrudan baskı uygulamaktır; durmuyorsa bölge kalp seviyesinden yukarı kaldırılır, sonra en yakın bası noktasına baskı yapılır, en son çare turnikedir (Temel İlkyardım Bilgisi s.66; İLK YARDIM konu-arkası s.77-78).",
+  "hafiza_ipucu": "Kanama sırası: BASKI → YUKARI KALDIR → BASI NOKTASI → (son çare) TURNİKE.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-041",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-kanama",
+  "soru": "Bir turistte doğrudan bası ve bölgeyi yukarı kaldırma yöntemleriyle durdurulamayan ciddi bir kol kanaması olduğunda rehberin uygulaması gereken sıradaki adım aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kanayan kolu tamamen hareketsiz bırakıp beklemek",
+   "B": "Kanayan bölgeye sıcak su dökmek",
+   "C": "Kişiyi yüzüstü çevirmek",
+   "D": "Kanayan bölgeye en yakın bası noktasına (örn. koltuk altı veya pazı üzeri atardamara) baskı uygulamak",
+   "E": "Hemen kişiye şekerli su içirmek"
+  },
+  "dogru": "D",
+  "cozum": "Doğrudan baskı ve yükseltme kanamayı durdurmuyorsa sıradaki adım, kanayan bölgeye en yakın bası noktasına (kolda koltuk altı veya pazı kemiği üzeri atardamar) baskı uygulamaktır; bu da yetersiz kalırsa turnikeye geçilir (Temel İlkyardım Bilgisi s.66).",
+  "hafiza_ipucu": "Bası noktaları: kol kanamasında koltuk altı/pazı üzeri, bacak kanamasında kasık arteri, baş kanamasında tek taraflı şah damarı.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-042",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-kanama",
+  "soru": "Turnike uygulamasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Turnike, kanama durdurma yöntemlerinin ilk tercihidir.",
+   "B": "Turnike çift kemikli bölgelere (önkol, baldır) uygulanmalıdır.",
+   "C": "Turnike son çaredir; kol ve uyluk gibi tek kemikli bölgelere uygulanır ve uygulama saati mutlaka not edilir.",
+   "D": "Turnike uygulandıktan sonra asla gevşetilmemelidir.",
+   "E": "Turnike en az 2 saat sonra ilk kez sıkılmalıdır."
+  },
+  "dogru": "C",
+  "cozum": "Turnike, diğer yöntemlerle (baskı, yükseltme, bası noktası) durmayan kanamalarda başvurulan SON çaredir; damarı kemiğe karşı sıkıştırabilmek için tek kemikli bölgelere (kol, uyluk) uygulanır ve uygulama saati mutlaka yazılıp yaralının üzerine iliştirilir; toplamda 2 saati geçmemeli, 15-20 dakikada bir kısa süreliğine gevşetilmelidir (Temel İlkyardım Bilgisi s.67-68).",
+  "hafiza_ipucu": "Turnike = SON çare, TEK kemikli bölgeye, saatini not et (kâğıt yoksa alnına kanla \"T\" yazılır!).",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "IYD-043",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-kanama",
+  "soru": "Bacak bölgesindeki ciddi bir atardamar kanamasında, doğrudan baskı yeterli olmazsa baskı uygulanması gereken en yakın bası noktası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Köprücük kemiği üzeri",
+   "B": "Boyun şah damarı",
+   "C": "El bileği",
+   "D": "Şakak bölgesi",
+   "E": "Kasık (bacak atardamarı) bölgesi"
+  },
+  "dogru": "E",
+  "cozum": "Bacak bölgesi kanamalarında en yakın bası noktası kasık (bacak atardamarı) üzeridir; boyun için şah damarı, kol üstü için koltuk altı/köprücük kemiği üzeri, dirsek altı için pazı kemiği üzeri kullanılır (Temel İlkyardım Bilgisi s.66).",
+  "hafiza_ipucu": "Bası noktası bölgeye göre değişir: baş→şah damarı, kol→koltuk altı/pazı, bacak→kasık.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-044",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-burun-kanamasi",
+  "soru": "Bir turistte sıcak havada burun kanaması başlıyor. Rehberin doğru ilkyardım uygulaması aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Baş, arkaya doğru çekilir.",
+   "B": "Buruna çok sıkı bir tampon yerleştirilir.",
+   "C": "Hasta düz bir yere yatırılır.",
+   "D": "Hastanın ensesine buz uygulanır.",
+   "E": "Baş öne eğilerek 5 dakika burun kanatlarına baskı uygulanır."
+  },
+  "dogru": "E",
+  "cozum": "Burun kanamasında baş öne eğilir ve burun kanatlarına yaklaşık 5 dakika süreyle baskı uygulanır; başın geriye çekilmesi kanın mideye/soluk borusuna kaçmasına yol açabileceğinden yanlıştır (İLK YARDIM konu-arkası s.77-78).",
+  "hafiza_ipucu": "Kan MİDEYE/soluk borusuna akmasın diye baş ÖNE eğilir — geriye çekmek klasik yanlış şıktır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 78
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-045",
+  "konu": "ilk-yardim",
+  "alt_konu": "senaryo-zehirlenme",
+  "soru": "Bir turun üyelerinden biri şüpheli bir madde tükettikten sonra bilincini kaybediyor. Rehberin kesinlikle YAPMAMASI gereken uygulama aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "112 acil servisi aratmak",
+   "B": "Kişiyi kusturmaya çalışmak",
+   "C": "Yaşam bulgularını (ABC) kontrol etmek",
+   "D": "Solunum yoksa temel yaşam desteğine geçmek",
+   "E": "Kişiyi yalnız bırakmamak"
+  },
+  "dogru": "B",
+  "cozum": "Bilinci kapalı bir kişide kusturma girişimi, kusmuğun solunum yoluna kaçarak boğulmaya (aspirasyona) yol açabileceğinden kesinlikle yapılmamalıdır; kimyasal/toksik madde alımında da vakit kaybetmeden sağlık kuruluşuna sevk öncesi kusturma yaptırılmaz (Temel İlkyardım Bilgisi s.149-150).",
+  "hafiza_ipucu": "Bilinç kapalıysa KUSTURMA YASAK — kusmuk soluk borusuna kaçıp boğar.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 149
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "IYD-046",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Kanaması olan, nabzı hızlı, derisi soluk ve solgun bir kişiye hangi pozisyon verilmelidir?",
+  "siklar": {
+   "A": "Yarı oturur pozisyon",
+   "B": "Şok pozisyonu",
+   "C": "Koma pozisyonu",
+   "D": "Yüzüstü pozisyon",
+   "E": "Sırtüstü pozisyon"
+  },
+  "dogru": "B",
+  "cozum": "Şok belirtisi gösteren (nabız hızlı, deri soğuk-solgun) bir kişiye şok pozisyonu verilir: kişi sırtüstü yatırılır, ayakları yerden 30 cm yukarı kaldırılır ve üzeri örtülür (Temel İlkyardım Bilgisi s.98; İLK YARDIM konu-arkası s.78).",
+  "hafiza_ipucu": "Şok pozisyonu: sırtüstü + ayaklar 30 cm YUKARI — beyne giden kan akımını artırır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 98
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-047",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Kalp krizi geçirmekte olan bir turiste verilecek pozisyon aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yarı oturur pozisyon",
+   "B": "Şok pozisyonu",
+   "C": "Koma pozisyonu",
+   "D": "Yüzüstü pozisyon",
+   "E": "Sırtüstü pozisyon"
+  },
+  "dogru": "A",
+  "cozum": "Göğüs bölgesinde sıkıntı olan, kalp krizi geçiren bir kişiye yarı oturur pozisyon verilir; bu pozisyon kalbin ve akciğerlerin yükünü hafifletir (Temel İlkyardım Bilgisi s.98; İLK YARDIM konu-arkası s.111).",
+  "hafiza_ipucu": "Kalp/göğüs sıkıntısı → YARI OTURUR; şok → sırtüstü+ayak yukarı; ikisini karıştırma.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 98
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-048",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Göğüs bölgesinde delici bir yaralanma geçiren turiste verilmesi uygun olan pozisyon aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Koma",
+   "B": "Şok",
+   "C": "Rentek",
+   "D": "Yüzüstü",
+   "E": "Yarı oturur"
+  },
+  "dogru": "E",
+  "cozum": "Göğüs yaralanmalarında solunumu kolaylaştırmak amacıyla yarı oturur pozisyon verilir (İLK YARDIM konu-arkası s.77-78).",
+  "hafiza_ipucu": "Göğüs/solunum sıkıntısı olan her senaryoda ilk akla gelecek pozisyon: YARI OTURUR.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 78
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-049",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Olay yerinde birden fazla yaralı olduğunda, hangi hastaya öncelikli müdahale edileceğinin ya da hangisinin öncelikli taşınacağının belirlenmesine ne ad verilir?",
+  "siklar": {
+   "A": "Heimlich",
+   "B": "Hematom",
+   "C": "Yaşam zinciri",
+   "D": "Triaj",
+   "E": "Rentek"
+  },
+  "dogru": "D",
+  "cozum": "Triaj, birden fazla yaralı olan olay yerlerinde önceliklerin belirlenmesi işlemidir; ciddi kanaması olan, geniş yanığı olan, bilinç düzeyi hızla gerileyen, şoka giren yaralılar öncelikli gruptadır (Temel İlkyardım Bilgisi s.171).",
+  "hafiza_ipucu": "TRİAJ = ayıklama/sıralama — kim önce, kim sonra müdahale edilecek kararını verir.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 171
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-050",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Müdahale ve nakilde en yüksek öncelikli olan grubu triajda hangi renk temsil eder?",
+  "siklar": {
+   "A": "Sarı",
+   "B": "Yeşil",
+   "C": "Siyah",
+   "D": "Kırmızı",
+   "E": "Mavi"
+  },
+  "dogru": "D",
+  "cozum": "Triajda en yüksek öncelikli, hayati tehlikesi olan yaralı grubu kırmızı renkle temsil edilir (İLK YARDIM konu-arkası s.171).",
+  "hafiza_ipucu": "KIRMIZI = alarm rengi = en acil müdahale önceliği.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 171
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-051",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Kaza yapan bir araç içerisindeki kazazedeyi zarar vermeden dışarı çıkarma tekniğine ne ad verilir?",
+  "siklar": {
+   "A": "Kaşık tekniği",
+   "B": "Rentek manevrası",
+   "C": "Altın beşik",
+   "D": "İtfaiyeci tekniği",
+   "E": "Köprü tekniği"
+  },
+  "dogru": "B",
+  "cozum": "Araç içerisinde bulunan bir kişiyi kişiye zarar vermeden çıkarma tekniğine Rentek manevrası denir; bu bir taşıma tekniğidir, dinlenme pozisyonu değildir (Temel İlkyardım Bilgisi s.169).",
+  "hafiza_ipucu": "Rentek = araçtan çıkarma taşıması — koma pozisyonuyla karıştırılan klasik Mart 2026 çeldiricisi.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 169
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "IYD-052",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Bilinci kapalı bir yaralıyı tek ilkyardımcının, bir elini boşta bırakarak taşıyabildiği, itfaiyecilerin sıklıkla kullandığı taşıma tekniği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Altın beşik tekniği",
+   "B": "Kaşık tekniği",
+   "C": "Köprü tekniği",
+   "D": "Sırtta taşıma tekniği",
+   "E": "Omuzda taşıma (itfaiyeci) tekniği"
+  },
+  "dogru": "E",
+  "cozum": "Omuzda taşıma (itfaiyeci) tekniği, bilinci kapalı yaralılar için tercih edilen, kuvvet gerektiren bir tekniktir; en büyük avantajı taşıma sırasında ilkyardımcının bir elinin boşta kalması (örn. kapı açabilmesi) olmasıdır (Temel İlkyardım Bilgisi s.163).",
+  "hafiza_ipucu": "İtfaiyeci tekniği: yaralı omuza yaslanır, bir el hep BOŞTA — kapı açacak kadar özgür.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 163
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-053",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Omurga zedelenmesi şüphesi olan bir yaralıya, tek bir yönden yaklaşılabildiği durumlarda üç ilkyardımcı tarafından uygulanan, yaralıyı hiç sarsmadan sedyeye yerleştirmeyi sağlayan teknik aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Altın beşik",
+   "B": "Kaşık tekniği",
+   "C": "Kucaklama",
+   "D": "İtfaiyeci tekniği",
+   "E": "Sürükleme"
+  },
+  "dogru": "B",
+  "cozum": "Kaşık tekniği, yaralıya sadece bir taraftan ulaşılabiliyorsa ve omurga zedelenmesi olasılığı varsa üç ilkyardımcı tarafından uygulanır; yaralı hiç sarsılmadan kepçe gibi kaldırılıp sedyeye konur (Temel İlkyardım Bilgisi s.163; İLK YARDIM konu-arkası s.171).",
+  "hafiza_ipucu": "Kaşık tekniği: tek yönden yaklaşım + omurga şüphesi + 3 kişi = kepçe gibi kaldır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 163
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-054",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Aşağıdakilerden hangisi hasta/yaralı taşıma kurallarından biri değildir?",
+  "siklar": {
+   "A": "Hasta/yaralı en az 2 destek noktasından tutulmalı ve taşıma süresince buna uyulmalıdır.",
+   "B": "Kişinin bilinci açıksa kişi sakinleştirilmelidir.",
+   "C": "Kişiye zarar vermeyecek ya da en aza zararı verecek taşıma yöntemi tercih edilmelidir.",
+   "D": "Yavaş ve düzgün adımlarla yürünmeli, adımlar omuzdan daha geniş olmamalıdır.",
+   "E": "Baş her zaman düz tutulmalı; ancak taşıma sırasında hızlı ve sarsıntılı hareket edilmelidir."
+  },
+  "dogru": "E",
+  "cozum": "Taşıma kurallarına göre baş her zaman düz tutulmalı ve hareket homojen, yavaş ve düzgün olmalıdır; hızlı ve sarsıntılı hareket yaralının durumunu kötüleştirir (İLK YARDIM konu-arkası s.171).",
+  "hafiza_ipucu": "Taşımanın altın kuralı: YAVAŞ + DÜZGÜN + SARSMADAN — hız değil güvenlik önceliklidir.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 171
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "IYD-055",
+  "konu": "ilk-yardim",
+  "alt_konu": "pozisyon-tasima",
+  "soru": "Bilinci açık, hafif yaralı ve kendi kendine yürüyebilen bir turiste rehberin, boynuna kolunu doladırarak beline destek verdiği taşıma tekniği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Omuzdan destek verme tekniği",
+   "B": "Kaşık tekniği",
+   "C": "İtfaiyeci tekniği",
+   "D": "Köprü tekniği",
+   "E": "Altın beşik tekniği"
+  },
+  "dogru": "A",
+  "cozum": "Omuzdan destek verme tekniği, bilinci açık ve kendi kendine yürüyebilen hafif yaralılarda uygulanır; ilkyardımcının boynuna yaralının bir kolu dolanır, ilkyardımcı yakın koluyla belden destek verir (Temel İlkyardım Bilgisi s.163).",
+  "hafiza_ipucu": "Bilinç açık + yürüyebiliyor = en hafif taşıma: omuzdan destek, kol boyna dolanır.",
+  "kaynak": {
+   "dosya": "Temel İlkyardım Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 163
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ }
+]

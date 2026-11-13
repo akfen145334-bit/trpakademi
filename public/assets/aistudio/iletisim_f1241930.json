@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "ILT-001",
+  "konu": "iletisim",
+  "alt_konu": "surec-ogeleri",
+  "soru": "İletişim sürecinde bir iletinin izlediği temel öge zinciri aşağıdakilerden hangisinde doğru sıralanmıştır?",
+  "siklar": {
+   "A": "Kaynak – Kanal – Mesaj – Geri bildirim – Alıcı",
+   "B": "Mesaj – Kaynak – Alıcı – Kanal – Geri bildirim",
+   "C": "Kanal – Kaynak – Mesaj – Geri bildirim – Alıcı",
+   "D": "Alıcı – Mesaj – Kanal – Kaynak – Geri bildirim",
+   "E": "Kaynak – Mesaj – Kanal – Alıcı – Geri bildirim"
+  },
+  "dogru": "E",
+  "cozum": "İletişim süreci; kaynağın mesajı kodlayıp kanal aracılığıyla alıcıya ulaştırması ve alıcının geri bildirim vermesiyle tamamlanan bir zincirdir (İletişim Bilgisi s.22).",
+  "hafiza_ipucu": "K-M-K-A-G: \"Kaynak Mesajı Kanaldan Alıcıya Gönderir.\"",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-002",
+  "konu": "iletisim",
+  "alt_konu": "surec-ogeleri",
+  "soru": "İletişim sürecinde iletiyi kodlayarak gönderen taraf, aşağıdaki ögelerden hangisiyle adlandırılır?",
+  "siklar": {
+   "A": "Kanal",
+   "B": "Geri bildirim",
+   "C": "Kaynak",
+   "D": "Kod",
+   "E": "Gürültü"
+  },
+  "dogru": "C",
+  "cozum": "Bir radyo programını sunan kişi örneğinde olduğu gibi, iletiyi üretip gönderen taraf kaynaktır (İletişim Bilgisi s.22).",
+  "hafiza_ipucu": "K-M-K-A-G zincirinin BAŞLANGICI: Kaynak = gönderen.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-003",
+  "konu": "iletisim",
+  "alt_konu": "surec-ogeleri",
+  "soru": "Bir radyo programını dinleyen kişi, iletişim sürecinin hangi ögesini temsil eder?",
+  "siklar": {
+   "A": "Kaynak",
+   "B": "Mesaj",
+   "C": "Kanal",
+   "D": "Kod",
+   "E": "Alıcı"
+  },
+  "dogru": "E",
+  "cozum": "İletiyi alan, kodaçımı yaparak anlayan taraf alıcıdır; radyo örneğinde dinleyen kişi alıcı konumundadır (İletişim Bilgisi s.22).",
+  "hafiza_ipucu": "Zincirin SONUNA bir önceki durak: ...Kanaldan-Alıcıya-Gönderir.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-004",
+  "konu": "iletisim",
+  "alt_konu": "surec-ogeleri",
+  "soru": "İletişimde mesajın taşındığı yola (ses dalgaları, yazı, görüntü vb.) ne ad verilir?",
+  "siklar": {
+   "A": "Gürültü",
+   "B": "Kod",
+   "C": "Geri bildirim",
+   "D": "Kanal",
+   "E": "Bağlam"
+  },
+  "dogru": "D",
+  "cozum": "Radyo örneğinde program sunucusunun sesinin ses dalgalarına dönüştürülmesi kanal ile gerçekleşir; kanal mesajın taşındığı yoldur (İletişim Bilgisi s.22).",
+  "hafiza_ipucu": "KANAL = YOL. Gürültü ise o yoldaki çukurdur, yol değildir.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-005",
+  "konu": "iletisim",
+  "alt_konu": "surec-ogeleri",
+  "soru": "Alıcının, kaynaktan gelen iletiye verdiği yanıt iletişim sürecinde hangi ögeyi oluşturur?",
+  "siklar": {
+   "A": "Kod",
+   "B": "Gürültü",
+   "C": "Kanal",
+   "D": "Bağlam",
+   "E": "Geri bildirim"
+  },
+  "dogru": "E",
+  "cozum": "Geri bildirim, alıcının kaynaktan gelen iletiye verdiği cevap olarak tanımlanır (İletişim Bilgisi s.20).",
+  "hafiza_ipucu": "Zincirin son halkası: ...Alıcıya-Gönderir → Alıcı da GERİ BİLDİRİR.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-006",
+  "konu": "iletisim",
+  "alt_konu": "gurultu-genel",
+  "soru": "İletişim sürecinde gönderilen iletilerin bozulmasına ve alıcı tarafından yanlış anlaşılmasına yol açan her türlü etken aşağıdakilerden hangisiyle adlandırılır?",
+  "siklar": {
+   "A": "Referans çerçevesi",
+   "B": "Kod",
+   "C": "Bağlam",
+   "D": "Kanal",
+   "E": "Gürültü"
+  },
+  "dogru": "E",
+  "cozum": "Gürültü, iletişim sistemini etkileyen ve iletileri bozan; alıcının mesajı yanlış anlamasına neden olan durumdur (Etkili İletişim Teknikleri s.55).",
+  "hafiza_ipucu": "Telsizle konuşan iki rehber; araya giren cızırtı GÜRÜLTÜdür, mesajı bozar.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 55
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-007",
+  "konu": "iletisim",
+  "alt_konu": "gurultu-turleri",
+  "soru": "İletişim Bilgisi kaynağına göre gürültü, aşağıdaki dört tip altında incelenir. Bu dört tip hangi seçenekte eksiksiz verilmiştir?",
+  "siklar": {
+   "A": "Fizyolojik – Sosyolojik – Kültürel – Anlamsal",
+   "B": "Fiziksel – Mekânsal – Psikolojik – Anlamsal",
+   "C": "Fiziksel – Fizyolojik – Psikolojik – Anlamsal (Semantik)",
+   "D": "Fiziksel – Fizyolojik – Zamansal – Kültürel",
+   "E": "Psikolojik – Anlamsal – Mekânsal – Zamansal"
+  },
+  "dogru": "C",
+  "cozum": "Kaynağa göre gürültünün özellikle uygun görülen dört tipi fiziksel, fizyolojik, psikolojik ve anlamsal (semantik) gürültüdür (İletişim Bilgisi s.83).",
+  "hafiza_ipucu": "4 GÜRÜLTÜ: Fiziksel (dış), Fizyolojik (bedenden), Psikolojik (zihinden), Semantik (dilden).",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-90",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-008",
+  "konu": "iletisim",
+  "alt_konu": "gurultu-fiziksel",
+  "soru": "Bir rehberin turistlere sesini duyuramaması yüksek müzik sesinden kaynaklanıyorsa, bu durum iletişim sürecinin hangi ögesine örnektir?",
+  "siklar": {
+   "A": "Kanal",
+   "B": "Fiziksel gürültü",
+   "C": "Geri bildirim",
+   "D": "Kod",
+   "E": "Bağlam"
+  },
+  "dogru": "B",
+  "cozum": "Yüksek ses, güneş gözlüğü, okunaksız yazı gibi dış ortam kaynaklı bozucu etkenler fiziksel gürültü örnekleridir (İletişim Bilgisi s.83).",
+  "hafiza_ipucu": "GÜRÜLTÜ = çukur; KANAL = yol. Müzik sesi çukurdur, yol değil.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-90",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-009",
+  "konu": "iletisim",
+  "alt_konu": "gurultu-fizyolojik",
+  "soru": "Grup üyelerinden birinin işitme kaybı yaşaması nedeniyle rehberin anlattıklarını tam kavrayamaması hangi gürültü türüne örnektir?",
+  "siklar": {
+   "A": "Anlamsal gürültü",
+   "B": "Psikolojik gürültü",
+   "C": "Fiziksel gürültü",
+   "D": "Fizyolojik gürültü",
+   "E": "Mekânsal gürültü"
+  },
+  "dogru": "D",
+  "cozum": "Görme engeli, işitme kaybı, konuşma problemi ya da hafıza kaybı gibi bedensel kaynaklı engeller fizyolojik gürültü kapsamındadır (İletişim Bilgisi s.83).",
+  "hafiza_ipucu": "FİZYOLOJİK = beden organının kendisinden kaynaklanan engel (göz, kulak).",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-010",
+  "konu": "iletisim",
+  "alt_konu": "gurultu-psikolojik",
+  "soru": "Bir turistin, rehberin anlattığı bilgiyi önceden edindiği bir önyargı nedeniyle çarpıtarak algılaması hangi gürültü türüne girer?",
+  "siklar": {
+   "A": "Fizyolojik gürültü",
+   "B": "Fiziksel gürültü",
+   "C": "Anlamsal gürültü",
+   "D": "Psikolojik gürültü",
+   "E": "Kanal bozukluğu"
+  },
+  "dogru": "D",
+  "cozum": "Önyargılar, peşin hükümler ve dar görüşlülük gibi zihinsel engeller psikolojik gürültü olarak adlandırılır (Etkili İletişim Teknikleri s.55-56; İletişim Bilgisi s.83).",
+  "hafiza_ipucu": "PSİKOLOJİK = kafanın içindeki çukur (önyargı).",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 55
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-011",
+  "konu": "iletisim",
+  "alt_konu": "gurultu-anlamsal",
+  "soru": "Bir rehberin, turist grubuna çok teknik arkeoloji terimleriyle konuşması sonucu grubun anlatılanı kavrayamaması hangi gürültü türüne örnektir?",
+  "siklar": {
+   "A": "Fiziksel gürültü",
+   "B": "Fizyolojik gürültü",
+   "C": "Psikolojik gürültü",
+   "D": "Mekânsal gürültü",
+   "E": "Anlamsal (semantik) gürültü"
+  },
+  "dogru": "E",
+  "cozum": "Kaynağın çok teknik bir dil kullanması sonucu alıcının anlayamaması anlamsal (semantik) gürültüye örnektir (Etkili İletişim Teknikleri s.56).",
+  "hafiza_ipucu": "ANLAMSAL = dil farkı çukuru; jargon, karmaşık terim.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 56
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-012",
+  "konu": "iletisim",
+  "alt_konu": "gurultu-turleri",
+  "soru": "Aşağıdakilerden hangisi İletişim Bilgisi kaynağına göre gürültü tiplerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Fizyolojik gürültü",
+   "B": "Anlamsal gürültü",
+   "C": "Mekânsal gürültü",
+   "D": "Psikolojik gürültü",
+   "E": "Fiziksel gürültü"
+  },
+  "dogru": "C",
+  "cozum": "Kaynakta gürültü fiziksel, fizyolojik, psikolojik ve anlamsal olmak üzere dört tip altında incelenir; \"mekânsal gürültü\" bu sınıflandırmada yer almayan uydurma bir terimdir (İletişim Bilgisi s.83, s.102).",
+  "hafiza_ipucu": "4 gürültü var: Fi-Fi-Psi-An. \"Mekânsal\" listede yok — çeldirici uydurma.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 102
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ILT-013",
+  "konu": "iletisim",
+  "alt_konu": "gurultu-vs-kanal",
+  "soru": "Turlarda kullanılan kulaklıklı ses sistemi bozulup cızırtı yapmaya başladığında, bu cızırtının kendisi hangi ögeyi; kulaklık sisteminin kendisi ise hangi ögeyi temsil eder?",
+  "siklar": {
+   "A": "Cızırtı: geri bildirim / Sistem: kod",
+   "B": "Cızırtı: gürültü / Sistem: kanal",
+   "C": "Cızırtı: kanal / Sistem: gürültü",
+   "D": "Cızırtı: mesaj / Sistem: kaynak",
+   "E": "Cızırtı: kaynak / Sistem: alıcı"
+  },
+  "dogru": "B",
+  "cozum": "Ses sistemi mesajın taşındığı yol olduğu için kanaldır; sistemdeki cızırtı ise iletiyi bozan fiziksel gürültüdür (İletişim Bilgisi s.83).",
+  "hafiza_ipucu": "KANAL = yol, GÜRÜLTÜ = yoldaki çukur; ikisini karıştırma.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-90",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-014",
+  "konu": "iletisim",
+  "alt_konu": "iletisim-turleri",
+  "soru": "Aşağıdakilerden hangisi temel iletişim türlerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Sözlü iletişim",
+   "B": "Yazılı iletişim",
+   "C": "Sözsüz iletişim",
+   "D": "Zamansal iletişim",
+   "E": "Kitle iletişimi"
+  },
+  "dogru": "D",
+  "cozum": "İletişim türleri sözlü, yazılı, sözsüz, görsel ve kitle iletişimi olarak sınıflandırılır; \"zamansal iletişim\" bu sınıflandırmada bir tür değil, iletişim bağlamının bir boyutudur (Etkili İletişim Teknikleri s.67).",
+  "hafiza_ipucu": "5 tür: Sözlü-Yazılı-Sözsüz-Görsel-Kitle. Zamansal bir TÜR değil, bağlam BOYUTUdur.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-015",
+  "konu": "iletisim",
+  "alt_konu": "kitle-iletisimi",
+  "soru": "Bir kaynağın aynı anda çok sayıda, birbirini tanımayan alıcıya (radyo, gazete gibi araçlarla) ulaştığı iletişim türüne ne ad verilir?",
+  "siklar": {
+   "A": "Kitle iletişimi",
+   "B": "Bireylerarası iletişim",
+   "C": "Örgütsel iletişim",
+   "D": "Sözsüz iletişim",
+   "E": "Kültürlerarası iletişim"
+  },
+  "dogru": "A",
+  "cozum": "Medya araçlarıyla geniş kitlelere aynı anda ulaşılan iletişim biçimi kitle iletişimidir; kitle iletişiminde yansıma (geri bildirim) genellikle gecikmelidir (Etkili İletişim Teknikleri s.49, s.55).",
+  "hafiza_ipucu": "Kitle = çoğa aynı anda; geri bildirimi GECİKMELİ gelir (mektup gibi).",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 49
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-016",
+  "konu": "iletisim",
+  "alt_konu": "sozsuz-iletisim-tanim",
+  "soru": "Bir kişinin duygu ve düşüncelerini sözcük kullanmadan, beden dilini aktif biçimde kullanarak karşısındakine iletmesi hangi iletişim türü kapsamında değerlendirilir?",
+  "siklar": {
+   "A": "Yazılı iletişim",
+   "B": "Sözsüz iletişim",
+   "C": "Kitle iletişimi",
+   "D": "Örgütsel iletişim",
+   "E": "Sözlü iletişim"
+  },
+  "dogru": "B",
+  "cozum": "Beden dilinin aktif kullanımı sözsüz iletişimdir; kişi duygu ve düşüncelerini en çok mimikleriyle dışa vurur (Etkili İletişim Teknikleri s.18).",
+  "hafiza_ipucu": "BEDEN DİLİ = SÖZSÜZ İLETİŞİM'in şemsiye adı.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-24",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-017",
+  "konu": "iletisim",
+  "alt_konu": "jest",
+  "soru": "El ve kol hareketleriyle yapılan sözsüz iletişim ögesine ne ad verilir?",
+  "siklar": {
+   "A": "Mimik",
+   "B": "Duruş",
+   "C": "Ton",
+   "D": "Proksemi",
+   "E": "Jest"
+  },
+  "dogru": "E",
+  "cozum": "Jest, el-kol hareketleriyle yapılan sözsüz iletişim ögesidir; yüz hareketleri ise mimik olarak adlandırılır (İletişim Bilgisi s.90-91).",
+  "hafiza_ipucu": "JEST = KOL-İSTİ (kolda), MİMİK = YÜZ-İK (yüzde).",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-93",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-018",
+  "konu": "iletisim",
+  "alt_konu": "mimik",
+  "soru": "Bir kişinin sevinç, öfke ya da şaşkınlık gibi duygularını yüz hareketleriyle dışa vurmasına ne ad verilir?",
+  "siklar": {
+   "A": "Proksemi",
+   "B": "Jest",
+   "C": "Mimik",
+   "D": "Paralanguage",
+   "E": "Duruş"
+  },
+  "dogru": "C",
+  "cozum": "İnsan yüzü duyguların ifadesinde en temel araçtır; yüz hareketleriyle yapılan sözsüz iletişim mimik olarak adlandırılır (İletişim Bilgisi s.90).",
+  "hafiza_ipucu": "MİMİK = YÜZ-İK: yüzün kendisi.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-019",
+  "konu": "iletisim",
+  "alt_konu": "mimik-organlari",
+  "soru": "Mimikle ilgili organlar aşağıdaki seçeneklerin hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Göz – Ağız – Kaş",
+   "B": "El – Kol – Parmak",
+   "C": "Ayak – Bacak – Omuz",
+   "D": "Göz – El – Kaş",
+   "E": "Ağız – Kol – Kulak"
+  },
+  "dogru": "A",
+  "cozum": "Mimik yüzde gerçekleşir; kaşların dikey çizgisi, göz çevresi kasları ve ağız gibi organlar duyguları ifade eder (Etkili İletişim Teknikleri s.18, s.76-87 dolayları).",
+  "hafiza_ipucu": "Yüzde konuşan üç organ: GÖZ kırpar, AĞIZ güler, KAŞ çatılır — el/ayak bunlara dahil değil.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025-89",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-020",
+  "konu": "iletisim",
+  "alt_konu": "jest-vs-mimik",
+  "soru": "Bir rehberin, gidilecek yönü elini kaldırarak göstermesi sözsüz iletişimin hangi ögesine örnektir?",
+  "siklar": {
+   "A": "Proksemi",
+   "B": "Ses tonu",
+   "C": "Duruş",
+   "D": "Jest",
+   "E": "Mimik"
+  },
+  "dogru": "D",
+  "cozum": "El ve kol hareketiyle yön gösterme jesttir; yüzle ilgili olsaydı mimik olarak değerlendirilirdi (İletişim Bilgisi s.90-91).",
+  "hafiza_ipucu": "JEST = KOL-İSTİ: yön gösteren el, kol hareketidir.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-93",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-021",
+  "konu": "iletisim",
+  "alt_konu": "jest-vs-mimik",
+  "soru": "Bir turistin anlattığı fıkraya rehberin kaşlarını kaldırıp gülümsemesi sözsüz iletişimin hangi ögesine örnektir?",
+  "siklar": {
+   "A": "Jest",
+   "B": "Mimik",
+   "C": "Proksemi",
+   "D": "Kıyafet",
+   "E": "Duruş"
+  },
+  "dogru": "B",
+  "cozum": "Kaş kaldırma ve gülümseme yüzde gerçekleştiği için mimik kapsamındadır; el-kol hareketi değildir (İletişim Bilgisi s.90).",
+  "hafiza_ipucu": "MİMİK = YÜZ-İK: kaş, göz, ağız = hep yüz.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025-89",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-022",
+  "konu": "iletisim",
+  "alt_konu": "jest-kategorileri",
+  "soru": "İletişim Bilgisi kaynağına göre jestler ve vücut hareketleri, konuşma ile aynı anda gerçekleşip diğer kişinin konuşmaya devam etmesi için başla/gözle işaret verilmesini sağlayan hangi kategoriye girer?",
+  "siklar": {
+   "A": "İşaretler (emblems)",
+   "B": "Tasvir ediciler",
+   "C": "Uyarlayıcılar",
+   "D": "Duygu göstergeleri",
+   "E": "Düzenleyiciler"
+  },
+  "dogru": "E",
+  "cozum": "Jestler; işaretler, tasvir ediciler, düzenleyiciler ve uyarlayıcılar olmak üzere dört kategoride incelenir. Düzenleyiciler, konuşma ile eş zamanlı olup söz sırasını yönetmeye yarayan (bakış, baş hareketi gibi) kasıtsız işaretlerdir (İletişim Bilgisi s.90-91).",
+  "hafiza_ipucu": "DÜZENLEYİCİ = trafik polisi gibi konuşmanın trafiğini yönetir (sıra sende/bekle).",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ILT-023",
+  "konu": "iletisim",
+  "alt_konu": "goz-islevleri",
+  "soru": "Sözsüz iletişimde gözlerin işlevleri arasında aşağıdakilerden hangisi YER ALMAZ?",
+  "siklar": {
+   "A": "Dikkat işlevi",
+   "B": "İkna edici işlev",
+   "C": "Boğumlanma (telaffuz) işlevi",
+   "D": "Güç işlevi",
+   "E": "İzlenim yönetimi işlevi"
+  },
+  "dogru": "C",
+  "cozum": "Gözlerin sözsüz iletişimdeki işlevleri arasında dikkat, ikna edici işlev, içtenlik, düzenleyici işlev, etkileme, güç ve izlenim yönetimi sayılır. Boğumlanma (telaffuz) ise sesle ilgili bir kavramdır, gözle ilgili değildir (Etkili İletişim Teknikleri s.207).",
+  "hafiza_ipucu": "Göz 7 iş yapar (dikkat-ikna-içtenlik-düzen-etki-güç-izlenim); telaffuz AĞIZ işidir, göz değil.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 207
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-024",
+  "konu": "iletisim",
+  "alt_konu": "goz-hareketleri",
+  "soru": "Aşağıdakilerden hangisi sözsüz iletişimde bir göz hareketi türü DEĞİLDİR?",
+  "siklar": {
+   "A": "Kaşları çatarak konuşmayı kesmek",
+   "B": "Göz teması",
+   "C": "Kaşları kaldırmak",
+   "D": "Gözleri kaçırmak",
+   "E": "Zemine/yukarı bakmak"
+  },
+  "dogru": "A",
+  "cozum": "Göz hareketi türleri arasında göz teması, kaşları kaldırmak, zemine/yukarı bakmak, gözleri kaçırmak, döndürülen gözler ve kapalı gözler sayılır. \"Kaşları çatarak konuşmayı kesmek\" ise düzenleyici bir jest/mimik davranışıdır, listelenen göz hareketi türlerinden biri değildir (Etkili İletişim Teknikleri s.207).",
+  "hafiza_ipucu": "Göz hareketleri: teması-kaldırma-bakma-kaçırma-döndürme-kapama; \"çatma\" listede yok.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 207
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-025",
+  "konu": "iletisim",
+  "alt_konu": "yuz-ifadesi-kontrolu",
+  "soru": "Bir kişinin, yarışta kaybettiği için üzülmesine karşın bunu açıkça göstermeyip kazananı gülümseyerek tebrik etmesi, yüz ifadesi kontrol uygulamalarından hangisine örnektir?",
+  "siklar": {
+   "A": "Kuvvetlendirme",
+   "B": "Tepki sergilememe",
+   "C": "Yerine geçme",
+   "D": "Maskeleme",
+   "E": "Vurgulama"
+  },
+  "dogru": "D",
+  "cozum": "Maskeleme, gerçek duyguyu bastırıp yerine duruma uygun kabul edilebilir bir ifade koyma uygulamasıdır (İletişim Bilgisi s.90).",
+  "hafiza_ipucu": "MASKE = gerçek yüzü gizler, yerine başka ifade takar.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ILT-026",
+  "konu": "iletisim",
+  "alt_konu": "mahrem-mesafe",
+  "soru": "Proksemi (mesafe) sınıflandırmasında bir kişiye EN YAKIN olan mesafe türü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sosyal mesafe",
+   "B": "Mahrem mesafe",
+   "C": "Genel/kamusal mesafe",
+   "D": "Kişisel mesafe",
+   "E": "Öznel mesafe"
+  },
+  "dogru": "B",
+  "cozum": "Kişisel mesafenin sınırları mahrem alandan kamusal alana doğru genişler; en yakın bölge mahrem (içli-dışlı) mesafedir (İletişim Bilgisi s.184; Etkili İletişim Teknikleri s.209).",
+  "hafiza_ipucu": "MaKiSoGe merdiveni: Mahrem-Kişisel-Sosyal-Genel. En yakın basamak = MAHREM.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 184
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025-97 / MKS Mart 2026-96",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-027",
+  "konu": "iletisim",
+  "alt_konu": "mesafe-siralamasi",
+  "soru": "Proksemi mesafeleri, en yakından en uzağa doğru aşağıdaki seçeneklerin hangisinde doğru sıralanmıştır?",
+  "siklar": {
+   "A": "Kişisel – Mahrem – Sosyal – Genel",
+   "B": "Sosyal – Kişisel – Mahrem – Genel",
+   "C": "Genel – Sosyal – Kişisel – Mahrem",
+   "D": "Mahrem – Sosyal – Kişisel – Genel",
+   "E": "Mahrem – Kişisel – Sosyal – Genel/Kamusal"
+  },
+  "dogru": "E",
+  "cozum": "Edward T. Hall'ün sınıflandırmasına göre kişisel mesafe, en yakın mahrem alandan başlayıp kişisel, sosyal ve genel (kamusal) alana doğru genişler (İletişim Bilgisi s.91-92, s.184).",
+  "hafiza_ipucu": "MaKiSoGe: sarılma (mahrem) → tokalaşma (kişisel) → masa arası (sosyal) → kürsü (genel).",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 92
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025-97 / MKS Mart 2026-96",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-028",
+  "konu": "iletisim",
+  "alt_konu": "mahrem-mesafe-araligi",
+  "soru": "Etkili İletişim Teknikleri kaynağına göre \"içli-dışlı (mahrem)\" mesafenin yaklaşık aralığı nedir?",
+  "siklar": {
+   "A": "1-2 metre",
+   "B": "120-350 cm",
+   "C": "35-40 cm",
+   "D": "250 cm ve üzeri",
+   "E": "45-50 cm"
+  },
+  "dogru": "C",
+  "cozum": "İçli-dışlı (mahrem/intimate) mesafe, gövdeden itibaren yaklaşık 35-40 cm çapında bir alan olarak tanımlanır; sadece çok yakın kişilere izin verilen alandır (Etkili İletişim Teknikleri s.209).",
+  "hafiza_ipucu": "Sarılma mesafesi: kucaklaşmak için kaç cm gerekir? Neredeyse temas: 35-40 cm.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 209
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-029",
+  "konu": "iletisim",
+  "alt_konu": "kisisel-mesafe-araligi",
+  "soru": "İletişim Bilgisi kaynağına göre \"kişisel alan\" mesafesi yaklaşık hangi aralıktadır?",
+  "siklar": {
+   "A": "45-50 cm ile 120 cm arası",
+   "B": "0-35 cm arası",
+   "C": "120-350 cm arası",
+   "D": "250 cm ve üzeri",
+   "E": "1 metre sabit"
+  },
+  "dogru": "A",
+  "cozum": "Kişisel alan, gövdeden 45-50 cm'den başlayıp 120 cm'ye kadar çıkan aralıktır; iş yerlerinde ve davetlerde birbirini tanıyanlar bu mesafede durur (İletişim Bilgisi s.92).",
+  "hafiza_ipucu": "MaKiSoGe'nin 2. basamağı: tokalaşma mesafesi, yaklaşık kol boyu.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 92
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-030",
+  "konu": "iletisim",
+  "alt_konu": "sosyal-mesafe-araligi",
+  "soru": "Gişe görevlisi ile halk arasında ya da öğretmen ile öğrenci velisi arasındaki konuşma mesafesi genellikle hangi proksemi kategorisine girer ve yaklaşık aralığı nedir?",
+  "siklar": {
+   "A": "Mahrem mesafe, 0-35 cm",
+   "B": "Kişisel mesafe, 45-120 cm",
+   "C": "Genel mesafe, 250 cm üzeri",
+   "D": "Sosyal mesafe, 120-350 cm",
+   "E": "Kamusal mesafe, 350 cm üzeri"
+  },
+  "dogru": "D",
+  "cozum": "Sosyal alan 120-350 cm arasındaki mesafedir; gişe-banko görevlisi ile halk, öğretmen ile veli arasındaki iletişim bu mesafede gerçekleşir (İletişim Bilgisi s.92).",
+  "hafiza_ipucu": "MaKiSoGe'nin 3. basamağı: masa arası mesafe, resmî ama yakın.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 92
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-031",
+  "konu": "iletisim",
+  "alt_konu": "genel-mesafe-araligi",
+  "soru": "Otobüs durakları, tren istasyonları ve otel lobileri gibi birbirini tanımayan insanların bulunduğu ortamlarda araya konan en az mesafe hangi proksemi kategorisine girer?",
+  "siklar": {
+   "A": "Mahrem mesafe",
+   "B": "Kamusal (genel) mesafe",
+   "C": "Kişisel mesafe",
+   "D": "Yakın sosyal mesafe",
+   "E": "Öznel mesafe"
+  },
+  "dogru": "B",
+  "cozum": "Kamusal (genel) alan, birbirini tanımayan insanların bulunduğu mekânlarda geçerli olan, en az 2,5 metrelik mesafedir (İletişim Bilgisi s.92).",
+  "hafiza_ipucu": "MaKiSoGe'nin son basamağı: kürsüden seyirciye mesafe, en uzak.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 92
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-032",
+  "konu": "iletisim",
+  "alt_konu": "goz-temasi-mahremiyet",
+  "soru": "Etkili İletişim Teknikleri kaynağına göre, bir kişiyle aşırı yoğun göz teması kurmak neyi ifade edebilir?",
+  "siklar": {
+   "A": "Kesinlikle güven duygusunu",
+   "B": "Yakınlık ve mahremiyet ihlalini",
+   "C": "Sadece dikkatsizliği",
+   "D": "Semantik gürültüyü",
+   "E": "Kanal bozukluğunu"
+  },
+  "dogru": "B",
+  "cozum": "Mahremiyet ile göz teması arasında bir ilişki vardır; fazla göz teması yakınlık ve mahremiyet ihlalini ifade edebilir, bu da rahatsızlık yaratabilir (Etkili İletişim Teknikleri s.207).",
+  "hafiza_ipucu": "Çok bakmak = mesafeyi (mahremi) ihlal etmek gibi hissettirir.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 207
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ILT-033",
+  "konu": "iletisim",
+  "alt_konu": "ses-tonu",
+  "soru": "Aşağıdakilerden hangisi beden dilinin/sözsüz iletişimin ögelerinden biridir?",
+  "siklar": {
+   "A": "Sözcüklerin anlamı",
+   "B": "Yazım kuralları",
+   "C": "Ses tonu",
+   "D": "Dilbilgisi",
+   "E": "Kelime seçimi"
+  },
+  "dogru": "C",
+  "cozum": "Doğru anlamak için beden duruşu, mimikler, mesafe ve bedensel temasın yanı sıra ses tonu ve konuşmanın akıcılığı da önemlidir; ses tonu sözsüz iletişimin bir ögesidir (Etkili İletişim Teknikleri s.18).",
+  "hafiza_ipucu": "Sözler DEĞİL, nasıl söylendiği (ton) = sözsüz iletişim.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-034",
+  "konu": "iletisim",
+  "alt_konu": "beden-durusu",
+  "soru": "Alıcının, kaynağın iletisini doğru anlayabilmesi için önem taşıyan ve kaynağın omuz-gövde pozisyonuyla ilgili sözsüz öge aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Beden duruşu",
+   "B": "Kod",
+   "C": "Kanal",
+   "D": "Geri bildirim",
+   "E": "Bağlam"
+  },
+  "dogru": "A",
+  "cozum": "Alıcı, kaynağın bedenini doğru anlamak için beden duruşunu okumaya çalışır; beden duruşu, gönderilen iletinin anlaşılmasında önemli bir sözsüz iletişim ögesidir (Etkili İletişim Teknikleri s.18).",
+  "hafiza_ipucu": "Duruş = bedenin \"sessiz\" konuşması.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-035",
+  "konu": "iletisim",
+  "alt_konu": "mekan-kullanimi",
+  "soru": "Restoranlar ve çalışma ofisleri gibi odalar/eşyalar düzeyinde ele alınan çevre türü, sözsüz iletişim kaynağına göre nasıl adlandırılır?",
+  "siklar": {
+   "A": "Makro çevre",
+   "B": "Kültürel bağlam",
+   "C": "Kamusal alan",
+   "D": "Mikro çevre",
+   "E": "Sosyal alan"
+  },
+  "dogru": "D",
+  "cozum": "Çevre, makro ve mikro olmak üzere ikiye ayrılır; makro çevre mevsim/kıta/kent gibi geniş ölçekleri, mikro çevre ise restoran ve ofis gibi oda ölçekli mekânları kapsar (Etkili İletişim Teknikleri s.208).",
+  "hafiza_ipucu": "MİKRO = küçük oda; MAKRO = koca kıta.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 208
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-036",
+  "konu": "iletisim",
+  "alt_konu": "yansitma-teknigi",
+  "soru": "Bir dinleyicinin, karşısındakinin söylediği soruyu veya ifade ettiği duyguyu kendi cümleleriyle tekrarlayarak yanıta başlaması hangi iletişim tekniğine örnektir?",
+  "siklar": {
+   "A": "İkna",
+   "B": "Yansıtma",
+   "C": "Kanıtlama",
+   "D": "Örneklendirme",
+   "E": "Teşvik"
+  },
+  "dogru": "B",
+  "cozum": "Karşıdakine duygularını yansıtma fırsatı vermek ve anlaşılanı ona yeniden ifade ederek geri vermek, empatik/etkin dinlemenin bir tekniği olan yansıtmadır (Etkili İletişim Teknikleri s.96).",
+  "hafiza_ipucu": "AYNA = YANSITMA: karşındakinin sözünü ayna gibi geri yansıt.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 96
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-91",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-037",
+  "konu": "iletisim",
+  "alt_konu": "yansitma-vs-orneklendirme",
+  "soru": "Bir rehber, turistin \"Bu tapınak ne zaman yapıldı?\" sorusuna \"Tapınağın ne zaman yapıldığını merak ediyorsunuz...\" diyerek başlıyor ve ardından tarihi veriyor. Rehberin bu davranışı hangi tekniktir?",
+  "siklar": {
+   "A": "İkna",
+   "B": "Kendini açma",
+   "C": "Kanıtlama",
+   "D": "Örneklendirme",
+   "E": "Yansıtma"
+  },
+  "dogru": "E",
+  "cozum": "Rehberin soruyu tekrarlayarak yanıta başlaması yansıtma tekniğidir; örneklendirme somut örnek vermeyi, kanıtlama ise iddiayı belgelemeyi ifade eder ve bu senaryoda söz konusu değildir (Etkili İletişim Teknikleri s.96).",
+  "hafiza_ipucu": "Tekrar = ayna = YANSITMA. Örnek vermek farklı bir teknik.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 96
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-91",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-038",
+  "konu": "iletisim",
+  "alt_konu": "empati-tanimi",
+  "soru": "Bir kişinin kendisini karşısındaki kişinin yerine koyarak onun duygu ve düşüncelerini doğru olarak anlaması hangi kavramla adlandırılır?",
+  "siklar": {
+   "A": "Empati",
+   "B": "Sempati",
+   "C": "Yansıtma",
+   "D": "İkna",
+   "E": "Kendini açma"
+  },
+  "dogru": "A",
+  "cozum": "Empati, bir insanın kendisini karşısındaki insanın yerine koyarak onun duygularını ve düşüncelerini doğru olarak anlamasıdır (Etkili İletişim Teknikleri s.22).",
+  "hafiza_ipucu": "EMPATİ = ANLAMAK (yerine koyup düşünmek), SEMPATİ = ACIMAK/duygudaşlık.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025-96 / MKS Mart 2026-84",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-039",
+  "konu": "iletisim",
+  "alt_konu": "empati-vs-sempati",
+  "soru": "Bir kişinin, üzülen arkadaşının duygularının aynısını hissederek onunla birlikte üzülmesi hangi kavramla ifade edilir?",
+  "siklar": {
+   "A": "Empati",
+   "B": "Yansıtma",
+   "C": "Sempati",
+   "D": "Etkin dinleme",
+   "E": "Kendini açma"
+  },
+  "dogru": "C",
+  "cozum": "Sempati, karşımızdakinin duygu ve düşüncelerinin aynısına sahip olmak, onunla birlikte üzülmek ya da sevinmektir; empatiden farklı olarak aynı duyguyu paylaşmayı gerektirir (Etkili İletişim Teknikleri s.24).",
+  "hafiza_ipucu": "SEMPATİ: \"Ben de üzüldüm\" (duygudaşlık). EMPATİ: \"Seni anlıyorum\" (anlayış).",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-040",
+  "konu": "iletisim",
+  "alt_konu": "empati-ogeleri",
+  "soru": "Etkili İletişim Teknikleri kaynağına göre empati kurmuş sayılmak için gereken ögeler aşağıdakilerin hangisinde doğru sıralanmıştır?",
+  "siklar": {
+   "A": "Karşısındakini onaylamak – aynı fikirde olmak – susmak",
+   "B": "Sadece duyguyu anlamak yeterlidir",
+   "C": "Sadece düşünceyi anlamak yeterlidir",
+   "D": "Karşısındakinin rolüne girmek – duygu ve düşüncelerini doğru anlamak – bu anlayışı ona iletmek",
+   "E": "Karşısındakini yargılamak – tavsiye vermek – teselli etmek"
+  },
+  "dogru": "D",
+  "cozum": "Empati, karşımızdakinin bakış açısına girip duygu ve düşüncelerini doğru anlamayı, sonra da bu anlayışı ona iletmeyi gerektiren üç ögeli bir süreçtir; sadece anlamak yeterli değildir, iletilmesi de gerekir (Etkili İletişim Teknikleri s.96-98).",
+  "hafiza_ipucu": "3 aşama: Gir (rolüne) – Anla (duygu+düşünce) – İlet (geri bildir).",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 96
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ILT-041",
+  "konu": "iletisim",
+  "alt_konu": "empatik-tepki",
+  "soru": "Etkili İletişim Teknikleri kaynağına göre, karşımızdaki kişiye empatik tepki vermenin en etkili yolu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sadece sözle onaylamak",
+   "B": "Yüz/beden ifadesi ile sözü birlikte kullanmak",
+   "C": "Sessiz kalmak",
+   "D": "Konuyu değiştirmek",
+   "E": "Öğüt vermek"
+  },
+  "dogru": "B",
+  "cozum": "Empatik tepki vermenin iki yolu yüz/beden ile ifade etmek ve sözelleştirmektir; bu ikisini birlikte kullanmak en etkili yoldur (Etkili İletişim Teknikleri s.96).",
+  "hafiza_ipucu": "Beden + Söz birlikte = tam empatik tepki.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 96
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-042",
+  "konu": "iletisim",
+  "alt_konu": "etkin-dinleme-tanimi",
+  "soru": "Etkili İletişim Teknikleri kaynağına göre \"anlamak\" hangi üç unsurun bir arada tutulmasına bağlıdır?",
+  "siklar": {
+   "A": "Niyet – bilgi – gayret",
+   "B": "Onay – ikna – tavsiye",
+   "C": "Sessizlik – ilgi – gülümseme",
+   "D": "Görgü – nezaket – üslup",
+   "E": "Ses – jest – mimik"
+  },
+  "dogru": "A",
+  "cozum": "Anlamak; niyet, bilgi ve gayret unsurlarının bir arada gerçekleşmesiyle mümkündür. Önce anlama niyeti taşınmalı, gerekli yöntemler bilinmeli, sonra da gayret gösterilmelidir (Etkili İletişim Teknikleri s.20).",
+  "hafiza_ipucu": "N-B-G: Niyet-Bilgi-Gayret üçlüsü olmadan anlamak olmaz.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-043",
+  "konu": "iletisim",
+  "alt_konu": "dinleme-engelleri",
+  "soru": "Bir dinleyicinin, konuşmanın başında karşısındakinin \"abarttığına\" ya da \"doğru söylemediğine\" karar vermesi hangi etkin dinleme engelidir?",
+  "siklar": {
+   "A": "Şüphelenmek (önyargı)",
+   "B": "Aşırı empati kurmak",
+   "C": "Fazla göz teması kurmak",
+   "D": "Geri bildirim vermek",
+   "E": "Ben dili kullanmak"
+  },
+  "dogru": "A",
+  "cozum": "Konuşmanın başında karşımızdakine önyargıyla yaklaşıp şüphelenmek, etkin dinlemenin gerçekleşmesinin önündeki büyük bir engeldir (Etkili İletişim Teknikleri s.21).",
+  "hafiza_ipucu": "Baştan \"yalan söylüyor\" demek = dinlemeden önce kapıyı kapatmak.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-044",
+  "konu": "iletisim",
+  "alt_konu": "dinlemek-vs-duymak",
+  "soru": "Etkili İletişim Teknikleri kaynağına göre \"dinlemek\" ile \"duymak\" arasındaki temel fark nedir?",
+  "siklar": {
+   "A": "İkisi tamamen aynı eylemdir",
+   "B": "Duymak bilişsel, dinlemek fizikseldir",
+   "C": "Dinlemek önem vermeyi ve bağlantı kurmayı gerektirir, sadece kulağa çarpan sesleri algılamak değildir",
+   "D": "Dinlemek yalnızca yazılı iletişimde geçerlidir",
+   "E": "Duymak sadece kitle iletişiminde geçerlidir"
+  },
+  "dogru": "C",
+  "cozum": "Dinlemek, kulağımıza çarpan kelimeleri duymak değildir; dinlemek önem vermek ve bağlantı kurmaktır (Etkili İletişim Teknikleri s.20).",
+  "hafiza_ipucu": "Duymak = kulakla, Dinlemek = önemle.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-045",
+  "konu": "iletisim",
+  "alt_konu": "ben-dili",
+  "soru": "Kişinin, karşısındakini suçlamadan kendi duygu ve düşüncelerini davranışa yönelik olarak ifade ettiği iletişim yaklaşımına ne ad verilir?",
+  "siklar": {
+   "A": "Sen dili",
+   "B": "Tehdit dili",
+   "C": "Eleştiri dili",
+   "D": "Ben dili",
+   "E": "Emir dili"
+  },
+  "dogru": "D",
+  "cozum": "Ben dili, karşımızdakinin olumsuz davranışı karşısında bizde oluşan gerçek duyguları onu suçlamadan ve yargılamadan ifade etmektir; iletişimin olumlu sürmesine yardımcı olur (Etkili İletişim Teknikleri s.42-43).",
+  "hafiza_ipucu": "BEN dili: \"Ben rahatsız oluyorum\" — davranışa odaklanır, kişiye saldırmaz.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 42
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-046",
+  "konu": "iletisim",
+  "alt_konu": "sen-dili",
+  "soru": "\"Sen hiç dinlemiyorsun, hep kendi bildiğini yapıyorsun\" biçimindeki bir ifade, iletişimde hangi yaklaşımın örneğidir ve nasıl bir sonuç doğurur?",
+  "siklar": {
+   "A": "Ben dili; karşıdakini rahatlatır",
+   "B": "Sen dili; karşıdakini savunmaya ve iletişimi engellemeye iter",
+   "C": "Yansıtma; empati kurulmasını sağlar",
+   "D": "İkna; olumlu tutum değişikliği yaratır",
+   "E": "Etkin dinleme; bağlantı kurulmasını sağlar"
+  },
+  "dogru": "B",
+  "cozum": "Kişiliğe yönelik suçlama ve yargılama içeren \"sen\" ifadeleri sen dili olarak adlandırılır; karşıdakini sinirlendirip savunmaya veya karşı saldırıya geçirerek iletişimi engeller (Etkili İletişim Teknikleri s.42-43).",
+  "hafiza_ipucu": "SEN dili = parmakla suçlamak; iletişimi TIKAR.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 43
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-047",
+  "konu": "iletisim",
+  "alt_konu": "sen-dili-orneklem",
+  "soru": "Aşağıdaki ifadelerden hangisi \"ben dili\" kullanımına örnektir?",
+  "siklar": {
+   "A": "Hep böylesin, sorumsuzsun",
+   "B": "Sen bunu bilerek yaptın",
+   "C": "Hiç sözümü dinlemiyorsun",
+   "D": "Sürekli hata yapıyorsun",
+   "E": "Sözümün kesilmesi beni rahatsız ediyor"
+  },
+  "dogru": "E",
+  "cozum": "\"Sözümün kesilmesi beni rahatsız ediyor\" ifadesi, davranışı tanımlayıp kişiyi suçlamadan kendi duygusunu anlattığı için ben dili örneğidir; diğer seçenekler kişiliğe yönelik suçlayıcı sen dili ifadeleridir (Etkili İletişim Teknikleri s.44).",
+  "hafiza_ipucu": "\"Beni rahatsız ediyor\" = BEN merkezli anlatım.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 44
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-048",
+  "konu": "iletisim",
+  "alt_konu": "iletisim-davranis-engelleri",
+  "soru": "Etkili İletişim Teknikleri kaynağına göre \"eleştiri, kontrol, strateji, üstünlük ve kesinlik\" davranışları iletişimde neye yol açar?",
+  "siklar": {
+   "A": "Dinleyicinin savunmaya geçmesine ve iletişimin bozulmasına",
+   "B": "Empatinin güçlenmesine",
+   "C": "Etkin dinlemenin kolaylaşmasına",
+   "D": "Geri bildirimin hızlanmasına",
+   "E": "Yansıtma tekniğinin gelişmesine"
+  },
+  "dogru": "A",
+  "cozum": "Eleştiri, kontrol, strateji, üstünlük ve kesinlik gibi davranışlar dinleyicilerin/gözlemcilerin savunmaya geçmesine ve direnç göstermesine yol açan iletişim bozukluğu nedenleridir (Etkili İletişim Teknikleri s.43).",
+  "hafiza_ipucu": "5 engel: Eleştiri-Kontrol-Strateji-Üstünlük-Kesinlik → hepsi karşıyı SAVUNMAYA iter.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 43
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ILT-049",
+  "konu": "iletisim",
+  "alt_konu": "ikna",
+  "soru": "Bir kaynağın, alıcıda istenilen duygu, düşünce, tutum ya da davranış değişikliği yaratmaya çalışması sürecine ne ad verilir?",
+  "siklar": {
+   "A": "Kodaçımı",
+   "B": "Kendini açma",
+   "C": "İkna",
+   "D": "Yansıma",
+   "E": "Referans çerçevesi"
+  },
+  "dogru": "C",
+  "cozum": "İkna, alıcı üzerinde istenilen duygu, düşünce, davranış, tutum ve alışkanlık değişikliği amaçlanan iletişim sürecidir (Etkili İletişim Teknikleri s.9, ünite başlığı \"Etkileme, Etkili İletişim ve İkna Edici Konuşma\").",
+  "hafiza_ipucu": "İKNA = alıcıyı DEĞİŞTİRMEYİ hedefleyen iletişim.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 145
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-050",
+  "konu": "iletisim",
+  "alt_konu": "kendini-acma",
+  "soru": "Bireyin kendi inanç, görüş, duygu ve düşünceleri hakkında karşısındakiyle konuşarak kendi durumunu daha açık kavramasını sağlayan iletişim davranışına ne ad verilir?",
+  "siklar": {
+   "A": "Kendini açma",
+   "B": "Yansıtma",
+   "C": "İkna",
+   "D": "Kodlama",
+   "E": "Geri bildirim"
+  },
+  "dogru": "A",
+  "cozum": "Kendini açma, bireyin kendi inanç ve görüşleri hakkında konuşarak durumunu kavramasını, yakın ilişkilerin şekillenmesine katkı sağlamasını içeren iletişim davranışıdır (Etkili İletişim Teknikleri s.34).",
+  "hafiza_ipucu": "Kendini AÇMAK = içini paylaşarak yakınlık kurmak.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 34
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-051",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-gurultu",
+  "soru": "Bir rehber, kalabalık ve trafiği yoğun bir cadde üzerinde tur yaparken araç kornalarının sesinden dolayı grubun anlattıklarını duyamadığını fark ediyor. Bu durum iletişim sürecinin hangi ögesiyle açıklanır?",
+  "siklar": {
+   "A": "Kanal bozukluğu",
+   "B": "Fiziksel gürültü",
+   "C": "Semantik gürültü",
+   "D": "Geri bildirim eksikliği",
+   "E": "Psikolojik gürültü"
+  },
+  "dogru": "B",
+  "cozum": "Araç kornası gibi dış ortamdan kaynaklanan, iletiyi bozan sesler fiziksel gürültü örneğidir (İletişim Bilgisi s.83).",
+  "hafiza_ipucu": "Dış sesin çukuru = FİZİKSEL gürültü.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 83
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-90",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-052",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-yansitma",
+  "soru": "Bir turist rehbere \"Bu kalıntılar ne zaman restore edildi?\" diye soruyor. Rehber \"Kalıntıların ne zaman restore edildiğini soruyorsunuz, hemen açıklayayım...\" diyerek yanıta başlıyor. Rehberin kullandığı teknik aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İkna",
+   "B": "Kendini açma",
+   "C": "Sempati",
+   "D": "Kanıtlama",
+   "E": "Yansıtma"
+  },
+  "dogru": "E",
+  "cozum": "Rehberin, turistin sorusunu tekrarlayarak yanıta başlaması yansıtma tekniğinin klasik bir uygulamasıdır (Etkili İletişim Teknikleri s.96).",
+  "hafiza_ipucu": "AYNA = YANSITMA: soruyu aynen geri yansıt, sonra cevapla.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 96
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-91",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-053",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-jest",
+  "soru": "Bir rehber, otobüsten inen grubu müzenin giriş kapısına yönlendirirken kolunu kaldırıp elini kapıya doğru uzatıyor. Rehberin bu davranışı sözsüz iletişimin hangi ögesidir?",
+  "siklar": {
+   "A": "Jest",
+   "B": "Mimik",
+   "C": "Proksemi",
+   "D": "Ses tonu",
+   "E": "Kıyafet kodu"
+  },
+  "dogru": "A",
+  "cozum": "Kol ve el hareketiyle yön gösterme, el-kol hareketleri kategorisine giren jesttir (İletişim Bilgisi s.90-91).",
+  "hafiza_ipucu": "JEST = KOL-İSTİ: yön gösteren kol hareketi.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 91
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026-93",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-054",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-mimik",
+  "soru": "Bir rehber, turistlerden birinin bagajının kaybolduğunu öğrendiğinde kaşlarını çatıp üzgün bir yüz ifadesi takınıyor. Rehberin bu davranışı sözsüz iletişimin hangi ögesidir?",
+  "siklar": {
+   "A": "Proksemi",
+   "B": "Jest",
+   "C": "Duruş",
+   "D": "Mimik",
+   "E": "Kanal"
+  },
+  "dogru": "D",
+  "cozum": "Yüzde gerçekleşen duygu ifadeleri (kaş çatma, üzgün yüz) mimik kapsamındadır (İletişim Bilgisi s.90).",
+  "hafiza_ipucu": "MİMİK = YÜZ-İK: kaş-göz-ağızla ifade.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 90
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025-89",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "ILT-055",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-mesafe",
+  "soru": "Kalabalık bir otobüste, tanımadığı bir turistle sadece birkaç santim mesafede durmak zorunda kalan bir rehber rahatsızlık hissediyor. Bu rahatsızlık, hangi mesafe türünün istemsiz ihlal edilmesinden kaynaklanır?",
+  "siklar": {
+   "A": "Sosyal mesafe",
+   "B": "Genel/kamusal mesafe",
+   "C": "Mahrem mesafe",
+   "D": "Kişisel mesafe",
+   "E": "Kültürel mesafe"
+  },
+  "dogru": "C",
+  "cozum": "Kalabalık otobüs gibi ortamlarda tanışılmayan insanlarla mahrem (içli-dışlı) mesafenin ihlal edilmesi rahatsızlık yaratır; bu, sadece çok yakın kişilere izin verilen en dar alandır (Etkili İletişim Teknikleri s.209).",
+  "hafiza_ipucu": "En yakın basamak (mahrem) yabancıyla paylaşılınca RAHATSIZ eder.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 209
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025-97 / MKS Mart 2026-96",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-056",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-empati",
+  "soru": "Bir rehber, valizi havalimanında kaybolan turistin ne kadar üzüldüğünü kendini onun yerine koyarak anlıyor ve bu anlayışını ona sözle ifade ediyor. Rehberin sergilediği davranış hangi kavramla açıklanır?",
+  "siklar": {
+   "A": "Sempati",
+   "B": "Empati",
+   "C": "Yansıtma",
+   "D": "İkna",
+   "E": "Kendini açma"
+  },
+  "dogru": "B",
+  "cozum": "Kendini karşısındakinin yerine koyarak onun duygusunu doğru anlama ve bu anlayışı ona iletme davranışı empatidir (Etkili İletişim Teknikleri s.22, s.96).",
+  "hafiza_ipucu": "Yerine koyup ANLAMAK ve bunu SÖYLEMEK = EMPATİ.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025-96",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-057",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-kanal",
+  "soru": "Kırk kişilik bir grubu gezdiren rehber, herkesin sesi net duyabilmesi için el mikrofonu ve kulaklıklı sistem kullanıyor. Bu sistem, iletişim sürecinde hangi ögeye karşılık gelir?",
+  "siklar": {
+   "A": "Kod",
+   "B": "Geri bildirim",
+   "C": "Gürültü",
+   "D": "Bağlam",
+   "E": "Kanal"
+  },
+  "dogru": "E",
+  "cozum": "Mikrofon-kulaklık sistemi, mesajın kaynaktan alıcıya taşındığı yol yani kanaldır (İletişim Bilgisi s.22).",
+  "hafiza_ipucu": "Mikrofon-kulaklık = KANAL, yani sesin YOLU.",
+  "kaynak": {
+   "dosya": "İletişim Bilgisi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "ILT-058",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-dinleme",
+  "soru": "Bir turist, otelden memnun olmadığını rehbere anlatırken rehber ona göz teması kurup ara sıra baş sallayarak onu dikkatle dinliyor ve anladıklarını özetleyip geri bildiriyor. Rehberin bu davranışı hangi iletişim becerisiyle adlandırılır?",
+  "siklar": {
+   "A": "Etkin dinleme",
+   "B": "Semantik ikna",
+   "C": "Kendini açma",
+   "D": "Sen dili",
+   "E": "Kodlama"
+  },
+  "dogru": "A",
+  "cozum": "Göz teması kurma, geri bildirim verme ve anladığını özetleme, etkin dinlemenin temel unsurlarıdır (Etkili İletişim Teknikleri s.20-22).",
+  "hafiza_ipucu": "Bakış + baş sallama + özet = tam bir ETKİN DİNLEME.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 20
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-059",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-sen-dili",
+  "soru": "Bir rehber, geç kalan bir turiste \"Sen hep geç kalıyorsun, hiç sorumluluk almıyorsun!\" diye çıkışıyor. Rehberin bu ifadesi iletişim açısından nasıl değerlendirilir?",
+  "siklar": {
+   "A": "Ben dili kullanmıştır, iletişimi güçlendirir",
+   "B": "Yansıtma yapmıştır, empati kurmuştur",
+   "C": "Etkin dinleme sergilemiştir",
+   "D": "Sen dili kullanmıştır, karşıdakini savunmaya iterek iletişimi engeller",
+   "E": "İkna tekniği uygulamıştır"
+  },
+  "dogru": "D",
+  "cozum": "Kişiliğe yönelik suçlayıcı \"sen\" ifadeleri sen dilidir; karşı tarafı savunmaya ya da karşı saldırıya geçirerek iletişimi olumsuz etkiler (Etkili İletişim Teknikleri s.42-43).",
+  "hafiza_ipucu": "\"Sen hep...\" cümlesi = SEN DİLİ = iletişim engeli.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 43
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "ILT-060",
+  "konu": "iletisim",
+  "alt_konu": "rehber-senaryo-semantik-gurultu",
+  "soru": "Yabancı bir turist grubuna rehberlik eden kişi, konuyu çok fazla akademik arkeoloji terimiyle (\"stratigrafi\", \"epigrafik buluntu\" gibi) anlatınca grup anlatılanları takip edemiyor. Bu durum hangi gürültü türüne örnektir?",
+  "siklar": {
+   "A": "Fiziksel gürültü",
+   "B": "Fizyolojik gürültü",
+   "C": "Anlamsal (semantik) gürültü",
+   "D": "Psikolojik gürültü",
+   "E": "Kanal bozukluğu"
+  },
+  "dogru": "C",
+  "cozum": "Kaynağın çok teknik/jargon ağırlıklı bir dil kullanması, alıcının anlayamamasına yol açan anlamsal (semantik) gürültü örneğidir (Etkili İletişim Teknikleri s.56; İletişim Bilgisi s.83).",
+  "hafiza_ipucu": "Jargon = dil çukuru = SEMANTİK gürültü.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.pdf",
+   "sayfa": 56
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ }
+]

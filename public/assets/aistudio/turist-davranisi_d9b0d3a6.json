@@ -1,0 +1,882 @@
+[
+ {
+  "id": "TDV-001",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-allosentrik",
+  "soru": "Plog'un tipolojisinde, maceracı, kendine güvenen ve henüz keşfedilmemiş/yeni destinasyonlara ilk giden turist tipine ne ad verilir?",
+  "siklar": {
+   "A": "Allosentrik (dışadönük) turist",
+   "B": "Psikosentrik (içe dönük) turist",
+   "C": "Orta merkezci (mid-sentrik) turist",
+   "D": "Örgütlü kitle turisti",
+   "E": "Başıboş (drifter) turist"
+  },
+  "dogru": "A",
+  "cozum": "Plog'a (1974) göre dışadönük (allocentric) turistler, kendine güvenen ve maceracı seyyahlar olarak yeni/keşfedilmemiş yerlere ilk giden turist tipidir (Genel Turizm Bilgisi 2021, s.22-23).",
+  "hafiza_ipucu": "ALLO = 'ALO yeni yer mi açıldı?' diyerek ilk giden maceracı turist.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-002",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-psikosentrik",
+  "soru": "Tanıdık ve bilinen destinasyonları, paket tur düzenlemelerini tercih eden, temkinli turist tipine Plog tipolojisinde ne ad verilir?",
+  "siklar": {
+   "A": "Allosentrik (dışadönük) turist",
+   "B": "Psikosentrik (içe dönük) turist",
+   "C": "Gezgin turist",
+   "D": "Örgütlü kitle turisti",
+   "E": "Deneyimsel turist"
+  },
+  "dogru": "B",
+  "cozum": "Psikosentrik (içedönük) turistler tanıdık, aşina oldukları yerleri ve kalabalık/popüler destinasyonları tercih eden temkinli turistlerdir (Genel Turizm Bilgisi 2021, s.22-23).",
+  "hafiza_ipucu": "PSSST bildiğin yerden şaşma diyen temkinli turist = psikosentrik.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-003",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-allosentrik-negatif",
+  "soru": "Aşağıdakilerden hangisi dışadönük (allosentrik) turistin özelliklerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Maceracı olma",
+   "B": "Yeni yerler keşfetme",
+   "C": "Paket tur ve kalabalık/popüler destinasyonları tercih etme",
+   "D": "Bireysel seyahat etme eğilimi",
+   "E": "Kendinden emin olma"
+  },
+  "dogru": "C",
+  "cozum": "Paket tur ve kalabalık/popüler destinasyon tercihi psikosentrik (içe dönük) turistin özelliğidir; allosentrik turist bunun tersini temsil eder (Genel Turizm Bilgisi 2021, s.22-23).",
+  "hafiza_ipucu": "Paket tur = PSSST-bildik kalıbı, ALLO'ya ait değil.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-004",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-kapadokya-ornegi",
+  "soru": "Kapadokya'yı ziyaret eden, doğal ve kültürel çekicilikleri ön planda tutan, alışılmadık deneyimler arayan ve kendinden emin olan turist tipi Plog tipolojisine göre hangisidir?",
+  "siklar": {
+   "A": "Psikosentrik (içe dönük) turist",
+   "B": "Örgütlü kitle turisti",
+   "C": "Mid-sentrik turist",
+   "D": "Allosentrik (dışadönük) turist",
+   "E": "Başıboş turist"
+  },
+  "dogru": "D",
+  "cozum": "Kitaptaki Kapadokya örneğinde, deniz-kum-güneş motivasyonundan çok doğal/kültürel çekicilikleri önceleyen, macera ve yenilik arayan misafirlerin gezgin ve dışadönük turist tiplerini temsil ettiği belirtilir (Genel Turizm Bilgisi 2021, s.40).",
+  "hafiza_ipucu": "Kapadokya = peri bacaları keşfi → ALLO'nun doğal alanı.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 40
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-005",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-midsentrik",
+  "soru": "Hem dışadönük hem içe dönük turizm biçimlerinden zevk alabilen, turistlerin büyük çoğunluğunun yer aldığı Plog tipi hangisidir?",
+  "siklar": {
+   "A": "Allosentrik turist",
+   "B": "Psikosentrik turist",
+   "C": "Gezgin turist",
+   "D": "Başıboş turist",
+   "E": "Orta merkezci (mid-sentrik) turist"
+  },
+  "dogru": "E",
+  "cozum": "Plog tipolojisinde orta merkezli turistler, her iki turizm biçiminden de zevk alan ve turistlerin çoğunluğunu oluşturan gruptur (Genel Turizm Bilgisi 2021, s.23).",
+  "hafiza_ipucu": "Aradaki kalabalık köprüde duran çoğunluk = mid-sentrik.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-006",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-cohen-karistirma",
+  "soru": "Aşağıdakilerden hangisi/hangileri Plog tipolojisinin özelliklerindendir?\nI. Turistlerin kişiliğini psikolojik bir süreklilik ekseninde ele alması\nII. Turistlerin büyük çoğunluğunun orta merkezci olması\nIII. Turistleri kurumsallaşma düzeyine göre dört tipe ayırması",
+  "siklar": {
+   "A": "Yalnız I ve II",
+   "B": "Yalnız I",
+   "C": "I, II ve III",
+   "D": "Yalnız III",
+   "E": "II ve III"
+  },
+  "dogru": "A",
+  "cozum": "I ve II Plog tipolojisine aittir; III (kurumsallaşma düzeyine göre dört tip: örgütlü kitle-bağımsız kitle-gezgin-başıboş) Cohen'in (1972) tipolojisine aittir, Plog'a değil (Genel Turizm Bilgisi 2021, s.22-23).",
+  "hafiza_ipucu": "Kurumsallaşma = Cohen'in evi, Plog'un değil.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "TDV-007",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-kim-gelistirdi",
+  "soru": "Turist tipolojisini psikosentrik (içe dönük) ve allosentrik (dışadönük) eksenler üzerinden geliştiren araştırmacı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Cohen",
+   "B": "Plog",
+   "C": "Smith",
+   "D": "Maslow",
+   "E": "Crompton"
+  },
+  "dogru": "B",
+  "cozum": "Bu psikolojik eksenli turist tipolojisi Plog'a (1974) aittir (Genel Turizm Bilgisi 2021, s.22-23).",
+  "hafiza_ipucu": "ALLO-PSİKO ikilisi = Plog imzası.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - Q46 (Plog tipolojisini kimin geliştirdiği) / Q96 (turist tiplerini sınıflandıran araştırmacı) — akraba",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-008",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-uc-tip",
+  "soru": "Turist tipolojilerini içe dönük - dışa dönük - orta merkezli olarak üçe ayıran araştırmacı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Cohen",
+   "B": "Smith",
+   "C": "Plog",
+   "D": "Urry",
+   "E": "Crompton"
+  },
+  "dogru": "C",
+  "cozum": "İçe dönük (psikosentrik) - dışa dönük (allosentrik) - orta merkezli üçlü sınıflandırması Plog'a aittir (Genel Turizm Bilgisi 2021, s.22-23).",
+  "hafiza_ipucu": "Üç basamaklı merdiven: içe-orta-dışa = Plog.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Q23 (birebir aynı soru kalıbı) — akraba",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-009",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-senaryo",
+  "soru": "Rehber Elif'in grubundaki turist Ahmet, her yıl aynı beş yıldızlı oteli aynı paket tur programıyla ziyaret etmekte; yeni ve tanıdık olmadığı yerlerden kaçınmaktadır. Ahmet, Plog tipolojisine göre hangi turist tipine örnektir?",
+  "siklar": {
+   "A": "Allosentrik (dışadönük) turist",
+   "B": "Gezgin turist",
+   "C": "Başıboş (drifter) turist",
+   "D": "Psikosentrik (içe dönük) turist",
+   "E": "Deneysel turist"
+  },
+  "dogru": "D",
+  "cozum": "Tanıdık yerleri ve paket turu tekrar tekrar tercih etme, kaçınma davranışı psikosentrik (içe dönük) turistin tipik özelliğidir (Genel Turizm Bilgisi 2021, s.22-23).",
+  "hafiza_ipucu": "Aynı otel + aynı paket tur = PSSST-bildik kalıbı.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-010",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-eksen",
+  "soru": "Plog'un tipolojisi, turistlerin kişiliğini hangi bilimsel eksende bir süreklilik dahilinde ele alır?",
+  "siklar": {
+   "A": "Sosyolojik eksen",
+   "B": "Ekonomik eksen",
+   "C": "Antropolojik eksen",
+   "D": "Coğrafi eksen",
+   "E": "Psikolojik eksen"
+  },
+  "dogru": "E",
+  "cozum": "Plog tipolojisinde turistlerin kişilikleri psikolojik açıdan bir süreklilik dahilinde ele alınmıştır (Genel Turizm Bilgisi 2021, s.23).",
+  "hafiza_ipucu": "Plog = PSİKOloji ekseni.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-011",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-destinasyon-yasam-evresi",
+  "soru": "Plog'un tipolojisine göre bir destinasyon önce hangi turist tipini, ardından artan popülerlikle birlikte hangi turist tipini ağırlamaya başlar?",
+  "siklar": {
+   "A": "Önce allosentrik (öncü/kaşif nitelikli) turistleri, sonra kitle/psikosentrik turistleri",
+   "B": "Önce psikosentrik turistleri, sonra allosentrik turistleri",
+   "C": "Önce başıboş turistleri, sonra gezginleri",
+   "D": "Önce örgütlü kitle turistlerini, sonra bağımsız kitle turistlerini",
+   "E": "Önce mid-sentrik turistleri, sonra allosentrik turistleri"
+  },
+  "dogru": "A",
+  "cozum": "Öncü/girişimci nitelikteki (allosentrik) turistler yeni yerleri keşfeder; ardından gezginler ve zamanla kitle turizmi (psikosentrik ağırlıklı) gelişir — bu süreç destinasyonun popülerlik evrimini açıklar (Genel Turizm Bilgisi 2021, s.23).",
+  "hafiza_ipucu": "Önce kaşif ayak basar, sonra kalabalık otobüs gelir.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "TDV-012",
+  "konu": "Turist Davranışı",
+  "alt_konu": "plog-ara-gruplar",
+  "soru": "Plog, orta merkezcilerin yanı sıra iki ara grup daha tanımlamıştır. Bu iki grup aşağıdakilerin hangisinde birlikte ve doğru verilmiştir?",
+  "siklar": {
+   "A": "Örgütlü kitle turisti - bağımsız kitle turisti",
+   "B": "Dışadönüğe yakın turistler - içe dönüğe yakın turistler",
+   "C": "Gezgin turist - başıboş turist",
+   "D": "Rekreasyonel turist - deneyimsel turist",
+   "E": "Rasyonel turist - romantik turist"
+  },
+  "dogru": "B",
+  "cozum": "Plog, orta merkezcilerin yanında dışadönüğe yakın ve içe dönüğe yakın olmak üzere iki ara grup daha tanımlamıştır; bu gruplar yanlarındaki gruplardan etkilenen turistleri açıklar (Genel Turizm Bilgisi 2021, s.23).",
+  "hafiza_ipucu": "Orta merkezin iki komşusu: dışa-yakın, içe-yakın.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 23
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "TDV-013",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-1972-dort-tip",
+  "soru": "Cohen'in (1972) benzerlik-farklılık arayışına dayalı olarak geliştirdiği tipolojide yer alan dört turist tipi aşağıdakilerin hangisinde birlikte ve doğru verilmiştir?",
+  "siklar": {
+   "A": "Allosentrik - psikosentrik - mid-sentrik - gezgin",
+   "B": "Rekreasyonel - dinlenme odaklı - deneyimsel - varoluşsal",
+   "C": "Örgütlü kitle turisti - bağımsız kitle turisti - gezgin - başıboş (drifter)",
+   "D": "Kaşif - seçkin/elit - sıradışı - kitle",
+   "E": "Sembolik - rasyonel - romantik - deneyim"
+  },
+  "dogru": "C",
+  "cozum": "Cohen (1972), turist deneyimlerini özgünlük-aşinalık sürekliliğine göre örgütlü kitle turisti, bağımsız kitle turisti, gezgin ve başıboş (drifter) turist olarak dört tipe ayırmıştır (Genel Turizm Bilgisi 2021, s.22).",
+  "hafiza_ipucu": "Balondan başıboşluğa dört basamak: örgütlü-bağımsız-gezgin-başıboş.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-014",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-orgutlu-kitle",
+  "soru": "Kurumsallaşmış, bilinen ve aşina olunan yerleri, her şey dahil gibi hazır paket ürünleri tercih eden Cohen tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gezgin turist",
+   "B": "Başıboş (drifter) turist",
+   "C": "Bağımsız kitle turisti",
+   "D": "Örgütlü kitle turisti",
+   "E": "Allosentrik turist"
+  },
+  "dogru": "D",
+  "cozum": "Örgütlü kitle turisti, Cohen'in tipolojisinde kurumsallaşmış uçta yer alır ve hazır paket ürünleri tercih eder (Genel Turizm Bilgisi 2021, s.22).",
+  "hafiza_ipucu": "Örgütlü = cam balon içindeki tur otobüsü.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-015",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-bagimsiz-kitle",
+  "soru": "Seyahat planına çok fazla bağlı kalmaksızın hareket eden, fakat yine de alıştığı düzenin dışına çok fazla çıkmak istemeyen turist tipi Cohen tipolojisinde hangisidir?",
+  "siklar": {
+   "A": "Örgütlü kitle turisti",
+   "B": "Gezgin turist",
+   "C": "Başıboş (drifter) turist",
+   "D": "Kaşif turist",
+   "E": "Bağımsız (bireysel) kitle turisti"
+  },
+  "dogru": "E",
+  "cozum": "Bağımsız kitle turisti, kitle turistine yakın olmakla birlikte örgütlü kitle turistine göre daha az seyahat planına bağlı kalma eğilimindedir (Genel Turizm Bilgisi 2021, s.22, s.37 kitap-içi özet sorusu).",
+  "hafiza_ipucu": "Balonun kapısını aralayan ikinci basamak: bağımsız kitle.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-016",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-gezgin",
+  "soru": "Kendi seyahat rotasını oluşturan, yerel kültürle etkileşime girmek isteyen ama bir yandan da belirli düzeyde konfor ve güvenli seyahati arayan Cohen tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gezgin (explorer) turist",
+   "B": "Örgütlü kitle turisti",
+   "C": "Başıboş (drifter) turist",
+   "D": "Bağımsız kitle turisti",
+   "E": "Psikosentrik turist"
+  },
+  "dogru": "A",
+  "cozum": "Gezginler, gittikleri yerde yenilik ve farklılık ararken kitle turistinin konforuna belirli bir düzeyde sahip olmayı ve güvenli seyahat etmeyi de isterler (Genel Turizm Bilgisi 2021, s.22).",
+  "hafiza_ipucu": "Balonu bırakır, haritayı eline alır: gezgin.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-017",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-basibos",
+  "soru": "Kurumsallaşmamış, yeni ve bilinmeyen yerleri kendi oluşturduğu rotayla gezen, yerel kültürle kaynaşmayı ve hatta orada yaşamayı tercih eden Cohen tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gezgin turist",
+   "B": "Başıboş (drifter) turist",
+   "C": "Bağımsız kitle turisti",
+   "D": "Örgütlü kitle turisti",
+   "E": "Psikosentrik turist"
+  },
+  "dogru": "B",
+  "cozum": "Başıboş (drifter) turistler kurumsallaşmamış, yeni ve bilinmeyen yerleri kendi oluşturdukları rotayla gezer, yerel kültürle kaynaşmayı ve hatta orada yaşamayı tercih ederler (Genel Turizm Bilgisi 2021, s.22).",
+  "hafiza_ipucu": "Haritayı da atar, yerlilerle yaşar: başıboş/drifter.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-018",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-kurumsallasma",
+  "soru": "Cohen'in dört turist tipinden hangi ikisi 'kurumsallaşmış' turist grubunu oluşturur?",
+  "siklar": {
+   "A": "Gezgin - başıboş turist",
+   "B": "Örgütlü kitle turisti - gezgin",
+   "C": "Örgütlü kitle turisti - bağımsız kitle turisti",
+   "D": "Bağımsız kitle turisti - başıboş turist",
+   "E": "Gezgin - örgütlü kitle turisti"
+  },
+  "dogru": "C",
+  "cozum": "Örgütlü kitle turisti ve bağımsız kitle turisti kurumsallaşmış uçta; gezgin ve başıboş turist ise kurumsallaşmamış uçta yer alır (Genel Turizm Bilgisi 2021, s.22).",
+  "hafiza_ipucu": "İlk iki kurumsal, son iki serbest.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-019",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-1979-bes-kategori",
+  "soru": "Cohen'in (1979) turist deneyimlerine dayalı olarak geliştirdiği tipolojide yer alan beş kategoriden biri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Allosentrik turist",
+   "B": "Örgütlü kitle turisti",
+   "C": "Sembolik turist",
+   "D": "Rekreasyonel (eğlence odaklı) turist",
+   "E": "Gezgin turist"
+  },
+  "dogru": "D",
+  "cozum": "Cohen (1979) turist deneyimlerini rekreasyonel, dinlenme odaklı (diversionary), deneyimsel, deneysel ve varoluşsal turist olmak üzere beş kategoride ele almıştır (Genel Turizm Bilgisi 2021, s.24).",
+  "hafiza_ipucu": "1979 = beşli deneyim menüsü: rekreasyon-dinlenme-deneyim-deney-varoluş.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-020",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-dinlenme-odakli",
+  "soru": "Evdeki günlük sıradan yaşamını unutmanın ve enerji toplamanın yollarını arayan, merkezi (modern) değerlere yabancılaşmış turist tipi Cohen'in (1979) deneyim tipolojisinde nasıl adlandırılır?",
+  "siklar": {
+   "A": "Rekreasyonel turist",
+   "B": "Deneyimsel turist",
+   "C": "Deneysel turist",
+   "D": "Varoluşsal turist",
+   "E": "Dinlenme odaklı (diversionary) turist"
+  },
+  "dogru": "E",
+  "cozum": "Dinlenme odaklı (diversionary) turistler, merkezi değerlere yabancılaşmış, enerjilerini toplamak ve dinlenmek amacıyla turizm faaliyetine katılan kişilerdir; örneğin sakin bir dağ otelinde tatil yapmak (Genel Turizm Bilgisi 2021, s.24).",
+  "hafiza_ipucu": "Diversionary = günlük hayattan sapma/uzaklaşma.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-021",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-deneyimsel-deneysel",
+  "soru": "Cohen'in (1979) tipolojisinde, farklı kültürleri katılımcı olmayan bir gözlemci sıfatıyla inceleyen ve kendi yaşamında özgünlük arayışında olan turist tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Deneyimsel turist",
+   "B": "Deneysel turist",
+   "C": "Varoluşsal turist",
+   "D": "Rekreasyonel turist",
+   "E": "Dinlenme odaklı turist"
+  },
+  "dogru": "A",
+  "cozum": "Deneyimsel turist farklı kültürlerde katılımcı olmayan bir gözlemci olarak bulunurken; deneysel turist bu kültürlerin içinde katılımcı gözlemci olarak yer alır. İkisi de özgünlük arar ama katılım düzeyleri farklıdır (Genel Turizm Bilgisi 2021, s.24).",
+  "hafiza_ipucu": "Deneyimsel = izleyen göz; deneysel = katılan el.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "TDV-022",
+  "konu": "Turist Davranışı",
+  "alt_konu": "cohen-varolussal-senaryo",
+  "soru": "Rehber Mert'in grubundaki bir turist, ziyaret ettiği kutsal mekânın yaşam tarzına ve kültürüne tamamen kapılmak istediğini, bu yolculuğu adeta bir hac yolculuğu gibi yaşadığını belirtiyor. Bu turist Cohen'in (1979) deneyim tipolojisine göre hangi tiptir?",
+  "siklar": {
+   "A": "Rekreasyonel turist",
+   "B": "Varoluşsal turist",
+   "C": "Deneyimsel turist",
+   "D": "Deneysel turist",
+   "E": "Dinlenme odaklı turist"
+  },
+  "dogru": "B",
+  "cozum": "Varoluşsal turistler kendilerini tatil yerinin kültürüne ve yaşam tarzına tamamen kaptırmak isterler; kitapta bu durum bir tür hac yolculuğuna benzetilir (Genel Turizm Bilgisi 2021, s.24).",
+  "hafiza_ipucu": "Varoluşsal = kültüre gömülen hacı adayı.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-023",
+  "konu": "Turist Davranışı",
+  "alt_konu": "marka-imaj-sembolik",
+  "soru": "Bir turistin destinasyon tercihinde temel belirleyicinin markanın ve destinasyon imajının çekiciliği olması, bu turisti hangi tipe dahil eder?",
+  "siklar": {
+   "A": "Rasyonel turist",
+   "B": "Romantik turist",
+   "C": "Sembolik turist",
+   "D": "Deneyim turisti",
+   "E": "Allosentrik turist"
+  },
+  "dogru": "C",
+  "cozum": "Marka ve imajı önemseyerek gideceği destinasyonun tercihini yapan turist tipi sembolik turisttir (Ağustos 2025 sınavı, s.26 — cevap anahtarı C; bu tipoloji temel ders kitaplarında ayrıntılı işlenmemiştir).",
+  "hafiza_ipucu": "SEMBOL = LOGO'ya bakıp seçen turist.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Q100 (birebir akraba)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-024",
+  "konu": "Turist Davranışı",
+  "alt_konu": "marka-imaj-rasyonel",
+  "soru": "Destinasyon seçiminde fayda-maliyet hesabını temel alan, kararını ekonomik mantıkla veren turist tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sembolik turist",
+   "B": "Romantik turist",
+   "C": "Deneyim turisti",
+   "D": "Rasyonel turist",
+   "E": "Psikosentrik turist"
+  },
+  "dogru": "D",
+  "cozum": "Sembolik turistin (marka-imaj odaklı) karşıtı olarak, fayda-maliyet hesabı yapan turist tipi rasyonel turist olarak adlandırılır (Ağustos 2025 sınavı bağlamı, s.26; çeldirici olarak birlikte sorulan bir kavramdır).",
+  "hafiza_ipucu": "Rasyonel = hesap makinesiyle seçim yapan turist.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Q100 çeldiricisi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-025",
+  "konu": "Turist Davranışı",
+  "alt_konu": "marka-imaj-romantik",
+  "soru": "Destinasyonun duygusal atmosferinden ve estetik çekiciliğinden etkilenerek tercih yapan turist tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Rasyonel turist",
+   "B": "Sembolik turist",
+   "C": "Deneyim turisti",
+   "D": "Mid-sentrik turist",
+   "E": "Romantik turist"
+  },
+  "dogru": "E",
+  "cozum": "Duygusal atmosfer arayan turist tipi romantik turist olarak tanımlanır; sembolik turistin marka-imaj odağından farklıdır (Ağustos 2025 sınavı bağlamı, s.26; çeldirici olarak birlikte sorulan bir kavramdır).",
+  "hafiza_ipucu": "Romantik = gün batımına bakan turist.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Q100 çeldiricisi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-026",
+  "konu": "Turist Davranışı",
+  "alt_konu": "marka-imaj-deneyim",
+  "soru": "Destinasyon tercihinde öncelikle özgün yaşantı ve etkinlik arayışını ön planda tutan turist tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Deneyim turisti",
+   "B": "Rasyonel turist",
+   "C": "Romantik turist",
+   "D": "Sembolik turist",
+   "E": "Örgütlü kitle turisti"
+  },
+  "dogru": "A",
+  "cozum": "Yaşantı/etkinlik odaklı tercih yapan turist tipi deneyim turisti olarak adlandırılır (Ağustos 2025 sınavı bağlamı, s.26; çeldirici olarak birlikte sorulan bir kavramdır).",
+  "hafiza_ipucu": "Deneyim turisti = yaşantı defteri tutan turist.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Q100 çeldiricisi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-027",
+  "konu": "Turist Davranışı",
+  "alt_konu": "marka-imaj-negatif",
+  "soru": "Aşağıdakilerden hangisi sembolik turistin ayırt edici özelliğinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Markayı önemsemesi",
+   "B": "Fayda-maliyet hesabını öncelikli kriter olarak alması",
+   "C": "İmaj odaklı seçim yapması",
+   "D": "Destinasyonun prestijine önem vermesi",
+   "E": "Marka kimliğine duyarlı olması"
+  },
+  "dogru": "B",
+  "cozum": "Fayda-maliyet hesabı rasyonel turistin özelliğidir; sembolik turist ise destinasyon tercihinde marka ve imajı önemser (Ağustos 2025 sınavı, s.26 — cevap anahtarı C).",
+  "hafiza_ipucu": "Hesap makinesi rasyonelin cebinde, sembolikte değil.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Q100 akraba (negatif kalıp)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-028",
+  "konu": "Turist Davranışı",
+  "alt_konu": "motivasyon-seyahat-istegi",
+  "soru": "İnsanın bulunduğu yerden uzaklaşma ve başka yerlere gitme isteği temelde hangi olgu ile açıklanır?",
+  "siklar": {
+   "A": "Ekonomik olgu",
+   "B": "Sosyolojik olgu",
+   "C": "Psikolojik olgu",
+   "D": "Coğrafi olgu",
+   "E": "Tarihsel olgu"
+  },
+  "dogru": "C",
+  "cozum": "Seyahat isteği/motivasyonu psikolojik bir olgudur; turizm davranışının çıkış noktası insan psikolojisidir (Ağustos 2025 sınavı, Q70 — cevap anahtarı E: Psikolojik).",
+  "hafiza_ipucu": "Gitme isteği kafada başlar: psikolojik kök.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 18
+  },
+  "akraba_cikmis_soru": "Ağustos 2025 - Q70 (akraba)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-029",
+  "konu": "Turist Davranışı",
+  "alt_konu": "motivasyon-turizm-psikoloji-iliskisi",
+  "soru": "Turizm-Psikoloji ilişkisi temel olarak neyi inceler?",
+  "siklar": {
+   "A": "Turizmin ekonomik etkilerini",
+   "B": "Turizmin çevresel etkilerini",
+   "C": "Turizmin tarihsel gelişimini",
+   "D": "Turistlerin davranışlarını",
+   "E": "Destinasyonların coğrafi dağılımını"
+  },
+  "dogru": "D",
+  "cozum": "Turizm-Psikoloji ilişkisi, turistlerin tatil ve seyahatle ilgili beklenti, tutum ve davranışlarını inceler (Şubat 2025 sınavı, Q68 — cevap anahtarı: turistlerin davranışları; ayrıca Genel Turizm Bilgisi 2021, s.40 Araştır-4).",
+  "hafiza_ipucu": "Psikoloji + turizm = davranışın izini sürer.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat 2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şubat 2025 - Q68 (akraba)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-030",
+  "konu": "Turist Davranışı",
+  "alt_konu": "motivasyon-itici-faktor",
+  "soru": "Kişinin kendi içinden kaynaklanan; kaçış, dinlenme, prestij ve merak gibi ihtiyaçlardan doğan seyahat güdülerine ne ad verilir?",
+  "siklar": {
+   "A": "Çekici (pull) faktörler",
+   "B": "Durumsal faktörler",
+   "C": "Kültürel faktörler",
+   "D": "Demografik faktörler",
+   "E": "İtici (push) faktörler"
+  },
+  "dogru": "E",
+  "cozum": "İtici (push) faktörler kişiden kaynaklanan, seyahate yönelten iç güdülerdir: kaçış, dinlenme, prestij, merak (Genel Turizm Bilgisi 2021, s.58,137 bağlamı; TURİST DAVRANIŞI konu-arkası s.5).",
+  "hafiza_ipucu": "İTİCİ içimden İTER: kaçış-merak-prestij.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-031",
+  "konu": "Turist Davranışı",
+  "alt_konu": "motivasyon-cekici-faktor",
+  "soru": "İklim, kültürel miras ve fiyat avantajı gibi destinasyondan kaynaklanan ve turisti belirli bir yere yönelten unsurlara ne ad verilir?",
+  "siklar": {
+   "A": "Çekici (pull) faktörler",
+   "B": "İtici (push) faktörler",
+   "C": "İçsel faktörler",
+   "D": "Durumsal faktörler",
+   "E": "Psikografik faktörler"
+  },
+  "dogru": "A",
+  "cozum": "Çekici (pull) faktörler destinasyondan kaynaklanan unsurlardır: iklim, kültür, fiyat gibi (Genel Turizm Bilgisi 2021, s.58,137 bağlamı).",
+  "hafiza_ipucu": "ÇEKİCİ oradan ÇEKER: deniz-kültür-fiyat.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-032",
+  "konu": "Turist Davranışı",
+  "alt_konu": "itici-cekici-karistirma",
+  "soru": "Aşağıdaki seyahat güdülerinden hangisi itici (push) değil, çekici (pull) faktöre örnektir?",
+  "siklar": {
+   "A": "Günlük yaşamdan kaçış isteği",
+   "B": "Destinasyonun ılıman iklimi",
+   "C": "Prestij kazanma isteği",
+   "D": "Merak duygusu",
+   "E": "Dinlenme ihtiyacı"
+  },
+  "dogru": "B",
+  "cozum": "İtici faktörler kişiden (kaçış, prestij, merak, dinlenme), çekici faktörler ise destinasyondan (iklim, kültür, fiyat) kaynaklanır; ılıman iklim destinasyona ait bir çekici faktördür.",
+  "hafiza_ipucu": "Kaynağa bak: kişi mi, yer mi? İklim = yer.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 58
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-033",
+  "konu": "Turist Davranışı",
+  "alt_konu": "maslow-hiyerarsi-sira",
+  "soru": "Maslow'un ihtiyaçlar hiyerarşisinde ihtiyaçlar hangi sırayla ele alınır?",
+  "siklar": {
+   "A": "Güvenlik - fizyolojik - sevgi/aidiyet - saygı - kendini gerçekleştirme",
+   "B": "Fizyolojik - sevgi/aidiyet - güvenlik - saygı - kendini gerçekleştirme",
+   "C": "Fizyolojik - güvenlik - sevgi/aidiyet - saygı - kendini gerçekleştirme",
+   "D": "Saygı - güvenlik - fizyolojik - sevgi/aidiyet - kendini gerçekleştirme",
+   "E": "Fizyolojik - güvenlik - saygı - sevgi/aidiyet - kendini gerçekleştirme"
+  },
+  "dogru": "C",
+  "cozum": "Maslow (1943), insan ihtiyaçlarını fizyolojik, güvenlik, sevgi ve aidiyet, saygı ve kendini gerçekleştirme ihtiyaçları olarak beş basamaklı bir hiyerarşide ele almıştır (Etkili İletişim Teknikleri, s.165-166).",
+  "hafiza_ipucu": "Fizyo-Güven-Sevgi-Saygı-Kendini: FGSSK merdiveni.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.txt",
+   "sayfa": 165
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-034",
+  "konu": "Turist Davranışı",
+  "alt_konu": "maslow-fizyolojik-ornek",
+  "soru": "Uyku ve beslenme ihtiyacı Maslow'un ihtiyaçlar hiyerarşisinde hangi basamakta yer alır?",
+  "siklar": {
+   "A": "Güvenlik ihtiyaçları",
+   "B": "Sevgi ve aidiyet ihtiyacı",
+   "C": "Saygı ihtiyacı",
+   "D": "Fizyolojik ihtiyaçlar",
+   "E": "Kendini gerçekleştirme ihtiyacı"
+  },
+  "dogru": "D",
+  "cozum": "Uyku, beslenme, hava teneffüs etme gibi doğuştan gelen temel ihtiyaçlar fizyolojik ihtiyaçlar basamağında yer alır (Etkili İletişim Teknikleri, s.165; TURİST DAVRANIŞI konu-arkası s.5).",
+  "hafiza_ipucu": "Uyku = piramidin en alt katı.",
+  "kaynak": {
+   "dosya": "Etkili İletişim Teknikleri_Anadolu Üni.txt",
+   "sayfa": 165
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-035",
+  "konu": "Turist Davranışı",
+  "alt_konu": "maslow-sonradan-eklenen",
+  "soru": "Maslow'un ihtiyaçlar hiyerarşisine SONRADAN dahil edilen ihtiyaç aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Fizyolojik ihtiyaçlar",
+   "B": "Güvenlik ihtiyaçları",
+   "C": "Sosyal (sevgi/aidiyet) ihtiyaçlar",
+   "D": "Kendini gerçekleştirme ihtiyacı",
+   "E": "Estetik ihtiyacı"
+  },
+  "dogru": "E",
+  "cozum": "Maslow'un orijinal beş basamaklı hiyerarşisine sonradan bilme-anlama ve estetik ihtiyaçları gibi ek kategoriler dahil edilmiştir (TURİST DAVRANIŞI konu-arkası s.5).",
+  "hafiza_ipucu": "Estetik = piramide SONRADAN eklenen kat.",
+  "kaynak": {
+   "dosya": "TURİST DAVRANIŞI.txt",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-036",
+  "konu": "Turist Davranışı",
+  "alt_konu": "gudu-tanim",
+  "soru": "İnsanı belirli bir amaç doğrultusunda yönlendiren, belirli davranışları yapmaya ya da belirli durumları elde etmeye zorlayan ve insanın içinden gelen itici güce ne ad verilir?",
+  "siklar": {
+   "A": "Güdü",
+   "B": "Tatmin",
+   "C": "Beklenti",
+   "D": "İstek",
+   "E": "Talep"
+  },
+  "dogru": "A",
+  "cozum": "Güdü, insanı belirli bir amaç doğrultusunda yönlendiren ve içten gelen itici güçtür (TURİST DAVRANIŞI konu-arkası s.5).",
+  "hafiza_ipucu": "Güdü = içten gelen İTİCİ güç.",
+  "kaynak": {
+   "dosya": "TURİST DAVRANIŞI.txt",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "TDV-037",
+  "konu": "Turist Davranışı",
+  "alt_konu": "empati-guven-senaryo",
+  "soru": "Rehber Ayşe'nin, grubundaki bir turistin bakış açısından bakarak onun duygu ve düşüncelerini doğru anlamaya çalışması (empati kurması), turist psikolojisi açısından öncelikle aşağıdakilerden hangisini güçlendirir?",
+  "siklar": {
+   "A": "Kültürel şoku",
+   "B": "Güven ve memnuniyet artışını",
+   "C": "Statü kaybını",
+   "D": "Fiyat duyarlılığını",
+   "E": "Sosyal çelişkiyi"
+  },
+  "dogru": "B",
+  "cozum": "Rehberin empatik yaklaşımı, turistle kurulan iletişimde güven ve memnuniyet artışına yol açar (Mart 2026 sınavı, Q84 — cevap anahtarı D; ayrıca Etkili İletişim Teknikleri s.22-25).",
+  "hafiza_ipucu": "Anlaşılan turist GÜVENİR.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Q84 (akraba)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-038",
+  "konu": "Turist Davranışı",
+  "alt_konu": "duygusal-bag-tekrar-ziyaret",
+  "soru": "Bir turistin ziyaret ettiği destinasyonla duygusal bağ kurması aşağıdakilerden hangisini güçlendirir?",
+  "siklar": {
+   "A": "Sosyal baskıyı",
+   "B": "Biyolojik dengeyi",
+   "C": "Tekrar ziyaret niyetini",
+   "D": "Fiyat duyarlılığını",
+   "E": "Barınma ihtiyacını"
+  },
+  "dogru": "C",
+  "cozum": "Destinasyonla duygusal bağ kuran turist, o yeri tekrar ziyaret etme ve tavsiye etme (sadakat) eğilimi gösterir (Mart 2026 sınavı, Q82 — cevap anahtarı C).",
+  "hafiza_ipucu": "Bağlanan turist GERİ GELİR.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Q82 (akraba)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "TDV-039",
+  "konu": "Turist Davranışı",
+  "alt_konu": "memnuniyet-sadakat-karistirma",
+  "soru": "Bir turistin tatil beklentileri ile algıladığı hizmet performansını karşılaştırması sonucu ortaya çıkan, tek bir deneyime dayalı değerlendirmeye ne ad verilir (destinasyona tekrar gelme ve tavsiye etme eğiliminden farklı olarak)?",
+  "siklar": {
+   "A": "Turist sadakati",
+   "B": "Duygusal bağ",
+   "C": "Turist güveni",
+   "D": "Turist memnuniyeti",
+   "E": "Marka bağlılığı"
+  },
+  "dogru": "D",
+  "cozum": "Turist memnuniyeti, beklenti ile algılanan performansın anlık karşılaştırmasıdır; sadakat ise tekrar ziyaret ve tavsiye etmeyi içeren süregelen bir ilişkidir.",
+  "hafiza_ipucu": "Memnuniyet = an; sadakat = ilişki.",
+  "kaynak": {
+   "dosya": "Genel Turizm Bilgisi_2021_Anadolu Üni.txt",
+   "sayfa": 24
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "TDV-040",
+  "konu": "Turist Davranışı",
+  "alt_konu": "sadakat-senaryo",
+  "soru": "Rehber Deniz'in turundaki bir turist, tur bitiminde işletmeyi arkadaşlarına tavsiye ediyor ve gelecek yıl aynı destinasyona tekrar gelmeyi planladığını söylüyor. Bu davranış aşağıdaki kavramlardan hangisiyle açıklanır?",
+  "siklar": {
+   "A": "Turist memnuniyeti (tek başına)",
+   "B": "Kültür şoku",
+   "C": "İtici faktör",
+   "D": "Çekici faktör",
+   "E": "Turist sadakati"
+  },
+  "dogru": "E",
+  "cozum": "Tekrar ziyaret niyeti ve tavsiye etme davranışı, memnuniyetin ötesinde süregelen bir bağlılığı yani turist sadakatini gösterir (Mart 2026 sınavı Q82 bağlamı — duygusal bağ → tekrar ziyaret niyeti).",
+  "hafiza_ipucu": "Tavsiye + tekrar gelme = sadakatin iki imzası.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Mart 2026 - Q82 bağlamı (akraba)",
+  "zorluk": "orta"
+ }
+]

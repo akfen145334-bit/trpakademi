@@ -1,0 +1,1762 @@
+[
+ {
+  "id": "KUL-001",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-kronoloji",
+  "soru": "Türkiye'nin UNESCO Dünya Miras Listesi'ndeki ilk varlıkları hangi yılda tescillenmiştir?",
+  "siklar": {
+   "A": "1985",
+   "B": "1986",
+   "C": "1988",
+   "D": "1994",
+   "E": "1998"
+  },
+  "dogru": "A",
+  "cozum": "1985'te İstanbul'un Tarihî Alanları, Göreme Millî Parkı-Kapadokya ve Divriği Ulu Camii ve Darüşşifası ile Türkiye'nin UNESCO Dünya Mirası serüveni başlamıştır.",
+  "hafiza_ipucu": "\"85'te üç kapı açıldı: İstanbul-Göreme-Divriği.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-002",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "1985 yılında UNESCO Dünya Miras Listesi'ne giren İstanbul'un Tarihî Alanları ve Göreme Millî Parkı-Kapadokya'nın yanı sıra, Sivas'ta bulunan üçüncü varlık aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Selimiye Camii ve Külliyesi",
+   "B": "Divriği Ulu Camii ve Darüşşifası",
+   "C": "Safranbolu",
+   "D": "Hattuşa",
+   "E": "Ani Ören Yeri"
+  },
+  "dogru": "B",
+  "cozum": "1985'te listeye giren üçüncü varlık, Sivas Divriği'deki Ulu Camii ve Darüşşifası'dır.",
+  "hafiza_ipucu": "\"85 üçlüsü: İstanbul-Göreme-Divriği\" — üçüncü kapı Sivas'ta.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-003",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Hitit İmparatorluğu'nun başkenti olan ve 1986 yılında UNESCO Dünya Miras Listesi'ne giren ören yeri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gordion",
+   "B": "Alacahöyük",
+   "C": "Hattuşa",
+   "D": "Ani",
+   "E": "Arslantepe"
+  },
+  "dogru": "C",
+  "cozum": "Hitit başkenti Hattuşa (Çorum), 1986'da listeye girmiştir; Alacahöyük ise Hitit dönemi açısından önemli olmakla birlikte 22'lik asıl listede DEĞİLDİR (tuzak).",
+  "hafiza_ipucu": "\"86 Hitit'i aldı\" — kronoloji zincirinin ikinci halkası; Alacahöyük listeye SIZMAZ.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-004",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Kommagene Krallığı'na ait dev heykel ve tümülüs kompleksiyle 1987 yılında UNESCO Dünya Miras Listesi'ne giren varlık aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Arslantepe Höyüğü",
+   "B": "Gordion",
+   "C": "Aphrodisias",
+   "D": "Nemrut Dağı",
+   "E": "Göbeklitepe"
+  },
+  "dogru": "D",
+  "cozum": "Adıyaman'daki Nemrut Dağı, Kommagene Kralı I. Antiokhos'un tümülüs-heykel kompleksiyle 1987'de listeye girmiştir.",
+  "hafiza_ipucu": "\"87 Nemrut'u aldı.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-005",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "1988 yılında UNESCO Dünya Miras Listesi'ne giren, Likya bölgesindeki antik kent ile kutsal alan ikilisi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efes",
+   "B": "Aphrodisias",
+   "C": "Troya",
+   "D": "Bergama",
+   "E": "Xanthos-Letoon"
+  },
+  "dogru": "E",
+  "cozum": "1988'de Likya bölgesinden Xanthos-Letoon, Pamukkale-Hierapolis ile birlikte listeye girmiştir.",
+  "hafiza_ipucu": "\"88 Likya'yı ve Pamukkale'yi aldı.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-006",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Ahşap konaklarıyla ünlü, 1994 yılında UNESCO Dünya Miras Listesi'ne giren Karabük'teki tarihî kent aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Safranbolu",
+   "B": "Divriği",
+   "C": "Ani",
+   "D": "Göbeklitepe",
+   "E": "Bursa ve Cumalıkızık"
+  },
+  "dogru": "A",
+  "cozum": "Safranbolu, geleneksel Osmanlı evleriyle 1994'te listeye girmiştir.",
+  "hafiza_ipucu": "\"90'lar = ev ve savaş: Safranbolu evleri(94).\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-007",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Homeros'un İlyada destanına konu olan ve 1998 yılında UNESCO Dünya Miras Listesi'ne giren Çanakkale'deki ören yeri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efes",
+   "B": "Troya",
+   "C": "Bergama",
+   "D": "Aphrodisias",
+   "E": "Hattuşa"
+  },
+  "dogru": "B",
+  "cozum": "Troya, 1998'de listeye girmiştir; \"90'lar = ev ve savaş\" zincirinin ikinci halkasıdır.",
+  "hafiza_ipucu": "\"98 Troya savaşı.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-008",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Mimar Sinan'ın kendi ifadesiyle ustalık eseri olarak nitelendirdiği ve 2011 yılında UNESCO Dünya Miras Listesi'ne giren yapı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Süleymaniye Camii",
+   "B": "Yeşil Cami",
+   "C": "Edirne Selimiye Camii ve Külliyesi",
+   "D": "Ulu Cami",
+   "E": "Sultanahmet Camii"
+  },
+  "dogru": "C",
+  "cozum": "Edirne'deki Selimiye Camii ve Külliyesi, 2011'de listeye girmiştir; Süleymaniye ve Sultanahmet ise ayrı birer varlık değil, \"İstanbul'un Tarihî Alanları\" içindedir.",
+  "hafiza_ipucu": "\"2010'lar kazı patlaması\" zincirinin ilk halkası: Selimiye(11).",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-009",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Dünyanın bilinen en eski ve en büyük Neolitik yerleşimlerinden biri kabul edilen, 2012 yılında UNESCO Dünya Miras Listesi'ne giren Konya'daki höyük aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Arslantepe",
+   "B": "Göbeklitepe",
+   "C": "Alacahöyük",
+   "D": "Çatalhöyük",
+   "E": "Gordion"
+  },
+  "dogru": "D",
+  "cozum": "Çatalhöyük, 2012'de listeye giren Neolitik höyüktür.",
+  "hafiza_ipucu": "\"Selimiye(11)→Çatalhöyük(12).\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-010",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "2014 yılında UNESCO Dünya Miras Listesi'ne giren, Osmanlı Devleti'nin kuruluş dönemine tanıklık eden Bursa'daki varlık aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efes",
+   "B": "Diyarbakır Kalesi ve Hevsel Bahçeleri",
+   "C": "Ani Ören Yeri",
+   "D": "Bergama",
+   "E": "Bursa ve Cumalıkızık"
+  },
+  "dogru": "E",
+  "cozum": "2014'te Bursa ve Cumalıkızık, Bergama (Pergamon) ile birlikte listeye girmiştir; Bursa-Cumalıkızık Osmanlı'nın doğuş dönemini temsil eder.",
+  "hafiza_ipucu": "\"Bursa+Bergama(14)\" ikili halkası.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-011",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Çok katmanlı bir antik kent olan Bergama (Pergamon) UNESCO Dünya Miras Listesi'ne hangi yıl girmiştir?",
+  "siklar": {
+   "A": "2014",
+   "B": "2012",
+   "C": "2015",
+   "D": "2016",
+   "E": "2017"
+  },
+  "dogru": "A",
+  "cozum": "Bergama, Bursa ve Cumalıkızık ile aynı yıl, 2014'te listeye girmiştir.",
+  "hafiza_ipucu": "\"Bursa+Bergama(14)\" ikili halkası.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-012",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "2015 yılında UNESCO Dünya Miras Listesi'ne giren, İzmir'deki antik kent aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bergama",
+   "B": "Efes",
+   "C": "Aphrodisias",
+   "D": "Troya",
+   "E": "Xanthos-Letoon"
+  },
+  "dogru": "B",
+  "cozum": "Efes, Diyarbakır Kalesi ve Hevsel Bahçeleri ile birlikte 2015'te listeye girmiştir.",
+  "hafiza_ipucu": "\"Efes+Diyarbakır(15).\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-013",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Diyarbakır Kalesi ve Hevsel Bahçeleri kültürel peyzajı UNESCO Dünya Miras Listesi'ne hangi yıl girmiştir?",
+  "siklar": {
+   "A": "2012",
+   "B": "2014",
+   "C": "2015",
+   "D": "2016",
+   "E": "2018"
+  },
+  "dogru": "C",
+  "cozum": "Diyarbakır Kalesi ve Hevsel Bahçeleri, Efes ile aynı yıl, 2015'te listeye girmiştir.",
+  "hafiza_ipucu": "\"Efes+Diyarbakır(15).\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-014",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Kars'ta bulunan ve 2016 yılında UNESCO Dünya Miras Listesi'ne giren ören yeri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Arslantepe",
+   "B": "Gordion",
+   "C": "Göbeklitepe",
+   "D": "Ani Ören Yeri",
+   "E": "Hattuşa"
+  },
+  "dogru": "D",
+  "cozum": "Ani Ören Yeri, 2016'da listeye girmiştir.",
+  "hafiza_ipucu": "\"...Ani(16)→Aphrodisias(17)→Göbeklitepe(18).\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-015",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Aydın'da bulunan ve 2017 yılında UNESCO Dünya Miras Listesi'ne giren antik kent aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Efes",
+   "B": "Bergama",
+   "C": "Xanthos-Letoon",
+   "D": "Troya",
+   "E": "Aphrodisias"
+  },
+  "dogru": "E",
+  "cozum": "Aphrodisias, 2017'de listeye girmiştir.",
+  "hafiza_ipucu": "\"Ani(16)→Aphrodisias(17).\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-016",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Dünyanın bilinen en eski tapınma alanı olarak kabul edilen ve 2018 yılında UNESCO Dünya Miras Listesi'ne giren Şanlıurfa'daki alan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Göbeklitepe",
+   "B": "Çatalhöyük",
+   "C": "Arslantepe",
+   "D": "Ani",
+   "E": "Gordion"
+  },
+  "dogru": "A",
+  "cozum": "Göbeklitepe, 2018'de listeye girmiştir.",
+  "hafiza_ipucu": "\"...Göbeklitepe(18)\" — 2010'lar zincirinin son halkası.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-017",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Malatya'da bulunan ve 2021 yılında UNESCO Dünya Miras Listesi'ne giren höyük aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Alacahöyük",
+   "B": "Arslantepe Höyüğü",
+   "C": "Çatalhöyük",
+   "D": "Gordion",
+   "E": "Göbeklitepe"
+  },
+  "dogru": "B",
+  "cozum": "Arslantepe Höyüğü, 2021'de listeye girmiştir.",
+  "hafiza_ipucu": "\"2020'ler = tepeler ve direkler: Arslantepe(21).\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-018",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-yil",
+  "soru": "Frig Krallığı'nın başkenti olan ve 2023 yılında UNESCO Dünya Miras Listesi'ne giren ören yeri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hattuşa",
+   "B": "Ani",
+   "C": "Gordion",
+   "D": "Sardes",
+   "E": "Troya"
+  },
+  "dogru": "C",
+  "cozum": "Gordion, Anadolu'nun Ahşap Direkli Camileri ile aynı yıl, 2023'te listeye girmiştir (Mar26 sınavında da UNESCO listesinde olduğu doğrulanmıştır).",
+  "hafiza_ipucu": "\"21 tepe, 23 direkli düğüm, 25 altın tümülüs.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mar26 S.41 (Gordion listede)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-019",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-liste-il",
+  "soru": "2023 yılında UNESCO Dünya Miras Listesi'ne giren \"Anadolu'nun Ahşap Direkli Camileri\" grubu içinde yer alan Ankara'daki cami aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bursa Ulu Camii",
+   "B": "Selimiye Camii",
+   "C": "Yeşil Cami",
+   "D": "Arslanhane (Ahi Şerafeddin) Camii",
+   "E": "Divriği Ulu Camii"
+  },
+  "dogru": "D",
+  "cozum": "Ankara'daki Arslanhane (Ahi Şerafeddin) Camii, 2023'te UNESCO listesine giren Ahşap Direkli Camiler grubuna dahildir.",
+  "hafiza_ipucu": "\"23 direkli düğüm: Arslanhane Ankara'nın temsilcisi.\"",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 17
+  },
+  "akraba_cikmis_soru": "Ağu25 S.67 (birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-020",
+  "konu": "kultur-mirasi",
+  "alt_konu": "son-eklenen",
+  "soru": "UNESCO Dünya Miras Listesi'ne 2025 yılında giren, Lidya uygarlığına ait tümülüslerin bulunduğu Manisa'daki varlık aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Arslantepe Höyüğü",
+   "B": "Gordion",
+   "C": "Hierapolis",
+   "D": "Ani Ören Yeri",
+   "E": "Sardes ve Bintepeler Lidya Tümülüsleri"
+  },
+  "dogru": "E",
+  "cozum": "Sardes ve Bintepeler Lidya Tümülüsleri (Salihli/Manisa), 2025'te listeye giren en son varlıktır.",
+  "hafiza_ipucu": "\"25 altın tümülüs — zincirin son halkası.\"",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 7
+  },
+  "akraba_cikmis_soru": "Ağu25 S.28 (son giren varlık)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-021",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-listede-olmayan",
+  "soru": "Aşağıdakilerden hangisi Türkiye'nin UNESCO Dünya Miras Listesi'nde YER ALMAZ?",
+  "siklar": {
+   "A": "Sümela Manastırı",
+   "B": "Hattuşa",
+   "C": "Efes",
+   "D": "Göbeklitepe",
+   "E": "Nemrut Dağı"
+  },
+  "dogru": "A",
+  "cozum": "Sümela Manastırı, UNESCO'nun geçici (~81 alanlık) listesinde bulunur; 22'lik asıl Dünya Mirası listesinde YOKTUR.",
+  "hafiza_ipucu": "\"Listede OLMAYAN tuzaklar: Knidos, Kremna, Sümela, Kekova, Alacahöyük.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-022",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-listede-olmayan",
+  "soru": "Aşağıdaki antik kentlerden hangisi UNESCO Dünya Miras Listesi'nde YER ALMAZ?",
+  "siklar": {
+   "A": "Aphrodisias",
+   "B": "Knidos Antik Kenti",
+   "C": "Troya",
+   "D": "Bergama",
+   "E": "Efes"
+  },
+  "dogru": "B",
+  "cozum": "Knidos, geçici listede bekleyen adaylardan biridir; asıl 22'lik listeye henüz girmemiştir (Mar26 sınavında da Knidos-Kremna \"listede DEĞİL\" olarak doğrulanmıştır).",
+  "hafiza_ipucu": "Tuzak grubu: Knidos-Kremna-Sümela-Kekova-Alacahöyük.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mar26 S.41 (Knidos listede DEĞİL)",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-023",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-listede-olmayan",
+  "soru": "Aşağıdakilerden hangisi UNESCO Dünya Miras Listesi'ne girmemiş, geçici listede bulunan ören yerlerinden biridir?",
+  "siklar": {
+   "A": "Çatalhöyük",
+   "B": "Arslantepe",
+   "C": "Kremna Antik Kenti",
+   "D": "Ani",
+   "E": "Gordion"
+  },
+  "dogru": "C",
+  "cozum": "Kremna Antik Kenti, geçici listedeki ~81 alandan biridir; 22'lik asıl listede DEĞİLDİR (Mar26 sınavında Kremna-listede-değil olarak doğrulanmıştır).",
+  "hafiza_ipucu": "Tuzak grubu: Knidos-Kremna-Sümela-Kekova-Alacahöyük.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mar26 S.41 (Kremna listede DEĞİL)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-024",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-listede-olmayan",
+  "soru": "Aşağıdakilerden hangisi UNESCO Dünya Miras Listesi'nde YER ALMAZ?",
+  "siklar": {
+   "A": "Divriği Ulu Camii",
+   "B": "Hattuşa",
+   "C": "Safranbolu",
+   "D": "Alacahöyük",
+   "E": "Xanthos-Letoon"
+  },
+  "dogru": "D",
+  "cozum": "Alacahöyük, listede olmayan klasik tuzaklardandır; Hitit dönemi açısından önemli bir höyük olmasına rağmen UNESCO Dünya Mirası statüsünde değildir.",
+  "hafiza_ipucu": "\"Listede OLMAYAN tuzaklar\" akrostişi: Knidos-Kremna-Sümela-Kekova-Alacahöyük.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-025",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-listede-olmayan",
+  "soru": "Antalya'nın Kaş ilçesi açıklarında sular altında kalmış antik kalıntılarıyla bilinen, ancak UNESCO Dünya Miras Listesi'ne henüz girmemiş yer aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Xanthos",
+   "B": "Letoon",
+   "C": "Patara",
+   "D": "Nemrut Dağı",
+   "E": "Kekova"
+  },
+  "dogru": "E",
+  "cozum": "Kekova, geçici listede yer alan sualtı ören yeridir; Xanthos-Letoon ise 1988'de asıl listeye girmiş ayrı bir varlıktır, Kekova ile karıştırılmamalıdır.",
+  "hafiza_ipucu": "\"Kekova batık ama listede batmamış — henüz girmedi.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-026",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-listede-olmayan",
+  "soru": "Aşağıdakilerden hangisi UNESCO Dünya Miras Listesi'nde (22'lik asıl listede) YER ALAN bir varlıktır?",
+  "siklar": {
+   "A": "Arslantepe Höyüğü",
+   "B": "Kremna",
+   "C": "Alacahöyük",
+   "D": "Sümela",
+   "E": "Knidos"
+  },
+  "dogru": "A",
+  "cozum": "Arslantepe Höyüğü 2021'de listeye girmiş gerçek bir varlıktır; diğer dört şık geçici listede bekleyen tuzaklardır.",
+  "hafiza_ipucu": "Tuzak grubunun tersten sorgulanışı: gerçek olan tek isim Arslantepe.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-027",
+  "konu": "kultur-mirasi",
+  "alt_konu": "karma-miras-tanim",
+  "soru": "UNESCO Dünya Mirası kavramında \"karma miras\" ifadesi neyi tanımlar?",
+  "siklar": {
+   "A": "Yalnızca doğal değeri olan alanları",
+   "B": "Hem doğal hem kültürel ölçütleri birlikte karşılayan alanları",
+   "C": "Yalnızca somut olmayan kültürel unsurları",
+   "D": "Geçici listede bekleyen adayları",
+   "E": "Yalnızca dinî yapıları"
+  },
+  "dogru": "B",
+  "cozum": "Karma miras, bir alanın hem doğal hem kültürel kriterleri birlikte taşıması durumunda verilen UNESCO statüsüdür.",
+  "hafiza_ipucu": "\"Doğa+kültür karışırsa KARMA olur.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-028",
+  "konu": "kultur-mirasi",
+  "alt_konu": "karma-miras-tanim",
+  "soru": "Türkiye'de UNESCO Dünya Mirası statüsündeki \"karma miras\" alanı kaç tanedir?",
+  "siklar": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "3",
+   "E": "4"
+  },
+  "dogru": "C",
+  "cozum": "Türkiye'nin yalnızca 2 karma miras alanı vardır: Göreme Millî Parkı-Kapadokya ve Pamukkale-Hierapolis (Ağu25 sınavında da doğrulanmıştır).",
+  "hafiza_ipucu": "\"Karma ikili — üçüncüsü YOK.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Ağu25 S.54 (karma miras=Pamukkale)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-029",
+  "konu": "kultur-mirasi",
+  "alt_konu": "gecici-liste-tanim",
+  "soru": "UNESCO Dünya Miras Listesi'nin \"geçici liste\"siyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Asıl listeyle aynı hukuki statüye sahiptir",
+   "B": "Geçici listedeki alanlar somut olmayan mirastır",
+   "C": "Geçici liste sadece doğal alanlardan oluşur",
+   "D": "Türkiye'nin geçici listesinde yaklaşık 81 alan bulunur ve bu alanlar henüz asıl (kalıcı) listeye girmemiştir",
+   "E": "Türkiye'nin geçici listesi yoktur"
+  },
+  "dogru": "D",
+  "cozum": "Türkiye'nin geçici listesinde Knidos, Kremna, Sümela, Kekova, Alacahöyük gibi yaklaşık 81 alan bulunur; bu alanlar asıl 22'lik listeden farklıdır ve henüz kesin tescil almamıştır.",
+  "hafiza_ipucu": "\"Asıl liste (22) ≠ Geçici liste (~81).\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-030",
+  "konu": "kultur-mirasi",
+  "alt_konu": "pamukkale-gerekce",
+  "soru": "Pamukkale-Hierapolis'in UNESCO Dünya Miras Listesi'ne \"karma miras\" olarak girme gerekçesi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yalnızca kaplıca suyunun şifa özelliği",
+   "B": "Yalnızca Hierapolis antik tiyatrosunun mimari değeri",
+   "C": "Yalnızca UNESCO'nun bölgesel kota uygulaması",
+   "D": "Yalnızca pamuk üretimiyle özdeşleşmiş yer adı",
+   "E": "Travertenlerin teraslı görünümü ve bilimsel (jeolojik) özelliği ile birlikte antik kent kalıntılarının bir arada bulunması"
+  },
+  "dogru": "E",
+  "cozum": "Pamukkale, travertenlerin teraslı görüntüsü ve bilimsel özelliğiyle doğal; Hierapolis kalıntılarıyla kültürel ölçütü birlikte karşıladığı için karma miras kabul edilmiştir.",
+  "hafiza_ipucu": "\"Traverten üstünde antik kent — karma ikilinin ikinci kanadı.\"",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 21
+  },
+  "akraba_cikmis_soru": "Ağu25 S.80 (birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-031",
+  "konu": "kultur-mirasi",
+  "alt_konu": "coklu-madde-eslestirme",
+  "soru": "I. İstanbul'un Tarihî Alanları\nII. Sümela Manastırı\nIII. Nemrut Dağı\nIV. Kekova\nV. Troya\nYukarıdakilerden hangileri UNESCO Dünya Miras Listesi'ne giren alanlar arasındadır?",
+  "siklar": {
+   "A": "I, III ve V",
+   "B": "II ve IV",
+   "C": "I ve II",
+   "D": "III ve IV",
+   "E": "II, III ve V"
+  },
+  "dogru": "A",
+  "cozum": "İstanbul'un Tarihî Alanları (1985), Nemrut Dağı (1987) ve Troya (1998) asıl listededir; Sümela ve Kekova ise geçici listede bekleyen tuzaklardır.",
+  "hafiza_ipucu": "Tuzak-liste ayrımı: gerçek üçlü I-III-V, sahte ikili II-IV.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mar26 S.41 formatına benzer (liste içi/dışı ayrımı)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-032",
+  "konu": "kultur-mirasi",
+  "alt_konu": "coklu-madde-eslestirme",
+  "soru": "I. 1986 – Hattuşa\nII. 1998 – Troya\nIII. 2012 – Efes\nIV. 2018 – Göbeklitepe\nYukarıdaki yıl-varlık eşleştirmelerinden kaç tanesi doğrudur?",
+  "siklar": {
+   "A": "1",
+   "B": "3",
+   "C": "2",
+   "D": "4",
+   "E": "0"
+  },
+  "dogru": "B",
+  "cozum": "I, II ve IV doğrudur; III yanlıştır çünkü 2012'de listeye giren varlık Efes değil Çatalhöyük'tür (Efes 2015'te listeye girmiştir).",
+  "hafiza_ipucu": "\"Efes(15), Çatalhöyük(12)\" — yıl karıştırma tuzağı.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-033",
+  "konu": "kultur-mirasi",
+  "alt_konu": "coklu-madde-eslestirme",
+  "soru": "I. Ani Ören Yeri – Kars\nII. Arslantepe Höyüğü – Malatya\nIII. Aphrodisias – Antalya\nIV. Divriği Ulu Camii ve Darüşşifası – Sivas\nYukarıdaki varlık-il eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "Yalnız III",
+   "B": "I ve III",
+   "C": "I, II ve IV",
+   "D": "II, III ve IV",
+   "E": "Hepsi"
+  },
+  "dogru": "C",
+  "cozum": "I, II ve IV doğrudur; III yanlıştır çünkü Aphrodisias Antalya'da değil Aydın'dadır.",
+  "hafiza_ipucu": "\"Aphrodisias-AYDIN (Antalya değil!)\" — sınavın klasik il tuzağı.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-034",
+  "konu": "kultur-mirasi",
+  "alt_konu": "karma-miras",
+  "soru": "I. Göreme Millî Parkı ve Kapadokya\nII. Pamukkale-Hierapolis\nIII. Troya\nIV. Efes\nYukarıdakilerden hangileri UNESCO \"karma miras\" statüsündedir?",
+  "siklar": {
+   "A": "III ve IV",
+   "B": "Yalnız II",
+   "C": "I, III ve IV",
+   "D": "I ve II",
+   "E": "Hepsi"
+  },
+  "dogru": "D",
+  "cozum": "Türkiye'nin yalnızca iki karma miras alanı I (Göreme-Kapadokya) ve II'dir (Pamukkale-Hierapolis); Troya ve Efes kültürel mirastır.",
+  "hafiza_ipucu": "\"Karma ikili — üçüncüsü YOK.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-035",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-kronoloji",
+  "soru": "I. Göbeklitepe\nII. Troya\nIII. Gordion\nIV. Safranbolu\nYukarıdaki varlıkların UNESCO Dünya Miras Listesi'ne giriş yıllarına göre EN ESKİDEN EN YENİYE doğru sıralaması aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "I-II-III-IV",
+   "B": "II-I-IV-III",
+   "C": "III-I-II-IV",
+   "D": "I-IV-II-III",
+   "E": "IV-II-I-III"
+  },
+  "dogru": "E",
+  "cozum": "Doğru kronoloji Safranbolu(1994)-Troya(1998)-Göbeklitepe(2018)-Gordion(2023) yani IV-II-I-III'tür.",
+  "hafiza_ipucu": "\"90'lar ev+savaş, 2010'lar kazı patlaması, 2020'ler tepe+direk zinciri.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-036",
+  "konu": "kultur-mirasi",
+  "alt_konu": "coklu-madde-eslestirme",
+  "soru": "I. Bursa ve Cumalıkızık\nII. Bergama (Pergamon)\nIII. Efes\nIV. Diyarbakır Kalesi ve Hevsel Bahçeleri\nYukarıdaki varlıklardan hangi ikisi aynı yıl (2014) UNESCO Dünya Miras Listesi'ne girmiştir?",
+  "siklar": {
+   "A": "I ve II",
+   "B": "III ve IV",
+   "C": "I ve III",
+   "D": "II ve IV",
+   "E": "I ve IV"
+  },
+  "dogru": "A",
+  "cozum": "Bursa-Cumalıkızık ve Bergama 2014'te; Efes ve Diyarbakır Kalesi ise 2015'te listeye girmiştir.",
+  "hafiza_ipucu": "\"Bursa+Bergama(14) → Efes+Diyarbakır(15).\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-037",
+  "konu": "kultur-mirasi",
+  "alt_konu": "karma-miras",
+  "soru": "I. Xanthos-Letoon\nII. Nemrut Dağı\nIII. Pamukkale-Hierapolis\nIV. Divriği Ulu Camii ve Darüşşifası\nYukarıda verilenlerden yalnızca biri UNESCO \"karma miras\" statüsündedir. Bu varlık hangisidir?",
+  "siklar": {
+   "A": "I",
+   "B": "III",
+   "C": "II",
+   "D": "IV",
+   "E": "Hiçbiri"
+  },
+  "dogru": "B",
+  "cozum": "Dört varlık arasında yalnızca III (Pamukkale-Hierapolis) karma mirastır; diğerleri kültürel mirastır.",
+  "hafiza_ipucu": "\"Traverten üstünde antik kent — karma.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-038",
+  "konu": "kultur-mirasi",
+  "alt_konu": "coklu-madde-eslestirme",
+  "soru": "I. Arslanhane (Ahi Şerafeddin) Camii – Ankara\nII. Gordion – Ankara\nIII. Sardes ve Bintepeler Lidya Tümülüsleri – Manisa\nIV. Hattuşa – Çorum\nYukarıdaki varlık-il eşleştirmelerinden kaç tanesi doğrudur?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "4",
+   "D": "3",
+   "E": "0"
+  },
+  "dogru": "C",
+  "cozum": "Dört eşleştirme de doğrudur: Arslanhane ve Gordion Ankara'da, Sardes-Bintepeler Manisa'da (Salihli), Hattuşa Çorum'dadır.",
+  "hafiza_ipucu": "Dört il eşleşmesi tek blokta ezberlenir.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-039",
+  "konu": "kultur-mirasi",
+  "alt_konu": "coklu-madde-eslestirme",
+  "soru": "I. Efes\nII. Bergama (Pergamon)\nIII. Aphrodisias\nIV. Troya\nYukarıdaki UNESCO Dünya Mirası varlıklarından hangileri İzmir il sınırları içindedir?",
+  "siklar": {
+   "A": "III ve IV",
+   "B": "I ve III",
+   "C": "II ve IV",
+   "D": "I ve II",
+   "E": "Hepsi"
+  },
+  "dogru": "D",
+  "cozum": "Efes (Selçuk) ve Bergama, İzmir il sınırları içindedir; Aphrodisias Aydın'da, Troya Çanakkale'dedir.",
+  "hafiza_ipucu": "\"İzmir ikilisi: Efes+Bergama.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-040",
+  "konu": "kultur-mirasi",
+  "alt_konu": "unesco-kronoloji",
+  "soru": "I. 1985\nII. 1988\nIII. 2023\nIV. 2025\nYukarıdaki yıllardan hangilerinde UNESCO Dünya Miras Listesi'ne aynı yıl içinde birden fazla varlık girmiştir?",
+  "siklar": {
+   "A": "Yalnız IV",
+   "B": "I ve IV",
+   "C": "II ve III",
+   "D": "Yalnız I",
+   "E": "I, II ve III"
+  },
+  "dogru": "E",
+  "cozum": "1985'te üç (İstanbul, Göreme-Kapadokya, Divriği), 1988'de iki (Xanthos-Letoon, Pamukkale-Hierapolis), 2023'te iki (Gordion, Ahşap Direkli Camiler) varlık birlikte girmiştir; 2025'te ise yalnızca Sardes-Bintepeler tek başına girmiştir.",
+  "hafiza_ipucu": "\"85 üçlü, 88 ikili, 23 ikili, 25 tekli — son halka yalnız kaldı.\"",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-041",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Tek bir sanatçının taklit ve öykü anlatma becerisine dayanan, 2008 yılında UNESCO Somut Olmayan Kültürel Miras Temsilî Listesi'ne kaydedilen gelenek aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Meddahlık",
+   "B": "Karagöz",
+   "C": "Âşıklık",
+   "D": "Mevlevî Sema",
+   "E": "Kırkpınar"
+  },
+  "dogru": "A",
+  "cozum": "Meddahlık, tek meddahın taklit ve hikâye anlatma sanatına dayanır; Mevlevî Sema ile birlikte 2008'de UNESCO listesine girmiştir.",
+  "hafiza_ipucu": "2008 ikilisi: Meddah (tek kişi anlatır) + Mevlevî Sema (toplu döner) — ikisi de 'M' ile başlar.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-042",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Mevlevî Sema Töreni, UNESCO Somut Olmayan Kültürel Miras Listesi'ne hangi yıl kaydedilmiştir?",
+  "siklar": {
+   "A": "2005",
+   "B": "2008",
+   "C": "2010",
+   "D": "2013",
+   "E": "2016"
+  },
+  "dogru": "B",
+  "cozum": "Mevlevî Sema Töreni, Meddahlık ile birlikte 2008 yılında UNESCO Temsilî Listesi'ne girmiştir.",
+  "hafiza_ipucu": "'8'de sema döndü, meddah anlattı' — 2008 ikilisi.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-043",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Bir ustadan çırağa saz eşliğinde şiir ve hikâye anlatma sanatını sürdüren, 2009 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren gelenek aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Meddahlık",
+   "B": "Karagöz",
+   "C": "Âşıklık Geleneği",
+   "D": "Kırkpınar",
+   "E": "Hüsn-i Hat"
+  },
+  "dogru": "C",
+  "cozum": "Âşıklık geleneği, saz eşliğinde usta-çırak ilişkisiyle aktarılan doğaçlama şiir/hikâye sanatıdır; 2009'da listeye girmiştir.",
+  "hafiza_ipucu": "Âşık = saz + söz; 'aşk ile söyler, çırağına öğretir'.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-044",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Gölge oyunu tekniğine dayanan ve 2009 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren geleneksel Türk tiyatrosu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Meddahlık",
+   "B": "Ortaoyunu",
+   "C": "Âşıklık",
+   "D": "Karagöz",
+   "E": "Kırkpınar"
+  },
+  "dogru": "D",
+  "cozum": "Karagöz, deriden yapılmış tasvirlerin beyaz perdede gölgesiyle oynatıldığı gölge oyunudur; 2009'da UNESCO listesine girmiştir.",
+  "hafiza_ipucu": "Karagöz = perdede GÖLGE; Nevruz ile aynı yıl (2009) girmiştir.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-045",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Nevruz ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "2009 yılında ortak dosya ile UNESCO listesine girmiştir.",
+   "B": "Doğanın uyanışını ve baharın gelişini simgeler.",
+   "C": "Birden fazla ülkenin ortak başvurusuyla tescillenmiştir.",
+   "D": "Somut Olmayan Kültürel Miras Temsilî Listesi'nde yer alır.",
+   "E": "İlk kar yağışını simgeleyen bir kutlamadır."
+  },
+  "dogru": "E",
+  "cozum": "Nevruz, doğanın uyanışını/baharın gelişini simgeler; 'ilk kar yağışı' ifadesi yanlıştır. Mart 2026 sınavında tam bu tuzak sorulmuştur.",
+  "hafiza_ipucu": "Nevruz ≠ kar; Nevruz = bahar/uyanış. Kar ile karıştırma çapası.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mar26: Nevruz 'ilk kar yağışını simgeler' ifadesinin yanlışlığı soruldu",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-046",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Yağlı güreş geleneği olan ve 2010 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren Kırkpınar, hangi ilimizle özdeşleşmiştir?",
+  "siklar": {
+   "A": "Edirne",
+   "B": "Manisa",
+   "C": "Konya",
+   "D": "Rize",
+   "E": "Antep"
+  },
+  "dogru": "A",
+  "cozum": "Kırkpınar yağlı güreşleri Edirne'de düzenlenir ve gelenek 2010'da UNESCO listesine girmiştir.",
+  "hafiza_ipucu": "Kırkpınar = Edirne'de KIRK pınar efsanesi.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-047",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "2012 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren Mesir Macunu Festivali, hangi ilimizle özdeşleşmiştir?",
+  "siklar": {
+   "A": "Rize",
+   "B": "Manisa",
+   "C": "Gaziantep",
+   "D": "Antalya",
+   "E": "Eskişehir"
+  },
+  "dogru": "B",
+  "cozum": "Mesir Macunu Festivali Manisa'da düzenlenir; 2012'de UNESCO listesine girmiştir.",
+  "hafiza_ipucu": "Mesir = Manisa; Ağustos 2025 sınavında bu eşleştirme doğrudan soruldu.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Ağu25: Mesir Macunu-Manisa",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-048",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Kavurma, öğütme ve pişirme aşamalarıyla ayrı bir sosyal kültür oluşturan ve 2013 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren unsur aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Çay kültürü",
+   "B": "Mesir macunu",
+   "C": "Türk kahvesi kültürü ve geleneği",
+   "D": "İnce ekmek",
+   "E": "Ebru"
+  },
+  "dogru": "C",
+  "cozum": "Türk kahvesi kültürü ve geleneği, 2013 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne kaydedilmiştir.",
+  "hafiza_ipucu": "Kahve = 2013; çayın (2022) tam 9 yıl önce tescillenen 'büyük kardeşi'.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-049",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Su yüzeyine boyalarla desen oluşturup kağıda aktarma sanatı olan ve 2014 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren geleneksel sanat aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hüsn-i Hat",
+   "B": "Minyatür",
+   "C": "Tezhip",
+   "D": "Ebru",
+   "E": "Çini"
+  },
+  "dogru": "D",
+  "cozum": "Ebru, su üzerine boyalarla desen verip kağıda aktarma sanatıdır; 2014'te UNESCO listesine girmiştir.",
+  "hafiza_ipucu": "Ebru = su üstünde EBRU-vari (damarlı) desen; 'su kağıda göç eder'.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-050",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "2016 yılında ortak dosya ile UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren, yufka benzeri geleneksel ekmek yapım ve paylaşım pratiği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Pide yapımı",
+   "B": "Simit yapımı",
+   "C": "Lavaş",
+   "D": "Katmer",
+   "E": "İnce ekmek yapımı ve paylaşımı geleneği"
+  },
+  "dogru": "E",
+  "cozum": "İnce ekmek yapımı ve paylaşımı geleneği, 2016'da ortak dosyayla (Kazakistan, Kırgızistan, İran vb.) UNESCO listesine girmiştir.",
+  "hafiza_ipucu": "İnce ekmek = ortak dosya, 2016; 'ince ekmek, ortak sofra'.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-051",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Güzel yazı yazma sanatı olarak bilinen ve 2021 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne kaydedilen gelenek aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hüsn-i Hat",
+   "B": "Ebru",
+   "C": "Tezhip",
+   "D": "Minyatür",
+   "E": "Kat'ı"
+  },
+  "dogru": "A",
+  "cozum": "Hüsn-i Hat (güzel yazı sanatı), 2021 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne girmiştir.",
+  "hafiza_ipucu": "Hüsn-i Hat = 'HÜSN' (güzellik) + yazı; 2021 = yakın tarihli, hatırda tut.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-052",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "2022 yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne giren, demleme-sunum-sohbet boyutlarıyla toplumsal bir ritüel niteliği taşıyan unsur aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Türk kahvesi kültürü",
+   "B": "Çay kültürü ve geleneği",
+   "C": "Şerbet kültürü",
+   "D": "Mesir macunu",
+   "E": "İnce ekmek"
+  },
+  "dogru": "B",
+  "cozum": "Çay kültürü ve geleneği, İpek böcekçiliği ile birlikte 2022'de UNESCO listesine girmiştir.",
+  "hafiza_ipucu": "2022 ikilisi: Çay (demlenir) + İpek (dut yaprağından dokunur).",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-053",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "2022 yılında ortak dosya ile UNESCO listesine giren 'İpek böcekçiliği ve dokuma için ipeğin geleneksel üretimi' unsuru, hangi ağacın yetiştiriciliğine doğrudan bağlıdır?",
+  "siklar": {
+   "A": "Zeytin",
+   "B": "Ceviz",
+   "C": "Dut",
+   "D": "Kestane",
+   "E": "Fıstık"
+  },
+  "dogru": "C",
+  "cozum": "İpek böceği dut yaprağıyla beslendiğinden, ipek üretimi doğrudan dut ağacı yetiştiriciliğine bağlıdır; Mart 2026 sınavında bu bağlantı sorulmuştur.",
+  "hafiza_ipucu": "İpek böceği dut yer; 'dut olmadan ipek olmaz'.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mar26: ipek üretiminin bağlı olduğu ağaç (dut) soruldu",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-054",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Aralık 2025'te UNESCO Somut Olmayan Kültürel Miras Temsilî Listesi'ne kaydedilen ve Türkiye'nin listedeki en güncel unsuru olan gelenek aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Çay kültürü",
+   "B": "Hüsn-i Hat",
+   "C": "İpek böcekçiliği",
+   "D": "Antep işi nakışı",
+   "E": "Mesir macunu"
+  },
+  "dogru": "D",
+  "cozum": "Antep işi nakışı, Aralık 2025'te UNESCO listesine girerek Türkiye'nin en son eklenen somut olmayan miras unsuru olmuştur.",
+  "hafiza_ipucu": "En güncel = en son harf sırasına değil, en son TARİHE bak: Aralık 2025 → Antep işi nakışı.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-055",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Antep işi nakışının UNESCO Somut Olmayan Kültürel Miras Listesi'ne girdiği tarih aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Aralık 2022",
+   "B": "Aralık 2023",
+   "C": "Aralık 2024",
+   "D": "Ocak 2026",
+   "E": "Aralık 2025"
+  },
+  "dogru": "E",
+  "cozum": "Antep işi nakışı Aralık 2025'te UNESCO Somut Olmayan Kültürel Miras Listesi'ne kaydedilmiştir.",
+  "hafiza_ipucu": "Aralık 2025 = listedeki 32. ve en son unsur.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-056",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Aşağıdaki unsur-yıl eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Türk kahvesi kültürü - 2016",
+   "B": "Kırkpınar - 2010",
+   "C": "Ebru - 2014",
+   "D": "Hüsn-i Hat - 2021",
+   "E": "Çay kültürü - 2022"
+  },
+  "dogru": "A",
+  "cozum": "Türk kahvesi kültürü 2013'te listeye girmiştir; 2016 yılı ise ince ekmek yapımı geleneğine aittir. Diğer eşleştirmeler doğrudur.",
+  "hafiza_ipucu": "Kahve-2013 ile ekmek-2016'yı karıştırma; '13 kahve, 16 ekmek'.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-057",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "I. Meddahlık (2008)\nII. Kırkpınar (2010)\nIII. Hüsn-i Hat (2021)\nIV. Çay kültürü (2022)\nYukarıdaki unsur-yıl eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I, II, III ve IV",
+   "C": "I ve II",
+   "D": "III ve IV",
+   "E": "II, III ve IV"
+  },
+  "dogru": "B",
+  "cozum": "Dört eşleştirme de doğrudur: Meddahlık 2008, Kırkpınar 2010, Hüsn-i Hat 2021, Çay kültürü 2022 UNESCO listesine giriş yıllarıdır.",
+  "hafiza_ipucu": "Kronoloji zinciri: 08-Meddah, 10-Kırkpınar, 21-Hat, 22-Çay.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-058",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Aşağıdakilerden hangisi UNESCO Somut Olmayan Kültürel Miras 'Acil Koruma Gerektiren Miras Listesi'nde yer alan bir Türkiye unsurudur?",
+  "siklar": {
+   "A": "Karagöz",
+   "B": "Kırkpınar",
+   "C": "Islık dili",
+   "D": "Ebru",
+   "E": "Hüsn-i Hat"
+  },
+  "dogru": "C",
+  "cozum": "Islık dili, Türkiye'nin Acil Koruma Gerektiren Somut Olmayan Kültürel Miras Listesi'ndeki 3 unsurdan biridir; diğerleri Temsilî Listede yer alır.",
+  "hafiza_ipucu": "Acil koruma = kaybolma riski taşıyan; Islık dili konuşanı azaldığı için bu listede.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-059",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "2025 yılı itibarıyla Türkiye'nin UNESCO Somut Olmayan Kültürel Miras Listeleri'nde (Temsilî + Acil Koruma) toplam kaç unsuru bulunmaktadır?",
+  "siklar": {
+   "A": "22",
+   "B": "27",
+   "C": "29",
+   "D": "32",
+   "E": "35"
+  },
+  "dogru": "D",
+  "cozum": "Türkiye'nin toplam somut olmayan kültürel miras unsuru sayısı, Aralık 2025'te Antep işi nakışının eklenmesiyle 32'ye ulaşmıştır (29 Temsilî + 3 Acil Koruma).",
+  "hafiza_ipucu": "22 = Dünya Mirası (taş); 32 = Somut Olmayan (yaşayan kültür) — iki sayıyı karıştırma!",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-060",
+  "konu": "kultur-mirasi",
+  "alt_konu": "somut-olmayan-miras",
+  "soru": "Acil Koruma Gerektiren Somut Olmayan Kültürel Miras Listesi'ndeki Islık dili geleneği, Türkiye'nin hangi yöresiyle özdeşleşmiştir?",
+  "siklar": {
+   "A": "Hemşin (Rize)",
+   "B": "Datça (Muğla)",
+   "C": "Kaş (Antalya)",
+   "D": "Bozcaada (Çanakkale)",
+   "E": "Kuşköy (Giresun)"
+  },
+  "dogru": "E",
+  "cozum": "Islık dili (kuş dili), Giresun'un Kuşköy yöresinde konuşulan ve UNESCO Acil Koruma Listesi'nde yer alan bir iletişim geleneğidir.",
+  "hafiza_ipucu": "Kuşköy = 'kuş gibi ıslıkla konuşulan köy'.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-061",
+  "konu": "kultur-mirasi",
+  "alt_konu": "yaratici-sehirler-agi",
+  "soru": "UNESCO Yaratıcı Şehirler Ağı'na 'Gastronomi' alanında dahil olan ilk Türk şehri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gaziantep",
+   "B": "Hatay",
+   "C": "Afyonkarahisar",
+   "D": "İstanbul",
+   "E": "Kütahya"
+  },
+  "dogru": "A",
+  "cozum": "Gaziantep, 2015 yılında UNESCO Yaratıcı Şehirler Ağı'na 'Gastronomi' alanında giren ilk Türk şehridir.",
+  "hafiza_ipucu": "Gastronomi üçlüsünün ilki: 2015 Gaziantep.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-062",
+  "konu": "kultur-mirasi",
+  "alt_konu": "yaratici-sehirler-agi",
+  "soru": "Aşağıdaki şehirlerden hangisi UNESCO Yaratıcı Şehirler Ağı'na 2019 yılında 'Gastronomi' alanında katılmıştır?",
+  "siklar": {
+   "A": "Gaziantep",
+   "B": "Afyonkarahisar",
+   "C": "Hatay",
+   "D": "İstanbul",
+   "E": "Kırşehir"
+  },
+  "dogru": "B",
+  "cozum": "Afyonkarahisar, gastronomi üçlüsünün 2019'da katılan üyesidir (Gaziantep 2015, Hatay 2017, Afyonkarahisar 2019).",
+  "hafiza_ipucu": "Gastronomi kronolojisi: 15-17-19, sırayla Gaziantep-Hatay-Afyon.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-063",
+  "konu": "kultur-mirasi",
+  "alt_konu": "yaratici-sehirler-agi",
+  "soru": "I. Gaziantep\nII. Hatay\nIII. Afyonkarahisar\nIV. Bursa\nYukarıdaki şehirlerden hangileri UNESCO Yaratıcı Şehirler Ağı'na 'Gastronomi' alanında dahil edilmiştir?",
+  "siklar": {
+   "A": "I ve II",
+   "B": "I, III ve IV",
+   "C": "I, II ve III",
+   "D": "II, III ve IV",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "C",
+  "cozum": "Gastronomi alanındaki Türk şehirleri Gaziantep, Hatay ve Afyonkarahisar'dır; Bursa bu ağda yer almaz (Mart 2026 sınavında Bursa çeldirici olarak kullanılmıştır).",
+  "hafiza_ipucu": "'G-H-A: Güzel Habire Atıştır' — Bursa/İzmir bu üçlüye sızan çeldiricidir.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mar26: gastronomi üçlüsü (İzmir/Bursa çeldirici)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-064",
+  "konu": "kultur-mirasi",
+  "alt_konu": "yaratici-sehirler-agi",
+  "soru": "UNESCO Yaratıcı Şehirler Ağı'nda 'Tasarım' alanında yer alan Türk şehri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kırşehir",
+   "B": "Kütahya",
+   "C": "Antalya",
+   "D": "İstanbul",
+   "E": "İzmir"
+  },
+  "dogru": "D",
+  "cozum": "İstanbul, UNESCO Yaratıcı Şehirler Ağı'na 'Tasarım' alanında dahil olmuştur.",
+  "hafiza_ipucu": "İstanbul = büyük şehir, büyük tasarım.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-065",
+  "konu": "kultur-mirasi",
+  "alt_konu": "yaratici-sehirler-agi",
+  "soru": "Aşağıdaki şehir-alan eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Kırşehir - Müzik",
+   "B": "Kütahya - Zanaat ve Halk Sanatı",
+   "C": "İstanbul - Tasarım",
+   "D": "Gaziantep - Gastronomi",
+   "E": "Afyonkarahisar - Müzik"
+  },
+  "dogru": "E",
+  "cozum": "Afyonkarahisar, UNESCO Yaratıcı Şehirler Ağı'na 'Gastronomi' alanında girmiştir, 'Müzik' alanına giren şehir Kırşehir'dir.",
+  "hafiza_ipucu": "Müzik = Kırşehir (Aşık Paşa diyarı); Afyon üçlünün gastronomi üyesi.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-066",
+  "konu": "kultur-mirasi",
+  "alt_konu": "yaratici-sehirler-agi",
+  "soru": "Aşağıdakilerden hangisi UNESCO Yaratıcı Şehirler Ağı'na dahil olan bir Türk şehri DEĞİLDİR?",
+  "siklar": {
+   "A": "Seferihisar",
+   "B": "Gaziantep",
+   "C": "Kırşehir",
+   "D": "Kütahya",
+   "E": "İstanbul"
+  },
+  "dogru": "A",
+  "cozum": "Seferihisar, UNESCO Yaratıcı Şehirler Ağı'na değil, İtalya kökenli Cittaslow (Sakin Şehir) ağına üyedir; ikisi ayrı kuruluşlardır.",
+  "hafiza_ipucu": "Seferihisar = Cittaslow'un ilk üyesi, Yaratıcı Şehirler Ağı'nda DEĞİL — iki ağı karıştırma.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-067",
+  "konu": "kultur-mirasi",
+  "alt_konu": "cittaslow",
+  "soru": "Cittaslow (Sakin Şehir) hareketi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "siklar": {
+   "A": "UNESCO'ya bağlı resmi bir listedir.",
+   "B": "İtalya kökenli bağımsız bir şehir ağıdır.",
+   "C": "Yalnızca gastronomi şehirlerini kapsar.",
+   "D": "Türkiye'de ilk üye Kütahya'dır.",
+   "E": "2022 yılında kurulmuştur."
+  },
+  "dogru": "B",
+  "cozum": "Cittaslow, UNESCO'ya bağlı olmayan, İtalya kökenli bağımsız bir 'sakin şehir' ağıdır.",
+  "hafiza_ipucu": "Cittaslow İtalyanca 'sakin şehir' demektir; UNESCO ile karıştırma.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-068",
+  "konu": "kultur-mirasi",
+  "alt_konu": "cittaslow",
+  "soru": "Türkiye'nin Cittaslow (Sakin Şehir) ağına katılan ilk şehri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Halfeti",
+   "B": "Şavşat",
+   "C": "Seferihisar",
+   "D": "Arapgir",
+   "E": "Yenipazar"
+  },
+  "dogru": "C",
+  "cozum": "Seferihisar (İzmir), Türkiye'nin Cittaslow ağına katılan ilk şehridir.",
+  "hafiza_ipucu": "Seferihisar = 'sefere çıkmayan liman', ilk sakin şehir.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-069",
+  "konu": "kultur-mirasi",
+  "alt_konu": "cittaslow",
+  "soru": "Aşağıdakilerden hangisi Cittaslow (Sakin Şehir) ağı üyesi DEĞİLDİR?",
+  "siklar": {
+   "A": "Halfeti",
+   "B": "Şavşat",
+   "C": "Arapgir",
+   "D": "Hemşin",
+   "E": "Yenipazar"
+  },
+  "dogru": "D",
+  "cozum": "Hemşin, Cittaslow ağı üyesi değildir; bu, Ağustos 2025 sınavında sorulan bir tuzaktır. Halfeti, Şavşat, Arapgir ve Yenipazar üyedir.",
+  "hafiza_ipucu": "'Sakin şehirde HEMŞİN yok — Hemşin çayı hızlı demlenir!'",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Ağu25: Cittaslow listesinde olmayan (Hemşin)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-070",
+  "konu": "kultur-mirasi",
+  "alt_konu": "cittaslow",
+  "soru": "I. Arapgir\nII. Halfeti\nIII. Şavşat\nIV. Hemşin\nYukarıdaki yerleşimlerden hangileri Cittaslow (Sakin Şehir) ağı üyesidir?",
+  "siklar": {
+   "A": "Yalnız IV",
+   "B": "I ve IV",
+   "C": "II, III ve IV",
+   "D": "I, II, III ve IV",
+   "E": "I, II ve III"
+  },
+  "dogru": "E",
+  "cozum": "Arapgir, Halfeti ve Şavşat Cittaslow ağı üyesidir; Hemşin üye değildir.",
+  "hafiza_ipucu": "Üç gerçek üye + bir sahte (Hemşin) — Ağu25 mantığının çoklu-madde hâli.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-071",
+  "konu": "kultur-mirasi",
+  "alt_konu": "cittaslow",
+  "soru": "Cittaslow ağı ile UNESCO Yaratıcı Şehirler Ağı arasındaki temel fark aşağıdakilerden hangisiyle doğru ifade edilmiştir?",
+  "siklar": {
+   "A": "Cittaslow İtalya kökenli bağımsız bir ağdır, Yaratıcı Şehirler Ağı ise UNESCO'ya bağlıdır.",
+   "B": "İkisi de aynı kuruluşa bağlıdır.",
+   "C": "Cittaslow yalnızca gastronomi şehirlerini kapsar.",
+   "D": "Yaratıcı Şehirler Ağı sadece Avrupa şehirlerini kapsar.",
+   "E": "İkisi de yalnızca küçük şehirleri kabul eder."
+  },
+  "dogru": "A",
+  "cozum": "Cittaslow, İtalya kökenli bağımsız bir sivil ağdır; UNESCO Yaratıcı Şehirler Ağı ise doğrudan UNESCO çatısı altındadır.",
+  "hafiza_ipucu": "Gastronomi = UNESCO'nun; sakinlik = İtalyan ağının.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-072",
+  "konu": "kultur-mirasi",
+  "alt_konu": "cografi-isaret",
+  "soru": "Coğrafi işaretli bir ürün olan lületaşı, aşağıdaki illerimizden hangisiyle özdeşleşmiştir?",
+  "siklar": {
+   "A": "Rize",
+   "B": "Eskişehir",
+   "C": "Gaziantep",
+   "D": "Manisa",
+   "E": "Mardin"
+  },
+  "dogru": "B",
+  "cozum": "Lületaşı, Eskişehir'e özgü, coğrafi işaret tescilli bir madendir/ürünüdür; Şubat 2025 sınavında iki kez sorulmuştur.",
+  "hafiza_ipucu": "Lüle-taşı = Eskişehir'in beyaz hazinesi (Şub25 ×2 çıktı).",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Şub25: lületaşı-Eskişehir (×2)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-073",
+  "konu": "kultur-mirasi",
+  "alt_konu": "cografi-isaret",
+  "soru": "Coğrafi işaret tescilli Anzer balı, hangi ilimizin ürünüdür?",
+  "siklar": {
+   "A": "Trabzon",
+   "B": "Artvin",
+   "C": "Rize",
+   "D": "Giresun",
+   "E": "Ordu"
+  },
+  "dogru": "C",
+  "cozum": "Anzer balı, Rize'nin Anzer yaylasına özgü, coğrafi işaret tescilli bir bal çeşididir; Mart 2026 sınavında sorulmuştur.",
+  "hafiza_ipucu": "Anzer = Rize'nin yaylası; balı da oradan.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mar26: Anzer balı-Rize",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-074",
+  "konu": "kultur-mirasi",
+  "alt_konu": "cografi-isaret",
+  "soru": "Avrupa Birliği'nde coğrafi işaret tescili alan ilk Türk ürünü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Lületaşı",
+   "B": "Anzer balı",
+   "C": "Malatya kayısısı",
+   "D": "Antep baklavası",
+   "E": "Aydın inciri"
+  },
+  "dogru": "D",
+  "cozum": "Antep baklavası, Avrupa Birliği nezdinde coğrafi işaret tescili alan ilk Türk ürünüdür.",
+  "hafiza_ipucu": "Baklava = ilk sırada; Antep işi hem nakışta hem tatlıda öncü.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-075",
+  "konu": "kultur-mirasi",
+  "alt_konu": "cografi-isaret",
+  "soru": "I. Lületaşı - Eskişehir\nII. Anzer balı - Rize\nIII. Antep baklavası - Gaziantep\nYukarıdaki coğrafi işaret-yöre eşleştirmelerinden hangileri doğrudur?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve II",
+   "C": "II ve III",
+   "D": "Yalnız III",
+   "E": "I, II ve III"
+  },
+  "dogru": "E",
+  "cozum": "Üç eşleştirme de doğrudur: lületaşı Eskişehir, Anzer balı Rize, Antep baklavası Gaziantep coğrafi işaretleridir.",
+  "hafiza_ipucu": "Üç coğrafi işaret, üç şehir — hepsi rehberde doğrulanmış çıkmış bilgiler.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-076",
+  "konu": "kultur-mirasi",
+  "alt_konu": "anma-baskent",
+  "soru": "UNESCO tarafından Mevlana'nın doğumunun 800. yıl dönümü nedeniyle hangi yıl 'Mevlana Yılı' ilan edilmiştir?",
+  "siklar": {
+   "A": "2007",
+   "B": "2005",
+   "C": "2010",
+   "D": "2013",
+   "E": "2015"
+  },
+  "dogru": "A",
+  "cozum": "UNESCO, Mevlana'nın doğumunun 800. yıl dönümü nedeniyle 2007 yılını Mevlana Yılı ilan etmiştir; Mart 2026 sınavında sorulmuştur.",
+  "hafiza_ipucu": "800. yıl = 2007; Mevlevî Sema'nın listeye girişinden (2008) bir yıl önce.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Mar26: 2007 UNESCO Mevlana Yılı",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-077",
+  "konu": "kultur-mirasi",
+  "alt_konu": "anma-baskent",
+  "soru": "2013 yılında 'Türk Dünyası Kültür Başkenti' unvanını taşıyan şehrimiz aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Konya",
+   "B": "Eskişehir",
+   "C": "Kayseri",
+   "D": "Bursa",
+   "E": "Erzurum"
+  },
+  "dogru": "B",
+  "cozum": "Eskişehir, 2013 yılında Türk Dünyası Kültür Başkenti unvanını taşımıştır; Şubat 2025 sınavında iki kez sorulmuştur.",
+  "hafiza_ipucu": "Eskişehir hem lületaşının hem 2013 Türk Dünyası Kültür Başkenti'nin şehri.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Şub25: Türk Dünyası Kültür Başkenti-Eskişehir (×2)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "KUL-078",
+  "konu": "kultur-mirasi",
+  "alt_konu": "anma-baskent",
+  "soru": "'Türk Dünyası Kültür Başkenti' unvanını taşıyan ilk şehir aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Eskişehir",
+   "B": "Bursa",
+   "C": "Astana",
+   "D": "Bakü",
+   "E": "Bişkek"
+  },
+  "dogru": "C",
+  "cozum": "Türk Dünyası Kültür Başkenti unvanını taşıyan ilk şehir 2012'de Astana'dır; Eskişehir bu unvanı 2013'te devralmıştır.",
+  "hafiza_ipucu": "Sıra: 2012 Astana (ilk) → 2013 Eskişehir (ikinci).",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "KUL-079",
+  "konu": "kultur-mirasi",
+  "alt_konu": "dini-mekan-sehir",
+  "soru": "Aşağıdaki dinî mekân-şehir eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Surp Giragos Ermeni Kilisesi - Diyarbakır",
+   "B": "Akdamar Kilisesi - Van",
+   "C": "Deyrulzafaran Manastırı - Mardin",
+   "D": "Mor Gabriel Manastırı - Antakya",
+   "E": "Sümela Manastırı - Trabzon"
+  },
+  "dogru": "D",
+  "cozum": "Mor Gabriel Manastırı, Mardin'in Midyat ilçesindedir, Antakya'da değildir; diğer eşleştirmeler doğrudur.",
+  "hafiza_ipucu": "Mor Gabriel = Midyat/Mardin, Antakya değil — Ağu25 dinî mekân sorusunun tuzak mantığı.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Ağu25: dinî mekân-şehir eşleştirmeleri (Surp Giragos-Diyarbakır doğru cevaptı)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "KUL-080",
+  "konu": "kultur-mirasi",
+  "alt_konu": "dini-mekan-sehir",
+  "soru": "Süryani Ortodoks Kadim Kilisesi'nin önemli merkezlerinden olan Deyrulzafaran Manastırı hangi ilimizdedir?",
+  "siklar": {
+   "A": "Van",
+   "B": "Diyarbakır",
+   "C": "Şanlıurfa",
+   "D": "Batman",
+   "E": "Mardin"
+  },
+  "dogru": "E",
+  "cozum": "Deyrulzafaran Manastırı Mardin'dedir; Akdamar'ın (Van) Deyrulzafaran ile karıştırılması sık yapılan bir sınav tuzağıdır.",
+  "hafiza_ipucu": "Deyrulzafaran = Mardin taşıyla aynı safran tonunda; Akdamar ile karıştırma.",
+  "kaynak": {
+   "dosya": "rehber/06-kultur-mirasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ }
+]

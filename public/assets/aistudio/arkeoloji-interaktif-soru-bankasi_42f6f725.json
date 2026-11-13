@@ -1,0 +1,793 @@
+{
+  "ders_kodu": "ARK",
+  "ders_adi": "Arkeoloji",
+  "toplam_soru_mufredat": 573,
+  "aciklama": "TRP Egitim Platformu icin hazirlanmis, 5 alt basliga gore tam yapilandirilmis interaktif test sistemi veri seti.",
+  "alt_basliklar": [
+    {
+      "alt_baslik_id": "ARK_01",
+      "alt_baslik_adi": "Arkeolojinin Tanımı ve Yardımcı Bilimleri",
+      "mufredat_soru_sayisi": 116,
+      "sorular": [
+        {
+          "id": "ARK_01_001",
+          "soru": "Taş, mermer, metal veya pişmiş toprak gibi sert ve dayanıklı malzemeler üzerine kazınmış veya boyanmış yazıtları, anıt metinlerini, kanun levhalarını ve mezar kitabelerini inceleyen arkeolojiye yardımcı bilim dalı aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Paleografya",
+            "B": "Epigrafi",
+            "C": "Nümismatik",
+            "D": "Filoloji",
+            "E": "Etnografya"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Epigrafi sert zeminler üzerindeki yazıtları inceler. Kağıt, papirüs ve parşömen üzerindeki el yazılarını inceleyen bilim ise paleografyadır.",
+          "hafiza_capasi": "Epigrafi = Taş üstü yazıt/kitabe bilimi.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_01_002",
+          "soru": "Eski madeni paraları, antik sikkeleri, madalyonları ve bunların üzerindeki hükümdar portrelerini, basım yıllarını ve darphane mühürlerini inceleyen bilim dalı aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Stratigrafi",
+            "B": "Sfragistika",
+            "C": "Nümismatik (Meskûkât)",
+            "D": "Paleantropoloji",
+            "E": "Metroloji"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Nümismatik (meskûkât), antik sikkelerin ağırlık, darphane ve ikonografi özelliklerini inceleyerek dönemin ekonomik gücünü ve egemenlik sınırlarını aydınlatır.",
+          "hafiza_capasi": "Nümismatik = Sikke ve madeni para bilimi.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_01_003",
+          "soru": "Papirüs, parşömen ve kağıt gibi organik ve yumuşak malzemeler üzerine yazılmış eski el yazılarını ve alfabelerin tarihsel biçimsel gelişimini inceleyen bilim dalı hangisidir?",
+          "secenekler": {
+            "A": "Epigrafi",
+            "B": "Paleografya",
+            "C": "Heraldik",
+            "D": "Antropoloji",
+            "E": "Geneloji"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Paleografya yumuşak zeminli el yazmalarını çözen bilim dalıdır; sert zeminler ise epigrafi alanıdır.",
+          "hafiza_capasi": "Paleo-grafya = Eski el yazması uzmanlığı.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_01_004",
+          "soru": "Türkiye'nin tek Neandertal insanı fosil kalıntısının (çene ve diş fosili) bulunduğu, Paleolitik dönemin en önemli mağara yerleşimi aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Yarımburgaz Mağarası",
+            "B": "Beldibi Mağarası",
+            "C": "Karain Mağarası",
+            "D": "Öküzini Mağarası",
+            "E": "Üçağızlı Mağarası"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Antalya Karain Mağarası, Türkiye'de Orta Paleolitik döneme ait tek Neandertal fosilinin bulunduğu en zengin mağaradır.",
+          "hafiza_capasi": "Karain = Tek Neandertal fosili, Antalya.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_01_005",
+          "soru": "Dünyanın en önemli sualtı arkeoloji müzelerinden biri kabul edilen ve Geç Tunç Çağı'na ait dünyaca ünlü Uluburun Batığı'nın sergilendiği müze nerededir?",
+          "secenekler": {
+            "A": "Antalya Müzesi",
+            "B": "Bodrum Sualtı Arkeoloji Müzesi",
+            "C": "İstanbul Arkeoloji Müzeleri",
+            "D": "İzmir Arkeoloji Müzesi",
+            "E": "Mersin Deniz Müzesi"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Bodrum Kalesi içinde yer alan Bodrum Sualtı Arkeoloji Müzesi, Türkiye'nin ilk ve en ünlü sualtı müzesidir; Uluburun ve Gelidonya batıkları burada sergilenir.",
+          "hafiza_capasi": "Bodrum = Sualtı arkeolojisinin başkenti, Uluburun batığı.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_01_006",
+          "soru": "Antik yerleşimlerde bulunan tohum, kömürleşmiş ahşap ve polen fosillerini inceleyerek geçmişin iklimini ve tarımsal faaliyetlerini araştıran uzmanlık alanı hangisidir?",
+          "secenekler": {
+            "A": "Arkeobotanik (Palinoloji)",
+            "B": "Arkeozooloji",
+            "C": "Jeomorfoloji",
+            "D": "Petrografi",
+            "E": "Speleoloji"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Arkeobotanik ve polen bilimi olan palinoloji, antik tohum ve bitki kalıntılarını inceleyerek geçmişin tarım ve beslenme modellerini çıkarır.",
+          "hafiza_capasi": "Arkeobotanik = Tohum, polen ve antik tarım bilimi.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_01_007",
+          "soru": "Eski çağlara ait mühürleri, mühür baskılarını (bulla) ve resmi damgaları inceleyen yardımcı bilim dalı aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Heraldik",
+            "B": "Sfragistika",
+            "C": "Nümismatik",
+            "D": "Metroloji",
+            "E": "Stratigrafi"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Sfragistika (mühür bilimi), antik kil mühür baskılarını (bulla) ve damgaları inceleyerek mülkiyet ve idari ilişkileri belirler.",
+          "hafiza_capasi": "Sfragistika = Mühür ve damga bilimi.",
+          "zorluk": "zor"
+        },
+        {
+          "id": "ARK_01_008",
+          "soru": "Devletlerin, hanedanların, soylu ailelerin ve kentlerin armalarını, bayraklarını ve sembollerini inceleyen yardımcı bilim dalı hangisidir?",
+          "secenekler": {
+            "A": "Geneloji",
+            "B": "Heraldik",
+            "C": "Epigrafi",
+            "D": "Onomastik",
+            "E": "Toponimi"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Heraldik, arma ve sembol bilimidir; hanedan armalarını ve kent mühürlerini inceler.",
+          "hafiza_capasi": "Heraldik = Arma bilimi.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_01_009",
+          "soru": "Eski çağlarda kullanılan ağırlık, uzunluk ve hacim ölçü sistemlerini inceleyen bilim dalı aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Metroloji",
+            "B": "Nümismatik",
+            "C": "Sfragistika",
+            "D": "Epigrafi",
+            "E": "Kronoloji"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Metroloji, antik çağdaki talent, mina, şekel gibi ağırlık ve uzunluk ölçü birimlerini inceleyen bilim dalıdır.",
+          "hafiza_capasi": "Metroloji = Metre ve terazi ölçü bilimi.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_01_010",
+          "soru": "Kazı alanlarında ortaya çıkarılan hayvan kemiklerini, dişlerini ve boynuzlarını inceleyerek evcilleştirme süreçlerini ve et tüketimini belirleyen bilim dalı hangisidir?",
+          "secenekler": {
+            "A": "Paleontoloji",
+            "B": "Arkeozooloji",
+            "C": "Antropoloji",
+            "D": "Etnoloji",
+            "E": "Arkeobotanik"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Arkeozooloji, kazılardan çıkan hayvan iskelet kalıntılarını inceleyerek antik insanların avcılık ve hayvancılık pratiklerini saptar.",
+          "hafiza_capasi": "Arkeozooloji = Hayvan kemiği ve evcilleştirme bilimi.",
+          "zorluk": "kolay"
+        }
+      ]
+    },
+    {
+      "alt_baslik_id": "ARK_02",
+      "alt_baslik_adi": "Tarihlendirme Yöntemleri",
+      "mufredat_soru_sayisi": 99,
+      "sorular": [
+        {
+          "id": "ARK_02_001",
+          "soru": "Ahşap, kömür, kemik, deri ve tohum gibi bir zamanlar canlı olan kalıntılardaki radyoaktif izotopun yarılanma ömrünü ölçen mutlak tarihlendirme yöntemi hangisidir?",
+          "secenekler": {
+            "A": "Dendrokronoloji",
+            "B": "Karbon-14 (C14)",
+            "C": "Stratigrafi",
+            "D": "Arkeomanyetizma",
+            "E": "Potasyum-Argon"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Karbon-14 yöntemi yalnızca organik (canlı kökenli) malzemelerde çalışır. Yarılanma ömrü yaklaşık 5730 yıldır.",
+          "hafiza_capasi": "C14 = Canlı-14, sadece organik malzemede işler.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_02_002",
+          "soru": "Karbon-14 (C14) yöntemiyle aşağıdaki arkeolojik buluntulardan hangisi KESİNLİKLE tarihlendirilemez?",
+          "secenekler": {
+            "A": "Kömürleşmiş ahşap kiriş",
+            "B": "İnsan uyluk kemiği",
+            "C": "Mermer tapınak sütunu",
+            "D": "Keten kumaş parçası",
+            "E": "Yanmış buğday tanesi"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Mermer inorganik bir kayaçtır, hiçbir zaman fotosentez yapmamış veya besin zincirine katılmamıştır; bu nedenle C14 uygulanamaz.",
+          "hafiza_capasi": "Taş ve mermerde C14 olmaz!",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_02_003",
+          "soru": "Ağaç gövdelerindeki yıllık büyüme halkalarını inceleyerek ahşabın kesildiği kesin takvim yılını belirleyen mutlak tarihlendirme yöntemi hangisidir?",
+          "secenekler": {
+            "A": "Termolüminesans",
+            "B": "Stratigrafi",
+            "C": "Dendrokronoloji",
+            "D": "Potasyum-Argon",
+            "E": "Tipoloji"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Dendrokronoloji ağaç halkası tarihlendirmesidir. Midas Tümülüsü mezar odasının ahşapları bu yöntemle tarihlendirilmiştir.",
+          "hafiza_capasi": "Dendrokronoloji = Ağaç halkalarını sayma yöntemi.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_02_004",
+          "soru": "Volkanik kül tabakaları, lav akıntıları ve bazaltik kayaçlar arasına gömülü milyonlarca yıllık insansı (hominid) fosillerinin yaşını saptamada kullanılan yöntem hangisidir?",
+          "secenekler": {
+            "A": "Karbon-14",
+            "B": "Dendrokronoloji",
+            "C": "Potasyum-Argon (K-Ar)",
+            "D": "Arkeomanyetizma",
+            "E": "Seriasyon"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Potasyum-Argon (K-Ar) yöntemi volkanik kayaç ve küllerin yaşını ölçer; yarılanma ömrü çok uzun olduğundan milyonlarca yıllık fosil tabakalarında kullanılır.",
+          "hafiza_capasi": "Volkanın üstüne K-Ar yağdı!",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_02_005",
+          "soru": "Pişmiş toprak kaplar (seramikler), fırın tuğlaları ve yanmış çakmaktaşlarının en son ne zaman fırınlandığını ısıtılarak yayılan ışık miktarıyla ölçen yöntem hangisidir?",
+          "secenekler": {
+            "A": "Termolüminesans (TL)",
+            "B": "Stratigrafi",
+            "C": "Dendrokronoloji",
+            "D": "Potasyum-Argon",
+            "E": "Tipoloji"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Termolüminesans (TL), fırınlanmış kil ve minerallerin hapsolmuş elektron enerjisini ısıtarak ölçer ve pişme anından geçen zamanı verir.",
+          "hafiza_capasi": "Termolüminesans = Pişmiş kilin ışık saçan hafızası.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_02_006",
+          "soru": "Fırın ve ocak tabanındaki demir oksit taneciklerinin fırınlandığı andaki Dünya'nın manyetik kutup yönünü ve alan şiddetini pusula gibi kaydetmesine dayanan tarihlendirme yöntemi hangisidir?",
+          "secenekler": {
+            "A": "Arkeomanyetizma",
+            "B": "Optik Lüminesans",
+            "C": "Karbon-14",
+            "D": "Dendrokronoloji",
+            "E": "Hidrasyon"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Arkeomanyetizma, kildeki manyetik partiküllerin pişme anında o günkü manyetik kutbu kilitlemesi esasına dayanır.",
+          "hafiza_capasi": "Arkeomanyetizma = Fırının manyetik pusulası.",
+          "zorluk": "zor"
+        },
+        {
+          "id": "ARK_02_007",
+          "soru": "Aşağıdakilerden hangisi bir MUTLAK (kesin takvim yaşı veren) tarihlendirme yöntemi DEĞİLDİR?",
+          "secenekler": {
+            "A": "Karbon-14",
+            "B": "Dendrokronoloji",
+            "C": "Potasyum-Argon",
+            "D": "Stratigrafi",
+            "E": "Termolüminesans"
+          },
+          "dogru_cevap": "D",
+          "aciklama": "Stratigrafi göreceli (rölatif) bir yöntemdir; sayısal yıl vermez, yalnızca alttaki katmanın üsttekinden daha eski olduğunu söyler.",
+          "hafiza_capasi": "Stratigrafi = Göreceli (alttaki eski).",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_02_008",
+          "soru": "Bir tabakada MS 161 tarihli Roma İmparatoru Marcus Aurelius sikkesinin hemen üzerinde bulunan seramik kandil grubu için aşağıdaki ifadelerden hangisi doğrudur?",
+          "secenekler": {
+            "A": "Kandil en geç MS 161 yılından önce üretilmiştir (TAQ)",
+            "B": "Kandil en erken MS 161 veya sonrasında bırakılmıştır (TPQ)",
+            "C": "Kandil kesinlikle MS 161 yılında yapılmıştır",
+            "D": "Kandil Helenistik döneme aittir",
+            "E": "Sikke kandilden daha geç bir döneme aittir"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Tarihli sikkenin üzerinde yer alan bir buluntu, sikkenin basıldığı tarihten daha eski olamaz; bu durum Terminus Post Quem (en erken o tarihten sonra) kuralıdır.",
+          "hafiza_capasi": "POST = Sonra, ANTE = Önce.",
+          "zorluk": "zor"
+        },
+        {
+          "id": "ARK_02_009",
+          "soru": "MÖ 1200 Ege Göçleri yangın tabakasının hemen altında ele geçen bir bronz kılıç için aşağıdaki ifadelerden hangisi doğrudur?",
+          "secenekler": {
+            "A": "Kılıç en geç MÖ 1200 yılından önce üretilmiştir (Terminus Ante Quem)",
+            "B": "Kılıç en erken MÖ 1200 yılından sonra üretilmiştir (Terminus Post Quem)",
+            "C": "Kılıç Demir Çağı kılıcıdır",
+            "D": "Kılıcın yaşı bilinemez",
+            "E": "Kılıç yangından sonra tabakaya düşmüştür"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Tarihi kesin bilinen bir yıkım/yangın tabakasının altında kalan buluntu, en geç o felaketten önce üretilmiştir (Terminus Ante Quem).",
+          "hafiza_capasi": "ANTE = Önce (en geç o tarihten önce).",
+          "zorluk": "zor"
+        },
+        {
+          "id": "ARK_02_010",
+          "soru": "Höyüklerde üst üste birikmiş kültür katmanlarının dikey kesitte okunmasına ve alttaki tabakanın daima üsttekinden daha eski olduğu ilkesine dayanan temel yöntem hangisidir?",
+          "secenekler": {
+            "A": "Tipoloji",
+            "B": "Stratigrafi",
+            "C": "Seriasyon",
+            "D": "Epigrafi",
+            "E": "Termolüminesans"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Stratigrafi (tabakalanma bilimi), jeolojideki süperpozisyon kuralına dayanır; höyük kesitinde alttaki tabaka üsttekinden daima daha eskidir.",
+          "hafiza_capasi": "Stratigrafi = Katman okuma, alttaki eski.",
+          "zorluk": "kolay"
+        }
+      ]
+    },
+    {
+      "alt_baslik_id": "ARK_03",
+      "alt_baslik_adi": "Kazı ve Koruma Terimleri",
+      "mufredat_soru_sayisi": 136,
+      "sorular": [
+        {
+          "id": "ARK_03_001",
+          "soru": "İnsanların binlerce yıl boyunca aynı noktada üst üste yerleşimler kurması ve kerpiç-taş yıkıntıların birikmesiyle oluşan yapay tepe yerleşimine ne ad verilir?",
+          "secenekler": {
+            "A": "Tümülüs",
+            "B": "Höyük",
+            "C": "Nekropol",
+            "D": "Kurgan",
+            "E": "Sitadel"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Höyük yerleşim katmanlarından oluşan yapay tepedir (Çatalhöyük, Alacahöyük). Tümülüs ise anıt mezardır.",
+          "hafiza_capasi": "Höyük = Kat kat yerleşim apartmanı; Tümülüs = Mezar.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_03_002",
+          "soru": "Kral veya soylu kişilerin taş ya da ahşap mezar odalarının üzerine devasa toprak ve taş yığılarak oluşturulan yapay tepe mezara ne ad verilir?",
+          "secenekler": {
+            "A": "Höyük",
+            "B": "Tümülüs",
+            "C": "Agora",
+            "D": "Stel",
+            "E": "Sitadel"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Tümülüs anıt mezardır. Türkiye'nin en büyüğü Manisa Salihli Bintepe'deki Lidya Kralı Alyattes Tümülüsü'dür.",
+          "hafiza_capasi": "Tümülüs = Tek kişilik yığma tepe mezar.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_03_003",
+          "soru": "Yıkılmış ya da depremle dağılmış mimari bir yapının, mevcut orijinal taşlarının toplanarak kendi özgün kaidesi üzerinde yeniden ayağa kaldırılması işlemine ne ad verilir?",
+          "secenekler": {
+            "A": "Restitüsyon",
+            "B": "Konservasyon",
+            "C": "Anastiloz",
+            "D": "Envanter",
+            "E": "Rekonstrüksiyon"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Anastiloz, yıkılan eseri kendi orijinal parçalarıyla ayağa kaldırma yöntemidir; Efes Celsus Kütüphanesi en meşhur örneğidir.",
+          "hafiza_capasi": "Anastiloz = Celsus Kütüphanesi gibi özgün parçayla ayağa kaldırma.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_03_004",
+          "soru": "Zamanla tahrip olmuş bir tarihi yapının ya da arkeolojik eserin, bilimsel verilere dayanılarak orijinal ilk halinin çizim, maket veya dijital modelle tamamlanması projesine ne ad verilir?",
+          "secenekler": {
+            "A": "Restorasyon",
+            "B": "Restitüsyon",
+            "C": "Anastiloz",
+            "D": "Konservasyon",
+            "E": "Envanter"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Restitüsyon, yapının özgün durumunun teorik, çizimsel veya modelleme ile canlandırılmasıdır. Fiziksel onarım ise restorasyondur.",
+          "hafiza_capasi": "Restitüsyon = Aslını titizlikle çizip tasarlama.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_03_005",
+          "soru": "Arkeolojik bir eserin veya buluntunun, antik çağda insanlar tarafından bırakıldığı özgün konumunda hiçbir müdahaleye uğramadan yerli yerinde bulunması durumuna ne ad verilir?",
+          "secenekler": {
+            "A": "İn-situ",
+            "B": "Ex-situ",
+            "C": "Spolia",
+            "D": "Devşirme",
+            "E": "Röleve"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "İn-situ Latince \"yerinde, özgün konumunda\" demektir. Eserin bağlamını koruduğunu gösterir.",
+          "hafiza_capasi": "İn-situ = Yerli yerinde bozulmamış buluntu.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_03_006",
+          "soru": "2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu'na göre sit alanları sınıflandırmasında aşağıdakilerden hangisi YER ALMAZ?",
+          "secenekler": {
+            "A": "Arkeolojik Sit",
+            "B": "Kentsel Sit",
+            "C": "Tarihî Sit",
+            "D": "Doğal Sit",
+            "E": "Endüstriyel Sit"
+          },
+          "dogru_cevap": "E",
+          "aciklama": "Mevzuatımızda sit alanları yalnız dört kategoridir: A-K-T-D (Arkeolojik, Kentsel, Tarihî, Doğal). Endüstriyel veya Kırsal sit kanunda yoktur.",
+          "hafiza_capasi": "SİT = A-K-T-D dörtlüsü. Endüstriyel sit YOKTUR!",
+          "zorluk": "zor"
+        },
+        {
+          "id": "ARK_03_007",
+          "soru": "1884 yılında çıkardığı Âsâr-ı Atika Nizamnamesi ile Osmanlı topraklarındaki eski eserlerin yurt dışına kaçırılmasını yasaklayan, Sayda kazılarında İskender Lahdi'ni bulan ilk Türk müze müdürü kimdir?",
+          "secenekler": {
+            "A": "Fethi Ahmed Paşa",
+            "B": "Osman Hamdi Bey",
+            "C": "Halil Edhem Eldem",
+            "D": "Remzi Oğuz Arık",
+            "E": "Ekrem Akurgal"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Osman Hamdi Bey 1881'de Müze-i Hümayun müdürü olmuş, 1884 nizamnamesini çıkarmış ve Sayda lahitlerini İstanbul'a getirmiştir.",
+          "hafiza_capasi": "Osman Hamdi Bey = İskender Lahdi + 1884 Yasak Nizamnamesi.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_03_008",
+          "soru": "Atatürk'ün direktifiyle 1935 yılında başlatılan ilk cumhuriyet dönemi \"millî kazısı\" hangi ören yerinde gerçekleştirilmiştir?",
+          "secenekler": {
+            "A": "Kültepe",
+            "B": "Alacahöyük",
+            "C": "Boğazköy (Hattuşa)",
+            "D": "Göbeklitepe",
+            "E": "Truva"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "İlk millî kazı 1935 yılında Çorum Alacahöyük'te Remzi Oğuz Arık ve Hamit Zübeyr Koşay tarafından yapılmış ve Hatti güneş kursları bulunmuştur.",
+          "hafiza_capasi": "AAA = Atatürk - Arık - Alacahöyük (1935 ilk millî kazı).",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_03_009",
+          "soru": "Hitit, Geç Hitit ve Asur mimarisinde saray kapılarının ve kale surlarının alt kısımlarına dikine yerleştirilen, üzeri kabartmalı büyük taş bloklara ne ad verilir?",
+          "secenekler": {
+            "A": "Stel",
+            "B": "Ortostat",
+            "C": "Arşitrav",
+            "D": "Metop",
+            "E": "Friz"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Ortostat sur ve kapıların alt hizasındaki kabartmalı dik taş bloklardır (Alacahöyük, Karatepe kabartmaları).",
+          "hafiza_capasi": "Ortostat = Dik duran kabartmalı duvar taşı.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_03_010",
+          "soru": "Antik kentlerde hijyen ve inanç gereği kent surlarının DIŞINDA yer alan anıtsal mezarlık alanlarına ne ad verilir?",
+          "secenekler": {
+            "A": "Akropol",
+            "B": "Agora",
+            "C": "Nekropol",
+            "D": "Temenos",
+            "E": "Heroon"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Nekropol \"ölüler kenti\" demektir ve surların dışında yer alır. Hierapolis Nekropolü en görkemli örnektir.",
+          "hafiza_capasi": "Nekropol = Sur dışındaki ölüler şehri.",
+          "zorluk": "kolay"
+        }
+      ]
+    },
+    {
+      "alt_baslik_id": "ARK_04",
+      "alt_baslik_adi": "Antik Seramik Formları",
+      "mufredat_soru_sayisi": 105,
+      "sorular": [
+        {
+          "id": "ARK_04_001",
+          "soru": "Antik Yunan ve Roma dünyasında şarabı su ile karıştırmak için kullanılan geniş ağızlı, derin ve iki kulplu büyük kaba ne ad verilir?",
+          "secenekler": {
+            "A": "Amphora",
+            "B": "Krater",
+            "C": "Lekythos",
+            "D": "Oinochoe",
+            "E": "Hydria"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Krater şarap-su karıştırma kabıdır; antik çağda şarap doğrudan sek içilmez, kraterde sulandırılırdı.",
+          "hafiza_capasi": "Krater = Şarabı suyla karıştırma kazanı.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_04_002",
+          "soru": "Kraterde karıştırılan şarabı kadehlere dökmek için kullanılan, karakteristik yonca ağızlı ve tek kulplu şarap testisi hangisidir?",
+          "secenekler": {
+            "A": "Oinochoe (Oinokhoe)",
+            "B": "Hydria",
+            "C": "Kylix",
+            "D": "Pyxis",
+            "E": "Lydion"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Oinochoe yonca ağızlı şarap servis testisi formudur.",
+          "hafiza_capasi": "Oinochoe = Yonca ağızlı şarap testisi.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_04_003",
+          "soru": "İki yatay kulp ve bir dikey kulp olmak üzere toplam ÜÇ KULPA sahip olan su taşıma kabı aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Amphora",
+            "B": "Hydria",
+            "C": "Lekythos",
+            "D": "Kantharos",
+            "E": "Rhyton"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Hydria üç kulplu su kabıdır; yatay iki kulp taşımaya, dikey arka kulp suyu dökmeye yarar.",
+          "hafiza_capasi": "Hydria = Üç kulplu su kabı (Hydro = su).",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_04_004",
+          "soru": "Dar boyunlu, tek kulplu zeytinyağı kabı olan ve cenaze törenlerinde mezara ölü hediyesi olarak bırakılan seramik türü hangisidir?",
+          "secenekler": {
+            "A": "Kylix",
+            "B": "Krater",
+            "C": "Lekythos",
+            "D": "Alabastron",
+            "E": "Pithos"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Lekythos mezar kültüyle özdeşleşmiş kokulu yağ ve zeytinyağı kabıdır; üzerine cenaze sahneleri çizilir.",
+          "hafiza_capasi": "Lekythos = Mezara bırakılan kutsal yağ kabı.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_04_005",
+          "soru": "İki dikey kulplu, dar boyunlu ve deniz ticaretinde gemilerde devrilmeden istiflenebilmesi için SİVRİ DİPLİ üretilen taşıma kabı hangisidir?",
+          "secenekler": {
+            "A": "Amphora",
+            "B": "Pithos",
+            "C": "Pyxis",
+            "D": "Kantharos",
+            "E": "Rhyton"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Amphora sivri dipli sıvı/erzak taşıma kabıdır; kumluk zeminlere saplanarak gemilerde taşınırdı.",
+          "hafiza_capasi": "Amfora = Sivri dipli iki kulplu gemi ambarı kabı.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_04_006",
+          "soru": "Dini törenlerde tanrılara sıvı sunusu (libasyon) yapmak için kullanılan, boğa, koç veya aslan başı formundaki törensel kap hangisidir?",
+          "secenekler": {
+            "A": "Rhyton (Riton)",
+            "B": "Lydion",
+            "C": "Kylix",
+            "D": "Krater",
+            "E": "Pyxis"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Rhyton hayvan başlı törensel sunu kabıdır; altındaki delikten tanrılara kutsal sıvı akıtılırdı.",
+          "hafiza_capasi": "Riton = Hayvan başlı libasyon kabı.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_04_007",
+          "soru": "Şarap tanrısı Dionysos'un kutsal simgesi olan, iki adet yüksek dikey kulak gibi kulpa sahip derin içki kadehi hangisidir?",
+          "secenekler": {
+            "A": "Kylix",
+            "B": "Kantharos",
+            "C": "Lekythos",
+            "D": "Oinochoe",
+            "E": "Hydria"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Kantharos yüksek dikey kulplu derin kadehtir ve Dionysos ikonografisinin baş tacıdır.",
+          "hafiza_capasi": "Kantharos = Dionysos'un kulak kulplu kadehi.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_04_008",
+          "soru": "Antik Yunan seramik bezeme sanatında Siyah Figür ve Kırmızı Figür tekniklerinin kronolojik ortaya çıkış sırası hangisinde doğrudur?",
+          "secenekler": {
+            "A": "Kırmızı Figür (MÖ 8. yy) -> Siyah Figür (MÖ 6. yy)",
+            "B": "Siyah Figür (MÖ 6. yy) -> Kırmızı Figür (MÖ 530 civarı)",
+            "C": "İki teknik aynı anda MÖ 4. yüzyılda başlamıştır",
+            "D": "Kırmızı Figür tekniği Tunç Çağı'na aittir",
+            "E": "Siyah Figür sadece Roma döneminde kullanılmıştır"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Önce Siyah Figür tekniği (MÖ 6. yy) kullanılmış, ardından MÖ 530 civarında Atina'da Kırmızı Figür tekniği geliştirilmiştir.",
+          "hafiza_capasi": "Önce karanlık bastı (Siyah), sonra şafak söktü (Kırmızı).",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_04_009",
+          "soru": "Kadınların kozmetik kremlerini, boyalarını ve değerli mücevherlerini sakladıkları dairesel, kapaklı küçük kutu biçimindeki seramik kabı hangisidir?",
+          "secenekler": {
+            "A": "Pyxis (Piksis)",
+            "B": "Lydion",
+            "C": "Alabastron",
+            "D": "Kylix",
+            "E": "Skyphos"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Pyxis kadınların takı ve makyaj malzemelerini koyduğu kapaklı silindirik kutudur.",
+          "hafiza_capasi": "Pyxis = Antik çağın kapaklı makyaj çantası.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_04_010",
+          "soru": "Lidya Krallığı'na özgü olan ve \"bakkaris\" adlı meşhur Lidya merheminin ve kokulu yağının saklandığı konik ayaklı, şişkin gövdeli seramik form hangisidir?",
+          "secenekler": {
+            "A": "Lydion",
+            "B": "Lekythos",
+            "C": "Alabastron",
+            "D": "Oinochoe",
+            "E": "Rhyton"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "Lydion, Lidya'nın ulusal koku kabıdır ve adını doğrudan Lidya uygarlığından alır.",
+          "hafiza_capasi": "Lydion = Lidya'nın parfümlü konik ayaklı kabı.",
+          "zorluk": "kolay"
+        }
+      ]
+    },
+    {
+      "alt_baslik_id": "ARK_05",
+      "alt_baslik_adi": "Mimari ve Dini Yapı Terimleri",
+      "mufredat_soru_sayisi": 117,
+      "sorular": [
+        {
+          "id": "ARK_05_001",
+          "soru": "Akantus (kenger) yaprakları ile bezeli süslü sütun başlığına sahip klasik antik mimari düzen aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Dor",
+            "B": "İon",
+            "C": "Korint",
+            "D": "Toskan",
+            "E": "Kompozit"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Korint düzeninin en belirgin vasfı akantus (kenger) yapraklarıyla bezenmiş başlığıdır.",
+          "hafiza_capasi": "Korint = Kenger/Akantus yaprağı.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_05_002",
+          "soru": "Sütun başlığında koç boynuzu gibi iki yana helezonik kıvrılan volütleri bulunan ve sütunu bir kaideye oturan Batı Anadolu kökenli düzen hangisidir?",
+          "secenekler": {
+            "A": "İon",
+            "B": "Dor",
+            "C": "Korint",
+            "D": "Aiol",
+            "E": "Miken"
+          },
+          "dogru_cevap": "A",
+          "aciklama": "İon düzeni Batı Anadolu icadıdır; kaideli sütun ve volütlü başlığa sahiptir.",
+          "hafiza_capasi": "İon = Volütlü (koç boynuzu) başlık.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_05_003",
+          "soru": "Klasik Yunan mimari düzenleri arasında sütun gövdesinin hiçbir kaidesi bulunmayan, doğrudan stylobat üzerine oturan en yalın düzen hangisidir?",
+          "secenekler": {
+            "A": "İon",
+            "B": "Korint",
+            "C": "Dor",
+            "D": "Kompozit",
+            "E": "Toskan"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Dor düzeni kaidesizdir; doğrudan stylobat zeminine oturur ve başlığı yastık gibi sadedir. Anadolu'daki tek örneği Assos Athena Tapınağı'dır.",
+          "hafiza_capasi": "Dor = Kaidesiz sade babayiğit sütun.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_05_004",
+          "soru": "Antik Yunan kentlerinde kent meclisinin (Boule) toplanıp karar aldığı basamaklı kapalı kamu binasına ne ad verilir?",
+          "secenekler": {
+            "A": "Prytaneion",
+            "B": "Bouleuterion",
+            "C": "Odeon",
+            "D": "Stoa",
+            "E": "Macellum"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Bouleuterion meclis binasıdır. Prytaneion ise kutsal ateşin yandığı devlet konukevidir.",
+          "hafiza_capasi": "Bouleuterion = Kent Meclisi (Bülten yayınlar).",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_05_005",
+          "soru": "Kentin kutsal ocağının bulunduğu, Hestia adına yakılan kutsal ateşin hiç söndürülmeden korunduğu ve resmi konukların ağırlandığı yapı hangisidir?",
+          "secenekler": {
+            "A": "Bouleuterion",
+            "B": "Prytaneion",
+            "C": "Heroon",
+            "D": "Bazilika",
+            "E": "Nymphaion"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Prytaneion kutsal ocak ve devlet konukevidir; sönmeyen ateş buradadır.",
+          "hafiza_capasi": "Prytaneion = Piri'nin sönmeyen tandırı.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_05_006",
+          "soru": "Düşmana karşı ani baskın düzenlemek veya kuşatmayı yarmak için kale ve surların altına iri taşlarla bindirme kemer tekniğinde inşa edilen gizli tünellere ne ad verilir?",
+          "secenekler": {
+            "A": "Propylon",
+            "B": "Potern",
+            "C": "Dromos",
+            "D": "Megaron",
+            "E": "Diazoma"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Potern sur altı gizli çıkış/baskın tünelidir (Hattuşa Yerkapı). Propylon ise şaşaalı anıtsal giriş kapısıdır.",
+          "hafiza_capasi": "Potern = Gizli baskın tüneli; Propylon = Anıtsal şaşaalı kapı.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_05_007",
+          "soru": "Roma kentlerinde sokakta ayaküstü sıcak yemek ve şarap satılan, günümüzün fast-food büfelerinin antik çağdaki öncüsü sayılan dükkan hangisidir?",
+          "secenekler": {
+            "A": "Macellum",
+            "B": "Thermopolium",
+            "C": "Taberna",
+            "D": "Caldarium",
+            "E": "Tepidarium"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Thermopolium Roma fast-food büfesidir; gömülü küplerde sıcak çorba ve yemek satılır.",
+          "hafiza_capasi": "Thermopolium = Termos gibi sıcak yemek büfesi.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_05_008",
+          "soru": "Roma hamamında zemin altından ve duvar içi pişmiş toprak borulardan sıcak hava ve duman dolaştırılarak yapıyı ısıtan merkezi ısıtma sistemine ne ad verilir?",
+          "secenekler": {
+            "A": "Caldarium",
+            "B": "Sudatorium",
+            "C": "Hypocaust (Hipokaust)",
+            "D": "Tepidarium",
+            "E": "Natatio"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Hypocaust Roma hamamlarının zemin altı fırınlı merkezi ısıtma sistemidir.",
+          "hafiza_capasi": "Hypocaust = Hamamın altındaki cehennemlik ısıtma sistemi.",
+          "zorluk": "orta"
+        },
+        {
+          "id": "ARK_05_009",
+          "soru": "Antik bir tapınakta tanrının kült heykelinin durduğu ana kutsal odaya ne ad verilir?",
+          "secenekler": {
+            "A": "Pronaos",
+            "B": "Naos (Cella)",
+            "C": "Opisthodomos",
+            "D": "Adyton",
+            "E": "Stylobat"
+          },
+          "dogru_cevap": "B",
+          "aciklama": "Naos (Roma mimarisinde cella) tapınağın merkezindeki kutsal odadır. Pronaos ön oda, opisthodomos ise hazinenin saklandığı arka odadır.",
+          "hafiza_capasi": "Naos = Tanrının oturduğu ana kutsal oda.",
+          "zorluk": "kolay"
+        },
+        {
+          "id": "ARK_05_010",
+          "soru": "Didyma Apollon Tapınağı'nda olduğu gibi, halka tamamen kapalı olan, yalnızca rahiplerin ve kâhinlerin girebildiği en gizli iç kutsal mekâna ne ad verilir?",
+          "secenekler": {
+            "A": "Pronaos",
+            "B": "Naos",
+            "C": "Adyton",
+            "D": "Opisthodomos",
+            "E": "Krepis"
+          },
+          "dogru_cevap": "C",
+          "aciklama": "Adyton \"girilemeyen yer\" demektir; tapınakların en gizli ve yasak kehanet odasıdır.",
+          "hafiza_capasi": "Adyton = Adı-anılmayan yasak kâhin odası.",
+          "zorluk": "orta"
+        }
+      ]
+    }
+  ]
+}

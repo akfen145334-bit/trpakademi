@@ -1,0 +1,3082 @@
+[
+ {
+  "id": "COG-001",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "iç-dış-kuvvetler",
+  "soru": "Aşağıdakilerden hangisi Türkiye'yi şekillendiren İÇ kuvvetlerden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Akarsu aşındırması",
+   "B": "Orojenez",
+   "C": "Epirojenez",
+   "D": "Volkanizma",
+   "E": "Deprem"
+  },
+  "dogru": "A",
+  "cozum": "İç kuvvetler yerin altından (orojenez, epirojenez, volkanizma, deprem); akarsu aşındırması ise yüzeyi yontan DIŞ kuvvettir. Ağu25 sınavında aynı mantıkla 'iç etken olmayan' soruldu ve cevap akarsuydu.",
+  "hafiza_ipucu": "Rehberin çapası: 'akarsu = DIŞ kuvvet' (02-turizm-cografyasi.md, Karıştırılan Kavramlar tablosu). İç kuvvet dörtlüsü yerin ALTINDAN, dış kuvvetler yerin ÜSTÜNDEN çalışır.",
+  "kaynak": {
+   "dosya": "rehber/02-turizm-cografyasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Ağu25: iç etken olmayan = akarsu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-002",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "iç-dış-kuvvetler",
+  "soru": "Yerkabuğunun geniş alanlarda, kıvrılma olmadan yavaşça yükselip alçalmasına ne ad verilir?",
+  "siklar": {
+   "A": "Orojenez",
+   "B": "Epirojenez",
+   "C": "Volkanizma",
+   "D": "Erozyon",
+   "E": "Deflasyon"
+  },
+  "dogru": "B",
+  "cozum": "Kıta/kara parçalarının geniş ölçekte yükselip alçalması epirojenez (kıta oluşumu) olarak adlandırılan iç kuvvet hareketidir; dağ oluşturan sıkışma hareketi olan orojenezden farklıdır.",
+  "hafiza_ipucu": "Epirojenez ~ 'geniş(EPİK) alan yavaşça iner-çıkar'; orojenez ~ 'ORO=dağ, sıkışıp kıvrılır'.",
+  "kaynak": {
+   "dosya": "rehber/02-turizm-cografyasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-003",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "iç-dış-kuvvetler",
+  "soru": "Yerkabuğunun yatay yönde sıkışması sonucu tabakaların kıvrılarak dağ oluşturmasına ne ad verilir?",
+  "siklar": {
+   "A": "Epirojenez",
+   "B": "Deflasyon",
+   "C": "Orojenez",
+   "D": "Akış aşındırması",
+   "E": "Rüzgâr birikimi"
+  },
+  "dogru": "C",
+  "cozum": "Orojenez, sıkışan tabakaların kıvrılıp yükselerek dağ (Toroslar, Kaçkarlar gibi kıvrım dağları) oluşturduğu iç kuvvet sürecidir.",
+  "hafiza_ipucu": "OROjenez = ORO (dağ, Yunanca) + doğuş; 'dağın doğuşu'.",
+  "kaynak": {
+   "dosya": "rehber/02-turizm-cografyasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-004",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "iç-dış-kuvvetler",
+  "soru": "Aşağıdakilerden hangisi Türkiye yüzeyini aşındırarak biçimlendiren DIŞ kuvvetlerden biridir?",
+  "siklar": {
+   "A": "Deprem",
+   "B": "Orojenez",
+   "C": "Epirojenez",
+   "D": "Rüzgâr",
+   "E": "Volkanizma"
+  },
+  "dogru": "D",
+  "cozum": "Dış kuvvetler yerin üstünden aşındırır: akarsu, rüzgâr, buzul, dalga. Diğer dört şık yerin altından çalışan iç kuvvetlerdir.",
+  "hafiza_ipucu": "Rehberin ayırt edici çapası: 'İç kuvvet (kurar) vs Dış kuvvet (yontar)'.",
+  "kaynak": {
+   "dosya": "rehber/02-turizm-cografyasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "Ağu25: iç etken olmayan = akarsu (ters mantık)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-005",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kapadokya-peribacaları",
+  "soru": "Peri bacalarının oluşumu ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+  "siklar": {
+   "A": "Yalnızca deniz dalgalarının aşındırmasıyla oluşurlar",
+   "B": "Buzul aşındırmasının tek başına ürünüdürler",
+   "C": "Kalker çökeltisiyle basamaklı biçimde oluşurlar",
+   "D": "Yalnızca rüzgâr aşındırmasıyla oluşurlar, suyun etkisi yoktur",
+   "E": "Kalın volkanik tüf örtüsüyle kaplı bölgelerde, yüzey aşındırması ve sel yarıntılarıyla sütun/kule biçiminde oluşurlar"
+  },
+  "dogru": "E",
+  "cozum": "Kitapta peri bacaları, 'daha çok kalın volkanik tüf örtüsüyle kaplı bölgelerde rastlanan, yüzey aşındırmasıyla sel yarıntıları arasında sütun ya da kule şeklinde yükselmiş aşınım şekilleri' olarak tanımlanır (TC s.60).",
+  "hafiza_ipucu": "Peri bacası = volkanik tüf (iç kuvvet kurdu) + rüzgâr/su aşındırması (dış kuvvet yonttu) ikilisi; C şıkkı travertenin tanımıdır, karıştırma!",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "Şub25: Kapadokya oluşumu",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-006",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kapadokya-peribacaları",
+  "soru": "Peri bacaları ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Oluşumlarında yalnızca kimyasal çökelme (kalsiyum karbonat) etkilidir",
+   "B": "Kalın volkanik tüf örtüsüyle kaplı bölgelerde görülürler",
+   "C": "Sel yarıntıları arasında sütun/kule biçiminde yükselirler",
+   "D": "Zaman içinde doğal aşınmayla ve insan müdahalesiyle tahrip olabilirler",
+   "E": "Türkiye'de en çok Ürgüp-Göreme yöresinde görülürler"
+  },
+  "dogru": "A",
+  "cozum": "Kalsiyum karbonat çökelmesiyle oluşum travertenlere özgüdür; peri bacaları ise volkanik tüfün rüzgâr/su ile fiziksel aşındırılmasıyla oluşur (TC s.60).",
+  "hafiza_ipucu": "A şıkkı traverten tanımının peri bacasına karıştırılmış hâlidir — sınavın klasik tuzağı.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-007",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kapadokya-peribacaları",
+  "soru": "Türkiye'de peri bacası oluşumlarının en yoğun ve en ünlü görüldüğü yöre aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Pamukkale-Denizli",
+   "B": "Ürgüp-Göreme yöresi",
+   "C": "Ihlara Vadisi-Aksaray",
+   "D": "Soğanlı-Kayseri",
+   "E": "Zelve-Nevşehir"
+  },
+  "dogru": "B",
+  "cozum": "Kitapta 'Dünyada peri bacaları oluşumlarının yer aldığı mekânlar arasında Türkiye'deki Ürgüp-Göreme yöresinin önemli bir yeri bulunmaktadır' denir (TC s.60).",
+  "hafiza_ipucu": "Ürgüp-Göreme = peri bacalarının 'başkenti'; diğer şıklar da Kapadokya'da ama kitabın öne çıkardığı isim Ürgüp-Göreme.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "Şub25: Kapadokya oluşumu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-008",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "travertenler",
+  "soru": "Yeraltından yüzeye çıkan (çoğunlukla sıcak) su kaynaklarının çevresinde, kalsiyum karbonatın basamaklar hâlinde çökelmesiyle oluşan yer şekline ne ad verilir?",
+  "siklar": {
+   "A": "Lagün",
+   "B": "Peri bacası",
+   "C": "Traverten",
+   "D": "Kalker mağarası",
+   "E": "Kanyon"
+  },
+  "dogru": "C",
+  "cozum": "Traverten, sıcak su kaynaklarının çevresinde kalsiyum karbonat (erimiş kireçtaşı tortusu) çökelmesiyle akarsu yönünde basamaklar hâlinde oluşan biriktirme şeklidir (TC s.60-61).",
+  "hafiza_ipucu": "TRAVERTEN ~ 'TERAS+VERTEN(basamak)' — beyaz teraslı basamak imgesini akılda tut.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 60
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-009",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "travertenler",
+  "soru": "Pamukkale travertenlerinin bulunduğu sahada, aynı alanda doğa, kaplıca ve kültür turizmini bir arada barındıran antik kent kalıntısı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tralleis",
+   "B": "Afrodisias",
+   "C": "Laodikeia",
+   "D": "Hierapolis",
+   "E": "Aizanoi"
+  },
+  "dogru": "D",
+  "cozum": "Pamukkale travertenlerinin bulunduğu sahada traverten taraçaları, şifalı sıcak su kaynakları ve Hierapolis antik kenti kalıntıları bir arada yer alır (TC s.60-61).",
+  "hafiza_ipucu": "Hiera(kutsal)+polis(kent) = travertenin kutsal kenti Hierapolis.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-010",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "iç-dış-kuvvetler",
+  "soru": "I. Orojenez\nII. Rüzgâr aşındırması\nIII. Deprem\nIV. Akarsu biriktirmesi\nYukarıdakilerden hangileri Türkiye'yi şekillendiren İÇ kuvvetlerdendir?",
+  "siklar": {
+   "A": "II ve IV",
+   "B": "I, II ve III",
+   "C": "I, II, III ve IV",
+   "D": "Yalnız I",
+   "E": "I ve III"
+  },
+  "dogru": "E",
+  "cozum": "Orojenez ve deprem iç kuvvetlerdir (yerin altından); rüzgâr aşındırması ve akarsu biriktirmesi ise dış kuvvet etkinlikleridir (yerin üstünden).",
+  "hafiza_ipucu": "İç kuvvet ikilisi burada I-III; dış kuvvetler II-IV — 'tek-tek, çift-çift' değil 'bir atla bir' deseni.",
+  "kaynak": {
+   "dosya": "rehber/02-turizm-cografyasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-011",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "volkanik-dağlar",
+  "soru": "Yüksekliği 5.137 metreye ulaşan, iki zirveli ve volkanik kökenli olan Türkiye'nin en yüksek dağı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ağrı Dağı",
+   "B": "Kaçkar Dağı",
+   "C": "Cilo Dağı",
+   "D": "Erciyes Dağı",
+   "E": "Süphan Dağı"
+  },
+  "dogru": "A",
+  "cozum": "Ağrı Dağı 5.137 m ile Türkiye'nin en yüksek noktasıdır; iki zirvesi (Büyük ve Küçük Ağrı) bulunur ve volkanik kökenlidir.",
+  "hafiza_ipucu": "Sayı çapası: 'Ağrının hapı 5'te 1, 3'te 7' → 5.137.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 145
+  },
+  "akraba_cikmis_soru": "Mar26: Ağrı Dağı (3 özellikle)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-012",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "volkanik-dağlar",
+  "soru": "I. Yüksekliği 4.000 metrenin üzerindedir.\nII. İki zirvesi bulunur.\nIII. Volkanik bir dağdır.\nYukarıda özellikleri verilen dağ aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Munzur Dağları",
+   "B": "Ağrı Dağı",
+   "C": "Erciyes Dağı",
+   "D": "Uludağ",
+   "E": "Bozdağ"
+  },
+  "dogru": "B",
+  "cozum": "Bu üç özelliğin (4.000+ m, çift zirve, volkanik) üçü birden yalnızca Ağrı Dağı'na aittir; Erciyes de volkaniktir ama tek zirvelidir. (Mart 2026 sınavı soru 42, birebir.)",
+  "hafiza_ipucu": "Rehberin 'Ağrı = 4.000+ m + İKİ zirveli + volkanik' üçlü çapası tam bu soruyu karşılar.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "Mar26 S.42 (birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-013",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "volkanik-dağlar",
+  "soru": "Aşağıdakilerden hangisi Türkiye'nin volkanik kökenli dağlarından biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Erciyes Dağı",
+   "B": "Hasan Dağı",
+   "C": "Kaçkar Dağları",
+   "D": "Süphan Dağı",
+   "E": "Nemrut Dağı"
+  },
+  "dogru": "C",
+  "cozum": "Süphan, Nemrut (Bitlis), Erciyes ve Hasan Dağı volkanik zincirin parçasıdır; Kaçkar Dağları ise kıvrım (orojenik) dağlardır. Ağu25 sınavında da aynı soru (iptal edilmiş olsa da) bu bilgiyi doğrulamıştır.",
+  "hafiza_ipucu": "Rehberin akrostişi: 'AS NeT — Erken Hasat, Kara Kara' (Ağrı-Süphan-Nemrut-Tendürek / Erciyes-Hasan-Karadağ-Karacadağ). Karadeniz'de volkan yok → Kaçkar volkanik olamaz.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Ağu25 S.2 (iptal edilse de içerik geçerli)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-014",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "volkanik-dağlar",
+  "soru": "Kaldera büyüklüğü ve içindeki gölleriyle Türkiye'nin turizmde en çok ilgi çeken volkanik yer şekli olarak nitelendirilen ve Bitlis sınırları içinde yer alan dağ aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Karacadağ",
+   "B": "Süphan Dağı",
+   "C": "Tendürek Dağı",
+   "D": "Nemrut Dağı",
+   "E": "Hasan Dağı"
+  },
+  "dogru": "D",
+  "cozum": "\"Türkiye'nin, turizmde en çok ilgi çeken volkanik yerşekli, Nemrut kalderasıdır. Kaldera, büyüklüğü ve içindeki gölleriyle oldukça ilgi görmektedir.\" (TC s.61) — bu Nemrut, Bitlis-Tatvan'daki volkanik dağdır.",
+  "hafiza_ipucu": "Nemrut kalderası = 'volkanın içinde göl' imgesi; Bitlis'in dumanı tüten kadim ocağı.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 61
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-015",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "volkanik-dağlar",
+  "soru": "Milli Parklar Kanunu kapsamındaki 'Nemrut Dağı Millî Parkı' Adıyaman ve Malatya sınırları içinde yer alır. Bu Nemrut Dağı, Bitlis'teki volkanik/kalderalı Nemrut Dağı'ndan temelde hangi yönüyle ayrılır?",
+  "siklar": {
+   "A": "Doğu Anadolu'da yer almasıyla",
+   "B": "5.000 metreyi aşan yüksekliğiyle",
+   "C": "Volkanik bir dağ olmasıyla",
+   "D": "İçinde krater gölü barındırmasıyla",
+   "E": "Kommagene Krallığı'na ait dev heykel/tümülüs kalıntılarını barındıran arkeolojik bir alan olmasıyla"
+  },
+  "dogru": "E",
+  "cozum": "Ekoloji ve Turizm kitabının Milli Parklar tablosunda 'Nemrut Dağı' Adıyaman-Malatya olarak geçer (EKO s.129); bu, Kommagene Kralı I. Antiokhos'un tümülüs-heykel kompleksinin bulunduğu arkeolojik Nemrut'tur — Bitlis'teki volkanik/kalderalı Nemrut Dağı ile AYNI isimli fakat FARKLI dağlardır.",
+  "hafiza_ipucu": "İki Nemrut çapası: 'Bitlis'in Nemrut'u KAYNAR (volkanik), Adıyaman'ın Nemrut'u TAŞ KRAL yüzleri saklar (arkeolojik).'",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-016",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "volkanik-dağlar",
+  "soru": "İç Anadolu'da, Kapadokya'daki peri bacalarının oluşumuna kaynaklık eden volkanik tüf örtüsünü sağlayan iki dağdan biri Erciyes iken diğeri aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hasan Dağı",
+   "B": "Karacadağ",
+   "C": "Toroslar",
+   "D": "Uludağ",
+   "E": "Kaçkar Dağı"
+  },
+  "dogru": "A",
+  "cozum": "Kapadokya'daki volkanik tüf örtüsü başta Erciyes ve Hasan Dağı olmak üzere İç Anadolu'daki volkanik dağların püskürttüğü malzemeden oluşmuştur (rehber sentezi; TC s.60 peri bacası bölümüyle uyumlu).",
+  "hafiza_ipucu": "Erciyes-Hasan ikilisi: Kapadokya'nın 'iki volkanik ebeveyni'.",
+  "kaynak": {
+   "dosya": "rehber/02-turizm-cografyasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-017",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıvrım-dağlar",
+  "soru": "Kaçkar Dağları ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Dağcılık ve doğa sporlarına elverişlidir",
+   "B": "Volkanik kökenli bir dağdır",
+   "C": "Kıvrım (orojenik) hareketlerle oluşmuştur",
+   "D": "En yüksek noktası 3.937 metredir",
+   "E": "Rize sınırları içinde Millî Park statüsündedir"
+  },
+  "dogru": "B",
+  "cozum": "Kaçkar Dağları kıvrım dağıdır, volkanik DEĞİLDİR; bu ayrım Ağu25 sınavında iptal edilen bir soruda da konu edilmiştir. Kaçkar Dağları Millî Parkı Rize'dedir, 3.937 m zirveye sahiptir (EKO s.129).",
+  "hafiza_ipucu": "Karadeniz'de volkan yok kuralı: Kaçkar = kıvrım. Sayı çapası: '39'unda 37'lik dağcı' → 3.937.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "Ağu25: Kaçkar volkanik değil (iptal)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-018",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıvrım-dağlar",
+  "soru": "Karadeniz'de bulunan, yaklaşık 3.970 metreyi bulan yüksekliğiyle çeşitli doğa sporlarına ve dağ tırmanışına uygun Millî Parkımız aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ilgaz Dağı Millî Parkı",
+   "B": "Altındere Vadisi Millî Parkı",
+   "C": "Kaçkar Dağları Millî Parkı",
+   "D": "Karagöl-Sahara Millî Parkı",
+   "E": "Hatila Vadisi Millî Parkı"
+  },
+  "dogru": "C",
+  "cozum": "Ağustos 2025 sınavında birebir sorulmuş; cevap Kaçkar Dağları Millî Parkı'dır (Rize).",
+  "hafiza_ipucu": "Kaçkar = Rize'nin dağcı çocuğu; 'doğa sporu' anahtar kelimesi görünce Kaçkar'ı işaretle.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 4
+  },
+  "akraba_cikmis_soru": "Ağu25 S.16 (birebir)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-019",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "volkanik-kıvrım-dağlar",
+  "soru": "Ekoloji ve Turizm kitabına göre, Türkiye'de buzul gölüne rastlanan dağlar arasında aşağıdakilerden hangisi SAYILMAZ?",
+  "siklar": {
+   "A": "Toroslar",
+   "B": "Uludağ",
+   "C": "Kaçkar",
+   "D": "Karacadağ",
+   "E": "Ağrı Dağı"
+  },
+  "dogru": "D",
+  "cozum": "Kitapta buzul gölü örneği veren dağlar Ağrı Dağı, Toroslar, Uludağ, Kaçkar, Bolkar, Aladağlar ve Erciyes olarak sayılır (EKO s.68); Karacadağ bu listede yer almaz.",
+  "hafiza_ipucu": "Buzul göllü dağlar yüksek ve nemli olanlardır; alçak/kurak İç Anadolu-GD Anadolu volkanik tepeleri (Karacadağ, Karadağ) bu listeye girmez.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-020",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıvrım-dağlar",
+  "soru": "Aşağıdaki dağlardan hangisi Türkiye'nin kıvrım (orojenik) dağlarından biridir?",
+  "siklar": {
+   "A": "Erciyes Dağı",
+   "B": "Hasan Dağı",
+   "C": "Ağrı Dağı",
+   "D": "Süphan Dağı",
+   "E": "Toroslar"
+  },
+  "dogru": "E",
+  "cozum": "Toroslar, Kuzey Anadolu Dağları ve Uludağ gibi kıvrım dağlarındandır; diğer şıklar (Ağrı, Süphan, Erciyes, Hasan) volkanik zincirin üyeleridir.",
+  "hafiza_ipucu": "Toroslar'ın kıvrımlı sırtları = 'Anadolu'nun omurgası', volkan değil dağ silsilesi.",
+  "kaynak": {
+   "dosya": "rehber/02-turizm-cografyasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-021",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "dağ-turizmi",
+  "soru": "Türkiye'de kış turizminin en gelişmiş olduğu merkez aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Uludağ",
+   "B": "Ilgaz",
+   "C": "Palandöken",
+   "D": "Kartalkaya",
+   "E": "Erciyes"
+  },
+  "dogru": "A",
+  "cozum": "Kitapta 'Türkiye'de en gelişmiş kış turizm merkezi Uludağ'dır' denir; Palandöken, Kartalkaya ve Erciyes de kış turizmi gelişen diğer merkezlerdir (TC s.64).",
+  "hafiza_ipucu": "Uludağ = Bursa'nın 'beyaz zirvesi', kış turizminin lideri.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 64
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-022",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "dağ-turizmi",
+  "soru": "I. Uludağ\nII. Palandöken\nIII. Kartalkaya\nIV. Erciyes\nYukarıda verilen dağların ortak özelliği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hepsi volkanik kökenlidir",
+   "B": "Hepsinde kış turizmi merkezi gelişmiştir",
+   "C": "Hepsi kıvrım dağıdır",
+   "D": "Hepsi Millî Park statüsündedir",
+   "E": "Hepsi 5.000 metrenin üzerindedir"
+  },
+  "dogru": "B",
+  "cozum": "Kitapta bu dört dağ, Türkiye'de kış turizminin geliştiği merkezler olarak birlikte sayılır (TC s.64). Not: Erciyes volkanik, Uludağ kıvrımlıdır — köken karışık olduğundan A ve C yanlıştır.",
+  "hafiza_ipucu": "'Kar dörtlüsü': Uludağ-Palandöken-Kartalkaya-Erciyes → hepsi kayak pisti, kökenleri farklı.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 64
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-023",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "akarsular",
+  "soru": "Türkiye topraklarından doğup yine Türkiye topraklarında denize dökülen en büyük (en uzun) akarsuyumuz aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Fırat",
+   "B": "Dicle",
+   "C": "Kızılırmak",
+   "D": "Sakarya",
+   "E": "Yeşilırmak"
+  },
+  "dogru": "C",
+  "cozum": "\"Türkiye topraklarından doğup yine Türkiye'de denize dökülen en büyük nehir Kızılırmak'tır.\" (EKO s.66) Fırat ve Dicle Kızılırmak'tan uzun olmakla birlikte sularını Basra Körfezi'nden, yani Türkiye sınırları dışında denize dökerler.",
+  "hafiza_ipucu": "Kızılırmak = 'kıpkızıl kuşak tamamen bizim' — doğar da bizde, dökülür de bizde.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "Mar26: en uzun akarsu-Kızılırmak",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-024",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "akarsular",
+  "soru": "Fırat ve Dicle nehirleriyle ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Kızılırmak'tan daha uzundurlar",
+   "B": "Kaynaklarını Türkiye topraklarından alırlar",
+   "C": "Sularını Basra Körfezi'nden denize dökerler",
+   "D": "Türkiye sınırları içinde denize dökülürler",
+   "E": "İkisi de Türkiye'den doğan sınır aşan sulardandır"
+  },
+  "dogru": "D",
+  "cozum": "Fırat ve Dicle, Kızılırmak'tan uzun olmalarına rağmen sularını Türkiye sınırları DIŞINDA, Basra Körfezi'nden denize dökerler; bu yüzden 'Türkiye'de doğup Türkiye'de dökülen en uzun akarsu' unvanını Kızılırmak taşır (EKO s.66).",
+  "hafiza_ipucu": "Fırat-Dicle = 'pasaportlu nehirler', sınırı aşıp Basra'da denize karışırlar.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-025",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "akarsular",
+  "soru": "Sivas'tan doğup Samsun'un Çarşamba ilçesinden Karadeniz'e dökülen akarsuyumuz aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sakarya",
+   "B": "Filyos",
+   "C": "Coruh",
+   "D": "Kızılırmak",
+   "E": "Yeşilırmak"
+  },
+  "dogru": "E",
+  "cozum": "Yeşilırmak, Sivas'tan doğar ve Samsun'un Çarşamba ilçesinden Karadeniz'e dökülür (Ağu25 sınavı bu bilgiyi doğrulamıştır).",
+  "hafiza_ipucu": "Yeşil çay ÇARŞAMBA günü içilir — Yeşilırmak'ın döküldüğü yer Çarşamba.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 57
+  },
+  "akraba_cikmis_soru": "Ağu25: Yeşilırmak-Çarşamba",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-026",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "akarsular",
+  "soru": "Aras Nehri, kaynağını Türkiye'den almasına rağmen sularını nereye döker?",
+  "siklar": {
+   "A": "Hazar Gölü'ne (Denizi'ne)",
+   "B": "Basra Körfezi'ne",
+   "C": "Van Gölü'ne",
+   "D": "Ege Denizi'ne",
+   "E": "Karadeniz'e"
+  },
+  "dogru": "A",
+  "cozum": "Aras Nehri, Erzurum yöresinden doğarak Ermenistan-Azerbaycan üzerinden Hazar Gölü'ne (Hazar Denizi'ne) dökülen sınır aşan bir akarsudur.",
+  "hafiza_ipucu": "Aras = doğuya akan 'kaçak' nehir, Basra'ya değil Hazar'a gider — Fırat/Dicle ile karıştırma.",
+  "kaynak": {
+   "dosya": "rehber/02-turizm-cografyasi.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-027",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "akarsular",
+  "soru": "I. Kızılırmak\nII. Fırat\nIII. Dicle\nIV. Yeşilırmak\nYukarıdaki akarsulardan hangileri sularını Türkiye sınırları DIŞINDA, Basra Körfezi'nden denize döker?",
+  "siklar": {
+   "A": "I ve IV",
+   "B": "II ve III",
+   "C": "I, II ve III",
+   "D": "II, III ve IV",
+   "E": "Yalnız I"
+  },
+  "dogru": "B",
+  "cozum": "Yalnızca Fırat ve Dicle, Kızılırmak'tan uzun olmalarına rağmen Basra Körfezi'nden denize dökülür; Kızılırmak ve Yeşilırmak tamamen Türkiye sınırları içinde denize ulaşır (EKO s.66).",
+  "hafiza_ipucu": "II ve III = 'ikiz sınır aşanlar' Fırat-Dicle; I ve IV yerli kalanlar.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-028",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "akarsu-turizmi",
+  "soru": "Ekoloji ve Turizm kitabına göre aşağıdaki akarsularımızdan hangisi rafting ve su sporlarına elverişli akarsular arasında sayılmaktadır?",
+  "siklar": {
+   "A": "Sakarya Nehri",
+   "B": "Gediz Nehri",
+   "C": "Çoruh Nehri",
+   "D": "Seyhan Nehri",
+   "E": "Ceyhan Nehri"
+  },
+  "dogru": "C",
+  "cozum": "Kitapta su sporlarına uygun akarsular arasında Çoruh Nehri, Fırtına Deresi, İkizdere, Manavgat Çayı, Dim Çayı, Göksu Nehri ve Fırat Nehri sayılır; Sakarya, Gediz, Seyhan ve Ceyhan ise dinlenme-balıkçılık amaçlı akarsular listesindedir (EKO s.183).",
+  "hafiza_ipucu": "Çoruh = 'çılgın nehir', raftingin adresi; sakin nehirler (Sakarya, Gediz, Seyhan, Ceyhan) balıkçının tercihi.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 183
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-029",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "akarsu-turizmi",
+  "soru": "Ekoloji ve Turizm kitabına göre aşağıdaki akarsularımızdan hangisi 'dinlenme, eğlenme ve balıkçılık amaçlı' akarsular arasında SAYILMAZ?",
+  "siklar": {
+   "A": "Sakarya Nehri",
+   "B": "Kızılırmak",
+   "C": "Yeşilırmak",
+   "D": "Manavgat Çayı",
+   "E": "Ceyhan Nehri"
+  },
+  "dogru": "D",
+  "cozum": "Manavgat Çayı, kitapta su sporlarına uygun akarsular arasında sayılmıştır; Sakarya, Kızılırmak, Yeşilırmak, Gediz, Seyhan, Ceyhan ve Dicle ise dinlenme-eğlenme-balıkçılık amaçlı akarsular listesindedir (EKO s.183).",
+  "hafiza_ipucu": "Manavgat = 'hareketli' nehir (rafting/su sporu), sakin listeye değil hareketli listeye yazılır.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 183
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-030",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "akarsular",
+  "soru": "I. Nil Nehri – Afrika\nII. Amazon Nehri – Güney Amerika\nIII. Mississippi Nehri – Kuzey Amerika\nIV. Yangtze Nehri – Asya\nYukarıdaki nehir-kıta eşleştirmelerinden hangileri, dünyanın en büyük dört nehri olarak kitapta verilen bilgiyle DOĞRU biçimde eşleşmektedir?",
+  "siklar": {
+   "A": "Yalnız III ve IV",
+   "B": "Yalnız I ve II",
+   "C": "I, II ve III",
+   "D": "II, III ve IV",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "E",
+  "cozum": "Kitapta dünyanın en büyük dört nehri Nil (Afrika), Amazon (Güney Amerika), Mississippi (Kuzey Amerika) ve Yangtze (Asya) olarak sayılır; tüm eşleştirmeler doğrudur (EKO s.66).",
+  "hafiza_ipucu": "N-A-M-Y: 'Nehirlerin Anası Muazzam Yolculuk' — dört kıta dört dev nehir.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 66
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-031",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "akarsu-turizmi",
+  "soru": "Ekoloji ve Turizm kitabına göre Porsuk Çayı, özellikle hangi turizm faaliyetine uygun bir akarsu olarak örnek gösterilmektedir?",
+  "siklar": {
+   "A": "Tekne ve gondol gezileri",
+   "B": "Balıkçılık",
+   "C": "Kano yarışları",
+   "D": "Yüzme sporları",
+   "E": "Rafting ve su sporları"
+  },
+  "dogru": "A",
+  "cozum": "Kitapta Porsuk Çayı, 'tekne ve gondol gezilerine uygun' akarsu örneği olarak diğer su sporu akarsularından ayrı şekilde belirtilmiştir (EKO s.183).",
+  "hafiza_ipucu": "Porsuk Çayı-Eskişehir = şehrin ortasından geçen 'gondol' hattı, Venedik esintili gezi.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 183
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-032",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller",
+  "soru": "Türkiye'nin en büyük gölü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Beyşehir Gölü",
+   "B": "Van Gölü",
+   "C": "İznik Gölü",
+   "D": "Eğirdir Gölü",
+   "E": "Tuz Gölü"
+  },
+  "dogru": "B",
+  "cozum": "\"Hazar Gölü (Denizi) dünyanın, Van Gölü ise Türkiye'nin en büyük gölleridir.\" (EKO s.67)",
+  "hafiza_ipucu": "Van Gölü = Türkiye'nin 'devi', İnci Kefali'nin de tek yurdu.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "Ağu25/Mar26: İnci Kefali-Van Gölü",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-033",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller",
+  "soru": "Burdur ili sınırları içinde yer alan ve Türkiye'nin en derin göllerinden biri kabul edilen göl aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Akşehir Gölü",
+   "B": "Kovada Gölü",
+   "C": "Salda Gölü",
+   "D": "Beyşehir Gölü",
+   "E": "Eğirdir Gölü"
+  },
+  "dogru": "C",
+  "cozum": "\"Burdur ili sınırları içerisindeki Salda Gölü ise Türkiye'nin en derin göllerinden biridir\" (EKO s.67); dünyada derinlik açısından bu unvanı Baykal Gölü taşır.",
+  "hafiza_ipucu": "Salda = Türkiye'nin 'beyaz Maldivleri' ama asıl ünü derinliğinden.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-034",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller",
+  "soru": "Yerkabuğunda meydana gelen kıvrılma, kırılma ve çökme sonucu oluşan çukurların suyla dolmasıyla meydana gelen göl türüne ne ad verilir?",
+  "siklar": {
+   "A": "Buzul gölü",
+   "B": "Karstik göl",
+   "C": "Set gölü",
+   "D": "Tektonik göl",
+   "E": "Krater gölü"
+  },
+  "dogru": "D",
+  "cozum": "Tektonik göller, yerkabuğundaki kıvrılma-kırılma-çökme sonucu oluşan çukurların suyla dolmasıyla meydana gelir; Sapanca, Uluabat, Manyas, Akşehir, Beyşehir, Seyfe, İznik ve Tuz Gölü örnektir (EKO s.67-68).",
+  "hafiza_ipucu": "Tektonik = yerin 'kırılıp çökmesi', göl bu çöküntüye dolar.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-035",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller",
+  "soru": "I. Sapanca Gölü\nII. Beyşehir Gölü\nIII. Salda Gölü\nIV. Tuz Gölü\nYukarıdaki göllerden hangileri TEKTONİK kökenli göllerimizdendir?",
+  "siklar": {
+   "A": "I, III ve IV",
+   "B": "II, III ve IV",
+   "C": "I, II, III ve IV",
+   "D": "Yalnız I ve II",
+   "E": "I, II ve IV"
+  },
+  "dogru": "E",
+  "cozum": "Kitaba göre tektonik göller arasında Sapanca, Uluabat, Manyas, Akşehir, Beyşehir, Seyfe, İznik ve Tuz Gölü sayılır; Salda Gölü ise KARSTİK kökenli bir göldür (EKO s.68).",
+  "hafiza_ipucu": "Salda çapası: 'Salda karstik, sakın tektonik sanma' — beyaz kalker kıyıları karstik kökeni ele verir.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-036",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller",
+  "soru": "Kalkerli arazilerdeki kireçtaşının erimesi ya da yeraltındaki mağara tavanlarının çökmesiyle oluşan boşluklara suların birikmesiyle meydana gelen göl türüne ne ad verilir?",
+  "siklar": {
+   "A": "Karstik göl",
+   "B": "Set gölü",
+   "C": "Krater gölü",
+   "D": "Yapay göl",
+   "E": "Tektonik göl"
+  },
+  "dogru": "A",
+  "cozum": "Karstik göller, kalkerli alanlarda kireçtaşının erimesi veya mağara tavanı çökmesiyle oluşan boşluklara su birikmesiyle oluşur; Kestel, Salda, Avlan, Suğla ve Obruk gölleri örnektir (EKO s.68).",
+  "hafiza_ipucu": "KARST(kireçtaşı erimesi) + göl = karstik göl; mağara ile aynı kökten (erime).",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-037",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller",
+  "soru": "Nemrut Dağı'nın lavlarının vadi önünü kapatmasıyla oluşan 'lav-set göl' örneği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Mogan Gölü",
+   "B": "Van Gölü",
+   "C": "Akyatan Lagünü",
+   "D": "Terkos Gölü",
+   "E": "Tortum Gölü"
+  },
+  "dogru": "B",
+  "cozum": "\"Yanardağlardan çıkan lavların vadi ya da akarsu önünü kapatması ile oluşan göllere lav-set göller denir. Örnek olarak Nemrut Dağı'nın lavlarının set oluşturması ile meydana gelen Van Gölü verilebilir.\" (EKO s.68)",
+  "hafiza_ipucu": "Van Gölü'nün doğuşu: Nemrut'un lavı önünü tıkadı, göl doğdu — set gölü ailesinin en büyüğü.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-038",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller",
+  "soru": "Aşağıdaki göl-oluşum türü eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Mogan Gölü (Ankara) – alüvyal-set gölü",
+   "B": "Büyükçekmece Gölü – kıyı-set (lagün) gölü",
+   "C": "Van Gölü – karstik göl",
+   "D": "Salda Gölü – karstik göl",
+   "E": "Tortum Gölü (Erzurum) – heyelan-set gölü"
+  },
+  "dogru": "C",
+  "cozum": "Van Gölü lav-set gölüdür (Nemrut Dağı lavlarının set oluşturmasıyla), karstik değildir. Diğer eşleştirmeler kitaba uygundur: Tortum ve Yedigöller heyelan-set; Mogan, Eymir, Köyceğiz alüvyal-set; Büyükçekmece, Küçükçekmece, Terkos kıyı-set/lagün; Salda karstiktir (EKO s.68).",
+  "hafiza_ipucu": "Van Gölü = LAV-set (Nemrut'tan), Salda = KARST-set (kireç erimesi) — ikisini karıştırma!",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-039",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller-endemik",
+  "soru": "Türkiye'ye özgü (endemik) bir tür olan 'İnci Kefali' balığı aşağıdaki göllerden hangisinde yaşamaktadır?",
+  "siklar": {
+   "A": "Sapanca Gölü",
+   "B": "Tuz Gölü",
+   "C": "Manyas Gölü",
+   "D": "Van Gölü",
+   "E": "Beyşehir Gölü"
+  },
+  "dogru": "D",
+  "cozum": "İnci Kefali, yalnızca Van Gölü'nde yaşayan endemik bir balık türüdür; bu bilgi Ağustos 2025 ve Mart 2026 sınavlarında art arda sorulmuştur.",
+  "hafiza_ipucu": "İnci Kefali = Van Gölü'nün 'incisi', başka hiçbir gölde bulunmaz.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": "Ağu25 S.6, Mar26 S.74 (iki sınavda üst üste)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-040",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller-kuşcenneti",
+  "soru": "Manyas Kuş Cenneti aşağıdaki illerden hangisinde yer almaktadır?",
+  "siklar": {
+   "A": "Çanakkale",
+   "B": "Bilecik",
+   "C": "Kütahya",
+   "D": "Bursa",
+   "E": "Balıkesir"
+  },
+  "dogru": "E",
+  "cozum": "Manyas Kuş Cenneti, Balıkesir ilinde, Manyas Gölü kıyısında yer alır; Şubat 2025 sınavında sorulmuştur.",
+  "hafiza_ipucu": "Manyas Gölü de Manyas Kuş Cenneti de Balıkesir'in aynı adresinde.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25: Manyas Kuş Cenneti-Balıkesir",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-041",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller-kuşcenneti",
+  "soru": "I. Seyfe Gölü\nII. Sultan Sazlığı\nIII. Beyşehir Gölü\nIV. Manyas Gölü\nYukarıdaki alanların ortak özelliği aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hepsi önemli kuş gözlem alanlarıdır",
+   "B": "Hepsi yapay (baraj) göldür",
+   "C": "Hepsi Millî Park statüsündedir",
+   "D": "Hepsi Van Gölü havzasındadır",
+   "E": "Hepsi karstik göldür"
+  },
+  "dogru": "A",
+  "cozum": "Kitapta bu dört alan, Seyfe Gölü, Sultan Sazlığı, Beyşehir Gölü ve Manyas Gölü gibi diğer sahalarla birlikte Türkiye'nin önemli kuş gözlem alanları arasında sayılır (EKO s.186).",
+  "hafiza_ipucu": "Kuş gözlemcisinin dört durağı: Seyfe-Sultan Sazlığı-Beyşehir-Manyas — hepsi kanatlıların uğrak yeri.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 186
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-042",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "göller",
+  "soru": "Dünyanın en büyük gölü (denizi) kabul edilen göl aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Van Gölü",
+   "B": "Hazar Gölü (Denizi)",
+   "C": "Aral Gölü",
+   "D": "Tanganika Gölü",
+   "E": "Baykal Gölü"
+  },
+  "dogru": "B",
+  "cozum": "\"Hazar Gölü (Denizi) dünyanın, Van Gölü ise Türkiye'nin en büyük gölleridir.\" (EKO s.67) Baykal ise derinlik bakımından dünyanın en derin gölüdür — büyüklük ile derinlik unvanları karıştırılmamalıdır.",
+  "hafiza_ipucu": "Hazar = dünyanın devi (büyüklük), Baykal = dünyanın kuyusu (derinlik) — iki ayrı unvan, iki ayrı göl.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-043",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıyı-tipleri",
+  "soru": "Dağ kütlelerinin kıyıya DİK uzanması sonucu oluşan, girinti ve çıkıntının fazla olduğu (Ege kıyıları örneği) kıyı tipine ne ad verilir?",
+  "siklar": {
+   "A": "Limanlı kıyı",
+   "B": "Boyuna kıyı",
+   "C": "Enine kıyı",
+   "D": "Dalmaçya tipi kıyı",
+   "E": "Ria tipi kıyı"
+  },
+  "dogru": "C",
+  "cozum": "\"Enine Kıyılar: Dağ kütlelerinin kıyılara dik uzanması ile oluşmaktadır. Girinti ve çıkıntının fazla olduğu Ege kıyıları örnek olarak verilebilir.\" (EKO s.70)",
+  "hafiza_ipucu": "ENine = Ege'nin İNce girintili kıyısı; dağlar denize dik iner.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-044",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıyı-tipleri",
+  "soru": "Dağ kütlelerinin kıyıya PARALEL uzanması sonucu oluşan, girinti-çıkıntısı az, falezlerin yaygın olduğu (Akdeniz ve Karadeniz kıyıları örneği) kıyı tipine ne ad verilir?",
+  "siklar": {
+   "A": "Skyer tipi kıyı",
+   "B": "Enine kıyı",
+   "C": "Dalmaçya tipi kıyı",
+   "D": "Boyuna kıyı",
+   "E": "Haliç tipi kıyı"
+  },
+  "dogru": "D",
+  "cozum": "\"Boyuna Kıyılar: Dağ kütlelerinin kıyılara paralel uzanması ile oluşmaktadır... Akdeniz ve Karadeniz kıyıları örnek olarak verilebilir.\" (EKO s.70)",
+  "hafiza_ipucu": "BOYuna = dağın BOYu kıyıyla aynı yönde uzanır (paralel).",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-045",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıyı-tipleri",
+  "soru": "Kıyıya paralel uzanan dağların girintili bölümlerinin deniz suları altında kalmasıyla oluşan ve Adriyatik Denizi'ndeki örnekleriyle bilinen kıyı tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Boyuna kıyı",
+   "B": "Mercan (resif) kıyı",
+   "C": "Ria tipi kıyı",
+   "D": "Fiyort tipi kıyı",
+   "E": "Dalmaçya tipi kıyı"
+  },
+  "dogru": "E",
+  "cozum": "\"Dalmaçya Tipi Kıyılar: Kıyıya paralel uzanan dağların girintili bölgelerinin deniz suları altında kalması ile oluşurlar. Adriyatik Denizi'ndeki Dalmaçya kıyıları en güzel örnekleridir.\" (EKO s.70)",
+  "hafiza_ipucu": "Dalmaçya = Adriyatik'in adaşı kıyı tipi; Dalmaçyalı köpeğin benekli kıyısı gibi girintili-adalı.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-046",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıyı-tipleri",
+  "soru": "Alçak kıyılardaki geniş ve derin tabanlı vadi, koy veya körfezlerin deniz suları ile dolması sonucu oluşan ve Odesa (Ukrayna) kıyıları örnek gösterilen kıyı tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Limanlı kıyı",
+   "B": "Ria tipi kıyı",
+   "C": "Skyer tipi kıyı",
+   "D": "Enine kıyı",
+   "E": "Haliç tipi kıyı"
+  },
+  "dogru": "A",
+  "cozum": "\"Limanlı Kıyılar: Yüksekliği az olan kıyılardaki geniş ve derin tabanlı vadi, koy veya körfezlerin deniz suları ile dolması sonucu oluşur. Odesa kıyıları (Ukrayna) örnek olarak verilebilir.\" (EKO s.70)",
+  "hafiza_ipucu": "Limanlı kıyı = doğal limana hazır alçak koy; Odesa'nın büyük limanı bu tipin klasik örneği.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-047",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıyı-tipleri",
+  "soru": "Buzulların aşındırdığı vadilerin deniz suları altında kalmasıyla oluşan, Norveç kıyıları örnek gösterilen kıyı tipi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Skyer tipi kıyı",
+   "B": "Fiyort tipi kıyı",
+   "C": "Dalmaçya tipi kıyı",
+   "D": "Haliç tipi kıyı",
+   "E": "Ria tipi kıyı"
+  },
+  "dogru": "B",
+  "cozum": "\"Fiyort Tipi Kıyılar: Buzulların aşındırması ile oluşan vadilerin deniz suları altında kalması ile oluşurlar. Norveç kıyıları örnek olarak verilebilir.\" (EKO s.71) Türkiye'de gerçek fiyort yoktur; Hamsilos (Sinop) yalnızca 'fiyort tipi' görünümlüdür.",
+  "hafiza_ipucu": "Fiyort = buzul + deniz; Norveç'in derin dar koyları — Türkiye'de sadece 'tipi' var, kendisi yok.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": "Mar26: Hamsilos fiyort tipi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-048",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıyı-tipleri",
+  "soru": "Buzul kökenli olmadığı için gerçek bir fiyort sayılmayan, ancak dar ve derin görünümüyle 'fiyort tipi kıyı' olarak tanınan koyumuz aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kabak Koyu",
+   "B": "Akbük Koyu",
+   "C": "Hamsilos Koyu",
+   "D": "Adrasan Koyu",
+   "E": "Phaselis Koyu"
+  },
+  "dogru": "C",
+  "cozum": "Sinop'taki Hamsilos Koyu, buzul kökenli olmadığı için gerçek bir fiyort değildir; ancak dar-derin-yeşil görünümüyle 'fiyort tipi' koy olarak tanınır (Mart 2026 sınavı soru 6; EKO Tabiat Parkları tablosunda Hamsilos-Sinop olarak geçer, EKO s.130).",
+  "hafiza_ipucu": "Hamsilos: hamsi Karadeniz'in balığı → Sinop. 'Fiyort DEĞİL, fiyort TİPİ' ifadesini gör gör Hamsilos'u işaretle.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Mar26 S.6 (birebir)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-049",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıyı-tipleri",
+  "soru": "Ekoloji ve Turizm kitabına göre İstanbul Boğazı ve Çanakkale Boğazı, akarsu vadilerinin deniz suları ile dolması sonucu oluşan hangi kıyı tipine örnek olarak verilir?",
+  "siklar": {
+   "A": "Haliç tipi kıyı",
+   "B": "Fiyort tipi kıyı",
+   "C": "Dalmaçya tipi kıyı",
+   "D": "Ria tipi kıyı",
+   "E": "Skyer tipi kıyı"
+  },
+  "dogru": "D",
+  "cozum": "\"Ria Tipi Kıyılar: Akarsu vadilerinin deniz suları ile dolması şeklinde oluşan kıyı tipleridir. İstanbul Boğazı ve Çanakkale Boğazı ria tipi kıyılardır.\" (EKO s.71)",
+  "hafiza_ipucu": "RIA = akarsu vadisi + deniz; boğazlarımız aslında birer 'boğulmuş vadi'.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-050",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıyı-tipleri",
+  "soru": "Buzulların aşındırdığı tepeciklerin deniz suları altında kalmasıyla oluşan, çok sayıda küçük adadan meydana gelen ve Norveç ile Şili kıyılarında görülen kıyı tipine ne ad verilir?",
+  "siklar": {
+   "A": "Limanlı kıyı",
+   "B": "Mercan (resif) kıyı",
+   "C": "Ria tipi kıyı",
+   "D": "Haliç tipi kıyı",
+   "E": "Skyer tipi kıyı"
+  },
+  "dogru": "E",
+  "cozum": "\"Skyer Tipi Kıyılar: Buzulların etkisi aşınan tepeciklerin sular altında kalması ile çok sayıda adadan oluşan kıyılardır. Örnek olarak Norveç ve Şili kıyıları verilebilir.\" (EKO s.71)",
+  "hafiza_ipucu": "Skyer = 'skerry' adacıkları; fiyort'un adalı kuzeni, aynı buzul ailesinden.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 71
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-051",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kıyı-tipleri",
+  "soru": "I. Ege kıyıları – Enine kıyı\nII. Akdeniz ve Karadeniz kıyıları – Boyuna kıyı\nIII. Adriyatik kıyıları – Dalmaçya tipi kıyı\nYukarıdaki kıyı-tip eşleştirmelerinden hangisi/hangileri DOĞRUDUR?",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "Yalnız I",
+   "C": "Yalnız II",
+   "D": "I ve II",
+   "E": "II ve III"
+  },
+  "dogru": "A",
+  "cozum": "Her üç eşleştirme de kitaptaki tanımlarla birebir örtüşür: Ege=enine, Akdeniz-Karadeniz=boyuna, Adriyatik=Dalmaçya tipi (EKO s.70).",
+  "hafiza_ipucu": "Üç kıyı, üç kimlik: Ege dik keser (enine), Akdeniz-Karadeniz paralel uzar (boyuna), Adriyatik girintili batar (Dalmaçya).",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 70
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-052",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Anadolu'nun en büyük mağaralarından biri olan Ballıca Mağarası hangi ildedir?",
+  "siklar": {
+   "A": "Sivas",
+   "B": "Tokat",
+   "C": "Amasya",
+   "D": "Çorum",
+   "E": "Yozgat"
+  },
+  "dogru": "B",
+  "cozum": "Ballıca Mağarası Tokat ilindedir; Şubat 2025 sınavında üç ayrı soruda (6, 51, 69) sorulmuştur. Kitapta Tabiat Parkı olarak Tokat'a bağlı gösterilir (EKO s.130) ve mağara turizmi listesinde de geçer (EKO s.179).",
+  "hafiza_ipucu": "Bal kavanozu suratına TOKAT gibi yapışıyor — Ballıca-Tokat.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 130
+  },
+  "akraba_cikmis_soru": "Şub25: Ballıca-Tokat (×3)",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-053",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Burdur'da bulunan, yeraltı gölleri ve dinlenme tesisleriyle bilinen mağaramız aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yarımburgaz Mağarası",
+   "B": "Karain Mağarası",
+   "C": "İnsuyu Mağarası",
+   "D": "Damlataş Mağarası",
+   "E": "Ballıca Mağarası"
+  },
+  "dogru": "C",
+  "cozum": "Şubat 2025 sınavında 'Burdur'da bulunur' sorusunun cevabı İnsuyu Mağarası'dır; kitabın mağara turizmi listesinde de yer alır (EKO s.179).",
+  "hafiza_ipucu": "\"İN, SUyu BURada DUR!\" — mağaraya inince su duruyor, yeraltı gölleri var.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 179
+  },
+  "akraba_cikmis_soru": "Şub25: İnsuyu-Burdur",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-054",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Aşağıdaki mağaralardan hangisi Karadeniz Bölgesi'ndedir?",
+  "siklar": {
+   "A": "Dupnisa Mağarası",
+   "B": "Damlataş Mağarası",
+   "C": "Karain Mağarası",
+   "D": "Gökgöl Mağarası",
+   "E": "Tınaztepe Mağarası"
+  },
+  "dogru": "D",
+  "cozum": "Gökgöl Mağarası Zonguldak'ta, yani Karadeniz Bölgesi'nde yer alır; bu soru Ağustos 2025 sınavında birebir sorulmuştur.",
+  "hafiza_ipucu": "Kömür karası Zonguldak'ta GÖKyüzü gibi parlayan GÖL — Gökgöl-Zonguldak-Karadeniz.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Ağu25 S.34 (birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-055",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Oylat Mağarası'nın bulunduğu il aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Burdur",
+   "B": "Antalya",
+   "C": "Konya",
+   "D": "Balıkesir",
+   "E": "Bursa"
+  },
+  "dogru": "E",
+  "cozum": "Oylat Mağarası Bursa'nın İnegöl ilçesindedir; bu soru Ağustos 2025 sınavında birebir sorulmuş ve Mart 2026 sınavında da geçmiştir.",
+  "hafiza_ipucu": "\"OYalanma, İnegöl'e in!\" — İnegöl köftesi molası, Oylat-Bursa.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 12
+  },
+  "akraba_cikmis_soru": "Ağu25 S.44 (birebir); Mar26'da da geçer",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-056",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Trakya bölgesinde, Kırklareli sınırları içinde yer alan mağaramız aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Dupnisa Mağarası",
+   "B": "Tınaztepe Mağarası",
+   "C": "Oylat Mağarası",
+   "D": "Gökgöl Mağarası",
+   "E": "Damlataş Mağarası"
+  },
+  "dogru": "A",
+  "cozum": "Dupnisa Mağarası, Trakya'nın (Kırklareli) en bilinen mağarasıdır; kitabın mağara turizmi listesinde de yer alır (EKO s.179).",
+  "hafiza_ipucu": "KIRK derece serin Trakya mahzeni — Dupnisa-Kırklareli.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 179
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-057",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Konya sınırları içinde yer alan mağaramız aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gökgöl Mağarası",
+   "B": "Tınaztepe Mağarası",
+   "C": "Damlataş Mağarası",
+   "D": "İnsuyu Mağarası",
+   "E": "Oylat Mağarası"
+  },
+  "dogru": "B",
+  "cozum": "Tınaztepe Mağarası Konya ilindedir; kitabın mağara turizmi listesinde geçer (EKO s.179).",
+  "hafiza_ipucu": "TINaztepe: 'TINgırtılı taş' Konya ovasının derinliklerinde.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 179
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-058",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Ekoloji ve Turizm kitabının Milli Parklar tablosunda (Tablo 6.1) Antalya sınırları içinde 'Millî Park' statüsünde gösterilen mağaramız aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gökgöl Mağarası",
+   "B": "Damlataş Mağarası",
+   "C": "Altınbeşik Mağarası",
+   "D": "Dupnisa Mağarası",
+   "E": "Ballıca Mağarası"
+  },
+  "dogru": "C",
+  "cozum": "Kitabın Milli Parklar tablosunda 'Altıbeşik (Altınbeşik) Mağarası' Antalya olarak kayıtlıdır; bu, listedeki tek Millî Park statüsündeki mağaradır (EKO s.129).",
+  "hafiza_ipucu": "Altınbeşik = Antalya'nın 'altın beşiği', mağaralar arasında tek Millî Park unvanlısı.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-059",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "İstanbul'un Küçükçekmece ilçesi sınırları içinde yer alan, Pleistosen tabakalarında taş aletler ve hayvan kemikleri bulunan, iki girişli Paleolitik Çağ mağarası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İnsuyu Mağarası",
+   "B": "Dim Mağarası",
+   "C": "Üçağızlı Mağarası",
+   "D": "Yarımburgaz Mağarası",
+   "E": "Damlataş Mağarası"
+  },
+  "dogru": "D",
+  "cozum": "Yarımburgaz Mağarası, İstanbul-Küçükçekmece'de yer alan, iki girişli, Anadolu'nun en eski Paleolitik buluntularından bazılarını barındıran mağaradır (Mart 2026 sınavı soru 43; ayrıca Şubat 2025 sınavında iki kez sorulmuştur).",
+  "hafiza_ipucu": "Yarım-Burgaz: 'yarım kalan' iki giriş — Küçükçekmece'nin çift kapılı mağarası.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "Mar26 S.43; Şub25 S.36/66 (birebir)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-060",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Ekoloji ve Turizm kitabına göre Türkiye'nin bilinen en derin mağarası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Altınbeşik Mağarası",
+   "B": "Kaklık Mağarası",
+   "C": "Eshab-ı Kehf Mağarası",
+   "D": "Pınargözü Mağarası",
+   "E": "Peynirlikönü Mağarası"
+  },
+  "dogru": "E",
+  "cozum": "Kitapta mağara turizmine hizmet veren mağaralar sayılırken Peynirlikönü Mağarası '(en derin mağara)' notuyla belirtilir (EKO s.179).",
+  "hafiza_ipucu": "Peynirlikönü: 'peynir gibi delik deşik', en DERİNe inen mağara.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 179
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-061",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Ekoloji ve Turizm kitabına göre Türkiye'nin bilinen en uzun mağarası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Pınargözü Mağarası",
+   "B": "Kocadüden Mağarası",
+   "C": "Fosforlu Mağarası",
+   "D": "Alacain Mağarası",
+   "E": "Peynirlikönü Mağarası"
+  },
+  "dogru": "A",
+  "cozum": "Kitapta mağara turizmine hizmet veren mağaralar sayılırken Pınargözü Mağarası '(en uzun mağara)' notuyla belirtilir (EKO s.179).",
+  "hafiza_ipucu": "Pınargözü: 'gözden kaynayan pınar' gibi kilometrelerce uzanan galeri.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 179
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-062",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "Aşağıdaki mağara-il eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Oylat – Bursa",
+   "B": "Gökgöl – Antalya",
+   "C": "Altınbeşik – Antalya",
+   "D": "Ballıca – Tokat",
+   "E": "İnsuyu – Burdur"
+  },
+  "dogru": "B",
+  "cozum": "Gökgöl Mağarası Antalya'da değil, Karadeniz Bölgesi'nde (Zonguldak) yer alır (Ağu25 sınavı); diğer eşleştirmeler doğrudur (EKO s.129-130, 179).",
+  "hafiza_ipucu": "B şıkkı bilinçli tuzak: Gökgöl'ü Antalya mağaralarıyla (Damlataş, Altınbeşik) karıştırma, o Karadeniz'de.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 179
+  },
+  "akraba_cikmis_soru": "Ağu25: Gökgöl-Karadeniz Bölgesi",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-063",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "mağaralar",
+  "soru": "I. Damlataş Mağarası\nII. İnsuyu Mağarası\nIII. Karain Mağarası\nIV. Yarımburgaz Mağarası\nEkoloji ve Turizm kitabında 'mağara turizmine hizmet veren mağaralarımız' arasında sayılanlar aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "II, III ve IV",
+   "C": "I, II, III ve IV",
+   "D": "Yalnız IV",
+   "E": "Yalnız I ve II"
+  },
+  "dogru": "C",
+  "cozum": "Kitapta mağara turizmine hizmet veren mağaralar arasında Damlataş, İnsuyu, Cennet ve Cehennem, Peynirlikönü, Karain, Kocadüden, Altınbeşik, Papazkayası, Oylat, Alacain, Cehennem Ağzı, Fosforlu, Dupnisa, Keloğlan, Yarımburgaz, Pınargözü, Yediuyurlar, Kaklık, Tınaztepe, Ballıca ve Eshab-ı Kehf sayılır — dördü de bu listededir (EKO s.179).",
+  "hafiza_ipucu": "Dört mağara da aynı uzun listenin üyesi: Damlataş-İnsuyu-Karain-Yarımburgaz, hepsi 'turizme açık' kulübün mensubu.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 179
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-064",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kanyon-jeopark-ada",
+  "soru": "Ulubey Kanyonu aşağıdaki illerden hangisinde yer almaktadır?",
+  "siklar": {
+   "A": "Antalya",
+   "B": "Burdur",
+   "C": "Denizli",
+   "D": "Uşak",
+   "E": "Muğla"
+  },
+  "dogru": "D",
+  "cozum": "Ulubey Kanyonu Uşak ilindedir; Şubat 2025 sınavında sorulmuştur.",
+  "hafiza_ipucu": "ULUbey = Uşak'ın ULU kanyonu.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25: Ulubey-Uşak",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-065",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kanyon-jeopark-ada",
+  "soru": "UNESCO Küresel Jeoparkı statüsündeki Kula Jeoparkı aşağıdaki illerden hangisindedir?",
+  "siklar": {
+   "A": "İzmir",
+   "B": "Denizli",
+   "C": "Aydın",
+   "D": "Uşak",
+   "E": "Manisa"
+  },
+  "dogru": "E",
+  "cozum": "Kula Jeoparkı Manisa ilindedir ve UNESCO Küresel Jeoparkları listesindedir; Şubat 2025 sınavında sorulmuştur.",
+  "hafiza_ipucu": "Kula-Manisa: volkanik Kula toprağı Manisa'nın jeolojik hazinesi.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25: Kula Jeoparkı-Manisa",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-066",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kanyon-jeopark-ada",
+  "soru": "Türkiye'nin en büyük adası aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Gökçeada",
+   "B": "Marmara Adası",
+   "C": "Avşa Adası",
+   "D": "Cunda Adası",
+   "E": "Bozcaada"
+  },
+  "dogru": "A",
+  "cozum": "Gökçeada (Çanakkale), yüzölçümü bakımından Türkiye'nin en büyük adasıdır; Şubat 2025 sınavında sorulmuştur.",
+  "hafiza_ipucu": "Gökçeada = 'gökyüzü kadar büyük' ada, Türkiye'nin en genişi.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25: en büyük ada-Gökçeada",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-067",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kanyon-jeopark-ada",
+  "soru": "Gökçeada'dan sonra Çanakkale'ye bağlı, tarihî bağcılığı ve şarapçılığıyla tanınan diğer büyük adamız aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "İmralı Adası",
+   "B": "Bozcaada",
+   "C": "Marmara Adası",
+   "D": "Avşa Adası",
+   "E": "Cunda Adası"
+  },
+  "dogru": "B",
+  "cozum": "Bozcaada, Çanakkale'ye bağlı, Gökçeada'dan sonra bilinen önemli adalarımızdandır; bağcılık ve şarap üretimiyle tanınır (Şubat 2025 sınavında Gökçeada sorusunda çeldirici olarak yer almıştır).",
+  "hafiza_ipucu": "Bozcaada = Gökçeada'nın 'şarapçı kardeşi', ikisi de Çanakkale'nin adaları.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25: Gökçeada sorusunda çeldirici",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-068",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kanyon-jeopark-ada",
+  "soru": "Ekoloji ve Turizm kitabının Tabiat Parkları tablosunda (Tablo 6.2) Isparta sınırları içinde gösterilen kanyonumuz aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Köprülü Kanyon",
+   "B": "Güver Kanyon",
+   "C": "Yazılı Kanyon",
+   "D": "Saklıkent Kanyonu",
+   "E": "Ihlara Vadisi"
+  },
+  "dogru": "C",
+  "cozum": "Kitabın Tabiat Parkları tablosunda 'Yazılı Kanyon' Isparta ili altında listelenmiştir (EKO s.130).",
+  "hafiza_ipucu": "Yazılı Kanyon-Isparta: kayalara 'yazılmış' gibi duran kanyon, Göller Bölgesi'nin gizli köşesi.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 130
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-069",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kanyon-jeopark-ada",
+  "soru": "Ekoloji ve Turizm kitabının Milli Parklar tablosunda (Tablo 6.1) Antalya sınırları içinde 'Millî Park' statüsünde gösterilen kanyonumuz aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Saklıkent Kanyonu",
+   "B": "Yazılı Kanyon",
+   "C": "Güver Kanyon",
+   "D": "Köprülü Kanyon",
+   "E": "Ulubey Kanyonu"
+  },
+  "dogru": "D",
+  "cozum": "Kitabın Milli Parklar tablosunda 'Köprülü Kanyon' Antalya ili altında Millî Park olarak listelenmiştir (EKO s.129); Güver Kanyon ise aynı ilde fakat Tabiat Parkı statüsündedir (EKO s.130).",
+  "hafiza_ipucu": "Köprülü Kanyon = Antalya'nın Millî Park'lı kanyonu; rafting ve tarihî köprüsüyle tanınır.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-070",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kanyon-jeopark-ada",
+  "soru": "I. Ulubey Kanyonu – Uşak\nII. Kula Jeoparkı – Manisa\nIII. Güver Kanyonu – Antalya\nIV. Yazılı Kanyon – Antalya\nYukarıdaki eşleştirmelerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "III ve IV",
+   "B": "Yalnız I",
+   "C": "Yalnız II",
+   "D": "Yalnız III",
+   "E": "Yalnız IV"
+  },
+  "dogru": "E",
+  "cozum": "Yazılı Kanyon Antalya'da değil, Isparta ilindedir (EKO Tabiat Parkları tablosu, s.130); diğer üç eşleştirme (Ulubey-Uşak, Kula-Manisa, Güver-Antalya) doğrudur.",
+  "hafiza_ipucu": "IV şıkkı bilinçli tuzak: Güver (Antalya) ile Yazılı (Isparta) kanyonlarını karıştırma — ikisi de Göller Bölgesi'nde ama farklı illerde.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 130
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-071",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "fitocografya",
+  "soru": "Türkiye, Asya ve Avrupa kıtaları arasında köprü oluşturarak üç fitocoğrafik bölgenin kesişim noktasında yer almaktadır. Bu üç bölge aşağıdakilerin hangisinde birlikte verilmiştir?",
+  "siklar": {
+   "A": "Akdeniz, Avrupa-Sibirya, İran-Turan",
+   "B": "Akdeniz, Boreal, Saharo-Arabian",
+   "C": "Avrupa-Sibirya, Amazon, Akdeniz",
+   "D": "İran-Turan, Boreal, Neotropikal",
+   "E": "Saharo-Arabian, Amazon, Boreal"
+  },
+  "dogru": "A",
+  "cozum": "Türkiye; Akdeniz, Avrupa-Sibirya ve İran-Turan fitocoğrafik bölgelerinin kesişim noktası üzerindedir (EKO s.123).",
+  "hafiza_ipucu": "Üç bölge=üç iklim yüzü: Avrupa-Sibirya (Karadeniz/nemli), İran-Turan (İç-Doğu/bozkır), Akdeniz (kıyı/maki).",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-072",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "fitocografya",
+  "soru": "Aşağıdakilerden hangisi Türkiye'nin fitocoğrafik bölgelerinden biridir?",
+  "siklar": {
+   "A": "Amazon Bölgesi",
+   "B": "Boreal Bölge",
+   "C": "Saharo-Arabian Bölgesi",
+   "D": "İran-Turan Bölgesi",
+   "E": "Neotropikal Bölge"
+  },
+  "dogru": "D",
+  "cozum": "Mart 2026 sınavında aynı mantıkla sorulmuş, doğru cevap İran-Turan Bölgesi olmuştur; diğer seçenekler başka kıtalara ait fitocoğrafik/flora bölgeleridir (EKO s.123).",
+  "hafiza_ipucu": "Çeldiriciler hep kıta dışından gelir: Amazon, Boreal, Saharo-Arabian, Neotropikal — Türkiye'de kıta dışı bölge olmaz.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 4
+  },
+  "akraba_cikmis_soru": "Mar26-31 fitocoğrafik-İran-Turan",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-073",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "fitocografya",
+  "soru": "Türkiye'nin ait olduğu flora âlemi (kingdom) aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Paleotropis",
+   "B": "Neotropis",
+   "C": "Holarktik",
+   "D": "Antarktik",
+   "E": "Subtropikal"
+  },
+  "dogru": "C",
+  "cozum": "Ağustos 2025 sınavında Türkiye'nin bulunduğu flora alanı Holarktik olarak sorulmuş ve cevaplanmıştır.",
+  "hafiza_ipucu": "Holarktik = Kuzey yarımkürenin büyük flora âlemi; Türkiye bu âlemin güney ucundadır.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "Ağu25-51 Holarktik",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-074",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "fitocografya",
+  "soru": "Karadeniz kıyı kuşağının nemli ve ormanlık alanlarını kapsayan fitocoğrafik bölge aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Akdeniz Bölgesi",
+   "B": "İran-Turan Bölgesi",
+   "C": "Avrupa-Sibirya Bölgesi",
+   "D": "Saharo-Arabian Bölgesi",
+   "E": "Boreal Bölge"
+  },
+  "dogru": "C",
+  "cozum": "Türkiye'nin üç fitocoğrafik bölgesinden Avrupa-Sibirya, kuzeyin nemli-ormanlık kuşağını kapsar; İran-Turan iç/doğu bozkırını, Akdeniz kıyı makisini temsil eder (EKO s.123).",
+  "hafiza_ipucu": "Üç bölge=üç iklim yüzü; nemli orman deyince Avrupa-Sibirya.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "Mar26-31 fitocoğrafya",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-075",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "fitocografya",
+  "soru": "EKO ders kitabına göre, tüm Avrupa ülkelerinde toplam bitki türü sayısı yaklaşık 12500 iken Türkiye'deki bitki türü sayısı yaklaşık kaçtır?",
+  "siklar": {
+   "A": "5000",
+   "B": "8000",
+   "C": "11000",
+   "D": "15000",
+   "E": "20000"
+  },
+  "dogru": "C",
+  "cozum": "Türkiye'deki bitki türü sayısı yaklaşık 11000 civarındadır; bu, tek başına Avrupa'nın toplamına yakın bir zenginliktir (EKO s.123).",
+  "hafiza_ipucu": "11000 ≈ Avrupa'nın (12500) neredeyse tamamı — Türkiye'nin bitki zenginliği vurgusu.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-076",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "fitocografya",
+  "soru": "Türkiye'deki bitki türlerinden endemik (sadece Türkiye'ye özgü) olanların oranı yaklaşık yüzde kaçtır?",
+  "siklar": {
+   "A": "%10",
+   "B": "%20",
+   "C": "%30",
+   "D": "%50",
+   "E": "%70"
+  },
+  "dogru": "C",
+  "cozum": "EKO ders kitabına göre Türkiye'deki bitkilerin yaklaşık %30'u endemiktir (s.123).",
+  "hafiza_ipucu": "11000 bitkinin 3'te 1'i (≈%30) sadece bize ait.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-077",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "fitocografya",
+  "soru": "Aşağıdakilerden hangisi Türkiye'nin zengin biyolojik çeşitliliğinin coğrafi nedenlerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Üç fitocoğrafik bölgenin kesişim noktasında olması",
+   "B": "Asya ve Avrupa kıtaları arasında köprü oluşturması",
+   "C": "Farklı yükseltilere yayılmış topografik çeşitlilik",
+   "D": "Zengin deniz, göl ve akarsu ağı",
+   "E": "Ekvatoral iklim kuşağında yer alması"
+  },
+  "dogru": "E",
+  "cozum": "Türkiye ekvatoral iklim kuşağında değil, ılıman kuşakta yer alır; zenginliğin nedeni fitocoğrafik kesişim, köprü konum ve topografik/hidrografik çeşitliliktir (EKO s.123).",
+  "hafiza_ipucu": "Ekvator Türkiye'den binlerce km uzakta — bu seçenek her zaman tuzak.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-078",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "fitocografya",
+  "soru": "I. Akdeniz\nII. Avrupa-Sibirya\nIII. İran-Turan\nIV. Saharo-Arabian\nYukarıdakilerden hangileri Türkiye'nin fitocoğrafik bölgeleri arasında yer alır?",
+  "siklar": {
+   "A": "I ve II",
+   "B": "I, II ve III",
+   "C": "II, III ve IV",
+   "D": "I, II, III ve IV",
+   "E": "Yalnız III"
+  },
+  "dogru": "B",
+  "cozum": "Türkiye'nin fitocoğrafik bölgeleri Akdeniz, Avrupa-Sibirya ve İran-Turan'dır; Saharo-Arabian Türkiye dışı bir bölgedir (EKO s.123).",
+  "hafiza_ipucu": "Saharo-Arabian her zaman çeldirici — bizim üçlümüzde yok.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-079",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "bitki-ortusu",
+  "soru": "Tropikal iklim dışındaki kurak alanlara dayanıklı, tek/çok yıllık otsu türlerden oluşan, ağaçsız ve Türkiye'de İç Anadolu'da görülen ekosisteme ne ad verilir?",
+  "siklar": {
+   "A": "Maki",
+   "B": "Step",
+   "C": "Tayga",
+   "D": "Savan",
+   "E": "Garig"
+  },
+  "dogru": "B",
+  "cozum": "Step; tropikal iklim dışındaki kurak alanlara dayanıklı, ağaçsız, otsu bitkilerden oluşan ve Türkiye'de İç Anadolu'da görülen ekosistemdir (EKO s.65).",
+  "hafiza_ipucu": "Step = ot vs Maki = çalı; İç Anadolu'nun otsu örtüsü.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "Mar26 step-İçAnadolu",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-080",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "bitki-ortusu",
+  "soru": "Step ekosistemine Türkiye'de verilen yerel ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Fundalık",
+   "B": "Bozkır",
+   "C": "Garig",
+   "D": "Longoz",
+   "E": "Tayga"
+  },
+  "dogru": "B",
+  "cozum": "Türkiye'de İç Anadolu'da görülen steplere bozkır adı da verilmektedir (EKO s.65).",
+  "hafiza_ipucu": "Step=Bozkır eşanlamlı; İç Anadolu'nun otsu düzlükleri.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-081",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "bitki-ortusu",
+  "soru": "Aşağıdakilerden hangisi EKO ders kitabına göre step bitki örtüsünde yaygın olarak görülen türlerden biridir?",
+  "siklar": {
+   "A": "Zeytin",
+   "B": "Kayın",
+   "C": "Gelincik",
+   "D": "Ladin",
+   "E": "Sığla"
+  },
+  "dogru": "C",
+  "cozum": "Step bitki örtüsünde deve dikeni, gelincik, geven, dağ lalesi ve süsen gibi türlere rastlanır (EKO s.65). Diğer seçenekler maki, ılıman orman, tayga ve endemik ağaç türleridir.",
+  "hafiza_ipucu": "Step = otsu çiçekler ailesi: gelincik, geven, süsen, dağ lalesi.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-082",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "bitki-ortusu",
+  "soru": "Sürekli yeşil, sert yapraklı çalı ve ağaççık formasyonuna sahip, Akdeniz Bölgesi'nin karakteristik bitki örtüsüne ne ad verilir?",
+  "siklar": {
+   "A": "Step",
+   "B": "Tayga",
+   "C": "Maki",
+   "D": "Savan",
+   "E": "Tundra"
+  },
+  "dogru": "C",
+  "cozum": "Sürekli yeşil çalı formasyonundaki sert yapraklı bu ormanlara maki denir (EKO s.65).",
+  "hafiza_ipucu": "Maki = Akdeniz'in yıl boyu yeşil kalan sert-yapraklı çalısı.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-083",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "bitki-ortusu",
+  "soru": "Aşağıdakilerden hangisi maki bitki örtüsünü oluşturan türlerden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Zeytin",
+   "B": "Kızılçam",
+   "C": "Defne",
+   "D": "Kayın",
+   "E": "Mersin"
+  },
+  "dogru": "D",
+  "cozum": "Maki; zeytin, meşe, servi, kızılçam, fıstık çamı, ardıç, defne, mersin, zakkum, funda gibi türlerden oluşur. Kayın ise ılıman yaprak döken orman türüdür, maki listesinde yer almaz (EKO s.65).",
+  "hafiza_ipucu": "Kayın hep 'geniş yapraklı/ılıman orman' ailesinde — maki'ye asla girmez.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "Ağu25 kayın-iğneyapraklıdeğil (benzer ayrım)",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-084",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "bitki-ortusu",
+  "soru": "I. Kızılçam\nII. Fıstık çamı\nIII. Ladin\nIV. Kayın\nEKO ders kitabına göre yukarıdaki türlerden hangileri maki bitki topluluğunun türlerindendir?",
+  "siklar": {
+   "A": "I ve II",
+   "B": "I, II ve III",
+   "C": "III ve IV",
+   "D": "Yalnız IV",
+   "E": "I, II, III ve IV"
+  },
+  "dogru": "A",
+  "cozum": "Kızılçam ve fıstık çamı maki türleri arasında sayılırken; ladin tayga/iğne yapraklı orman, kayın ise ılıman yaprak döken orman türüdür (EKO s.65).",
+  "hafiza_ipucu": "Çamlar (kızıl+fıstık) maki'de, ladin tayga'da, kayın geniş yapraklıda — üç ayrı aile.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-085",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "bitki-ortusu",
+  "soru": "Ekvatoral iklimin görüldüğü alanlar ile çöller arasındaki geçiş bölgesinde bulunan, seyrek çalımsı bitkiler ve çayırlardan oluşan, kaktüs ve palmiye türlerine rastlanan ekosistem aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Step",
+   "B": "Maki",
+   "C": "Savan",
+   "D": "Tayga",
+   "E": "Tundra"
+  },
+  "dogru": "C",
+  "cozum": "Savan; ekvatoral iklim ile çöller arasındaki geçiş bölgesindeki seyrek çalı ve çayır ekosistemidir, kış kuraklığına dayanıklı kaktüs ve palmiye türleri barındırır (EKO s.65).",
+  "hafiza_ipucu": "Savan = 'geçiş' bölgesi; aslan-zebra sahnesi aklına gelsin.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-086",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "bitki-ortusu",
+  "soru": "Çam, ladin ve köknar gibi düşük sıcaklıklara adapte olmuş iğne yapraklı ağaçlardan oluşan, sert karasal iklimin görüldüğü kuzey enlemlerdeki orman ekosistemine ne ad verilir?",
+  "siklar": {
+   "A": "Maki",
+   "B": "Step",
+   "C": "Tayga",
+   "D": "Savan",
+   "E": "Garig"
+  },
+  "dogru": "C",
+  "cozum": "Tayga; sert karasal iklimin görüldüğü kuzey enlemlerdeki iğne yapraklı ormandır, dünya kereste ihtiyacının önemli bir kısmı buradan karşılanır (EKO s.65).",
+  "hafiza_ipucu": "Tayga = kuzeyin iğne ormanı: çam-ladin-köknar üçlüsü.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-087",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "EKO ders kitabındaki Millî Parklar tablosuna göre Küre Dağları Millî Parkı hangi illerin sınırları içindedir?",
+  "siklar": {
+   "A": "Bartın-Kastamonu",
+   "B": "Sinop-Samsun",
+   "C": "Zonguldak-Bolu",
+   "D": "Karabük-Çankırı",
+   "E": "Ordu-Giresun"
+  },
+  "dogru": "A",
+  "cozum": "EKO Millî Parklar tablosunda Küre Dağları, Bartın ve Kastamonu illerine bağlı olarak listelenir (s.129).",
+  "hafiza_ipucu": "Küre Dağları = Batı Karadeniz'in 'yaban ormanı'; Bartın-Kastamonu ikilisi birlikte anılır.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-088",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "agac-turleri",
+  "soru": "Aşağıdakilerden hangisi iğne yapraklı ağaç türlerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Lübnan sediri",
+   "B": "Doğu göknarı",
+   "C": "Doğu ladini",
+   "D": "Karaçam",
+   "E": "Doğu kayını"
+  },
+  "dogru": "E",
+  "cozum": "Doğu kayını geniş yapraklı bir türdür; Lübnan sediri, Doğu göknarı, Doğu ladini ve Karaçam iğne yapraklıdır (Ağustos 2025 sınavı).",
+  "hafiza_ipucu": "Kayın hep tek başına 'geniş yapraklı' köşede durur; diğer dördü iğne ailesinden.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "Ağu25-86 kayın-iğneyapraklıdeğil",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-089",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "agac-turleri",
+  "soru": "Toros Dağları'nda yetişen ve halk arasında \"Toros sediri\" olarak da anılan iğne yapraklı tür aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Doğu kayını",
+   "B": "Lübnan sediri",
+   "C": "Meşe",
+   "D": "Kızılçam",
+   "E": "Ihlamur"
+  },
+  "dogru": "B",
+  "cozum": "Lübnan sediri (Cedrus libani), Toroslarda yetiştiği için Toros sediri olarak da bilinen iğne yapraklı bir türdür (EKO s.65 civarı, rehber notu).",
+  "hafiza_ipucu": "Lübnan+Toros aynı sedir ağacının iki adı — Lübnan bayrağındaki ağaç.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "Ağu25-86 Lübnan sediri",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-090",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "agac-turleri",
+  "soru": "Kışın yapraklarını döken; meşe, kayın, karaağaç, dişbudak gibi türlerden oluşan ve iğne yapraklı ormanların güneyinde yayılış gösteren orman tipine ne ad verilir?",
+  "siklar": {
+   "A": "Tayga",
+   "B": "Maki",
+   "C": "Ilıman yaprak döken orman",
+   "D": "Step",
+   "E": "Savan"
+  },
+  "dogru": "C",
+  "cozum": "Kuzey yarıkürede sıcak-yağışlı yaz ve çok soğuk olmayan kışların görüldüğü ılıman bölgelerdeki, meşe/kayın/karaağaç/dişbudak/ıhlamur/huş/gürgen/akçaağaç/kestane/ceviz türlerinden oluşan ormanlara ılıman yaprak döken orman denir (EKO s.65).",
+  "hafiza_ipucu": "Kayın'ın gerçek ailesi burası: ılıman + yaprak döken + geniş yapraklı.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 65
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-091",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "longoz",
+  "soru": "Nehir taşkın sularının periyodik olarak bastığı alanlarda gelişen \"su basar orman\" ekosistemine ne ad verilir?",
+  "siklar": {
+   "A": "Maki",
+   "B": "Longoz",
+   "C": "Step",
+   "D": "Tayga",
+   "E": "Garig"
+  },
+  "dogru": "B",
+  "cozum": "Longoz, akarsu taşkınlarının periyodik olarak bastığı alanlarda oluşan su basar ormanıdır; Türkiye'de Sakarya (Acarlar) ve Kırklareli (İğneada) örnekleriyle bilinir (EKO s.129).",
+  "hafiza_ipucu": "Longoz = orman + göl karışımı; su basar ama ORMAN kalır (lagün'le karıştırma).",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "Ağu25-18 longoz-Sakarya",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-092",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "longoz",
+  "soru": "Aşağıdaki illerden hangisinde longoz (su basar) ormanı bulunmaktadır?",
+  "siklar": {
+   "A": "Artvin",
+   "B": "Niğde",
+   "C": "Sakarya",
+   "D": "Antalya",
+   "E": "Gaziantep"
+  },
+  "dogru": "C",
+  "cozum": "Ağustos 2025 sınavında longoz ormanı bulunan il olarak Sakarya (Acarlar Longozu) doğru cevap olarak işaretlenmiştir.",
+  "hafiza_ipucu": "Sakarya'nın 'longoz kuşağı' — Acarlar Gölü çevresindeki su basar orman.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "Ağu25-18 longoz-Sakarya",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-093",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "longoz",
+  "soru": "EKO ders kitabındaki Millî Parklar tablosuna göre İğneada-Longoz Ormanları Millî Parkı hangi ildedir?",
+  "siklar": {
+   "A": "Sakarya",
+   "B": "Kırklareli",
+   "C": "Bolu",
+   "D": "Sinop",
+   "E": "Zonguldak"
+  },
+  "dogru": "B",
+  "cozum": "İğneada-Longoz Ormanları Millî Parkı, EKO ders kitabındaki Millî Parklar tablosuna göre Kırklareli'ndedir (s.129).",
+  "hafiza_ipucu": "İğneada = Kırklareli'nin Karadeniz kıyısındaki longoz cenneti (Acarlar'ın Trakya'daki ikizi).",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-094",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "longoz",
+  "soru": "Aşağıdaki ifadelerden hangisi longoz ile lagün arasındaki farkı DOĞRU açıklar?",
+  "siklar": {
+   "A": "Longoz bir göl, lagün ise bir ormandır",
+   "B": "Longoz nehir taşkınlarıyla oluşan su basar orman; lagün ise kıyıda kumsalla denizden ayrılan göldür",
+   "C": "İkisi tamamen aynı ekosistemdir",
+   "D": "Longoz yalnızca Karadeniz'de, lagün yalnızca Akdeniz'de görülür",
+   "E": "Longoz yapay, lagün doğal bir oluşumdur"
+  },
+  "dogru": "B",
+  "cozum": "Longoz, taşkın sularının bastığı bir ORMAN ekosistemidir; lagün ise kıyı kumulu ile denizden ayrılan bir GÖLdür — sık karıştırılan iki farklı kavramdır (rehber ayırt edici çapa; EKO s.129).",
+  "hafiza_ipucu": "Longoz=orman, Lagün=göl. Orman vs göl ayrımı asla karıştırılmasın.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-095",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "agac-turleri",
+  "soru": "I. Doğu kayını\nII. Lübnan sediri\nIII. Doğu göknarı\nIV. Doğu ladini\nYukarıdaki türlerden hangileri iğne yapraklı ağaçlardandır?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I, II ve III",
+   "C": "II, III ve IV",
+   "D": "I, II, III ve IV",
+   "E": "Yalnız IV"
+  },
+  "dogru": "C",
+  "cozum": "Lübnan sediri, Doğu göknarı ve Doğu ladini iğne yapraklıdır; Doğu kayını ise geniş yapraklı bir türdür (Ağustos 2025 sınavı).",
+  "hafiza_ipucu": "Kayın hep dışarıda kalır, geri kalan üçlü iğne ailesinde.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "Ağu25-86 kayın-iğneyapraklıdeğil",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-096",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "Yeryüzünde yalnızca belirli bir bölgeye adapte olmuş ve başka bölgelerde doğal olarak yaşamayan (yöreye özgü) türlere ne ad verilir?",
+  "siklar": {
+   "A": "İstilacı tür",
+   "B": "Endemik tür",
+   "C": "Göçmen tür",
+   "D": "Nesli tükenmiş tür",
+   "E": "Yerli olmayan tür"
+  },
+  "dogru": "B",
+  "cozum": "Endemik: yeryüzünde yalnızca bulunduğu bölgeye adapte olmuş ve başka bölgelerde yaşamayan canlı türleridir (EKO s.123, kenar not).",
+  "hafiza_ipucu": "En-DEMİK = 'DEM' (yerel/halk) köküyle 'sadece burada' bağını kur.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-097",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "Sadece Van Gölü'nde yaşayan ve Türkiye'nin endemik balık türlerinden biri olan tür aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Sazan",
+   "B": "Alabalık",
+   "C": "İnci Kefali",
+   "D": "Somon",
+   "E": "Levrek"
+  },
+  "dogru": "C",
+  "cozum": "Ağustos 2025 sınavında Van Gölü'nde bulunan endemik balık türü olarak İnci Kefali cevaplanmıştır; EKO s.123'te de endemik hayvan türleri arasında sayılır.",
+  "hafiza_ipucu": "Van Gölü'nün incisi = İnci Kefali, sodalı suda yaşayabilen tek balık.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "Ağu25-21 İnciKefali-VanGölü",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-098",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "Endemik bir tür olan \"İnci Kefali\" aşağıdaki göllerden hangisinde yaşamaktadır?",
+  "siklar": {
+   "A": "Tuz Gölü",
+   "B": "Manyas Gölü",
+   "C": "Van Gölü",
+   "D": "Beyşehir Gölü",
+   "E": "Sapanca Gölü"
+  },
+  "dogru": "C",
+  "cozum": "Mart 2026 sınavında İnci Kefali'nin yaşadığı göl olarak Van Gölü doğru cevap olarak işaretlenmiştir.",
+  "hafiza_ipucu": "İki sınav üst üste aynı cevabı verdi: İnci Kefali=Van Gölü.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 8
+  },
+  "akraba_cikmis_soru": "Mar26-74 İnciKefali-VanGölü",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-099",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "Aşağıdakilerden hangisi EKO ders kitabında sayılan Türkiye'nin endemik hayvan türlerinden biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Abant alası",
+   "B": "Silifke dikenli faresi",
+   "C": "Toros yer sincabı",
+   "D": "Kapadokya kertenkelesi",
+   "E": "Sazan"
+  },
+  "dogru": "E",
+  "cozum": "EKO ders kitabı Abant alası, Silifke dikenli faresi, Toros yer sincabı, Kapadokya kertenkelesi, Sivas kangalı ve İnci kefalini endemik türler arasında sayar; sazan ise dünya genelinde yaygın bir balıktır (s.123).",
+  "hafiza_ipucu": "Sazan her gölde var — 'sadece burada' kuralına uymaz, endemik olamaz.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "Mar26-20 endemik ailesi",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-100",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "Van Gölü çevresinde yaşayan, çoğunlukla tek veya çift gözü farklı renkte (odd-eyed) olmasıyla tanınan endemik kedi türü aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ankara Kedisi",
+   "B": "Van Kedisi",
+   "C": "Anadolu Kedisi",
+   "D": "Karakulak",
+   "E": "Orman Kedisi"
+  },
+  "dogru": "B",
+  "cozum": "Van Kedisi, Mart 2026 sınavında da endemik tür listesinde onaylanan, Van Gölü çevresine özgü bir kedi ırkıdır.",
+  "hafiza_ipucu": "Van Gölü'nün iki kimliği: İnci Kefali (balık) + Van Kedisi (memeli), ikisi de endemik.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "Mar26-20 endemik-VanKedisi",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-101",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "Toroslarda yaşayan ve Türkiye'nin endemik amfibi (kurbağa) türlerinden biri olan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ağa Kurbağası",
+   "B": "Toros Kurbağası",
+   "C": "Pelin Kurbağası",
+   "D": "Anadolu Kurbağası",
+   "E": "Kızıl Kurbağa"
+  },
+  "dogru": "B",
+  "cozum": "Toros Kurbağası, EKO ders kitabında (s.123) ve Mart 2026 sınavında endemik türler arasında sayılmıştır.",
+  "hafiza_ipucu": "Toros dağlarının kendine has kurbağası — sadece o zirvelerde.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "Mar26-20 endemik-TorosKurbağası",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-102",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "I. Sivas Kangal Köpeği\nII. Silifke Dikenli Faresi\nIII. Kapadokya Kertenkelesi\nIV. Toros Yer Sincabı\nEKO ders kitabına göre yukarıdaki hayvan türlerinden hangileri Türkiye'ye endemiktir?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve II",
+   "C": "I, II ve III",
+   "D": "I, II, III ve IV",
+   "E": "Hiçbiri"
+  },
+  "dogru": "D",
+  "cozum": "EKO ders kitabı, Sivas kangal köpeği, Silifke dikenli faresi, Kapadokya kertenkelesi, Toros kurbağası, Abant alası, Toros yer sincabı ve İnci kefalini Türkiye'nin endemik hayvan türlerine örnek olarak vermektedir (s.123).",
+  "hafiza_ipucu": "Dördü de aynı listenin üyesi — EKO'nun endemik hayvan kadrosu.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-103",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "\"Sevgi çiçeği\" (Centaurea tchihatcheffii) adlı endemik bitki türü, dünyada yalnızca hangi ilimizin bir bölgesinde bulunmaktadır?",
+  "siklar": {
+   "A": "Konya-Çumra",
+   "B": "Ankara-Gölbaşı",
+   "C": "Nevşehir-Ürgüp",
+   "D": "Isparta-Eğirdir",
+   "E": "Burdur-Salda"
+  },
+  "dogru": "B",
+  "cozum": "Sevgi çiçeği, dünyada sadece Ankara Gölbaşı civarında bulunan ve Bern Sözleşmesi ile koruma altına alınan endemik bir bitki türüdür (EKO s.123).",
+  "hafiza_ipucu": "Sevgi çiçeği=Ankara'nın kalbi (Gölbaşı) — başka hiçbir yerde yok.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-104",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "Aşağıdakilerden hangisi Türkiye'ye endemik bir bitki türü DEĞİLDİR?",
+  "siklar": {
+   "A": "Kazdağı Kardeleni",
+   "B": "Uludağ Göknarı",
+   "C": "İstanbul Çiğdemi",
+   "D": "Zeytin",
+   "E": "Munzur Kekiği"
+  },
+  "dogru": "D",
+  "cozum": "Zeytin, tüm Akdeniz havzasında yaygın yetişen bir türdür ve Türkiye'ye endemik değildir; diğerleri EKO ders kitabında Türkiye'ye endemik bitkiler arasında sayılır (s.123).",
+  "hafiza_ipucu": "Zeytin Akdeniz'in ortak mirası — sadece bize özgü değil.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-105",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "Bir bitki veya hayvan türünü, doğal yetişme/yaşama alanının dışına çıkarmadan kendi ortamında (örneğin millî parklarda) koruma yöntemine ne ad verilir?",
+  "siklar": {
+   "A": "Ex situ koruma",
+   "B": "In situ koruma",
+   "C": "Gen bankası",
+   "D": "Herbaryum",
+   "E": "Zooloji parkı"
+  },
+  "dogru": "B",
+  "cozum": "In situ koruma, canlıları kendi doğal yetişme alanında, insan müdahalesi olmadan koruma yöntemidir; Millî Parklar buna örnektir (EKO s.123 civarı).",
+  "hafiza_ipucu": "In situ = 'yerinde' (Latince); ex situ = 'yerinden alınmış' (gen bankası, hayvanat bahçesi).",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-106",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "endemik-turler",
+  "soru": "Türkiye'deki endemik türlerle ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Toros Kurbağası endemiktir",
+   "B": "İnci Kefali sadece Van Gölü'nde yaşar",
+   "C": "Sivrihisar Gelinciği Türkiye'ye endemiktir",
+   "D": "Van Kedisi endemik bir türdür",
+   "E": "Sivas Kangalı endemik bir köpek ırkıdır"
+  },
+  "dogru": "C",
+  "cozum": "Mart 2026 sınav cevap anahtarına göre Sivrihisar Gelinciği endemik DEĞİLDİR; diğer dört ifade doğrudur.",
+  "hafiza_ipucu": "Dört doğru bir yanlış — Sivrihisar Gelinciği hep tuzak şık.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "Mar26-20 endemikdeğil-SivrihisarGelinciği",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-107",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "Manyas Kuş Cenneti hangi ilimiz sınırları içindedir?",
+  "siklar": {
+   "A": "İzmir",
+   "B": "Balıkesir",
+   "C": "Çanakkale",
+   "D": "Bursa",
+   "E": "Manisa"
+  },
+  "dogru": "B",
+  "cozum": "Manyas Kuş Cenneti (Manyas Gölü Millî Parkı) Balıkesir'dedir (Şubat 2025 sınavı; EKO s.129 Millî Parklar tablosunda \"Kuş Cenneti-Balıkesir\").",
+  "hafiza_ipucu": "Manyas=Balıkesir'in gölü, kuşların cenneti.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-30 Manyas-Balıkesir",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-108",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "I. Sultan Sazlığı\nII. Ballıca Mağarası\nIII. Göksu Deltası\nIV. Kaçkar Dağları Millî Parkı\nEKO ders kitabına göre yukarıdakilerden hangileri RAMSAR Sözleşmesi kapsamında koruma altına alınan sulak alanlardandır?",
+  "siklar": {
+   "A": "I ve III",
+   "B": "I, II ve III",
+   "C": "II ve IV",
+   "D": "I, II, III ve IV",
+   "E": "Yalnız IV"
+  },
+  "dogru": "A",
+  "cozum": "Türkiye 1993'te RAMSAR Sözleşmesi'ne taraf olmuş; Göksu Deltası ve Sultan Sazlığı bu kapsamda korunan sulak alanlardır. Ballıca Mağarası ve Kaçkar Dağları MP ise sulak alan değildir (EKO s.128).",
+  "hafiza_ipucu": "RAMSAR = ıslak yerler kulübü; mağara ve dağ bu kulübe giremez.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 128
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-109",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "Aşağıdakilerden hangisi Türkiye'de RAMSAR Sözleşmesi kapsamında korunan sulak alanlardan biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Göksu Deltası",
+   "B": "Burdur Gölü",
+   "C": "Sultan Sazlığı",
+   "D": "Kaçkar Dağları Millî Parkı",
+   "E": "Gediz Deltası"
+  },
+  "dogru": "D",
+  "cozum": "Kaçkar Dağları Millî Parkı bir dağcılık/doğa sporları alanıdır, sulak alan (RAMSAR) listesinde yer almaz; diğerleri EKO s.128'deki RAMSAR listesindedir.",
+  "hafiza_ipucu": "Kaçkar yüksekte, RAMSAR alanları hep suyun/bataklığın olduğu düz-alçak yerlerde.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 128
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-110",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "Türkiye, sulak alanların korunmasına yönelik uluslararası RAMSAR Sözleşmesi'ne hangi yıl taraf olmuştur?",
+  "siklar": {
+   "A": "1983",
+   "B": "1988",
+   "C": "1993",
+   "D": "1998",
+   "E": "2003"
+  },
+  "dogru": "C",
+  "cozum": "Türkiye RAMSAR Sözleşmesi'ne 1993 yılında taraf olmuştur; Göksu Deltası, Sultan Sazlığı, Manyas ve Gediz Deltası bu kapsamda korunur (EKO s.128).",
+  "hafiza_ipucu": "'93'te ıslak imza' — RAMSAR'a katılım 1993.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 128
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-111",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "Güney Amerika'nın tropikal ormanlarında yaşayan, büyük ve renkli gagasıyla tanınan ve Türkiye üzerinden geçen kuş göç yollarında YER ALMAYAN tür aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Leylek",
+   "B": "Tukan",
+   "C": "Turna",
+   "D": "Alaca Baykuş",
+   "E": "Kerkenez"
+  },
+  "dogru": "B",
+  "cozum": "Tukan, Güney Amerika kuşudur ve Türkiye'nin göç yollarında bulunmaz (Ağustos 2025 sınavı); Leylek ve Alaca Baykuş sınav seçeneklerinde Türkiye göç yolunda YER ALAN türler olarak geçmiştir.",
+  "hafiza_ipucu": "Coğrafi mantık: Amazon'un kuşu Anadolu semalarına düşmez.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 19
+  },
+  "akraba_cikmis_soru": "Ağu25-72 Tukan-göçyolundaYok",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-112",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "Aşağıdakilerden hangisi EKO ders kitabında sayılan önemli kuş gözlem alanlarından biri DEĞİLDİR?",
+  "siklar": {
+   "A": "Seyfe Gölü",
+   "B": "Sultan Sazlığı",
+   "C": "Nemrut Gölü",
+   "D": "Ballıca Mağarası",
+   "E": "Gediz Deltası"
+  },
+  "dogru": "D",
+  "cozum": "EKO ders kitabı; Seyfe Gölü, Sultan Sazlığı, Akşehir Gölü, Nemrut Gölü, Gediz Deltası gibi yerleri kuş gözlem alanı olarak sayar. Ballıca Mağarası bir mağara turizmi alanıdır, kuş gözlemiyle ilişkili değildir (EKO s.186).",
+  "hafiza_ipucu": "Mağarada kuş gözlemi olmaz — o liste hep sulak/açık alanlardan oluşur.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 186
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-113",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "Turizm Coğrafyası (TC) ders kitabına göre, göllerin turizm açısından önemli olmasının nedenlerinden biri olarak \"Kuş gölü\" (Manyas) ile birlikte anılan önemli kuş alanı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Beyşehir Gölü",
+   "B": "Sultan Sazlığı",
+   "C": "Eğirdir Gölü",
+   "D": "Salda Gölü",
+   "E": "Tuz Gölü"
+  },
+  "dogru": "B",
+  "cozum": "TC ders kitabına göre \"Türkiye'de Kuş gölü (Manyas) ve Sultan Sazlığı önemli kuş alanlarıdır\" (s.57).",
+  "hafiza_ipucu": "Manyas + Sultan Sazlığı: TC'nin ikili kuş alanı vurgusu.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 57
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-114",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "I. Manyas Gölü\nII. Sultan Sazlığı\nIII. Göksu Deltası\nIV. Gediz Deltası\nEKO ders kitabına göre yukarıdakilerden hangileri RAMSAR Sözleşmesi kapsamında koruma altına alınmış sulak alanlarımızdandır?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve II",
+   "C": "I, II ve III",
+   "D": "I, II, III ve IV",
+   "E": "Hiçbiri"
+  },
+  "dogru": "D",
+  "cozum": "Türkiye'nin RAMSAR listesinde Manyas Gölü, Sultan Sazlığı, Göksu Deltası ve Gediz Deltası'nın tamamı yer alır (EKO s.128).",
+  "hafiza_ipucu": "Dördü de aynı sözleşmenin üyesi — RAMSAR'ın Türkiye takımı tam kadro.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 128
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-115",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "Millî Parklar Kanunu kapsamında \"Kuş Cenneti\" adıyla anılan ve EKO ders kitabındaki Millî Parklar tablosunda Balıkesir'e bağlı gösterilen millî park aşağıdaki göllerden hangisiyle özdeşleşmiştir?",
+  "siklar": {
+   "A": "Manyas Gölü",
+   "B": "Uluabat Gölü",
+   "C": "Sapanca Gölü",
+   "D": "İznik Gölü",
+   "E": "Akşehir Gölü"
+  },
+  "dogru": "A",
+  "cozum": "EKO ders kitabındaki Millî Parklar tablosunda \"Kuş Cenneti - Balıkesir\" olarak geçen alan, Manyas Gölü çevresindeki millî parktır (s.129).",
+  "hafiza_ipucu": "Kuş Cenneti = Manyas Gölü'nün resmi millî park adı.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "Şub25-30 Manyas-Balıkesir",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-116",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "kus-goc-cennetleri",
+  "soru": "Sultan Sazlığı Millî Parkı, EKO ders kitabındaki Millî Parklar tablosuna göre hangi ildedir?",
+  "siklar": {
+   "A": "Niğde",
+   "B": "Konya",
+   "C": "Kayseri",
+   "D": "Nevşehir",
+   "E": "Aksaray"
+  },
+  "dogru": "C",
+  "cozum": "EKO ders kitabındaki Millî Parklar tablosunda Sultan Sazlığı, Kayseri iline bağlı olarak listelenmiştir (s.129).",
+  "hafiza_ipucu": "Sultan Sazlığı = Erciyes'in eteğindeki sazlık, Kayseri'nin kuş cenneti.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-117",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "\"Bilimsel ve estetik bakımdan, millî ve milletlerarası ender bulunan tabii ve kültürel kaynak değerleriyle koruma, dinlenme ve turizm alanlarına sahip tabiat parçaları\" tanımı, 2873 sayılı Millî Parklar Kanunu'na göre hangi koruma statüsüne aittir?",
+  "siklar": {
+   "A": "Tabiat Parkı",
+   "B": "Tabiat Anıtı",
+   "C": "Millî Park",
+   "D": "Tabiatı Koruma Alanı",
+   "E": "Sit Alanı"
+  },
+  "dogru": "C",
+  "cozum": "Bu tanım, 2873 sayılı Millî Parklar Kanunu'nda \"Millî Park\" statüsü için aynen kullanılmıştır (EKO s.129).",
+  "hafiza_ipucu": "'Millî ve milletlerarası ender' ifadesi = Millî Park'ın imza cümlesi.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-118",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "\"Bitki örtüsü ve yaban hayatı özelliğine sahip, manzara bütünlüğü içinde halkın dinlenme ve eğlenmesine uygun tabiat parçaları\" tanımı hangi koruma statüsüne karşılık gelir?",
+  "siklar": {
+   "A": "Millî Park",
+   "B": "Tabiat Parkı",
+   "C": "Tabiat Anıtı",
+   "D": "Tabiatı Koruma Alanı",
+   "E": "Ören Yeri"
+  },
+  "dogru": "B",
+  "cozum": "Bu tanım Millî Parklar Kanunu'nda \"Tabiat Parkı\" statüsüne aittir (EKO s.130). Ballıca Mağarası ve Hamsilos gibi yerler bu statüde listelenir.",
+  "hafiza_ipucu": "Tabiat Parkı = 'dinlenme-eğlenme' vurgusu, Millî Park kadar 'ender' değil.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 130
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-119",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "\"Tabiat ve tabiat olaylarının meydana getirdiği özelliklere ve bilimsel değere sahip, millî park esasları dahilinde korunan tabiat parçaları\" tanımı hangi koruma statüsüne aittir?",
+  "siklar": {
+   "A": "Tabiat Parkı",
+   "B": "Tabiatı Koruma Alanı",
+   "C": "Tabiat Anıtı",
+   "D": "Millî Park",
+   "E": "Ören Yeri"
+  },
+  "dogru": "C",
+  "cozum": "Bu tanım \"Tabiat Anıtı\" statüsüne aittir (EKO s.131); genellikle tek bir ağaç, şelale veya kaya oluşumu gibi noktasal doğa varlıkları bu statüde korunur.",
+  "hafiza_ipucu": "Tabiat Anıtı = tekil doğa 'heykeli' (ulu çınar, sedir, şelale gibi tek bir varlık).",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 131
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-120",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "\"Bilim ve eğitim bakımından önem taşıyan nadir, tehlikeye maruz veya kaybolmaya yüz tutmuş ekosistem ve türlerin bulunduğu, sadece bilim ve eğitim amacıyla kullanılan tabiat parçaları\" tanımı hangi koruma statüsüne aittir?",
+  "siklar": {
+   "A": "Tabiat Parkı",
+   "B": "Tabiat Anıtı",
+   "C": "Millî Park",
+   "D": "Tabiatı Koruma Alanı",
+   "E": "Jeopark"
+  },
+  "dogru": "D",
+  "cozum": "Bu tanım \"Tabiatı Koruma Alanı\" statüsüne aittir; halkın ziyaretine değil sadece bilimsel/eğitsel kullanıma açıktır (EKO s.132).",
+  "hafiza_ipucu": "Tabiatı Koruma Alanı = turist değil bilim insanı girer — en 'kapalı kapı' statü.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 132
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-121",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "Karadeniz'de bulunan ve yaklaşık 3937 m yüksekliğiyle çeşitli doğa sporlarına ve dağ tırmanışına uygun millî parkımız aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Altındere Vadisi Millî Parkı",
+   "B": "Kaçkar Dağları Millî Parkı",
+   "C": "Karagöl-Sahara Millî Parkı",
+   "D": "Hatila Vadisi Millî Parkı",
+   "E": "Ilgaz Dağı Millî Parkı"
+  },
+  "dogru": "B",
+  "cozum": "Ağustos 2025 sınavında Karadeniz'de 3970 metreyi bulan yüksekliğiyle dağ sporlarına uygun millî park olarak Kaçkar Dağları Millî Parkı (Rize) cevaplanmıştır.",
+  "hafiza_ipucu": "Kaçkar = Karadeniz'in tek 'yüksek dağ' millî parkı, kıvrım dağı (volkanik değil).",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "Ağu25-16 KaçkarMP-dağcılık",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-122",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "I. Sümela Manastırı - Altındere Vadisi MP (Trabzon)\nII. Sultan Sazlığı MP - Kayseri\nIII. Kaçkar Dağları MP - Rize\nIV. Munzur Vadisi MP - Elazığ\nYukarıdaki millî park-il eşleştirmelerinden hangileri DOĞRUDUR?",
+  "siklar": {
+   "A": "I, II ve III",
+   "B": "I ve II",
+   "C": "II, III ve IV",
+   "D": "I, II, III ve IV",
+   "E": "Yalnız IV"
+  },
+  "dogru": "A",
+  "cozum": "EKO ders kitabındaki Millî Parklar tablosuna göre Munzur Vadisi Millî Parkı Tunceli'dedir, Elazığ değildir; diğer üç eşleştirme doğrudur (s.129).",
+  "hafiza_ipucu": "Munzur'un gerçek adresi Tunceli — Elazığ her zaman tuzak.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-123",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "\"Başkomutan Tarihî Millî Parkı\" aşağıdaki illerden hangilerinin sınırları içinde yer alır?",
+  "siklar": {
+   "A": "Kütahya-Manisa-Uşak",
+   "B": "Afyonkarahisar-Kütahya-Uşak",
+   "C": "Afyonkarahisar-Manisa-İzmir",
+   "D": "Afyonkarahisar-Eskişehir-Sakarya",
+   "E": "Kütahya-Eskişehir-Sakarya"
+  },
+  "dogru": "B",
+  "cozum": "Mart 2026 sınavına göre Başkomutan Tarihî Millî Parkı, Afyonkarahisar-Kütahya-Uşak illerinin sınırları içinde yer alır (soru 81, cevap B).",
+  "hafiza_ipucu": "Başkomutan = Büyük Taarruz güzergâhı; üç il birlikte anılır: Afyon-Kütahya-Uşak.",
+  "kaynak": {
+   "dosya": "MKS Soruları Mart 2026.txt",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "Mar26-81 Başkomutan-AfyonKütahyaUşak",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-124",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "EKO ders kitabındaki Millî Parklar tablosuna göre Munzur Vadisi Millî Parkı hangi ildedir?",
+  "siklar": {
+   "A": "Erzincan",
+   "B": "Tunceli",
+   "C": "Bingöl",
+   "D": "Elazığ",
+   "E": "Muş"
+  },
+  "dogru": "B",
+  "cozum": "Munzur Vadisi Millî Parkı, EKO ders kitabındaki Millî Parklar tablosunda Tunceli iline bağlı olarak gösterilmiştir (s.129).",
+  "hafiza_ipucu": "Munzur=Tunceli'nin kutsal vadisi; Munzur kekiği de aynı yörenin endemik bitkisi.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-125",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "I. Ilgaz Dağı - Çankırı, Kastamonu\nII. Karagöl-Sahara - Artvin\nIII. Hatila Vadisi - Artvin\nIV. Yedigöller - Bolu\nEKO ders kitabındaki Millî Parklar tablosuna göre yukarıdaki millî park-il eşleştirmelerinden hangileri DOĞRUDUR?",
+  "siklar": {
+   "A": "Yalnız I",
+   "B": "I ve II",
+   "C": "I, II ve III",
+   "D": "I, II, III ve IV",
+   "E": "Yalnız IV"
+  },
+  "dogru": "D",
+  "cozum": "EKO Millî Parklar tablosuna göre dört eşleştirme de doğrudur: Ilgaz Dağı (Çankırı-Kastamonu), Karagöl-Sahara (Artvin), Hatila Vadisi (Artvin), Yedigöller (Bolu) (s.129).",
+  "hafiza_ipucu": "Artvin'in iki millî parkı var: Karagöl-Sahara ve Hatila Vadisi — ikiz kardeşler.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-126",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "Aşağıdaki millî park-il eşleştirmelerinden hangisi YANLIŞTIR?",
+  "siklar": {
+   "A": "Köprülü Kanyon-Antalya",
+   "B": "Yozgat Çamlığı-Yozgat",
+   "C": "Munzur Vadisi-Tunceli",
+   "D": "Karagöl-Sahara-Rize",
+   "E": "Hatila Vadisi-Artvin"
+  },
+  "dogru": "D",
+  "cozum": "Karagöl-Sahara Millî Parkı Artvin'dedir, Rize değildir; diğer dört eşleştirme EKO Millî Parklar tablosuna göre doğrudur (s.129).",
+  "hafiza_ipucu": "Rize'nin millî parkı Kaçkar'dır; Karagöl-Sahara hep Artvin'e ait.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-127",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "Türkiye'nin ilk millî parkı olarak kabul edilen ve Yozgat'ta bulunan millî park aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kaçkar Dağları",
+   "B": "Yozgat Çamlığı",
+   "C": "Soğuksu",
+   "D": "Munzur Vadisi",
+   "E": "Ilgaz Dağı"
+  },
+  "dogru": "B",
+  "cozum": "Yozgat Çamlığı, 1958'de ilan edilen Türkiye'nin İLK millî parkıdır; EKO Millî Parklar tablosunda Yozgat'a bağlı listelenir (s.129). ('İlk/1958' bilgisi ders kitabında açıkça geçmez; yaygın ve tartışmasız genel bilgidir.)",
+  "hafiza_ipucu": "Yozgat Çamlığı = Türkiye'nin 'ilk' iddialı millî parkı, adı listenin başında hatırlanır.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-128",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "I. Millî Park\nII. Tabiat Parkı\nIII. Tabiat Anıtı\nIV. Tabiatı Koruma Alanı\n2873 sayılı Millî Parklar Kanunu'na göre yukarıdaki koruma alanı türlerinden kaç tanesi kanunda tanımlanmıştır?",
+  "siklar": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5"
+  },
+  "dogru": "D",
+  "cozum": "2873 No'lu Millî Parklar Kanunu'na göre dört farklı koruma alanı tanımlanmıştır: Millî Park, Tabiat Parkı, Tabiat Anıtı ve Tabiatı Koruma Alanı (EKO s.129).",
+  "hafiza_ipucu": "Dörtlü koruma ailesi: Millî Park > Tabiat Parkı > Tabiat Anıtı > Tabiatı Koruma Alanı (genişten dara).",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 129
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-129",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "milli-parklar",
+  "soru": "EKO ders kitabındaki Tabiat Parkları tablosuna göre, Ballıca Mağarası (Tokat) ve Hamsilos (Sinop) hangi koruma statüsünde yer alır?",
+  "siklar": {
+   "A": "Millî Park",
+   "B": "Tabiat Parkı",
+   "C": "Tabiat Anıtı",
+   "D": "Tabiatı Koruma Alanı",
+   "E": "Ören Yeri"
+  },
+  "dogru": "B",
+  "cozum": "EKO ders kitabının Tabiat Parkları tablosunda (Tablo 6.2) Ballıca Mağarası-Tokat ve Hamsilos-Sinop, Tabiat Parkı statüsünde listelenmiştir (s.130).",
+  "hafiza_ipucu": "Ballıca ve Hamsilos sınavda 'mağara/koy' olarak ünlü olsa da resmî statüleri Tabiat Parkı'dır.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 130
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-130",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "iklim-turizm",
+  "soru": "İklimin turistik çekicilik unsuru olarak değerlendirildiği; sıcaklık, nem, rüzgâr ve güneşlenme gibi unsurların turizme etkisini inceleyen kavrama ne ad verilir?",
+  "siklar": {
+   "A": "Klimatoloji",
+   "B": "Klimatik kaynaklar (iklim elemanları) ve turizm ilişkisi",
+   "C": "Meteoroloji",
+   "D": "Biyoiklim",
+   "E": "Fenoloji"
+  },
+  "dogru": "B",
+  "cozum": "TC ders kitabında \"Klimatik Kaynaklar (İklim Elemanları) ve Turizm\" başlığı altında iklimin turizme doğrudan/dolaylı etkileri ele alınır (s.51).",
+  "hafiza_ipucu": "Klimatik kaynak = iklimin kendisi bir turistik 'kaynak' gibi düşünülür.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 51
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-131",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "iklim-turizm",
+  "soru": "TC ders kitabına göre, iklim-turizm ilişkisinde bir yerin genel iklim özelliklerinden çok, esas belirleyici olan unsur aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yıllık ortalama sıcaklık",
+   "B": "Turizm mevsimi/sezonu sırasındaki hava şartları",
+   "C": "Denizden yükseklik",
+   "D": "Enlem derecesi",
+   "E": "Toprak yapısı"
+  },
+  "dogru": "B",
+  "cozum": "\"İklim-turizm ilişkisinde, bir yerin genel iklim özelliklerinden çok, turizm mevsimi sırasındaki hava şartları önem taşımaktadır\" (TC s.51).",
+  "hafiza_ipucu": "Yıl boyu değil, tatil ayları önemli — turizm mevsiminin anlık havası belirleyici.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 51
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-132",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "iklim-turizm",
+  "soru": "Dağ ikliminin insan sağlığını güçlendirici ve bazı rahatsızlıkları giderici etkisine dayanan turizm çeşidine ne ad verilir?",
+  "siklar": {
+   "A": "Termalizm",
+   "B": "Klimatizm",
+   "C": "Talassoterapi",
+   "D": "Ekoturizm",
+   "E": "Botanik turizm"
+  },
+  "dogru": "B",
+  "cozum": "TC ders kitabına göre \"Dağ ikliminin insan sağlığını güçlendirici, bazı rahatsızlıkları giderici etkilerine bağlı olarak klimatizm olarak adlandırılan bir turizm çeşidi gelişmiştir\" (s.52).",
+  "hafiza_ipucu": "Klima+tizm = 'iklimle tedavi' — dağın serin havasıyla iyileşme.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 52
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-133",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "iklim-turizm",
+  "soru": "TC ders kitabına göre, dünyada kıyı turizminde en çok tercih edilen Akdeniz kıyılarında yazın günlük güneşlenme süresi ortalama kaç saattir?",
+  "siklar": {
+   "A": "6-7 saat",
+   "B": "8-9 saat",
+   "C": "10-11 saat",
+   "D": "12-13 saat",
+   "E": "14-15 saat"
+  },
+  "dogru": "D",
+  "cozum": "Akdeniz kıyılarında yazın günlük güneşlenme süresi ortalama 12-13 saati, yıllık ortalaması ise 3000-3200 saati bulmaktadır (TC s.51).",
+  "hafiza_ipucu": "12-13 saat = yaz gününün neredeyse tamamı güneşli — Akdeniz'in turizm gücü.",
+  "kaynak": {
+   "dosya": "Turizm Cografyası_Anadolu Üni.pdf",
+   "sayfa": 51
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "COG-134",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "dogu-ekspresi",
+  "soru": "Doğu Ekspresi treninin son durağı (varış noktası) aşağıdaki illerden hangisidir?",
+  "siklar": {
+   "A": "Sivas",
+   "B": "Erzincan",
+   "C": "Erzurum",
+   "D": "Kars",
+   "E": "Malatya"
+  },
+  "dogru": "D",
+  "cozum": "Doğu Ekspresi, Ankara'dan başlayıp Kırıkkale-Kayseri-Sivas-Erzincan-Erzurum üzerinden Kars'a kadar uzanan bir yolcu trenidir; son durak Kars'tır (Şubat 2025 sınavı; rehber güzergâh bilgisi).",
+  "hafiza_ipucu": "Doğu Ekspresi'nin final sahnesi hep Kars'ta biter.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-16/100 DoğuEkspresi-güzergah",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-135",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "dogu-ekspresi",
+  "soru": "I. Sivas\nII. Erzincan\nIII. Kayseri\nIV. Erzurum\nV. Kars\nDoğu Ekspresi'nin Ankara'dan sonraki güzergâhındaki il sıralaması aşağıdakilerden hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "III-I-II-IV-V",
+   "B": "I-III-II-IV-V",
+   "C": "III-II-I-IV-V",
+   "D": "II-III-I-IV-V",
+   "E": "III-I-IV-II-V"
+  },
+  "dogru": "A",
+  "cozum": "Doğu Ekspresi güzergâhı Ankara'dan sonra sırasıyla Kırıkkale-Kayseri-Sivas-Erzincan-Erzurum-Kars'tır; Roma numaralarıyla doğru sıra Kayseri(III)-Sivas(I)-Erzincan(II)-Erzurum(IV)-Kars(V). (Şubat 2025 sınavı illeri doğrular; sıralama TCDD güzergâhının genel bilgisidir.)",
+  "hafiza_ipucu": "Rehberin hikâyesi: Ankara'dan çıkan tren önce Kayseri'ye, sonra Sivas'a, Erzincan'a, Erzurum'a ve son olarak Kars'a varır.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-16/100 DoğuEkspresi-güzergah",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-136",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "dogu-ekspresi",
+  "soru": "Aşağıdaki illerden hangisi Doğu Ekspresi'nin güzergâhında YER ALMAZ?",
+  "siklar": {
+   "A": "Sivas",
+   "B": "Erzincan",
+   "C": "Kayseri",
+   "D": "Erzurum",
+   "E": "Antalya"
+  },
+  "dogru": "E",
+  "cozum": "Şubat 2025 sınavında Doğu Ekspresi'nin güzergâhı için seçenekler arasında Sivas, Erzincan, Kayseri, Malatya ve Erzurum verilmiştir; Antalya bu güzergâhla hiç ilişkili değildir, Akdeniz kıyısındadır.",
+  "hafiza_ipucu": "Antalya deniz kıyısında, Doğu Ekspresi ise İç ve Doğu Anadolu'yu dolaşır — coğrafi olarak hiç kesişmezler.",
+  "kaynak": {
+   "dosya": "MKS SORULARI Şubat  2025 world..txt",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "Şub25-16/100 DoğuEkspresi-güzergah",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-137",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "unesco-dogal-varliklar",
+  "soru": "Türkiye'nin UNESCO Doğal ve Kültürel Karma Miras Listesi'nde bulunan alanı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Pamukkale/Hierapolis",
+   "B": "Truva/Çanakkale",
+   "C": "Çatalhöyük/Konya",
+   "D": "Efes/İzmir",
+   "E": "Göbeklitepe"
+  },
+  "dogru": "A",
+  "cozum": "Ağustos 2025 sınavına göre Türkiye'nin UNESCO'nun Doğal ve Kültürel Karma Miras Listesi'nde bulunan alanı Pamukkale/Hierapolis'tir (soru 54, cevap A).",
+  "hafiza_ipucu": "Pamukkale = hem doğa (traverten) hem kültür (Hierapolis) — bu yüzden 'karma' miras.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "Ağu25-54 Pamukkale-karmaMiras",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "COG-138",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "unesco-dogal-varliklar",
+  "soru": "Pamukkale'nin UNESCO Dünya Miras Listesi'ne girmesinin temel gerekçesi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Travertenlerin teraslı görüntüsü ve bilimsel özelliği",
+   "B": "Karstik yapısı",
+   "C": "Termal su debisi",
+   "D": "Antik tiyatro kalıntıları",
+   "E": "Nüfus yoğunluğu"
+  },
+  "dogru": "A",
+  "cozum": "Ağustos 2025 sınavına göre Pamukkale, travertenlerin teraslı görüntüsü ve bilimsel özelliği nedeniyle UNESCO Dünya Miras Listesi'ne girmiştir (soru 80, cevap A).",
+  "hafiza_ipucu": "Teraslı görüntü + bilimsel değer = Pamukkale'nin UNESCO formülü.",
+  "kaynak": {
+   "dosya": "MKS Soruları AĞUSTOS 2025.txt",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "Ağu25-80 Pamukkale-UNESCOgerekçe",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-139",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "unesco-dogal-varliklar",
+  "soru": "EKO ders kitabına göre, Kapadokya ile birlikte Türkiye'deki dünya mirasları arasında sayılan ve Nevşehir'de bulunan millî park aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Göreme Millî Parkı",
+   "B": "Altındere Vadisi Millî Parkı",
+   "C": "Munzur Vadisi Millî Parkı",
+   "D": "Başkomutan Tarihî Millî Parkı",
+   "E": "Karagöl-Sahara Millî Parkı"
+  },
+  "dogru": "A",
+  "cozum": "EKO ders kitabı, Türkiye'deki dünya mirasları arasında \"Kapadokya, Göreme Millî Parkı\"nı birlikte sayar; Göreme Millî Parkı EKO Millî Parklar tablosunda Nevşehir iline bağlıdır (s.128-129).",
+  "hafiza_ipucu": "Kapadokya'nın resmî millî park kimliği = Göreme Millî Parkı, Nevşehir.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 128
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "COG-140",
+  "konu": "turizm-cografyasi",
+  "alt_konu": "unesco-dogal-varliklar",
+  "soru": "Aşağıdakilerden hangisi EKO ders kitabında Türkiye'nin UNESCO Dünya Mirası listesindeki varlıkları arasında SAYILMAMIŞTIR?",
+  "siklar": {
+   "A": "Kapadokya, Göreme Millî Parkı",
+   "B": "Pamukkale",
+   "C": "Nemrut Dağı",
+   "D": "Divriği Ulu Camii ve Darüşşifası",
+   "E": "Sultan Sazlığı Millî Parkı"
+  },
+  "dogru": "E",
+  "cozum": "EKO ders kitabına göre Türkiye'deki dünya mirasları arasında İstanbul'un tarihî yerleri, Kapadokya/Göreme Millî Parkı, Divriği Ulu Camii ve Darüşşifası, Hattuşaş, Pamukkale/Hierapolis, Ksantos-Letoon, Nemrut Dağı, Safranbolu, Truva ve Edirne Selimiye sayılır; Sultan Sazlığı Millî Parkı bu listede DEĞİL, RAMSAR/millî park listesindedir (s.128).",
+  "hafiza_ipucu": "Sultan Sazlığı kuşların cenneti ama UNESCO Dünya Mirası listesinde değil — iki ayrı liste karıştırılmasın.",
+  "kaynak": {
+   "dosya": "Ekoloji ve Turizm_Anadolu Üni.pdf",
+   "sayfa": 128
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ }
+]

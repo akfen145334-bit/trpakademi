@@ -1,0 +1,1432 @@
+[
+ {
+  "id": "OAT-001",
+  "konu": "orta-asya-turk",
+  "alt_konu": "asya-hun-teoman",
+  "soru": "Asya Hun Devleti'nin bilinen ilk hükümdarı (Tanhusu) aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Teoman",
+   "B": "Mete",
+   "C": "Ki-ok",
+   "D": "Ho-han-yeh",
+   "E": "Çi-çi"
+  },
+  "dogru": "A",
+  "cozum": "Asya Hun Devleti'nin bilinen ilk hükümdarı Teoman'dır (T'u-man); oğlu Mete MÖ 209'da tahta çıkmıştır (s.14).",
+  "hafiza_ipucu": "TeOMAn = OMA (ata/dede) sesi çağrıştırır: Mete'den ÖNCEki hükümdar.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 14
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-002",
+  "konu": "orta-asya-turk",
+  "alt_konu": "asya-hun-mete",
+  "soru": "Asya Hun tahtına MÖ 209 yılında, babası Teoman'ı ıslık çalan ok hilesiyle öldürterek çıkan ve onlu (ondalık) ordu sistemini kuran hükümdar kimdir?",
+  "siklar": {
+   "A": "Kün-çin",
+   "B": "Mete",
+   "C": "Ki-ok",
+   "D": "Bumin",
+   "E": "Kutluk"
+  },
+  "dogru": "B",
+  "cozum": "Mete Han, MÖ 209'da babası Teoman'ı ıslık çalan okla işaretlediği hedefi vurma disiplinini kullanarak öldürtmüş ve onlu ordu sistemini kurmuştur (s.14-15).",
+  "hafiza_ipucu": "METE = onluk sisteMİn TEmeli; MÖ 209'u 'iki-sıfır-dokuz' okunun ıslığıyla hatırla.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 15
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-003",
+  "konu": "orta-asya-turk",
+  "alt_konu": "asya-hun-mete-siniri",
+  "soru": "Mete Han döneminde Asya Hun Devleti'nin sınırları hakkında aşağıdakilerden hangisi söylenemez?",
+  "siklar": {
+   "A": "Doğuda Kore'ye kadar uzanmıştır",
+   "B": "Kuzeyde Baykal Gölü'ne ulaşmıştır",
+   "C": "Batıda Karadeniz'in kuzeyine kadar ulaşmıştır",
+   "D": "Batıda Aral Gölü'ne kadar genişlemiştir",
+   "E": "Güneyde Tibet Yaylası'na dayanmıştır"
+  },
+  "dogru": "C",
+  "cozum": "Mete Han döneminde sınırlar doğuda Kore'ye, kuzeyde Baykal Gölü'ne, batıda Aral Gölü'ne, güneyde Tibet Yaylası ve Karakurum'a kadar genişlemiştir; Karadeniz'in kuzeyine ulaşma bilgisi kaynakta yer almaz (s.16).",
+  "hafiza_ipucu": "Kore-Baykal-Aral-Tibet dörtgeni: METE'nin dört köşesi; Karadeniz bu dörtgenin DIŞINDA kalır.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 16
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-004",
+  "konu": "orta-asya-turk",
+  "alt_konu": "i-gokturk-bumin",
+  "soru": "552 yılında Juan-Juanları bozguna uğratıp İl Kağan unvanıyla, tarihte 'Türk' adını taşıyan ilk devleti kuran hükümdar kimdir?",
+  "siklar": {
+   "A": "Mukan Kağan",
+   "B": "Taspar Kağan",
+   "C": "Kutluk Kağan",
+   "D": "Bumin Kağan",
+   "E": "İstemi Yabgu"
+  },
+  "dogru": "D",
+  "cozum": "Bumin Kağan, 552'de Juan-Juanları mağlup ederek İl Kağan unvanını almış ve Ötüken merkezli I. Göktürk Devleti'ni kurmuştur (s.22).",
+  "hafiza_ipucu": "BOM! Bumin, 552'de 'Türk' tabelasını ilk asan kağan.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025, MKS Ağustos 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-005",
+  "konu": "orta-asya-turk",
+  "alt_konu": "i-gokturk-istemi",
+  "soru": "I. Göktürk Devleti kurulduğunda Bumin Kağan'ın kardeşi olarak devletin batı kanadından sorumlu tutulan ve 567'de Sasanilere karşı Bizans ile ittifak kuran devlet adamı kimdir?",
+  "siklar": {
+   "A": "Mukan Kağan",
+   "B": "Tardu Kağan",
+   "C": "Taspar Kağan",
+   "D": "Kapgan Kağan",
+   "E": "İstemi Yabgu"
+  },
+  "dogru": "E",
+  "cozum": "Merkezi Akdağ'da bulunan İstemi Yabgu, Bumin'in kardeşi ve devletin batı siyasetinden sorumlu kanat komutanıydı; 567'de Maniakh başkanlığındaki heyeti Bizans'a göndererek ittifak kurmuştur (s.22).",
+  "hafiza_ipucu": "İSTEMİ = batıya İSTİkamet alan yabgu.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-006",
+  "konu": "orta-asya-turk",
+  "alt_konu": "turk-adli-ilk-devlet",
+  "soru": "Aynı soydan gelen ve aynı dili konuşan toplulukların genel adı ve devlet ismi olarak 'Türk' kelimesini ilk defa resmî devlet adı hâline getiren siyasi teşekkül aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "I. Göktürk Kağanlığı",
+   "B": "Asya Hun Devleti",
+   "C": "Ak Hun Devleti",
+   "D": "Tabgaç Devleti",
+   "E": "Uygur Kağanlığı"
+  },
+  "dogru": "A",
+  "cozum": "Türk kelimesi ilk kez Mete'nin ailesinin adında geçse de, aynı soydan gelenlerin genel adı ve devlet ismi olarak ilk defa Göktürkler tarafından kullanılmıştır (s.13, s.22).",
+  "hafiza_ipucu": "BOM! Bumin ilk 'Türk' tabelasını astı; Mete sadece aile adında rastladı.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-007",
+  "konu": "orta-asya-turk",
+  "alt_konu": "mukan-kagan",
+  "soru": "Doğuda Kore'den batıda Karadeniz'e kadar geniş bir coğrafyada hâkimiyet kurarak I. Göktürk Devleti'ni emperyal bir güç hâline getiren, Akhunları mağlup eden 'Fatih' unvanlı kağan kimdir?",
+  "siklar": {
+   "A": "Kara Kağan",
+   "B": "Mukan Kağan",
+   "C": "Taspar Kağan",
+   "D": "İşbara Kağan",
+   "E": "Baga Kağan"
+  },
+  "dogru": "B",
+  "cozum": "Bumin'in torunu Mukan Kağan döneminde Töles boyları, Kırgızlar itaat altına alınmış, Akhunlar mağlup edilmiş; devlet Kore'den Karadeniz'e uzanan bir güç hâline gelmiştir (s.22).",
+  "hafiza_ipucu": "MUKAN = zirvenin MUhteşem KAğanı, 'Fatih' lakaplı.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 22
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-008",
+  "konu": "orta-asya-turk",
+  "alt_konu": "fetret-devri",
+  "soru": "Göktürk Devleti'nin Çin hâkimiyetine girdiği 630 yılından, Kutluk Kağan'ın devleti yeniden kurduğu 681/682 yılına kadar süren esaret dönemine ne ad verilir?",
+  "siklar": {
+   "A": "Kurultay Devri",
+   "B": "İlteriş Devri",
+   "C": "Fetret Devri",
+   "D": "Toy Devri",
+   "E": "Kağanlık Devri"
+  },
+  "dogru": "C",
+  "cozum": "630-681 yılları arasındaki Çin esareti dönemi 'Fetret Devri' olarak adlandırılır; bu dönemde Göktürkler devlet adamlarının kabiliyetsizliği, Çin entrikaları ve halkın itaatsizliği yüzünden bağımsızlığını kaybetmişti (s.26).",
+  "hafiza_ipucu": "FETRET = kesintili dönem; devletsizliğin 51 yılı.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-009",
+  "konu": "orta-asya-turk",
+  "alt_konu": "kursad-ayaklanmasi",
+  "soru": "Fetret Devri'nde, 639 yılında kırk arkadaşıyla Çin sarayını basıp veliahdı kurtararak Göktürkleri bağımsızlığa kavuşturmayı planlayan, ancak o gece çıkan büyük fırtına yüzünden başarısız olan Türk beyi kimdir?",
+  "siklar": {
+   "A": "Tonyukuk",
+   "B": "Apa Kağan",
+   "C": "İlteriş",
+   "D": "Kürşad",
+   "E": "Bögü Çor"
+  },
+  "dogru": "D",
+  "cozum": "Çince Chie-shih-shuai olarak geçen Kürşad, 639'da kırk arkadaşıyla Çin sarayını basıp veliaht Ho-lu-yu'yu kurtarma teşebbüsünde bulunmuş, çıkan fırtına yüzünden yakalanarak idam edilmiştir (s.26).",
+  "hafiza_ipucu": "KÜRŞAD = KIRk arkadaŞADamı; fırtına planı bozdu.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-010",
+  "konu": "orta-asya-turk",
+  "alt_konu": "ii-gokturk-kutluk",
+  "soru": "682 yılında elli bir yıllık esaretten sonra Göktürk Devleti'ni yeniden kuran ve 'devleti derleyen, toparlayan' anlamına gelen unvanı alan kağan kimdir?",
+  "siklar": {
+   "A": "Bumin Kağan",
+   "B": "Bilge Kağan",
+   "C": "Tonyukuk",
+   "D": "Kapgan Kağan",
+   "E": "Kutluk (İlteriş) Kağan"
+  },
+  "dogru": "E",
+  "cozum": "Kutluk, 682'de II. Göktürk (Kutluk) Devleti'ni kurmuş ve 'ili derleyen, toparlayan' anlamına gelen İlteriş unvanını almıştır (s.26).",
+  "hafiza_ipucu": "İLi TERİp topladı → İLTERİŞ; 682'de İKİnci devleti kurdu.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-011",
+  "konu": "orta-asya-turk",
+  "alt_konu": "bumin-kutluk-karsilastirma",
+  "soru": "Aşağıdaki eşleştirmelerden hangisi doğrudur?\nI. 552 yılında kurulan devletin kurucusu\nII. 682 yılında kurulan devletin kurucusu",
+  "siklar": {
+   "A": "I-Bumin, II-Kutluk (İlteriş)",
+   "B": "I-Kutluk (İlteriş), II-Bumin",
+   "C": "I-Bumin, II-Tonyukuk",
+   "D": "I-Mete, II-Bumin",
+   "E": "I-Kapgan, II-Bilge"
+  },
+  "dogru": "A",
+  "cozum": "552'de I. Göktürk Devleti'ni Bumin Kağan, 682'de II. Göktürk (Kutluk) Devleti'ni Kutluk (İlteriş) Kağan kurmuştur (s.22, s.26).",
+  "hafiza_ipucu": "BOM! Bumin (552, İLK) — İLi TERİp topladı Kutluk (682, YENİDEN).",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025, MKS Mart 2026",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-012",
+  "konu": "orta-asya-turk",
+  "alt_konu": "tonyukuk-vezir",
+  "soru": "İlteriş Kağan'ın Çin'den kaçarak isyana katılan ve kendisine 'Apa Tarkan' unvanıyla idari-askerî işleri planlama sorumluluğu verilen en büyük yardımcısı kimdir?",
+  "siklar": {
+   "A": "Kül Tigin",
+   "B": "Tonyukuk",
+   "C": "Bilge Kağan",
+   "D": "Kapgan Kağan",
+   "E": "Yollug Tigin"
+  },
+  "dogru": "B",
+  "cozum": "Tonyukuk, Kutluk'un istiklal mücadelesine katılan en büyük yardımcısı olmuş; İlteriş tarafından Apa Tarkan unvanıyla idari ve askerî işleri planlamakla görevlendirilmiştir (s.26).",
+  "hafiza_ipucu": "TONYUKUK = TON giyen bilge VEZİR, kağan değil danışman.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 26
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-013",
+  "konu": "orta-asya-turk",
+  "alt_konu": "kapgan-kagan",
+  "soru": "İlteriş Kağan öldüğünde oğulları Bilge ve Kül Tigin henüz küçük yaşta olduğu için Türk töresi gereği tahta çıkan ve 'Kurt Başlı Tuğ' altında bütün Türkleri toplamaya çalışan kardeşi kimdir?",
+  "siklar": {
+   "A": "Bögü Kağan",
+   "B": "Taspar Kağan",
+   "C": "Kapgan Kağan",
+   "D": "Mukan Kağan",
+   "E": "İnel Kağan"
+  },
+  "dogru": "C",
+  "cozum": "İlteriş öldüğünde Bilge sekiz, Kül Tigin yedi yaşındaydı; töre gereği kardeş Bögü Çor, Kapgan Kağan unvanıyla tahta geçmiştir (s.26-27).",
+  "hafiza_ipucu": "KAPGAN = araya Gİren kağan; Bilge büyüyene dek tahtı kAPatan amca.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 27
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OAT-014",
+  "konu": "orta-asya-turk",
+  "alt_konu": "bilge-kagan-kul-tigin",
+  "soru": "716 yılında ağabeyi Kül Tigin'in desteğiyle tahta çıkan, devletteki çözülmeyi durdurup birliği yeniden tesis eden ve Orhun Yazıtları'nın kendi adına dikilen anıtın sahibi olan kağan kimdir?",
+  "siklar": {
+   "A": "İnel Kağan",
+   "B": "Kapgan Kağan",
+   "C": "İşbara Kağan",
+   "D": "Bilge Kağan",
+   "E": "Tardu Kağan"
+  },
+  "dogru": "D",
+  "cozum": "716'da tahta çıkan Bilge Kağan, Kül Tigin ve Tonyukuk'un desteğiyle devletteki isyanları bastırıp birliği sağlamıştır; 735'te dikilen yazıt onun adınadır (s.27-28).",
+  "hafiza_ipucu": "BİLGE = akıllı KAğan; Kül Tigin kardeşiyle devleti toparladı.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 27
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-015",
+  "konu": "orta-asya-turk",
+  "alt_konu": "uygur-kurucu",
+  "soru": "745 yılında II. Göktürk Devleti'ni yıkarak Ötüken merkezli Uygur Kağanlığı'nı kuran hükümdar aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Bögü Kağan",
+   "B": "Bayan Çor",
+   "C": "Tay Bilge Tutuk",
+   "D": "Alp Kutlug Bilge Kağan",
+   "E": "Kutluk Bilge Kül"
+  },
+  "dogru": "E",
+  "cozum": "Kutluk Bilge Kül (Bilge Kül Kağan), Göktürk Kağanlığı'nı yıkarak 745'te Ötüken merkezli Uygur Kağanlığı'nı tesis etmiştir (s.27, s.37).",
+  "hafiza_ipucu": "KUTLUK Bilge KÜL = yeni bir Kutluk, ama bu kez UYGUR devletinin kurucusu (İlteriş'le karıştırma).",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 37
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-016",
+  "konu": "orta-asya-turk",
+  "alt_konu": "bogu-kagan-maniheizm",
+  "soru": "762-763 yıllarında Çin'i Tibetlilerden kurtardıktan sonra yanında dört Mani rahibiyle Ötüken'e dönerek Maniheizmi Uygurların resmî dini olarak kabul ettiren kağan kimdir?",
+  "siklar": {
+   "A": "Bögü Kağan",
+   "B": "Bayan Çor",
+   "C": "Kutluk Bilge Kül",
+   "D": "Alp Kutlug Bilge Kağan",
+   "E": "Tun Baga Tarkan"
+  },
+  "dogru": "A",
+  "cozum": "Bögü Kağan, 762'de Çin'i Tibetlilerin elinden kurtardıktan sonra dört Mani rahibiyle Ötüken'e dönmüş ve Maniciliği resmî din olarak kabul etmiştir (s.38).",
+  "hafiza_ipucu": "BÖGÜ = BÜYÜcü gibi ışık dinine (Mani) geçen kağan.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 38
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-017",
+  "konu": "orta-asya-turk",
+  "alt_konu": "uygur-yerlesik-hayat",
+  "soru": "Uygurlarla ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Yerleşik hayata geçen ilk Türk topluluklarından biridir",
+   "B": "Bozkır göçebe yaşam tarzını hiç terk etmemişlerdir",
+   "C": "Sert ağaçtan hareketli harflerle kitap basımını ilk gerçekleştirenlerdendir",
+   "D": "Kendi imal ettikleri kâğıda yazı yazmışlardır",
+   "E": "Maitrisimit ve Altun Yaruk önemli dinî tercüme eserlerindendir"
+  },
+  "dogru": "B",
+  "cozum": "Uygurlar Maniheizm ve Budizm etkisiyle yerleşik hayata geçip şehirler kurmuş, matbaa ve kâğıt kullanımında öncülük etmişlerdir; 'bozkırlı' göçebe yaşamı bırakmışlardır (s.31, s.33-34).",
+  "hafiza_ipucu": "UYGUR = şehre YERleşen, kâğıda-matbaaya geçen ilk Türk topluluğu.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 33
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-018",
+  "konu": "orta-asya-turk",
+  "alt_konu": "karluk-karahanli",
+  "soru": "Ötüken'in Kırgızlar tarafından ele geçirilmesinin ardından kendisini Türk kağanlarının meşru halefi sayan ve Balasagun merkezli olarak İslamiyet'i kabul edip Karahanlı Devleti'ni kuran Türk boyu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kırgızlar",
+   "B": "Türgişler",
+   "C": "Karluklar",
+   "D": "Oğuzlar",
+   "E": "Basmıllar"
+  },
+  "dogru": "C",
+  "cozum": "Balasagun'u merkez yapan Karluk yabguları 'Kara Han' unvanını alarak Karahanlı Devleti'ni kurmuş; İslamiyet'i kabul eden ilk Türk kütlesi olmuşlardır (s.48).",
+  "hafiza_ipucu": "KARluk → KARahanlı; kar-kar ses benzerliğiyle bağla.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 48
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-019",
+  "konu": "orta-asya-turk",
+  "alt_konu": "satuk-bugra-han",
+  "soru": "904-911 yılları arasında İslamiyet'i kabul ederek bu dine giren ilk Türk hükümdarı olan Karahanlı hükümdarı kimdir?",
+  "siklar": {
+   "A": "Bilge Kül Kadır Kağan",
+   "B": "Yelu Dashi",
+   "C": "II. Arslan Han",
+   "D": "Satuk Buğra Han",
+   "E": "Yabgu Han"
+  },
+  "dogru": "D",
+  "cozum": "Karluklar, İslamiyet'i ilk kabul eden Satuk Buğra Han (904-911) önderliğinde Karahanlı Devleti'ni Türk-İslam tarihinin ilk devletlerinden biri hâline getirmiştir (s.48).",
+  "hafiza_ipucu": "SATUK = SAdece TUrkler arasında ilk Kabul eden.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 48
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-020",
+  "konu": "orta-asya-turk",
+  "alt_konu": "karahanli-anadolu-disi",
+  "soru": "Aşağıdaki Türk-İslam devletlerinden hangisi Anadolu topraklarında kurulmamıştır?",
+  "siklar": {
+   "A": "Anadolu Selçuklu Devleti",
+   "B": "Danişmendliler",
+   "C": "Osmanlı Devleti",
+   "D": "Saltuklu Beyliği",
+   "E": "Karahanlı Devleti"
+  },
+  "dogru": "E",
+  "cozum": "Karahanlı Devleti Balasagun ve Kaşgar merkezli olarak Orta Asya'da kurulmuştur; Anadolu'da kurulan bir devlet değildir (s.48).",
+  "hafiza_ipucu": "KARAHANlı yolda KALDI — Anadolu'ya hiç gelmedi.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 48
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-021",
+  "konu": "orta-asya-turk",
+  "alt_konu": "hazar-musevilik",
+  "soru": "Hz. Musa şeriatını benimseyerek Musevi dinine giren, günümüzdeki torunları Karay Türkleri olarak bilinen Türk devleti aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hazarlar",
+   "B": "Avarlar",
+   "C": "Sabarlar",
+   "D": "Bulgarlar",
+   "E": "Peçenekler"
+  },
+  "dogru": "A",
+  "cozum": "Hazarlar, Musevi dinine (Karai mezhebine) giren tek Türk devletidir; günümüzde Karay Türkleri kendilerini bu geleneğe bağlı hakiki Museviler olarak tanımlar (s.68).",
+  "hafiza_ipucu": "Hazar Denizi kıyısında Davud yıldızlı otağ — Musevî tek Türk devleti.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 68
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-022",
+  "konu": "orta-asya-turk",
+  "alt_konu": "hazar-cifte-yonetim",
+  "soru": "Hazar Devleti'nin idari yapısında VIII. yüzyılın ikinci yarısından itibaren görülen ve devletin fiilî yönetimini elinde bulunduran, Hakan tarafından atanıp azledilebilen makam aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Yabgu",
+   "B": "Hakan Beg",
+   "C": "Tudun",
+   "D": "Aygucı",
+   "E": "İlteber"
+  },
+  "dogru": "B",
+  "cozum": "Hazarlarda VIII. yüzyıl ortalarından itibaren 'çifte yönetim' görülür; Hakan sembolik konumdayken fiilî iktidar Hakan tarafından seçilen ve her an değiştirilebilen Hakan Beg'in elindeydi (s.67).",
+  "hafiza_ipucu": "Hakan tahtta oturur, Hakan BEG işi yürütür — Hazar'a özgü çifte başlılık.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 67
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OAT-023",
+  "konu": "orta-asya-turk",
+  "alt_konu": "avar-istanbul-kusatma",
+  "soru": "558-805 yılları arasında Orta Avrupa ve Balkanlara hâkim olan, 626'da Sasanilerle ortaklaşa gerçekleştirdiği kuşatmada İstanbul surlarını aşamayan Türk devleti aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Hazarlar",
+   "B": "Sabarlar",
+   "C": "Avarlar",
+   "D": "Tuna Bulgarları",
+   "E": "Büyük Bulgar Devleti"
+  },
+  "dogru": "C",
+  "cozum": "Uar-Hun kökenli Avarlar, 626'da Sasanilerle birlikte İstanbul'u kuşatmış ancak donanmasızlık yüzünden surları aşamamış; 796'da Frank Kralı Şarlman'ın oğlu Pepin tarafından devletlerine son verilmiştir (s.61-62).",
+  "hafiza_ipucu": "AVAR: 200 yıl Avrupa'da at koşturan, İstanbul'u iki kez kuşatan ama alamayan devlet.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 62
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-024",
+  "konu": "orta-asya-turk",
+  "alt_konu": "turk-yurdu-olmayan",
+  "soru": "Aşağıdakilerden hangisi tarih boyunca Türk yurdu olarak kabul edilen sahalar arasında yer almaz?",
+  "siklar": {
+   "A": "Ötüken ve Altaylar",
+   "B": "Hazar Denizi çevresi",
+   "C": "Moğolistan",
+   "D": "Batı Avrupa",
+   "E": "Karadeniz'in kuzeyi"
+  },
+  "dogru": "D",
+  "cozum": "Türk devletleri Ötüken-Altaylar, Hazar çevresi, Moğolistan ve Karadeniz'in kuzeyinde kurulmuştur; Batı Avrupa bir Türk yurdu değil, akınların ulaştığı bir sahadır.",
+  "hafiza_ipucu": "Türk atları Batı Avrupa'ya AKIN yaptı, orada YURT tutmadı.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-025",
+  "konu": "orta-asya-turk",
+  "alt_konu": "orta-asya-devletleri-listesi",
+  "soru": "Orta Asya Türk Tarihi kitabının önsözünde 'Asya Hunlarından 20. yüzyıl başlarına kadar Orta Asya'da kurulan büyük ve önemli devletler' arasında aşağıdakilerden hangisi SAYILMAMIŞTIR?\nI. Göktürkler\nII. Karahanlılar\nIII. Gazneliler\nIV. Bizans\nV. Harezmşahlar",
+  "siklar": {
+   "A": "I ve II",
+   "B": "III ve V",
+   "C": "II, III ve V",
+   "D": "I, II, III ve V",
+   "E": "Yalnız IV"
+  },
+  "dogru": "E",
+  "cozum": "Önsözde Hunlar, Tabgaçlar, Göktürkler, Uygurlar, Karahanlılar, Gazneliler, Harezmşahlar, Moğol, Timurlular gibi Orta Asya'da kurulan devletler sayılır; Bizans bir Orta Asya Türk devleti değildir (s.9).",
+  "hafiza_ipucu": "Bizans listenin dışında kalan tek 'yabancı' isim.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 9
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-026",
+  "konu": "orta-asya-turk",
+  "alt_konu": "orhun-yazitlari-yer",
+  "soru": "Orhun Yazıtları, günümüzde hangi ülke sınırları içinde, hangi ırmak kıyısında bulunmaktadır?",
+  "siklar": {
+   "A": "Moğolistan, Orhun Irmağı",
+   "B": "Kazakistan, Talas Irmağı",
+   "C": "Kırgızistan, Çu Irmağı",
+   "D": "Rusya, Yenisey Irmağı",
+   "E": "Çin, Sarı Irmak"
+  },
+  "dogru": "A",
+  "cozum": "Orhun Yazıtları, bugünkü Moğolistan sınırları içinde Orhun Irmağı vadisinde bulunmaktadır.",
+  "hafiza_ipucu": "ORHUN Irmağı → ORHUN Yazıtları; adres aynı isimde saklı.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-027",
+  "konu": "orta-asya-turk",
+  "alt_konu": "orhun-uclu-kronoloji",
+  "soru": "Orhun Yazıtları'nı oluşturan üç anıtın dikiliş sırası aşağıdakilerin hangisinde doğru verilmiştir?",
+  "siklar": {
+   "A": "Kül Tigin - Tonyukuk - Bilge Kağan",
+   "B": "Tonyukuk - Kül Tigin - Bilge Kağan",
+   "C": "Bilge Kağan - Kül Tigin - Tonyukuk",
+   "D": "Tonyukuk - Bilge Kağan - Kül Tigin",
+   "E": "Kül Tigin - Bilge Kağan - Tonyukuk"
+  },
+  "dogru": "B",
+  "cozum": "Kronolojik sıralama Tonyukuk (725), Kül Tigin (732) ve Bilge Kağan (735) yazıtları şeklindedir.",
+  "hafiza_ipucu": "Önce VEZİR yazdırdı (Tonyukuk), sonra KARDEŞ (Kül Tigin), sonra KAĞAN (Bilge) — V-K-K sırası.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-028",
+  "konu": "orta-asya-turk",
+  "alt_konu": "orhun-yazitlari-kronoloji-esleme",
+  "soru": "Aşağıda numaralandırılmış Orhun Yazıtları'nı dikildikleri tarihe göre eskiden yeniye doğru sıralayınız.\nI. Bilge Kağan Yazıtı\nII. Tonyukuk Yazıtı\nIII. Kül Tigin Yazıtı",
+  "siklar": {
+   "A": "I-II-III",
+   "B": "III-II-I",
+   "C": "II-III-I",
+   "D": "II-I-III",
+   "E": "I-III-II"
+  },
+  "dogru": "C",
+  "cozum": "Sıralama Tonyukuk (725, II) - Kül Tigin (732, III) - Bilge Kağan (735, I) şeklindedir; en eski anıt Tonyukuk'a, en yeni anıt Bilge Kağan'a aittir.",
+  "hafiza_ipucu": "V-K-K: Vezir-Kardeş-Kağan sırasını Roma numarasına uygula.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OAT-029",
+  "konu": "orta-asya-turk",
+  "alt_konu": "orhun-turkcenin-ilk-belgesi",
+  "soru": "Türk adının ve Türk milletinin isminin geçtiği, Türk devlet adamlarının milletiyle hesaplaştığı ilk Türkçe yazılı metin olarak kabul edilen eserler aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Dede Korkut Hikâyeleri",
+   "B": "Kutadgu Bilig",
+   "C": "Divanü Lügati't-Türk",
+   "D": "Orhun Yazıtları",
+   "E": "Türeyiş Destanı"
+  },
+  "dogru": "D",
+  "cozum": "Muharrem Ergin'in tespitlerine göre Orhun Yazıtları, Türk adının geçtiği ilk Türkçe metin ve Türk edebiyatının ilk şaheseridir.",
+  "hafiza_ipucu": "Yazıtlar = Türkçenin doğum belgesi.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 2
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-030",
+  "konu": "orta-asya-turk",
+  "alt_konu": "yollug-tigin",
+  "soru": "Kül Tigin ve Bilge Kağan yazıtlarını yazdığı, kendisinin de yazıtta belirttiği kabul edilen Bilge Kağan'ın yeğeni kimdir?",
+  "siklar": {
+   "A": "Tonyukuk",
+   "B": "Kapgan Kağan",
+   "C": "Necip Asım",
+   "D": "Muharrem Ergin",
+   "E": "Yollug Tigin"
+  },
+  "dogru": "E",
+  "cozum": "Kül Tigin ve Bilge Kağan yazıtlarının Bilge Kağan'ın yeğeni Yollug Tigin tarafından yazıldığı kabul edilmektedir.",
+  "hafiza_ipucu": "YOLLUG Tigin, yazıtın YOLunu (metnini) yazan kâtip tigin.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 2
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-031",
+  "konu": "orta-asya-turk",
+  "alt_konu": "gokturk-alfabesi",
+  "soru": "Eski Türk yazıtlarında kullanılan ve bugün 38 harften oluştuğu kabul edilen alfabe aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Göktürk (Kök Türk) alfabesi",
+   "B": "Uygur alfabesi",
+   "C": "Arap alfabesi",
+   "D": "Soğd alfabesi",
+   "E": "Brahmi alfabesi"
+  },
+  "dogru": "A",
+  "cozum": "Yazıtlarda kullanılan alfabe Göktürk (Kök Türk) alfabesi olarak adlandırılır ve 38 harften oluşur; 'runik' adlandırması yanlıştır çünkü yazı bugün tamamen çözülmüştür.",
+  "hafiza_ipucu": "38 harf = Göktürk'ün 'Türkçe imzası'.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-032",
+  "konu": "orta-asya-turk",
+  "alt_konu": "thomsen-cozum",
+  "soru": "Göktürk yazısını çözerek Orhun Yazıtları'nın Türkçe olduğunu ve Türklere ait olduğunu kanıtlayan Danimarkalı dilbilimci kimdir?",
+  "siklar": {
+   "A": "W. Radloff",
+   "B": "Vilhelm Thomsen",
+   "C": "J. Strahlenberg",
+   "D": "Necip Asım",
+   "E": "Muharrem Ergin"
+  },
+  "dogru": "B",
+  "cozum": "Göktürk yazısı, Danimarka Kraliyet Akademisi'ndeki oturumda Vilhelm Thomsen tarafından 1893 yılında çözülmüştür.",
+  "hafiza_ipucu": "THOMSEN = TOM'un şifreyi çözdüğü 1893.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-033",
+  "konu": "orta-asya-turk",
+  "alt_konu": "orhun-alinti",
+  "soru": "'Üstte gök çökmedikçe, altta yer delinmedikçe, senin ilini ve töreni kim bozabilir?' cümlesi aşağıdakilerden hangisine aittir?",
+  "siklar": {
+   "A": "Dede Korkut Hikâyeleri",
+   "B": "Divanü Lügati't-Türk",
+   "C": "Orhun Yazıtları",
+   "D": "Kutadgu Bilig",
+   "E": "Oğuz Kağan Destanı"
+  },
+  "dogru": "C",
+  "cozum": "Bu ünlü ifade Orhun Yazıtları'nda geçer ve Türk devlet-millet bağının ebediliğine yapılan vurguyu yansıtır.",
+  "hafiza_ipucu": "'Gök çökmedikçe' sözü, gökle ilişkilendirilen Orhun'un imzası.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-034",
+  "konu": "orta-asya-turk",
+  "alt_konu": "bengu-tas",
+  "soru": "Eski Türklerin bugünkü 'yazıt' kelimesi yerine kullandıkları ve 'ebedi taş' anlamına gelen terim aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Balbal",
+   "B": "Kurgan",
+   "C": "Stel",
+   "D": "Bengü taş",
+   "E": "Toy taşı"
+  },
+  "dogru": "D",
+  "cozum": "Köl Tigin Yazıtında 'her ne sözüm var ise bengü taşa vurdum' ifadesiyle görüldüğü gibi eski Türkler yazıt yerine 'bengü taş' (ebedi taş) terimini kullanmışlardır.",
+  "hafiza_ipucu": "BENGÜ = ebedî; sözler taşa 'bengü'leşsin diye kazınmış.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-035",
+  "konu": "orta-asya-turk",
+  "alt_konu": "kul-tigin-insanoglu-yaratilisi",
+  "soru": "'Yukarda mavi gök, aşağıda yağız yer yaratıldıkta; ikisinin arasında insanoğlu yaratılmış' ifadesiyle başlayıp Bumin Hakan ile İstemi Hakan'ın Türk milletinin ülkesini ve töresini idare ettiğini anlatan yazıt hangisidir?",
+  "siklar": {
+   "A": "Tonyukuk Yazıtı",
+   "B": "Şine Usu Yazıtı",
+   "C": "Karabalgasun Yazıtı",
+   "D": "Bugut Yazıtı",
+   "E": "Kül Tigin Yazıtı"
+  },
+  "dogru": "E",
+  "cozum": "Bu kozmogonik giriş cümlesi ve Bumin-İstemi anlatımı Kül Tigin Yazıtı'nda yer alır.",
+  "hafiza_ipucu": "Gök-yer arasında insan; Kül Tigin'in yazıtı atalarını (Bumin-İstemi) anar.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 119
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OAT-036",
+  "konu": "orta-asya-turk",
+  "alt_konu": "uygur-donemi-yazitlari",
+  "soru": "Uygur Kağanlığı dönemine ait olup Orhun Yazıtları'ndan farklı olarak Göktürk döneminde değil Uygur döneminde dikilen yazıtlar aşağıdakilerden hangisinde birlikte verilmiştir?",
+  "siklar": {
+   "A": "Şine Usu ve Karabalgasun Yazıtları",
+   "B": "Tonyukuk ve Kül Tigin Yazıtları",
+   "C": "Bilge Kağan ve Tonyukuk Yazıtları",
+   "D": "Çoyr ve Bugut Yazıtları",
+   "E": "Elegeş ve Barlık Yazıtları"
+  },
+  "dogru": "A",
+  "cozum": "Şine Usu (Eletmiş Bilge Kağan/Moyun Çor adına, 759-760) ve Karabalgasun Yazıtları Uygur Kağanlığı dönemine aittir; Orhun'daki üç ana yazıt ise II. Göktürk dönemine aittir.",
+  "hafiza_ipucu": "Şine Usu-Karabalgasun = Uygur'un yazıtı; Tonyukuk-Kül Tigin-Bilge = Göktürk'ün yazıtı.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 3
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OAT-037",
+  "konu": "orta-asya-turk",
+  "alt_konu": "orhun-yazitlari-ergin-tespitleri",
+  "soru": "Muharrem Ergin'e göre Orhun Yazıtları'nın önemi ile ilgili aşağıdakilerden hangisi söylenemez?",
+  "siklar": {
+   "A": "Türk adının geçtiği ilk Türkçe metindir",
+   "B": "Kâşgarlı Mahmud tarafından kaleme alınmıştır",
+   "C": "Türk devlet adamlarının milletle hesaplaşmasını içerir",
+   "D": "Türk edebiyatının ilk şaheseridir",
+   "E": "Türk askerlik sanatının esaslarını yansıtır"
+  },
+  "dogru": "B",
+  "cozum": "Orhun Yazıtları, Bilge Kağan döneminde Yollug Tigin tarafından yazılmıştır; Kâşgarlı Mahmud'un Divanü Lügati't-Türk ile bir ilgisi yoktur.",
+  "hafiza_ipucu": "Kâşgarlı Mahmud sözlük yazdı, yazıtları değil.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK YAZITLARI Notlar.pdf",
+   "sayfa": 2
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-038",
+  "konu": "orta-asya-turk",
+  "alt_konu": "gok-tanri-inanci",
+  "soru": "İslamiyet öncesi eski Türklerin, hâkimiyetin kaynağını gökte olan tek bir yüce varlığa bağladığı inanç sistemine ne ad verilir?",
+  "siklar": {
+   "A": "Totemizm",
+   "B": "Animizm",
+   "C": "Gök Tanrı (Kök Tengri) inancı",
+   "D": "Fetişizm",
+   "E": "Politeizm"
+  },
+  "dogru": "C",
+  "cozum": "Eski Türk dinini karşılamak için kullanılan Gök Tanrı veya Kök Tengri inancı, hâkimiyetin kaynağının gökte olduğu, yaşamın Tanrı tarafından dengelendiği tek tanrılı bir anlayışa dayanır.",
+  "hafiza_ipucu": "GÖK Tanrı = tepede tek bir güç; çoklu tanrı değil.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK İNANCI.pdf",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-039",
+  "konu": "orta-asya-turk",
+  "alt_konu": "kam-terimi",
+  "soru": "Eski Türklerde ruhlarla iletişim kurabildiğine inanılan, kâhinlik, hekimlik ve büyücülük vasıflarını bir arada taşıyan din adamına verilen Türkçe ad aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Şaman",
+   "B": "Baksı",
+   "C": "Iduk",
+   "D": "Kam",
+   "E": "Toygun"
+  },
+  "dogru": "D",
+  "cozum": "Türkler, Türkçe olmayan 'şaman' kelimesi yerine kendi kültürlerinde 'kâhin, büyücü, tabip, bilgiç' anlamına gelen Türkçe 'kam' sözcüğünü kullanmışlardır.",
+  "hafiza_ipucu": "KAM = Kâhin, Arif, Muallim (üç vasfı bir arada taşıyan kişi).",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK İNANCI.pdf",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-040",
+  "konu": "orta-asya-turk",
+  "alt_konu": "saman-kelimesi-kokeni",
+  "soru": "'Şaman' kelimesinin kökeni ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Öz Türkçe bir kelimedir",
+   "B": "Kaşgarlı Mahmud tarafından türetilmiştir",
+   "C": "Göktürk yazıtlarında sıkça geçer",
+   "D": "Moğolca 'kağan' anlamına gelir",
+   "E": "Sanskritçe 'rahip' anlamına gelen bir kelimedir"
+  },
+  "dogru": "E",
+  "cozum": "'Şaman' kelimesi Soğdlular başta olmak üzere Türklere komşu halklar tarafından kam sözcüğüne karşılık kullanılan, Türkçe olmayıp Sanskritçe 'rahip' anlamına gelen bir kelimedir; Tunguzca üzerinden Avrupa'ya yayılmıştır.",
+  "hafiza_ipucu": "ŞAMAN yabancı söz; TÜRKÇEsi KAM'dır.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK İNANCI.pdf",
+   "sayfa": 1
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-041",
+  "konu": "orta-asya-turk",
+  "alt_konu": "ulgen-tanimi",
+  "soru": "Altay Türklerinin mitolojisinde, Kayra Han'ın oğlu olarak kabul edilen, göğün on altıncı katında altın tahtta oturan, iyilik-merhamet ve bolluk-bereketin sembolü gökyüzü hâkimi hangisidir?",
+  "siklar": {
+   "A": "Ülgen",
+   "B": "Erlik",
+   "C": "Umay",
+   "D": "Yayık",
+   "E": "Kayra Han"
+  },
+  "dogru": "A",
+  "cozum": "Ülgen, Altay Türklerinin mitlerinde Gök Tanrı'nın oğlu, gökyüzünün hâkimi ve iyilik-merhamet tanrısı olarak kabul edilir; Altındağ'daki altın tahtta oturduğuna inanılır (s.112-113).",
+  "hafiza_ipucu": "ÜLGEN yukarıda (gökte ÜLKEsi) — iyiliğin tanrısı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 112
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-042",
+  "konu": "orta-asya-turk",
+  "alt_konu": "erlik-ulgen-ayirimi",
+  "soru": "Türk mitolojisinde Ülgen ile Erlik'in karşıtlığı hakkında aşağıdakilerden hangisi yanlıştır?",
+  "siklar": {
+   "A": "Ülgen gökte, Erlik yeraltında yaşar",
+   "B": "İkisi de Kayra Han ile doğrudan bir bağ taşımaz",
+   "C": "Ülgen iyilik ve merhameti, Erlik kötülüğü temsil eder",
+   "D": "Erlik başlangıçta Tanrı'ya arkadaşlık eden bir varlıkken kötülüğün sembolü olmuştur",
+   "E": "Erlik'in mekânı, insanların göz yaşlarından oluşan nehirlerin bulunduğu yeraltıdır"
+  },
+  "dogru": "B",
+  "cozum": "Bazı mitlerde Ülgen, Mergen ve Kızagan ile birlikte Kayra Han'ın oğlu sayılır; Erlik ise başlangıçta Tanrı'ya eşlik eden, sonradan kötülüğün sembolü hâline gelen bir varlıktır (s.112-113, 115).",
+  "hafiza_ipucu": "ÜLGEN yukarıda ÜLKEsinde, ERLİK 'yERLİK'te (yerin altında).",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 115
+  },
+  "akraba_cikmis_soru": "MKS Mart 2026",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OAT-043",
+  "konu": "orta-asya-turk",
+  "alt_konu": "tamu-ucmag",
+  "soru": "Eski Türk inancında 'cehennem' ve 'cennet' kavramlarına karşılık gelen terimler aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+  "siklar": {
+   "A": "Uçmağ-cehennem, Tamu-cennet",
+   "B": "Kut-cehennem, Törü-cennet",
+   "C": "Tamu-cehennem, Uçmağ-cennet",
+   "D": "Erlik-cennet, Ülgen-cehennem",
+   "E": "İduk-cehennem, Balbal-cennet"
+  },
+  "dogru": "C",
+  "cozum": "Eski Türk inancında Tamu cehennem, Uçmağ ise cennet anlamına gelir; kişi öldüğünde 'uçmağa vardı' denir.",
+  "hafiza_ipucu": "TAMUda yanarsın; UÇmağa UÇarsın.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 123
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-044",
+  "konu": "orta-asya-turk",
+  "alt_konu": "kut-kavrami",
+  "soru": "Göktürklerde siyasi iktidarın ilahi kaynağını ifade eden, Tanrı tarafından verildiğine ve kağan görevini kötüye kullanırsa geri alınacağına inanılan kavram aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Töre",
+   "B": "Toy",
+   "C": "Yarlık",
+   "D": "Kut",
+   "E": "Iduk"
+  },
+  "dogru": "D",
+  "cozum": "Göktürklerde siyasi iktidar ilahi menşeli sayılır ve 'Kut' tabiriyle ifade edilirdi; kut Tanrı'dan gelir ve kağan görevini gereği gibi yapmazsa geri alınırdı (s.28).",
+  "hafiza_ipucu": "KUT = Tanrı'nın verdiği, kötü yönetimde geri aldığı 'yönetme lisansı'.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-045",
+  "konu": "orta-asya-turk",
+  "alt_konu": "tore-kavrami",
+  "soru": "Eski Türklerde hukuki meselelerin çözümünde başvurulan, Türk geleneklerinden kaynaklanan yazısız hukuk sistemine ne ad verilir?",
+  "siklar": {
+   "A": "Kut",
+   "B": "Kurultay",
+   "C": "Yarlık",
+   "D": "Balbal",
+   "E": "Töre"
+  },
+  "dogru": "E",
+  "cozum": "Göktürkler hukuki meseleleri, kaynağını Türk geleneklerinden alan yazısız hukuk kuralı olan 'töre'ye göre çözerlerdi (s.28).",
+  "hafiza_ipucu": "TÖRE = yazısız kanun; devletin temel direği.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-046",
+  "konu": "orta-asya-turk",
+  "alt_konu": "kurultay-toy",
+  "soru": "Eski Türk devletlerinde siyasi, askeri, iktisadi ve kültürel meselelerin görüşülüp karara bağlandığı, üyelerine 'toygun' denilen devlet meclisine ne ad verilir?",
+  "siklar": {
+   "A": "Toy (Kurultay)",
+   "B": "Aygucı",
+   "C": "Buyruk",
+   "D": "Urug",
+   "E": "Bodun"
+  },
+  "dogru": "A",
+  "cozum": "Türklerde devlet meselelerinin görüşüldüğü meclise 'toy' denirdi; meclis üyelerine 'toygun', hükümdar bulunmadığında meclise başkanlık edene 'aygucı/üge' denirdi (s.28).",
+  "hafiza_ipucu": "TOY = devletin 'meclis şöleni', karar burada alınır.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-047",
+  "konu": "orta-asya-turk",
+  "alt_konu": "unvan-eslestirme",
+  "soru": "Aşağıdaki eski Türk unvanları ile karşılıklarının eşleştirilmesinde hangisi yanlıştır?",
+  "siklar": {
+   "A": "Yabgu - devletin batı kanadını yöneten yüksek rütbeli görevli",
+   "B": "Aygucı - kağanın atları ile ilgilenen görevli",
+   "C": "Tigin - hükümdar çocuğu, şehzade",
+   "D": "Katun (Hatun) - kağanın eşi",
+   "E": "Toygun - devlet meclisi üyesi"
+  },
+  "dogru": "B",
+  "cozum": "Aygucı, kağan meclise başkanlık edemediğinde onun yerine geçen bir nevi başbakan konumundaki görevlidir; atlarla ilgilenmekle bir ilgisi yoktur (s.28).",
+  "hafiza_ipucu": "AYGUCI = devletin 'başbakanı', seyisi değil.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 28
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-048",
+  "konu": "orta-asya-turk",
+  "alt_konu": "balbal-tanimi",
+  "soru": "Önemli bir şahsiyet veya savaşçının mezarı çevresine, hayattayken öldürdüğü düşman sayısınca dikildiğine inanılan taş heykellere ne ad verilir?",
+  "siklar": {
+   "A": "Kurgan",
+   "B": "Stel",
+   "C": "Balbal",
+   "D": "Bengü taş",
+   "E": "Kayberen"
+  },
+  "dogru": "C",
+  "cozum": "Balbal, ölen kişinin hayattayken öldürdüğü düşman sayısınca mezarına dikildiğine inanılan taş heykellerdir; sanat ve estetik anlayışını da yansıtır.",
+  "hafiza_ipucu": "Mezarın etrafında dizilmiş taş askerler — her taş, öldürülen BİR düşman.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK İNANCI.pdf",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-049",
+  "konu": "orta-asya-turk",
+  "alt_konu": "balbal-baz-kagan-ornegi",
+  "soru": "682 yılında İlteriş Kağan tarafından mağlup edilen ve öldürülen Oğuz Başbuğu Baz Kağan'ın balbalı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": {
+   "A": "Balbal, Bumin Kağan'ın mezarına dikilmiştir",
+   "B": "Balbal, Uygur başkenti Karabalgasun'a dikilmiştir",
+   "C": "Balbal, Bögü Kağan'ın anıtına dikilmiştir",
+   "D": "Balbal, İlteriş Kağan'ın kendi mezarına dikilmiştir",
+   "E": "Baz Kağan balbalıyla ilgili yazıtlarda bilgi yoktur"
+  },
+  "dogru": "D",
+  "cozum": "Savaşta ölen Oğuz Başbuğu Baz Kağan'ın balbalı, düşmanı yenen İlteriş Kağan'ın kendi mezarına dikilmiştir (s.48).",
+  "hafiza_ipucu": "Yenen kağanın mezarına, yenilenin balbalı dikilir.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 48
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OAT-050",
+  "konu": "orta-asya-turk",
+  "alt_konu": "kurgan-tanimi",
+  "soru": "Ölen kişinin atı, silahları, kap-kacağı gibi eşyalarıyla birlikte gömüldüğü, öbür dünyada bu eşyalara ihtiyaç duyacağı inancına dayanan eski Türk mezar tipine ne ad verilir?",
+  "siklar": {
+   "A": "Balbal",
+   "B": "Stel",
+   "C": "Tümülüs",
+   "D": "Otağ",
+   "E": "Kurgan"
+  },
+  "dogru": "E",
+  "cozum": "Kurgan, ölen kişinin öbür dünyada ihtiyaç duyacağına inanılan eşyalarla birlikte gömüldüğü eski Türk mezar tipidir (s.4-5).",
+  "hafiza_ipucu": "KURGAN = bozkırın mezar tepesi; eşyalarla birlikte gömülür.",
+  "kaynak": {
+   "dosya": "ESKİ TÜRK İNANCI.pdf",
+   "sayfa": 4
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-051",
+  "konu": "orta-asya-turk",
+  "alt_konu": "pazirik-kurgani",
+  "soru": "Altay Dağları'ndaki bir kurgan kazısında ortaya çıkarılan ve dünyanın bilinen en eski düğümlü halısı kabul edilen buluntu aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Pazırık halısı",
+   "B": "Salbık halısı",
+   "C": "Karabalgasun halısı",
+   "D": "Andronovo halısı",
+   "E": "Ötüken halısı"
+  },
+  "dogru": "A",
+  "cozum": "Altay Dağları'ndaki Pazırık kurganında bulunan halı, dünyanın bilinen en eski düğümlü (havlı) halısı olarak kabul edilir.",
+  "hafiza_ipucu": "PAZIRIK = bozkırın 'ilk halı fabrikası'.",
+  "kaynak": {
+   "dosya": "08-orta-asya-turk.md",
+   "sayfa": 0
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-052",
+  "konu": "orta-asya-turk",
+  "alt_konu": "umay-ana",
+  "soru": "Türk mitolojisinde çocuk sahibi olmak isteyenlere yardım eden, doğum ve annelik ile özdeşleştirilen, Orhun Yazıtları'nda Kül Tigin'in yardımıyla dünyaya geldiği belirtilen koruyucu ruh kimdir?",
+  "siklar": {
+   "A": "Kayberen",
+   "B": "Ayıısıt (Umay Ana)",
+   "C": "Suyla",
+   "D": "Albastı",
+   "E": "Yayık"
+  },
+  "dogru": "B",
+  "cozum": "Umay Ana (Yakutlarda Ayıısıt), aile, evlilik ve neslin devamının koruyucusu doğum tanrıçasıdır; Orhun Yazıtları'nda Gök Tanrı ile birlikte anılır ve Kül Tigin'in onun yardımıyla dünyaya geldiği belirtilir (s.113).",
+  "hafiza_ipucu": "UMAY = doğuma UMut veren ana ruh.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 113
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-053",
+  "konu": "orta-asya-turk",
+  "alt_konu": "oguz-kagan-destani",
+  "soru": "Asya Hunları ile ilişkilendirilen, kahramanın gökten inen ışıktan ve ağaç kovuğundan çıkan iki hanımından altı oğlunun (Gün, Ay, Yıldız, Gök, Dağ, Deniz Han) doğduğu anlatılan destan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Ergenekon Destanı",
+   "B": "Türeyiş Destanı",
+   "C": "Oğuz Kağan Destanı",
+   "D": "Manas Destanı",
+   "E": "Şu Destanı"
+  },
+  "dogru": "C",
+  "cozum": "Oğuz Kağan Destanı, Asya Hunlarıyla ilişkilendirilir; Oğuz Kağan'ın ışıktan gelen ve ağaç kovuğundan çıkan hanımlarından altı oğlunun doğuşu anlatılır (s.120).",
+  "hafiza_ipucu": "OĞUZ Kağan = HUN'un atası; ışıktan ve ağaçtan türeyiş onda birleşir.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-054",
+  "konu": "orta-asya-turk",
+  "alt_konu": "bozkurt-destani",
+  "soru": "Aşina soyunun bir savaşta neredeyse tamamen yok olduktan sonra dişi bir kurt tarafından büyütülen bir çocuktan türediğini anlatan, Göktürklere ait destan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Türeyiş Destanı",
+   "B": "Ergenekon Destanı",
+   "C": "Göç Destanı",
+   "D": "Bozkurt Destanı",
+   "E": "Alp Er Tunga Destanı"
+  },
+  "dogru": "D",
+  "cozum": "Bozkurt Destanı, Göktürklerin atası kabul edilen ve dişi bir kurt tarafından büyütülen çocuktan türeyen Aşina soyunun hikâyesini anlatır (s.121).",
+  "hafiza_ipucu": "BOZKURT = Göktürk'ün doğum efsanesi; Aşina soyu kurttan türer.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 121
+  },
+  "akraba_cikmis_soru": "MKS Ağustos 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-055",
+  "konu": "orta-asya-turk",
+  "alt_konu": "ergenekon-destani",
+  "soru": "Bir savaşta neredeyse tamamen yok olan Göktürklerin, demir dağları eriterek geniş bir vadiden çıkışını ve yeniden çoğalışını anlatan destan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Türeyiş Destanı",
+   "B": "Manas Destanı",
+   "C": "Şu Destanı",
+   "D": "Oğuz Kağan Destanı",
+   "E": "Ergenekon Destanı"
+  },
+  "dogru": "E",
+  "cozum": "Ergenekon Destanı, Göktürklerin dağlarla çevrili bir vadide çoğaldıktan sonra demiri eritip dışarı çıkarak yeniden devlet kurmasını anlatan bir Göktürk destanıdır.",
+  "hafiza_ipucu": "ERGENEKON = demir dağı eriten, Göktürk'ün yeniden doğuşu.",
+  "kaynak": {
+   "dosya": "Gövde Oluşturma_Kültür Bölgeleri_Bozkır_Devlet.pdf",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-056",
+  "konu": "orta-asya-turk",
+  "alt_konu": "tureyis-destani",
+  "soru": "Uygurların eski yurdundaki Kara-Korum dağından akan Selenga ve Tola ırmakları arasındaki bir kayın ağacına inen kutsal ışıkla ağacın gebe kalıp dokuz ay sonra Uygurların atası beş çocuğu doğurduğunu anlatan destan hangi Türk topluluğuna aittir?",
+  "siklar": {
+   "A": "Uygurlar",
+   "B": "Göktürkler",
+   "C": "Sakalar",
+   "D": "Kırgızlar",
+   "E": "Hazarlar"
+  },
+  "dogru": "A",
+  "cozum": "Türeyiş Destanı, Uygur Türklerinin ağaçtan türeyişini anlatan bir destandır; Kara-Korum dağındaki kayın ağacına inen ışık sonucu Uygurların ataları doğar (s.120).",
+  "hafiza_ipucu": "TÜREYİŞ = Uygur'un ağaçtan doğuşu.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 120
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-057",
+  "konu": "orta-asya-turk",
+  "alt_konu": "goc-destani",
+  "soru": "Uygurlara ait olup Türeyiş Destanı ile birlikte anılan, Uygurların yer değiştirmelerini konu alan destan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Şu Destanı",
+   "B": "Göç Destanı",
+   "C": "Manas Destanı",
+   "D": "Ergenekon Destanı",
+   "E": "Alp Er Tunga Destanı"
+  },
+  "dogru": "B",
+  "cozum": "Uygurlara ait Türeyiş ve Göç destanları birlikte anılır; Göç Destanı Uygurların yurt değiştirme sürecini konu edinir.",
+  "hafiza_ipucu": "TÜREYİŞ doğuşu, GÖÇ yer değiştirmeyi anlatır — ikisi de Uygur'a ait.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 13
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-058",
+  "konu": "orta-asya-turk",
+  "alt_konu": "alp-er-tunga-su",
+  "soru": "Sakalara (İskitlere) ait olan ve kahramanı Alp Er Tunga olan destan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Manas Destanı",
+   "B": "Türeyiş Destanı",
+   "C": "Alp Er Tunga Destanı",
+   "D": "Bozkurt Destanı",
+   "E": "Oğuz Kağan Destanı"
+  },
+  "dogru": "C",
+  "cozum": "Alp Er Tunga Destanı, Saka (İskit) Türklerine ait olup destanın kahramanı Alp Er Tunga'dır; aynı boya ait diğer destan Şu Destanı'dır.",
+  "hafiza_ipucu": "ALP ER TUNGA = Saka'nın alp kahramanı.",
+  "kaynak": {
+   "dosya": "Gövde Oluşturma_Kültür Bölgeleri_Bozkır_Devlet.pdf",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-059",
+  "konu": "orta-asya-turk",
+  "alt_konu": "manas-destani",
+  "soru": "Kırgız Türklerine ait olan ve dünyanın bilinen en uzun destanı kabul edilen destan aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Şu Destanı",
+   "B": "Köroğlu Destanı",
+   "C": "Oğuz Kağan Destanı",
+   "D": "Manas Destanı",
+   "E": "Dede Korkut Hikâyeleri"
+  },
+  "dogru": "D",
+  "cozum": "Manas Destanı, Kırgız Türklerine ait olup dünyanın bilinen en uzun destanıdır.",
+  "hafiza_ipucu": "MANAS = en UZUN destan; Kırgız'ın devasa mirası.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 117
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-060",
+  "konu": "orta-asya-turk",
+  "alt_konu": "kurt-motifi",
+  "soru": "Türk destanlarında (Ergenekon, Türeyiş, Göç, Oğuz Kağan) ortak olarak öne çıkan ve rehberlik-kurtarıcılık rolü üstlenen hayvan motifi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Doğan",
+   "B": "Kartal",
+   "C": "At",
+   "D": "Geyik",
+   "E": "Kurt"
+  },
+  "dogru": "E",
+  "cozum": "Bozkurt/Kök Böri, Türklerin Ergenekon, Türeyiş, Göç ve Oğuz Kağan gibi millî destanlarında rehber, yol gösterici, kurtarıcı ve anne rollerinde ortaya çıkan ortak hayvan motifidir (s.121).",
+  "hafiza_ipucu": "KURT = her destanın ortak kahraman-hayvanı.",
+  "kaynak": {
+   "dosya": "Mitoloji ve Din_Anadolu Üni.pdf",
+   "sayfa": 121
+  },
+  "akraba_cikmis_soru": "MKS Şubat 2025",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-061",
+  "konu": "orta-asya-turk",
+  "alt_konu": "destan-boy-eslestirme",
+  "soru": "Aşağıdaki destan-topluluk eşleştirmelerinden hangisi YANLIŞTIR?\nI. Oğuz Kağan - Asya Hunları\nII. Bozkurt - Göktürkler\nIII. Türeyiş - Uygurlar\nIV. Manas - Sakalar\nV. Alp Er Tunga - Sakalar",
+  "siklar": {
+   "A": "Yalnız IV",
+   "B": "Yalnız V",
+   "C": "I ve III",
+   "D": "II ve IV",
+   "E": "III ve V"
+  },
+  "dogru": "A",
+  "cozum": "Manas Destanı Sakalara değil Kırgız Türklerine aittir; diğer eşleştirmeler (Oğuz Kağan-Hun, Bozkurt-Göktürk, Türeyiş-Uygur, Alp Er Tunga-Saka) doğrudur.",
+  "hafiza_ipucu": "MANAS'ı Saka'ya değil, KIRGIZ'a bağla.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 117
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ },
+ {
+  "id": "OAT-062",
+  "konu": "orta-asya-turk",
+  "alt_konu": "destanlarin-onemi",
+  "soru": "Eski Türk tarihinin kaynakları arasında sayılan destanlar bakımından aşağıdakilerden hangisi doğru değildir?",
+  "siklar": {
+   "A": "Yazılı kaynakların azlığını telafi eden sözlü kültür ürünleridir",
+   "B": "Her destanda kurt motifinin bulunması zorunludur",
+   "C": "Toplumun köken, çoğalma ve kurtuluş algısını yansıtırlar",
+   "D": "Işıktan, ağaçtan ve kurttan türeyiş anlatıları destanlarda görülür",
+   "E": "Çin kaynakları, kitabeler ve destanlar birlikte Türk tarihinin kaynaklarını oluşturur"
+  },
+  "dogru": "B",
+  "cozum": "Kurt motifi pek çok destanda öne çıksa da (Bozkurt, Ergenekon vb.), Alp Er Tunga veya Manas gibi bazı destanlarda ana motif kurt değildir; bu nedenle 'her destanda zorunlu' ifadesi yanlıştır (s.6).",
+  "hafiza_ipucu": "Kurt sık görülür ama HER destanda ZORUNLU değildir.",
+  "kaynak": {
+   "dosya": "Gövde Oluşturma_Kültür Bölgeleri_Bozkır_Devlet.pdf",
+   "sayfa": 6
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "zor"
+ },
+ {
+  "id": "OAT-063",
+  "konu": "orta-asya-turk",
+  "alt_konu": "ipek-yolu-hakimiyeti",
+  "soru": "Mete Han'ın Yüeçileri mağlup ederek kontrolünü ele geçirdiği ve sonraki yüzyıllarda Göktürklerin Akhunlarla mücadelesinde de belirleyici olan, Çin'i Orta Asya ve Batı ile bağlayan ana ticaret güzergâhı aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Kral Yolu",
+   "B": "Baharat Yolu",
+   "C": "İpek Yolu",
+   "D": "Kürk Yolu",
+   "E": "Amber Yolu"
+  },
+  "dogru": "C",
+  "cozum": "Mete Han, Yüeçileri mağlup ederek İpek Yolu üzerinde kontrol sağlamış; İpek Yolu hâkimiyeti Orta Asya'daki Türk devletleri arası mücadelelerin başlıca nedenlerinden biri olmuştur (s.15).",
+  "hafiza_ipucu": "İPEK Yolu = bozkırın altın damarı; savaşların asıl sebebi.",
+  "kaynak": {
+   "dosya": "Orta Asya Türk Tarihi_Anadolu Üni.pdf",
+   "sayfa": 15
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-064",
+  "konu": "orta-asya-turk",
+  "alt_konu": "yaylak-kislak-konar-gocer",
+  "soru": "Bozkır kültüründe hayvan sürülerinin düzenli otlatılabilmesi amacıyla yazın ve kışın farklı coğrafi mekânlara gidilmesine dayanan yaşam biçimine ne ad verilir?",
+  "siklar": {
+   "A": "Yerleşik hayat",
+   "B": "Şehir kültürü",
+   "C": "Tarım ekonomisi",
+   "D": "Konar-göçer (yaylak-kışlak) yaşam",
+   "E": "İskân siyaseti"
+  },
+  "dogru": "D",
+  "cozum": "Sıcak mevsimlerin yaylakta, soğuk mevsimlerin kışlakta geçirilmesine dayanan konar-göçer yaşam tarzı, bozkır kültürünün temelini oluşturur.",
+  "hafiza_ipucu": "YAYLAK yazın, KIŞLAK kışın — bozkırın mevsim ritmi.",
+  "kaynak": {
+   "dosya": "Gövde Oluşturma_Kültür Bölgeleri_Bozkır_Devlet.pdf",
+   "sayfa": 7
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "OAT-065",
+  "konu": "orta-asya-turk",
+  "alt_konu": "andronovo-kulturu",
+  "soru": "Türk bozkır kültürünün temel özelliklerinin (kurgan mezarlar, at kurbanı, keçe çadır, göçer yaşam) son biçimini aldığı, MÖ 2. binden MÖ VIII. yüzyıla kadar süren erken kültür dönemi aşağıdakilerden hangisidir?",
+  "siklar": {
+   "A": "Tagar Kültürü",
+   "B": "Karasuk Kültürü",
+   "C": "Taştık Kültürü",
+   "D": "Afanasyevo Kültürü",
+   "E": "Andronovo Kültürü"
+  },
+  "dogru": "E",
+  "cozum": "Andronovo Kültürü döneminde Türk bozkır kültürünün kurgan mezarlar, at kültü ve konar-göçer yaşam gibi karakteristik özellikleri son biçimini almıştır (s.4-5).",
+  "hafiza_ipucu": "ANDRONOVO = bozkır kültürünün 'temel taşı' dönemi.",
+  "kaynak": {
+   "dosya": "Gövde Oluşturma_Kültür Bölgeleri_Bozkır_Devlet.pdf",
+   "sayfa": 5
+  },
+  "akraba_cikmis_soru": "",
+  "zorluk": "orta"
+ }
+]

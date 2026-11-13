@@ -1,0 +1,371 @@
+{
+  "ders_kodu": "ANM",
+  "ders_adi": "Anadolu Medeniyetleri",
+  "toplam_soru": 655,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "Prehistorya (Paleolitik, Mezolitik, Neolitik)",
+      "soru_sayisi": 120,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Anadolu Paleolitik Çağ araştırmalarında Türkiye'de Neandertal insanına ait ilk ve tek fosil kalıntılarının (diş ve kafatası parçaları) ele geçtiği merkez aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Yarımburgaz Mağarası",
+            "B": "Karain Mağarası",
+            "C": "Öküzini Mağarası",
+            "D": "Beldibi Mağarası",
+            "E": "Dursunlu"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Antalya Karain Mağarası, Anadolu'da Neandertal insanına ait fosillerin bulunduğu tek merkezdir.",
+          "hafiza_capasi": "Karain = Neandertal fosili tek kalesi"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "İstanbul Boğazı yakınlarında yer alan, alt Paleolitik döneme tarihlenen ve Türkiye'nin bilinen en eski insan yerleşim izlerini barındıran mağara yerleşimi aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "Karain",
+            "B": "Yarımburgaz",
+            "C": "Göbeklitepe",
+            "D": "Çayönü",
+            "E": "Aşıklı Höyük"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Yarımburgaz Mağarası (İstanbul), Anadolu ve Avrupa geçişinde alt Paleolitik döneme ait en eski insan izlerini barındırır.",
+          "hafiza_capasi": "Yarımburgaz = En eski insan izi"
+        },
+        {
+          "soru_no": 3,
+          "soru_metni": "Şanlıurfa'da yer alan, T biçimli anıtsal dikilitaşları, hayvan kabartmaları ve astronomik dizilimleriyle Çanak Çömleksiz Neolitik Çağ'ın (PPNA) kült merkezi olarak kabul edilen UNESCO Dünya Mirası alanı hangisidir?",
+          "secenekler": {
+            "A": "Çatalhöyük",
+            "B": "Göbeklitepe",
+            "C": "Hacılar",
+            "D": "Nevali Çori",
+            "E": "Hallan Çemi"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Klaus Schmidt başkanlığında kazılan Göbeklitepe, dünyanın bilinen en eski anıtsal tapınak kompleksidir.",
+          "hafiza_capasi": "Göbeklitepe = T sütunlu anıtsal tapınak"
+        },
+        {
+          "soru_no": 4,
+          "soru_metni": "Diyarbakır Ergani yakınlarında yer alan, yuvarlak kulübelerden ızgara planlı konutlara geçişi gösteren, ilk evcilleştirilmiş buğday (emmer) ve metal (doğal bakır) kullanımının saptandığı Çanak Çömleksiz Neolitik yerleşim hangisidir?",
+          "secenekler": {
+            "A": "Çayönü",
+            "B": "Aşıklı Höyük",
+            "C": "Boncuklu Höyük",
+            "D": "Hacılar",
+            "E": "Canhasan"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Çayönü Tepesi, mimari evrim (yuvarlak, ızgara, hücre plan), tarım başlangıcı ve malakit/bakır işçiliğiyle Neolitik dönemin öncüsüdür.",
+          "hafiza_capasi": "Çayönü = Izgara plan + ilk bakır + tarım"
+        },
+        {
+          "soru_no": 5,
+          "soru_metni": "Aksaray sınırlarında yer alan, Kapadokya obsidyen ticaretinin merkezinde bulunan ve Anadolu'da ilk beyin ameliyatı (trepanasyon) izinin saptandığı Çanak Çömleksiz Neolitik köy yerleşimi hangisidir?",
+          "secenekler": {
+            "A": "Çatalhöyük",
+            "B": "Aşıklı Höyük",
+            "C": "Hallan Çemi",
+            "D": "Körtik Tepe",
+            "E": "Mezraa Teleilat"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Aşıklı Höyük'te genç bir kadının kafatasında saptanan trepanasyon deliği tıp tarihinin en erken ameliyat kanıtıdır.",
+          "hafiza_capasi": "Aşıklı Höyük = İlk beyin ameliyatı (trepanasyon)"
+        },
+        {
+          "soru_no": 6,
+          "soru_metni": "Konya Çumra'da yer alan, sokaksız bitişik nizam kerpiç evleri, damdan girişleri, ana tanrıça heykelcikleri ve duvara monte boğa başlarıyla (bukranya) Çanak Çömlekli Neolitik Çağ'ın ilk proto-kenti kabul edilen merkez hangisidir?",
+          "secenekler": {
+            "A": "Çatalhöyük",
+            "B": "Hacılar",
+            "C": "Beycesultan",
+            "D": "Alişar",
+            "E": "Canhasan"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "James Mellaart ve Ian Hodder kazılarıyla ünlenen Çatalhöyük, sokaksız mimarisi ve zengin inanç tasvirleriyle Neolitik kentin şaheseridir.",
+          "hafiza_capasi": "Çatalhöyük = Sokaksız damdan giriş + bukranya"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Kalkolitik ve İlk Tunç Çağı",
+      "soru_sayisi": 105,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Burdur sınırlarında yer alan, Erken Kalkolitik dönemin boyalı, geometrik motifli seramikleriyle ve etrafı kalın surlarla çevrili savunma mimarisiyle öne çıkan yerleşim hangisidir?",
+          "secenekler": {
+            "A": "Kuruçay",
+            "B": "Hacılar",
+            "C": "Bademağacı",
+            "D": "Karbiyeler",
+            "E": "Tilkitepe"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Hacılar Höyüğü, kırmızı ve kahverengi boyalı enfes kapları ve kalkolitik surlarıyla Pisidya bölgesinin kilit merkezidir.",
+          "hafiza_capasi": "Hacılar = Boyalı kalkolitik seramik"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Malatya sınırlarında yer alan, dünyanın en eski kerpiç saray kompleksine, kılıçlarına ve bürokratik mühür baskılarına (bulla) ev sahipliği yapan UNESCO Mirası yerleşim hangisidir?",
+          "secenekler": {
+            "A": "Arslantepe",
+            "B": "Tepecik",
+            "C": "Tülintepe",
+            "D": "Korucutepe",
+            "E": "İmamoğlu"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Arslantepe (Marcella Frangipane kazıları), devlet sisteminin, mühür baskılı bürokrasinin ve ilk arsenikli bakır kılıçların doğduğu yerdir.",
+          "hafiza_capasi": "Arslantepe = İlk kerpiç saray + ilk kılıçlar"
+        },
+        {
+          "soru_no": 3,
+          "soru_metni": "Atatürk'ün direktifleriyle kazılan ve Hatti krallarına ait altın taçlar, gümüş kaplar ile bronz güneş kurslarının bulunduğu Erken Tunç Çağı kral mezarları hangi höyüktedir?",
+          "secenekler": {
+            "A": "Horoztepe",
+            "B": "Alacahöyük",
+            "C": "Mahmatlar",
+            "D": "Kültepe",
+            "E": "Eskiyapar"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Alacahöyük kral mezarları Hatti sanatının zirvesidir.",
+          "hafiza_capasi": "Alacahöyük = Hatti güneş kursları + kral mezarları"
+        },
+        {
+          "soru_no": 4,
+          "soru_metni": "Çanakkale Boğazı girişinde yer alan Troya antik kentinde, Schliemann'ın Priamos Hazinesi adını verdiği altın takıların ele geçtiği ve megaron mimarisinin anıtsallaştığı tabaka hangisidir?",
+          "secenekler": {
+            "A": "Troya I",
+            "B": "Troya II",
+            "C": "Troya VI",
+            "D": "Troya VIIa",
+            "E": "Troya IX"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "İlk Tunç Çağı'nda Troya II, megaron yapıları, surları ve meşhur altın hazineleriyle öne çıkar.",
+          "hafiza_capasi": "Troya II = Altın hazine + Erken Tunç megaron"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "Asur Ticaret Kolonileri Çağı (Orta Tunç Çağı)",
+      "soru_sayisi": 110,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Anadolu'ya MÖ 1950 civarında çivi yazısını getirerek tarih çağlarını başlatan Asur Ticaret Kolonileri Çağı'nda baş ticaret merkezi (Karumların merkezi) olan antik yerleşim hangisidir?",
+          "secenekler": {
+            "A": "Alişar (Ankuwa)",
+            "B": "Boğazköy (Hattuş)",
+            "C": "Kültepe (Kaniş/Neşa)",
+            "D": "Acemhöyük (Puruşhattum)",
+            "E": "Karahöyük"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Kayseri Kültepe Kaniş Karumu, Anadolu'daki tüm Asur pazar ağının merkezidir.",
+          "hafiza_capasi": "Kültepe Kaniş = Karumların başkenti + ilk yazı"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Asur Ticaret Kolonileri sisteminde ana ticaret merkezlerine 'Karum' denirken, Karumlara bağlı daha küçük ölçekli pazar ve konaklama istasyonlarına ne ad verilirdi?",
+          "secenekler": {
+            "A": "Wabartum",
+            "B": "Pankuş",
+            "C": "Labarna",
+            "D": "Bulla",
+            "E": "Riton"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Büyük merkezler Karum, küçük tali ticaret istasyonları ise Wabartum olarak adlandırılır.",
+          "hafiza_capasi": "Wabartum = Küçük pazar istasyonu"
+        },
+        {
+          "soru_no": 3,
+          "soru_metni": "Asurlu tüccarların Anadolu'ya getirip yerli halka sattıkları temel ticaret malları aşağıdakilerden hangisinde doğru verilmiştir?",
+          "secenekler": {
+            "A": "Altın ve Gümüş",
+            "B": "Kalay ve Lüks Kumaş",
+            "C": "Demir ve Bakır",
+            "D": "Obsidyen ve Tuz",
+            "E": "Zeytinyağı ve Şarap"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Asurlular tunç alaşımı için hayati olan kalay ve lüks dokumaları getirmiş; karşılığında Anadolu'dan altın ve gümüş almıştır.",
+          "hafiza_capasi": "Asur getirir = Kalay ve kumaş; götürür = Altın ve gümüş"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Hitit İmparatorluğu ve Geç Hitit Krallıkları",
+      "soru_sayisi": 115,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Hitit Devleti'nde kralın yetkilerini denetleyen, gerektiğinde kral ve kraliçeyi yargılama hakkına sahip olan soylular meclisine ne ad verilirdi?",
+          "secenekler": {
+            "A": "Tawananna",
+            "B": "Pankuş",
+            "C": "Tulhum",
+            "D": "Labarna",
+            "E": "Şuppiluliuma"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Pankuş, kralın yetkilerini sınırlayan tarihteki ilk meşruti soylular meclisidir.",
+          "hafiza_capasi": "Pankuş = Hitit meclisi"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Hitit kraliçelerine verilen, dini törenleri yönetme, antlaşmalara kralın yanında kendi mührünü basma yetkisine sahip unvan hangisidir?",
+          "secenekler": {
+            "A": "Puduhepa",
+            "B": "Tawananna",
+            "C": "Kubaba",
+            "D": "Hepat",
+            "E": "Arinna"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Tawananna ana kraliçe unvanıdır; devlet işlerinde kral kadar yetkilidir.",
+          "hafiza_capasi": "Tawananna = Yetkili Hitit kraliçesi"
+        },
+        {
+          "soru_no": 3,
+          "soru_metni": "MÖ 1274 Kadeş Savaşı sonrasında Hitit Kralı III. Hattuşili ile Mısır Firavunu II. Ramses arasında MÖ 1258'de imzalanan tarihin ilk yazılı barış antlaşması hangisidir?",
+          "secenekler": {
+            "A": "Kadeş Antlaşması",
+            "B": "Mitanni Paktı",
+            "C": "Alaksandu Antlaşması",
+            "D": "Halep Fermanı",
+            "E": "Amarna Sözleşmesi"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Kadeş Antlaşması tarihin bilinen ilk uluslararası eşitlikçi yazılı barış antlaşmasıdır.",
+          "hafiza_capasi": "Kadeş = İlk yazılı barış antlaşması"
+        },
+        {
+          "soru_no": 4,
+          "soru_metni": "Osmaniye Kadirli'de yer alan, Prof. Dr. Halet Çambel tarafından kazılan ve Fenike-Hitit çift dilli (bilingual) yazıtları sayesinde Hitit hiyerogliflerinin çözülmesini sağlayan Geç Hitit kalesi hangisidir?",
+          "secenekler": {
+            "A": "Karkamış",
+            "B": "Karatepe-Aslantaş",
+            "C": "Zincirli (Sam'al)",
+            "D": "Arslantepe",
+            "E": "Gölpınar"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Karatepe-Aslantaş, Kral Asativatas'ın yazıtlarıyla hiyeroglifin şifresini çözen merkezdir.",
+          "hafiza_capasi": "Karatepe-Aslantaş = Çift dilli yazıt + Halet Çambel"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 5,
+      "alt_baslik_adi": "Demir Çağı Anadolu Krallıkları (Frig, Lidya, Urartu)",
+      "soru_sayisi": 105,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Başkenti Ankara Polatlı yakınlarındaki Gordion olan, çengelli iğne (fibula), tapates kilimleri ve tümülüs mezarlarıyla ünlü Demir Çağı krallığı hangisidir?",
+          "secenekler": {
+            "A": "Lidya",
+            "B": "Frigya",
+            "C": "Urartu",
+            "D": "Karya",
+            "E": "Likya"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Frigler Gordion merkezli olup maden (fibula) ve dokumacılıkta (tapates) çığır açmıştır.",
+          "hafiza_capasi": "Frigya = Gordion + Fibula + Tapates"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Başkenti Sardes olan, tarihte ilk madeni sikkeyi (elektron alaşımı) basan ve Kral Yolu'nu canlandıran Batı Anadolu krallığı hangisidir?",
+          "secenekler": {
+            "A": "Lidya",
+            "B": "İyonya",
+            "C": "Frigya",
+            "D": "Aiolis",
+            "E": "Mysia"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Lidyalılar MÖ 7. yüzyılda Kral Gyges / Alyattes döneminde ilk sikkeyi basmıştır.",
+          "hafiza_capasi": "Lidya = Sardes + İlk para"
+        },
+        {
+          "soru_no": 3,
+          "soru_metni": "Başkenti Tuşpa (Van Kalesi) olan, maden işlemeciliği, kaya mimarisi ve günümüzde hala işleyen Menua (Şamran) sulama kanalıyla ünlü Doğu Anadolu devleti hangisidir?",
+          "secenekler": {
+            "A": "Urartu",
+            "B": "Hitit",
+            "C": "Mitanni",
+            "D": "Hurri",
+            "E": "Kimmer"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Urartular Van merkezli baraj, kanal ve kale mimarlarıdır; baştanrıları Haldi'dir.",
+          "hafiza_capasi": "Urartu = Tuşpa + Şamran Kanalı + Haldi"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 6,
+      "alt_baslik_adi": "Helenistik ve Roma Döneminde Anadolu",
+      "soru_sayisi": 100,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Bergama Krallığı (Attalos Hanedanı) döneminde icat edilen ve keçi/koyun derisinden üretilerek İskenderiye papirüsüne alternatif olan dayanıklı yazı malzemesi hangisidir?",
+          "secenekler": {
+            "A": "Parşömen (Pergamene)",
+            "B": "Papirüs",
+            "C": "Kil Tablet",
+            "D": "Vellum",
+            "E": "Ostraka"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Bergama'da kütüphane rekabeti sırasında deriden parşömen (Charta Pergamena) icat edilmiştir.",
+          "hafiza_capasi": "Bergama = Parşömen icadı"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Tarihte bilinen ilk demokratik federasyon meclisine sahip olan, Patara'daki meclis binasıyla ve kaya mezarlarıyla ünlü Akdeniz uygarlığı hangisidir?",
+          "secenekler": {
+            "A": "Karya",
+            "B": "Likya Birliği",
+            "C": "Pamfilya",
+            "D": "Kilikya",
+            "E": "Pisidya"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Likya Birliği (başkent Patara), Montesquieu'nun Yasaların Ruhu eserinde övdüğü ilk demokratik federasyondur.",
+          "hafiza_capasi": "Likya Birliği = Patara Meclisi + İlk federasyon"
+        },
+        {
+          "soru_no": 3,
+          "soru_metni": "Roma İmparatoru Augustus'un ölümünden önce icraatlarını anlattığı 'Res Gestae Divi Augusti' yazıtının tapınak duvarında eksiksiz korunduğu Monumentum Ancyranum hangi ilimizdedir?",
+          "secenekler": {
+            "A": "İzmir",
+            "B": "Antalya",
+            "C": "Ankara (Ulus)",
+            "D": "Konya",
+            "E": "Aydın"
+          },
+          "dogru_cevap": "C",
+          "cozum_ve_gerekce": "Ankara Ulus'taki Augustus Tapınağı duvarındaki çift dilli kitabe Kraliçe Kitabe olarak anılır.",
+          "hafiza_capasi": "Monumentum Ancyranum = Ankara Augustus Tapınağı"
+        }
+      ]
+    }
+  ]
+}

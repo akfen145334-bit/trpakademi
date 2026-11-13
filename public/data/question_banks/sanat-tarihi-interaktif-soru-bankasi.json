@@ -1,0 +1,217 @@
+{
+  "ders_kodu": "SNT",
+  "ders_adi": "Sanat Tarihi",
+  "toplam_soru": 520,
+  "alt_basliklar": [
+    {
+      "alt_baslik_no": 1,
+      "alt_baslik_adi": "Antik Yunan ve Roma Mimarisi",
+      "soru_sayisi": 90,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Antik mimaride sütunun doğrudan stylobat üzerine oturduğu, kaidesiz, başlığı echinus ve abacus adı verilen yastık formundaki sade mimari düzen hangisidir?",
+          "secenekler": {
+            "A": "İon",
+            "B": "Dor",
+            "C": "Korint",
+            "D": "Kompozit",
+            "E": "Tuscan"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Dor düzeni kaidesiz sütun gövdesi, sade başlığı ve triglif-metop dizilimiyle en maskülen antik nizamdır.",
+          "hafiza_capasi": "Dor = Kaidesiz sade sütun"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Antik tiyatrolarda orkestra çemberinin hemen arkasında yükselen, oyuncuların kostüm değiştirdiği ve iki veya üç katlı anıtsal mimari cepheye sahip sahne binasına ne ad verilir?",
+          "secenekler": {
+            "A": "Cavea",
+            "B": "Skene (Scaenae Frons)",
+            "C": "Parodos",
+            "D": "Diazoma",
+            "E": "Vomitorium"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Skene sahne binasıdır; ön cephesindeki sütunlu ve heykelli mimari duvara Scaenae Frons denir.",
+          "hafiza_capasi": "Skene = Sahne binası cephesi"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 2,
+      "alt_baslik_adi": "Erken Hristiyan ve Bizans Sanatı",
+      "soru_sayisi": 85,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "532-537 yılları arasında İmparator Iustinianus tarafından Miletoslu İsidoros ve Tralleisli Anthemios'a inşa ettirilen, bazilikal plan ile merkezi kubbeyi pandantiflerle birleştiren anıtsal Bizans başyapıtı hangisidir?",
+          "secenekler": {
+            "A": "Küçük Ayasofya (Sergios ve Bakhos)",
+            "B": "Ayasofya (Hagia Sophia)",
+            "C": "Aya İrini",
+            "D": "Kariye (Chora)",
+            "E": "Zeyrek Camii (Pantokrator)"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Ayasofya pandantifli devasa kubbesiyle mimarlık tarihinin dönüm noktasıdır.",
+          "hafiza_capasi": "Ayasofya = Iustinianus + İsidoros & Anthemios + Pandantif"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Bizans kilise mimarisinde kare bir alt yapının üzerine dairesel bir kubbenin oturtulabilmesi için köşe boşluklarını dolduran üçgen küresel geçiş elemanına ne ad verilir?",
+          "secenekler": {
+            "A": "Tromp",
+            "B": "Pandantif",
+            "C": "Tonoz",
+            "D": "Narteks",
+            "E": "Apsis"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Pandantif (küresel bingi) küresel kubbenin ağırlığını dört büyük payeye aktaran küresel üçgendir.",
+          "hafiza_capasi": "Pandantif = Küresel kubbe köşe üçgeni"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 3,
+      "alt_baslik_adi": "İslam Sanatı ve Ekolleri (Emevi, Abbasi, Endülüs)",
+      "soru_sayisi": 85,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Kudüs'te Emevi Halifesi Abdülmelik bin Mervan tarafından 691 yılında inşa ettirilen, Hacer-i Muallak taşını örten sekizgen planlı ve ahşap kubbeli en eski anıtsal İslam yapısı hangisidir?",
+          "secenekler": {
+            "A": "Mescid-i Aksa",
+            "B": "Kubbetü's-Sahra",
+            "C": "Şam Emeviye Camii",
+            "D": "Kurtuba Camii",
+            "E": "Kayrevan Camii"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kubbetü's-Sahra mimarlık tarihinin günümüze ulaşan en eski anıtsal İslam eseridir.",
+          "hafiza_capasi": "Kubbetü's-Sahra = Emevi sekizgen kubbe şaheseri"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "İspanya'da Endülüs Emevileri döneminde inşa edilen, yüzlerce mermer sütunu ve kırmızı-beyaz çift kemer dizileriyle (at nalı kemer) orman gibi uzanan cami hangisidir?",
+          "secenekler": {
+            "A": "Elhamra Sarayı",
+            "B": "Kurtuba Camii (La Mezquita)",
+            "C": "Medinetü'z-Zehra",
+            "D": "İşbiliye Giralda",
+            "E": "Toledo Camii"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kurtuba Camii at nalı kemerleri ve sonsuz sütun dizisiyle Endülüs sanatının kalbidir.",
+          "hafiza_capasi": "Kurtuba Camii = Çift katlı at nalı kemerler"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 4,
+      "alt_baslik_adi": "Büyük Selçuklu, Anadolu Selçuklu ve Beylikler Sanatı",
+      "soru_sayisi": 90,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Selçuklu mezar anıtlarında alt katı cenazelik (kripta), üst katı ise ibadet mekânı olan; silindirik veya çokgen gövdeli, sivri konik veya piramidal külahla örtülü anıtsal mezar yapılarına ne ad verilir?",
+          "secenekler": {
+            "A": "Türbe",
+            "B": "Kümbet",
+            "C": "Ribat",
+            "D": "Zaviye",
+            "E": "Külliye"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kümbet, Türk çadır geleneğinin (yurt) taşa yansımış silindirik/konik çift katlı anıt mezar formudur.",
+          "hafiza_capasi": "Kümbet = Çadır biçimli iki katlı taş mezar"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Anadolu Selçuklu mimarisinde han, kervansaray ve medreselerin anıtsal giriş kapılarına, geometrik ve bitkisel kabartmalarla bezenmiş görkemli cephe kapısına ne ad verilir?",
+          "secenekler": {
+            "A": "Eyvan",
+            "B": "Taçkapı (Portal)",
+            "C": "Mihrap",
+            "D": "Son Cemaat Yeri",
+            "E": "Revak"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Taçkapı (portal) mukarnaslı kavsarası ve taş oyma süslemeleriyle Selçuklu mimarisinin yüzüdür.",
+          "hafiza_capasi": "Taçkapı = Selçuklu mukarnaslı anıt kapısı"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 5,
+      "alt_baslik_adi": "Osmanlı Mimarisi ve Mimar Sinan",
+      "soru_sayisi": 90,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Mimar Sinan'ın bizzat kendi ifadeleriyle 'çıraklık, kalfalık ve ustalık' eserleri olarak nitelendirdiği camiler sırasıyla hangi seçenekte doğru verilmiştir?",
+          "secenekler": {
+            "A": "Şehzade Camii - Süleymaniye Camii - Selimiye Camii",
+            "B": "Süleymaniye - Selimiye - Sultanahmet",
+            "C": "Mihrimah Sultan - Şehzade - Süleymaniye",
+            "D": "Şehzade - Selimiye - Süleymaniye",
+            "E": "Rüstem Paşa - Süleymaniye - Selimiye"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "Çıraklık: Şehzade (İstanbul); Kalfalık: Süleymaniye (İstanbul); Ustalık: Selimiye (Edirne).",
+          "hafiza_capasi": "Sinan Üçlemesi = Şehzade (Çırak) -> Süleymaniye (Kalfa) -> Selimiye (Usta)"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "18. yüzyılda Batı etkisiyle Osmanlı mimarisinde başlayan, Nuruosmaniye Camii ve İshak Paşa Sarayı'nda görülen kıvrımlı C ve S profilli barok dalgalı bezeme dönemi hangisidir?",
+          "secenekler": {
+            "A": "Klasik Dönem",
+            "B": "Osmanlı Baroğu / Rokoko Dönemi",
+            "C": "Erken Dönem",
+            "D": "Birinci Ulusal Mimarlık Akımı",
+            "E": "Tanzimat Neoklasisizmi"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Nuruosmaniye Camii (1755), oval avlusu ve dalgalı saçaklarıyla ilk Osmanlı barok camisidir.",
+          "hafiza_capasi": "Nuruosmaniye = İlk Osmanlı Barok Camii"
+        }
+      ]
+    },
+    {
+      "alt_baslik_no": 6,
+      "alt_baslik_adi": "Geleneksel Türk El Sanatları",
+      "soru_sayisi": 80,
+      "sorular": [
+        {
+          "soru_no": 1,
+          "soru_metni": "Ahşap parçaların çivi veya tutkal kullanılmadan, zıvanalı ve kırlangıçkuyruğu geçmelerle birbirine kilitlenerek minber ve kapı kanadı üretilmesi sanatına ne ad verilir?",
+          "secenekler": {
+            "A": "Sedefkârlık",
+            "B": "Kündekâri",
+            "C": "Kakmacılık",
+            "D": "Oyma",
+            "E": "Edirnekâri"
+          },
+          "dogru_cevap": "B",
+          "cozum_ve_gerekce": "Kündekâri tekniğinde ahşap hava şartlarında çalışsa dahi birbirini kilitleyerek yüzyıllarca bozulmaz.",
+          "hafiza_capasi": "Kündekâri = Çivisiz tutkalsız ahşap geçme sanatı"
+        },
+        {
+          "soru_no": 2,
+          "soru_metni": "Hat sanatında harfleri oranlayan, hat hocasının kamış kaleminin eğik ucuyla kağıda bastırdığı eşkenar dörtgen biçimli temel ölçü birimi nedir?",
+          "secenekler": {
+            "A": "Nokta",
+            "B": "Elif",
+            "C": "Kalemtraş",
+            "D": "Mıstar",
+            "E": "Ahar"
+          },
+          "dogru_cevap": "A",
+          "cozum_ve_gerekce": "İbn Mukle'nin sistemleştirdiği aklam-ı sitte nizamında her harfin boyu ve genişliği kamışın çıkardığı nokta sayısı ile belirlenir.",
+          "hafiza_capasi": "Nokta = Hat sanatının pergel ölçüsü"
+        }
+      ]
+    }
+  ]
+}

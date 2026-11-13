@@ -1,0 +1,6 @@
+{
+  "name": "TRP Akademi - Turist Rehberliği Eğitim Portalı",
+  "description": "Turist Rehberliği (TRP) dersleri, sesli konu anlatımı, senkronize cümle takibi, çoktan seçmeli testler ve eksiklerim çalışma sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
