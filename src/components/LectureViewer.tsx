@@ -106,7 +106,7 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
     <div className="space-y-6">
       
       {/* Top Audio Control Bar for the Subtopic */}
-      <div className="sticky top-20 z-30 bg-white/95 backdrop-blur-md rounded-2xl border border-amber-200/90 p-4 shadow-sm">
+      <div className="sm:sticky sm:top-20 z-30 bg-white/95 backdrop-blur-md rounded-2xl border border-amber-200/90 p-4 shadow-sm">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           
           {/* Main Play / Pause Button */}

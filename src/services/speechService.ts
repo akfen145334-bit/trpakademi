@@ -26,6 +26,9 @@ class SpeechService {
   constructor() {
     if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
       this.synth = window.speechSynthesis;
+      document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'visible') setTimeout(() => this.ensureSpeaking(), 400);
+      });
       this.loadVoices();
       if (this.synth.onvoiceschanged !== undefined) {
         this.synth.onvoiceschanged = () => this.loadVoices();
@@ -142,6 +145,54 @@ class SpeechService {
     this.speakCurrent();
   }
 
+  private runToken = 0;
+  private watchdog: ReturnType<typeof setTimeout> | null = null;
+
+  private clearWatchdog() {
+    if (this.watchdog) {
+      clearTimeout(this.watchdog);
+      this.watchdog = null;
+    }
+  }
+
+  /** Uzun cümleyi, mobil TTS motorlarının takılmaması için kısa parçalara böler (~140 karakter). */
+  private splitForSpeech(text: string): string[] {
+    const MAX = 110;
+    const clean = text.replace(/\s+/g, ' ').trim();
+    if (clean.length <= MAX) return [clean];
+    const parts: string[] = [];
+    let rest = clean;
+    while (rest.length > MAX) {
+      let cut = -1;
+      const window = rest.slice(0, MAX + 20);
+      for (const re of [/[;:]\s/g, /,\s/g, /\s(?:ve|ile|ancak|fakat|ama|ise|ki)\s/g, /\s/g]) {
+        let m: RegExpExecArray | null;
+        let last = -1;
+        re.lastIndex = 0;
+        while ((m = re.exec(window)) !== null) {
+          if (m.index > 40) last = m.index + (/^[;:,]/.test(m[0]) ? 1 : 0);
+        }
+        if (last > 0) {
+          cut = last;
+          break;
+        }
+      }
+      if (cut <= 0) cut = MAX;
+      parts.push(rest.slice(0, cut).trim());
+      rest = rest.slice(cut).trim();
+    }
+    if (rest) parts.push(rest);
+    return parts.filter(Boolean);
+  }
+
+  private advanceSentence(token: number) {
+    if (token !== this.runToken) return;
+    if (this.isPlaying && !this.isPaused) {
+      this.currentIndex++;
+      this.speakCurrent();
+    }
+  }
+
   private speakCurrent() {
     if (!this.synth || !this.isPlaying || this.isPaused) return;
 
@@ -160,9 +211,23 @@ class SpeechService {
       return;
     }
 
+    const token = ++this.runToken;
+    this.clearWatchdog();
     this.synth.cancel();
+    const chunks = this.splitForSpeech(text);
+    // cancel() hemen ardından speak() Android Chrome'da bazen sessizce yutuluyor: kısa bekleme
+    setTimeout(() => this.speakChunk(token, chunks, 0), 90);
+  }
 
-    const utterance = new SpeechSynthesisUtterance(text);
+  private speakChunk(token: number, chunks: string[], i: number) {
+    if (token !== this.runToken || !this.synth || !this.isPlaying || this.isPaused) return;
+    if (i >= chunks.length) {
+      this.clearWatchdog();
+      this.advanceSentence(token);
+      return;
+    }
+
+    const utterance = new SpeechSynthesisUtterance(chunks[i]);
     this.currentUtterance = utterance;
     utterance.lang = 'tr-TR';
     if (this.turkishVoice) {
@@ -170,30 +235,50 @@ class SpeechService {
     }
     utterance.rate = this.speed;
 
-    utterance.onend = () => {
-      if (this.isPlaying && !this.isPaused) {
-        this.currentIndex++;
-        this.speakCurrent();
-      }
+    let done = false;
+    const next = () => {
+      if (done) return;
+      done = true;
+      this.clearWatchdog();
+      this.speakChunk(token, chunks, i + 1);
     };
 
+    // Motor onend göndermezse takılmayı önle: tahmini süre + pay sonra bir sonraki parçaya geç
+    const expectedMs = Math.max(4000, (chunks[i].length / (11 * Math.max(this.speed, 0.5))) * 1000 + 3500);
+    this.clearWatchdog();
+    this.watchdog = setTimeout(() => {
+      if (token !== this.runToken || done) return;
+      try {
+        this.synth?.cancel();
+      } catch {
+        /* yoksay */
+      }
+      next();
+    }, expectedMs);
+
+    utterance.onend = next;
     utterance.onerror = (event) => {
-      // If cancelled by another speak or stop call, ignore
       if (event.error === 'interrupted' || event.error === 'canceled') {
         return;
       }
       console.warn('Speech error:', event.error);
-      if (this.isPlaying && !this.isPaused) {
-        this.currentIndex++;
-        this.speakCurrent();
-      }
+      next();
     };
 
     this.synth.speak(utterance);
   }
 
+  /** Uygulama arka plandan dönünce konuşma durmuşsa kaldığı cümleden yeniden başlat. */
+  public ensureSpeaking() {
+    if (!this.synth || !this.isPlaying || this.isPaused) return;
+    if (!this.synth.speaking && !this.synth.pending) {
+      this.speakCurrent();
+    }
+  }
   public pause() {
     if (!this.isPlaying || this.isPaused) return;
+    this.runToken++;
+    this.clearWatchdog();
     this.isPaused = true;
     if (this.synth) {
       this.synth.cancel();
@@ -215,6 +300,8 @@ class SpeechService {
   }
 
   public stop() {
+    this.runToken++;
+    this.clearWatchdog();
     this.isPlaying = false;
     this.isPaused = false;
     if (this.synth) {
