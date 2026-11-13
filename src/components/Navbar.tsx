@@ -1,6 +1,7 @@
 import React from 'react';
 import { useApp } from '../context/AppContext';
-import { 
+import { AccountButton } from './AccountButton';
+import {
   BookOpen, 
   AlertCircle, 
   BarChart2, 
@@ -248,6 +249,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
               </div>
             )}
 
+            <AccountButton />
             <InstallButton />
 
             {/* Mobile / Tablet Background Audio Info */}

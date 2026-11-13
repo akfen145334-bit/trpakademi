@@ -1,7 +1,8 @@
 import React from 'react';
 import { useApp } from '../context/AppContext';
 import { HAFIZA_KARTLARI, HafizaKart } from '../data/hafizaKartlari';
-import { Brain, ArrowLeft, ChevronRight, Search, Eye, EyeOff, Lightbulb, Clapperboard } from 'lucide-react';
+import { useLimits } from '../hooks/useLimits';
+import { Brain, ArrowLeft, ChevronRight, Search, Eye, EyeOff, Lightbulb, Clapperboard, Lock } from 'lucide-react';
 
 const ANA_STIL: Record<string, { emoji: string; grad: string }> = {
   'Sanat Tarihi': { emoji: '🏛️', grad: 'from-sky-600 to-indigo-700' },
@@ -100,10 +101,31 @@ const FilmSorusu: React.FC<{ s: string; c: string; n: number }> = ({ s, c, n }) 
 
 export const HafizaKartlariView: React.FC = () => {
   const { hkSelection, goToHafiza } = useApp();
+  const { limits } = useLimits();
   const [ara, setAra] = React.useState('');
+  const isLocked = (id: string) => HAFIZA_KARTLARI.findIndex(k => k.id === id) >= limits.hafizaCards;
 
   // ───────── Kart sayfası ─────────
   const kart = hkSelection ? HAFIZA_KARTLARI.find(k => k.id === hkSelection) : null;
+  if (kart && isLocked(kart.id)) {
+    return (
+      <div className="space-y-4 pb-24 md:pb-6">
+        <button
+          onClick={() => goToHafiza()}
+          className="flex items-center gap-1.5 text-sm font-semibold text-slate-600 cursor-pointer"
+        >
+          <ArrowLeft className="w-4 h-4" /> Hafıza kartları listesi
+        </button>
+        <div className="rounded-2xl border border-amber-300 bg-amber-50 p-6 text-center">
+          <Lock className="w-8 h-8 mx-auto text-amber-700" />
+          <h2 className="mt-2 text-xl font-black text-slate-900">{kart.ad}</h2>
+          <p className="mt-2 text-sm text-slate-700">
+            Bu kart Premium üyelere açıktır. Ücretsiz üyelikle ilk {limits.hafizaCards} kartı görebilirsin.
+          </p>
+        </div>
+      </div>
+    );
+  }
   if (kart) {
     const idx = HAFIZA_KARTLARI.findIndex(k => k.id === kart.id);
     const prev = idx > 0 ? HAFIZA_KARTLARI[idx - 1] : null;
@@ -252,7 +274,11 @@ export const HafizaKartlariView: React.FC = () => {
                             <span className="block text-[11px] font-mono font-bold text-slate-400">{k.id}</span>
                             <span className="block font-semibold text-slate-900 leading-snug break-words">{k.ad}</span>
                           </span>
-                          <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
+                          {isLocked(k.id) ? (
+                            <Lock className="w-4 h-4 text-amber-600 shrink-0" />
+                          ) : (
+                            <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
+                          )}
                         </button>
                       ))}
                   </div>

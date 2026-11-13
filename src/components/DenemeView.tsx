@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { useApp } from '../context/AppContext';
+import { useLimits } from '../hooks/useLimits';
 import { Question } from '../types';
 import { Timer, ClipboardList, ChevronLeft, ChevronRight, Flag, CheckCircle2, XCircle, RotateCcw, Play } from 'lucide-react';
 
@@ -74,10 +75,19 @@ export const DenemeView: React.FC = () => {
     return out;
   }, [courses, scope]);
 
-  const minutes = Math.round(Math.min(count, pool.length) * 1.2);
+  const { limits } = useLimits();
+  const nowD = new Date();
+  const examsThisMonth = history.filter(h => {
+    const d = new Date(h.ts);
+    return d.getMonth() === nowD.getMonth() && d.getFullYear() === nowD.getFullYear();
+  }).length;
+  const examBlocked = examsThisMonth >= limits.monthlyExams;
+  const effCount = Math.min(count, limits.examMaxQuestions);
+  const minutes = Math.round(Math.min(effCount, pool.length) * 1.2);
 
   const start = () => {
-    const picked = shuffle(pool).slice(0, Math.min(count, pool.length));
+    if (examBlocked) return;
+    const picked = shuffle(pool).slice(0, Math.min(effCount, pool.length));
     const now = Date.now();
     finished.current = false;
     setQs(picked);
@@ -177,9 +187,12 @@ export const DenemeView: React.FC = () => {
               {COUNTS.map(n => (
                 <button
                   key={n}
-                  onClick={() => setCount(n)}
+                  onClick={() => n <= limits.examMaxQuestions && setCount(n)}
+                  title={n > limits.examMaxQuestions ? 'Premium üyelere açık' : undefined}
                   className={`px-4 py-2 rounded-lg text-sm font-bold border cursor-pointer ${
-                    count === n
+                    n > limits.examMaxQuestions ? 'opacity-40' : ''
+                  } ${
+                    effCount === n
                       ? 'bg-indigo-600 text-white border-indigo-600'
                       : 'bg-white text-slate-700 border-slate-300 hover:bg-slate-50'
                   }`}
@@ -195,11 +208,16 @@ export const DenemeView: React.FC = () => {
           </div>
           <button
             onClick={start}
-            disabled={pool.length === 0}
+            disabled={pool.length === 0 || examBlocked}
             className="flex items-center gap-2 px-5 py-3 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-sm cursor-pointer disabled:opacity-50"
           >
             <Play className="w-4 h-4 fill-current" /> Sınavı Başlat
           </button>
+          {examBlocked && (
+            <p className="text-sm text-amber-700">
+              Bu ay için deneme hakkın doldu. Sınırsız deneme Premium üyelere açıktır.
+            </p>
+          )}
         </div>
 
         {history.length > 0 && (
