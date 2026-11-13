@@ -141,25 +141,27 @@ export const LessonCard: React.FC<LessonCardProps> = ({ course }) => {
                 <button
                   onClick={() => subtopic.isAvailable && goToSubtopic(course.id, subtopic.id)}
                   disabled={!subtopic.isAvailable}
-                  className="flex items-center gap-2.5 min-w-0 text-left cursor-pointer flex-1 mr-2"
+                  className="flex items-start sm:items-center gap-2.5 min-w-0 text-left cursor-pointer flex-1 mr-2"
                 >
-                  <div className={`w-2 h-2 rounded-full shrink-0 ${
+                  <div className={`w-2 h-2 mt-1.5 sm:mt-0 rounded-full shrink-0 ${
                     isPlayingThisSubtopic ? 'bg-amber-500 animate-ping' :
                     isCompleted ? 'bg-emerald-500' :
                     isWeak ? 'bg-rose-500' : 'bg-slate-300'
                   }`} />
 
-                  <span className={`text-xs sm:text-sm font-semibold truncate transition ${
-                    subtopic.isAvailable 
-                      ? 'text-slate-800 group-hover:text-amber-800' 
-                      : 'text-slate-400 cursor-not-allowed'
-                  }`}>
-                    {subtopic.title}
-                  </span>
+                  <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-2.5 min-w-0 flex-1">
+                    <span className={`text-sm font-semibold leading-snug break-words sm:truncate transition ${
+                      subtopic.isAvailable
+                        ? 'text-slate-800 group-hover:text-amber-800'
+                        : 'text-slate-400 cursor-not-allowed'
+                    }`}>
+                      {subtopic.title}
+                    </span>
 
-                  <span className="text-[11px] font-mono text-slate-600 font-bold px-2 py-0.5 rounded bg-amber-50/80 border border-amber-200 shrink-0">
-                    {solvedInSubtopic}/{subtopic.questions.length} soru (Havuz: {subtopic.officialQuestionCount})
-                  </span>
+                    <span className="self-start text-[11px] font-mono text-slate-600 font-bold px-2 py-0.5 rounded bg-amber-50/80 border border-amber-200 shrink-0">
+                      {solvedInSubtopic}/{subtopic.questions.length} soru<span className="hidden sm:inline"> (Havuz: {subtopic.officialQuestionCount})</span>
+                    </span>
+                  </div>
                 </button>
 
                 {/* Right: Individual "Dinle" Button next to subtopic */}
