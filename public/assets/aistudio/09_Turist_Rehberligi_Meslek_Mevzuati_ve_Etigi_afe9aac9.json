@@ -1,0 +1,82 @@
+[
+  {
+    "id": "REH-001",
+    "konu": "Turist Rehberliği Meslek Mevzuatı ve Etiği",
+    "alt_konu": "Turist Rehberliği Meslek Kanunu",
+    "soru": "6326 sayılı Turist Rehberliği Meslek Kanunu'na göre ruhsatname sahibi olup mesleği fiilen icra edebilmek için odadan alınan ve her yıl vizelenmesi gereken belge hangisidir?",
+    "siklar": {
+      "A": "Çalışma Kartı (Eylemli Rehber Kartı)",
+      "B": "Rehberlik Ruhsatnamesi",
+      "C": "Acenta Temsil Belgesi",
+      "D": "Tur Hareket Onay Belgesi",
+      "E": "TUREB Yetki Beratı"
+    },
+    "dogru": "A",
+    "cozum": "Ruhsatname ömür boyu geçerli mesleki yeterliliktir; ancak tura çıkıp mesleği icra etmek için ilgili odadan o yıla ait 'Çalışma Kartı' alınarak eylemli rehber olunmalıdır.",
+    "hafiza_ipucu": "RUHSATNAME = HAK KAZANMA; ÇALIŞMA KARTI = EYLEMLİ REHBERLİK (Yıllık vizeli).",
+    "kaynak": {
+      "dosya": "MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 15
+    }
+  },
+  {
+    "id": "REH-002",
+    "konu": "Turist Rehberliği Meslek Mevzuatı ve Etiği",
+    "alt_konu": "Kurumsal Yapı (TUREB ve Odalar)",
+    "soru": "6326 sayılı Kanun çerçevesinde turist rehberliği meslek odalarının bir araya gelmesiyle kurulan üst çatı kuruluş hangisidir?",
+    "siklar": {
+      "A": "TÜRSAB",
+      "B": "TUREB (Turist Rehberleri Birliği)",
+      "C": "İRO",
+      "D": "Kültür Varlıkları Genel Müdürlüğü",
+      "E": "TÜROB"
+    },
+    "dogru": "B",
+    "cozum": "TUREB (Turist Rehberleri Birliği), meslek odalarının birleşmesiyle oluşturulan ve tüzel kişiliğe haiz kamu kurumu niteliğindeki üst meslek kuruluşudur.",
+    "hafiza_ipucu": "TUREB = REHBER ODALARININ ÜST BİRLİĞİ (Ankara merkezli).",
+    "kaynak": {
+      "dosya": "MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 19
+    }
+  },
+  {
+    "id": "REH-003",
+    "konu": "Turist Rehberliği Meslek Mevzuatı ve Etiği",
+    "alt_konu": "Hak ve Yükümlülükler",
+    "soru": "Turist rehberinin tur esnasında çalışma kartını görünür şekilde üzerinde taşımaması 6326 sayılı Meslek Kanunu'na göre hangi disiplin cezasını gerektirir?",
+    "siklar": {
+      "A": "Uyarma",
+      "B": "Kınama",
+      "C": "Meslekten Men",
+      "D": "Geçici Men",
+      "E": "Ruhsatnamenin İptali"
+    },
+    "dogru": "A",
+    "cozum": "Çalışma kartını tur sırasında boynunda ya da görünür biçimde taşımamak kanunen 'Uyarma' cezasını gerektiren bir fiildir.",
+    "hafiza_ipucu": "KART TAŞIMAMAK = UYARMA CEZASI.",
+    "kaynak": {
+      "dosya": "MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 27
+    }
+  },
+  {
+    "id": "REH-004",
+    "konu": "Turist Rehberliği Meslek Mevzuatı ve Etiği",
+    "alt_konu": "Meslek Etiği",
+    "soru": "Turist rehberinin misafirleri haksız ticari kazanç elde etmek gayesiyle belirli işletmelere yönlendirerek haksız komisyon (hanut) talep etmesi hangi etik ve yasal ihlale girer?",
+    "siklar": {
+      "A": "Hanutçuluk fiili",
+      "B": "Kayıt dışı promosyon",
+      "C": "Hizmet kusuru",
+      "D": "Fiyat tarifesine muhalefet",
+      "E": "Tur programını aksatma"
+    },
+    "dogru": "A",
+    "cozum": "Hanutçuluk hem meslek etiğine aykırıdır hem de 6326 sayılı Kanun ve TUREB Disiplin Yönetmeliği kapsamında ağır idari para cezası ve geçici meslekten men yaptırımı taşır.",
+    "hafiza_ipucu": "HANUTÇULUK = KOMİSYON KARŞILIĞI ZORLA ALIŞVERİŞ (Ağır etik ihlal).",
+    "kaynak": {
+      "dosya": "MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 33
+    }
+  }
+]

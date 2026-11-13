@@ -1,0 +1,82 @@
+[
+  {
+    "id": "İLT-001",
+    "konu": "İletişim ve Rehberlik Becerileri",
+    "alt_konu": "İletişimin Temel Ögeleri",
+    "soru": "İletişim sürecinde alıcının gönderdiği mesajı çözdükten sonra kaynağa geri bildirimde bulunarak iletişimi çift yönlü kılan temel ögeye ne ad verilir?",
+    "siklar": {
+      "A": "Kanal",
+      "B": "Geri Bildirim (Dönüt)",
+      "C": "Kodlama",
+      "D": "Gürültü",
+      "E": "Bağlam"
+    },
+    "dogru": "B",
+    "cozum": "Dönüt (geri bildirim), mesajın hedefe ulaşıp ulaşmadığını ve doğru anlaşılıp anlaşılmadığını kaynağa bildiren vazgeçilmez ögedir.",
+    "hafiza_ipucu": "DÖNÜT (GERİ BİLDİRİM) = ÇİFT YÖNLÜ İLETİŞİMİN ANAHTARI.",
+    "kaynak": {
+      "dosya": "MKS_Iletisim M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 4
+    }
+  },
+  {
+    "id": "İLT-002",
+    "konu": "İletişim ve Rehberlik Becerileri",
+    "alt_konu": "İletişim Türleri",
+    "soru": "Turist rehberinin anlatım esnasında kullandığı ses tonu, vurgu, ses perdesi, duraklamalar ve konuşma temposu sözsüz iletişimin hangi alt başlığına girer?",
+    "siklar": {
+      "A": "Kinesiks (Beden Dili)",
+      "B": "Proksemiks (Kişisel Alan)",
+      "C": "Paradil (Ses Dili / Paralinguistics)",
+      "D": "Kronemiks (Zaman Dili)",
+      "E": "Haptiks (Dokunma Dili)"
+    },
+    "dogru": "C",
+    "cozum": "Paradil (paralinguistics), söylenen kelimelerin kendisi değil; sesin şiddeti, tınısı, melodisi ve hızını inceleyen ses ötesi sözsüz iletişim alanıdır.",
+    "hafiza_ipucu": "PARADİL = SES TONU, VURGU VE TEMPO.",
+    "kaynak": {
+      "dosya": "MKS_Iletisim M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 16
+    }
+  },
+  {
+    "id": "İLT-003",
+    "konu": "İletişim ve Rehberlik Becerileri",
+    "alt_konu": "İletişim Engelleri ve Çatışma Yönetimi",
+    "soru": "Kişinin kendini karşısındakinin yerine koyarak onun duygularını, düşüncelerini ve bakış açısını tarafsız bir kavrayışla anlama becerisine ne ad verilir?",
+    "siklar": {
+      "A": "Sempati",
+      "B": "Empati",
+      "C": "Antipati",
+      "D": "Apatik yaklaşım",
+      "E": "Özdeşleşme"
+    },
+    "dogru": "B",
+    "cozum": "Empati; kişinin kendi benliğini koruyarak bir başkasının dünyasını onun gözleriyle görme yetisidir. Sempati ise doğrudan hak verme ve acıyı/sevinci özdeş yaşama durumudur.",
+    "hafiza_ipucu": "EMPATİ = ANLAMAK; SEMPATİ = TARAF TUTUP AYNEN HİSSETMEK.",
+    "kaynak": {
+      "dosya": "MKS_Turizm_Sosyolojisi_Psikolojisi M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 21
+    }
+  },
+  {
+    "id": "İLT-004",
+    "konu": "İletişim ve Rehberlik Becerileri",
+    "alt_konu": "Psikolojik Kuramlar ve Grup Dinamiği",
+    "soru": "Bruce Tuckman'ın grup gelişim modelinde, tur grubunun üyeleri arasında ilk sürtüşmelerin, liderlik ve rol çatışmalarının yaşandığı ikinci evre hangisidir?",
+    "siklar": {
+      "A": "Forming (Oluşum)",
+      "B": "Storming (Fırtına / Çatışma)",
+      "C": "Norming (Kuralların Oluşumu)",
+      "D": "Performing (Başarım / Performans)",
+      "E": "Adjourning (Ayrılma)"
+    },
+    "dogru": "B",
+    "cozum": "Tuckman modelinde grup sırasıyla Forming (Tanışma), Storming (Fırtına/Çatışma), Norming (Uyum/Kurallar), Performing (Yüksek Verim) ve Adjourning (Dağılma) aşamalarından geçer.",
+    "hafiza_ipucu": "TUCKMAN: Forming -> Storming (Çatışma) -> Norming -> Performing.",
+    "kaynak": {
+      "dosya": "MKS_Turizm_Sosyolojisi_Psikolojisi M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 39
+    }
+  }
+]

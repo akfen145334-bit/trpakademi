@@ -5,7 +5,7 @@ export const COURSES_DATA: Course[] = [
     "id": "turktarihi",
     "title": "Genel Türk Tarihi ve Kültürü",
     "slug": "genel-turk-tarihi-ve-kulturu",
-    "totalOfficialQuestions": 505,
+    "totalOfficialQuestions": 523,
     "description": "İslam Öncesi Türk Tarihi, Devlet ve Toplum Yapısı, Türk-İslam Devletleri, Selçuklu, Osmanlı ve Cumhuriyet Dönemi.",
     "iconName": "History",
     "isAvailable": true,
@@ -15,7 +15,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turktarihi",
         "order": 1,
         "title": "İslam Öncesi Türk Tarihi",
-        "officialQuestionCount": 94,
+        "officialQuestionCount": 99,
         "lectureContent": "## 1. Alt Başlık: İslam Öncesi Türk Tarihi ve Kültür Merkezleri\n\nTürk adının tarih sahnesine çıkışı, Avrasya bozkırlarının zorlu doğa koşullarında şekillenen ve insanlık tarihinin en dinamik göçebe-bozkır medeniyetini yaratan köklü bir geçmişe dayanır. Türk sözcüğü Çin kaynaklarında miğfer anlamına gelen sözcüklerle, Kaşgarlı Mahmud'un Divânü Lugâti't-Türk eserinde olgunluk çağı olarak, Ziya Gökalp tarafından ise töreli, kanun ve nizam sahibi şeklinde tanımlanmıştır. Tarihte Türk adını resmi bir devlet adı olarak ilk kez kullanan siyasi teşekkül Kök Türk Kağanlığı olmuştur.\n\nOrta Asya'da Türk kültürünün filizlendiği tarih öncesi kültür merkezleri kronolojik ve karakteristik özellikleri bakımından büyük önem taşır:\n* **Anav Kültürü:** Aşkabat yakınlarında ortaya çıkarılan, Orta Asya'nın bilinen en eski kültürüdür. Bu kültür katmanında ilk kez tarım izlerine, dokumacılığa ve koyun besiciliğine rastlanmıştır.\n* **Kelteminar Kültürü:** Aral Gölü çevresinde balıkçılık ve avcılıkla geçinen toplulukları temsil eden neolitik bozkır kültürüdür.\n* **Afanasyevo Kültürü:** Altay ve Sayan Dağları çevresinde gelişen, Türklerin en eski atalık kültürü (proto-Türk) kabul edilen ve bakırın işlendiği kültür evresidir.\n* **Andronovo Kültürü:** Afanasyevo'nun genişlemiş halidir; tunçtan madeni silahların yapıldığı, ilk kez atlı arabaların kullanıldığı ve Türk tipinin (brakisefal beyaz ırk) belirginleştiği kültür alanıdır.\n* **Karasuk Kültürü:** Yenisey ırmağı çevresinde demir madeninin dünyada ilk kez yoğun biçimde işlendiği, dört tekerlekli çadır arabaların ve keçeden giysilerin yaygınlaştığı evredir.\n* **Tagar Kültürü:** Abakan bölgesinde gelişen, hayvan üslubunun zirveye ulaştığı, Orta Asya'nın en gelişmiş ve zengin proto-Türk kültür merkezidir.\n\n### Bozkırın İlk Süvarileri: İskitler (Sakalar)\nTarihte bilinen ilk Türk topluluğu İskitler, diğer adıyla Sakalardır. Karadeniz'in kuzeyinden Orta Asya içlerine kadar uzanan geniş bozkırlarda egemenlik kurmuşlardır. İskitlerin tarihe ve kültür tarihine vurduğu en büyük damga atı evcilleştirip binek hayvanı olarak mükemmel biçimde kullanmaları, pantolon, ceket ve kemer tokasını insanlık giyim kuşamına kazandırmaları ve maden işlemeciliğindeki eşsiz ustalıklarıdır. Altın ve gümüşü hayvan mücadele sahneleriyle birer sanat şaheserine dönüştürdükleri için antik kaynaklarda \"Bozkırın Kuyumcuları\" olarak anılmışlardır. \n\nTarihte bilinen ilk kadın hükümdar olan Tomris Hatun, Pers İmparatoru Kyros'a karşı kazandığı zaferle Saka tarihinin en parlak önderidir. İskitlerin efsanevi hükümdarı Alp Er Tunga, Firdevsi'nin Şehnâme adlı ölümsüz Fars destanında Afrasiyab adıyla anılmıştır. İskitlere ait Kazakistan'daki Esik Kurganı'nda bulunan ve saf altından zırh pullarıyla bezenmiş Altın Elbiseli Adam zırhı, bozkır madencilik dehasının en somut kanıtıdır.\n\n### Asya Hun Devleti ve Mete Han Devrimi\nTarihte bilinen ilk teşkilatlı Türk devleti Asya Hun Devleti'dir. Merkezi Ötüken olan devletin bilinen ilk hükümdarı Teoman'dır. Ancak Asya Hun Devleti'ni bir cihan imparatorluğuna dönüştüren ve Türk devlet teşkilatlanmasının temel taşlarını koyan kurucu deha Teoman'ın oğlu Mete Han'dır.\n\nMete Han, MÖ 209 yılında tahta çıkarak günümüz Türk Kara Kuvvetleri'nin de kuruluş yılı kabul edilen askeri devrimi gerçekleştirmiştir:\n* **Onlu Teşkilat:** Orduyu onbaşı, yüzbaşı, binbaşı ve tümenbaşı komutasında 10, 100, 1.000 ve 10.000 kişilik hiyerarşik birliklere ayırmıştır.\n* **Islıklı Ok:** Süvari okçularının havada ses çıkaran oklarla hedefe yönlendirildiği psikolojik ve taktiksel savaş silahını geliştirmiştir.\n* **Turan / Hilal Taktiği (Kurt Kapanı):** Sahte ricat (kaçış) ve pusu temeline dayanan, düşman ordusunu çembere alıp imha eden efsanevi bozkır savaş sanatını mükemmelleştirmiştir.\n* **Vatan Toprağı İlkesi:** Donghuların sınır boyundaki çorak bir toprak parçasını istemesi üzerine, \"Toprak milletindir, onu kimse veremez\" diyerek tarihte milli sınır ve vatan sevgisi kavramını ilk kez yazılı devlet politikası haline getirmiştir.\n* Orta Asya'da Türk soyundan gelen bütün boyları tek bir bayrak altında toplayarak ilk siyasi Türk birliğini sağlamıştır. Çin'i mağlup edip vergiye bağlamış, ancak Türk nüfusunun kalabalık Çin potasında asimile olmasını önlemek amacıyla Türklerin Çin'e yerleşmesini kesinlikle yasaklamıştır.\n\nAsya Hunlarının yıkılış sürecinde batıya göç eden Hun boylarının Balamir komutasında İdil (Volga) nehrini geçerek Gotları, Vandalları ve Cermen kabilelerini batıya sürmesiyle dünya tarihini değiştiren Kavimler Göçü (375) başlamıştır. Kavimler Göçü; Roma İmparatorluğu'nun ikiye bölünmesine, Batı Roma'nın yıkılmasına, Avrupa'da feodalite (derebeylik) rejiminin doğmasına, skolastik düşüncenin egemen olmasına ve İlk Çağ'ın kapanıp Orta Çağ'ın başlamasına yol açmıştır.\n\n### Avrupa Hun Devleti ve \"Tanrının Kırbacı\" Atilla\nAvrupa'da kurulan ilk Türk devleti olan Avrupa Hun Devleti, en parlak dönemini Atilla zamanında yaşamıştır. Atilla; Doğu Roma'yı (Bizans) Margos ve Anatolios antlaşmalarıyla ağır vergilere bağlamış, Batı Roma üzerine Galya ve İtalya seferlerini düzenlemiştir. Roma kapılarına dayandığında Papa 1. Leo'nun bizzat huzuruna çıkıp yalvarması ve Roma'yı bağışlamasını istemesi üzerine kenti istila etmekten vazgeçmiştir. Hristiyan dünyasında günahlarından ötürü Tanrı tarafından cezalandırılmak üzere gönderildiğine inanıldığı için \"Tanrının Kırbacı\" (Flagellum Dei) olarak adlandırılmıştır. Cermen Nibelungen Destanı'nda ise Atilla, sarayında asil, adil, cömert ve kudretli bir kral olarak Etzel adıyla yüceltilmiştir.\n\n### I. ve II. Kök Türk (Kutluk) Kağanlığı\n552 yılında Bumin Kağan önderliğinde Avar egemenliğine son verilerek kurulan I. Kök Türk Kağanlığı, Türk adını ilk kez devlet adı olarak kullanan devlettir. Bumin Kağan devleti ikili teşkilat uyarınca kardeşi İstemi Yabgu ile birlikte yönetmiştir. İstemi Yabgu batı kanadını yönetirken İpek Yolu ticaretini denetim altına almak amacıyla Sasani Devleti ile ittifak kurup Ak Hunları yıkmış; ardından Sasanilere karşı Doğu Roma (Bizans) ile diplomatik ilişki kurmuştur. Bizans'a elçi (Maniakh) gönderen ve Bizans'tan elçi (Zemakhos) kabul eden ilk Türk hükümdarı İstemi Yabgu'dur.\n\nI. Kök Türk Devleti'nin Çin entrikalarıyla Doğu ve Batı olarak ikiye ayrılıp Çin esaretine girmesi üzerine yaşanan 50 yıllık matem dönemi, Kürşad ve 39 arkadaşının Çin sarayını basarak başlattığı bağımsızlık kıvılcımıyla sarsılmıştır. 682 yılında Kutluk Kağan önderliğinde boylar bir araya getirilmiş, devleti derleyip toparladığı için kendisine \"İlteriş\" (ili/devleti derleyen) unvanı verilerek II. Kök Türk (Kutluk) Devleti kurulmuştur.\n\nII. Kök Türk Devleti'nin altın çağı Bilge Kağan, kardeşi ordu komutanı Kül Tigin ve büyük bilge vezir Tonyukuk üçlüsünün yönetiminde yaşanmıştır. Bu dönem, Türk edebiyatının ve tarihinin ilk Türkçe yazılı belgeleri olan **Orhun Abideleri**'nin (Kök Türk Yazıtları) dikildiği çağdır:\n* **Tonyukuk Yazıtı (720):** İlk dikilen yazıttır. Vezir Tonyukuk tarafından bizzat kaleme alınmıştır; sade, realist bir anı ve tarih üslubu taşır. Tonyukuk, Türk tarihinin ilk veziri, ilk tarihçisi ve ilk edebiyatçısı kabul edilir; Çin kaynaklarında stratejik dehası sebebiyle \"Boyla Bağa Tarkan\" ve \"Apar Tarkan\" sanlarıyla anılır.\n* **Kül Tigin Yazıtı (732):** Bilge Kağan tarafından kahraman kardeşi adına diktirilmiştir. Metinleri Yollug Tigin taşlara kazımıştır.\n* **Bilge Kağan Yazıtı (735):** Bilge Kağan'ın ölümünden sonra oğlu tarafından diktirilmiş, yine Yollug Tigin tarafından yazılmıştır.\n\nYazıtlar Moğolistan sınırları içinde Orhun vadisinde yer alır. 38 harfli gelişmiş Kök Türk alfabesiyle yazılmıştır. Yazıtlardan ilk kez 13. yüzyılda İlhanlı tarihçisi Cüveyni, Târîh-i Cihângüşâ adlı eserinde bahsetmiştir. 1889 yılında Rus araştırmacı Nikolay Yadrintsev tarafından bulunmuş ve 1893 yılında Danimarkalı dilbilimci Vilhelm Thomsen tarafından Kök Türk alfabesi çözülerek ilk olarak \"Tengri\" ve \"Türk\" kelimeleri okunmuştur. Yazıtlar; hükümdarın halkına hesap verdiği, sosyal devlet anlayışının vurgulandığı (\"Aç milleti doyurdum, çıplak milleti giydirdim\"), Çin'in tatlı sözlerine ve yumuşak ipeğine kanılmaması gerektiğinin öğütlendiği ilk siyasi risale (siyasetnâme) niteliğindedir.\n\n### Uygur Kağanlığı ve Kültürel Kırılma\n744 yılında Kutluk Bilge Kül Kağan tarafından kurulan Uygurlar, Türk kültür tarihinde tam anlamıyla bir dönüm noktasıdır. Başkentleri Karabalgasun'dur (Ordubalık).\n\nBögü Kağan döneminde (762) Çin'e yapılan Lo-yang seferi sırasında Maniheizm dini kabul edilmiştir. Maniheizm; et yemeyi ve canlı öldürmeyi yasaklayan, savaşçılık ruhunu zayıflatan bir dindir. Ancak bu inanç Türk toplumunda devrim niteliğinde kültürel sonuçlar doğurmuştur:\n* Et yememek tarıma geçişi zorunlu kılmış, Türkler ilk kez göçebeliği bırakıp **yerleşik hayata** geçmiştir.\n* Şehirler kurulmuş, kent mimarisi, saraylar ve \"Stupa\" adı verilen tapınaklar inşa edilmiştir.\n* Duvar resimleri (fresk) ve kitap resimleme sanatı olan minyatür ilk kez Uygurlarda ortaya çıkmıştır.\n* Çin'den hareketli harf sistemine dayalı tahta matbaa ve kağıt yapımı öğrenilmiş; kütüphaneler kurulmuş ve zengin bir tercüme edebiyatı doğmuştur.\n* Hukuk kuralları ilk kez yazılı sözleşmeler (borç, kiralama, vasiyet, alım-satım senetleri) haline getirilmiştir.\n* Çav adı verilen pamuklu kumaş veya kağıt para kullanılmıştır.\n* Türk tiyatrosunun ilk ilkel adımı olan \"orta oyunu\" Uygur kentlerinde sergilenmiştir.\n\n### Diğer Türk Devlet ve Boylarının Sınav Odaklı Kritik Özellikleri\n* **Avarlar (Juan-Juan):** Hem Orta Asya'da hem Orta Avrupa'da devlet kurmuşlardır. Sasanilerle ittifak yaparak tarihte **İstanbul'u kuşatan ilk Türk devleti** olmuşlardır (619 ve 626). Cermen ve Slav kavimlerine üzengiyi ve süvari savaş tekniklerini öğreterek onları teşkilatlandırmışlardır.\n* **Hazarlar:** Karadeniz ile Hazar Denizi arasındaki topraklarda egemenlik kurmuşlardır. Yöneticileri **Musevilik** dinini kabul eden tek Türk devletidir. Hristiyan, Müslüman, Musevi ve Şamanistlerin yan yana barış içinde yaşadığı adaletli bir düzen kurmuşlar, bu döneme tarihte \"Hazar Barış Çağı\" (Pax Khazarica) denmiştir. Mahkemelerinde yedi kişilik hâkimler kurulu görev yapmıştır (2 Müslüman, 2 Hristiyan, 2 Musevi, 1 Şamanist). Kafkaslarda Hz. Osman komutasındaki İslam ordularıyla Belencer Savaşı'nı yaparak İslamiyet'in Kafkasya ve Rusya içlerine yayılmasını yüzyıllarca engellemişlerdir. Türk tarihinde ilk kez paralı (ücretli) asker istihdam eden devlettir.\n* **Peçenekler:** Devlet kuramamış, boylar halinde yaşamışlardır. Bizans ordusunda ücretli askerlik yapmışlar; 1071 Malazgirt Savaşı'nda Selçuklu tarafına geçerek savaşın kaderini değiştirmişlerdir.\n* **Uzlar (Oğuzlar):** Hristiyanlaşan Oğuzlardır. Onlar da Malazgirt Savaşı'nda Bizans saflarından Alparslan'ın safına geçmişlerdir.\n* **Kumanlar (Kıpçaklar):** Sarı saçlı, mavi gözlü savaşçı bozkır kavmidir. Ruslarla yaptıkları savaşlar ünlü Rus İgor Destanı'na, Oğuzlarla yaptıkları mücadeleler ise Türk edebiyatının başyapıtı Dede Korkut Hikâyeleri'ne konu olmuştur. Kendilerine ait Latince, Farsça ve Kıpçakça sözlük olan **Codex Cumanicus** bugün İtalya Venedik San Marco Kütüphanesi'ndedir.\n* **Bulgarlar:** İkiye ayrılmışlardır. Tuna Bulgarları, Kurum Han zamanında İstanbul'u kuşatmış, Boris Han döneminde Hristiyanlığı kabul ederek Slavlaşmış ve asimile olmuşlardır. İtil (Volga) Bulgarları ise Almış Han zamanında Bağdat halifesinden İslam dinini tebliğ edecek heyet istemiş ve **İslamiyet'i kabul eden ilk Türk devleti** olmuşlardır. Ünlü Arap seyyah İbn Fadlan, Seyahatnâme eserinde İtil Bulgarları'nın İslam'ı kabul edişini detaylarıyla anlatmıştır.\n* **Macarlar:** Hristiyanlığın Katolik mezhebini benimseyerek milli benliklerini kaybetmişlerdir. Ancak 1870 yılında Budapeşte'de dünyadaki ilk Türkoloji Enstitüsü'nü kurarak Türk tarihi araştırmalarına büyük katkı sağlamışlardır.\n* **Kırgızlar:** Uygur Kağanlığı'nı yıkarak Ötüken'de devlet kurmuşlardır. Dünyanın en uzun destanı olan **Manas Destanı** Kırgızlara aittir. Mezar taşları üzerine yazılan Yenisey Yazıtları da Kırgızlar dönemine aittir. Cengiz Han'a itaat eden ilk Türk kavmidir.\n* **Türgişler:** Hükümdarları Bağa Tarkan kendi adına madeni para (sikke) bastıran ilk Türk hükümdarıdır. Emevi ordularıyla (Haristan Savaşı) mücadele ederek İslamiyet'in Orta Asya'da yayılmasını bir süre geciktirmişlerdir.\n* **Karluklar:** 751 Talas Savaşı'nda Çinlilere karşı Abbasilerin yanında yer alarak savaşın kazanılmasını sağlamışlar ve **İslamiyet'i topluca kabul eden ilk Türk boyu** olmuşlardır. İlk Müslüman Türk devleti Karahanlılar'ın kurucu asli unsurudur.\n* **Akhunlar (Eftalitler):** Afganistan ve Kuzey Hindistan'da kurulmuşlardır. Sasanilerdeki Mazdek İsyanı'nı bastırmışlar; Kök Türk-Sasani ittifakıyla yıkılmışlardır.\n\n---",
         "sentences": [
           {
@@ -945,6 +945,86 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Andronovo Kültürü döneminde Türk bozkır kültürünün kurgan mezarlar, at kültü ve konar-göçer yaşam gibi karakteristik özellikleri son biçimini almıştır (s.4-5).\n\n💡 Hafıza İpucu: ANDRONOVO = bozkır kültürünün 'temel taşı' dönemi.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q024",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "“Altın Elbiseli Adam” olarak adlandırılan Saka savaşçısının mezarının ve 26 runik işaretli gümüş tasın bulunduğu, Kazakistan/Almatı yakınlarındaki kurgan aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Yenisey Kurganı",
+              "B) Pazırık Kurganı",
+              "C) Noin - Ula Kurganı",
+              "D) Esik Kurganı",
+              "E) Şine Usu Kurganı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kazakistan’ın Almatı yakınlarındaki Esik (Issık) Kurganı’nda MÖ 5-4. yüzyıla tarihlenen “Altın Elbiseli Adam” zırhı ve üzerinde 26 runik harfli yazıt bulunan gümüş tas keşfedilmiştir (2026 Ağustos Mesleğe Kabul B Grubu, S. 24).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q026",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "MÖ 209’da tahta geçerek Asya Hun Devleti’ni bilinen ilk büyük siyasi teşkilat haline getiren devlet adamı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kapgan",
+              "B) Ki-ok",
+              "C) Teoman",
+              "D) Mete",
+              "E) İşbara"
+            ],
+            "correctIndex": 3,
+            "explanation": "MÖ 209 yılında tahta çıkan Mete Han, onlu ordu teşkilatını kurmuş ve dağınık Türk boylarını ilk kez tek çatı altında toplayarak Asya Hun Devleti’ne en parlak dönemini yaşatmıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 26).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q028",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Orhun Yazıtları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "options": [
+              "A) Çin’in Türk topluluklarına yönelik siyaseti hakkında açıklamalar yer almaktadır.",
+              "B) Devlet anlayışı ve toplum yapısı hakkında bilgiler içermektedir.",
+              "C) Türklerin İslamiyet’i kabul etme sürecini anlatmaktadır.",
+              "D) Günümüzde Moğolistan sınırları içinde bulunmaktadır.",
+              "E) Kül Tigin, Bilge Kağan ve Tonyukuk adına dikilmiş yazıtlar bulunmaktadır."
+            ],
+            "correctIndex": 2,
+            "explanation": "Orhun Yazıtları (720-735) II. Kök Türk Kağanlığı dönemine aittir ve İslamiyet öncesi Gök Tanrı inancındaki Türk devlet anlayışını yansıtır; Türklerin İslamiyet’i kabul sürecini anlatmaz (2026 Ağustos Mesleğe Kabul B Grubu, S. 28).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_GTT-001",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Tarihte bilinen ilk büyük Türk devleti aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Asya (Büyük) Hun Devleti",
+              "B) Avarlar",
+              "C) Karahanlılar",
+              "D) Uygurlar",
+              "E) Göktürkler"
+            ],
+            "correctIndex": 0,
+            "explanation": "Tarihte bilinen teşkilatlı ilk büyük Türk devleti Asya Hun Devleti'dir (MÖ 220). Mete Han döneminde en güçlü evresine ulaşmıştır. (E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf, s.1)\n\n💡 Hafıza İpucu: ASYA HUN = İLK BÜYÜK DEVLET: Teoman kurdu, Mete teşkilatlandırdı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_GTT-003",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "'Türk' adını resmi bir devlet adı olarak ilk kez kullanan Türk devleti aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Uygurlar",
+              "B) Hazarlar",
+              "C) Göktürkler (Kök Türk)",
+              "D) Peçenekler",
+              "E) Hunlar"
+            ],
+            "correctIndex": 2,
+            "explanation": "552 yılında Bumin Kağan tarafından kurulan I. Göktürk Kağanlığı, Türk adını siyasi ve resmi bir devlet adı olarak tarihte ilk kez kullanan devlettir. (MKS_Turk_Tarihi_Kulturu M.ALI 2026 AGUSTOS.pdf, s.1)\n\n💡 Hafıza İpucu: GÖKTÜRK = İLK RESMİ TÜRK ADI: Bumin Kağan'ın kurduğu ulu kağanlık.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -954,7 +1034,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turktarihi",
         "order": 2,
         "title": "Eski Türk Devlet ve Toplum Yapısı",
-        "officialQuestionCount": 81,
+        "officialQuestionCount": 85,
         "lectureContent": "## 2. Alt Başlık: İslam Öncesi Türk Devlet ve Toplum Yapısı\n\nEski Türk devlet teşkilatı, \"İl\" (veya El) kavramı üzerine inşa edilmiştir. İl; bağımsız, sınırları belirli, töre ile yönetilen devlet demektir.\n\n### A. Kut Anlayışı ve Hükümdarlık\nDevleti yönetme yetkisinin Gök Tengri tarafından hükümdara ve onun sülalesine kan yoluyla verildiğine inanılmasına **Kut** denir.\n* Kut, tanrısal kökenlidir ancak teokratik bir yönetim doğurmamıştır; çünkü hükümdar tanrı-kral değildir, sadece tanrıdan yetki alan bir fânidir.\n* Kut kan yoluyla hükümdarın bütün erkek çocuklarına, amcalarına ve yeğenlerine (hanedanın tüm erkek üyelerine) geçtiği için \"ülke hanedan üyelerinin ortak malıdır\" anlayışı hâkim olmuştur. Bu durum taht kavgalarına, iç savaşlara ve Türk devletlerinin kısa sürede parçalanıp yıkılmasına zemin hazırlayan en temel yapısal unsurdur (Veraset belirsizliği).\n* Hükümdarın tahta çıkışında; kut sahibi hanedan üyesi olmak, kurultay tarafından seçilmek, taht kavgasını kazanmak ve orun (protokol) hakkına sahip olmak belirleyicidir.\n* **Hükümdarlık Unvanları:** Kağan, Han, Hakan, Yabgu, İdi-kut, İlteber, Tanhu, Şanyü, Ay Tengri. *(Tuzak Çapa: Padişah, Sultan, Şah, Halife ve Melik unvanları İslamiyet sonrasıdır; İslam öncesinde asla kullanılmaz)*.\n* **Hükümdarlık Alametleri (Sembolleri):** Otağ (hükümdar çadırı), Örgin (taht), Tuğ (kurt başlı sancak), Kös/Davul (nevbet), Kotuz/Sorguç (başlığa takılan at tüyü), Kemer (kur), Kılıç, Yay, Berge (kamçı). *(Tuzak Çapa: Hutbe okutmak, sikke üzerine halifenin adını yazdırmak, hil'at ve çetr İslamiyet sonrasıdır)*.\n\n### B. İkili Teşkilat Sistemi\nGeniş bozkır coğrafyasını yönetebilmek amacıyla devlet Doğu ve Batı (veya Sağ ve Sol) olmak üzere iki idari kanada ayrılırdı. Güneşin doğduğu yön kutsal sayıldığı için Doğu'da daima asıl büyük hükümdar olan **Kağan** otururdu. Batı kanadını ise kağana bağlı olarak hanedan mensubu küçük hükümdar olan **Yabgu** yönetirdi. Yabgu iç işlerinde serbest, dış işlerinde Doğu'daki kağana bağlıydı. Bu sistem federal bir yönetim örneğidir; sınırların genişlemesini kolaylaştırmış ancak merkezi otoritenin zayıflayıp devletin ikiye bölünmesini hızlandırmıştır.\n\n### C. Kurultay (Toy / Kengeş) ve Hükümet Organları\nDevlet işlerinin görüşülüp karara bağlandığı yüce meclise **Kurultay**, **Toy** veya **Kengeş** adı verilirdi.\n* Kurultaya Kağan, Hatun (hükümdar eşi), boy beyleri, şehzadeler (tiginler) ve devletin ileri gelen komutanları katılırdı. Kurultay üyelerine **Toygun** denirdi.\n* Hatun'un kurultaya katılması, yabancı elçileri kabul etmesi ve hükümdar fermanlarına \"Kağan ve Hatun buyurur ki\" şeklinde imza atması eski Türklerde kadına verilen muazzam siyasi ve sosyal değerin kanıtıdır.\n* Kağan töreye ve milletine karşı sorumluydu; töreye aykırı davranan veya kutunu kaybettiğine inanılan kağan kurultay tarafından tahttan indirilebilirdi. Bu yönüyle kurultay sadece bir danışma meclisi değil, gerektiğinde karar organı ve meşruti bir denetim mekanizmasıdır.\n* **Diğer Türk Meclisleri:** Peçeneklerde Kömendo, Hazarlarda İhtiyarlar Meclisi, Tuna Bulgarlarında Millet Meclisi, Avrupa Hunlarında Seçkinler Meclisi, Tabgaçlarda Nazırlar Meclisi.\n* **Eski Türk Bürokrasisi:**\n  * **Ayukı:** Hükümet (Bakanlar Kurulu).\n  * **Aygucı (Üge):** Başbakan (Hükümet başkanı). Kağan soyundan olmayan kişiler arasından seçilirdi.\n  * **Buyruk:** Bakan.\n  * **Tigin:** Kağanın erkek çocuğu (şehzade).\n  * **İnanç / İnal / Ataman:** Tiginleri devlet yönetimi ve askerlik konusunda eğiten tecrübeli hoca (Selçuklulardaki Atabey, Osmanlı'daki Lala).\n  * **Şad:** Hanedan üyesi vali veya askeri komutan.\n  * **Tudun:** Vergi memuru ve sivil yönetici.\n  * **Tutuk:** Askeri vali.\n  * **Bitikçi / Tamgacı:** Kâtip, devlet yazışmalarını yürüten ve mührü basan bürokrat.\n  * **Yargucı:** Yargıç, adalet işlerine bakan hâkim.\n\n### D. Sosyal Yapı ve Basamakları\nEski Türk toplumu kan bağına dayalı piramidal ve son derece dinamik bir aile hiyerarşisi üzerine kurulmuştur:\n1. **Oguş:** Aile (En küçük sosyal yapı birimi).\n2. **Urug:** Aileler birliği (Sülale).\n3. **Bod (Boy):** Uruglar birliği (Boy beyi tarafından yönetilen kabile).\n4. **Bodun:** Boylar birliği (Millet).\n5. **İl (El):** Bağımsız devlet.\n*(Hafıza Kancası: O-U-B-B-İ zinciri: Oguş, Urug, Boy, Bodun, İl)*.\n\nTürk toplumunda kölelik ve soyluluk gibi katı sınıfsal ayrımlar asla görülmemiştir. Bunun en temel nedeni toprağın mülkiyetinin şahıslara değil, devlete (kamuya) ait olması ve göçebe yaşam tarzının feodal aristokrasinin doğmasına imkan tanımamasıdır.\n\n### E. Hukuk Sistemi: Töre\nEski Türklerde yazısız hukuk kurallarına **Töre** denirdi. Töre; gelenekler, kağan buyrukları ve kurultay kararlarının harmanlanmasıyla oluşurdu. Töreye kağan dahi uymak zorundaydı; bu durum Türklerde hukukun üstünlüğü ilkesinin varlığını gösterir. Törenin değişmez dört evrensel ilkesi vardı: **Könilik** (Adalet), **Uzluk** (İyilik/Faydalılık), **Tüzlük** (Eşitlik) ve **İnsanlık** (Kişilik). Göçebe yaşam nedeniyle hapis cezaları genellikle kısa süreliydi (10 günü geçmezdi); ancak vatana ihanet, ordudan kaçma, adam öldürme ve ırza tecavüz gibi suçların cezası doğrudan idamdı.\n\n### F. Dini İnanç ve Defin Kültürü\nEski Türklerin ana inancı **Gök Tengri** (Gök Tanrı) dinidir. Tanrı tek, soyut, yaratıcı ve her şeye kadirdir. Doğa güçlerine kutsallık atfedilen \"İduk Yer-Sub\" (Kutsal Yer ve Sular) inancı ile vefat eden ataların ruhunun aileyi koruduğuna inanılan \"Atalar Kültü\" yaygındı.\n* **Kurgan:** Türklerin ahşap ve taşlarla yer altına inşa ettikleri, içine ölülerini değerli eşyaları ve atlarıyla birlikte gömdükleri oda mezarlardır. Eşyalarla gömülme doğrudan **Ahiret inancının** (ölümden sonra yaşam) kesin kanıtıdır.\n* **Balbal:** Kurganların çevresine dikilen, kişinin hayattayken öldürdüğü düşman sayısı kadar yontulmuş insan biçimli taş heykellerdir. Ahirette bu düşmanların kahramana hizmet edeceğine inanılırdı.\n* **Yuğ:** Cenaze töreni. Bu törenlerde yakılan ağıtlara **Sagu** adı verilirdi.\n* **Uçmağ:** Cennet; **Tamu:** Cehennem.\n* **Kam / Baksı:** Din adamı, büyücü hekim. Şamanizm bir din değil, büyü ve transa dayalı bir ritüeller bütünüydü.\n\n---",
         "sentences": [
           {
@@ -2045,6 +2125,70 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Sıcak mevsimlerin yaylakta, soğuk mevsimlerin kışlakta geçirilmesine dayanan konar-göçer yaşam tarzı, bozkır kültürünün temelini oluşturur.\n\n💡 Hafıza İpucu: YAYLAK yazın, KIŞLAK kışın — bozkırın mevsim ritmi.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q023",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Eski Türk kültüründe evlenecek erkeğin veya ailesinin, kızın ailesine verdiği mal, hayvan ya da paraya ne ad verilir?",
+            "options": [
+              "A) Oğuş",
+              "B) Bodun",
+              "C) Urug",
+              "D) Yabgu",
+              "E) Kalın"
+            ],
+            "correctIndex": 4,
+            "explanation": "Eski Türk aile hukukunda evlilik sırasında erkek tarafının kız tarafına verdiği mal, hayvan veya paraya “kalın” denir. Oğuş (aile), urug (sülale), bodun (millet), yabgu ise batı kanadı yöneticisi unvanıdır (2026 Ağustos Mesleğe Kabul B Grubu, S. 23).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_GTT-002",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Asya Hun hükümdarı Mete Han'ın kurduğu ve günümüz modern ordularına da temel oluşturan, birlikleri on/yüz/bin/on binlik sistemlere ayıran askeri teşkilat hangisidir?",
+            "options": [
+              "A) Tımar sistemi",
+              "B) Thema sistemi",
+              "C) Onlu sistem",
+              "D) İkta sistemi",
+              "E) Devşirme sistemi"
+            ],
+            "correctIndex": 2,
+            "explanation": "MÖ 209'da Mete Han tahta çıktığında orduyu onluk, yüzlük, binlik ve tümen (on binlik) birliklere ayırmıştır. Bu tarih Türk Kara Kuvvetleri'nin de kuruluş yılı kabul edilir. (E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf, s.1)\n\n💡 Hafıza İpucu: METE HAN = ONLU SİSTEM (MÖ 209): Emir-komuta zincirinin bozkır omurgası.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_GTT-004",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Eski Türklerde devletin ve toplumun çekirdeğini oluşturan hiyerarşik yapı (küçükten büyüğe) aşağıdakilerin hangisinde doğru sıralanmıştır?",
+            "options": [
+              "A) Oğuş (Aile) - Uruk (Sülale) - Boy (Kabile) - Budun (Millet) - İl (Devlet)",
+              "B) Uruk - Oğuş - Boy - Budun - İl",
+              "C) Boy - Bodun - Oğuş - Uruk - İl",
+              "D) Oğuş - Boy - Uruk - Bodun - İl",
+              "E) İl - Budun - Boy - Uruk - Oğuş"
+            ],
+            "correctIndex": 0,
+            "explanation": "Toplumsal basamaklar: Oğuş (çekirdek aile), Uruk (aileler birliği/sülale), Boy/Bod (sülaleler birliği), Budun (millet) ve nihayet en üst teşkilat olan İl/El (devlet) şeklindedir. (GR-MKS-ESKI TURK TARIHI SORU_CEVAP CALISMASI.docx, s.1)\n\n💡 Hafıza İpucu: O-U-B-B-İ: Oğuş (Aile) -> Uruk (Sülale) -> Boy -> Budun (Millet) -> İl (Devlet).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_GTT-005",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Eski Türk devlet anlayışında hükümdara devleti yönetme yetkisinin Tanrı tarafından verildiğine inanılan ilahi güce ne ad verilir?",
+            "options": [
+              "A) Kurultay",
+              "B) Yabgu",
+              "C) Balbal",
+              "D) Kut",
+              "E) Töre"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kut; Gök Tengri'nin kağana ve onun hanedanına bahşettiği siyasi iktidar, meşruiyet ve yönetme hakkıdır. Kan yoluyla geçtiğine inanılır. (E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: KUT = İLAHİ YÖNETME YETKİSİ: Tengri'nin kağana bağışladığı siyasi güç.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -2054,7 +2198,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turktarihi",
         "order": 3,
         "title": "Türk-İslam Devletleri",
-        "officialQuestionCount": 82,
+        "officialQuestionCount": 86,
         "lectureContent": "## 3. Alt Başlık: İlk Müslüman Türk Devletleri\n\nTürklerin kitleler halinde İslamiyet'e geçişi dünya ve medeniyet tarihinin en büyük hadiselerinden biridir. Bu sürecin kırılma noktası 751 yılındaki **Talas Savaşı**dır (Atlah Muharebesi). Orta Asya'ya hakim olmak isteyen Çin İmparatorluğu ile Abbasi Devleti karşı karşıya gelmiş; Karluk Türkleri Abbasilerin safına geçerek Çin ordusunun hezimete uğramasını sağlamıştır. Bu savaşla Orta Asya Çinlileşmekten kurtulmuş, Türk-Arap dostluğu başlamış, kâğıt Semerkant'ta üretilerek Çin dışına yayılmış ve Türkler İslamiyet'i tanımaya başlamıştır. Gök Tengri inancındaki tek tanrı, kurban, ahiret ve ahlak anlayışının İslamiyet ile büyük benzerlik göstermesi Türklerin Müslümanlaşmasını son derece hızlandırmıştır.\n\n### A. Karahanlılar (Afrasiyaboğulları / İlig Hanlar) (840-1212)\nOrta Asya'da kurulan **ilk Müslüman Türk devleti**dir. Karluk, Yağma, Çiğil ve Tuhsi boylarının birleşmesiyle Bilge Kül Kadir Han tarafından kurulmuştur. Merkezi Balasagun'dur.\n* **Satuk Buğra Han** döneminde İslamiyet resmi din olarak kabul edilmiş; hükümdar \"Abdülkerim\" adını ve \"El-Mücahit / El-Gazi\" unvanlarını almıştır.\n* Karahanlılar halkı, ordusu, yöneticileri ve coğrafyası tamamen Türk olan milli bir devlettir. Resmi dilleri Türkçedir (Hakaniye Türkçesi). Uygur alfabesini kullanmışlardır.\n* Türk-İslam tarihindeki ilk kervansaraylar olan **Ribat**ları inşa etmişlerdir. Ribatlar başlangıçta sınır karakolu iken sonradan ticaret hanlarına dönüşmüştür.\n* İlk Türk-İslam medresesini (Semerkant Medresesi - Tamgaç Buğra Han) açmışlar; medresede ilk kez burslu öğrencilik sistemini uygulamışlardır.\n* **Gureba Hastanesi** adıyla ilk Türk-İslam bimarhanesini (hastanesini) kurmuşlardır.\n* İlk posta teşkilatını kurmuşlardır.\n\n**Karahanlılar Dönemi Türk-İslam Edebi Başyapıtları:**\n1. **Kutadgu Bilig (Mutluluk Veren Bilgi):** 1069 yılında **Yusuf Has Hacib** tarafından yazılmış ve Tamgaç Buğra Han'a sunulmuştur. Türk-İslam edebiyatının ilk yazılı edebi eseridir. İlk siyasetnâme örneğidir. Mesnevi nazım biçimiyle ve aruz ölçüsüyle yazılan ilk eserdir. Dört soyut kavram alegorik olarak kişileştirilmiştir:\n   * Küntogdı (Hükümdar) = Adalet ve Kanun.\n   * Aytoldı (Vezir) = Saadet, Kut ve Devlet.\n   * Ögdülmiş (Vezirin oğlu) = Akıl ve Anlayış.\n   * Odgurmış (Vezirin kardeşi/Derviş) = Akıbet, Kanaat ve Yaşamın Sonu.\n2. **Divânü Lugâti't-Türk (1072-1074):** **Kaşgarlı Mahmud** tarafından kaleme alınmış ve Bağdat'ta Abbasi Halifesi El-Muktedî Biemrillah'a sunulmuştur. İlk Türkçe sözlük, ilk Türk ansiklopedisi ve filoloji şaheseridir. Amacı Araplara Türkçeyi öğretmek ve Türkçe'nin Arapça kadar zengin, asil ve güçlü bir dil olduğunu kanıtlamaktır. İçinde Türk dünyasını gösteren ilk dünya haritası yer alır (Haritanın merkezinde Balasagun bulunur).\n3. **Atabetü'l-Hakâyık (Hakikatlerin Eşiği):** 12. yüzyılda **Edib Ahmed Yükneki** tarafından Dad Sipehsalar Mehmed Bey'e sunulan, ahlak, erdem, cömertlik ve bilginin değerini anlatan didaktik tasavvufi eserdir.\n4. **Dîvân-ı Hikmet:** İlk Türk mutasavvıfı **Hoca Ahmed Yesevî** tarafından yazılan, sade dörtlüklerle İslam ahlakını ve tasavvufu Türk boylarına aşılayan şiirler mecmuasıdır. Ahmed Yesevî, \"Pîr-i Türkistan\" olarak anılır ve Anadolu'nun Türkleşmesini sağlayan dervişlerin manevi hocasıdır.\n\n### B. Gazneliler (Yeminîler) (963-1186)\nAfganistan'ın Gazne şehrinde Alp Tigin tarafından kurulmuştur. Devlete asıl altın çağını yaşatan hükümdar **Gazneli Mahmud**'dur.\n* Gazneli Mahmud, Hindistan üzerine 17 büyük sefer düzenleyerek İslamiyet'in bugünkü Pakistan, Bangladeş ve Kuzey Hindistan topraklarına yayılmasını sağlamış ve Hindistan'daki katı Kast sistemine ölümcül darbe vurmuştur.\n* Şii Büveyhoğulları baskısı altındaki Abbasi halifesini kurtardığı için halife tarafından kendisine dünya tarihinde ilk kez **Sultan** unvanı verilmiştir.\n* Gazneli Mahmud, sarayında ağırladığı büyük İslam bilgini **El-Bîrûnî** için \"Sarayımın en değerli hazinesi\" ifadesini kullanmıştır.\n* Gazneliler çok uluslu, kozmopolit bir imparatorluktur (Afgan, Hint, Fars, Türk). Resmi dilleri Farsça, bilim dilleri Arapça, ordu dili Türkçe olmuştur; bu etnik çeşitlilik devletin merkezi yapısını kırılganlaştırmıştır.\n* Firdevsi ünlü eseri Şehnâme'yi Gazneli Mahmud'a sunmuştur.\n* Gazneliler, 1040 Dandanakan Savaşı'nda Selçuklulara yenilerek çöküş sürecine girmiş ve Afgan yerlileri Gurlar tarafından yıkılmıştır.\n\n### C. Mısır'da Kurulan Türk-İslam Devletleri (T-E-M-M)\nMısır'da bin yıllık Türk egemenliğini başlatan devletler zinciridir:\n1. **Tolunoğulları (868-905):** Mısır'da kurulan **ilk Türk-İslam devleti**dir. Abbasi Devleti'nde valilerin bağımsızlaşmasıyla (Tevaif-i Mülük) Tolunoğlu Ahmed tarafından kurulmuştur. Tolunoğlu Ahmed Mısır'da Nil taşkınlarını önlemiş, su kanalları açmış ve halkına refah getirmiştir. Kahire'de inşa ettirdiği **Tolunoğlu Camii**, minaresi helezonik rampalı Samarra üslubuyla Mısır'daki ilk Türk mimari anıtıdır. Mısır'da din ve ırk ayrımı yapmaksızın herkese bedava hizmet veren ve bizzat eczanesi bulunan ilk tam teşekküllü hastaneyi (**Maristan**) kurmuşlardır.\n2. **İhşîdîler (Akşitler) (935-969):** Mısır'da kurulan ikinci Türk devletidir. Muhammed bin Toğaç tarafından kurulmuştur. Abbasi halifesi kendisine ak yüzlü, temiz anlamına gelen \"İhşid\" unvanını vermiştir. En can alıcı özellikleri: **Kutsal topraklar olan Hicaz'a (Mekke ve Medine) egemen olan ilk Türk devletidir**.\n3. **Eyyûbîler (1171-1250):** Selahaddin Eyyûbî tarafından Fatımi devletine son verilerek kurulmuştur. 1187 **Hıttin Savaşı** ile Haçlı ordusunu imha ederek 88 yıllık Haçlı işgali altındaki Kudüs'ü kurtarmış ve İslam dünyasının bayraktarı olmuştur. Selahaddin Eyyûbî, \"Hadimü'l-Haremeyn\" (Mekke ve Medine'nin Hizmetkârı) unvanını kullanan ilk hükümdardır.\n4. **Memlûkler (Kölemenler / Ed-Devletü't-Türkiyye) (1250-1517):** Aybek tarafından kurulmuştur. Kendilerini resmi olarak \"Türkiye Devleti\" adıyla nitelemişlerdir. Tarihte **Moğolları yenen ilk ve tek devlet** olmuşlardır (1260 Ayn Câlût ve 1277 Elbistan Savaşları - Sultan Baybars). 1258'de Moğolların Bağdat'ı yıkması üzerine Abbasi halifesini Kahire'ye getirip himaye ederek halifeliğin koruyucusu olmuşlardır. Memlûklerde kut anlayışı ve babadan oğula geçen klasik veraset sistemi uygulanmamıştır; her başarılı emirin ve komutanın sultan olma hakkı vardır. Bu sebeple Memlûk tarihinde çok sık taht değişikliği yaşanmıştır. 1517'de Yavuz Sultan Selim'in Ridaniye Seferi ile yıkılmışlardır.\n\n---",
         "sentences": [
           {
@@ -2732,6 +2876,70 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Nizamiye Medreseleri vakıf kuruluşları olup öğrencilere barınma, beslenme ve burs imkânı sağlanmıştır; Şafii fıkhı okutulmuş, kurucusu Nizamülmülk'tür ve ilk örnekleri Irak-Horasan şehirlerindedir.\n\n💡 Hafıza İpucu: Nizamiye = vakıf + burs + Şafii fıkhı.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q027",
+            "subtopicId": "turktarihi_3",
+            "courseId": "turktarihi",
+            "questionText": "Türk dilinin, edebiyatının ve kültür tarihinin en önemli kaynaklarından biri olan ''Kutadgu Bilig''in yazarı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Edip Ahmet Yüknekî",
+              "B) Ahmet Yesevî",
+              "C) Kâşgarlı Mahmud",
+              "D) Yunus Emre",
+              "E) Yusuf Has Hacib"
+            ],
+            "correctIndex": 4,
+            "explanation": "Karahanlılar döneminde 1069-1070 yıllarında yazılan ve “Mutluluk Veren Bilgi” anlamına gelen Kutadgu Bilig, Yusuf Has Hacib tarafından kaleme alınıp Tabgaç Buğra Han’a sunulmuştur (2026 Ağustos Mesleğe Kabul B Grubu, S. 27).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_GTT-006",
+            "subtopicId": "turktarihi_3",
+            "courseId": "turktarihi",
+            "questionText": "Orta Asya'da kurulan ve İslamiyet'i topluca kabul eden ilk Müslüman Türk devleti aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Tolunoğulları",
+              "B) Gazneliler",
+              "C) Karahanlılar",
+              "D) Büyük Selçuklular",
+              "E) İhşidiler"
+            ],
+            "correctIndex": 2,
+            "explanation": "Satuk Buğra Han (Abdülkerim) döneminde 10. yüzyıl ortalarında İslam'ı devlet dini olarak resmen benimseyen ilk Türk devleti Karahanlılar'dır. (E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf, s.3)\n\n💡 Hafıza İpucu: KARAHANLILAR = İLK MÜSLÜMAN TÜRK DEVLETİ: Satuk Buğra Han ile İslam'a geçiş.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_GTT-009",
+            "subtopicId": "turktarihi_3",
+            "courseId": "turktarihi",
+            "questionText": "Yusuf Has Hâcib tarafından kaleme alınan, Karahanlı hükümdarı Tabgaç Buğra Han'a sunulan, mutluluk veren bilgi anlamına gelen ilk Türk-İslam siyasetnamesi hangisidir?",
+            "options": [
+              "A) Divânu Lugâti't-Türk",
+              "B) Atabetü'l-Hakayık",
+              "C) Kutadgu Bilig",
+              "D) Divân-ı Hikmet",
+              "E) Siyasetname"
+            ],
+            "correctIndex": 2,
+            "explanation": "1069-1070'te Balasagunlu Yusuf Has Hâcib'in yazdığı Kutadgu Bilig; adalet, iktidar, akıl ve akıbeti simgeleyen alegorik karakterlerle ideal devlet yönetimini anlatır. (E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf, s.5)\n\n💡 Hafıza İpucu: KUTADGU BİLİG = MUTLULUK BİLGİSİ / İLK SİYASETNAME: Yusuf Has Hâcib.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_GTT-010",
+            "subtopicId": "turktarihi_3",
+            "courseId": "turktarihi",
+            "questionText": "Kaşgarlı Mahmud'un Araplara Türkçeyi öğretmek ve Türkçenin Farsça/Arapça kadar zengin olduğunu göstermek için kaleme aldığı, ilk Türk dünyası haritasını da içeren abidevi sözlük hangisidir?",
+            "options": [
+              "A) Divânu Lugâti't-Türk",
+              "B) Muhâkemetü'l-Lugateyn",
+              "C) Kutadgu Bilig",
+              "D) Codex Cumanicus",
+              "E) Şecere-i Terakime"
+            ],
+            "correctIndex": 0,
+            "explanation": "1072-1074'te Bağdat'ta Abbasi Halifesine sunulan Divânu Lugâti't-Türk, Türkçe sözlük olmanın ötesinde boylar, folklor, atasözleri ve coğrafyayı kapsayan ilk ansiklopedik eserdir. (MKS_Turk_Tarihi_Kulturu M.ALI 2026 AGUSTOS.pdf, s.6)\n\n💡 Hafıza İpucu: DİVÂNU LUGÂTİ'T-TÜRK = İLK SÖZLÜK & İLK HARİTA: Kaşgarlı Mahmud.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -2741,7 +2949,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turktarihi",
         "order": 4,
         "title": "Anadolu Selçukluları ve Beylikler",
-        "officialQuestionCount": 84,
+        "officialQuestionCount": 86,
         "lectureContent": "## 4. Alt Başlık: Büyük Selçuklu Devleti, Anadolu Selçukluları ve Beylikler\n\n### A. Büyük Selçuklu Devleti (1040-1157)\nOğuzların Üçok kolunun Kınık boyuna mensupturlar. Devletin temelleri Selçuk Bey tarafından Cend şehrinde atılmış; Selçuk Bey'in torunları Tuğrul ve Çağrı Beyler döneminde bağımsız bir dünya devleti haline gelmiştir.\n\n* **1040 Dandanakan Savaşı:** Gaznelileri kesin bir mağlubiyete uğratarak Büyük Selçuklu Devleti'nin resmen kurulmasını sağlamıştır. Tuğrul Bey siyasi lider, Çağrı Bey ise askeri deha olarak devleti çifte yönetimle şahlandırmıştır.\n* **1048 Pasinler Savaşı:** Selçuklular ile Bizans-Gürcü ittifakı arasında yapılan **ilk resmi meydan savaşı**dır. Bizans mağlup edilmiş ve Anadolu'nun kapıları Türk keşif akınlarına açılmıştır.\n* **1055 Bağdat Seferi:** Tuğrul Bey, Bağdat'a girerek Şii Büveyhoğulları tehlikesine son vermiş ve Abbasi halifesini esaretten kurtarmıştır. Halife Kaim Biemrillah, Tuğrul Bey'e iki altın kılıç kuşatarak **\"Doğunun ve Batının Sultanı\"** (Ruknüddin) unvanını vermiştir. Bu olayla İslam dünyasında siyasi liderlik resmen Türklere geçmiş, halife sadece dini bir makam olarak kalmıştır.\n* **Sultan Alparslan Dönemi:**\n  * Hristiyan dünyasının zaptedilemez kabul ettiği Kars Ani Kalesi'ni fethetmiştir. Bu muazzam fethin üzerine halife Alparslan'a **\"Ebü'l-Feth\"** (Fetihlerin Babası) unvanını tevcih etmiştir.\n  * **26 Ağustos 1071 Malazgirt Meydan Muharebesi:** Türk tarihinin en parlak zaferidir. Bizans İmparatoru Romen Diyojen mağlup edilmiş ve esir alınmıştır. Bu zaferle **\"Anadolu'nun kapıları Türklere kesin olarak açılmış\"**, Anadolu'da ilk Türk beylikleri kurulmaya başlamış, Bizans'ın Avrupa'dan yardım istemesiyle Haçlı Seferleri başlamıştır.\n  * Alparslan komutanlarına **\"Toprak fethedenin malıdır\"** (Kılıç Hakkı) emrini vererek Anadolu'nun fethini olağanüstü hızlandırmıştır.\n* **Sultan Melikşah ve Nizâmülmülk Çağı:** Büyük Selçukluların en parlak dönemidir. Sınırlar Seyhun ırmağından Akdeniz'e kadar uzanmıştır. Başkent İsfahan'a taşınmıştır. Melikşah adına astronomi bilgini Ömer Hayyam başkanlığındaki heyete Güneş yılı esaslı **Celâlî Takvimi** hazırlatılmıştır.\n* **Nizâmiye Medreseleri:** Vezir Nizâmülmülk tarafından Bağdat, Nişabur ve İsfahan'da kurulan dünyanın ilk üniversite niteliğindeki kurumlarıdır. Amacı; devlet kadrolarına yetenekli bürokratlar yetiştirmek, Sünni inancı güçlendirmek ve dönemin en büyük terör örgütü olan Hasan Sabbah'ın Bâtınîlik (Haşhaşîlik) propagandasına karşı ilmi sahada mücadele etmektir. Medresenin rektörlüğüne İmam Gazâlî getirilmiştir. Nizâmülmülk, devlet yönetimi ilkelerini ünlü eseri **Siyasetnâme**'de toplamıştır.\n* **Yıkılış:** Hasan Sabbah'ın fedaileri Nizâmülmülk ve Melikşah'a suikast düzenlemiş, ardından taht kavgaları ve 1141 Katvan Savaşı'nda gayrimüslim Karahitaylara yenilinmesi devleti zayıflatmıştır. Son büyük hükümdar Sultan Sencer'in Oğuz isyanında esir düşmesiyle devlet 1157'de yıkılmıştır.\n\n### B. Malazgirt Sonrası Anadolu'da Kurulan I. Dönem Türk Beylikleri (D-S-M-A-Ç)\n1. **Danişmentliler:** Sivas, Tokat, Niksar, Amasya ve Malatya çevresinde Danişmend Gazi tarafından kurulmuştur. I. Dönem beylikleri arasında **en güçlü ve teşkilatlı** olanıdır; Anadolu Selçuklularını en çok uğraştıran beyliktir. Tokat Niksar'da kurdukları **Yağıbasan Medresesi**, Anadolu'da inşa edilen **ilk Türk medresesidir**.\n2. **Saltuklular:** Erzurum ve çevresinde Ebulkasım Saltuk tarafından kurulan **Anadolu'daki ilk Türk beyliğidir**. Erzurum Kale Camii, Tepsi Minare, Ulu Cami ve Üç Kümbetler Saltukluların anıtsal eserleridir.\n3. **Mengücekliler:** Erzincan, Kemah, Divriği ve Şebinkarahisar çevresinde Mengücek Gazi tarafından kurulmuştur. Taş işçiliğinin dünyadaki zirvesi kabul edilen ve UNESCO Dünya Miras Listesi'ne Türkiye'den giren ilk mimari eser olan **Divriği Ulu Camii ve Darüşşifası** (Gözlüklü/Kuşlu portal) Mengücekli şaheseridir. Mimarı Ahlatlı Hürremşah'tır. Ünlü tıp bilgini Muvaffakuddin Abdüllatif bu beylikte hizmet vermiştir.\n4. **Artuklular:** Hasankeyf, Harput ve Mardin olmak üzere üç kol halinde kurulmuştur. Anadolu'daki en zengin taş mimarisini vermişlerdir. Dünyanın en geniş açıklıklı taş kemerli köprülerinden olan **Malabadi Köprüsü** (Diyarbakır Silvan) Artuklu eseridir. Mardin Hatuniye, Zinciriye medreseleri Artuklulara aittir. Otomasyon ve sibernetik biliminin kurucusu kabul edilen büyük dahi **El-Cezerî** (Kitab-ül Hiyel), Artuklu sarayında mühendislik icatlarını yapmıştır.\n5. **Çaka Beyliği:** İzmir ve çevresinde kurulan **ilk Türk denizci beyliğidir**. Çaka Bey ilk Türk amiralidir. 1081 yılında ilk Türk donanmasını inşa ederek denize indirdiği yıl, bugün Türk Deniz Kuvvetleri'nin resmi kuruluş yıldönümü olarak kutlanmaktadır.\n\n### C. Anadolu Selçuklu Devleti (Türkiye Selçukluları) (1077-1308)\nKutalmışoğlu Süleyman Şah tarafından İznik merkezli kurulmuştur. I. Haçlı Seferi'nde İznik kaybedilince I. Kılıçarslan başkenti **Konya**'ya taşımıştır.\n\n* **1176 Miryokefalon Zaferi:** II. Kılıçarslan döneminde Denizli Çivril/Kumdanlı yakınlarında Bizans İmparatoru Manuel Komnenos mağlup edilmiştir. Bu zaferle Bizans'ın Türkleri Anadolu'dan atma ümidi tamamen tükenmiş, Anadolu kesin olarak **Türk yurdu** haline gelmiştir. Avrupalı tarihçiler ve seyyahlar bu zaferden sonra Anadolu için ilk kez \"Turchia\" (Türkiye) adını kullanmışlardır.\n* **Ticaret ve Denizcilik Politikası:** Anadolu Selçukluları tam anlamıyla bir ticaret devleti vizyonu taşımıştır.\n  * Sultan I. Gıyaseddin Keyhüsrev Samsun ve **Antalya**'yı fethederek Akdeniz'e inmiştir. Venediklilerle ilk ticaret antlaşmasını imzalamıştır.\n  * Sultan I. İzzeddin Keykavus **Sinop**'u fethederek Karadeniz ticaret üssü yapmış ve ilk Selçuklu tersanesini kurmuştur.\n  * Sultan I. Alaeddin Keykubad devlete en parlak altın çağını yaşatmıştır. Alaiye'yi (**Alanya**) fethederek anıtsal Kızılkule'yi ve beş gözlü Alanya Tersanesi'ni inşa ettirmiştir. Kırım'daki **Suğdak Limanı**'na deniz aşırı sefer düzenleyerek İpek Yolu'nun kuzey ayağını kontrol altına almıştır.\n  * Yabancı tüccarların malları zarar gördüğünde devlet hazinesinden karşılanan dünyadaki **ilk devlet sigortacılığı** sistemini başlatmışlardır. Kervansaraylarda (Sultan Hanları) tüccarlara üç gün boyunca bedava yemek, konaklama, hekim ve nalbant hizmeti sunulmuştur.\n* **1230 Yassıçemen Savaşı:** Alaeddin Keykubad, Celâleddin Hârezmşah'ı mağlup ederek Hârezmşahlar Devleti'ni yıkmıştır. Ancak bu zafer, Selçuklu ile Moğollar arasındaki doğal tampon bölgeyi ortadan kaldırmış ve Moğol istilasına zemin hazırlamıştır.\n* **1240 Baba İshak (Babâî) İsyanı:** II. Gıyaseddin Keyhüsrev döneminde Adıyaman ve Güneydoğu'da çıkan, Türkmenlerin ekonomik ve sosyal hoşnutsuzluğuna dayanan Anadolu tarihindeki ilk büyük dini-sosyal isyandır. Selçuklu bu isyanı bastırmakta çok zorlanmış ve askeri zaafı ortaya çıkmıştır.\n* **1243 Kösedağ Savaşı:** Selçuklu ordusunun Baycu Noyan komutasındaki Moğol (İlhanlı) ordusuna Sivas Kösedağ'da hezimete uğramasıyla Anadolu Selçuklu Devleti İlhanlılara bağlı bir kukla devlet haline gelmiş, bağımsızlığını kaybetmiş ve Anadolu'da **II. Dönem Türk Beylikleri** kurularak siyasi birlik parçalanmıştır.\n\n### D. Kösedağ Sonrası II. Dönem Türk Beylikleri\n* **Karamanoğulları:** Konya ve Karaman çevresinde kurulmuştur. Kendilerini Anadolu Selçuklu'nun meşru mirasçısı saymışlar ve Osmanlı'yı en çok uğraştıran beylik olmuşlardır. 1277 yılında **Karamanoğlu Mehmet Bey**, \"Bugünden sonra divanda, dergâhta, bârgâhta, mecliste ve meydanda Türkçeden başka dil kullanılmaya\" fermanını yayınlayarak Türkçeyi ilk kez resmi devlet dili ilan etmiştir.\n* **Karesioğulları:** Balıkesir ve Çanakkale çevresinde kurulan denizci beyliktir. **Osmanlı Devleti'ne katılan ilk beyliktir** (Orhan Bey dönemi). Osmanlı bu ilhakla ilk donanmasına kavuşmuş ve Rumeli'ye geçiş kolaylaşmıştır.\n* **Candaroğulları (İsfendiyaroğulları):** Kastamonu ve Sinop'ta kurulan Karadeniz denizci beyliğidir.\n* **Dulkadiroğulları:** Maraş ve Elbistan çevresinde kurulmuştur. 1515 Turnadağ Savaşı ile Yavuz Sultan Selim tarafından Osmanlı'ya katılarak **Anadolu Türk siyasi birliğini kesin olarak sağlayan son beylik** olmuştur.\n* **Ramazanoğulları:** Adana ve Çukurova çevresinde kurulmuş, Osmanlı'ya kendi rızasıyla bağlanan beyliktir.\n* **Germiyanoğulları:** Kütahya merkezlidir. Topraklarının bir kısmını çeyiz, geri kalanını ise vasiyet yoluyla II. Murad döneminde Osmanlı'ya bırakmıştır.\n* **Hamitoğulları:** Isparta ve Eğirdir çevresindedir. Topraklarının bir kısmını I. Murad döneminde 80 bin altın karşılığında Osmanlı'ya satmıştır.\n* **Menteşeoğulları:** Muğla çevresinde kurulan denizci beyliktir.\n* **Aydınoğulları:** Aydın ve İzmir merkezlidir. Ünlü denizci Umur Bey döneminde Ege'de Haçlı donanmalarına kök söktürmüşlerdir.\n* **Saruhanoğulları:** Manisa çevresinde kurulmuş denizci beyliktir.\n* **Eretna Devleti ve Kadı Burhaneddin Devleti:** Sivas ve Kayseri çevresinde Uygur kökenli Eretna Bey tarafından kurulmuştur.\n\n### E. Ahilik Teşkilatı\n13. yüzyılda Horasan erenlerinden **Ahi Evran** tarafından Kırşehir'de temelleri atılan esnaf, zanaatkâr ve ahlak teşkilatıdır. Fütüvvet ruhuna dayanır. Ahi Evran'ın eşi Fatma Bacı ise dünyanın ilk kadın örgütlenmesi kabul edilen **Bâcıyân-ı Rûm** (Anadolu Kadınları) teşkilatını kurarak kadınları halıcılık, dokumacılık ve ahlaki eğitimde teşkilatlandırmıştır.\n* Ahilikte mesleki hiyerarşi: **Yamak → Çırak → Kalfa → Usta**. Ustalık belgesi alıp dükkân açma hakkına **Gedik** hakkı denir.\n* Üretilen malların fiyatını ve tavan ücretini belirleme sistemine **Narh** koyma denir.\n* Kalitesiz mal üreten esnafın ayakkabısı dama atılarak meslekten men edilirdi (\"Pabucu dama atılmak\" deyimi buradan gelir).\n* Esnaf arasındaki dayanışma sandığına **Teavün Sandığı** denirdi.\n\n---",
         "sentences": [
           {
@@ -3540,6 +3748,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Ahilik, esaslarını Halife Nasır Li-Dinillah'ın genişlettiği fütüvvet teşkilatından almıştır; ahiler arasında hiyerarşik bir yapı (yamak-çırak-kalfa-usta) ve ahlak eğitimi bulunurdu.\n\n💡 Hafıza İpucu: Fütüvvet halifeden geldi, Ahilik Anadolu'da olgunlaştı.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q025",
+            "subtopicId": "turktarihi_4",
+            "courseId": "turktarihi",
+            "questionText": "Aşağıdaki devletlerden/beyliklerden hangisi Anadolu’da kurulmuştur?",
+            "options": [
+              "A) Harzemşahlar",
+              "B) Danişmendliler",
+              "C) Karahanlılar",
+              "D) Karluklar",
+              "E) Gazneliler"
+            ],
+            "correctIndex": 1,
+            "explanation": "Danişmendliler, 1071 Malazgirt Zaferi sonrasında Sivas, Tokat, Niksar, Amasya ve Kayseri çevresinde kurulan I. Dönem Anadolu Türk Beyliklerindendir (2026 Ağustos Mesleğe Kabul B Grubu, S. 25).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_GTT-007",
+            "subtopicId": "turktarihi_4",
+            "courseId": "turktarihi",
+            "questionText": "1176 yılında II. Kılıç Arslan'ın Bizans İmparatoru Manuel Komnenos'u mağlup ederek Anadolu'nun kesin bir Türk yurdu olduğunu tescilleyen dönüm noktası savaş hangisidir?",
+            "options": [
+              "A) Malazgirt Savaşı",
+              "B) Pasinler Savaşı",
+              "C) Miryokefalon Savaşı",
+              "D) Kösedağ Savaşı",
+              "E) Yassıçemen Savaşı"
+            ],
+            "correctIndex": 2,
+            "explanation": "1071 Malazgirt Anadolu'nun kapılarını açmış; 1176 Miryokefalon Zaferi ise Bizans'ın Türkleri Anadolu'dan atma ümidini tamamen yok ederek tapuyu Türk milletine tescillemiştir. (E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf, s.4)\n\n💡 Hafıza İpucu: MALAZGİRT = KAPIYI AÇTI; MİRYOKEFALON = TAPUYU ALDI (1176).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -3549,7 +3789,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turktarihi",
         "order": 5,
         "title": "Osmanlı Tarihi",
-        "officialQuestionCount": 84,
+        "officialQuestionCount": 87,
         "lectureContent": "## 5. Alt Başlık: Osmanlı Devleti Tarihi ve Medeniyeti\n\nOsmanlı Devleti, 1299 yılında Söğüt ve Domaniç'te Oğuzların Bozok kolunun Kayı boyuna mensup Osman Bey tarafından kurulmuş, altı asır boyunca üç kıtada hüküm sürmüş bir cihan devletidir.\n\n### A. Kuruluş Dönemi Siyasi ve Askeri Gelişmeleri\n* **Osman Bey:** İlk Osmanlı bakır parasını (mangır) bastırmıştır. İlk kadı tayinini (Dursun Fakih) yapmış, ilk vergi olan pazar vergisini (Bâc-ı Bâzâr) koymuştur. 1302 **Koyunhisar (Bafeus) Savaşı** ile Bizans tekfurlarını mağlup etmiş; ünlü tarihçi Halil İnalcık bu savaşı devletin gerçek kuruluş anı saymıştır. Şeyh Edebali'nin kızı Bala Hatun ile evlenerek Ahi desteğini arkasına almıştır.\n* **Orhan Bey:** \"Beylikten devlete geçiş\" mimarıdır. Bursa'yı fethedip başkent yapmıştır. 1329 Maltepe (Pelekanon) Savaşı ile Bizans'ın Anadolu ile kara bağını kesmiştir. Karesioğulları Beyliği'ni alarak ilk Osmanlı donanmasını kurmuştur. Bizans İmparatoru Kantakuzen'e yardım karşılığı Gelibolu'daki **Çimpe Kalesi**'ni alarak **Rumeli'ye ilk kez ayak basmıştır**. İlk gümüş parayı (akçe) bastırmış, İznik'te ilk medreseyi (Süleyman Paşa Medresesi) açmış ve ilk müderris olarak Davud-ı Kayserî'yi atamıştır. İlk düzenli orduyu (**Yaya ve Müsellem**) kurmuş, ilk Divan-ı Hümayun'u ve ilk vezirlik makamını oluşturmuştur.\n* **I. Murad (Hüdavendigâr):** Sancaktan gelerek tahta çıkan ilk padişahtır. Edirne'yi fethederek (Sazlıdere Savaşı) başkent yapmıştır. 1364 **Sırpsındığı Savaşı** ile Haçlılara karşı ilk zafer kazanılmıştır. 1389 **I. Kosova Savaşı** ile Haçlılar büyük bir hezimete uğratılmış, savaş meydanında ilk kez top kullanılmış; ancak I. Murad savaş meydanını gezerken Sırp Milloş Obiliç tarafından şehit edilmiştir (Savaşta şehit düşen tek Osmanlı padişahıdır). İlk kez \"Rumeli Beylerbeyliği\"ni (Manastır merkezli - Lala Şahin Paşa) kurmuştur. Pençik sistemini ve Yeniçeri Ocağı'nı kurmuştur. Verasette \"Ülke hanedanın ortak malıdır\" anlayışını değiştirip \"Ülke padişah ve oğullarınındır\" kuralını getirerek merkezi otoriteyi güçlendirmiştir.\n* **I. Bayezid (Yıldırım):** Anadolu Türk siyasi birliğini geniş ölçüde sağlayan ilk padişahtır. İstanbul'u dört kez kuşatmış, kuşatma için Anadolu Hisarı'nı (Güzelcehisar) yaptırmıştır. 1396 **Niğbolu Savaşı**'nda Haçlı ordusunu yok etmiş; bu zafer üzerine Kahire'deki Abbasi halifesi kendisine **\"Sultan-ı İklim-i Rûm\"** (Anadolu Diyarının Sultanı) unvanını vermiştir. Kütahya merkezli \"Anadolu Beylerbeyliği\"ni kurmuştur. 1402 **Ankara Savaşı**'nda Timur'a yenilip esir düşmesiyle devlet 11 yıl sürecek olan taht kavgaları dönemine (**Fetret Devri: 1402-1413**) girmiştir.\n* **I. Mehmed (Çelebi):** Kardeşleri İsa, Musa ve Süleyman'ı yenerek devleti dağılmaktan kurtardığı için **Osmanlı'nın ikinci kurucusu** sayılır. Venediklilerle ilk deniz savaşını (Çalı Bey Savaşı) yapmıştır. İlk dini-sosyal isyan olan Şeyh Bedreddin İsyanı bu dönemde bastırılmıştır.\n* **II. Murad (Koca Murad):** Tahtı kendi isteğiyle 12 yaşındaki oğlu II. Mehmed'e bırakan tek padişahtır. Haçlıların barışı bozması üzerine tekrar tahta geçmiş; 1444 Varna ve 1448 **II. Kosova Savaşı** ile Haçlıları imha etmiştir. II. Kosova Savaşı ile Avrupalıların Türkleri Balkanlardan atma ümidi tamamen sona ermiş ve Balkanlar kesin Türk yurdu olmuştur (Miryokefalon'un Balkanlar kopyasıdır).\n\n### B. Yükselme Dönemi ve Cihan İmparatorluğu\n* **II. Mehmed (Fatih Sultan Mehmed):**\n  * **29 Mayıs 1453 İstanbul'un Fethi:** Bizans yıkılmış, Orta Çağ kapanıp Yeni Çağ başlamıştır. İpek Yolu Osmanlı kontrolüne geçmiştir. Fatih \"Kayser-i Rûm\" unvanını almıştır. Kuşatma için Rumeli Hisarı'nı (Boğazkesen) yaptırmış, Şahi toplarını döktürmüştür.\n  * Amasra, Sinop, Trabzon Rum İmparatorluğu (1461) ve Kırım (1475 - Gedik Ahmed Paşa) fethedilerek **Karadeniz bir Türk gölü** haline getirilmiştir.\n  * 1473 Otlukbeli Savaşı ile Akkoyunlu hükümdarı Uzun Hasan mağlup edilmiştir.\n  * **Kanunnâme-i Âl-i Osman:** İlk kez örfi hukuku yazılı hale getirmiştir. Devletin bekası için kardeş katline cevaz vermiş, müsadere usulünü (haksız kazanç sağlayan memurun malına el koyma) yasallaştırmış ve Sahn-ı Seman medreselerini açmıştır. Sadrazamların Divan başkanlığına geçmesini sağlayarak padişahın mutlak otoritesini zirveye taşımıştır. Topkapı Sarayı'nı inşa ettirmiştir. İlk altın parayı (Sultani) bastırmıştır.\n* **II. Bayezid:** Kardeşi Cem Sultan'ın Memlûklere ve Rodos Şövalyeleri kanalıyla Papalığa sığınması yüzünden Cem Sultan Olayı bir iç meseleyken uluslararası bir krize dönüşmüştür. Bu sebeple fetihler yavaşlamış ve döneme \"Yükselme içinde duraklama\" denmiştir. İspanya'da Engizisyon zulmü gören Yahudi ve Müslümanlar gemilerle kurtarılarak Selanik ve İstanbul'a yerleştirilmiştir. Şahkulu Baba Tekeli İsyanı bastırılmıştır.\n* **I. Selim (Yavuz Sultan Selim):** 8 yıllık saltanatına 80 yıllık iş sığdıran padişahtır. Hazineyi ağzına kadar altınla doldurarak mühürletmiştir. Bütün seferlerini doğuya yapmıştır:\n  * 1514 Çaldıran Savaşı: Safevi hükümdarı Şah İsmail mağlup edilerek Şii tehlikesi önlenmiştir.\n  * 1515 Turnadağ Savaşı: Dulkadiroğulları yıkılarak Anadolu Türk birliği kesin olarak sağlanmıştır.\n  * 1516 Mercidabık ve 1517 **Ridaniye Savaşları**: Memlûk Devleti tamamen yıkılmıştır. Suriye, Filistin, Lübnan ve **Mısır** fethedilmiştir. Baharat Yolu Osmanlı denetimine girmiştir. Kutsal Emanetler Topkapı Sarayı'na getirilmiş ve **Halifelik Osmanlı Hanedanı'na geçmiştir**. Yavuz, ilk Osmanlı halifesidir ve \"Hadimü'l-Haremeyn\" unvanını gururla taşımıştır.\n* **I. Süleyman (Kanuni Sultan Süleyman):** 46 yıl ile tahtta en uzun kalan padişahtır. Batıda \"Muhteşem Süleyman\" (Grand Turc), doğuda ise adaletiyle \"Kanuni\" olarak anılmıştır. Belgrad ve Rodos'u fethetmiştir. 1526 **Mohaç Meydan Muharebesi**'nde Macar ordusunu 2 saatte yok ederek tarihin en kısa süreli meydan zaferini kazanmıştır. 1533 İstanbul (İbrahim Paşa) Antlaşması ile Avusturya arşidükü protokolde Osmanlı sadrazamına eşit sayılmış ve Osmanlı Orta Avrupa'da mutlak diplomatik üstünlük kurmuştur. 1538 **Preveze Deniz Zaferi** ile Barbaros Hayreddin Paşa Haçlı donanmasını imha etmiş ve **Akdeniz bir Türk gölü** haline gelmiştir. Son seferini Zigetvar'a düzenlemiştir.\n* **Sokollu Mehmed Paşa Dönemi:** Kanuni, II. Selim ve III. Murad dönemlerinde sadrazamlık yapmıştır. Kıbrıs fethedilmiş (1571), bunun üzerine Haçlılar İnebahtı'da Osmanlı donanmasını yakmıştır. Sokollu'nun tarihi projeleri:\n  * **Don-Volga Kanal Projesi:** Hazar Denizi ile Karadeniz'i birleştirerek Rusya'nın güneye inmesini engellemek, Orta Asya Türkleri ile doğrudan irtibat kurmak ve İran'ı arkadan kuşatmak hedeflenmiş ancak Mimar Sinan'ın ölümü ve Kırım hanlarının isteksizliğiyle tamamlanamamıştır.\n  * **Süveyş Kanal Projesi:** Akdeniz ile Kızıldeniz'i birleştirerek Baharat Yolu'nu canlandırmak ve Portekiz'in Hint Okyanusu'ndaki baskısını kırmak amaçlanmıştır.\n\n### C. Osmanlı Devlet Teşkilatı, Divan ve Toplum Düzeni\nOsmanlı'da devlet anlayışı \"İlây-ı Kelimetullah\" (Allah'ın adını yüceltme) ve cihanşümul adalet fikrine dayanır.\n* **Merkez Teşkilatı ve Divan-ı Hümayun:** Orhan Bey zamanında kurulan, Fatih'ten itibaren sadrazamın başkanlık ettiği en yüksek karar ve temyiz organıdır. Üyeleri üç büyük sınıfa ayrılır:\n  1. **Seyfiye (Kılıç Ehli - Yönetim ve Askeri Bürokrasi):** Sadrazam (Vezir-i Âzam), Vezirler, Kaptan-ı Derya (Deniz kuvvetleri komutanı), Yeniçeri Ağası.\n  2. **İlmiye (İlim ve Adalet Sınıfı - Din, Hukuk, Eğitim):** Şeyhülislam (Müftü - fetva makamı), Kazasker (Askeri hâkim; kadı ve müderrislerin atamasını yapar, Divan'daki davalara bakar; Rumeli ve Anadolu Kazaskeri olarak ikidir). Bu sınıfa mensup olabilmek için mutlaka medrese çıkışlı ve Müslüman doğumlu olmak şarttır (Devşirmeler bu sınıfa giremez).\n  3. **Kalemiye (Yazışma ve Maliye Sınıfı):** Defterdar (Maliye bakanı; bütçeyi hazırlar), Nişancı (Padişahın tuğrasını çeker, fethedilen toprakları tahrir defterlerine kaydeder, örfi hukuku bilir), Reisülküttab (Başlangıçta Nişancıya bağlı kâtip iken 17. yüzyılda Dışişleri Bakanı haline gelmiştir).\n* **Taşra Teşkilatı:** Eyalet → Sancak → Kaza → Köy hiyerarşisi uygulanırdı. Eyaletler üçe ayrılırdı:\n  * **Salyaneli (Yıllıklı) Eyaletler:** Merkeze uzak olan eyaletlerdir (Mısır, Trablusgarp, Tunus, Cezayir, Yemen). Burada tımar uygulanmaz; vergiler **İltizam** sistemiyle mültezimler aracılığıyla peşin toplanır ve hazineye aktarılırdı.\n  * **Salyanesiz (Yıllıksız) Eyaletler:** Merkeze yakın eyaletlerdir (Rumeli, Anadolu, Şam, Sivas). Burada doğrudan **Tımar (Dirlik)** sistemi uygulanırdı.\n  * **İmtiyazlı Eyaletler:** İç işlerinde serbest olan hanlık ve beyliklerdir (Kırım, Eflak, Boğdan, Erdel, Hicaz). Hicaz hiçbir vergi vermez ve asker göndermezdi; Kırım ise asker gönderir ancak vergi vermezdi.\n* **Toprak Sistemi:**\n  * **Mülk Arazi:** Şahıslara ait arazidir (Öşriye: Müslümanlara ait; Haraciye: Gayrimüslimlere ait).\n  * **Miri Arazi:** Mülkiyeti devlete ait olan arazidir. En büyük kolu **Dirlik** arazidir:\n    * *Has:* Geliri 100 bin akçeden fazla olan, padişah ve hanedan üyelerine ayrılan topraklar.\n    * *Zeamet:* Geliri 20 bin ile 100 bin akçe arasında olan, orta kademe subay ve memurlara verilen topraklar.\n    * *Tımar:* Geliri 3 bin ile 20 bin akçe arasında olan, sipahilere ve askerlere verilen topraktır. Tımar sahibi topladığı verginin ilk 3 bin akçesine (kılıç hakkı) geçinir; arta kalan her 3 bin veya 5 bin akçe için devlete savaşa hazır atlı asker yetiştirirdi. Bu askere **Cebelü** denirdi. Tımar sistemi sayesinde devlet hazinesinden tek kuruş çıkmadan yüz binlerce kişilik muazzam bir eyalet ordusu hazır tutulur, üretimde süreklilik sağlanır ve kırsal bölgenin asayişi bedavaya temin edilirdi. Toprağını mazeretsiz üç yıl üst üste ekmeyen köylüden **Çiftbozan** vergisi alınır, gerekirse toprak elinden alınırdı.\n  * *Vakıf Arazi:* Geliri cami, medrese, hastane ve köprü gibi kamu hizmetlerine harcanan, satılamayan ve devredilemeyen topraklardır.\n* **Ordu Teşkilatı:**\n  * **Kapıkulu Askerleri (Merkez Ordusu):** I. Murad döneminde temelleri atılmıştır. Hristiyan çocukların alınıp eğitildiği **Devşirme Sistemi**ne dayanır. Üç ayda bir **Ulufe** maaşı alırlar; taht değişikliklerinde **Cülus Bahşişi** alırlardı. Piyadeler (Yeniçeriler, Acemi Ocağı, Cebeciler, Topçular, Top Arabacıları, Humbaracılar, Lağımcılar) ve Süvariler (Sipah, Silahtar, Sağ ve Sol Ulufeciler, Sağ ve Sol Garipler) olmak üzere ikiye ayrılırdı.\n  * **Eyalet Askerleri:** Ordunun belkemiğidir. Tımarlı Sipahiler, Akıncılar (öncü keşif süvarileri), Deliler (korkusuz sınır hücumcuları), Azaplar (bekâr Türk gençleri) ve Yörüklerden oluşurdu.\n\n---",
         "sentences": [
           {
@@ -4734,6 +4974,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "1876'da Kanun-ı Esasi'nin ilan edilmesiyle I. Meşrutiyet dönemi başlamış; bu ilk Osmanlı anayasasının hazırlanmasında Midhat Paşa etkili olmuştur.\n\n💡 Hafıza İpucu: 1876: KANUN-I ESASİ ile I. MEŞRUTİYET başladı — ilk Osmanlı anayasası.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q030",
+            "subtopicId": "turktarihi_5",
+            "courseId": "turktarihi",
+            "questionText": "Günümüzde Türk ve İslam Eserleri Müzesi'nin bulunduğu yapıyı saray olarak kullanan Osmanlı devlet adamı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Çandarlı Ali Paşa",
+              "B) Lala Şahin Paşa",
+              "C) Gedik Ahmed Paşa",
+              "D) Timurtaş Paşa",
+              "E) Sadrazam İbrahim Paşa"
+            ],
+            "correctIndex": 4,
+            "explanation": "Sultanahmet Meydanı’nda yer alan ve günümüzde Türk ve İslam Eserleri Müzesi’ne ev sahipliği yapan yapı, Kanuni Sultan Süleyman’ın sadrazamı Makbul/Maktul İbrahim Paşa’nın sarayıdır (İbrahim Paşa Sarayı) (2026 Ağustos Mesleğe Kabul B Grubu, S. 30).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q032",
+            "subtopicId": "turktarihi_5",
+            "courseId": "turktarihi",
+            "questionText": "Osmanlı döneminde hükümdarın ya da baş vezirin başkanlık ettiği ve imparatorluğun yönetimine ilişkin kararların alındığı kurul aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Divan-ı Matbah",
+              "B) Divan-ı Cedid",
+              "C) Divan-ı Nizam",
+              "D) Divan-ı Hümayun",
+              "E) Divan-ı Berid"
+            ],
+            "correctIndex": 3,
+            "explanation": "Orhan Bey döneminde temelleri atılan ve Fatih Sultan Mehmet sonrasında sadrazamların başkanlık ettiği en yüksek devlet yönetim ve yargı kurulu Divan-ı Hümayun’dur (2026 Ağustos Mesleğe Kabul B Grubu, S. 32).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_GTT-008",
+            "subtopicId": "turktarihi_5",
+            "courseId": "turktarihi",
+            "questionText": "Osmanlı Devleti'nde Yıldırım Bayezid'in Timur'a mağlup olmasıyla 11 yıl süren ve padişah oğulları arasında taht kavgalarına sahne olan 'Fetret Devri'ni başlatan 1402 savaşı hangisidir?",
+            "options": [
+              "A) Ankara Savaşı",
+              "B) Niğbolu Savaşı",
+              "C) I. Kosova Savaşı",
+              "D) Varna Savaşı",
+              "E) Sırpsındığı Savaşı"
+            ],
+            "correctIndex": 0,
+            "explanation": "1402 Ankara Savaşı'nda Yıldırım Bayezid esir düşmüş; devlet 1402-1413 yılları arasında Çelebi Mehmed'in birliği yeniden kurmasına kadar sürecek Fetret Devri'ne girmiştir. (F-Osmanli_Tarihi 006 MALI 2026 AGUSTOS.pdf, s.1)\n\n💡 Hafıza İpucu: 1402 ANKARA SAVAŞI = FETRET DEVRİ: Bayezid ile Timur karşılaşması.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -6396,7 +6684,7 @@ export const COURSES_DATA: Course[] = [
     "id": "anadolu",
     "title": "Anadolu Medeniyetleri",
     "slug": "anadolu-medeniyetleri",
-    "totalOfficialQuestions": 655,
+    "totalOfficialQuestions": 683,
     "description": "Prehistorya, Kalkolitik ve Tunç Çağı, Asur Ticaret Kolonileri, Hitit İmparatorluğu, Demir Çağı ve Roma Dönemi.",
     "iconName": "Landmark",
     "isAvailable": true,
@@ -6406,7 +6694,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "anadolu",
         "order": 1,
         "title": "Tarih Öncesi Anadolu (Prehistorya)",
-        "officialQuestionCount": 99,
+        "officialQuestionCount": 104,
         "lectureContent": "## 1. Alt Başlık: Prehistorya (Taş Çağları ve İlk Yerleşimler)\n\nİnsanlık tarihinin yazının icadından önceki yüz binlerce yıllık karanlık dönemi Prehistorya (Tarih Öncesi) olarak adlandırılır. Anadolu'da tarih öncesi dönem, doğanın zorlu iklim koşullarıyla insanın alet yapma becerisinin diyalektik mücadelesi üzerinden üç ana evrede incelenir: Paleolitik, Mezolitik (Epipaleolitik) ve Neolitik Çağ.\n\n### A. Paleolitik Çağ (Eski Taş / Yontma Taş Çağı)\nİnsanlık tarihinin en uzun, en ilkel ve doğaya en bağımlı dönemidir. İnsanlar bu çağda henüz üretici değil; tümüyle tüketici, avcı ve toplayıcı göçebeler olarak küçük klanlar halinde yaşamışlardır. Barınak olarak sarp kayalıklar, kaya altı sığınakları ve doğal mağaralar seçilmiştir. \n\nPaleolitik Çağ kendi içinde üç alt evreye ayrılır:\nAlt Paleolitik dönemde kaba taş aletler, çakıl taşlarının yontulmasıyla yapılan iki yüzeyli el baltaları kullanılır. İstanbul Yarımburgaz Mağarası, Türkiye'de insanın yerleştiği bilinen en eski mağara yerleşimidir ve Alt Paleolitik buluntular verir.\n\nOrta Paleolitik dönem, insan evriminde Neandertal insanının sahneye çıktığı ve taş işleme tekniklerinin inceldiği evredir. Bu dönemin en somut ve eşsiz temsilcisi Antalya Karain Mağarası'dır. Karain Mağarası, Alt, Orta ve Üst Paleolitik katmanları kesintisiz veren ender merkezlerden biridir ve Türkiye'de Neandertal insanına ait fosil kafatası ve kemik kalıntılarının ele geçirildiği tek merkezdir.\n\nÜst Paleolitik dönemde artık Homo sapiens sapiens sahneye çıkar; kemik, boynuz ve fildişinden incelikli mızrak uçları, bızlar ve iğneler üretilir. Sanatsal ifadenin ilk tohumları olan mağara duvar resimleri bu dönemde belirir. Antalya Öküzini Mağarası, Adıyaman Palanlı Mağarası ve Kars Camuşlu kaya resimleri bu dönemin sembolik anlatımını taşır.\n\n### B. Mezolitik / Epipaleolitik Çağ (Orta Taş Çağı)\nSon buzul çağının sona ermesiyle iklimin ılımanlaşmaya başladığı, doğanın yeşerdiği bir geçiş dönemidir. İnsanlar avlanma tekniklerini geliştirmiş; mikrolit adı verilen minik geometrik çakmaktaşı uçları ahşap ve kemik saplara takarak ilk ok ve yay sistemlerini, zıpkınları kurmuşlardır. Antalya Beldibi ve Kumbucağı kaya sığınakları ile Samsun Tekkeköy bu dönemin Anadolu'daki başlıca tanıklarıdır.\n\n### C. Neolitik Çağ (Yeni Taş / Cilalı Taş Çağı)\nİnsanlık tarihinin en büyük devrimidir. İnsanoğlu av peşinde koşan bir asalak olmaktan çıkıp toprağı eken, tohumu ıslah eden, hayvanları evcilleştiren, su kenarlarında kalıcı köyler kuran bir üreticiye dönüşmüştür. Neolitik Çağ, arkeolojide seramiğin varlığına göre iki temel aşamada değerlendirilir.\n\n#### 1. Çanak Çömleksiz Neolitik Çağ (Akeramik Neolitik)\nİnsanların yerleşik hayata geçtiği, yuvarlak ya da dörtgen planlı kalıcı konutlar inşa ettiği, buğday ve arpayı tarıma aldığı ancak henüz kili pişirip kap kacak yapmayı bilmediği evredir.\n\nŞanlıurfa Göbeklitepe, arkeoloji dünyasının ezberlerini kökten yıkan anıtsal bir merkezdir. Klasik kabul olan yerleşik hayat başladıktan ve tarım geliştikten sonra tapınak kurulur tezini tersine çevirmiş; henüz tarıma geçmemiş avcı-toplayıcı insanların dahi böylesine devasa bir inanç merkezi ve tapınak kompleksi inşa edebildiğini kanıtlamıştır. Merkezde boyları altı metreyi bulan, üzerlerinde aslan, boğa, yaban domuzu, tilki, turna ve akrep gibi vahşi hayvan kabartmaları yer alan T biçimli dev kireçtaşı dikilitaşlar yer alır. Bu T biçimli taşlar stilize insan bedenini simgeler.\n\nTaş Tepeler projesinin diğer yıldızı Karahantepe, Göbeklitepe ile çağdaş olup benzer T sütunları, ana kayaya oyulmuş anıtsal insan başı heykeli ve törensel ritüel havuzlarıyla dünya tarihinin en erken inanç merkezleri ağını oluşturur.\n\nŞanlıurfa Nevali Çori, Fırat Nehri kıyısında ilk dörtgen planlı tapınak yapısının ve kireçtaşından insan heykellerinin bulunduğu çok kritik bir Akeramik Neolitik merkezdir.\n\nDiyarbakır Çayönü, mimarlık ve ziraat tarihi açısından benzersiz bir evrim laboratuvarıdır. Konut mimarisinde yuvarlak kulübelerden ızgara planlı yapılara, oradan taş döşemeli ve hücre planlı yapılara geçişin aşamaları adım adım izlenir. Tabanı parlatılmış kireç harcıyla kaplı terrazzo tabanlı tapınak yapısı, binden fazla kafatasının saklandığı kafataslı yapı ve en önemlisi doğadaki saf bakırın sıcak dövme tekniğiyle işlenerek iğne ve boncuk yapıldığı dünyanın en erken metal işleme katmanı Çayönü'nde yer alır. Ayrıca evcil domuz ve emmer buğdayının ilk tarımsal izleri buradadır.\n\nAksaray Aşıklı Höyük, Orta Anadolu'nun en eski köy yerleşimidir. Kerpiçten inşa edilmiş birbirine bitişik konutları, obsidyen işleme atölyeleri ve tıp tarihi açısından bir dönüm noktası olan genç bir kadının kafatasına açılmış trepanasyon (dünyanın ilk beyin ameliyatı / kafatası delgi operasyonu) iziyle tanınır.\n\nBatman Hallan Çemi, domuzun evcilleştirilme sürecine dair en erken izleri barındıran Güneydoğu Anadolu Akeramik Neolitik merkezidir.\n\n#### 2. Çanak Çömlekli Neolitik Çağ (Keramik Neolitik)\nToprağın suyla yoğrulup ateşte pişirilerek kaba kacağa dönüştürüldüğü, artı ürünün depolandığı ve mutfak kültürünün doğduğu evredir.\n\nKonya Çatalhöyük, UNESCO Dünya Miras Listesi'nde yer alan, Yakındoğu'nun en büyük ve en kalabalık Neolitik proto-kentidir. Çatalhöyük'te sokak kavramı yoktur; tek katlı, dörtgen planlı kerpiç evler sırt sırta bitişik inşa edilmiştir. Şehre giriş konutların düz damlarından, ahşap merdivenlerle çatıdaki duman deliklerinden sağlanır. Bu mimari savunma amaçlı olup dışarıya karşı sur duvarı vazifesi görür. Evlerin içinde sekiler, ocaklar ve kilden yapılmış ana tanrıça heykelcikleri bulunur. İki leoparın sırtına oturmuş, doğum yapan iri göğüslü Ana Tanrıça figürini doğurganlığın ve bereketin simgesidir. Çatalhöyük duvarlarında akbabaların başsız insan gövdelerini parçaladığı ekskarnasyon (cesedin etlerinin sıyrılması) sahneleri ve Hasan Dağı'nın volkanik patlamasını gösteren dünyanın en eski kent planı/manzara resmi yer alır. Ölüler evlerin tabanındaki sekilerin altına, hocker (ana rahmindeki cenin) pozisyonunda gömülmüştür.\n\nBurdur Hacılar, boyalı seramikleri, gelişmiş ana tanrıça heykelcikleri ve etrafı kalın duvarlarla çevrili korunaklı konutlarıyla Göller Yöresi Neolitik kültürünün başkentidir.\n\n---",
         "sentences": [
           {
@@ -7459,6 +7747,86 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Son dönemleri Çatalhöyük ile çağdaş olan Hacılar VI. yerleşmesi büyük bir yangın felaketine sahne olmuştur (s.29).\n\n💡 Hafıza İpucu: Hacılar'ın sonu 'ateşle' gelir — VI. kat yangınla biter.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q033",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Taş Tepeler Projesi kapsamında keşfedilen; ağzı dikilmiş, gözleri kabuklarla doldurulmuş gibi görünen ve kaburgaları belirgin şekilde betimlenen heykel aşağıdaki yerleşimlerden hangisinde bulunmuştur?",
+            "options": [
+              "A) Çayönü",
+              "B) Altıntepe",
+              "C) Dara",
+              "D) Sayburç",
+              "E) Yumuktepe"
+            ],
+            "correctIndex": 3,
+            "explanation": "Şanlıurfa’daki Taş Tepeler Projesi kapsamındaki Sayburç kazılarında (2025) ağzı dikilmiş, göz çukurları kabuklarla doldurulmuş ve kaburgaları belirgin biçimde işlenmiş Neolitik dönem heykeli ortaya çıkarılmıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 33).",
+            "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q080",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Paleolitik dönemin en belirgin özelliğidir?",
+            "options": [
+              "A) Şehir devletlerinin ortaya çıkışı",
+              "B) Çanak çömlek üretimi",
+              "C) Avcılık ve toplayıcılık",
+              "D) Tarımsal üretim",
+              "E) Paranın kullanımı"
+            ],
+            "correctIndex": 2,
+            "explanation": "İnsanlık tarihinin en uzun çağı olan Paleolitik (Eski Taş) dönemde insanlar mağara ve kaya sığınaklarında yaşayıp avcılık ve toplayıcılıkla geçinmişlerdir; tarım ve çanak çömlek Neolitik Çağ’da başlar (2026 Ağustos Mesleğe Kabul B Grubu, S. 80).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q083",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Öküzini Mağarası aşağıdaki illerden hangisinin sınırları içinde yer alır?",
+            "options": [
+              "A) İstanbul",
+              "B) Antalya",
+              "C) Çorum",
+              "D) Burdur",
+              "E) Karabük"
+            ],
+            "correctIndex": 1,
+            "explanation": "Üst Paleolitik ve Epipaleolitik dönemlere ait önemli buluntular veren Öküzini Mağarası, Antalya’nın Döşemealtı ilçesi sınırları içindedir (2026 Ağustos Mesleğe Kabul B Grubu, S. 83).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_ANM-001",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Şanlıurfa'da yer alan, T biçimli dikilitaşları, hayvan kabartmaları ve astronomik yönelimleriyle dünyanın bilinen en eski anıtsal megalitik tapınak kompleksi kabul edilen Neolitik alan hangisidir?",
+            "options": [
+              "A) Çatalhöyük",
+              "B) Hacılar",
+              "C) Göbekli Tepe",
+              "D) Alacahöyük",
+              "E) Nevali Çori"
+            ],
+            "correctIndex": 2,
+            "explanation": "MÖ 9600 civarına tarihlenen Çanak Çömleksiz Neolitik döneme ait Göbekli Tepe, avcı-toplayıcı insanların yerleşik köylerden önce anıtsal tapınaklar inşa ettiğini kanıtlamıştır. (M-Anadolu_Medeniyetleri 012 MALI 2026 AGUSTOS.pdf, s.1)\n\n💡 Hafıza İpucu: GÖBEKLİ TEPE (Şanlıurfa) = İLK ANITSAL TAPINAK: Klaus Schmidt kazıları.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ANM-002",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Konya Çumra'da bulunan, sokaksız bitişik nizam kerpiç evleri, damdan merdivenle giriş düzeni, ana tanrıça heykelcikleri ve duvar freskleriyle ünlü büyük Neolitik kent yerleşimi hangisidir?",
+            "options": [
+              "A) Göbeklitepe",
+              "B) Çatalhöyük",
+              "C) Çayönü",
+              "D) Hacılar",
+              "E) Aşıklı Höyük"
+            ],
+            "correctIndex": 1,
+            "explanation": "James Mellaart ve Ian Hodder kazılarıyla aydınlatılan Çatalhöyük, 8.000'den fazla nüfusu, dam girişli evleri ve leopar/boğa kültü duvar resimleriyle prototip bir erken şehirdir. (M-Anadolu_Medeniyetleri 012 MALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: ÇATALHÖYÜK (Konya) = DAMDAN GİRİŞLİ EVLER & LEOPARLI ANA TANRIÇA.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -7468,7 +7836,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "anadolu",
         "order": 2,
         "title": "Kalkolitik ve İlk Tunç Çağı",
-        "officialQuestionCount": 98,
+        "officialQuestionCount": 101,
         "lectureContent": "## 2. Alt Başlık: Kalkolitik ve İlk Tunç Çağı\n\nMadenin insan hayatına girmesiyle birlikte toplumsal hiyerarşi, iş bölümü, mülkiyet kavramı ve savunma ihtiyacı katlanarak artmıştır.\n\n### A. Kalkolitik Çağ (Bakır-Taş Çağı)\nTaş aletlerin kullanımının sürdüğü ancak bakırın eritilerek alet, silah ve süs eşyası yapımında yaygınlaştığı çağdır. Toplumsal tabakalaşma belirginleşmiş, köyler büyüyerek etrafı surlarla çevrili kasabalara dönüşmüştür.\n\nBurdur Kuruçay ve Hacılar Geç Kalkolitik dönemde etrafı kuleli kalın savunma surlarıyla çevrili yerleşimler haline gelmiştir. Konya Canhasan katmanlarında kırmızı boya bezemeli zengin seramikler ve bakır bilezikler ele geçmiştir. Denizli Beycesultan, çok odalı geniş saray yapıları ve kutsal ocaklarıyla Batı Anadolu Kalkolitik ve Tunç Çağı'nın anahtarıdır.\n\nMalatya Arslantepe, Geç Kalkolitik ve Erken Tunç Çağı geçişinde Anadolu ve Mezopotamya etkileşiminin en görkemli merkezidir. Dünyanın en eski kerpiç saray kompleksi, saray duvarlarındaki renkli freskler, bürokrasinin ve merkezi otoritenin varlığını kanıtlayan binlerce kil mühür baskısı (bulla) ve kılıcın bir savaş silahı olarak dünyada ilk kez ortaya çıktığı arsenikli bakır kılıçlar Arslantepe'de bulunmuştur. Arslantepe bu yönüyle devlet sisteminin ve tapınak bürokrasisinin doğduğu yerdir.\n\n### B. İlk Tunç Çağı (Erken Tunç Çağı / MÖ 3000-2000)\nİnsanoğlu bu çağda çığır açan bir metalurji keşfi yapmıştır: Bakırın içine yaklaşık yüzde on oranında kalay karıştırılarak çok daha sert, dayanıklı ve keskin olan tunç (bronz) alaşımı elde edilmiştir. Kalay Anadolu'da nadir bulunduğu için bölgeler arası ticaret patlamış, zengin maden yataklarına sahip merkezlerde zengin hanedanlıklar ve beylikler kurulmuştur.\n\nÇanakkale Troya I ve Troya II tabakaları Erken Tunç Çağı'na aittir. Troya II, megaron planlı sarayları, eğimli taş temel üzerine kerpiç surları ve Heinrich Schliemann'ın kaçırdığı meşhur Priamos Hazinesi olarak adlandırılan altın takı ve kaplarıyla tanınır. Troya bu dönemde iki kulplu içki kabı olan depas amphikypellon ve tek kulplu uzun bardak tankard formlarının anavatanıdır.\n\nÇorum Alacahöyük Kral Mezarları, Hatti beylerine ait Erken Tunç Çağı hanedan mezarlarıdır. Dörtgen taş sanduka mezarların ahşap kalaslarla örtüldüğü ve üzerine kurban edilen sığırların baş ve bacaklarının bırakıldığı bu mezarlarda; döküm tekniğiyle yapılmış bronz Hatti güneş kursları, boynuzlarında gümüş halkalar taşıyan boğa ve geyik heykelleri, altın taçlar, iğneler ve demir bıçaklar bulunmuştur. Alacahöyük güneş kursları Hatti sanatının doruğunu simgeleyen eserlerdir.\n\nAmasya Mahmatlar ve Tokat Horoztepe, Alacahöyük ile çağdaş zengin mezar hediyeleri, çıngıraklar ve bronz emziren kadın heykelciğiyle öne çıkan merkezlerdir.\n\nSamsun İkiztepe, Orta Karadeniz sahilinde zengin arsenikli bakır silahları, kurban çukurları ve kafataslarında çok sayıda trepanasyon ameliyatı tespit edilen geniş mezarlığıyla dikkat çeker.\n\nAntalya Elmalı Karataş-Semayük, etrafı dairesel bir savunma hendeği ve kerpiç surla çevrilmiş merkezdeki müstahkem bey konağıyla Erken Tunç Çağı feodal beylik mimarisini yansıtır.\n\n---",
         "sentences": [
           {
@@ -8004,6 +8372,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "Küllüoba, İlk Tunç Çağı'nda Batı Anadolu'daki en eski kent oluşumu örneklerinden biri olarak kabul edilir (Eski Anadolu Tarihi, s.28).\n\n💡 Hafıza İpucu: Küllüoba = Eskişehir Ovası'nın 'ilk kenti'.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q022",
+            "subtopicId": "anadolu_2",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Troya Antik Kenti’nin tarihî coğrafya açısından önem kazanmasında doğrudan etkili olan unsurlardan biridir?",
+            "options": [
+              "A) Karadeniz kıyısındaki kolonilerin yönetim merkezi olması",
+              "B) Mezopotamya’dan Anadolu’ya ulaşan İpek Yolu’nun başlangıç noktasında yer alması",
+              "C) Ege Denizi ile Çanakkale Boğazı arasındaki geçiş güzergâhına yakın olması",
+              "D) Bereketli Hilal bölgesi ile Mezopotamya arasında köprü işlevi görmesi",
+              "E) Anadolu’nun iç kesimlerindeki önemli maden yataklarının merkezinde bulunması"
+            ],
+            "correctIndex": 2,
+            "explanation": "Troya, Ege Denizi’nden Çanakkale Boğazı’na (ve Marmara üzerinden Karadeniz’e) uzanan deniz ve kara geçiş güzergâhını kontrol eden stratejik konumuyla öne çıkmıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 22).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q054",
+            "subtopicId": "anadolu_2",
+            "courseId": "anadolu",
+            "questionText": "Alacahöyük Kral Mezarları kazılarında da ortaya çıkarılan, bronzdan yapılmış, geyik ve boğa figürleriyle bezeli örnekleri bulunan ve Hatti kültüründe dinsel törenlerde kullanıldığı düşünülen sembollere ne ad verilir?",
+            "options": [
+              "A) Güneş Kursu",
+              "B) Phiale",
+              "C) Fibula",
+              "D) Diadem",
+              "E) Orthostat"
+            ],
+            "correctIndex": 0,
+            "explanation": "İlk Tunç Çağı Hatti kültürünün en tanınmış ritüel objelerinden olan ve Alacahöyük Kral Mezarları’ndan çıkarılan bronz geyik/boğa figürlü tören standartlarına “Güneş Kursu” denir (2026 Ağustos Mesleğe Kabul B Grubu, S. 54).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_ANM-010",
+            "subtopicId": "anadolu_2",
+            "courseId": "anadolu",
+            "questionText": "Malatya'da yer alan, kerpiç saray kompleksi, en eski metal kılıç buluntuları ve mühür baskılarıyla Yakın Doğu'da devlet aygıtının ve bürokrasinin doğuşunu kanıtlayan UNESCO höyüğü hangisidir?",
+            "options": [
+              "A) Arslantepe Höyüğü",
+              "B) Çayönü",
+              "C) Alacahöyük",
+              "D) Küllüoba",
+              "E) Beycesultan"
+            ],
+            "correctIndex": 0,
+            "explanation": "Marcella Frangipane kazılarıyla dünya mirası olan Arslantepe, MÖ 4. binyıla ait anıtsal kerpiç kamu sarayı ve arsenikli bakır kılıçlarıyla ilk devletimsi yapının merkezidir. (04_MKS_Uzman_Deneme M ALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: ARSLANTEPE (Malatya) = DÜNYANIN EN ESKİ KERPİÇ SARAYI & İLK METAL KILIÇLARI.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -8013,7 +8429,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "anadolu",
         "order": 3,
         "title": "Yazılı Tarihe Geçiş (Asur Kolonileri)",
-        "officialQuestionCount": 105,
+        "officialQuestionCount": 106,
         "lectureContent": "## 3. Alt Başlık: Asur Ticaret Kolonileri Çağı (Orta Tunç Çağı / MÖ 2000-1750)\n\nOrta Tunç Çağı'nın başında Anadolu, tarihinin en büyük dönüm noktasına ulaşmıştır: Yazının gelişi. Bu çağda Kuzey Mezopotamya'daki Asur kenti tüccarları, Anadolu'nun zengin altın, gümüş ve bakırına karşılık, Anadolu'da az bulunan kalayı ve Mezopotamya'nın ince yünlü lüks dokumalarını eşek kervanlarıyla Anadolu'ya getirerek organize bir uluslararası ticaret ağı kurmuşlardır. Böylece Anadolu'da Tarih Çağları resmen başlamıştır.\n\n### A. Koloni Sistemi: Karum ve Wabartum\nAsurlu tüccarlar Anadolu krallarının ve beylerinin topraklarında ticaret yapabilmek için özel anlaşmalar yapmışlardır. Tüccarlar krallara nishatu (ithalat vergisi) ve saddu'utu (yol ve güvenlik vergisi) ödemiş; krallar da kervanların güvenliğini sağlamış, saldırıya uğrayan kervanların zararını tazmin etmeyi taahhüt etmiştir.\n\nBu ticaret sisteminin merkez üsleri iki kademeli pazar yerleşimidir:\n* **Karum:** Doğrudan liman veya ana pazar yeri anlamına gelir. Şehir surlarının hemen dibinde, Asurlu ve yerli tüccarların birlikte yaşadığı, kendi mahkemesi, deposu ve idari meclisi olan büyük ticaret merkezleridir.\n* **Wabartum:** Karumlar arasındaki kervan güzergâhlarında yer alan, kervanların konakladığı, dinlendiği ve küçük çaplı ticaretin yapıldığı karakol ve ara istasyonlardır.\n\n### B. Başkent ve Merkez: Kültepe (Kaniş-Karum)\nKayseri yakınlarındaki Kültepe, antik adıyla Kaniş, Anadolu'daki Asur ticaret kolonilerinin idari başkentidir. Bütün Karumlar Kaniş Karumu'na, Kaniş Karumu ise doğrudan Asur kentindeki Şehir Meclisi'ne bağlıdır.\n\nKültepe'de yapılan kazılarda tüccarların evlerinde, arşiv odalarında pişmiş topraktan yapılmış, Asur çivi yazısıyla yazılmış yirmi binden fazla kil tablet bulunmuştur. Bu Kültepe Tabletleri; borç senetleri, kervan listeleri, masraf kayıtları, evlilik ve boşanma sözleşmeleri, mahkeme tutanakları ve kral mektuplarından oluşur. Tabletler ıslak kilden zarfların içine konulmuş ve tüccarların silindir mühürleriyle mühürlenmiştir.\n\nKültepe kazılarında bulunan bronz mızrak ucu üzerindeki Anita Yazıtı ve fildişi kutular, yerel kralların varlığını belgeler. Kaniş Kralı Warşama ile Mama Kralı Anum-Hirbi arasındaki diplomatik mektup, dönemin devletlerarası hukuk dilini yansıtır.\n\nKuşşara Kralı Pithana ve oğlu Anita, Orta Anadolu'daki feodal beylikleri tek tek dize getirerek ileride kurulacak olan Hitit Devleti'nin temellerini atmışlardır. Kral Anita, kendisine direnen Hattuşa kentini yakıp yıkmış ve kentin üzerine yabani otlar serperek meşhur lanetini savurmuştur: Benden sonra her kim kral olur ve Hattuşa'yı yeniden imar ederse, Gök Tanrısının laneti onun üzerine olsun. Ancak bu lanete rağmen torunları kenti yeniden inşa edecek ve başkent yapacaktır.\n\n---",
         "sentences": [
           {
@@ -8332,6 +8748,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "Çivi yazısı ilk olarak Mezopotamya'da, Sümerler tarafından ortaya çıkarılmış bir yazı sistemidir; Anadolu'ya bu yazı, Assur Ticaret Kolonileri Çağı'nda (MÖ 1950-1750) Assurlu tüccarlar aracılığıyla ulaşmıştır (s.65).\n\n💡 Hafıza İpucu: SÜMER = yazının anavatanı; Anadolu'ya yazı KARUM tüccarlarıyla (Kültepe) geldi.",
             "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_ANM-003",
+            "subtopicId": "anadolu_3",
+            "courseId": "anadolu",
+            "questionText": "Kayseri yakınlarındaki Kaniş krallığında bulunan, Asurlu tüccarların getirdiği çivi yazılı tabletlerle Anadolu'da yazılı tarih çağlarını başlatan merkez hangisidir?",
+            "options": [
+              "A) Hattuşa",
+              "B) Gordion",
+              "C) Kültepe (Kaniş-Karum)",
+              "D) Arslantepe",
+              "E) Alacahöyük"
+            ],
+            "correctIndex": 2,
+            "explanation": "MÖ 1950 civarında Asurlu tüccarlar 'Karum' adı verilen ticaret kolonileri kurmuş ve kil tabletlerle Anadolu'yu yazıyla tanıştırmıştır. (MKS_Anadolu_Uygarliklari M.ALI 2026.pdf, s.6)\n\n💡 Hafıza İpucu: KÜLTEPE / KARUM = ANADOLU'DA İLK YAZI VE İLK TİCARİ ARŞİV.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -8341,7 +8773,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "anadolu",
         "order": 4,
         "title": "Hitit İmparatorluğu",
-        "officialQuestionCount": 105,
+        "officialQuestionCount": 110,
         "lectureContent": "## 4. Alt Başlık: Hitit İmparatorluğu (MÖ 1650-1200)\n\nHititler, Hint-Avrupa kökenli bir kavim olarak Anadolu'ya gelmiş, yerli Hatti halkının kültürünü, dinini ve mitolojisini özümseyerek Kızılırmak kavisi içinde Yakındoğu'nun en güçlü süper güçlerinden birini kurmuşlardır. Başkentleri Çorum Boğazköy'deki Hattuşa'dır.\n\n### A. Siyasal Evreler ve Önemli Krallar\nHitit tarihi iki ana döneme ayrılır:\n\n#### 1. Eski Hitit Krallığı\nDevletin kurucusu I. Labarna'dır. Adı o kadar büyük bir saygı görmüştür ki, sonraki tüm krallar Labarna unvanını bir hükümdarlık unvanı olarak kullanmıştır.\n\nI. Hattuşili, başkenti Kuşşara'dan lanetli Hattuşa'ya taşımış ve Hattuşalı anlamına gelen bu adı almıştır. Hazırladığı vasiyetname, Hitit saray entrikalarını ve devlet felsefesini anlatan en eski otobiyografik belgedir.\n\nI. Murşili, Fırat'ı aşarak Suriye üzerinden Mezopotamya'ya inmiş, önce Halep Krallığı'nı dize getirmiş, ardından bin kilometre ötedeki Babil'i fethederek Hammurabi Hanedanlığı'na son vermiştir. Ancak başkente döndüğünde eniştesi Hantili tarafından suikastla öldürülmüş ve devlet taht kavgalarıyla sarsılmıştır.\n\nKral Telepinu, taht kavgalarını önlemek için tarihin ilk anayasal veraset yasası kabul edilen Telepinu Fermanı'nı ilan etmiştir. Buna göre tahta kimin, hangi sırayla geçeceği kesin kurallara bağlanmış, kralın yetkileri Pankuş Meclisi tarafından denetlenmiştir.\n\n#### 2. Yeni Hitit Krallığı (Hitit İmparatorluk Çağı)\nDevletin gerçek kurucusu ve askeri dehası I. Şuppiluliuma'dır. Mitanni Krallığı'nı yıkarak Suriye egemenliğini ele geçirmiş, Mısır Firavunu Tutankhamun'un dul eşi kraliçe Anhesenamon'un evlilik teklifi üzerine oğlu Zannanza'yı Mısır'a göndermiş ancak oğlu yolda pusuya düşürülerek öldürülmüştür. Bu olay iki dev imparatorluğu savaşın eşiğine getirmiştir. Suriye'den getirilen esirler Anadolu'ya veba salgınını taşımıştır.\n\nII. Murşili, yirmi yıl süren veba salgınında tanrılara yakardığı dokunaklı Veba Duaları ve her yıl yaptıklarını tarafsızca, yenilgilerini dahi gizlemeden tanrısına hesap vermek üzere yazdırdığı Anal adı verilen resmi krallık yıllıklarıyla tarihyazıcılığının öncüsü olmuştur.\n\nII. Muvattalli, Mısır Firavunu II. Ramses ile Suriye hakimiyeti için tarihin en büyük savaş arabası muharebesi olan Kadeş Savaşı'nda (MÖ 1274) çarpışmıştır. Muvattalli, başkenti kuzeydeki Kaşka saldırılarından korumak için geçici olarak Güney Anadolu'daki Tarhuntaşşa kentine taşımıştır.\n\nIII. Hattuşili, Mısır Firavunu II. Ramses ile tarihin bilinen ilk eşitlikçi yazılı uluslararası barış antlaşması olan Kadeş Barış Antlaşması'nı imzalamıştır. Antlaşma metninde kralın mührünün yanında, barışta ve diplomaside olağanüstü rol oynayan Hitit Kraliçesi Puduhepa'nın da şahsi mührü yer almaktadır. Kadeş Antlaşması'nın kil tablet kopyası bugün İstanbul Arkeoloji Müzeleri'nde sergilenmekte olup büyütülmüş bir kopyası New York Birleşmiş Milletler Binası girişinde asılı durmaktadır.\n\n### B. Devlet Teşkilatı, Toplum ve Hukuk\nHitit kralı mutlak bir tiran değildir; aynı zamanda başrahip, başkomutan ve başyargıçtır. Ancak kralın yetkilerini denetleyen soylular meclisi Pankuş vardır. Pankuş, kralın ölüm cezası kararlarını dahi bozabilen bir yüksek mahkeme yetkisine sahipti.\n\nHitit toplumunda kraliçelik makamı son derece saygındır. Hükümdarın annesi veya eşi olan kraliçe Tavananna unvanını taşır. Tavananna dini ayinleri tek başına yönetebilir, kral savaştayken devleti idare eder, diplomatik mektuplara ve antlaşmalara kendi mührünü basardı.\n\nHitit kanunları dönemin Mezopotamya kanunlarına kıyasla son derece insancıl ve moderndir. Ölüm cezası yalnızca devlete isyan ve büyücülük gibi çok kısıtlı suçlara verilirdi. Hukuk sistemi kısasa değil, tazminata, zararın maddi olarak telafi edilmesine dayalıydı.\n\nHitit dini çok tanrılıdır; fethettikleri her bölgenin, kentin ve kavmin yerel tanrılarını kendi panteonlarına kabul edip onlara tapındıkları için Hitit ülkesine Bin Tanrılı Halk denilmiştir. Panteonun zirvesinde Gök ve Fırtına Tanrısı Teşup ile onun eşi, Hatti kökenli Arinna'nın Güneş Tanrıçası Hepat yer alır.\n\n### C. Başkent Hattuşa ve Yazılıkaya Mimarisi\nHattuşa, dik kayalıklar ve derin vadiler arasına kurulmuş, çift sıra kalın surlarla kuşatılmış muazzam bir kale-kenttir. Surların üzerinde kente giriş veren anıtsal kapılar kabartmalarla donatılmıştır: Dışarıdan gelecek kötülükleri ve düşmanları bakışlarıyla taş kesen Aslanlı Kapı, kanatlı ve kadın başlı heybetli Sfenksli Kapı, kenti koruyan savaşçı tanrıyı betimleyen Kral Kapısı.\n\nKentin en güney ve en yüksek noktasında yer alan Yerkapı, otuz metre yüksekliğinde devasa bir taş set üzerine kurulmuştur. Bu setin altından dışarıya uzanan 71 metre uzunluğundaki bindirme taş örgülü Potern (gizli tünel), kuşatma anlarında ani gece baskınları yapmak ve kaleden gizlice çıkmak için kullanılan dahiyane bir savunma mimarisidir.\n\nYazılıkaya Açık Hava Tapınağı, Hattuşa'nın iki kilometre kuzeydoğusunda yer alan, ana kayaların arasına gizlenmiş ulusal kült merkezidir. İki galeriden oluşur: Büyük A Galerisi'nde Hitit tanrı ve tanrıçaları kayalara kabartma olarak işlenmiştir; sol tarafta erkek tanrılar, sağ tarafta kadın tanrıçalar bir geçit töreni halinde ilerler ve ortada Fırtına Tanrısı Teşup ile Güneş Tanrıçası Hepat yüz yüze karşılaşır. Küçük B Galerisi ise kral mezar kültü ve anma törenleri içindir; burada omuzlarında orak biçimli kılıçlar taşıyan On İki Yeraltı Tanrısı kabartması, Tanrı Şarruma'nın Kral IV. Tuthaliya'yı kucaklayarak koruduğu dokunaklı sahne ve kılıç gövdeli Tanrı Nergal kabartması yer alır.\n\nHitit İmparatorluğu, MÖ 1200 civarında batıdan gelen ve tarihte Ege Göçleri (Deniz Kavimleri Göçü) olarak adlandırılan devasa istila dalgası ve Kaşka saldırıları sonucunda başkentin yakılmasıyla tarihe karışmıştır.\n\n---",
         "sentences": [
           {
@@ -9204,6 +9636,86 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Boğazköy'deki arşivlerde 25.000'den fazla tablet ve tablet parçası bulunmuştur (s.66).\n\n💡 Hafıza İpucu: 25 BİN'den fazla — Hattuşa, dönemin en büyük 'devlet arşivi'.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q021",
+            "subtopicId": "anadolu_4",
+            "courseId": "anadolu",
+            "questionText": "Hattuşa Antik Kenti ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "options": [
+              "A) Hattuşa “Hatti Şehri/Ülkesi” anlamına gelmektedir.",
+              "B) Kalıntıları ilk keşfeden kişi Charles Texier’dir.",
+              "C) Çorum ilinin Boğazkale ilçesinde bulunmaktadır.",
+              "D) UNESCO Dünya Miras listesinde yer almaktadır.",
+              "E) Urartular tarafından kurulmuştur."
+            ],
+            "correctIndex": 4,
+            "explanation": "Hattuşa, Urartuların değil Hitit Devleti’nin başkentidir (daha önce Hatti yerleşimi üzerine kurulmuştur). Çorum/Boğazkale’de yer alır, 1834’te Charles Texier tarafından keşfedilmiştir ve UNESCO Dünya Mirası’dır (2026 Ağustos Mesleğe Kabul B Grubu, S. 21).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q038",
+            "subtopicId": "anadolu_4",
+            "courseId": "anadolu",
+            "questionText": "Hititlerin ''Hanhana'' adlı kült merkezinden çıkarılmış olan, dini tören, müzik, dans ve kutsal evlilik ritüelinin betimlendiği ve günümüzde Anadolu Medeniyetleri Müzesi’nde sergilenen eser aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Su Ordali Tableti",
+              "B) İnandık Vazosu",
+              "C) Arsuz Stelleri",
+              "D) İkiz Boğa Rhytonları",
+              "E) Teşup Kabartması"
+            ],
+            "correctIndex": 1,
+            "explanation": "Çankırı yakınlarındaki İnandıktepe (Hanhana) kazılarında bulunan ve dört kabartma frizinde Hitit kutsal evlilik (hieros gamos) törenini, müzik ve dans sahnelerini betimleyen Eski Hitit eseri “İnandık Vazosu”dur (2026 Ağustos Mesleğe Kabul B Grubu, S. 38).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q078",
+            "subtopicId": "anadolu_4",
+            "courseId": "anadolu",
+            "questionText": "Kadeş Savaşı aşağıdaki devletlerden hangileri arasında yapılmıştır?",
+            "options": [
+              "A) Hitit ve Mısır",
+              "B) Hitit ve Pers",
+              "C) Asur ve Babil",
+              "D) Pers ve Asur",
+              "E) Frig ve Urartu"
+            ],
+            "correctIndex": 0,
+            "explanation": "MÖ 1274 yılında gerçekleşen Kadeş Savaşı, Hitit İmparatorluğu (II. Muwatalli) ile Eski Mısır (II. Ramses) arasında Suriye hâkimiyeti için yapılmış, ardından tarihin bilinen ilk yazılı barış antlaşması olan Kadeş Antlaşması imzalanmıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 78).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_ANM-004",
+            "subtopicId": "anadolu_4",
+            "courseId": "anadolu",
+            "questionText": "Çorum Boğazkale sınırlarında yer alan, Aslanlı Kapı, Yerkapı sfenksleri ve Büyük Tapınak kalıntılarıyla Hitit İmparatorluğu'na başkentlik yapmış antik kent hangisidir?",
+            "options": [
+              "A) Tuşpa",
+              "B) Gordion",
+              "C) Hattuşa",
+              "D) Sardes",
+              "E) Karkamış"
+            ],
+            "correctIndex": 2,
+            "explanation": "Hattuşa, Hitit Krallığı ve İmparatorluğu'nun başkenti olup 1986'da UNESCO Dünya Mirası Listesi'ne alınmıştır. Yazılıkaya açık hava tapınağı kentin hemen yanındadır. (M-Anadolu_Medeniyetleri 012 MALI 2026 AGUSTOS.pdf, s.3)\n\n💡 Hafıza İpucu: HATTUŞA = HİTİT BAŞKENTİ (Çorum Boğazköy): Yerkapı, Aslanlı Kapı, Sfenks.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ANM-005",
+            "subtopicId": "anadolu_4",
+            "courseId": "anadolu",
+            "questionText": "MÖ 1274'te II. Muwatalli ile II. Ramses arasında yapılan Kadeş Savaşı'nın ardından MÖ 1258'de mühürlenen tarihin bilinen ilk yazılı barış antlaşması hangisidir?",
+            "options": [
+              "A) Kadeş Antlaşması",
+              "B) Ninova Mütarekesi",
+              "C) Babil Paktı",
+              "D) Hattuşa Barışı",
+              "E) Mitanni Sözleşmesi"
+            ],
+            "correctIndex": 0,
+            "explanation": "Hitit Kralı III. Hattuşili ile Firavun II. Ramses arasında eşit şartlarda imzalanan Kadeş Antlaşması, kil tablet nüshasıyla İstanbul Arkeoloji Müzeleri'nde sergilenmektedir. (04_MKS_Uzman_Deneme M ALI 2026 AGUSTOS.pdf, s.1)\n\n💡 Hafıza İpucu: KADEŞ ANTLAŞMASI = TARİHİN İLK YAZILI BARIŞ ANTLAŞMASI (Hitit-Mısır).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -9213,7 +9725,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "anadolu",
         "order": 5,
         "title": "Demir Çağı Uygarlıkları",
-        "officialQuestionCount": 128,
+        "officialQuestionCount": 137,
         "lectureContent": "## 5. Alt Başlık: Demir Çağı Uygarlıkları\n\nHitit İmparatorluğu'nun yıkılışının ardından Anadolu yaklaşık iki yüz yıl süren karanlık bir döneme gömülmüş; ardından MÖ birinci binyılın başında demir madeninin ustalıkla işlendiği bölgesel parlak krallıklar sahneye çıkmıştır.\n\n### A. Geç Hitit Beylikleri (MÖ 1200-700)\nMerkezi Hitit devleti yıkılınca, Hitit hanedan mensupları ve halkı Güneydoğu Anadolu ve Kuzey Suriye'ye çekilerek şehir devletleri kurmuşlardır. Bunların başlıcaları Karkamış, Malatya Arslantepe, Maraş, Sam'al (Zincirli) ve Tabal krallıklarıdır.\n\nGeç Hitit sanatının en karakteristik özelliği, saray ve surların alt eteklerini kaplayan ortostat kabartmaları ve çift dilli yazıtlardır.\n\nOsmaniye Kadirli yakınlarındaki Karatepe-Aslantaş, Kral Azatiwada tarafından kurulan bir sınır kalesidir. Buradaki kabartmalarda ve yazıtlarda hem Fenike alfabesi hem de Luvi hiyeroglifi yan yana kullanılmıştır. Prof. Dr. Halet Çambel'in ömrünü adadığı bu iki dilli yazıtlar sayesinde, yüzyıllardır okunamayan Luvi ve Hitit hiyeroglifleri nihayet deşifre edilmiştir.\n\n### B. Frig Krallığı (MÖ 750-300)\nBoğazlar üzerinden Anadolu'ya göç eden Trak kökenli bir kavim olan Frigler, Sakarya Nehri havzasına yerleşerek Orta Anadolu'da başkenti Ankara Polatlı yakınlarındaki Gordion olan güçlü bir krallık kurmuşlardır.\n\nEn ünlü kralları, Yunan efsanelerine Eşek Kulaklı ve Dokunduğu Her Şeyi Altına Çeviren Kral olarak geçen Midas'tır. Asur yıllıklarında Mita olarak anılır.\n\nFrigler tarım ve hayvancılığa hayati derecede bağlıydılar. Öyle ki hukuk kurallarında saban kıranın veya öküz öldürenin cezası doğrudan ölümdü. Dokumacılıkta çok ileri gitmişler; tapates adı verilen meşhur yün kilimleri üretmişlerdir. Madencilikte çengelli iğnenin atası sayılan emniyet kilitli fibulaları ve ortası kabarık döküm bronz göbekli kâseleri (omphaloslu phiale) dünyaya tanıtmışlardır. Ağaç işçiliğinde çivi kullanmadan, geçme tekniğiyle yapılan kakmalı ahşap masalar ve sehpalar Gordion kazılarında mükemmel korunmuş halde bulunmuştur.\n\nFrig dini, doğanın yeniden uyanışını, bereketi ve vahşi doğayı simgeleyen Ana Tanrıça Matar (Kibele) etrafında şekillenmiştir. Dağlık Frigya bölgesinde (Eskişehir, Afyon, Kütahya üçgeninde) kayalara oyulmuş anıtsal açık hava tapınakları ve fasadlar (cephe anıtları) yapmışlardır. Bunların en görkemlisi Eskişehir Seyitgazi'deki Yazılıkaya Midas Anıtı'dır. Ayrıca Arezastis Anıtı, Aslantaş ve Yılantaş diğer önemli kaya mezar anıtlarıdır.\n\nFrig kralları ve soyluları öldüklerinde, ahşap mezar odalarının üzerine devasa toprak tepecikler yığılarak tümülüs mezarlara gömülürlerdi. Gordion'daki Midas Tümülüsü (Büyük Tümülüs), elli üç metre yüksekliğiyle Anadolu'nun en eski ve en görkemli ahşap mezar odasını barındırır. Ardıç ve çam kütüklerinden çivisiz yapılan bu mezar odası dendrokronoloji yöntemiyle tarihlendirilmiştir.\n\n### C. Lidya Krallığı (MÖ 687-546)\nGediz ve Küçük Menderes vadilerinde, Batı Anadolu'nun en zengin topraklarında kurulan Lidyalıların başkenti Manisa Salihli yakınlarındaki Sardeis (Sart)'tir. Krallığı Mermnadlar Hanedanı yönetmiştir; sırasıyla Gyges, Ardys, Sadyattes, Alyattes ve son kral efsanevi zenginliğiyle Karun olarak bilinen Kroisos'tur.\n\nLidya tarihinin insanlığa en büyük hediyesi, MÖ 7. yüzyılın sonlarında tarihte ilk kez madeni parayı (sikke) basarak ticarette takas usulüne son vermeleridir. Sardeis'in ortasından geçen Paktolos (Sart Çayı) alüvyonlarındaki doğal altın ve gümüş karışımı olan elektrondan ilk sikkeleri basmışlar; üzerlerine hanedanın arması olan kükreyen aslan başı ve boğa figürünü vurmuşlardır.\n\nSardeis'te bulunan altın arıtma atölyeleri, altını gümüşten ayrıştıran ilk kimyasal arıtma tesisleridir. Lidya kadınlarının kullandığı bakkaris adlı kokulu merhem, lüks Lidya seramiği olan lydion kapları içinde tüm Akdeniz'e ihraç edilmiştir.\n\nLidya kralları Sardeis'in kuzeyinde, Marmara Gölü kıyısındaki Bintepe Nekropolü'nde yer alan devasa tümülüslerde yatmaktadır. Kral Alyattes'in Tümülüsü, üç yüz elli metreyi aşan taban çapıyla Anadolu'nun en büyük tümülüs mezarıdır.\n\nKral Kroisos, Pers Kralı Kyros'un ordusuna yenilince Sardeis düşmüş ve Lidya Krallığı MÖ 546 yılında Pers İmparatorluğu'na bağlanmıştır.\n\n### D. Urartu Krallığı (MÖ 9-6. Yüzyıl)\nDoğu Anadolu'nun sarp dağlık coğrafyasında, Van Gölü havzasında kurulan Urartuların başkenti Tuşpa (Van Kalesi)'dır. Krallık zorlu coğrafyayı dize getiren su mühendisliği, kaya mimarisi ve olağanüstü maden işçiliğiyle öne çıkar.\n\nUrartu baş tanrısı, savaş ve zafer tanrısı Haldi'dir. Seferler Haldi adına açılır, fethedilen kalelere onun için tapınaklar dikilirdi.\n\nUrartular sarp kayalıkları oyarak devasa kaleler inşa etmişlerdir: Van Kalesi (Tuşpa), Çavuştepe (Sardurihinili), Ayanis Kalesi, Anzaf Kaleleri ve Erzincan Altıntepe. Kalelerin içinde ana kayaya oyulmuş çok odalı kral mezarları, tonozlu mahzenler ve binlerce litrelik erzak küpleriyle (pithos) dolu depolar yer alır.\n\nSu mühendisliğinde çığır açmışlardır. Kral Menua tarafından yaptırılan ve halk arasında Şamram Kanalı olarak bilinen elli bir kilometre uzunluğundaki Menua Sulama Kanalı, taş ayaklar ve istinat duvarları üzerinden suyu aşırarak Van Ovası'nı vahaya çevirmiştir ve bugün hala işlevini sürdürmektedir.\n\nTunç ve demir işlemede Yakındoğu'nun zirvesidirler. Kazanların kenarlarına taktıkları kanatlı kadın (siren) ve boğa başlı kulp eklentileri (ataşlar), tunç adak levhaları, miğferler ve kalkanlar Yunanistan ve İtalya'daki Etrüsk mezarlarına kadar ihraç edilmiştir.\n\n### E. İon, Karia ve Likya Uygarlıkları\nBatı Anadolu kıyılarında Ege ve Akdeniz'in özgür denizci uygarlıkları yükselmiştir:\n* **İon Şehir Devletleri:** Milet, Efes, Priene, Teos, Erythrai, Phokaia, Smyrna gibi on iki kent, dini ve siyasi bir merkez olan Dilek Yarımadası'ndaki Panionion birliğinde toplanmıştır. Felsefenin, pozitif bilimin ve demokrasinin doğduğu topraklardır (Thales, Anaksimandros, Anaksimenes, Hekataios, Herakleitos).\n* **Karia Uygarlığı:** Güneybatı Anadolu'da (Muğla ve çevresi) yer alır. Başkentleri önce Mylasa (Milas), ardından Halikarnassos (Bodrum)'tur. Kral Mausolos adına inşa edilen Halikarnassos Mausoleumu, Antik Dünyanın Yedi Harikası'ndan biridir. Labraunda kutsal alanı, Karia'nın çift yüzlü baltalı tanrısı Zeus Labraundos'un merkezidir.\n* **Likya Uygarlığı:** Teke Yarımadası'nda (Antalya-Fethiye arası) Işık Ülkesi olarak bilinir. Tarihin ilk demokratik federasyonu sayılan Likya Birliği'ni kurmuşlardır. Birliğin yönetim merkezi Patara'dır ve burada dünyanın ilk demokratik meclis binası yer alır. Kentlerin oy hakkı nüfus ve büyüklüklerine göre bir, iki veya üç oy olarak belirlenmiştir. Ahşap hatıl mimarisini taklit eden ahşap ev tipi kaya mezarları (Myra, Dalyan/Kaunos, Fethiye Amintas Mezarı) ve anıtsal Likya lahitleri bölgenin alametifarikasıdır.\n\n---",
         "sentences": [
           {
@@ -11079,6 +11591,150 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "V yanlıştır; Aioller kuzeye, Dorlar güneye yerleşmiştir. I, II, III ve IV doğrudur.\n\n💡 Hafıza İpucu: D-K-P-M zinciri: Deniz Kavmi Hitit'i, Kimmer Frig'i, Pers Lidya'yı, Med Urartu'yu yıktı.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q019",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdaki antik kentler ve günümüzde bulundukları şehir eşleşmelerinden hangisi doğru olarak verilmiştir?",
+            "options": [
+              "A) Klaros-İzmir",
+              "B) Ani-Antalya",
+              "C) Pisidia Antiokheia-Gaziantep",
+              "D) Phaselis-Artvin",
+              "E) Zeugma-Isparta"
+            ],
+            "correctIndex": 0,
+            "explanation": "Klaros (kehanet merkezi) İzmir’in Menderes ilçesindedir. Doğru diğer eşleşmeler: Ani-Kars, Pisidia Antiokheia-Isparta (Yalvaç), Phaselis-Antalya (Kemer), Zeugma-Gaziantep (Nizip) (2026 Ağustos Mesleğe Kabul B Grubu, S. 19).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q037",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "I. Xanthos - Likya\nII. Mylasa - Karya\nIII. Labranda - Urartu\nIV. Gordion - Frig\nV. Didyma - Asur\n\nYukarıdaki antik kent-uygarlık eşleşmelerinden hangileri doğrudur?",
+            "options": [
+              "A) I, II ve III",
+              "B) I, II, ve IV",
+              "C) II, III ve IV",
+              "D) II, III ve V",
+              "E) III, IV ve V"
+            ],
+            "correctIndex": 1,
+            "explanation": "Xanthos Likya’nın, Mylasa Karya’nın, Gordion Frigya’nın önemli merkezleridir. Labranda Karya’ya (Urartu değil), Didyma ise İonya/Miletos’a (Asur değil) aittir (2026 Ağustos Mesleğe Kabul B Grubu, S. 37).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q046",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Efes’te yaşamıştır. “Her şey akar” sözüyle özdeşleşmiş; evrende sürekli bir değişim olduğunu savunarak ateşi, varlığın temel ilkesi olarak kabul etmiştir.\n\nYukarıda tanıtılan Antik Çağ filozofu aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Herakleitos",
+              "B) Aristoteles",
+              "C) Anaksimenes",
+              "D) Demokritos",
+              "E) Thales"
+            ],
+            "correctIndex": 0,
+            "explanation": "“Panta rhei” (Her şey akar) ve “Aynı nehirde iki kez yıkanılmaz” sözleriyle bilinen Efesli doğa filozofu Herakleitos, evrenin ana maddesi (arkhe) olarak ateşi kabul etmiştir (2026 Ağustos Mesleğe Kabul B Grubu, S. 46).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q077",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Lidya Krallığı’nın başkenti olan ve günümüzde Manisa ili sınırları içinde bulunan antik kenttir?",
+            "options": [
+              "A) Pergamon",
+              "B) Didyma",
+              "C) Sagalassos",
+              "D) Milet",
+              "E) Sardes"
+            ],
+            "correctIndex": 4,
+            "explanation": "Manisa’nın Salihli ilçesi yakınlarında bulunan Sardes (Sart), tarihte ilk madeni parayı basan Lidya Krallığı’nın başkentidir ve 2025 yılında Bin Tepe Lidya Tümülüsleri ile birlikte UNESCO Dünya Mirası Listesi’ne alınmıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 77).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q081",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Urartular döneminde yaptırılan ve günümüzde Şamran Kanalı olarak bilinen su yapısı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Bozdoğan Kemeri",
+              "B) Delikkemer Su Yolu",
+              "C) Ferhat ve Şirin Su Kanalları",
+              "D) Aspendos Su Kemeri",
+              "E) Menua Kanalı"
+            ],
+            "correctIndex": 4,
+            "explanation": "Urartu Kralı Menua tarafından Van’ın Gürpınar ilçesinden başkent Tuşpa’ya su taşımak için inşa ettirilen 51 km’lik kanal, günümüzde “Şamran Kanalı” olarak bilinir ve hâlâ kullanılmaktadır (2026 Ağustos Mesleğe Kabul B Grubu, S. 81).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q082",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Friglerin ana tanrıçası aşağıdakilerden hangisidir?",
+            "options": [
+              "A) İştar",
+              "B) Athena",
+              "C) Artemis",
+              "D) Matar Kubileya",
+              "E) İnanna"
+            ],
+            "correctIndex": 3,
+            "explanation": "Frig panteonunun başında bulunan ve doğa ile bereketi simgeleyen ana tanrıça “Matar Kubileya”dır (Yunan ve Roma dünyasında Kybele olarak benimsenmiştir) (2026 Ağustos Mesleğe Kabul B Grubu, S. 82).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_ANM-006",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Ankara Polatlı yakınlarındaki Gordion'u başkent yapan, ana tanrıça Kybele'ye (Matar) tapan, ahşap kakmacılığı ve çengelli iğne (fibula) üretimiyle ünlenen Demir Çağı uygarlığı hangisidir?",
+            "options": [
+              "A) Lidyalılar",
+              "B) Urartular",
+              "C) Frigler",
+              "D) Hititler",
+              "E) Karyalılar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kral Midas ile efsaneleşen Frigler, Gordion başkentli krallık kurmuş; tapates (kilim), fibula ve Midas Tümülüsü ahşap mezar odasıyla uygarlık tarihine damga vurmuştur. (MKS_Anadolu_Uygarliklari M.ALI 2026.pdf, s.7)\n\n💡 Hafıza İpucu: FRİGLER = GORDİON, FİBULA (İĞNE), TAPATES (KİLİM), KYBELE.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ANM-007",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Van Gölü kıyısındaki Tuşpa kalesini merkez edinen, baş tanrısı Haldi olan, kaya mimarisi, maden işçiliği ve Menua (Şamram) su kanalıyla tanınan devlet hangisidir?",
+            "options": [
+              "A) Medler",
+              "B) Urartular",
+              "C) Lidyalılar",
+              "D) Frigler",
+              "E) Persler"
+            ],
+            "correctIndex": 1,
+            "explanation": "Urartu Krallığı Doğu Anadolu'nun zorlu coğrafyasında görkemli kaleler, barajlar ve 50 km'lik Şamram Kanalı gibi bugün de çalışan hidrolik su yapıları kurmuştur. (MKS_Agustos_Juri_Sinavi_MAliCetinkaya 2026.pdf, s.4)\n\n💡 Hafıza İpucu: URARTU = TUŞPA (VAN) & HALDİ & ŞAMRAM KANALI & KAYA MEZARLARI.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ANM-008",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Manisa Salihli yakınlarındaki Sardes'i başkent yapan, Paktolos Çayı'ndan çıkardıkları 'elektron' madeninden tarihin ilk madeni parasını (sikke) basan uygarlık hangisidir?",
+            "options": [
+              "A) İyonlar",
+              "B) Lidyalılar",
+              "C) Frigler",
+              "D) Urartular",
+              "E) Hititler"
+            ],
+            "correctIndex": 1,
+            "explanation": "MÖ 7. yüzyılda Kral Gyges döneminde altın-gümüş doğal alaşımı elektrondan ilk sikkeyi basan Lidyalılar, Sardes-Susa arasındaki Kral Yolu ticaretini zenginleştirmiştir. (MKS_Agustos_Juri_Sinavi_MAliCetinkaya 2026.pdf, s.4)\n\n💡 Hafıza İpucu: LİDYA = SARDES & İLK SİKKE (ELEKTRON) & KRAL YOLU.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -11088,7 +11744,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "anadolu",
         "order": 6,
         "title": "Helenistik ve Roma Dönemi",
-        "officialQuestionCount": 120,
+        "officialQuestionCount": 125,
         "lectureContent": "## 6. Alt Başlık: Helenistik ve Roma Dönemi\n\nBüyük İskender'in MÖ 334 yılında Çanakkale Boğazı'nı geçerek başlattığı Asya Seferi, Anadolu'da Doğu ile Batı kültürünün kaynaştığı yepyeni bir kozmopolit çağ açmıştır: Helenistik Dönem.\n\n### A. Büyük İskender ve Helenistik Krallıklar\nMakedonya Kralı Büyük İskender, Persleri önce Çanakkale'de Granikos Çayı'nda, ardından Hatay Dörtyol yakınlarındaki İssos Savaşı'nda bozguna uğratarak Pers egemenliğine son vermiştir. Gordion'a uğradığında, Asya'ya hükmedecek kişinin çözeceğine inanılan ünlü Gordion Düğümü'nü kılıcıyla kesmiştir.\n\nİskender'in genç yaşta ölümünün ardından imparatorluk generalleri (Diadokhlar) arasında paylaşılmış ve Anadolu'da bölgesel Helenistik krallıklar kurulmuştur:\n* **Bergama (Pergamon) Krallığı:** Attaloslar Hanedanı yönetmiştir. Başkent Bergama Akropolü, dünyanın en dik tiyatrosuna, iki yüz bin ciltlik kütüphaneye ve Antik Dünyanın en görkemli kabartmalarına sahip Zeus Sunağı'na ev sahipliği yapmıştır. Mısır papirüs ihracatını yasaklayınca, keçi ve koyun derisinden parşömen kâğıdını icat etmişlerdir. Bergama Asklepionu dönemin en ileri tıp merkezidir. Son kral III. Attalos, çocuğu olmadığı için krallığını vasiyetname ile Roma Cumhuriyeti'ne bırakmış ve böylece Anadolu'da Roma egemenliğinin kapısı açılmıştır.\n* **Kommagene Krallığı:** Adıyaman Kahta merkezli, Toros dağlarının eteklerinde kurulmuş tampon bir krallıktır. Doğu ile Batı tanrılarını sentezlemişlerdir. Kral I. Antiohos, 2150 metre yükseklikteki Nemrut Dağı zirvesine kendi anıt mezarını ve devasa tanrı heykellerini diktirmiştir. Heykellerde Zeus-Oromasdes, Apollo-Mithra-Helios-Hermes ve Herakles-Artagnes gibi Helen ve Pers tanrı isimleri yan yana kullanılmıştır. Kralın babası I. Mithridates Kallinikos adına kurulan Arsameia ören yerinde, kral ile Herakles'in el sıkışma (dexiosis) kabartması yer alır.\n* **Pontus Krallığı:** Karadeniz kıyılarında başkenti Amasya (Amaseia), ardından Sinop olan krallıktır. Amasya Harşena Kalesi yamaçlarındaki Kralkaya Mezarları Pontus krallarına aittir. Ünlü coğrafyacı Strabon Amasyalıdır. Kral VI. Mithridates Eupator, Roma'ya karşı kanlı savaşlar yürütmüş, zehirlenmemek için her gün azar azar zehir içerek geliştirdiği bağışıklık yöntemi tıp tarihine mitridatizm olarak geçmiştir.\n* **Bitinya ve Kapadokya Krallıkları:** Kuzeybatı Anadolu'da Bitinya (başkenti Nikomedeia / İzmit), İç Anadolu'da ise Kapadokya Krallığı (başkenti Mazaka / Kayseri) hüküm sürmüştür.\n\n### B. Roma İmparatorluğu ve Anadolu\nBergama'nın vasiyetle devredilmesinin ardından Roma, MÖ 129 yılında başkenti Efes olan Asia Eyaleti'ni kurmuştur. Zamanla tüm Anadolu eyaletlere bölünerek Roma Barışı (Pax Romana) adı verilen iki yüz yıllık huzur ve zenginlik dönemine girmiştir.\n\nRoma çağında Anadolu kentleri anıtsal mermer mimarilerle donatılmıştır:\n* **Efes:** Roma'nın Küçük Asya başkenti ve dünyanın en büyük liman metropollerinden biri olmuştur. Mermer Caddesi, Kuretler Caddesi, yamaç evleri, tiyatrosu ve İmparator Traianus adına yapılan görkemli Celsus Kütüphanesi ile parlamıştır.\n* **Afrodisias (Aydın Geyre):** Mermer ocaklarının dibinde kurulduğu için tüm Roma İmparatorluğu'na heykeltıraş yetiştiren dünyaca ünlü bir heykelcilik okuluna sahip olmuştur. Roma imparatorlarına tapınmak için yapılan Sebasteion tapınak kompleksi, dünyada eşi benzeri olmayan kabartmalarla bezelidir. Otuz bin kişilik stadyumu antik dünyanın en iyi korunan stadyumudur.\n* **Aizanoi (Kütahya Çavdarhisar):** Anadolu'nun en iyi korunmuş Zeus Tapınağı'na ev sahipliği yapar. Tapınağın altındaki tonozlu cella, Anadolu kökenli Toprak Ana Kybele kültüne adanmıştır. Tapınağın yanı başındaki dairesel Macellum (gıda pazarı) duvarlarına, İmparator Diocletianus'un enflasyonu durdurmak için çıkardığı dünyanın ilk tavan fiyat borsa kararnamesi kazınmıştır.\n* **Antalya Bölgesi Kentleri (Pamfilya):** Sagalassos görkemli Antoninler Çeşmesi ve tiyatrosuyla, Perge kuleli anıtsal kapıları ve su kanallı sütunlu caddeleriyle, Aspendos ise Mimar Zenon tarafından yapılan ve sahne binasıyla akustiği günümüze kadar ayakta kalan dünyanın en mükemmel antik tiyatrosuyla Roma mimarlık dehasının doruğunu temsil eder.\n\n---\n\n### Sınav Refleksleri ve Kritik Çapalar\n\n* **İlkler Zinciri:**\n  * Türkiye'de ilk insan yerleşimi: İstanbul Yarımburgaz Mağarası.\n  * Türkiye'de Neandertal fosili bulunan tek yer: Antalya Karain Mağarası.\n  * İlk tapınak mimarisi ve T biçimli steller: Şanlıurfa Göbeklitepe ve Karahantepe.\n  * İlk kafatası ameliyatı (trepanasyon): Aksaray Aşıklı Höyük.\n  * İlk metal işleme ve terrazzo taban: Diyarbakır Çayönü.\n  * İlk organize sokaksız proto-kent: Konya Çatalhöyük.\n  * İlk kerpiç saray, devlet bürokrasisi ve kılıç: Malatya Arslantepe.\n  * İlk yazılı belgeler ve ticaret kolonileri: Kayseri Kültepe (Kaniş-Karum).\n  * İlk yazılı anayasal veraset kanunu: Hitit Kralı Telepinu Fermanı.\n  * İlk tarafsız krallık yıllıkları: Hitit Anal kayıtları (II. Murşili).\n  * İlk eşitlikçi yazılı uluslararası barış antlaşması: Kadeş Barış Antlaşması (Hititler ve Mısır).\n  * İlk madeni sikke ve elektron ayrıştırma: Lidya (Sardeis).\n  * İlk demokratik federasyon ve meclis binası: Likya Birliği (Patara).\n  * İlk parşömen kâğıdı: Bergama Krallığı.\n  * İlk tavan fiyat enflasyon fermanı: Aizanoi Macellum.\n  * En iyi korunan Roma tiyatrosu: Aspendos Tiyatrosu (Mimar Zenon).",
         "sentences": [
           {
@@ -12908,6 +13564,86 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Caesar, MÖ 47'de Zela'da (Zile) Pontus Kralı Pharnakes'e karşı kazandığı hızlı zaferin ardından Roma'ya 'Veni, vidi, vici' (geldim, gördüm, yendim) mesajını göndermiştir.\n\n💡 Hafıza İpucu: ZİLE'de Caesar üç kelimeyle zaferini özetledi: geldim-gördüm-yendim.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q043",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Akdeniz ve Kilikya kıyılarındaki korsanlarla mücadele etmesi için Roma Senatosu tarafından MÖ 67 yılında Lex Gabinia adlı kanunla yetkilendirilen Roma generali aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Marcus Antonius",
+              "B) Gnaeus Pompeius Magnus",
+              "C) Marcus Vipsanius Agrippa",
+              "D) Marcus Licinius Crassus",
+              "E) Lucius Cornelius Sulla"
+            ],
+            "correctIndex": 1,
+            "explanation": "MÖ 67’de çıkarılan Lex Gabinia ile Akdeniz’deki Kilikya korsanlarını temizlemek üzere olağanüstü yetkilerle donatılan Roma generali Gnaeus Pompeius Magnus (Büyük Pompeius), üç ay içinde korsanlığı sonlandırmıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 43).",
+            "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q047",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Roma İmparatorluğu’nda Augustus ile başlayıp MS 180’de Marcus Aurelius’un ölümüyle sona erdiği kabul edilen; barış, siyasi istikrar ve ekonomik refahın hâkim olduğu yaklaşık iki yüzyıllık döneme ne ad verilir?",
+            "options": [
+              "A) Krallık Dönemi",
+              "B) Cumhuriyet Dönemi",
+              "C) Pax Romana Dönemi",
+              "D) Dominatus Dönemi",
+              "E) Tetrarşi Dönemi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Augustus (MÖ 27) ile başlayıp Marcus Aurelius’un ölümüne (MS 180) kadar süren görece barış, imar ve ekonomik refah çağı “Pax Romana” (Roma Barışı) olarak adlandırılır (2026 Ağustos Mesleğe Kabul B Grubu, S. 47).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q057",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Roma Dönemi’nde heykeltıraşlık okuluna sahip olan, mermer heykelleriyle ün kazanan ve Ara Güler’in fotoğraflarıyla tanınırlığı artan antik kent aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Aphrodisias",
+              "B) Troya",
+              "C) Arsameia",
+              "D) Sagalassos",
+              "E) Assos"
+            ],
+            "correctIndex": 0,
+            "explanation": "Aydın’ın Karacasu ilçesindeki Aphrodisias Antik Kenti, Roma Dönemi’nde ünlü heykeltıraşlık okulu ile tanınır ve 1958’de Ara Güler’in fotoğraflarıyla uluslararası kamuoyunun gündemine taşınmıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 57).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q084",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Nemrut Dağı’ndaki anıtsal alanı ve Kral I. Antiokhos’un Doğu ile Batı tanrılarını bir araya getiren heykelleriyle tanınan antik krallık aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Urartu Krallığı",
+              "B) Pergamon Krallığı",
+              "C) Kapadokya Krallığı",
+              "D) Kommagene Krallığı",
+              "E) Lidya Krallığı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Adıyaman’daki Nemrut Dağı tümülüsü ve Doğu-Batı tanrılarını sentezleyen dev heykeller, Helenistik dönem Kommagene Krallığı’nın Kralı I. Antiokhos tarafından yaptırılmıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 84).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_ANM-009",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Bergama Krallığı döneminde Mısır'ın papirüs ihracını yasaklaması üzerine hayvan derisinden geliştirilen ve Bergama Kütüphanesi'ni meşhur eden yazı malzemesi hangisidir?",
+            "options": [
+              "A) Papirüs",
+              "B) Parşömen (Charta Pergamena)",
+              "C) Kil tablet",
+              "D) Ostrakon",
+              "E) İpek kumaş"
+            ],
+            "correctIndex": 1,
+            "explanation": "Bergama'da (Pergamon) oğlak/kuzu derisinin terbiye edilmesiyle elde edilen parşömen, papirüse göre katlanabilir ve çift taraflı yazılabilir olmasıyla kodeks (kitap) formatını doğurmuştur. (04_MKS_Uzman_Deneme M ALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: PARŞÖMEN = BERGAMA KAĞIDI (Pergamon): Deriden kitaba geçiş.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -12918,7 +13654,7 @@ export const COURSES_DATA: Course[] = [
     "id": "arkeoloji",
     "title": "Arkeoloji",
     "slug": "arkeoloji",
-    "totalOfficialQuestions": 573,
+    "totalOfficialQuestions": 591,
     "description": "Arkeolojinin Tanımı ve Yardımcı Bilimleri, Tarihlendirme Yöntemleri, Kazı Terimleri, Seramik Formları ve Mimari Yapılar.",
     "iconName": "Compass",
     "isAvailable": true,
@@ -12928,7 +13664,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "arkeoloji",
         "order": 1,
         "title": "Arkeolojinin Tanımı ve Yardımcı Bilimleri",
-        "officialQuestionCount": 116,
+        "officialQuestionCount": 118,
         "lectureContent": "## 1. Arkeolojinin Tanımı ve Yardımcı Bilimleri\n\nEski Grekçede eskinin sözü veya eskinin bilimi anlamına gelen arkeoloji, geçmişte yaşamış insan topluluklarının geride bıraktığı aletleri, barınakları, sanat eserlerini, mezarları ve kutsal alanları inceleyerek kültürel, sosyal ve ekonomik yapıları yeniden kurgular. Arkeoloji hiçbir zaman tek başına çalışan münzevi bir disiplin değildir. İnsanlığın bıraktığı izlerin çok yönlü doğası, arkeoloğun geniş bir bilimler ordusuyla omuz omuza çalışmasını zorunlu kılar.\n\nYazılı belgelerin ortaya çıkışıyla birlikte arkeolojinin en yakın yol arkadaşı epigrafi olur. Epigrafi; taş, mermer, metal veya pişmiş toprak gibi sert ve dayanıklı yüzeyler üzerine kazınmış veya boyanmış yazıtları, anıt metinlerini, mezar kitabelerini ve kanun levhalarını inceler. Bergama akropolündeki bir kral mektubundan, Didyma tapınak duvarındaki inşaat hesaplarına kadar taşın üzerindeki her yazı epigrafinin sahasıdır.\n\nSikkelerin dünyasına girdiğimizde devreye nümismatik girer. Eski dilde meskûkât olarak anılan bu bilim dalı; antik sikkelerin üzerindeki hükümdar portrelerini, basım yıllarını, darphane simgelerini, maden alaşımlarını ve ağırlık standartlarını çözümler. Bir kazı tabakasında ele geçen tek bir sikke, o tabaka için kesin bir tarih çengeli sunarken aynı zamanda dönemin ekonomik gücünü, enflasyonunu ve ticaret güzergâhlarını belgeler.\n\nKağıt, parşömen ve papirüs gibi organik malzemeler üzerindeki el yazılarını okuyan, harflerin yüzyıllar içindeki biçimsel değişimini inceleyen bilim dalı ise paleografyadır. Dillerin kökenini, gramer yapılarını ve metinlerin filolojik anlamını çözen filoloji ise Hitit çivi yazılı tabletlerinden Mısır hiyerogliflerine kadar metinlerin dilsel kodlarını açar. Zamanın matematiksel akışını ve takvim sistemlerini düzenleyen bilim dalı ise kronolojidir.\n\nMaddi kalıntıları incelerken insanın bizzat kendi biyolojik varlığını anlamak için antropoloji ve fosil insan kalıntılarını araştıran paleoantropoloji sahneye çıkar. Nitekim Türkiye'de Antalya Karain Mağarası'nda bulunan ve ülkemizin tek Neandertal fosili olan kafatası ve çene parçası, bu iki disiplinin ortak zaferidir ve Orta Paleolitik dönemin en somut anatomik kanıtıdır. Denizli Kocabaş travertenlerinde bulunan yaklaşık bir milyon yıllık kafatası parçası ise Homo erectus türünün Anadolu'daki varlığını bu yöntemlerle kanıtlamıştır.\n\nToprağın jeolojik katmanlarını, tortul oluşumları ve erozyon süreçlerini anlamamızı sağlayan jeoloji ve jeomorfoloji, bir höyüğün ya da mağaranın nasıl bir doğal çevrede şekillendiğini gösterir. Günümüz modern arkeolojisinde toprağı henüz kazmadan yeraltındaki duvarları ve mezar odalarını tespit eden jeofizik yöntemler, manyetometri ve yeraltı radarı, kazı öncesi en kritik rehberdir.\n\nAntik yerleşimlerde bulunan tohumları, kömürleşmiş ahşapları ve polenleri inceleyerek dönemin iklimini ve tarım alışkanlıklarını ortaya çıkaran arkeobotanik ve palinoloji ile hayvan kemiklerinden evcilleştirme ve beslenme modellerini çözen arkeozooloji, antik insanın sofrasını ve çevresini önümüze serer.\n\nKültürel sürekliliği yaşayan gelenekler üzerinden okuyan etnografya, antik bir tahıl ambarı ile günümüz köy ambarı arasındaki köprüyü kurar. Son olarak denizlerin, göllerin ve ırmakların dibindeki batıkları, liman mendireklerini ve su altında kalmış yerleşimleri araştıran sualtı arkeolojisi, ülkemizin dünya çapında öncü olduğu alanlardan biridir. Türkiye'nin ilk sualtı arkeoloji müzesi Muğla'da Bodrum Kalesi içinde kurulmuş olup, Kaş açıklarında bulunan ve dünyanın bilinen en eski açık deniz batıklarından biri olan Geç Tunç Çağı Uluburun Batığı burada sergilenmektedir.\n\n---",
         "sentences": [
           {
@@ -14051,6 +14787,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Kronolojik sıra; British Museum'un halka açılışı (1759), Louvre'un halka açılışı (1793) ve Skansen'in açılışı (1891) şeklindedir (s.39-40, 82).\n\n💡 Hafıza İpucu: B-L-S zinciri: British (18.yy ortası) → Louvre (18.yy sonu) → Skansen (19.yy sonu).",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q045",
+            "subtopicId": "arkeoloji_1",
+            "courseId": "arkeoloji",
+            "questionText": "I. Peplos\nII. Khiton\nIII. Sebasteion\nIV. Himation\nV. Heroon\n\nYukarıdakilerden hangileri Antik dönem giysileri arasında yer alır?",
+            "options": [
+              "A) I ve II",
+              "B) III ve IV",
+              "C) I, II ve IV",
+              "D) II, III ve V",
+              "E) I, II, III ve V"
+            ],
+            "correctIndex": 2,
+            "explanation": "Peplos, khiton ve himation Antik Yunan ve Roma döneminde kullanılan temel giysi türleridir. Sebasteion (imparator kültü tapınağı) ve heroon (kahraman anıt mezarı) ise mimari yapılardır (2026 Ağustos Mesleğe Kabul B Grubu, S. 45).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-001",
+            "subtopicId": "arkeoloji_1",
+            "courseId": "arkeoloji",
+            "questionText": "Eski yazıtları, taş veya madeni kitabeleri epigrafik yöntemlerle inceleyen, antik kentlerin siyasi ve sosyal kararlarını aydınlatan yardımcı bilim dalı hangisidir?",
+            "options": [
+              "A) Nümizmatik",
+              "B) Epigrafi",
+              "C) Paleografya",
+              "D) Stratigrafi",
+              "E) Antropoloji"
+            ],
+            "correctIndex": 1,
+            "explanation": "Epigrafi taş, mermer ve metal zeminler üzerindeki kitabeleri inceler. Nümizmatik sikkeleri, Paleografya ise el yazması kağıt/parşömen metinleri inceler. (G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: EPİGRAFİ = TAŞ/KİTABE YAZIT BİLİMİ; NÜMİZMATİK = SİKKE/PARA BİLİMİ.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -14060,7 +14828,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "arkeoloji",
         "order": 2,
         "title": "Tarihlendirme Yöntemleri",
-        "officialQuestionCount": 99,
+        "officialQuestionCount": 102,
         "lectureContent": "## 2. Tarihlendirme Yöntemleri\n\nArkeolojik bir buluntunun bilimsel değer kazanabilmesi, insanlık kronolojisindeki yerinin doğru belirlenmesine bağlıdır. Arkeolojide tarihlendirme yöntemleri temelde iki büyük aileye ayrılır: Mutlak tarihlendirme ve Göreceli tarihlendirme.\n\n### Mutlak Tarihlendirme Yöntemleri\n\nMutlak tarihlendirme yöntemleri, laboratuvar ortamında fiziksel ve kimyasal süreçler kullanılarak buluntunun doğrudan takvimsel yaşını kesin ya da dar bir yıl aralığı olarak verir.\n\nKarbon-14 yöntemi, yalnızca organik, yani bir zamanlar canlı olan malzemelerde kullanılır. Yaşayan her canlı, atmosferden eşit oranda Karbon-14 izotopu alır. Canlı öldüğü anda Karbon-14 alımı durur ve bünyesindeki izotop düzenli bir hızla bozulmaya başlar. Karbon-14 izotopunun yarılanma ömrü yaklaşık 5730 yıldır. Ahşap, kömür, kemik, deri, kumaş ve tohum gibi kalıntılarda yaklaşık 50 bin yıla kadar olan tarihlendirmelerde arkeolojinin temel omurgasıdır. Canlı kökenli olmayan mermer, taş veya metal gibi cansız nesnelere Karbon-14 uygulanamaz; bu kural sınavların en klasik çeldiricisidir.\n\nDendrokronoloji, yani ağaç halkası tarihlendirmesi, ağaç gövde kesitlerindeki yıllık büyüme halkalarını sayma ve desen eşleştirme yöntemidir. Ağaçlar her yıl mevsimsel yağış ve sıcaklığa göre biri açık, biri koyu iki halka üretir. Kurak yıllarda halkalar dar, yağışlı yıllarda geniş oluşur. Arkeologlar, yaşayan ağaçlardan geriye doğru fosil kütüklere uzanan kesintisiz bir halka arşivi kurarak ahşabın kesildiği kesin takvim yılını tam olarak belirleyebilirler. Ankara Polatlı'daki Gordion Midas Tümülüsü ahşap mezar odasının tarihlendirilmesinde bu yöntem kullanılmıştır.\n\nPotasyum-Argon yöntemi, volkanik kayaçlar, lavlar ve volkanik kül tabakalarının yaşını ölçer. Potasyum-40 izotopunun Argon-40 gazına dönüşüm hızına dayanır. Milyonlarca yıllık süreçleri kapsadığından, insansı fosillerinin gömülü olduğu volkanik tabakaların yaşını belirlemede vazgeçilmezdir.\n\nTermolüminesans ve Optik Lüminesans yöntemleri, pişmiş toprak kaplar, fırın tuğlaları ve ocak tabanları gibi killi malzemeler ile yanmış çakmaktaşları için kullanılır. Seramik kili fırınlandığı an, geçmişte hapsettiği radyoaktif enerji sıfırlanır ve saat yeniden işlemeye başlar. Laboratuvarda malzeme yeniden ısıtıldığında veya ışığa maruz bırakıldığında, hapsettiği elektronlar ışık olarak açığa çıkar; açığa çıkan ışık miktarı seramiğin fırınlandığı günden bu yana geçen süreyi gösterir.\n\nArkeomanyetizma, fırın ve ocak tabanlarındaki demir oksit taneciklerinin, fırınlandıkları anda Dünya'nın o günkü manyetik kutup yönünü bir pusula gibi kaydetmesi ilkesine dayanır. Dünya'nın manyetik kutup noktası sürekli kaydığı için, kildeki bu manyetik yön referans eğrileriyle karşılaştırılarak yapının en son ne zaman yakıldığı belirlenir.\n\n### Göreceli Tarihlendirme Yöntemleri ve Temel Kavramlar\n\nGöreceli tarihlendirme, buluntunun kesin takvim yaşını değil; başka bir buluntuya veya tabakaya göre daha eski ya da daha yeni olduğunu belirler.\n\nStratigrafi, yani tabakalanma ilkesi, höyüklerde binlerce yıl boyunca üst üste biriken kültür katmanlarını dikey bir kesitte okuma yöntemidir. Jeolojideki süperpozisyon kuralına dayanır: Alttaki tabaka, üstteki tabakadan daima daha eskidir. Höyük kat kat birikmiş bir tepe gibidir; en alttaki kat ilk yerleşimi yani en eski dönemi, en üstteki kat ise en son terk edilen dönemi gösterir.\n\nTipoloji, kazılarda bulunan eserlerin biçimsel, işlevsel ve bezeme özelliklerine göre gruplanarak gelişim sırasına dizilmesidir. Örneğin amforaların yüzyıllar içindeki gövde formu ve kulp değişimleri tipolojik bir evrim çizgisi sunar.\n\nTerminus Ante Quem kavramı, en geç şu tarihten önce anlamına gelir. Eğer bir buluntu, tarihi kesin olarak bilinen bir tabakanın altındaysa, örneğin kesin tarihi bilinen büyük bir yangın veya yıkım katmanının altındaysa, o buluntu en geç bu yangından önce üretilmiştir.\n\nTerminus Post Quem kavramı ise en erken şu tarihten sonra anlamına gelir. Eğer bir tabakanın tabanında üzerinde Milattan Sonra 141 yazan bir Roma sikkesi bulunmuşsa ve bir kandil bu sikkenin üzerindeyse, o kandil Milattan Sonra 141 yılından daha eski olamaz; yani en erken o tarihten sonra oraya bırakılmıştır.\n\nİn-situ terimi, arkeolojinin en kıymetli kavramlarından biridir. Bir eserin, antik çağda insanlar tarafından bırakıldığı, terk edildiği veya yıkıldığı özgün konumunda, yüzyıllar boyunca hiçbir doğa olayı veya insan müdahalesiyle yerinden oynatılmamış, yerli yerinde bulunması durumunu ifade eder.\n\n---",
         "sentences": [
           {
@@ -14492,6 +15260,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "C-14 izotopunun yarılanma ömrü 5730 yıl olup, yaklaşık 50.000 yıldan eski örneklerde ölçülebilecek radyoaktivite kalmadığından bu sürenin ötesine geçilemez.\n\n💡 Hafıza Çapası: C-14 tavanı = Yaklaşık 50 bin yıl.",
             "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-002",
+            "subtopicId": "arkeoloji_2",
+            "courseId": "arkeoloji",
+            "questionText": "Ahşap malzemelerdeki yıllık büyüme halkalarının (ağaç yaş halkaları) dizilimini ve iklimsel desenini eşleştirerek kesin tarihleme yapan yöntem hangisidir?",
+            "options": [
+              "A) Dendrokronoloji",
+              "B) Karbon-14 (Radyokarbon)",
+              "C) Stratigrafi",
+              "D) Termolüminesans",
+              "E) Potasyum-Argon"
+            ],
+            "correctIndex": 0,
+            "explanation": "Dendrokronoloji ağaçların her yıl oluşturduğu konsantrik halkaları inceler. Gordion Midas Tümülüsü'nün ahşap mezar odası bu yöntemle tam yılıyla tarihlendirilmiştir. (G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: DENDRO = AĞAÇ: Ağaç yaş halkalarıyla takvim gibi mutlak tarihleme.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-003",
+            "subtopicId": "arkeoloji_2",
+            "courseId": "arkeoloji",
+            "questionText": "Arkeolojik kazılarda canlı doku kalıntıları, kömürleşmiş tohum ve kemik gibi organik buluntuların mutlak yaşını radyoaktif bozunmaya dayanarak belirleyen yöntem hangisidir?",
+            "options": [
+              "A) Dendrokronoloji",
+              "B) Stratigrafi",
+              "C) Termolüminesans",
+              "D) Radyokarbon (Karbon-14)",
+              "E) Tipolojik sıralama"
+            ],
+            "correctIndex": 3,
+            "explanation": "Karbon-14 izotopunun yarılanma ömrü (yaklaşık 5730 yıl) prensibine dayanan bu yöntem organik maddelerin yaşını 50.000 yıla kadar hassas şekilde hesaplar. (G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: KARBON-14 = ORGANİK KALINTI (kemik, odun, tohum) TARİHLEMESİ.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-010",
+            "subtopicId": "arkeoloji_2",
+            "courseId": "arkeoloji",
+            "questionText": "Arkeolojik bir kazı alanında üst üste biriken kültür katmanlarının en alttakinin en eski, en üsttekinin en genç olduğu ilkesine dayanan göreli tarihleme yöntemi hangisidir?",
+            "options": [
+              "A) Stratigrafi (Katmanlaşma)",
+              "B) Tipoloji",
+              "C) Dendrokronoloji",
+              "D) Potasyum-Argon",
+              "E) Termolüminesans"
+            ],
+            "correctIndex": 0,
+            "explanation": "Stratigrafi yerbilimden arkeolojiye uyarlanan süperpozisyon ilkesidir; tabakaların jeolojik ve arkeolojik sırasına göre göreli yaş ilişkisini verir. (G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: STRATİGRAFİ = KATMAN BİLİMİ (Alt katman eski, üst katman yeni).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -14501,7 +15317,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "arkeoloji",
         "order": 3,
         "title": "Kazı ve Koruma Terimleri",
-        "officialQuestionCount": 136,
+        "officialQuestionCount": 143,
         "lectureContent": "## 3. Kazı ve Koruma Terimleri\n\nAntik yerleşimleri incelerken karşılaşılan mimari yapılar, alan türleri ve yasal koruma ilkeleri, arkeolojinin sahadaki kurallarını belirler.\n\n### Temel Alan ve Anıt Türleri\n\nHöyük, insanların binlerce yıl boyunca aynı coğrafi noktada, kerpiç ve taş kullanarak üst üste yerleşimler kurması ve bu yıkıntıların birikmesiyle oluşan yapay tepe yerleşimidir. Çatalhöyük, Alacahöyük, Kültepe ve Arslantepe Anadolu'nun en bilinen höyükleridir.\n\nTümülüs, bir kral, soylu ya da kahramanın yer altındaki taş veya ahşap mezar odasının üzerine devasa boyutlarda toprak ve taş yığılarak oluşturulan yapay tepe mezardır. Tümülüsler kent içinde veya agorada asla bulunmaz; kent dışında, kırsal alanda veya nekropol çevresinde yükselir. Anadolu'nun en büyük tümülüsü, Manisa Salihli yakınlarındaki Lidya kral mezarlığı Bintepe'de bulunan Alyattes Tümülüsü'dür. Frig tümülüslerinde mezar odası ahşaptan yapılırken, Lidya tümülüslerinde mezar odası taştan inşa edilmiştir.\n\nSitadel, ulaşılması güç, dik ve sarp kayalıklar üzerine kurulmuş, kalın surlarla tahkim edilmiş, idari ve dini merkezleri barındıran müstahkem iç kaledir.\n\nNekropol, antik kentlerde surların dışında yer alan mezarlık alanıdır. Antik dünyada hijyen kuralları ve dini inançlar gereği ölüler kent surlarının dışına gömülürdü. Türkiye'nin en görkemli nekropollerinden biri, iki binden fazla lahit, tümülüs ve ev tipi mezarıyla travertenlerin yanı başında uzanan Pamukkale Hierapolis Nekropolü'dür.\n\nHeroon, kentin efsanevi kurucusu veya kente olağanüstü hizmetlerde bulunmuş kahramanlar adına kentin merkezine, bazen agoraya dikilen anıtsal mezar yapısıdır. Efes Kuretler Caddesi'ndeki Androklos Heroonu bunun en bilinen örneğidir.\n\nStel ve balbal ayrımı sıklıkla karıştırılan bir alandır. Stel, üzerinde kabartma, tasvir veya kitabe bulunan dikili, yassı taş levhadır. Balbal ise İslam öncesi Türk mezarlarının çevresine, kişinin hayattayken yendiği veya öldürdüğü düşman sayısınca dikilen insan biçimli küçük anıt taşlardır.\n\nFibula, Friglerin ustalığıyla Anadolu'da yaygınlaşan, giysi tutturmaya yarayan madeni çengelli iğnedir. Friglerin tamamen kendilerine ait olan özgün buluşu ise makara kulplu kâselerdir.\n\nOrtostat, Hitit ve Geç Hitit mimarisinde sarayların, anıtsal kapıların ve kale surlarının alt kısımlarına dikine yerleştirilen, üzeri kabartmalı büyük taş bloklardır. Alacahöyük sfenksli kapısı ve Karatepe-Aslantaş kabartmaları ortostat sanatının zirvesidir.\n\nPotern, kale ve sur bedenlerinin altından dışarıya açılan, iri taşlarla bindirme kemer tekniğiyle örülmüş, dışarıdan bakıldığında fark edilmeyen gizli yeraltı baskın tünelidir. Hattuşa Yerkapı'daki 71 metre uzunluğundaki potern bunun en anıtsal örneğidir.\n\nPropylon ise poternin tam aksine, kutsal alanlara, agoralara veya resmi alanlara geçit veren gösterişli ve anıtsal giriş kapısıdır.\n\nMegaron, Tunç Çağı'na özgü, önde açık bir giriş holü ve arkada ortasında yuvarlak bir ocak bulunan büyük dikdörtgen bir salondan oluşan konut tipidir. Troia birinci katmanında görülen megaron planı, ilerleyen çağlarda Klasik Yunan tapınak mimarisinin doğrudan atası olmuştur.\n\n### Restorasyon ve Koruma İlkeleri\n\nAnastiloz, yıkılmış ya da depremle dağılmış mimari bir yapının, mevcut orijinal yapı taşlarının titizlikle toplanarak, minimum yeni dolgu malzemesiyle kendi özgün temeli üzerinde yeniden ayağa kaldırılması işlemidir. Efes Antik Kenti'ndeki Celsus Kütüphanesi cephesinin ayağa kaldırılması ve Aydın Afrodisias Tetrapylonu anastiloz tekniğinin dünya çapındaki başyapıtlarıdır.\n\nRestorasyon, hasar görmüş ya da bozulmuş bir kültür varlığının aslına sadık kalınarak onarılması ve ömrünün uzatılmasıdır.\n\nRestitüsyon, zamanla yıkılmış, bir bölümü kaybolmuş veya tahrip olmuş bir yapının ya da müze eserinin, elde edilen arkeolojik veriler ışığında orijinal halinin çizimle, dijital modellemeyle veya maketle tamamlanması ve canlandırılması projesidir.\n\nRekonstrüksiyon, tamamen yok olmuş veya yıkılmış bir yapının, elde kalan belgelere dayanılarak yeni malzemelerle sıfırdan yeniden inşa edilmesidir.\n\nKonservasyon, eserin mevcut durumunu korumak, bozulmasını yavaşlatmak veya durdurmak için yapılan fiziksel ve kimyasal koruma müdahaleleridir.\n\nKültür varlıkları mevzuatımız 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu'na dayanır. Bu kanuna göre eserler taşınır ve taşınmaz olarak ikiye ayrılır. Taşınır kültür varlığı; sikke, el yazması, seramik kap, kandil, mühür ve takı gibi taşınabilen eserlerdir. Taşınmaz kültür varlığı ise akropol, höyük, tiyatro, sur ve kervansaray gibi toprağa bağlı, yerinden oynatılamayan anıtlardır. Kanunumuzda sit alanları yalnızca dört kategoriye ayrılır: Arkeolojik Sit, Kentsel Sit, Tarihî Sit ve Doğal Sit. Mevzuatımızda endüstriyel sit veya kırsal sit tanımları yer almaz.\n\n### Türk Müzeciliği ve Öncü Arkeologlar\n\nTürk müzeciliğinin ilk adımı 1846 yılında Tophane Müşiri Ahmed Fethi Paşa tarafından atılmıştır. Fethi Ahmed Paşa, İstanbul Topkapı Sarayı'nın birinci avlusunda yer alan ve fetihten sonra cephanelik olarak kullanılan Bizans yapısı Aya İrini Kilisesi'nde toplanan eski eserleri iki grupta düzenlemiştir: Eski silahların toplandığı Mecmua-i Esliha-i Atika ve eski eserlerin toplandığı Mecmua-i Âsâr-ı Atika.\n\n1869 yılında Sadrazam Ali Paşa döneminde bu koleksiyon resmi bir devlet müzesine dönüştürülerek Müze-i Hümayun adını almıştır. Bu kurum, bugünkü İstanbul Arkeoloji Müzeleri'nin doğrudan temelidir. Koleksiyon 1880 yılında Çinili Köşk'e taşınmıştır.\n\n1881 yılında Müze-i Hümayun müdürlüğüne atanan Osman Hamdi Bey, Türk müzeciliğinin ve arkeolojisinin kurucusu kabul edilir. Osman Hamdi Bey, 1883 yılında Türkiye'nin ilk güzel sanatlar okulu olan Sanayi-i Nefise Mektebi'ni, yani bugünkü Mimar Sinan Güzel Sanatlar Üniversitesi'ni kurmuştur. 1884 yılında çıkardığı Âsâr-ı Atika Nizamnamesi ile Osmanlı topraklarındaki eski eserlerin yurt dışına çıkarılmasını kesin olarak yasaklamış ve tüm eserleri devlet malı ilan etmiştir. 1887 yılında Lübnan'daki Sayda Krallar Mezarlığı kazılarını bizzat yürüterek dünyaca ünlü İskender Lahdi ve Ağlayan Kadınlar Lahdi'ni İstanbul'a getirmiştir. Bu anıtsal lahitleri sergilemek üzere mimar Alexandre Vallaury'ye bugünkü neoklasik İstanbul Arkeoloji Müzesi ana binasını yaptırmış ve müze 1891 yılında ziyarete açılmıştır. Osman Hamdi Bey aynı zamanda Kaplumbağa Terbiyecisi tablosunun ünlü ressamıdır.\n\nOsman Hamdi Bey'in 1910 yılındaki vefatının ardından görevi kardeşi Halil Edhem Bey devralmış ve Süleymaniye Külliyesi imaretinde Evkaf-ı İslamiye Müzesi'ni kurmuştur; bu müze Cumhuriyet döneminde Türk ve İslam Eserleri Müzesi adını alarak İbrahim Paşa Sarayı'na taşınmıştır.\n\nCumhuriyet döneminde müzecilik milli bir vizyonla yeniden yapılandırılmıştır. Atatürk'ün direktifiyle inşa edilen Ankara Etnografya Müzesi, Cumhuriyet döneminde sıfırdan inşa edilen ilk müze binasıdır ve Atatürk'ün naaşı 1938 ile 1953 yılları arasında burada muhafaza edilmiştir. 1931 yılında kurulan Türk Tarih Kurumu kazıların bilimsel lokomotifi olmuştur. Atatürk'ün talimatıyla 1935 yılında Çorum Alacahöyük'te başlatılan kazı, Türkiye Cumhuriyeti'nin ilk millî kazısıdır. Kazıyı Remzi Oğuz Arık ve Hamit Zübeyr Koşay yürütmüş, Hatti dönemine ait tunç güneş kursları ve kral mezarları gün ışığına çıkarılmıştır.\n\nEkrem Akurgal, klasik arkeolojimizin duayen ismidir. Foça, Çandarlı, Erythrai ve Eski İzmir Bayraklı kazılarını yürütmüş ve Anadolu Uygarlıkları kitabını yazmıştır.\n\nHalet Çambel, Osmaniye Kadirli yakınlarındaki Karatepe-Aslantaş Geç Hitit kalesini kazmış, Türkiye'nin ilk açık hava müzesini kurmuş ve bulduğu Fenikece ile Hitit hiyeroglifi çift dilli yazıtlar sayesinde Hitit hiyerogliflerinin çözülmesini sağlamıştır. Kendisi aynı zamanda Türkiye'nin ilk kadın olimpik eskrim sporcusudur.\n\nKlaus Schmidt, 1995 yılından itibaren Şanlıurfa Göbeklitepe kazılarını yürüterek dünya tarihini ve Neolitik Çağ anlayışını kökten değiştiren Alman arkeologdur.\n\nTahsin Özgüç, Kayseri Kültepe Kaniş-Karum kazılarını uzun yıllar yöneterek Anadolu'nun ilk yazılı belgelerini ortaya çıkarmıştır.\n\nJale İnan, Türkiye'nin ilk kadın klasik arkeoloğu olarak Perge ve Side kazılarını yönetmiş, yurt dışına kaçırılan Yorgun Herakles heykelinin üst gövdesinin Türkiye'ye iadesi için büyük bir mücadele vermiştir.\n\nMuazzez İlmiye Çığ ise İstanbul Arkeoloji Müzeleri'ndeki binlerce çivi yazılı tablet üzerinde çalışan efsanevi Sümerologdur.\n\nMüze ve eser eşleştirmeleri sınavların vazgeçilmez sorularıdır. İstanbul Arkeoloji Müzeleri'nde İskender Lahdi, Ağlayan Kadınlar Lahdi ve Kadeş Barış Antlaşması'nın kil tablet orijinali sergilenir. Ankara Anadolu Medeniyetleri Müzesi'nde Alacahöyük Hatti güneş kursları ve Çatalhöyük ana tanrıça heykelciği bulunur; müze 1997 yılında Avrupa'da Yılın Müzesi seçilmiştir. Antalya Müzesi'nde Yorgun Herakles heykeli, Efes Müzesi'nde polos başlıklı Büyük Artemis heykeli, Gaziantep Zeugma Müzesi'nde Çingene Kızı mozaiği, Uşak Müzesi'nde Karun Hazinesi'nin 2013'te iade edilen som altın Kanatlı Denizatı Broşu, Hatay Arkeoloji Müzesi'nde Geç Hitit Kralı Şuppiluliuma'nın iri gözlü bazalt heykeli yer alır. Ankara'da Maden Tetkik ve Arama bünyesinde hizmet veren Şehit Cuma Dağ Tabiat Tarihi Müzesi ise fosil ve tabiat varlıklarını sergiler.\n\nYurt dışındaki müzelerde bulunan Anadolu kökenli eserler arasında ise şunlar öne çıkar: Bergama Zeus Altarı ve Milet Agora Kapısı Berlin Pergamon Müzesi'ndedir; Zeus Altarı'nın frizlerinde tanrılar ile devlerin savaşı olan Gigantomakhia anlatılır. Likya Ksantos'tan götürülen Nereidler Anıtı, Halikarnas Mozolesi kabartmaları ve Efes Artemis Tapınağı sütunları Londra British Museum'dadır. Heinrich Schliemann'ın Troia ikinci katmanından kaçırdığı Priamos Hazinesi Moskova Puşkin Müzesi'ndedir. İskender ile Pers Kralı Dareios'un savaşını tasvir eden İssos Mozaiği ise İtalya'da Napoli Ulusal Arkeoloji Müzesi'ndedir.\n\n---",
         "sentences": [
           {
@@ -16244,6 +17060,118 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Nereidler Anıtı Paris'te değil, Londra'da British Museum'da sergilenmektedir; diğer eşleştirmeler doğrudur.\n\n💡 Hafıza İpucu: Bu listede Paris'e giden yok; Nereidler İngiltere'de kaldı.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q035",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Aşağıdakilerden hangisi 1936 yılında Berlin Olimpiyatları’na eskrim dalında katılan ve Karatepe-Aslantaş Açık Hava Müzesi’nin kurulmasını sağlayan arkeologlardan biridir?",
+            "options": [
+              "A) Ekrem Akurgal",
+              "B) Arif Müfid Mansel",
+              "C) Jale İnan",
+              "D) Muazzez İlmiye Çığ",
+              "E) Halet Çambel"
+            ],
+            "correctIndex": 4,
+            "explanation": "Türkiye’yi olimpiyatlarda temsil eden ilk kadın sporculardan (1936 Berlin, eskrim) olan Prof. Dr. Halet Çambel, Karatepe-Aslantaş kazılarını yönetmiş ve Türkiye’nin ilk açık hava müzesinin burada kurulmasını sağlamıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 35).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q096",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Avlanan Amazonlar, Orpheus, Akhilleus’un Hayatı gibi Roma villası taban mozaikleriyle tanınan müze aşağıdakilerden hangisidir?",
+            "options": [
+              "A) İstanbul Arkeoloji Müzeleri",
+              "B) Anadolu Medeniyetleri Müzesi",
+              "C) Haleplibahçe Mozaik Müzesi",
+              "D) Hatay Arkeoloji Müzesi",
+              "E) Zeugma Mozaik Müzesi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Şanlıurfa’daki Haleplibahçe Mozaik Müzesi; Amazonlar Villası’nda bulunan “Avlanan Amazonlar”, “Akhilleus’un Hayatı” ve “Orpheus” mozaikleriyle tanınır (2026 Ağustos Mesleğe Kabul B Grubu, S. 96).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q098",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "I. Zeugma Mozaik Müzesi-Gaziantep\nII. Nekropol Müzesi-Antalya\nIII. Büyük Saray Mozaikleri Müzesi-İstanbul\nIV. Necmi Asfuroğlu Arkeoloji Müzesi-Mardin\nV. Arslantepe Ören Yeri Açık Hava Müzesi-Mersin\n\nYukarıdaki müze-şehir eşleşmelerinden hangileri doğrudur?",
+            "options": [
+              "A) I, II ve III",
+              "B) I, III ve IV",
+              "C) I, III ve V",
+              "D) II, III ve IV",
+              "E) II, III ve V"
+            ],
+            "correctIndex": 0,
+            "explanation": "Zeugma Mozaik Müzesi (Gaziantep), Nekropol Müzesi (Antalya) ve Büyük Saray Mozaikleri Müzesi (İstanbul) doğrudur. Necmi Asfuroğlu Arkeoloji Müzesi Hatay’da (Antakya), Arslantepe Ören Yeri ise Malatya’dadır (2026 Ağustos Mesleğe Kabul B Grubu, S. 98).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q099",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Burdur'daki Boubon Antik Kenti'nden kaçırıldıktan sonra 2025 yılında Amerika Birleşik Devletleri'nden Türkiye'ye iade edilen bronz heykel aşağıdaki Roma imparatorlarından hangisine aittir?",
+            "options": [
+              "A) Hadrian",
+              "B) Trajan",
+              "C) Augustus",
+              "D) Marcus Aurelius",
+              "E) Antoninus Pius"
+            ],
+            "correctIndex": 3,
+            "explanation": "Burdur’un Gölhisar ilçesindeki Boubon (Sebasteion) Antik Kenti’nden 1960’larda kaçırılan ve Cleveland Sanat Müzesi’nde bulunan MS 2. yüzyıla ait filozof imparator Marcus Aurelius bronz heykeli, 2025 yılında ABD’den Türkiye’ye iade edilmiştir (2026 Ağustos Mesleğe Kabul B Grubu, S. 99).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-004",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Arkeolojik bir eserin veya mimari ögenin ilk bulunduğu özgün konumunda, yerinden oynatılmamış doğal durumu için kullanılan Latince kökenli teknik terim hangisidir?",
+            "options": [
+              "A) Ex situ",
+              "B) In situ",
+              "C) Stratum",
+              "D) Sondaj",
+              "E) Rölöve"
+            ],
+            "correctIndex": 1,
+            "explanation": "In situ 'yerinde / özgün tabakasında' demektir. Eserin bağlamı ve tarihsel değeri in situ belgelendiğinde tam anlam kazanır. (mks tum sorular.pdf, s.88)\n\n💡 Hafıza İpucu: IN SITU = YERİNDE / BULUNDUĞU TABAKADA BOZULMADAN.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-005",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Üst üste kurulan, yıkılan ve yeniden inşa edilen yerleşimlerin binlerce yıllık birikimi sonucu oluşan çok katmanlı yapay arkeolojik tepeye ne ad verilir?",
+            "options": [
+              "A) Nekropol",
+              "B) Höyük (Tell / Tepe)",
+              "C) Tümülüs",
+              "D) Akropol",
+              "E) Stadion"
+            ],
+            "correctIndex": 1,
+            "explanation": "Höyük, insanların kerpiç ve taş yapıları yıkıldıkça üzerine yenilerini yapmasıyla yükselen yapay yerleşim tepesidir. Tümülüs ise mezar amaçlı toprak yığmadır. (G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf, s.1)\n\n💡 Hafıza İpucu: HÖYÜK = YERLEŞİM KATMANI; TÜMÜLÜS = ANIT MEZAR YIĞMASI.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-009",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Sidon (Sayda) Kral Nekropolü kazılarını yürüterek İskender Lahdi ve Ağlayan Kadınlar Lahdi'ni İstanbul'a kazandıran, Asar-ı Atika Nizamnamesi'ni hazırlayan Türk müzeciliğinin kurucusu kimdir?",
+            "options": [
+              "A) Halil Edhem Bey",
+              "B) Ekrem Akurgal",
+              "C) Osman Hamdi Bey",
+              "D) Kenan Erim",
+              "E) Jale İnan"
+            ],
+            "correctIndex": 2,
+            "explanation": "Müze-i Hümayun müdürü Osman Hamdi Bey, 1887 Sayda kazılarıyla dünyaca ünlü lahitleri bulmuş ve bugünkü İstanbul Arkeoloji Müzeleri ana binasını inşa ettirmiştir. (I-Muzecilik_Eser_Suclari 009 MALI 2026 AGUSTOS.pdf, s.1)\n\n💡 Hafıza İpucu: OSMAN HAMDİ BEY = İSTANBUL ARKEOLOJİ MÜZESİ & İSKENDER LAHDİ & ASAR-I ATİKA.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -16253,7 +17181,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "arkeoloji",
         "order": 4,
         "title": "Antik Seramik Formları",
-        "officialQuestionCount": 105,
+        "officialQuestionCount": 106,
         "lectureContent": "## 4. Antik Seramik Formları\n\nAntik dünyada seramik kaplar, hem günlük mutfak işlerinde, hem deniz aşırı ticarette hem de dini törenler ve mezar ritüellerinde kullanılırdı. Antik Yunan dünyasında yemekten sonra düzenlenen felsefi içki ve sohbet meclislerine sempozyum denirdi ve seramik formlarının önemli bir bölümü bu sofranın kurallarına göre biçimlenmişti.\n\n| Seramik Formu | Temel İşlevi ve Ayırt Edici Özelliği |\n| :--- | :--- |\n| **Krater** | Şarabı su ile karıştırma kabıdır. Geniş ağızlı, derin ve iki kulplu büyük bir kâsedir. Antik çağda şarap sek içilmez, kraterin içinde suyla seyreltilirdi. |\n| **Oinochoe** | Şarap servis testisi. Kraterde karıştırılan şarabı kadehlere doldurmak için kullanılır; yonca ağızlı ve tek dikey kulpludur. |\n| **Kylix** | İki yatay kulplu, sığ gövdeli ve yüksek ince ayaklı zarif içki kadehidir. Sempozyum meclislerinin baş aktörüdür. |\n| **Kantharos** | İki adet yüksek, gövde hizasını aşan dikey kulpa ve derin gövdeye sahip gösterişli içki kadehidir. Şarap Tanrısı Dionysos'un kutsal simgesidir. |\n| **Skyphos** | İki yatay kulplu, derin gövdeli, halkın günlük yaşamda şarap içmek için kullandığı mütevazı bardaktır. |\n| **Amphora** | Sıvı ve tahıl taşıma kabıdır. İki dikey kulplu, dar boyunlu ve en belirgin özelliği sivri dipli olmasıdır; gemi ambarlarında kum zeminlere saplanarak devrilmeden taşınırdı. |\n| **Pithos** | Devasa boyutta pişmiş toprak erzak depolama küpüdür. Tonlarca zeytinyağı, şarap ve tahıl saklanır; Erken Tunç Çağı'nda Anadolu'da küp mezar olarak da kullanılmıştır. |\n| **Hydria** | Su taşıma testisi. En ayırt edici özelliği üç kulplu olmasıdır; iki yatay kulp iki elle kaldırmaya, arkadaki tek dikey kulp suyu dökmeye yarar. |\n| **Lekythos** | Dar boyunlu, tek dikey kulplu zeytinyağı ve kokulu merhem kabıdır. En temel işlevi ölü hediyesi olmasıdır; cenaze törenlerinde mezara bırakılır ve üzerine mezar sahneleri işlenir. |\n| **Pyxis** | Kadınların takılarını, kozmetik boyalarını ve kremlerini sakladıkları kapaklı, silindirik küçük kutudur. |\n| **Alabastron ve Unguentarium** | Parfüm, değerli koku yağları ve halk arasında gözyaşı şişesi denen küçük şişelerdir. Alabastron yuvarlak diplidir; unguentarium ayaklı ve damla gövdelidir. |\n| **Lydion** | Lidya Uygarlığı'na özgü, meşhur Lidya kokulu yağının saklandığı, konik ayaklı, şişkin gövdeli ve geniş ağızlı milli kap formudur. |\n| **Rhyton** | Dini törenlerde tanrılara kutsal sıvı sunusu yapmak için kullanılan, altı akıtacak delikli, boğa, koç veya aslan gibi kutsal hayvan başı formundaki törensel kaptır. |\n\nSeramik sanatında bezeme tekniklerinin ortaya çıkış sırası klasik bir kronoloji kuralıdır. Milattan Önce yedinci ve altıncı yüzyıllarda Siyah Figür Tekniği uygulanmıştır. Bu teknikte kırmızı kil zemin üzerine figürler siyah astar boyayla silüet olarak çizilir, anatomik detaylar sivri uçlu madeni bir kalemle siyah boya kazınarak kiremit zemin ortaya çıkarılırdı. Milattan Önce 530 civarında ise Kırmızı Figür Tekniği geliştirilmiştir. Bu yeni teknikte işlem tersine dönmüş; zemin tamamen siyaha boyanmış, figürler killi kırmızı renkte bırakılmıştır. Detaylar artık kazınmamış, ince fırçalarla boyanmıştır; bu durum figürlere büyük bir derinlik, hareket ve kas ifadesi kazandırmıştır. Kronolojik olarak daima siyah figür tekniği daha eski, kırmızı figür tekniği daha yenidir.\n\n---",
         "sentences": [
           {
@@ -16626,6 +17554,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "Terra Sigillata (mühürlü toprak), Roma dünyasının alametifarikası parlak kırmızı sofra takımlarıdır.\n\n💡 Hafıza Çapası: Terra Sigillata = Roma'nın parlak kırmızı mühürlü tabağı.",
             "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-008",
+            "subtopicId": "arkeoloji_4",
+            "courseId": "arkeoloji",
+            "questionText": "Antik dönemde zeytinyağı ve şarap gibi sıvıların saklanması, deniz aşırı taşınması amacıyla kullanılan, sivri dipli ve çift kulplu karakteristik seramik kap formu hangisidir?",
+            "options": [
+              "A) Krater",
+              "B) Kylix",
+              "C) Amphora",
+              "D) Oinokhoe",
+              "E) Lekythos"
+            ],
+            "correctIndex": 2,
+            "explanation": "Amphora iki kulplu taşıma ve depolama kabıdır. Krater şarap-su karıştırma kabı, Kylix yayvan içki kadehi, Lekythos ise dar boyunlu zeytinyağı/parfüm şişesidir. (G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf, s.4)\n\n💡 Hafıza İpucu: AMPHORA = ÇİFT KULPLU SIVI TAŞIMA VE TİCARET KABI.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -16635,7 +17579,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "arkeoloji",
         "order": 5,
         "title": "Mimari ve Dini Yapı Terimleri",
-        "officialQuestionCount": 117,
+        "officialQuestionCount": 122,
         "lectureContent": "## 5. Mimari ve Dini Yapı Terimleri\n\nAntik kent mimarisi, dini yapılar ile kamusal binaların kusursuz bir uyum içinde tasarlandığı zengin bir terminolojiye sahiptir.\n\n### Antik Tapınak Mimarisi ve Bileşenleri\n\nKlasik bir Yunan tapınağı, cemaatin içine girip ibadet ettiği bir toplanma yeri değil; tanrının bizzat ikamet ettiği kutsal bir evdir. Törenler ve kurban sunuları tapınağın dışındaki sunakta gerçekleştirilirdi.\n\nBir tapınağın zemin platformunu oluşturan üç ya da daha fazla basamaklı taş kaideye krepis ya da krepidoma denir. Bu basamak dizisinin en üst basamağına, yani sütunların doğrudan üzerine bastığı düz mermer platforma stylobat adı verilir.\n\nTapınağın ön cephesinde, yan duvarların uzantıları arasında yükselen giriş holü pronaostur. Buradan tapınağın kalbine, yani kutsal ana odaya geçilir. İçinde tanrının devasa kült heykelinin durduğu bu ana mekâna naos, Roma mimarisindeki adıyla cella denir. Bazı kehanet tapınaklarında, örneğin Didyma Apollon Tapınağı'nda, naosun gerisinde yalnızca rahiplerin girebildiği, halka tamamen kapalı ve kâhinlerin kehanette bulunduğu gizli kutsal iç odaya adyton adı verilir. Tapınağın arka cephesinde ise naosla hiçbir kapı bağlantısı bulunmayan, kente ve tapınağa bağışlanan değerli adakların ve devlet hazinesinin saklandığı arka oda yer alır; bu odaya opisthodomos denir.\n\n### Klasik Sütun Düzenleri\n\nKlasik mimarlık üç temel nizam üzerine inşa edilmiştir:\n\nDor Düzeni, en eski, en yalın ve en maskülen mimari düzendir. Dor düzeninin en ayırt edici özelliği, sütunun kaidesinin olmamasıdır; sütun gövdesi doğrudan stylobat platformuna oturur. Sütun başlığı son derece sadedir; yastık benzeri dairesel bir echinus ve onun üzerindeki kare bir abakustan ibarettir. Dor frizinde üç dikey yivli triglif blokları ile kabartmalı kare metop levhaları ardışık olarak dizilir. Anadolu'daki tek Dor tapınağı Çanakkale'deki Assos Athena Tapınağı'dır.\n\nİon Düzeni, Batı Anadolu'nun, yani İyonya kıyılarının zarafet icadıdır. İon düzeninde sütun artık zarif profilli bir kaide üzerine oturur. Sütun başlığında koç boynuzu gibi iki yana helezonik şekilde kıvrılan volütler yer alır. Sütun gövdesi Dor düzenine göre daha ince ve narindir. Friz kuşağı kesintisiz kabartmalarla bezenir.\n\nKorint Düzeni, üç düzen içinde en geç ortaya çıkan ve en süslü olanıdır. Sütun başlığı, yaban enginarı olarak da bilinen akantus, yani kenger yaprakları ile sarılmıştır.\n\n### Tapınak Plan Tipleri\n\nTapınaklar sütunlarının dizilişine göre çeşitli plan tiplerine ayrılır. Yan duvarların öne uzandığı ve arasına iki sütun yerleştirilen en ilkel tapınak tipine templum in antis denir. Yalnızca ön cephesinde tek sıra sütun dizisi bulunan tapınak prostylos, hem ön hem arka cephesinde birer sıra sütun bulunan tapınak ise amphiprostylos olarak adlandırılır.\n\nNaosun çevresinin tek sıra sütun dizisiyle çepeçevre sarıldığı klasik Yunan tapınağı peripteros adını alır; Atina Parthenon Tapınağı bunun en yetkin örneğidir. Naosun çevresinin çift sıra sütun dizisiyle kuşatıldığı devasa anıtsal tapınaklara dipteros denir; Efes Artemis ve Didyma Apollon tapınakları çift sıra sütunlu dipteros planındadır.\n\nMimar Hermogenes tarafından geliştirilen pseudodipteros, yani sahte dipteros planı ise mimarlık tarihinin en rasyonel çözümlerinden biridir. Yapı dıştan dipteros gibi iki sıra sütunluk geniş bir açıklığa sahip görünür ancak iç sütun sırası inşa edilmeyerek maliyet ciddi oranda düşürülür ve yapının etrafında geniş, ferah bir tören galerisi elde edilir; Magnesia Artemis Tapınağı bu planın temsilcisidir. Dairesel planlı, çevresi sütunlarla kuşatılmış tapınaklara ise tholos adı verilir. Çok sayıda eşit aralıklı sütunla taşınan geniş kapalı salonlara hipostil, bir avlunun çevresinin sütunlu revaklarla kuşatılmasına ise peristil denir.\n\nTaşıyıcı sütunlar her zaman sade taş silindirler değildir. Saçaklığı başının üzerinde taşıyan kadın figürlü sütun-heykellere karyatid denir; Atina Akropolü'ndeki Erechtheion Tapınağı'nın güney balkonundaki kadın heykelleri karyatid sanatının zirvesidir. Yapının tavan veya saçak yükünü kaslı omuzlarında taşıyan erkek figürlü sütunlara ise atlant veya telamon adı verilir. Efes Artemis Tapınağı'nın alt tamburları mitolojik kabartmalarla süslü anıtsal sütunları ise columna caelata olarak adlandırılır. Sütun başlıklarının üzerine doğrudan binen ana yatay taş kirişe arşitrav, onun üzerindeki süsleme kuşağına friz, çatının iki ucundaki üçgen alınlığa ise pediment denir.\n\n### Antik Kentin Kamusal ve Sosyal Yapıları\n\nBir antik kentin sokaklarında yürüyen bir ziyaretçi, kentin idari, ticari, kültürel ve sosyal yaşamını şekillendiren zengin bir yapı dokusuyla karşılaşır.\n\nVadileri aşarak kilometrelerce uzaktaki dağ pınarlarından kente temiz su taşıyan kemerli su köprüleri aquaduct olarak adlandırılır. Kentin silüetine bakıldığında, en yüksek ve sarp tepede surlarla çevrili akropol yükselir; tapınaklar, saray ve devlet hazinesi burada yer alır, kent kuşatıldığında halkın sığındığı son kaledir.\n\nKentin kalbinde ticaretin yapıldığı, halkın toplanıp güncel meseleleri tartıştığı büyük kamu meydanı agora yer alır. Agoranın kenarında boylu boyunca uzanan, halkı yazın yakıcı güneşinden, kışın yağmurdan koruyan, önü sütunlu ve revaklı, arkasında sıra dükkânlar bulunan üstü kapalı uzun kamusal galeri stoadır. Kıbrıslı filozof Zenon, derslerini Atina Agorası'ndaki stoada verdiği için felsefe akımına Stoacılık denmiştir.\n\nKent meclisinin toplandığı, oturma basamaklarına sahip kapalı toplantı salonu bouleuteriondur. Kentin kutsal ocağının bulunduğu, tanrıça Hestia adına yakılan kutsal ateşin hiç söndürülmeden korunduğu, kentin yöneticilerinin çalıştığı ve yabancı elçiler ile kahramanların ağırlandığı devlet konukevi ise prytaneiondur.\n\nTiyatronun küçük, üstü ahşap çatıyla örtülü konser ve şiir dinletisi salonu odeondur. Burdur Gölhisar'daki gladyatörler kenti Kibyra'nın odeon tabanında, renkli mermer parçalarıyla opus sectile tekniğinde yapılmış dünyaca ünlü yılan saçlı Medusa mozaiği yer alır.\n\nRoma kentlerinde et, taze balık ve gıda maddelerinin satıldığı kapalı gıda pazarı macellumdur. Kütahya Çavdarhisar'daki Aizanoi Macellumu duvarlarında, Roma İmparatoru Diocletianus'un enflasyonla mücadele için çıkardığı dünyanın ilk resmi borsa ve fiyat tespit fermanı olan Narh Fermanı kazılıdır. Tezgâhındaki gömme küplerde sıcak yemeklerin ve şarapların satıldığı hızlı yemek büfeleri ise thermopolium olarak adlandırılır.\n\nAltından sürekli temiz su akan kanallara sahip, yan yana mermer oturakların dizildiği umumi tuvaletler latrinadır. Su perilerine adanmış, heykeller ve nişlerle bezenmiş çok katlı anıtsal kamu çeşmeleri nymphaiondur; Efes Traianus Çeşmesi ve Sagalassos Antoninler Çeşmesi bunun seçkin örnekleridir.\n\nRoma kentlerinde mahkeme salonu, ticaret borsası ve idari bina olarak kullanılan, ortada geniş bir ana nef ve yanlarda iki yan neften oluşan dikdörtgen planlı büyük kamusal yapılar bazilikadır. Bu plan şeması Hristiyanlık kabul edildikten sonra kilise mimarisinin doğrudan temel modeli olmuştur.\n\nSağlık Tanrısı Asklepios'a adanmış antik çağın tam teşekküllü şifa yurtları ve hastaneleri asklepiondur. Kapısında Asklepios'un simgesi olan yılan figürü yer alır. En ünlü şubeleri Bergama, İstanköy ve Allianoi'dir; Bergama Asklepionu'nda ünlü hekim Galen hizmet vermiştir. Pamukkale Hierapolis'te yer alan ve fay çatlağından ölümcül karbondioksit gazı yayıldığı için cehennem kapısı olarak adlandırılan kutsal alan ise Plutoniondur.\n\nEfes'te varlıklı Romalıların teraslar halinde yamaca inşa ettikleri, duvarları freskli ve tabanları mozaikli lüks konutlar Yamaç Evler olarak bilinir. Tanrıça Roma ve tanrılaştırılmış Roma imparatoru kültü adına inşa edilen tapınaklara sebasteion denir; Aydın Afrodisias'taki Sebasteion kabartmalarıyla ünlüdür. Dört yöne açık, dört pilon ayak üzerine oturan ve ana caddelerin kesişim noktasında yükselen anıtsal zafer ve geçiş takına ise tetrapylon adı verilir. Gençlerin güreş ve atletizm yaptıkları spor kompleksi gymnasion ve palaestra iken, gymnasion içinde gençlerin felsefe ve hitabet dersleri gördüğü yarım yuvarlak derslik ephebiondur.\n\nRoma hamamları, taban altına yerleştirilen kemerli ayaklar ve duvar içindeki pişmiş toprak borular aracılığıyla fırından gelen sıcak duman ve havanın tüm yapıyı ısıttığı hypocaust sistemiyle ısıtılırdı. Bir Roma hamamının bölümleri sırasıyla soyunma odası olan apodyterium, ılık bölüm olan tepidarium, sıcak terleme ve buhar odası olan sudatorium, sıcak su havuzları ve yıkanma alanı olan caldarium, soğukluk ve soğuk su havuzu olan frigidarium ile açık hava yüzme havuzu olan natatiodan oluşurdu.\n\n### Bizans Kilise Mimarisi ve Ek Terimler\n\nArkeoloji müfredatında yer alan erken Hristiyan ve Bizans mimarlık terimleri, antik yapılardan sonraki dönüşümü anlamak açısından kilit önemdedir.\n\nBir kilisenin doğu ucunda yer alan, yarım daire planlı ve yarım kubbeli çıkıntı apsistir; apsis ibadetin yönünü gösterir. Yalnızca din adamlarının girebildiği ve kutsal ayinin gerçekleştirildiği bölüme bema adı verilir. Bemayı halkın bulunduğu ana ibadet salonundan, yani naostan ayıran korkuluklu mimari bariyere templon denir; bu öge sonraki yüzyıllarda Ortodoks kiliselerinde ikonostasise dönüşmüştür. Din adamlarının bemadan vaaz kürsüsü olan ambona güvenle yürüdüğü korkuluklu yola solea denir. Kilisenin girişinde yer alan ön avluya atrium, giriş holüne ise narteks adı verilir.\n\nBina cephelerinde iki küçük sütun ve bir üçgen alınlıkla çerçevelenmiş minyatür tapınak görünümündeki dekoratif nişlere aedikula denir. Adını Ege'deki Büyük Menderes Nehri'nin kıvrımlarından alan geometrik zigzag ve spiral bezeme motifi meandr olarak adlandırılır. Tek parça taştan yontulan, kare kesitli ve yukarı doğru daralıp piramidal uçla biten anıtsal dikilitaşlar ise obelisk adını alır; İstanbul Sultanahmet Hipodromu'ndaki İmparator Birinci Theodosius Dikilitaşı Mısır'dan getirilmiş bir obelisktir.\n\n---\n\nBu temel ilkeler, kavramsal çerçeveler ve ayırt edici özellikler; antik dünyanın maddi mirasını okumada, kazı alanlarını analiz etmede ve mesleki sınavlardaki tüm soru kalıplarını kavramada sağlam ve sarsılmaz bir temel sunmaktadır.",
         "sentences": [
           {
@@ -17781,6 +18725,86 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Antik Yunan kentinde dinî-savunma merkezi yüksekte kurulu akropol, ticaret ve meclis meydanı ise düz alandaki agoradır.\n\n💡 Hafıza İpucu: Yukarıda tapınak = akropol; aşağıda pazar-meclis = agora.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q040",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Antik Yunan ve Roma dünyasında hem yatak olarak kullanılan hem de yemek şölenlerinde üzerine uzanılan, lahit ve mezar kabartmalarında da sıklıkla betimlenen sedir biçimindeki mobilya aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Palaestra",
+              "B) Peristil",
+              "C) Kline",
+              "D) Agora",
+              "E) Portiko"
+            ],
+            "correctIndex": 2,
+            "explanation": "Antik dünyada symposion (şölen) ve uyku için kullanılan, aynı zamanda lahit kapakları ile cenaze şöleni (Totenmahl) kabartmalarında sıkça betimlenen sedire “kline” denir (2026 Ağustos Mesleğe Kabul B Grubu, S. 40).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q048",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Aşağıdakilerden hangisi Roma Dönemi hamam yapılarında bulunan bölümlerden biri değildir?",
+            "options": [
+              "A) Imperium",
+              "B) Apodyterium",
+              "C) Tepidarium",
+              "D) Caldarium",
+              "E) Frigidarium"
+            ],
+            "correctIndex": 0,
+            "explanation": "Roma hamamlarında apodyterium (soyunma), frigidarium (soğukluk), tepidarium (ılıklık) ve caldarium (sıcaklık) bölümleri bulunur; “imperium” ise Roma hukukunda yüksek yönetim/komuta yetkisi anlamına gelir (2026 Ağustos Mesleğe Kabul B Grubu, S. 48).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q097",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "I. Assos\nII. Gordion\nIII. Bergama\nIV. Side\nV. Ayanis\n\nYukarıdaki antik kentlerden hangilerinde “Athena Tapınağı” bulunur?",
+            "options": [
+              "A) I, II ve III",
+              "B) I, III ve IV",
+              "C) I, III ve V",
+              "D) II, III ve IV",
+              "E) III, IV ve V"
+            ],
+            "correctIndex": 1,
+            "explanation": "Assos (Behramkale) akropolündeki Dor düzenindeki Athena Tapınağı, Bergama akropolündeki Athena Tapınağı ve Side limanındaki Athena (ile Apollon) Tapınağı ünlüdür. Gordion Frig, Ayanis ise Urartu (Haldi Tapınağı) yerleşimidir (2026 Ağustos Mesleğe Kabul B Grubu, S. 97).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-006",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Antik Yunan ve Roma kentlerinde danışma/kent meclisinin (Boule) toplandığı basamaklı kapalı toplantı yapısına ne ad verilir?",
+            "options": [
+              "A) Bouleuterion",
+              "B) Nymphaion",
+              "C) Odeion",
+              "D) Agora",
+              "E) Palaestra"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bouleuterion kent meclisi binasıdır; Odeion müzik/konser ve küçük toplantı yapısıdır; Agora ise açık çarşı ve pazar meydanıdır. (G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: BOULEUTERION = MECLİS BİNASI (Boule = Meclis).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_ARK-007",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Antik mimarlıkta cephelerde çatı ve üst yapıyı taşımak üzere sütun yerine kullanılan kadın heykeli biçimindeki taşıyıcı mimari ögelere ne ad verilir?",
+            "options": [
+              "A) Atlas (Telamon)",
+              "B) Karyatid",
+              "C) Korint başlığı",
+              "D) Pilastr",
+              "E) Volüt"
+            ],
+            "correctIndex": 1,
+            "explanation": "Kadın heykeli biçimindeki taşıyıcı sütunlara 'Karyatid' (ör. Atina Akropolü Erekhtheion), erkek figürlü taşıyıcılara ise 'Atlas' veya 'Telamon' denir. (MKS_Agustos_Juri_Sinavi_MAliCetinkaya 2026.pdf, s.5)\n\n💡 Hafıza İpucu: KARYATİD = KADIN TAŞIYICI SÜTUN; ATLAS = ERKEK TAŞIYICI.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -17791,7 +18815,7 @@ export const COURSES_DATA: Course[] = [
     "id": "sanattarihi",
     "title": "Sanat Tarihi",
     "slug": "sanat-tarihi",
-    "totalOfficialQuestions": 486,
+    "totalOfficialQuestions": 508,
     "description": "Antik Yunan ve Roma Mimarisi, Bizans Sanatı, İslam Sanatı, Selçuklu ve Beylikler Sanatı, Osmanlı Mimarisi ve El Sanatları.",
     "iconName": "Palette",
     "isAvailable": true,
@@ -17801,7 +18825,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "sanattarihi",
         "order": 1,
         "title": "Antik Yunan ve Roma Mimarisi",
-        "officialQuestionCount": 97,
+        "officialQuestionCount": 101,
         "lectureContent": "## 1. Alt Başlık: Antik Yunan ve Roma Mimarisi\n\nAntik Yunan ve Roma sanatı, Batı mimarisinin ve Anadolu'nun anıtsal kent dokusunun taşıyıcı omurgasıdır. Akdeniz havzasında mermerin, kireçtaşının ve pişmiş toprağın estetik bir dille biçimlendirilişi, kentin felsefi, dini ve sivil kimliğini görünür kılmıştır.\n\n### A. Klasik Sütun Düzenleri ve Mimari Elemanlar\nAntik Yunan mimarisinde düzen, sadece sütunun şeklini değil; kaideden çatıya kadar tüm orantı sistemini belirler:\n* **Dor Düzeni:** En eski, en yalın ve en masif düzendir. En ayırt edici özelliği: **Sütunun kaidesi yoktur**, gövde doğrudan krepisin en üst basamağı olan stylobat üzerine oturur. Sütun gövdesi yukarı doğru hafifçe daralır ve ortasında canlılık hissi veren bir şişkinlik (entasis) barındırır. Sütun başlığı yastık benzeri yuvarlak bir eleman (echinus) ve üzerindeki kare tabladan (abacus) oluşur. Arşitravın üzerindeki friz katında, dikey üç yivli taş bloklar (triglif) ve aralarındaki kabartmalı veya boş kare taş levhalar (metop) ardışık olarak dizilir. Anadolu'da inşa edilmiş tek Dor düzenindeki tapınak, Çanakkale Ayvacık'taki **Assos Athena Tapınağı**dır.\n* **İon Düzeni:** Batı Anadolu kıyılarında doğmuş, zarafeti ve kadınsı oranları temsil eden düzendir. Sütun gövdesi zarif profilli dairesel bir **kaide** üzerine oturur. En belirgin görsel kimliği, sütun başlığının iki yanında koç boynuzu gibi helezonik kıvrılan **volütler**dir. Dor düzenindeki triglif-metop bölünmesi İon düzeninde yoktur; friz kuşağı baştan başa kesintisiz kabartma şeridi halinde uzanır.\n* **Korint Düzeni:** Klasik düzenlerin en süslü ve en geç evresidir. Atina'da MÖ 5. yüzyıl sonlarında ortaya çıkmış, Roma çağında imparatorluk ihtişamının simgesi olmuştur. Sütun başlığı, kenger yaprakları olarak bilinen heykelsi **akantus yaprakları** ile bezenmiştir.\n\n### B. Antik Tapınak Mimarisi ve Plan Tipleri\nAntik tapınaklar cemaatin içine girip ibadet ettiği cami ya da kilise gibi değildir; tanrının yeryüzündeki evi ve kült heykelinin barınağıdır. Kurban ve adak törenleri tapınağın içinde değil, tapınağın önünde yükselen açık hava sunağında (altar) icra edilir.\n* **Bölümleri:** Tapınak basamaklı bir zemin (krepis/krepidoma) ve bunun en üst basamağı (stylobat) üzerine kurulur. Girişte ön oda (pronaos), tanrının heykelini barındıran ana kutsal oda (naos veya Roma'da cella), arka kısımda kentin hazinesinin ve değerli adakların saklandığı naosla kapı bağlantısı olmayan arka oda (opisthodomos) ve bazı kehanet tapınaklarında yalnızca rahiplerin girebildiği en iç kutsal mekân (adyton) yer alır. Didyma Apollon Tapınağı bu adyton yapısının dünyadaki en anıtsal örneğidir.\n* **Plan Çeşitleri:**\n  * **Templum in Antis:** Naos yan duvarlarının öne doğru uzamasıyla oluşan çıkıntılar (anta) arasına iki sütun yerleştirilen en ilkel tapınak tipi.\n  * **Prostylos:** Yalnızca ön cephesinde tek sıra sütun dizisi bulunan tapınak.\n  * **Amphiprostylos:** Hem ön hem de arka cephesinde birer sıra sütun bulunan tapınak.\n  * **Peripteros:** Naosun çevresinin tek sıra sütun dizisiyle çepeçevre kuşatıldığı klasik tapınak planı.\n  * **Dipteros:** Naosun çevresini çift sıra sütun ormanının sardığı devasa plan tipi. Efes Artemis Tapınağı ve Didyma Apollon Tapınağı dipteros planlıdır.\n  * **Pseudodipteros:** Mimar **Hermogenes** tarafından geliştirilen yalancı dipteros planıdır. İki sıralı sütun açıklığı bırakılır ancak iç sıra sütunlar örülmeyerek tapınak çevresinde geniş ve ferah bir tören alanı sağlanır; Magnesia Artemis Tapınağı bunun başyapıtıdır.\n  * **Tholos (Monopteros):** Dairesel planlı, sütunlu tapınak veya anıt mezar yapısıdır.\n\n### C. Antik Tiyatro Mimarisi: Yunan ve Roma Karşılaştırması\nTiyatro, antik toplumun en önemli kültürel ve siyasal buluşma alanıdır. Yunan ve Roma tiyatroları arasındaki mimari farklar sınavların en temel çeldirici kaynağıdır:\n1. **Araziye Oturma:** Klasik Yunan tiyatrosu daima doğal bir dağ veya tepe yamacına yaslanır; tonozlu taşıyıcı alt yapı inşa edilmez. Roma tiyatrosu ise düz ovalara dahi tonoz ve kemerlerden oluşan çok katlı cephe kemerleri üzerine serbest bir anıt kütle olarak inşa edilebilir.\n2. **Orkestra Formu:** Yunan tiyatrosunda orkestra (koro ve dans alanı) tam daire veya at nalı biçimindedir. Roma tiyatrosunda ise orkestra tam **yarım daire**ye indirgenmiştir.\n3. **Sahne Binası (Skena):** Yunan tiyatrosunda sahne binası alçaktır, arkadaki doğal manzara oturma sıralarından (theatron/cavea) kesintisiz izlenir. Roma tiyatrosunda sahne binası (scaenae frons) çok katlı, sütunlu, nişli, heykellerle süslü devasa bir taş duvar olarak yükselir ve yüksekliği oturma basamaklarının en üst sırasıyla eşitlenerek dış dünyayı tamamen kapatır.\n4. **Kavea Açısı:** Yunan tiyatrosunda oturma sıraları yarım daireyi aşar (at nalı formu); Roma tiyatrosunda kavea tam yarım dairede sonlanır. Türkiye'nin sahne binası tavanına kadar en sağlam ayakta kalmış Roma tiyatrosu, Antalya Serik'teki **Aspendos Tiyatrosu**dur; mimarı Theodoros'un oğlu Zenon'dur. Dünyanın en dik kavealı Helenistik tiyatrosu ise 10.000 kişilik kapasitesiyle **Bergama Akropol Tiyatrosu**dur.\n\n### D. Roma Mühendislik Devrimi: Kemer, Tonoz, Kubbe ve Beton\nYunan mimarisi düz atkı taşıyıcı (arşitrav) sistemine dayandığı için sütun aralıkları dar kalmak zorundaydı. Roma ise kireç, volkanik kül (puzzolana) ve su karışımıyla elde ettiği harç olan **Roma betonu (opus caementicium)** sayesinde mimarlık tarihinin en büyük devrimini gerçekleştirdi:\n* **Kemer ve Tonoz:** Birbirine binen taşların kilit taşıyla kilitlenmesiyle geniş açıklıklar geçildi. Beşik tonoz (yarım silindir şeklinde tünel tonoz) ve iki beşik tonozun kesişmesiyle oluşan **çapraz tonoz**, Roma hamamlarının, saraylarının ve su kemerlerinin anıtsal kubbeli mekânlara kavuşmasını sağladı.\n* **Kubbe:** Dairesel taban üzerinde kemerin kendi ekseni etrafında 360 derece dönmesiyle oluşan örtü sistemidir. Roma'daki Pantheon Tapınağı beton dökme kubbe sanatının zirvesidir.\n* **Bazilika:** Roma kentlerinde agora veya forumun kenarında yer alan, mahkeme salonu, borsa ve idari merkez işlevi gören çok nefli dikdörtgen yapılardır. Ortadaki geniş ve yüksek ana nefi yan neflerden ayıran sütun dizileri ve uçtaki yarım yuvarlak yargıç kürsüsü (apsis), Hristiyan kilise mimarisinin doğrudan prototipini oluşturmuştur.\n* **Roma Forumu ve Hamamları:** Forum, Yunan agorasının aksine simetrik, anıtsal zafer takları ve tapınaklarla kuşatılmış kapalı bir siyasal güç alanıdır. Roma hamamları ise alttan ısıtmalı hipokaust sistemiyle donatılmış, soyunmalıktan (apodyterium) ılık bölüme (tepidarium), sıcaklığa (caldarium) ve soğukluk havuzuna (frigidarium) uzanan karmaşık yıkanma ve sosyalleşme anıtlarıdır.\n\n---",
         "sentences": [
           {
@@ -18842,6 +19866,70 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Picasso'nun hüzün ve mavi rengin hâkim olduğu Mavi Dönem'inde göçebeler, körler, sakatlar, sokak kadınları gibi zor yaşam koşullarındaki insanlar konu edilmiştir.\n\n💡 Hafıza İpucu: MAVİ DÖNEM = hüznün rengi, kentin unutulmuşlarının portresi.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q011",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisi Türkiye’de bulunan Antik Dünyanın yedi harikasından biridir?",
+            "options": [
+              "A) Halikarnas Mozolesi",
+              "B) Zeus Heykeli",
+              "C) Rodos Heykeli",
+              "D) İskenderiye Feneri",
+              "E) Babil’in Asma Bahçeleri"
+            ],
+            "correctIndex": 0,
+            "explanation": "Antik Dünyanın Yedi Harikasından ikisi Türkiye sınırları içindedir: Bodrum’daki Halikarnas Mozolesi ve Selçuk’taki Efes Artemis Tapınağı (2026 Ağustos Mesleğe Kabul B Grubu, S. 11).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q049",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Babil Kralı II. Nebukadnezar tarafından yaptırılan; mavi sırlı tuğlaları, boğa ve ejder kabartmalarıyla tanınan Yeni Babil Dönemi'ne ait anıtsal şehir kapısı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Milet Agora Kapısı",
+              "B) İştar Kapısı",
+              "C) Frontinus Kapısı",
+              "D) Güzel Kapı",
+              "E) Şah Kapı"
+            ],
+            "correctIndex": 1,
+            "explanation": "MÖ 575 civarında II. Nebukadnezar tarafından yaptırılan, mavi sırlı tuğla üzerine aslan, boğa ve ejder (Muşhuşşu) kabartmalarıyla süslü anıtsal kapı “İştar Kapısı”dır (2026 Ağustos Mesleğe Kabul B Grubu, S. 49).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q070",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Antik Çağda Sardes Artemis Tapınağı'nın sütun başlıklarında kullanılan mimari düzen aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Dor",
+              "B) Korint",
+              "C) İyon",
+              "D) Karyatid",
+              "E) Kompozit"
+            ],
+            "correctIndex": 2,
+            "explanation": "Manisa’nın Salihli ilçesindeki Sardes Antik Kenti’nde yer alan görkemli Artemis Tapınağı, kıvrımlı volüt başlıklarıyla tanınan İyon düzeninde inşa edilmiştir (2026 Ağustos Mesleğe Kabul B Grubu, S. 70).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_SNT-001",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Antik Yunan tapınak mimarisinde sütun başlığı sade bir yastık (ekinus) ve kare bir abakustan oluşan, frizinde ise triglif ve metopların sıralandığı en eski ve yalın mimari düzen hangisidir?",
+            "options": [
+              "A) İon Düzeni",
+              "B) Dor Düzeni",
+              "C) Korint Düzeni",
+              "D) Kompozit Düzen",
+              "E) Tuscan Düzeni"
+            ],
+            "correctIndex": 1,
+            "explanation": "Dor düzeni, MÖ 7. yüzyılda Yunan ana karasında ortaya çıkan en yalın ve maskülen düzendir. Frizinde triglif-metop ardışıklığı ve kaidesiz yere oturan yivli sütunlar karakteristiktir (Parthenon en belirgin örneğidir). (MKS_Sanat_Tarihi M.ALI 2026.pdf, s.12)\n\n💡 Hafıza İpucu: DOR = DÜZ VE AĞIR: Kaidesiz, sade sütun başlığı ve triglif/metop frizi.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -18851,7 +19939,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "sanattarihi",
         "order": 2,
         "title": "Bizans Sanatı",
-        "officialQuestionCount": 59,
+        "officialQuestionCount": 64,
         "lectureContent": "## 2. Alt Başlık: Bizans Sanatı\n\nRoma İmparatorluğu'nun başkentini 330 yılında Konstantinopolis'e (İstanbul) taşıması ve Hristiyanlığı resmi din kılmasıyla Hristiyan-Grek-Doğu sentezinden doğan Bizans sanatı şekillenmiştir. Bu sanat, antik dünyanın dünyevi estetiğinden uzaklaşarak ruhani, mistik ve aşkın bir anlatımı benimsemiştir.\n\n### A. Bizans Mimarisi ve Kilise Plan Tipleri\nBizans mimarisinin temel yapı malzemesi tuğla ve harçtır. Dış cepheler son derece sade ve masif bırakılırken, iç mekânlar ilahi ışığı yansıtan altın mozaikler, freskolar ve renkli mermer kaplamalarla cennet tasvirine dönüştürülmüştür. Sınavlarda en sık sorulan kilise plan tipleri kronolojik olarak şöyledir:\n1. **Bazilikal Plan (Erken Hristiyanlık ve Erken Bizans):** Dikdörtgen planlı, uzunlamasına eksenli yapılardır. Bir narteks (giriş holü) ile girilir. İç mekân sütun sıralarıyla genellikle üç nefe (orta nef ve yan nefler) ayrılır. Orta nefin sonunda piskoposun oturduğu yarım yuvarlak bir **apsis** bulunur. Üst örtü çoğunlukla ahşap kırma çatıdır. İstanbul'daki en eski ayakta kalan bazilika **İmrahor İlyas Bey Camii (Stoudios Manastırı Vaftizci Yahya Kilisesi)**dir.\n2. **Kubbeden Bazilikaya Geçiş: Kubbeli Bazilika:** Bazilikal planın uzunlamasına mekân kurgusu ile merkezi kubbenin birleştirildiği anıtsal sentezdir. Bu plan tipinin ve dünya mimarlık tarihinin tartışmasız başyapıtı **Ayasofya**dır. İmparator I. Justinianos tarafından Miletoslu İsidoros ve Trallesli Anthemios adlı iki dahi matematikçi ve mimara 532 ile 537 yılları arasında inşa ettirilmiştir. Dört dev paye üzerine oturan pandantiflerle taşınan dev kubbe, yanlardan yarım kubbelerle desteklenerek 55 metreyi aşan kesintisiz bir göksel mekân boşluğu yaratmıştır.\n3. **Merkezi (Hacımsı) Plan:** Dairesel veya sekizgen bir gövde üzerine tek bir büyük kubbenin oturtulduğu plan tipidir; İstanbul'daki **Küçük Ayasofya Kilisesi (Sergios ve Bakhos Kilisesi)** bunun en zarif örneğidir.\n4. **Yunan Haçı / Kapalı Yunan Haçı Planı (Orta ve Geç Bizans Dönemi):** 9. yüzyıldan sonra Bizans'ın milli plan tipine dönüşmüştür. Eşit kollu bir haçın kolları beşik tonozlarla örtülür; haç kollarının kesişim noktasında yüksek bir kasnak üzerine oturan ana kubbe yükselir. Haçın köşe boşlukları daha küçük odalar ve tali kubbelerle doldurularak yapı dıştan kare veya dikdörtgen bir kütleye kavuşturulur. İstanbul'daki **Fethiye Camii (Pammakaristos Manastır Kilisesi)**, **Kariye Camii (Khora Manastır Kilisesi)** ve **Zeyrek Camii (Pantokrator Manastırı)** bu plan tipinin seçkin örnekleridir.\n\n### B. Kilise Mimarisinin Temel Terimleri\n* **Narteks:** Kilisenin batı girişinde yer alan ön dehliz, giriş holüdür. Dışta açık olanına eksonarteks, içte kapalı olanına endonarteks denir. Henüz vaftiz edilmemişlerin ve günahkârların ayini izlediği alandır.\n* **Naos:** Hristiyan cemaatinin toplandığı, kubbenin örttüğü ana kutsal mekândır.\n* **Apsis:** Kilisenin doğu duvarında dışa doğru çıkıntı yapan, sunak masasının yer aldığı yarım yuvarlak kutsal niştir.\n* **Pastoforion Hücreleri:** Apsisin iki yanında yer alan yardımcı odalardır:\n  * **Prothesis:** Apsisin kuzeyinde (solunda) yer alan, ayin ekmeği ve şarabının hazırlandığı kutsal hazırlık odasıdır.\n  * **Diakonikon:** Apsisin güneyinde (sağında) yer alan, ayin giysilerinin, kutsal kapların ve incillerin saklandığı vestiyer odasıdır.\n* **İkonostatis:** Naos ile apsisi (ve rahiplerin bulunduğu kutsal sunak alanını) birbirinden ayıran, üzerinde hiyerarşik düzenle dizilmiş kutsal ikonaların asılı olduğu ahşap veya mermer bölme duvardır.\n* **Geçiş Elemanları: Pandantif ve Tromp:** Dairesel bir kubbenin kare bir mekân üzerine oturtulabilmesi için köşelerdeki boşlukların doldurulması gerekir. Köşelerdeki küresel üçgen geçiş elemanına **pandantif** denir (Ayasofya'da uygulanmıştır). Köşelere örülen koni veya tonoz biçimli kemerli nişlere ise **tromp** denir.\n\n### C. Bizans Resim Sanatı: Mozaik, Fresko ve İkonalar\nBizans tasvir sanatı katı bir dinsel hiyerarşi ve dogma kurallarına bağlıdır:\n* **İkonoklazma (Tasvir Kırıcılık) Dönemi (726 - 843):** Bizans İmparatoru III. Leon'un fermanıyla başlayan ve 843 yılına kadar süren, figürlü kutsal resimlerin putperestlik sayılarak tahrip edildiği, kiliselerden kazındığı dönemdir. Bu dönemde tasvirlerin yerini sadece sade haç motifleri ve bitkisel bezemeler almıştır.\n* **Pantokrator İsa (Evrenin Hâkimi İsa):** Kilisenin en yüce noktası olan ana kubbenin tam ortasında yer alır. Bir elinde İncil tutan, diğer eliyle cemaati takdis eden, sert ve otoriter bakışlı İsa tasviridir.\n* **Theotokos:** Apsis yarım kubbesinde yer alan \"Tanrı Anası\" Meryem Ana ve kucağındaki Çocuk İsa tasviridir.\n* **Deesis Sahnesi:** Kıyamet günü tasviridir. Ortada tahtta oturan İsa, solunda vaftizci Yahya, sağında Meryem Ana yer alır; Meryem ve Yahya insanlığın bağışlanması için İsa'ya yalvarır vaziyette resmedilir. Dünyanın en ünlü Deesis mozaiği **Ayasofya'nın güney galerisinde** yer alır.\n* **Kariye (Khora) Manastırı:** İstanbul Edirnekapı'da yer alan yapı, Bizans resim sanatının 14. yüzyıl Rönesansı sayılan son parlak döneminin (Palaiologoslar dönemi) mozaik ve fresko zirvesidir. Meryem'in hayatı, İsa'nın mucizeleri ve mezar şapelindeki (parekklesion) diriliş (Anastasis) sahnesi dünya sanat tarihi mirasıdır.\n\n---",
         "sentences": [
           {
@@ -19335,6 +20423,86 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Kıztaşı, I. Konstantinos'un değil, İmparator Markianos döneminde (450-457) 455 yılında dikilmiştir; diğer eşleştirmeler doğrudur.\n\n💡 Hafıza İpucu: Kıztaşı'nın babası Konstantin değil, Markianos'tur.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q042",
+            "subtopicId": "sanattarihi_2",
+            "courseId": "sanattarihi",
+            "questionText": "Olympia’dan Zeus heykeli, Knidos Aphroditesi ve Samos Hera'sı gibi eserleri koleksiyonunda barındırdığı bilinen, yangında koleksiyonu büyük ölçüde yok olan Bizans yapısı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Lausus Sarayı",
+              "B) Bukoleon Sarayı",
+              "C) Blakhernai Sarayı",
+              "D) Tekfur Sarayı",
+              "E) Büyük Saray"
+            ],
+            "correctIndex": 0,
+            "explanation": "Konstantinopolis’te II. Theodosius dönemi mabeyincisi Lausus tarafından kurulan Lausus Sarayı, Antik dünyanın en ünlü heykellerini (Olympia Zeus’u, Knidos Aphroditesi vb.) barındırmış ve 475 yılındaki büyük yangında koleksiyonu yok olmuştur (2026 Ağustos Mesleğe Kabul B Grubu, S. 42).",
+            "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q044",
+            "subtopicId": "sanattarihi_2",
+            "courseId": "sanattarihi",
+            "questionText": "Konstantinopolis'in başkent ilan edilmesi şerefine, 330 yılında diktirilen ve diğer adı Konstantin Sütunu olan tarihî anıt aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Markianos Sütunu",
+              "B) Dikilitaş",
+              "C) Örme Dikilitaş",
+              "D) Yılanlı Sütun",
+              "E) Çemberlitaş Sütunu"
+            ],
+            "correctIndex": 4,
+            "explanation": "İmparator I. Constantinus tarafından 330 yılında kentin başkent ilanı onuruna porfir bloklardan diktirilen anıt, Osmanlı döneminde geçirdiği yangınlardan sonra demir çemberlerle güçlendirildiği için Çemberlitaş Sütunu olarak anılır (2026 Ağustos Mesleğe Kabul B Grubu, S. 44).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q050",
+            "subtopicId": "sanattarihi_2",
+            "courseId": "sanattarihi",
+            "questionText": "I. Çarıklı Kilise\nII. Elmalı Kilise\nIII. Karanlık Kilise\nIV. Ağaçaltı Kilise\nV. Üzümlü Kilise\n\nYukarıdakilerden hangileri Göreme Açıkhava Müzesi’nde bulunan ve Bizans Dönemi freskleriyle tanınan kaya kiliseleri arasında yer alır?",
+            "options": [
+              "A) I, II ve III",
+              "B) I, II ve IV",
+              "C) I, III ve V",
+              "D) II, III ve IV",
+              "E) II, III ve V"
+            ],
+            "correctIndex": 0,
+            "explanation": "Çarıklı Kilise, Elmalı Kilise ve Karanlık Kilise Göreme Açıkhava Müzesi içinde yer alan ünlü Bizans kaya kiliseleridir. Ağaçaltı Kilise Ihlara Vadisi’nde, Üzümlü Kilise ise Kızılçukur Vadisi’ndedir (2026 Ağustos Mesleğe Kabul B Grubu, S. 50).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q062",
+            "subtopicId": "sanattarihi_2",
+            "courseId": "sanattarihi",
+            "questionText": "Ayasofya’nın Güney Vestibül Mozaiği’nde, iki imparator ellerindeki Ayasofya ve İstanbul şehir surları maketlerini Meryem Ana ve İsa Peygamber’e sunmaktadır.\n\nAşağıdakilerden hangisi yukarıdaki mozaikte tasvir edilen imparatorlardan biridir?",
+            "options": [
+              "A) Justinianos",
+              "B) Augustus",
+              "C) VI. Leo",
+              "D) Lohannes Komnenos",
+              "E) Aleksandros"
+            ],
+            "correctIndex": 0,
+            "explanation": "Ayasofya’nın Güney Vestibül (Sunu) Mozaiği’nde İmparator I. Justinianos Ayasofya maketini, I. Konstantinos ise Konstantinopolis surları maketini kucağında çocuk İsa’yı tutan Meryem Ana’ya sunarken tasvir edilir (2026 Ağustos Mesleğe Kabul B Grubu, S. 62).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_SNT-002",
+            "subtopicId": "sanattarihi_2",
+            "courseId": "sanattarihi",
+            "questionText": "İmparator I. Justinianus döneminde Trallesli Anthemios ile Miletoslu İsidoros'a inşa ettirilen, kare bir altyapı üzerine pandantiflerle oturtulmuş devasa kubbesiyle 'kubbeli bazilika' tipinin başyapıtı olan anıt hangisidir?",
+            "options": [
+              "A) Aya İrini",
+              "B) Küçük Ayasofya (Sergios ve Bakhos)",
+              "C) Ayasofya (Hagia Sophia)",
+              "D) Kariye (Chora)",
+              "E) Zeyrek Camii (Pantokrator)"
+            ],
+            "correctIndex": 2,
+            "explanation": "532-537 yıllarında inşa edilen Ayasofya, kubbeli bazilika plan şemasının dünya mimarlık tarihindeki zirvesidir; pandantif geçişli kubbesiyle Doğu Roma mimarisinin en görkemli yapısıdır. (GR-MKS-BIZANS TARIHI Ilk 5 Unite Cikmis Sorular.docx, s.14)\n\n💡 Hafıza İpucu: ANTHEMİOS & İSİDOROS = AYASOFYA: Justinianus'un kubbeli bazilika şaheseri.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -19591,7 +20759,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "sanattarihi",
         "order": 4,
         "title": "Anadolu Selçuklu ve Beylikler Sanatı",
-        "officialQuestionCount": 81,
+        "officialQuestionCount": 85,
         "lectureContent": "## 4. Alt Başlık: Selçuklu ve Beylikler Sanatı\n\nBüyük Selçuklu İmparatorluğu ile İran coğrafyasında temelleri atılan ve Anadolu Selçuklu Devleti ile Anadolu topraklarında taşa hayat veren Selçuklu sanatı, Orta Asya bozkır kültürü ile İslam mimarisinin en görkemli sentezidir.\n\n### A. Selçuklu Mimarisinin Tipik Yapı Türleri\n1. **Dört Eyvanlı Avlulu Plan:** Büyük Selçukluların İslam dünyasına kazandırdığı en köklü şemadır. Ortada üstü açık kare bir avlu ve avlunun dört cephesinde merkeze bakan tonozlu geniş nişler (eyvanlar) yer alır. İsfahan Mescid-i Cuması bu planın şaheseridir. Anadolu'da ise medreselerde uygulanmıştır.\n2. **Kümbet (Anıt Mezar):** İslam öncesi Türk çadır (yurt) kültürünün taşa yansımış anıtsal halidir. İki katlıdır: Alt katta cenazenin toprağa gömüldüğü mezar odası (kripta/mumyalık), üst katta ise sandukanın ve mihrabın yer aldığı ibadet ve ziyaret mekânı bulunur. Gövde dairesel, sekizgen ya da onikigen yükselir; üstü ise dıştan sivri bir **külah**, içten ise dairesel bir kubbe ile örtülür. Ahlat Kümbetleri, Erzurum Çifte Minareli Medrese arkasındaki kümbet ve Kayseri Döner Kümbet bunun en zarif örnekleridir. *(Çapa: Kümbet sivri külahlıdır; Türbe dairesel kubbelidir)*.\n3. **Kervansaray (Sultan Hanları):** İpek Yolu ticaretini canlı tutmak amacıyla günde bir menzil (30-40 kilometre) aralıklarla inşa edilen müstahkem ticaret kaleleridir. Dıştan yüksek kale surları ve kulelerle korunur. İçte iki ana bölümden oluşur: Yazlık açık avlu ve kışlık kapalı hol. Avlunun tam ortasında dört kemerli ayak üzerine oturan bağımsız bir mescit olan **köşk mescit** yer alır. Aksaray Sultan Hanı ve Kayseri Karatay Hanı Anadolu'nun en görkemli hanlarıdır.\n4. **Medreseler:** Yükseköğretim kurumlarıdır. İki temel tipe ayrılır:\n  * **Açık Avlulu Medreseler:** Ortası açık avlulu, revaklı ve eyvanlı yapılardır (Erzurum Çifte Minareli Medrese, Sivas Gök Medrese, Sivas Buruciye Medresesi).\n  * **Kapalı Avlulu Medreseler:** Sert kış şartlarına uyum sağlamak üzere orta avlunun üzeri büyük bir aydınlık fenerli kubbe ile kapatılmış medreselerdir. Ortadaki kubbenin tam altında genellikle serinletici bir havuz yer alır (Konya Karatay Medresesi, Konya İnce Minareli Medrese, Kırşehir Cacabey Medresesi).\n5. **Ahşap Direkli Camiler (UNESCO Mirası):** Anadolu Selçuklu ve Beylikler döneminde taş duvarlar içine sedir ağacından oyulmuş onlarca ahşap sütun ve kündekari tavan yerleştirilerek yapılan sütun ormanı camilerdir. 2023 yılında UNESCO Dünya Mirası Listesi'ne giren bu yapılar: Konya Beyşehir **Eşrefoğlu Camii**, Afyonkarahisar **Ulu Camii**, Eskişehir Sivrihisar **Ulu Camii**, Ankara **Arslanhane (Ahi Şerafeddin) Camii** ve Kastamonu Kasaba Köyü **Mahmut Bey Camii**dir. Beyşehir Eşrefoğlu Camii'nin ortasındaki karlık çukuru, kışın biriken karların ahşap yapıyı nemlendirerek çatlamasını önleyen eşsiz bir mühendislik örneğidir.\n\n### B. Beylikler Dönemi ve Mimari Arayışlar\n1243 Kösedağ Savaşı sonrasında Anadolu'da kurulan Türkmen beylikleri, Selçuklu mirasını geliştirerek Osmanlı'nın tek kubbeli ulu yapılarına köprü kurmuştur:\n* **Mengücekliler:** Sivas **Divriği Ulu Camii ve Darüşşifası** (1228). Mimarı Ahlatlı Hürremşah'tır. UNESCO Dünya Mirası Listesi'ndeki yapı; Cennet Kapısı, Batı Kapısı ve Şifahane Kapısı'ndaki barok taş oymacılığı, asimetrik bitkisel rölyefleri ve günün belli saatlerinde taşın üzerine vuran namaz kılan insan gölgesiyle \"Anadolu'nun Elhamrası\" unvanını taşır.\n* **Artuklular:** Mardin ve Diyarbakır çevresinde köprüler ve camiler inşa etmişlerdir. Batman Çayı üzerindeki **Malabadi Köprüsü** (1147), tek kemer açıklığıyla (40 metreye yakın) Orta Çağ'ın en geniş taş kemerli köprüsüdür. Mardin Ulu Camii dilimli kubbesiyle Artuklu simgesidir.\n\n---",
         "sentences": [
           {
@@ -20216,6 +21384,70 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Çininin mimaride kullanılması ve geliştirilmesinin ilk büyük adımı Büyük Selçuklu devrinde atılmış, asıl büyük gelişme 13. yüzyılda Anadolu Türk çini sanatında gerçekleşmiştir.\n\n💡 Hafıza İpucu: Çini tohumu Büyük Selçuklu'da atıldı, 13. yüzyılda Anadolu'da meyve verdi.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q051",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "Anadolu Türk mezar mimarisinin önemli örneklerinden biri olan Hunat Hatun Kümbeti aşağıdaki illerden hangisindedir?",
+            "options": [
+              "A) Nevşehir",
+              "B) Adana",
+              "C) Kayseri",
+              "D) Niğde",
+              "E) Erzurum"
+            ],
+            "correctIndex": 2,
+            "explanation": "I. Alaeddin Keykubad’ın eşi Mahperi Hunat Hatun adına 13. yüzyılda inşa edilen külliye (cami, medrese, hamam ve kümbet) Kayseri’de yer almaktadır (2026 Ağustos Mesleğe Kabul B Grubu, S. 51).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q056",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "Taç kapılarındaki eşsiz taş işçiliği, bitişiğindeki darüşşifası ve özgün mimarisiyle 1985 yılında UNESCO Dünya Miras Listesi'ne alınan Divriği Ulu Camii ve Darüşşifası aşağıdaki illerden hangisinde bulunur?",
+            "options": [
+              "A) Kars",
+              "B) Kastamonu",
+              "C) Diyarbakır",
+              "D) Mardin",
+              "E) Sivas"
+            ],
+            "correctIndex": 4,
+            "explanation": "Mengücekliler döneminde Ahmet Şah ve eşi Melike Turan Melek tarafından yaptırılan Divriği Ulu Camii ve Darüşşifası Sivas il sınırları içindedir (2026 Ağustos Mesleğe Kabul B Grubu, S. 56).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q079",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "Beyşehir Gölü kıyısında bulunan ve kazılarda ortaya çıkarılan figürlü çinileri ile bilinen Kubadabad Sarayı aşağıdaki Anadolu Selçuklu hükümdarlarından hangisi tarafından yaptırılmıştır?",
+            "options": [
+              "A) II. Gıyaseddin Keyhüsrev",
+              "B) II. İzzeddin Keykavus",
+              "C) I. Rükneddin Süleyman Şah",
+              "D) I. Alaeddin Keykubad",
+              "E) IV. Kılıç Arslan"
+            ],
+            "correctIndex": 3,
+            "explanation": "Anadolu Selçuklu Devleti’nin en parlak döneminin hükümdarı I. Alaeddin Keykubad tarafından yaptırılan Kubadabad Sarayı, sıraltı tekniğindeki eşsiz figürlü çinileriyle ünlüdür (2026 Ağustos Mesleğe Kabul B Grubu, S. 79).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_SNT-003",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "UNESCO Dünya Miras Listesi'nde yer alan, Mengücekli Hükümdarı Ahmed Şah ve eşi Turan Melek tarafından Ahlatlı Hürrem Şah'a yaptırılan, barok üslubu andıran taç kapıları ve darüşşifasıyla ünlü külliye hangisidir?",
+            "options": [
+              "A) Erzurum Çifte Minareli Medrese",
+              "B) Sivas Gök Medrese",
+              "C) Divriği Ulu Camii ve Darüşşifası",
+              "D) Konya Karatay Medresesi",
+              "E) Kayseri Hunat Hatun Külliyesi"
+            ],
+            "correctIndex": 2,
+            "explanation": "1228-1229 tarihli Sivas Divriği Ulu Camii ve Darüşşifası, taş oymacılığındaki benzersiz kabartma ve asimetrik bezemeleriyle 'Anadolu'nun Elhamrası' olarak anılır. (TEMATIK_A_Saray_Ikonografi_Beylik.pdf, s.8)\n\n💡 Hafıza İpucu: HÜRREM ŞAH & MENGÜCEK = DİVRİĞİ ULU CAMİİ: Cennet Kapısı ve gölge silueti.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -20225,7 +21457,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "sanattarihi",
         "order": 5,
         "title": "Osmanlı Mimarisi",
-        "officialQuestionCount": 88,
+        "officialQuestionCount": 94,
         "lectureContent": "## 5. Alt Başlık: Osmanlı Mimarisi\n\nOsmanlı mimarisi, Bursa ve Edirne'de filizlenen arayış döneminden İstanbul'un fethiyle imparatorluk vizyonuna, Mimar Sinan ile klasik çağa ve 18. yüzyıldan itibaren Batılılaşma üsluplarına uzanan yaklaşık 600 yıllık kesintisiz bir gelişim çizgisidir.\n\n### A. Erken Dönem (Bursa ve Edirne Evresi)\nTek kubbeli sade yapılardan çok kubbeli ve yan mekânlı camilere geçiş dönemidir:\n* **Ters T Planlı (Zaviyeli / Tabhaneli / Bursa Tipi) Camiler:** Tarikat dervişlerinin, gezginlerin ve gazilerin barınması için cami girişinin iki yanına ocaklı konuk odaları (tabhane) eklenen plan tipidir. Girişte bir hol, holün iki yanında tabhane odaları, ileride ise birkaç basamakla yükseltilen ana ibadet mekânı yer alır; kuşbakışı bakıldığında ters dönmüş bir T harfini andırır. Bursa Yeşil Cami, Bursa Yıldırım Cami ve Edirne II. Murad Cami bu planın temsilcileridir.\n* **Çok Kubbeli Ulu Camiler:** Kare veya dikdörtgen bir alanın çok sayıda ayakla bölünerek üzerinin eşit büyüklükte kubbelerle örtüldüğü yapılardır. **Bursa Ulu Camii**, Yıldırım Bayezid tarafından Niğbolu Zaferi şükranı olarak yaptırılmış 20 kubbeli şaheserdir; ortasındaki kubbenin altında 16 köşeli şadırvan yer alır.\n* **Merkezi Kubbe Arayışında Zirve: Edirne Üç Şerefeli Cami (1447):** II. Murad tarafından yaptırılan cami, 24 metre çapındaki devasa kubbesi, altıgen ayak sistemi ve Osmanlı mimarisinde ilk kez uygulanan revaklı anıtsal avlusuyla Erken Dönem'den Klasik Dönem'e geçişin kapısını açmıştır. Adını dört minaresinden birindeki üç ayrı merdivenle çıkılan üç şerefeden alır.\n\n### B. Klasik Dönem ve Mimar Sinan Çağı\n1453 İstanbul'un fethinden sonra Bizans Ayasofyası'nın yarattığı merkezi kubbe meydan okuması, Klasik Osmanlı mimarlarının temel hedefi oldu. Bu çağın tartışmasız dehası **Mimar Sinan**dır. Sinan, kariyerini üç büyük başyapıtla bizzat özetlemiştir:\n1. **Çıraklık Eseri: Şehzadebaşı Camii (1548, İstanbul):** Kanuni Sultan Süleyman'ın genç yaşta ölen oğlu Şehzade Mehmed adına yaptırılmıştır. Sinan burada merkezi kubbeyi dört yönden **dört yarım kubbe** ile destekleyerek ideal simetrik yonca plan şemasını eksiksiz kurmuştur.\n2. **Kalfalık Eseri: Süleymaniye Camii (1557, İstanbul):** Kanuni Sultan Süleyman adına Haliç'e nazır tepede yükselen külliyedir. Sinan burada Ayasofya'nın iki yarım kubbeli şemasını ele almış; ancak Ayasofya'daki statik ağırlığı ve payeleri incelterek, yan neflere küçük kubbeler yerleştirmiş ve kusursuz bir aydınlatma, akustik (kandil islerini toplayan is odası) ve ferahlık dengesi kurmuştur.\n3. **Ustalık Eseri: Selimiye Camii (1575, Edirne - UNESCO Dünya Mirası):** II. Selim adına inşa edilen yapı, dünya mimarlık tarihinin kubbe zirvesidir. Sinan burada yarım kubbeleri tamamen terk etmiş; 31,3 metre çapındaki devasa kubbeyi **sekizgen ayak sistemi (sekiz filayağı)** üzerine oturtmuştur. Dört köşedeki üçer şerefeli minarelerin zarafeti ve caminin iç mekânındaki kesintisiz teklik hissi, Klasik Osmanlı sanatının erişilmez zirvesidir.\n\n### C. Geç Dönem Osmanlı Mimarisi ve Batılılaşma Üslupları\n18. yüzyıldan itibaren Osmanlı yüzünü Batı'ya dönmüş; mimaride Fransız, İtalyan ve Avusturya Barok, Rokoko ve Neoklasik üslupları geleneksel formlarla harmanlanmıştır:\n* **Lale Devri ve İlk Batılılaşma:** III. Ahmed Çeşmesi (1728, Topkapı Sarayı önü), geniş saçakları, mukarnaslı nişleri ve rokoko çiçek kabartmalarıyla geçişin ilk anıtıdır.\n* **Osmanlı Barok Dönemi:** Dalgalı saçaklar, oval ve dairesel avlular, kıvrımlı kornişler ve C-S kıvrımlı kabartmalar hâkimdir.\n  * **Nuruosmaniye Camii (1755, İstanbul):** Osmanlı'nın ilk barok camisidir. Yarım daire planlı at nalı biçimli dış avlusu, dalgalı kemerleri ve yüksek kubbesiyle Batı etkisini tam olarak ilan eder.\n  * **Laleli Camii ve Ortaköy (Büyük Mecidiye) Camii:** Balyan ailesi mimarlarının elinden çıkan, Boğaz kıyısını süsleyen neobarok şaheserlerdir.\n* **Ampir (İmparatorluk) Üslubu:** Napolyon Fransa'sından esinlenen, sade, sütunlu, üçgen alınlıklı askeri ve anıtsal üsluptur (İstanbul Nusretiye Camii).\n* **Eklemeci (Eklektik) Dönem:** Barok, Rokoko, Gotik ve Klasik ögelerin aynı yapıda harmanlandığı saraylar çağıdır. **Dolmabahçe Sarayı**, **Beylerbeyi Sarayı** ve **Çırağan Sarayı** bu dönemin simgeleridir.\n* **I. Ulusal Mimarlık Akımı (Milli Mimari Rönesansı - 20. Yüzyıl Başı):** Mimar Vedat Tek ve Mimar Kemalettin öncülüğünde; Batı planlı binaların cephelerine Osmanlı kubbesi, sivri kemer, mukarnas ve çini panolar giydirilerek milli kimliğin canlandırılmasıdır (Sirkeci Büyük Postane, Haydarpaşa Gar İskelesi, Tayyare Apartmanları).\n\n---",
         "sentences": [
           {
@@ -20702,6 +21934,102 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Sivrihisar; Safranbolu, Cumalıkızık, Beypazarı ve Odunpazarı ile birlikte yaşayan Osmanlı sivil mimarisi örnekleri arasında sayılır. Kayaköy terk edilmiş bir yerleşimdir; diğer şıklar ise antik ören yerleridir.\n\n💡 Hafıza İpucu: Yaşayan Osmanlı evi beşlisi: Safranbolu-Cumalıkızık-Beypazarı-Odunpazarı-Sivrihisar.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q031",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Topkapı Sarayı’nın birinci avlusuna giriş yapıldığında, Bâb-ı Hümâyûn kapısının karşısında yer alan çeşme aşağıdakilerden hangisidir?",
+            "options": [
+              "A) III. Selim Çeşmesi",
+              "B) I. Mahmut Çeşmesi",
+              "C) Kanuni Sultan Süleyman Çeşmesi",
+              "D) IV. Murad Çeşmesi",
+              "E) III. Ahmed Çeşmesi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Topkapı Sarayı’nın Bâb-ı Hümâyûn girişinin tam karşısında (Ayasofya ile saray kapısı arasındaki meydanda) 1728 yılında Lale Devri’nde inşa edilen III. Ahmed Çeşmesi yer alır (2026 Ağustos Mesleğe Kabul B Grubu, S. 31).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q053",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Bünyesinde Çadır Köşkü, Malta Köşkü ve Şale Köşkü gibi yapıların bulunduğu Osmanlı saray kompleksi aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Dolmabahçe Sarayı",
+              "B) Çırağan Sarayı",
+              "C) Yıldız Sarayı",
+              "D) Adile Sultan Sarayı",
+              "E) Beylerbeyi Sarayı"
+            ],
+            "correctIndex": 2,
+            "explanation": "II. Abdülhamid döneminde devletin yönetim merkezi olarak kullanılan Yıldız Sarayı kompleksi; Şale Köşkü, Çadır Köşkü, Malta Köşkü ve Yıldız Parkı gibi yapıları içerir (2026 Ağustos Mesleğe Kabul B Grubu, S. 53).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q058",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisi İstanbul’un Beşiktaş ilçesinde bulunan ve Boğaz’ın kıyısında yer alan camilerden biridir?",
+            "options": [
+              "A) Bezm-i Alem Valide Sultan Camii",
+              "B) Mihrimah Sultan Camii",
+              "C) Pertevniyal Valide Sultan Camii",
+              "D) Nuruosmaniye Camii",
+              "E) Gülfem Hatun Camii"
+            ],
+            "correctIndex": 0,
+            "explanation": "Dolmabahçe Sarayı’nın hemen yanında, Beşiktaş’ta Boğaz kıyısında yer alan cami Bezm-i Alem Valide Sultan (Dolmabahçe) Camii’dir. Diğerleri Fatih, Üsküdar ve Edirnekapı gibi semtlerdedir (2026 Ağustos Mesleğe Kabul B Grubu, S. 58).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q059",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisinin adı günümüzde Ayasofya’nın iç mekânında asılı duran daire formundaki madalyonlarda yer almaz?",
+            "options": [
+              "A) Hz. Osman",
+              "B) Hz. Hasan",
+              "C) Hz. Ömer",
+              "D) Hz. Hamza",
+              "E) Hz. Hüseyin"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kazasker Mustafa İzzet Efendi tarafından yazılan Ayasofya’daki sekiz dev hat madalyonunda Allah, Hz. Muhammed, dört halife (Hz. Ebu Bekir, Hz. Ömer, Hz. Osman, Hz. Ali) ile Hz. Hasan ve Hz. Hüseyin’in adları yazılıdır; Hz. Hamza’nın adı yoktur (2026 Ağustos Mesleğe Kabul B Grubu, S. 59).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q063",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisi Türkiye’deki altı minareye sahip olan camiler arasında yer almaz?",
+            "options": [
+              "A) Büyük Çamlıca Camii",
+              "B) Sabancı Merkez Camii",
+              "C) Süleymaniye Camii",
+              "D) Taşoluk Yeşil Camii",
+              "E) Sultanahmet Camii"
+            ],
+            "correctIndex": 2,
+            "explanation": "Mimar Sinan’ın kalfalık eseri Süleymaniye Camii 4 minarelidir. Sultanahmet, Büyük Çamlıca, Adana Sabancı Merkez ve İstanbul Arnavutköy Taşoluk Yeşil Camii 6 minareli camilerimizdendir (2026 Ağustos Mesleğe Kabul B Grubu, S. 63).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_SNT-004",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Mimar Sinan'ın mimarlık serüveninde sırasıyla 'çıraklık', 'kalfalık' ve 'ustalık' eseri olarak nitelendirdiği şaheserler hangi seçenekte doğru eşleştirilmiştir?",
+            "options": [
+              "A) Şehzade Camii - Süleymaniye Camii - Selimiye Camii",
+              "B) Süleymaniye Camii - Şehzade Camii - Selimiye Camii",
+              "C) Haseki Külliyesi - Mihrimah Sultan - Selimiye Camii",
+              "D) Şehzade Camii - Rüstem Paşa - Süleymaniye Camii",
+              "E) Süleymaniye Camii - Selimiye Camii - Sultanahmet Camii"
+            ],
+            "correctIndex": 0,
+            "explanation": "Mimar Sinan İstanbul'daki Şehzade Camii'ni çıraklık, Süleymaniye Camii'ni kalfalık, Edirne'deki Selimiye Camii'ni (sekizgen ayak sistemi) ise ustalık eseri ilan etmiştir. (MKS_Sanat_Tarihi M.ALI 2026.pdf, s.45)\n\n💡 Hafıza İpucu: ŞEHZADE (Çırak) -> SÜLEYMANİYE (Kalfa) -> SELİMİYE (Usta).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -20711,7 +22039,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "sanattarihi",
         "order": 6,
         "title": "Geleneksel El Sanatları",
-        "officialQuestionCount": 87,
+        "officialQuestionCount": 90,
         "lectureContent": "## 6. Alt Başlık: Geleneksel El Sanatları\n\nİslam ve Osmanlı medeniyeti, gündelik yaşam eşyalarını ve dini metinleri en yüksek sanat seviyesine ulaştıran zengin bir el sanatları geleneği üretmiştir. Sınavlarda terim ve merkez eşleştirmeleri kritik önem taşır:\n\n### A. Hat, Tezhip, Minyatür ve Ebru\n* **Hüsn-i Hat:** Arap harfleriyle estetik ve ölçülü yazı yazma sanatıdır. Altı temel yazı türüne *Aklâm-ı Sitte* denir: Sülüs, Nesih, Muhakkak, Reyhani, Tevki ve Rika. Amasyalı Şeyh Hamdullah hat sanatının piri kabul edilir; Hafız Osman ise hilye-i şerif formunu klasikleştirmiştir.\n* **Hilye-i Şerif:** Hz. Muhammed'in fiziksel, ahlaki ve insani vasıflarını edebi ve estetik bir dille anlatan, levha şeklinde tasarlanmış hat ve tezhip başyapıtıdır.\n* **Tezhip:** El yazması kitapların, hat levhalarının ve fermanların kenarlarını altın tozu (ezilmiş altın) ve doğal boyalarla dantel gibi süsleme sanatıdır; bu sanatı icra edene **müzehhip** denir.\n* **Minyatür:** Doğu resim sanatıdır; gölge, ışık ve perspektif kullanılmaz. Figürlerin boyutu gerçek boylarına göre değil, toplumsal ve dini mevkilerine göre çizilir (padişah daima vezirlerden ve askerlerden kat kat büyük resmedilir). Minyatür ustasına **nakkaş** denir. Matrakçı Nasuh (sefer şehir haritalarıyla ünlü) ve Levni (Lale Devri Surname-i Vehbi minyatürcüsü) en büyük ustalardır.\n* **Ebru:** Kitre ile yoğunlaştırılmış suyun yüzeyine toprak boyaların serpilip desen oluşturulması ve bu desenin kağıda aktarılması sanatıdır; battal ebru, hatip ebrusu ve çiçekli ebru türleri vardır.\n\n### B. Çini, Seramik, Kündekari ve Ahşap Sanatı\n* **Çini Sanatı:** Pişmiş toprak killi levhaların sırlanıp fırınlanmasıyla yapılan duvar kaplama sanatıdır.\n  * **Mozaik Çini Tekniği:** Selçuklu döneminde sırça parçalarının kesilerek yapboz gibi birleştirilmesi tekniğidir (Konya Karatay Medresesi kubbesi).\n  * **Renkli Sır (Cuerda Seca) Tekniği:** Erken Osmanlı döneminde desenlerin arasına balmumu ve mangan çekilerek renklerin fırında birbirine karışmasının önlendiği tekniktir (Bursa Yeşil Cami).\n  * **Sıraltı Çini Tekniği:** Klasik Osmanlı döneminde desenin bisküvi üzerine çizilip boyandıktan sonra saydam sırla kaplanıp fırınlandığı tekniktir. 16. yüzyıl **İznik Çinileri** kırmızı mercan rengi, kobalt mavisi ve lale-karanfil motifleriyle dünya çapında zirveye oturmuştur (Rüstem Paşa Camii ve Sultanahmet Camii iç kaplamaları). 18. yüzyıldan itibaren ise **Kütahya Çiniciliği** bayrağı devralmıştır.\n* **Kündekari (Ahşap Sanatı):** Minberlerde, cami kapılarında ve pencere kanatlarında kullanılan eşsiz bir doğrama tekniğidir. Sekizgen, beşgen veya yıldız biçimli küçük ahşap parçaların ve kirişlerin, **hiç çivi ve tutkal kullanılmadan**, yalnızca birbirine geçirilen zıvanalı dişlerle kilitlenmesi sanatıdır. Ahşabın havadaki neme göre genişleyip daralmasına izin verdiği için yüzyıllar boyunca çatlamadan ayakta kalır.\n* **Kakmacılık ve Sedefkârlık:** Ahşap, mermer veya metal zemin üzerine oyulan yuvalara sedef, fildişi, altın ya da gümüş tellerin çakılarak gömülmesi sanatıdır.\n\n---\n\n### 🎯 Sınav Refleks Tablosu: Sanat Tarihi Çeldirici ve Eşleştirme Çapaları\n\n| Terim / Yapı / Sanatçı | Doğru Bilgi ve Çözüm Çapası | Sınavın Test Ettiği Yön |\n| :--- | :--- | :--- |\n| **Dor vs İon vs Korint** | Kaidesiz sütun = **Dor**; Volütlü başlık = **İon**; Akantus yapraklı başlık = **Korint**. | Klasik nizam ayrımı |\n| **Yunan Tiyatrosu vs Roma Tiyatrosu** | Yamaca yaslanan, tam daire orkestralı = **Yunan**; Düzlüğe tonozlarla yükselen, yarım daire orkestralı, kapalı sahne duvarlı = **Roma**. | Tiyatro mimari farkları |\n| **Pandantif vs Tromp** | Küresel üçgen köşe geçişi = **Pandantif**; Tonozlu/kemerli niş köşe geçişi = **Tromp**. | Kubbe geçiş elemanı |\n| **Prothesis vs Diakonikon** | Ayin ekmeği ve şarabı hazırlığı (Kuzey/Sol) = **Prothesis**; Ayin elbiseleri ve kutsal emanetler (Güney/Sağ) = **Diakonikon**. | Apsis yan hücreleri |\n| **Kümbet vs Türbe** | İki katlı, konik/piramidal külah çatılı Türk mezarı = **Kümbet**; Tek katlı, dairesel kubbeli mezar = **Türbe**. | Mezar mimari örtüsü |\n| **Şehzade vs Süleymaniye vs Selimiye** | Çıraklık (4 yarım kubbe) = **Şehzadebaşı**; Kalfalık (2 yarım kubbe, Ayasofya modeli) = **Süleymaniye**; Ustalık (Sekizgen ayak, tek dev kubbe) = **Selimiye**. | Mimar Sinan aşamaları |\n| **Nuruosmaniye Camii** | Osmanlı'nın ilk barok camisi, yarım daire at nalı avlulu. | Batılılaşma mimarisi |\n| **Divriği Ulu Camii ve Darüşşifası** | Mengücekliler eseri, Ahlatlı Hürremşah, taş barok kabartmalar, UNESCO mirası. | Beylikler dönemi başyapıtı |\n| **Kündekari** | Çivisiz ve tutkalsız ahşap geçme tekniği (minber ve kapılarda). | Ahşap el sanatı |\n| **İkonoklazma** | 726-843 yılları arası tasvir kırıcılık dönemi; sadece haç ve doğa motifi serbest. | Bizans dönemi dinsel kırılma |\n| **Ahşap Direkli Camiler (2023 UNESCO)** | Eşrefoğlu, Afyon Ulu, Sivrihisar Ulu, Arslanhane, Mahmut Bey. | Güncel kültür mirası |",
         "sentences": [
           {
@@ -21410,6 +22738,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "1928'de kurulan Müstakil Ressamlar ve Heykeltıraşlar Birliği ile ekspresyonizm, kübizm ve konstrüktivizm gibi akımlar Türk resim sanatına girmiştir.\n\n💡 Hafıza İpucu: 1928 = MÜSTAKİL birlik, akımları Türk resmine taşıyan ikinci dalga.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q055",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "\"Karadut\", \"Sitem\" ve \"Çatalkaram\" gibi şiirleriyle tanınan ve mavi yolculuğun simgelerinden biri hâline gelmiş Taşyaka Koyu'ndaki kaya üzerine yaptığı balık figürüyle özdeşleşen sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Abidin Dino",
+              "B) Bedri Rahmi Eyüboğlu",
+              "C) Nuri İyem",
+              "D) Tevfik Fikret",
+              "E) Cemal Süreya"
+            ],
+            "correctIndex": 1,
+            "explanation": "Hem ressam hem şair olan Bedri Rahmi Eyüboğlu, “Karadut” şiiri ve Fethiye/Göcek Taşyaka (Bedri Rahmi) Koyu’ndaki kaya üzerine çizdiği balık resmiyle Mavi Yolculuk kültürünün simge isimlerindendir (2026 Ağustos Mesleğe Kabul B Grubu, S. 55).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q087",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "El yazmaları, kaligrafik metinler ve minyatürlerin sayfalarına uygulanan, ana bileşeni “altın varak” veya “altın boya” olan süsleme sanatı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Keçecilik",
+              "B) Çini",
+              "C) Tezhip",
+              "D) Telkari",
+              "E) Seramik"
+            ],
+            "correctIndex": 2,
+            "explanation": "Arapçada “altınlamak” anlamındaki “zeheb” kökünden gelen Tezhip, el yazması kitapların ve hat levhalarının altın varak/altın boya ve doğal renklerle bezenmesi sanatıdır (2026 Ağustos Mesleğe Kabul B Grubu, S. 87).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_SNT-005",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "Geleneksel Türk süsleme sanatlarında fırınlanmış bisküvi üzerine sır altı tekniğiyle mercan kırmızısı, kobalt mavisi ve turkuaz renklerde lale ve karanfil motifleriyle zirveye ulaşan üretim merkezi neresidir?",
+            "options": [
+              "A) Kütahya",
+              "B) İznik",
+              "C) Avanos",
+              "D) Çanakkale",
+              "E) Diyarbakır"
+            ],
+            "correctIndex": 1,
+            "explanation": "16. yüzyılda Osmanlı çini sanatının altın çağını temsil eden merkez İznik'tir. Özellikle Rüstem Paşa Camii ve Topkapı Sarayı çinilerindeki mercan kırmızısı İznik atölyelerine özgüdür. (L-Halk_Bilimi_Edebiyat_El_Sanatlari 011 MALI 2026 AGUSTOS.pdf, s.18)\n\n💡 Hafıza İpucu: İZNİK ÇİNİSİ = MERCAN KIRMIZISI & SIR ALTI TEKNİĞİ.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -21420,7 +22796,7 @@ export const COURSES_DATA: Course[] = [
     "id": "mitoloji",
     "title": "Mitoloji",
     "slug": "mitoloji",
-    "totalOfficialQuestions": 362,
+    "totalOfficialQuestions": 371,
     "description": "Mitolojinin Temel Kavramları, Antik Yunan ve Roma, Hitit (Hatti), Sümer ve Mezopotamya, Türk Mitolojisi.",
     "iconName": "Sparkles",
     "isAvailable": true,
@@ -21430,7 +22806,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "mitoloji",
         "order": 1,
         "title": "Mitolojinin Temel Kavramları",
-        "officialQuestionCount": 66,
+        "officialQuestionCount": 68,
         "lectureContent": "## 1. Temel Kavramlar ve Mitolojinin Doğası\n\nMitoloji, antik insan topluluklarının doğayı, evrenin varoluşunu, yaşamın ve ölümün sırlarını, toplumsal düzeni ve açıklayamadıkları doğa olaylarını anlamlandırmak için ürettikleri kutsal öyküler bütünüdür. Eski Grekçede söz anlamına gelen üç farklı kavram bulunur: logos akla dayanan mantıklı sözü, epos ölçülü ve şiirsel sözü, mythos ise gerçeğin ötesine geçen inanç yüklü kutsal anlatıyı ifade eder. Mitler masallardan ya da rastgele uydurulmuş hikâyelerden farklıdır; üretildikleri çağın insanı için sorgulanamaz birer hakikat ve inanç temelidir.\n\nEvrenin ve dünyanın nasıl yaratıldığını anlatan mitolojik metinlere kozmogoni adı verilir. Tanrıların ve tanrıçaların doğumunu, soy kütüklerini ve aralarındaki iktidar mücadelelerini konu edinen anlatılar teogoni olarak adlandırılır. İnsanoğlunun yaratılışını, topraktan veya kutsal bir cevherden var edilişini açıklayan mitlere antropogoni denir. Dünyanın sonunu, kıyameti, evrenin nihai yıkımını ve yeniden doğuşunu işleyen mitler ise eskatoloji çatısı altında incelenir. Bir kurumun, kentin, dağın, pınarın veya bir gölün adının nereden geldiğini açıklayan köken mitlerine etiyolojik anlatılar denir.\n\nİnanç sistemlerinin tanrı anlayışları da mitolojinin temel kavramsal omurgasını oluşturur. Evrende tek bir tanrının varlığına inanılması monoteizm iken, birden çok tanrının varlığına tapınılması politeizm olarak adlandırılır. Çok tanrılı bir panteon içinde pek çok tanrının varlığı kabul edilmekle birlikte yalnızca tek bir tanrıya adanmışlık ve ibadet gösterilmesine henoteizm denir. Evren ile tanrıyı bir ve özdeş kabul eden, her şeyin tanrı olduğunu savunan felsefi ve dini yaklaşım panteizmdir. Tanrılara insan biçimi, insan duyguları, öfke, kıskançlık, aşk ve intikam gibi insani nitelikler atfedilmesine ise antropomorfizm adı verilir. Antik panteonların hemen tüm tanrıları insan siluetinde ve insan zaaflarına sahip antropomorfik varlıklardır.",
         "sentences": [
           {
@@ -21588,6 +22964,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Azra Erhat, Mitoloji Sözlüğü'nün (1972) yazarı olup İlyada-Odysseia ve Theogonia çevirilerine de imza atmıştır (s.92).\n\n💡 Hafıza İpucu: ERHAT = ERdemli HATırlatıcı, mitolojiyi Türkçeye taşıyan kalem.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q034",
+            "subtopicId": "mitoloji_1",
+            "courseId": "mitoloji",
+            "questionText": "Genellikle insan başlı, aslan gövdeli, kanatlı ya da kanatsız betimlenen, kaya anıtlarından anıtsal kapılara kadar farklı alanlarda koruyucu figür olarak kullanılan mitolojik varlığa ne ad verilir?",
+            "options": [
+              "A) Gargoyle",
+              "B) Sfenks",
+              "C) Minotor",
+              "D) Medusa",
+              "E) Şahmeran"
+            ],
+            "correctIndex": 1,
+            "explanation": "İnsan başlı ve aslan gövdeli (bazen kanatlı) olarak tapınak, mezar ve kent kapılarında koruyucu (apotropaik) figür şeklinde betimlenen mitolojik yaratık “Sfenks”tir (2026 Ağustos Mesleğe Kabul B Grubu, S. 34).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_MIT-002",
+            "subtopicId": "mitoloji_1",
+            "courseId": "mitoloji",
+            "questionText": "Mitolojide ve dinler tarihinde, evrenin ve kozmosun kökenini, yaratılışını açıklayan anlatı ve mit türüne ne ad verilir?",
+            "options": [
+              "A) Teogoni",
+              "B) Kozmogoni",
+              "C) Eskatoloji",
+              "D) Antropogoni",
+              "E) Etiyoloji"
+            ],
+            "correctIndex": 1,
+            "explanation": "Kozmogoni (Cosmogony) evrenin oluşumunu; Teogoni tanrıların doğuşunu; Antropogoni insanın yaratılışını; Eskatoloji ise dünyanın ve zamanın sonunu inceleyen mitlerdir. (MKS_Mitoloji M ALI 2026 AGUSTOS.pdf, s.3)\n\n💡 Hafıza İpucu: KOZMOGONİ = KOZMOSUN / EVRENİN DOĞUŞU.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -21597,7 +23005,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "mitoloji",
         "order": 2,
         "title": "Antik Yunan ve Roma Mitolojisi",
-        "officialQuestionCount": 82,
+        "officialQuestionCount": 84,
         "lectureContent": "## 2. Yunan ve Roma Mitolojisi\n\nGrek mitolojisinin başlangıcı ve teogoni anlatısı Hesiodos'un Teogonia adlı eserinde sistemleştirilmiştir. Başlangıçta yalnızca Khaos, yani sınırsız ve şekilsiz bir boşluk vardı. Khaos'tan yeryüzü anası Gaia ve derin karanlık Tartaros belirdi. Gaia tek başına gökyüzü Uranos'u doğurdu ve onunla birleşerek Titanları, tekgözlü Kyklopsları ve yüz kollu Hekatonkheirleri meydana getirdi. Uranos çocuklarının gücünden korkarak onları yerin yedi kat dibine hapsetti. Bu duruma isyan eden Gaia, en küçük oğlu Titan Kronos'a keskin bir tırpan verdi. Kronos babası Uranos'un iktidarını devirdi ve evrenin hâkimi oldu.\n\nKronos da kendi çocuklarından birinin kendisini tahttan indireceği kehanetinden korktuğu için eşi Rhea'dan doğan çocukları Hestia, Demeter, Hera, Hades ve Poseidon'u doğar doğmaz yuttu. Rhea son çocuğu Zeus'u kurtarmak için Girit Adası'na kaçırdı ve Kronos'a kundağa sarılmış bir taş yutturdu. Girit'teki İda Dağı'nda keçi Amaltheia'nın sütüyle büyüyen Zeus, yetişkin olduğunda babası Kronos'u kusturarak kardeşlerini kurtardı. Titanlar ile Olymposlu tanrılar arasında on yıl süren Titanomakhia savaşı patlak verdi. Zeus ve kardeşleri Titanları mağlup ederek Tartaros'a zincirlediler; göklerin hâkimiyeti Zeus'a, denizler Poseidon'a, yeraltı dünyası ise Hades'e paylaştırıldı.\n\nOlympos Dağı'nda yaşayan On İki Büyük Tanrı ve Roma'daki karşılıkları ile simgeleri antik sanatın ve sınavların en kritik eşleştirmeleridir.\n\nGöklerin, şimşeğin ve tanrıların kralı Zeus'tur. Roma'daki adı Iuppiter olup simgeleri şimşek demeti, kartal ve meşe ağacıdır.\n\nEvlilik, aile ve kadınların koruyucusu, Zeus'un resmi eşi ve kraliçesi Hera'dır. Roma'daki adı Iuno olup simgeleri tavus kuşu, nar ve zambaktır.\n\nDenizlerin, fırtınaların ve depremlerin tanrısı Poseidon'dur. Roma'daki adı Neptunus olup simgeleri üç dişli yaba, at ve yunustur. Yeri sarsan anlamına gelen Enosikhthon unvanıyla da bilinir.\n\nTarımın, bereketin, tahılın ve mevsimlerin tanrıçası Demeter'dir. Roma'daki adı Ceres olup simgeleri buğday başağı, bereket boynuzu ve meşaledir.\n\nAile ocağının, kentin kutsal ateşinin tanrıçası Hestia'dır. Roma'daki adı Vesta olup simgesi sönmeyen ocak ateşidir.\n\nSavaşın, kaba kuvvetin ve katliamın vahşi tanrısı Ares'tir. Roma'daki adı Mars olup simgeleri mızrak, kalkan, miğfer ve akbabadır.\n\nStratejik aklın, bilgeliğin, haklı savaşın ve el sanatlarının tanrıçası Athena'dır. Zeus'un başından zırhlı ve miğferli olarak doğmuştur. Roma'daki adı Minerva olup simgeleri baykuş, zeytin dalı, yılan ve Medusa başlı kalkandır.\n\nGüneşin, ışığın, müziğin, şiirin, güzel sanatların ve kehanetin tanrısı Apollon'dur. Roma'da da aynı adla anılır; simgeleri lir, defne çelengi, yay ve kargadır. Didyma ve Delphoi kâhinlik merkezlerinin sahibidir.\n\nAyın, bakir doğanın, avcılığın ve doğumun tanrıçası Artemis'tir. Apollon'un ikiz kız kardeşidir. Roma'daki adı Diana olup simgeleri hilal, yay, sadak ve geyiktir. Efes'teki çok memeli Artemis kültü ise Anadolu ana tanrıça geleneğinin devamıdır.\n\nAşkın, güzelliğin ve tutkunun tanrıçası Aphrodite'dir. Uranos'un denize düşen uzvunun yarattığı köpüklerden Kıbrıs açıklarında doğmuştur. Roma'daki adı Venus olup simgeleri güvercin, kuğu, mersin ağacı ve deniz kabuğudur.\n\nAteşin, madenciliğin ve demircilik zanaatının sakat ve çirkin tanrısı Hephaistos'tur. Roma'daki adı Vulcanus olup simgeleri örs, çekiç ve kıskaçtır.\n\nTanrıların habercisi, tüccarların, gezginlerin, hırsızların ve hatiplerin koruyucusu Hermes'tir. Roma'daki adı Mercurius olup simgeleri iki yılanın sarıldığı kanatlı asa, kanatlı sandaletler ve geniş kenarlı yolcu şapkasıdır. Ölü ruhları yer altına taşıyan psikopompos görevini de yürütür.\n\nŞarabın, bağbozumunun, tiyatronun, coşkunun ve esrikliğin tanrısı Dionysos'tur. Zeus ile Thebai prensesi Semele'nin oğludur; Semele ölünce Zeus bebeği baldırına dikerek dünyaya getirmiştir. Roma'daki adı Bacchus olup simgeleri asma yaprağı, sarmaşık, thyrsos asası, panter ve kantharos kadehidir.\n\nOlympos'ta yaşamayan ancak yer altının ve ölülerin hâkimi olan tanrı Hades'tir. Roma'daki adı Pluto olup görünmezlik miğferi, iki dişli asa ve üç başlı bekçi köpeği Kerberos ile sembolize edilir.\n\nKahramanlar ve efsaneler döngüsünde Herakles, yani Roma'daki adıyla Hercules, Zeus ile ölümlü Alkmene'nin oğludur. Hera'nın lanetiyle delirdiği bir anda çocuklarını öldürünce arınmak için Miken Kralı Eurystheus'un emrine girerek on iki imkânsız görevi tamamlamıştır. Bu görevler Nemea aslanının derisini yüzmek, dokuz başlı Lerna hydrasını kesmek, Keryneia geyiğini yakalamak, Erymanthos yaban domuzunu alt etmek, Kral Augeias'ın devasa ahırlarını bir günde temizlemek, Stymphalos Gölü'nün et yiyen tunç tüylü kuşlarını kovmak, Girit boğasını dize getirmek, Diomedes'in insan yiyen kısraklarını ele geçirmek, Amazonlar kraliçesi Hippolyte'nin kemerini almak, üç gövdeli Geryoneus'un sığırlarını getirmek, Hesperidlerin altın elmalarını toplamak ve yer altı dünyasından üç başlı Kerberos'u yeryüzüne çıkarmaktır.\n\nPerseus, Argos prensesi Danae'ye altın yağmuru kılığında giren Zeus'un oğludur. Kanatlı sandaletleri, görünmezlik başlığı ve ayna gibi parlayan kalkanıyla yılan saçlı Gorgon Medusa'nın başını kesmiş; Medusa'nın boynundan kanatlı at Pegasos doğmuştur. Perseus daha sonra kayalıklara zincirlenmiş prenses Andromeda'yı deniz canavarından kurtarmıştır.\n\nTheseus, Atina kralı Aigeus'un oğludur. Girit labirentine girerek yarı insan yarı boğa Minotauros'u öldürmüş; labirentten çıkabilmek için kral kızı Ariadne'nin verdiği iplik yumağını kullanmıştır.\n\nİason ve Argonotlar efsanesi, Kolkhis ülkesinden altın postu çalmak için Argo gemisiyle Karadeniz'e açılan elli kahramanın serüvenini anlatır. Büyücü prenses Medea'nın yardımıyla ejderhayı uyutup postu ele geçirmişlerdir.\n\nHomeros'un İlyada Destanı, Troia Savaşı'nın son yılındaki elli bir günlük süreci ve özellikle dünyanın en büyük savaşçısı Akhilleus'un öfkesini anlatır. Savaş, Sparta Kralı Menelaos'un eşi Helena'nın Troia Prensi Paris tarafından kaçırılmasıyla başlamıştır. İlyada, Hektor'un Akhilleus tarafından öldürülmesi ve babası Priamos'a teslim edilen cenaze töreniyle sona erer. Tahta at hilesi ve kentin düşüşü ise Odysseia destanında ve Vergilius'un Aeneis destanında işlenir. Odysseia, İthake Kralı kurnaz Odysseus'un Troia dönüşünde on yıl boyunca Kyklop Polyphemos, büyücü Kirke, sirenler ve Skylla-Kharybdis girdapları arasında verdiği amansız eve dönüş mücadelesini aktarır.",
         "sentences": [
           {
@@ -22453,6 +23861,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Canlıları donatma görevini üstlenen iki kardeşten Prometheus, çıplak kalan insana Olympos'tan çaldığı ateşi ve zanaatları vermiş, bu yüzden Zeus tarafından cezalandırılmıştır (s.31).\n\n💡 Hafıza İpucu: PROMETHEUS = ateşi çalan, insana veren kahraman-tanrı.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q039",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Mitolojide Zeus ile Semele’nin oğlu olan, Zeus’un baldırından doğduğuna inanılan, bağcılık, tiyatro ve şenliklerle ilişkilendirilen tanrı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Dionysos",
+              "B) Hermes",
+              "C) Poseidon",
+              "D) Hephaistos",
+              "E) Herakles"
+            ],
+            "correctIndex": 0,
+            "explanation": "Zeus ile Semele’nin oğlu olan Dionysos (Roma’da Bakkhos), şarap, bağbozumu, bereket, şenlik ve antik tiyatro sanatının tanrısıdır (2026 Ağustos Mesleğe Kabul B Grubu, S. 39).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q041",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Troya'nın düşüşünden sonra kentten kaçarak İtalya'ya ulaştığına ve Roma halkının atası olduğuna inanılan kişi aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Paris",
+              "B) Aeneas",
+              "C) Odysseus",
+              "D) Hektor",
+              "E) Akhilleus"
+            ],
+            "correctIndex": 1,
+            "explanation": "Vergilius’un Aeneis destanına göre Troya’nın düşüşünden sonra babası Ankhises’i sırtlayıp İtalya’ya (Latium) ulaşan Aphrodite ve Ankhises’in oğlu Aeneas, Roma halkının atası kabul edilir (2026 Ağustos Mesleğe Kabul B Grubu, S. 41).",
+            "difficulty": "temel"
           }
         ],
         "isAvailable": true
@@ -22462,7 +23902,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "mitoloji",
         "order": 3,
         "title": "Hitit (Hatti) Mitolojisi",
-        "officialQuestionCount": 75,
+        "officialQuestionCount": 76,
         "lectureContent": "## 3. Hitit ve Hatti Mitolojisi\n\nAnadolu'nun kadim toprakları zengin bir yerli inanç birikimine ev sahipliği yapmıştır. Hititler fethettikleri her bölgenin, her kentin yerel tanrısını panteonlarına kabul edip saygı gösterdikleri için kendi ülkelerine Bin Tanrılı Ülke adını vermişlerdir. Bu panteonun çekirdeğini yerli Hatti halkının tanrıları ile zamanla kaynaşan Hurri tanrıları oluşturmuştur.\n\nHitit panteonunun en tepesinde iki büyük güç yer alır. Birincisi Fırtına Tanrısı Teşup'tur; gök gürültüsünü, şimşeği ve bereket getiren yağmuru yönetir, elinde balta ve şimşek demeti taşır, arabasını Seri ve Hurri adlı kutsal boğalar çeker. İkincisi ise yerli Hatti kökenli Arinna'nın Güneş Tanrıçası Vuruşemu'dur; devletin, adaletin ve kraliyetin en yüce koruyucusudur. Hitit metinlerinde kraliçeler kendilerini doğrudan Arinna'nın Güneş Tanrıçası'nın yeryüzündeki gölgesi kabul ederler. Hurri etkisiyle bu ulu tanrıça Hebat adıyla özdeşleşmiştir. Bu ilahi çiftin oğlu ise Nerik ve Zippalanda kentlerinin Fırtına Tanrısı kabul edilen Şarruma'dır.\n\nHitit mitolojisinde mevsim döngülerini ve kuraklık felaketlerini açıklayan iki büyük mitolojik metin bulunur.\n\nBirincisi İlluyanka Efsanesi'dir. Fırtına Tanrısı ile yeraltı ejderi İlluyanka arasındaki savaşı anlatır. İlk çarpışmada ejderha Fırtına Tanrısı'nı yener ve onun gözleri ile kalbini söküp alır. Fırtına Tanrısı öcünü alabilmek için tanrıça İnara'dan yardım ister. Tanrıça İnara, ölümlü bir adam olan Hupaşiya'yı yanına çağırır ve büyük bir ziyafet kurar. İlluyanka ve yavruları ziyafete gelip patlayana kadar yerler ve sarhoş olurlar; deliklerine geri dönemeyecek kadar şiştiklerinde Hupaşiya ejderhayı urganla bağlar ve Fırtına Tanrısı gelip onu öldürerek organlarını geri alır. Bu mit her bahar kutlanan Purulli İlkbahar Bayramı'nda kötülüğün yenilişi ve doğanın canlanışı adına canlandırılırdı.\n\nİkinci büyük metin Kaybolan Tanrı Telipinu Efsanesi'dir. Tarım ve bereket tanrısı olan Telipinu, öfkelenip sağ pabucunu soluna, sol pabucunu sağına giyerek çekip gider ve bir bataklıkta uykuya dalar. Telipinu gidince yeryüzünde hayat durur; ocaklarda ateş söner, tarlada ekinler kurur, hayvanlar yavrularını doğurmaz ve insanlar açlıktan kırılır. Büyük tanrılar kartalı ve fırtınayı gönderirler ancak onu bulamazlar. Sonunda Ana Tanrıça Hannahanna minik bir balarısını görevlendirir. Arı bataklıkta Telipinu'yu bulur, ellerini ve ayaklarını sokarak onu uyandırır. Öfkeyle kalkan tanrıyı büyü ve şifa tanrıçası Kamruşepa sakinleştirir ve yeryüzüne bereket yeniden döner.\n\nÇorum Boğazköy'deki Yazılıkaya Açık Hava Tapınağı, Hitit panteonunun taşlara kazınmış en görkemli özetidir. A Odası'nda sol tarafta Fırtına Tanrısı Teşup'un önderliğinde erkek tanrılar geçidi, sağ tarafta ise Arinna'nın Güneş Tanrıçası Hebat ve ardında oğlu Şarruma ile dişi tanrıçalar geçidi ilerler. İki kortejin tam ortada karşılaştığı ana panoda Teşup, dağ tanrılarının omuzlarına basarak Hebat'ı selamlar.",
         "sentences": [
           {
@@ -22701,6 +24141,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "Kumarbi, Anu'nun erkekliğini ısırıp yutarak Fırtına Tanrısı Teşup'a gebe kalmış; bu motif Yunan mitolojisindeki Kronos-Uranos mücadelesine paralellik gösterir (s.76).\n\n💡 Hafıza İpucu: KUMARBİ ≈ Kronos, Anu ≈ Uranos, Teşup ≈ Zeus — Hitit mitolojisi Yunan'a köprü kurar.",
             "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_MIT-003",
+            "subtopicId": "mitoloji_3",
+            "courseId": "mitoloji",
+            "questionText": "Hitit mitolojisinde öfkelenerek doğayı terk eden, onun kayboluşuyla tüm yeryüzünde kıtlık, kuraklık ve kısırlığın baş göstermesine sebep olan bereket ve tarım tanrısı kimdir?",
+            "options": [
+              "A) Tarhund",
+              "B) Telipinu",
+              "C) Kumarbi",
+              "D) Ullikummi",
+              "E) İnar"
+            ],
+            "correctIndex": 1,
+            "explanation": "Telipinu mitinde, tanrı sağ ayağının çizmesini sol ayağına giyip öfkeyle kaybolunca doğada hayat durur. Bir arı tarafından bulunup yatıştırılmasıyla bereket geri döner. (G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf, s.21)\n\n💡 Hafıza İpucu: TELİPİNU = KAYBOLAN VE BEREKETİ GÖTÜREN HITIT TANRISI (Arı bulur).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -22710,7 +24166,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "mitoloji",
         "order": 4,
         "title": "Sümer ve Mezopotamya Mitolojisi",
-        "officialQuestionCount": 69,
+        "officialQuestionCount": 70,
         "lectureContent": "## 4. Sümer ve Mezopotamya Mitolojisi\n\nTarihin yazıyla başladığı Mezopotamya topraklarında mitoloji, evrenin kaosunu düzenleme ve insanlığın trajik ölümlülüğünü anlama arayışıdır. Sümer panteonunun temelinde üç büyük kozmik tanrı yer alır. Göklerin efendisi Anu, havanın, rüzgârın ve yeryüzünün hâkimi Enlil, tatlı yeraltı sularının, bilgeliğin, sihrin ve insanın yaratıcısı olan Enki'dir.\n\nAy tanrısı Nanna, güneş ve adalet tanrısı Utu ve aşk, cinsellik, bereket ile savaşın tutkulu tanrıçası İnanna Sümer'in merkezindedir. Akad, Babil ve Asur panteonunda bu isimler dönüşür; İnanna İştar'a, Utu Şamaş'a, Nanna ise Sin'e evrilir. Yeraltı ve ölüler dünyasının acımasız kraliçesi ise Ereşkigal'dir.\n\nMezopotamya mitolojisinin dünya edebiyatına armağan ettiği en büyük metin Gılgamış Destanı'dır. Uruk kenti kralı olan üçte iki tanrı, üçte bir insan Gılgamış'ın kibrini kırmak için tanrılar bozkırın vahşi adamı Enkidu'yu yaratırlar. Gılgamış ile Enkidu önce dövüşür, ardından sarsılmaz bir dostluk kurarlar. Birlikte Sedir Ormanı'nın bekçisi dev Humbaba'yı öldürürler. Aşk teklifini reddettiği için intikam almak isteyen İştar'ın kente saldığı Gök Boğası'nı katlederler. Tanrılar bu cüret karşısında Enkidu'yu ölümle cezalandırır. Dostunun ölümüyle sarsılan Gılgamış, ilk kez ölümün dehşetini hisseder ve ölümsüzlüğün sırrını bulmak için tufandan sağ çıkan tek ölümlü olan Utnapiştim'in peşine düşer. Utnapiştim ona tufan hikâyesini anlatır ve denizin dibindeki gençlik otunun yerini söyler. Gılgamış otu bulur ancak yolda yıkanırken bir yılan otu çalar, derisini değiştirerek gençleşir; Gılgamış ise ölümlülüğü kabullenerek kenti Uruk'a geri döner.\n\nBabil yaratılış destanı olan Enuma Eliş, evrenin henüz adı konmamışken tatlı su Apsu ile tuzlu su Tiamat'ın birliğinden tanrıların doğuşunu anlatır. Genç tanrıların gürültüsünden rahatsız olan Apsu onları yok etmek isterken Enki tarafından öldürülür. Bunun üzerine intikam yemini eden ejderha biçimli dev canavar Tiamat'a karşı Babil'in baş tanrısı Marduk öne çıkar. Marduk dört bir rüzgârı Tiamat'ın ağzına doldurarak karnını yarar ve onu ikiye böler; Tiamat'ın bedeninin bir yarısından gökyüzünü, diğer yarısından yeryüzünü yaratır. Tiamat'ın kışkırtıcısı olan tanrı Kingu'nun kanıyla kili karıştırarak tanrılara hizmet etsin diye insanı var eder.\n\nİnanna'nın Yeraltına İnişi miti ise mevsim döngüsünü anlatır. İnanna kız kardeşi Ereşkigal'in diyarına inerken yeraltı dünyasının yedi kapısından geçer ve her kapıda bir giysisini ve takısını bırakarak çırılçıplak kalır. Yeraltında ölüme mahkûm edilen tanrıça, Enki'nin yardımıyla kurtarılır; ancak yeraltı kanunları gereği yerine birini bırakmak zorundadır. Yeryüzüne döndüğünde eşi çoban tanrı Dumuzi'nin tahtında eğlendiğini görünce onu yer altına kurban verir. Dumuzi yılın yarısını yer altında, yarısını yeryüzünde geçirir; onun yeryüzüne çıktığı anlar doğanın baharla uyandığı zamanlardır.",
         "sentences": [
           {
@@ -22907,6 +24363,22 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 0,
             "explanation": "Babil'in baş tanrısı Marduk, Tiamat'ı öldürüp bedenini ikiye bölerek gökyüzünü ve yeryüzünü var eder."
+          },
+          {
+            "id": "trp_bank_MIT-004",
+            "subtopicId": "mitoloji_4",
+            "courseId": "mitoloji",
+            "questionText": "Babil yaratılış destanı Enuma Eliş'te, tuzlu suları ve kaos canavarını simgeleyen Tiamat'ı ortadan kaldırarak yeryüzünü ve gökyüzünü onun bedeninden yaratan baştanrı kimdir?",
+            "options": [
+              "A) Marduk",
+              "B) Enlil",
+              "C) Anu",
+              "D) Ea",
+              "E) Nabu"
+            ],
+            "correctIndex": 0,
+            "explanation": "Babil'in koruyucu baştanrısı Marduk, kaos canavarı ejderha Tiamat'ı ikiye bölerek bir parçasından gök kubbeyi, diğerinden yeryüzünü inşa etmiştir. (GR-MKS MITOLOJI VE DIN Cikmis Sorular Calismasi.docx, s.40)\n\n💡 Hafıza İpucu: MARDUK TIAMAT'I YENDİ: Babil'in kozmik yaratıcısı.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -22916,7 +24388,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "mitoloji",
         "order": 5,
         "title": "Türk Mitolojisi",
-        "officialQuestionCount": 70,
+        "officialQuestionCount": 73,
         "lectureContent": "## 5. Türk Mitolojisi\n\nİslamiyet öncesi Orta Asya bozkırlarında şekillenen Türk mitolojisi, doğayla iç içe, göğün sonsuzluğuna ve yerin kutsiyetine dayanan zengin bir inanç sistemidir. Panteonun en tepesinde her şeyin yaratıcısı, gök kubbenin tek hâkimi olan Kök Tengri, yani Gök Tanrı yer alır. Gök Tanrı soyuttur, heykeli veya resmi yapılmaz, gök gibi sonsuz ve adildir.\n\nEvren üç katmandan oluşur. Üst katman aydınlık gökyüzüdür ve iyiliklerin kaynağı olan Bay Ülgen burada oturur. Ülgen insanlara bereketi, ateşi ve yaşamı bağışlayan koruyucu güçtür. Orta katman insanların yaşadığı yeryüzüdür; dağlar, ormanlar, ırmaklar ve kayalar Yer-Sub ruhları tarafından korunur. Alt katman ise yeraltındaki karanlıklar dünyasıdır; buranın hâkimi kötülüğün, hastalıkların ve ölümün efendisi Erlik Han'dır. Erlik kara çamurdan yapılmış sarayında oturur ve emrindeki yeraltı ruhlarıyla insanların canını almaya çalışır.\n\nKadınları, lohusaları, bebekleri ve hayvan yavrularını koruyan şefkatli tanrıça Umay Ana'dır. Beyaz elbiseli, gümüş saçlı ve kuş kanatlı olarak tasvir edilir. Umay Ana'nın koruması altındaki ocaklar tüter, çocuklar hastalıktan korunur.\n\nTürk kozmolojisinde kutup yıldızı evrenin merkezidir ve Altın Kazık olarak adlandırılır. Gök kubbe bu kazığın etrafında döner. Yerin göbeğinden göğün tepesine kadar uzanan dokuz dallı Hayat Ağacı, yani Dünya Ağacı, evrenin katmanlarını birbirine bağlar. Şamanlar ya da kamlar ritüellerinde davullarının ve dualarının eşliğinde bu ağacın basamaklarını tırmanarak Ülgen'in huzuruna çıkar veya yerin dibine inerek Erlik ile pazarlık ederler.\n\nBozkurt, Türk mitolojisinin en kutsal hayvan ata ve kılavuz sembolüdür. Aşina soyunun türeyiş efsanesinde düşmanlar tarafından kolları ve bacakları kesilerek bataklığa atılan son Türk çocuğunu dişi bir kurt olan Asena besleyip büyütür ve ondan on erkek çocuk doğurarak soyun tükenmesini engeller. Ergenekon Destanı'nda ise demir dağı eriten Türklere sarp kayalıklardan yol gösteren Börteçine adlı gök yeleli kurttur.\n\nTürk destan zinciri yaratılış ve türeyiş mitleriyle doludur. Altay Yaratılış Destanı'nda başlangıçta yalnızca su varken Tanrı Ülgen ve ona yoldaşlık eden Erlik'in sudan toprak çıkarma mücadelesi anlatılır. Oğuz Kağan Destanı'nda ise Türk cihan hâkimiyeti ülküsü ilahi bir kahramanın doğumunda somutlaşır; Oğuz Kağan'ın gözleri al, ağzı ateş gibi, ayakları öküz ayağı gibi, beli kurt beli gibidir ve doğar doğmaz çiğ et yiyip kımız içerek bir canavarı alt eder, gökten inen mavi ışıktan ve ağaç kovuğundaki kızlardan doğan çocuklarıyla Türk boylarını kurar.\n\n---\n\n### Mitoloji Sınav Refleks Tablosu: Soru Bankası Çeldiricileri ve Ayırt Edici Çapalar\n\nMitoloji sorularında kavramların birbirine karıştırılması en yaygın sınav tuzağıdır. Aşağıdaki eşleştirme ve ayrımlar doğrudan doğru cevabı buldurur:\n\nKozmogoni evrenin ve dünyanın yaratılışını incelerken; Teogoni tanrıların doğumunu ve soyağacını anlatır. Eskatoloji ise dünyanın sonunu ve kıyameti konu edinir.\n\nHenoteizm çok tanrıyı kabul edip tek tanrıya tapınmaktır; Monoteizm tek tanrıcılıktır; Panteizm evren ile tanrıyı bir saymaktır.\n\nZeus göklerin kralıdır ve Roma'daki adı Iuppiter'dir; Hera evlilik kraliçesidir ve Roma'da Iuno'dur.\n\nPoseidon deniz ve deprem tanrısıdır, Roma'da Neptunus'tur; Hades yeraltı hâkimidir, Roma'da Pluto'dur.\n\nAthena bilgelik ve strateji tanrıçasıdır, Roma'da Minerva'dır; Ares kaba savaş tanrısıdır, Roma'da Mars'tır.\n\nArtemis bakir avcı ve ay tanrıçasıdır, Roma'da Diana'dır; Apollon ışık, müzik ve kehanet tanrısıdır, Roma'da da Apollon'dur.\n\nAphrodite aşk tanrıçasıdır, Roma'da Venus'tür; Hephaistos demirci tanrıdır, Roma'da Vulcanus'tur.\n\nHermes haberci tanrıdır, Roma'da Mercurius'tur; Dionysos şarap tanrısıdır, Roma'da Bacchus'tur.\n\nHatti ve Hitit panteonunda Fırtına Tanrısı Teşup, Arinna'nın Güneş Tanrıçası Vuruşemu veya Hebat'tır; ejderha miti İlluyanka, kaybolup hayatı durduran tanrı ise Telipinu'dur.\n\nSümer'de gök tanrısı Anu, yer ve fırtına tanrısı Enlil, tatlı su ve bilgelik tanrısı Enki'dir; aşk tanrıçası İnanna, Akad ve Babil'de İştar adını alır.\n\nGılgamış destanında ölümsüzlüğü bulan tufan kahramanı Utnapiştim'dir; Babil yaratılış destanı Enuma Eliş'te canavar Tiamat'ı yenen baş tanrı Marduk'tur.\n\nTürk mitolojisinde iyiliğin gökteki temsilcisi Ülgen, yeraltı kötülüğünün efendisi Erlik Han, çocukların ve doğumun koruyucusu Umay Ana'dır. Kutup yıldızına Altın Kazık denir.",
         "sentences": [
           {
@@ -23264,6 +24736,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Umay Ana (Ayıısıt), doğum tanrıçası, aile ve neslin devamının koruyucusu olarak bilinen kutsal bir ruhtur; çocuklardaki doğum lekeleri 'Umay Ana'nın el izi' sayılır (s.113).\n\n💡 Hafıza İpucu: UMAY ANA = doğumun koruyucu ruhu, bebeğin ilk çapası.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q029",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Aşağıdakilerden hangisi tarihî Türk destanlarından biri değildir?",
+            "options": [
+              "A) Ramayana Destanı",
+              "B) Manas Destanı",
+              "C) Bozkurt Destanı",
+              "D) Ergenekon Destanı",
+              "E) Oğuz Kağan Destanı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Ramayana (Mahabharata ile birlikte) eski Hint destanlarından biridir. Manas (Kırgız), Bozkurt ve Ergenekon (Kök Türk), Oğuz Kağan (Hun) tarihî Türk destanlarıdır (2026 Ağustos Mesleğe Kabul B Grubu, S. 29).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q036",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Türk mitolojisinde doğumun, çocukların, annelerin, ailenin ve neslin devamını sağlayan koruyucu ruh kabul edilen kutsal varlık aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Tomris Hatun",
+              "B) Tulpar",
+              "C) Umay Ana",
+              "D) Al Karısı",
+              "E) Su İyesi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Türk mitolojisinde anne, çocuk ve aile ocağının koruyucu tanrıçası/ruhu “Umay Ana”dır; Orhun Yazıtları’nda da adı geçmektedir (2026 Ağustos Mesleğe Kabul B Grubu, S. 36).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_MIT-005",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Altay ve Sibirya Türk yaratılış efsanelerinde göğün en üst katında oturan, iyiliğin ve ışığın kaynağı olan baş tanrı ile yeraltının karanlıklar hükümdarı hangi seçenekte doğru verilmiştir?",
+            "options": [
+              "A) Ülgen - Erlik",
+              "B) Umay - Ayaz Ata",
+              "C) Kayra Han - Albıs",
+              "D) Gök Tengri - Tepegöz",
+              "E) Mergen - Kızagan"
+            ],
+            "correctIndex": 0,
+            "explanation": "Altay mitolojisinde Bay Ülgen göklerin ve iyiliğin koruyucusuyken; Erlik Han yer altı cehenneminin (Tamu) ve kötülüğün hükümdarıdır. (MKS_Turk_Tarihi_Kulturu M.ALI 2026 AGUSTOS.pdf, s.52)\n\n💡 Hafıza İpucu: ÜLGEN = GÖK/İYİLİK; ERLİK = YER ALTI/KÖTÜLÜK.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -23274,7 +24794,7 @@ export const COURSES_DATA: Course[] = [
     "id": "dinler-tarihi",
     "title": "Dinler Tarihi",
     "slug": "dinler-tarihi",
-    "totalOfficialQuestions": 303,
+    "totalOfficialQuestions": 310,
     "description": "Dinin Temel Kavramları, Doğu ve Uzak Doğu Dinleri, İbrahimi Dinler, Kadim İnançlar ve İnanç Turizmi.",
     "iconName": "BookOpen",
     "isAvailable": true,
@@ -23284,7 +24804,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "dinler-tarihi",
         "order": 1,
         "title": "Dinin Temel Kavramları",
-        "officialQuestionCount": 68,
+        "officialQuestionCount": 69,
         "lectureContent": "## 1. Alt Başlık: Temel Kavramlar\n\nDinler Tarihi, insanlık tarihi boyunca ortaya çıkmış dini inançları, ibadet biçimlerini, kutsal metinleri ve mezhepleri tarafsız, betimleyici ve karşılaştırmalı bir yöntemle inceleyen bilim dalıdır. Bir teolog gibi herhangi bir inancın doğruluğunu veya yanlışlığını savunmaz; inanç sistemlerini kendi tarihsel ve sosyolojik bağlamı içinde anlamaya çalışır.\n\nDinler Tarihinde ve sınav soru bankalarında en sık karşılaşılan temel kavramlar ve inanç sınıflandırmaları şunlardır:\n\n* **Monoteizm:** Tek bir yaratıcı Tanrı'nın varlığına, mutlak kudretine ve eşi benzeri olmadığına inanılan tek tanrıcılık anlayışıdır. İbrahimi dinler olan Yahudilik, Hristiyanlık ve İslam monoteizmin en belirgin örnekleridir.\n* **Politeizm:** Evrende birden çok tanrının veya tanrıçanın varlığını kabul eden çok tanrıcılık sistemidir. Antik Yunan, Roma, Mısır ve Mezopotamya dinleri çok tanrılı yapılardır.\n* **Henoteizm:** Çok sayıda tanrının varlığına inanmakla birlikte, kişinin veya kabilenin içlerinden bir tanesini en yüce kabul edip yalnızca ona ibadet etmesi durumudur. Diğer tanrılar bütünüyle reddedilmez ancak tapınım tek bir üstün tanrıya yöneltilir.\n* **Monolatrizm:** Birden fazla tanrının varlığı reddedilmemekle birlikte, topluluğun sadece kendi koruyucu tanrısına ibadet etmesi gerektiğini savunan inanç biçimidir. Henoteizm ile yakın akrabadır.\n* **Panteizm:** Evren ile Tanrı'yı bir ve özdeş kabul eden tüm tanrıcılık anlayışıdır. Doğa ve evren, Tanrı'nın bizzat kendisidir; evrenin dışında bağımsız bir Tanrı yoktur.\n* **Panenteizm:** Panteizmden çok ince bir çizgiyle ayrılır. Tanrı evreni kapsar ve onda içkindir; ancak evrenle sınırlı değildir, evrenin ötesinde ve aşkındır. Yani her şey Tanrı'dadır fakat Tanrı her şeyden fazladır.\n* **Deizm:** Tanrı'nın evreni yarattığını fakat yarattıktan sonra evrenin işleyişine, doğa yasalarına ve insan yaşamına müdahale etmediğini, peygamber ve vahiy göndermediğini savunan yaradancılık anlayışıdır.\n* **Agnostisizm:** Tanrı'nın veya metafizik gerçekliklerin varlığının veya yokluğunun insan aklıyla bilinemeyeceğini savunan bilinemezcilik öğretisidir.\n* **Ateizm:** Herhangi bir yaratıcı Tanrı'nın varlığını bütünüyle reddeden tanrıtanımazlık anlayışıdır.\n* **Animizm:** Doğadaki tüm varlıkların; ağaçların, ırmakların, dağların, rüzgârın ve hayvanların birer ruha sahip olduğuna inanılan ilkel inanç sistemidir.\n* **Totemizm:** Bir insan topluluğunun veya kabilenin, kendileriyle akraba veya koruyucu saydıkları kutsal bir hayvan, bitki ya da doğa nesnesiyle kurduğu mistik bağdır. Bu varlığa totem denir.\n* **Şamanizm:** Kam veya şaman adı verilen dini uzmanların ruhlar alemiyle, öte dünyayla ve tanrılarla transa geçerek iletişim kurduğu, şifa dağıttığı kadim ritüeller bütünüdür.\n* **Senkretizm:** Farklı dinlerin, mitolojilerin, felsefi inançların veya ritüellerin zaman içinde birbirine karışarak kaynaşması ve yepyeni melez bir inanç formu oluşturmasıdır. Örneğin Helenistik ve Roma döneminde Mısır Tanrıçası İsis ile Anadolu Tanrıçası Kibele'nin özelliklerinin birleşmesi senkretik bir süreçtir.\n* **Eskatoloji:** Dünyanın sonu, kıyamet, ölüm ve ölüm sonrası hayatı, mahşer ve ahiret inancını inceleyen dini ve felsefi alandır.\n* **Teofani:** Tanrı'nın veya tanrısal bir varlığın insanlara gözle görülür bir biçimde, bir işaret, ışık, alev veya insan suretinde kendini göstermesidir. Musa'ya Sina Dağı'nda yanan çalı içinde görünmesi teofani örneğidir.\n\n---",
         "sentences": [
           {
@@ -23496,6 +25016,22 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 1,
             "explanation": "Panenteizm, panteizmden aşkınlık (transcendence) boyutuyla ayrılır; Tanrı evreni kapsar ancak evrenden fazladır."
+          },
+          {
+            "id": "trp_bank_DIN-001",
+            "subtopicId": "dt_1",
+            "courseId": "dinler-tarihi",
+            "questionText": "Dinler tarihinde birden fazla tanrının varlığını kabul etmekle birlikte, ibadet ve bağlılıkta yalnızca bir tanrıyı yüceltip öne çıkaran inanç biçimine ne ad verilir?",
+            "options": [
+              "A) Monoteizm",
+              "B) Politeizm",
+              "C) Henoteizm",
+              "D) Panteizm",
+              "E) Deizm"
+            ],
+            "correctIndex": 2,
+            "explanation": "Henoteizm, çok tanrılı sistemlerde tek bir tanrıya bağlanıp diğer tanrıları tamamen inkâr etmeksizin ona öncelik verme inancıdır (Monolatri ile yakındır). (MKS_Dinler_Tarihi M.ALI 2026 AGUSTOS.pdf, s.4)\n\n💡 Hafıza İpucu: HENOTEİZM = ÇOK TANRI ARASINDA TEK BİR TANRIYA YÖNELME.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -23505,7 +25041,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "dinler-tarihi",
         "order": 2,
         "title": "Doğu ve Uzak Doğu Dinleri",
-        "officialQuestionCount": 69,
+        "officialQuestionCount": 70,
         "lectureContent": "## 2. Alt Başlık: Doğu Dinleri\n\nAsya kıtasının kadim medeniyet havzalarında doğan Doğu dinleri, Batı'daki vahiy merkezli ve tarihsel peygamber odaklı dinlerden farklı olarak daha çok döngüsel evren, ruhsal kurtuluş, karma ve yaşam disiplini etrafında şekillenir.\n\n### A. Hinduizm (Sanatana Dharma)\nHinduizm, belirli bir kurucusu ve tek bir teolojik dogması olmayan, Hindistan'ın en köklü ve yaşayan dinidir. Kendisini ezeli ve ebedi yasa anlamına gelen Sanatana Dharma olarak tanımlar.\n\n* **Kutsal Metinler:**\n  * **Veda'lar:** En kadim kutsal metinlerdir. Dört ana kitaptan oluşur: Rigveda (ilahiler), Samaveda (melodiler), Yajurveda (kurban kuralları) ve Atharvaveda (büyü ve şifa duaları).\n  * **Upanishad'lar:** Veda'ların felsefi ve mistik yorumlarıdır. Evrenin yüce ruhu Brahman ile bireysel ruh Atman'ın özdeşliğini anlatır.\n  * **Destanlar:** Mahabharata (içinde ünlü felsefi diyalog Bhagavad Gita yer alır) ve Ramayana destanlarıdır.\n* **Temel Kavramlar:**\n  * **Brahman:** Evrenin mutlak, her şeyi kuşatan, sonsuz ve ezeli yaratıcı ilkesidir.\n  * **Atman:** Canlıların içinde taşıdığı ölümsüz bireysel ruhtur. Atman özünde Brahman'ın bir parçasıdır.\n  * **Samsara:** Ruhun bedenden bedene geçerek doğum, yaşam, ölüm ve yeniden doğum döngüsünde sonsuza dek dönüp durmasıdır; yani reenkarnasyon çarkıdır.\n  * **Karma:** Sebep-sonuç yasasıdır. Kişinin bu hayatındaki ahlaki eylemleri, bir sonraki hayatında hangi bedende ve hangi kast statüsünde doğacağını mutlak biçimde belirler.\n  * **Mokşa:** Samsara döngüsünden, yani yeniden doğuş çarkından bütünüyle kurtularak ruhun Brahman ile birleşmesi, ebedi özgürlüğe kavuşmasıdır.\n  * **Kast Sistemi (Varna):** Toplumu doğuştan gelen katı sınıflara böler. Dört ana varna bulunur:\n    1. **Brahmanlar:** Din adamları ve rahipler (en üst kast).\n    2. **Kşatriyalar:** Hükümdarlar, soylular ve savaşçılar.\n    3. **Vaisyalar:** Tüccarlar, toprak sahipleri ve zanaatkârlar.\n    4. **Sudralar:** İşçiler, çiftçiler ve hizmetkârlar.\n    * Bu dört sınıfın da altında sayılan, toplum dışına itilmiş, hiçbir hakka sahip olmayan en alt gruba ise **Paryalar (Dokunulmazlar / Dalitler)** denir.\n* **Trimurti (Hindu Üçlemesi):**\n  * **Brahma:** Yaratıcı tanrı.\n  * **Vişnu:** Koruyucu tanrı (Dünyada kötülük arttığında avatar adı verilen bedenlerle, özellikle Rama ve Krişna olarak yeryüzüne iner).\n  * **Şiva:** Yok edici ve dönüştürücü tanrı (Kozmik dansı yapan Nataraja).\n\n### B. Budizm\nMÖ altıncı yüzyılda Hindistan'da Prens **Siddhartha Gautama** tarafından kurulmuştur. Prens, saraydaki lüks yaşamı terk ederek hastalık, yaşlılık, ölüm ve çileci keşişle karşılaşmış; bu dört görüntü sonrasında saraydan ayrılarak aydınlanma arayışına girmiştir. Bir Bodhi ağacı altında meditasyon yaparak aydınlanmaya ulaşmış ve **Buddha (Aydınlanmış Olan)** unvanını almıştır.\n\n* **En Belirgin Farkı:** Budizm, Hinduizm'in katı **kast sistemini bütünüyle reddeder** ve kurban ayinlerine karşı çıkar. Bütün insanların ahlaki çabayla aydınlanabileceğini savunur.\n* **Dört Yüce Hakikat (Arya Satya):**\n  1. Hayat acı, keder ve ıstırapla doludur (Dukkha).\n  2. Acının kaynağı bencilce arzular, hırslar ve tutkulardır (Samudaya).\n  3. Acıların ve ıstırabın dindirilmesi mümkündür (Nirodha).\n  4. Acıyı dindirmenin yolu **Sekiz Dilimli Yüce Yol**u izlemektir (Magga).\n* **Sekiz Dilimli Yüce Yol:** Doğru anlayış, doğru niyet, doğru söz, doğru davranış, doğru yaşam biçimi, doğru çaba, doğru farkındalık ve doğru odaklanma. Bu ahlaki yol aşırılıklardan uzak, orta yoldur.\n* **Nirvana:** Kişinin tüm hırslarını, egolarını ve arzularını yok ederek acıdan arınması, samsara çarkından kurtularak mutlak dinginliğe ulaşmasıdır.\n* **Kutsal Metinler:** **Tripitaka (Üç Sepet)** adını alır. Vinaya Pitaka (manastır kuralları), Sutta Pitaka (Buda'nın vaazları) ve Abhidhamma Pitaka (felsefi yorumlar).\n* **Mezhepler:**\n  * **Theravada (Hinayana - Küçük Taşıt):** Güney Budizmi (Sri Lanka, Myanmar, Tayland). Bireysel aydınlanmayı ve keşişlik yaşamını temel alır.\n  * **Mahayana (Büyük Taşıt):** Kuzey Budizmi (Çin, Japonya, Kore). Aydınlanmaya ulaştığı halde diğer tüm canlıları kurtarmak için dünyaya geri dönen yüce ruhlara **Bodhisattva** derler.\n  * **Vajrayana (Tibet Budizmi / Lamaizm):** Mistik ritüelleri, mantraları ve ruhani lider olarak **Dalay Lama**'yı benimser.\n\n### C. Jainizm\nMÖ altıncı yüzyılda **Mahavira (Vardhamana)** tarafından sistemleştirilmiştir. En temel ve tavizsiz ilkesi **Ahimsa**dır. Ahimsa, hiçbir canlıya fiziksel, sözlü veya düşünsel olarak zarar vermeme, şiddetsizlik ilkesidir. Jain keşişleri yerdeki karıncaları ezmemek için önlerini süpürür, havadaki böcekleri yutmamak için ağızlarına beyaz maske takarlar. Katı bir çilecilik ve kast karşıtlığı vardır. İki ana kola ayrılır: Digambara (Gökyüzü giyinenler / çıplaklar) ve Svetambara (Beyaz giyinenler).\n\n### D. Sihizm\nOn beşinci yüzyılda Hindistan'ın Pencap bölgesinde **Guru Nanak** tarafından kurulmuştur. Hinduizm ile İslam tasavvufunun etkileşimiyle doğmuş tek tanrılı senkretik bir dindir. Kast sistemini ve putperestliği kesinlikle reddeder. Kutsal kitapları yaşayan son rehber kabul edilen **Guru Granth Sahib**dir. İbadet merkezlerine **Gurdvara** denir; en kutsal mekanları Hindistan Amritsar'daki **Altın Tapınak**tır. İnananların üzerlerinde taşıdığı beş K kuralı (kesilmemiş saç, tarak, çelik bilezik, hançer ve özel iç çamaşırı) simgeseldir.\n\n### E. Konfüçyüsçülük ve Taoizm (Çin Dinleri)\n* **Konfüçyüsçülük:** Filozof **Kung Fu-tzu (Konfüçyüs)** tarafından ahlaki ve toplumsal bir nizam olarak geliştirilmiştir. Bir dinden ziyade devlet, aile ve toplum etiğidir. En temel kavramı insan sevgisi ve erdem anlamına gelen **Ren** ile geleneksel edep ve ritüel kuralları anlamına gelen **Li**dir. Beş temel insani ilişkiyi (yönetici-yurttaş, baba-oğul, koca-karı, ağabey-kardeş, arkadaş-arkadaş) hiyerarşik saygıya bağlar.\n* **Taoizm:** Efsanevi bilge **Lao-tzu** tarafından kurulmuştur. Kutsal metni **Tao Te Ching**dir. **Tao**, evrenin kavranamaz, isimsiz ve ezeli ana kaynağı, mutlak yoludur. En ünlü ilkesi **Wu-Wei**dir (eylemsizlik veya doğanın akışına karşı kürek çekmeme, doğallıkla akma ilkesidir). Evrendeki zıtlıkların uyumunu simgeleyen **Yin-Yang** felsefesi Taoizmin merkezindedir.\n\n### F. Şintoizm (Japonya'nın Milli Dini)\nJaponya'nın yerli, etnik ve milli dinidir. Kurucusu ve resmi bir akidesi yoktur. Doğadaki tüm canlı ve cansız varlıkların içinde yaşadığına inanılan kutsal ruhlara ve tanrılara **Kami** denir. En yüce kami, Japon imparatorluk hanedanının da atası sayılan Güneş Tanrıçası **Amaterasu**dur. Şinto tapınaklarının girişinde, dünyevi alan ile kutsal alanı ayıran meşhur kırmızı ahşap anıtsal kapılara **Torii** denir.\n\n---",
         "sentences": [
           {
@@ -23958,6 +25494,22 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 2,
             "explanation": "Ahimsa; Jainizm'in temel şiddetsizlik ilkesidir. Keşişler böcekleri yutmamak için ağızlarına beyaz maske takarlar."
+          },
+          {
+            "id": "trp_bank_DIN-002",
+            "subtopicId": "dt_2",
+            "courseId": "dinler-tarihi",
+            "questionText": "Hindistan kökenli Jainizm ve Budizm'de de benimsenen, hiçbir canlıya fiziksel ya da düşünsel zarar vermemeyi emreden temel ahlaki ilke hangisidir?",
+            "options": [
+              "A) Ahimsa",
+              "B) Dharma",
+              "C) Mokşa",
+              "D) Karma",
+              "E) Samsara"
+            ],
+            "correctIndex": 0,
+            "explanation": "Ahimsa (şiddetsizlik), canlı varlıkları incitmeme ilkesidir; Jainizm'de ağzı bezle kapatıp böcek yutmamaya kadar uzanan mutlak bir ilkedir. (MKS_Dinler_Tarihi M.ALI 2026 AGUSTOS.pdf, s.18)\n\n💡 Hafıza İpucu: AHİMSA = ASLA ZARAR VERME (Şiddetsizlik).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -23967,7 +25519,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "dinler-tarihi",
         "order": 3,
         "title": "İbrahimi (Semavi) Dinler",
-        "officialQuestionCount": 74,
+        "officialQuestionCount": 77,
         "lectureContent": "## 3. Alt Başlık: İbrahimi Dinler\n\nOrta Doğu havzasında doğan ve kökenlerini peygamber İbrahim'e dayandıran üç büyük monoteist din; kutsal kitapları, peygamberleri, ibadet mekanları ve mezhepleriyle dinler tarihinin merkezinde yer alır.\n\n### A. Yahudilik (Musevilik)\nYahudilik, tarihteki en eski monoteist dinlerden biridir. Hem dini hem de etnik bir karaktere sahiptir; Tanrı ile İbrahim, İshak, Yakup ve Musa aracılığıyla yapılmış özel bir **Ahit (Sözleşme)** inancına dayanır.\n\n* **Tanrı Kavramı:** Tanrı birdir, bedensizdir ve tasvir edilemez. Kutsal dört harfli ismi **YHWH (Tetragrammaton)** saygıdan dolayı telaffuz edilmez; yerine **Adonay (Efendim)** veya Ha-Şem (İsim) denir.\n* **Kutsal Metinler:**\n  * **Tanah:** Yahudi kutsal yazılarının bütünüdür. Üç ana bölümün baş harflerinden oluşur:\n    1. **Tora (Tevrat):** Beş Kitap (Tekvin/Yaratılış, Çıkış, Levililer, Sayılar, Tesniye). Musa'ya vahyedilen ana yasa.\n    2. **Neviim:** Peygamberler bölümü.\n    3. **Ketuvim:** Yazılar ve Mezmurlar (Zebur).\n  * **Talmud:** Sözlü Tora'nın yazılı hale getirilmiş haham yorumları ve tartışmalarıdır. **Mişna** (temel metin) ve **Gemara** (yorumu) kısımlarından oluşur.\n* **On Emir (Dekalog):** Musa'ya Sina Dağı'nda taş levhalar üzerine verilen ilahi emirlerdir (Tek Tanrı'ya inanmak, put yapmamak, Tanrı'nın adını boş yere anmamak, Şabat gününü kutsamak, ana-babaya saygı göstermek, öldürmemek, zina etmemek, çalmamak, yalancı şahitlik yapmamak ve komşunun malına göz dikmemek).\n* **Kutsal Gün ve İbadet Mekanı:**\n  * **Şabat:** Cuma gün batımından cumartesi gün batımına kadar süren haftalık dinlenme ve ibadet günüdür. Ateş yakmak, çalışmak, araç kullanmak yasaktır.\n  * **Sinagog (Havra):** Cemaatle ibadet mekanıdır. İbadetin yapılabilmesi için en az on yetişkin erkeğin bir araya gelmesi gerekir; bu kurala **Minyan** denir.\n  * Sinagogun içinde Tora rulolarının saklandığı kutsal sandığa **Aron ha-Kodeş**, Tora'nın okunması için yapılan yükseltilmiş kürsüye **Bima**, daima yanan kutsal ışığa **Ner Tamid** denir. Cemaati yöneten din adamına **Haham**, duaları ezgili okuyan görevliye **Hazzan** adı verilir.\n* **Dini Semboller ve Nesneler:**\n  * **Menora:** Yedi kollu kutsal şamdan.\n  * **Hanukiya:** Hanuka bayramında kullanılan dokuz kollu şamdan.\n  * **Davud Yıldızı (Magen David):** Altı köşeli yıldız.\n  * **Kipa:** Başı örtmek için takılan takke.\n  * **Tallit:** İbadette omuzlara alınan saçaklı dua şalı.\n  * **Tefilin:** İçinde Tevrat ayetleri bulunan, sabah dualarında kola ve alna bağlanan deri kutucuklar.\n  * **Mezuza:** Yahudi evlerinin kapı pervazlarına eğik biçimde çakılan, içinde Tora ayetleri bulunan rulo kutusu.\n* **Önemli Bayramlar:**\n  * **Pesah (Fısıh):** Mısır'daki esaretten kurtuluşun anısına kutlanan mayasız ekmek bayramı.\n  * **Roş Haşana:** Yahudi yeni yılı. Şofar adı verilen koç boynuzu çalınır.\n  * **Yom Kippur:** En kutsal gün sayılan büyük kefaret ve tövbe orucu günü.\n  * **Şavuot:** Sina Dağı'nda On Emir'in verilişinin kutlandığı haftalar bayramı.\n  * **Sukot:** Çölde çadırlarda geçirilen kırk yılı anmak için kurulan çardak bayramı.\n  * **Hanuka:** Işıklar bayramı.\n* **Mezhepler:** Ortodoks Yahudilik, Muhafazakâr Yahudilik ve Reformist Yahudilik.\n\n### B. Hristiyanlık\nMS birinci yüzyılda Roma egemenliğindeki Filistin topraklarında **İsa Mesih**'in tebliğiyle doğmuştur. İsa, Yahudi toplumunda beklenen Mesih olarak ortaya çıkmış, sevgiyi ve bağışlamayı merkeze almıştır. Çarmıha gerildikten sonra üçüncü gün ölümden dirildiğine (Diriliş / Kıyam) inanılır.\n\n* **Tanrı Anlayışı ve Teslis (Kutsal Üçlük):** Hristiyan inancının temel taşıdır. Tanrı birdir ancak üç ilahi şahsiyette (hipostaz) tezahür eder: **Baba** (Yaratıcı), **Oğul** (İsa Mesih - bedenleşmiş kelam) ve **Kutsal Ruh** (Kutsayıcı ve diriltici ilahi güç).\n* **Kutsal Kitap (Kitab-ı Mukaddes):** İki ana bölümden oluşur:\n  1. **Eski Ahit:** Yahudilerin kutsal kitabı Tanah'tır.\n  2. **Yeni Ahit (İncil):** Yirmi yedi kitaptan oluşur. En başında dört kanonik İncil yer alır:\n     * **Matta, Markos, Luka:** Birbirlerine çok benzer olay sırası izledikleri için **Sinoptik İnciller** olarak adlandırılır.\n     * **Yuhanna:** Olaylardan ziyade İsa'nın ilahi kimliğini ve felsefi kelam (Logos) boyutunu ele alan en teolojik ve farklı İncildir.\n     * Dört İncil'in ardından Havarilerin İşleri, Pavlus'un Mektupları ve Yuhanna'nın Vahiy kitabı gelir.\n* **Sakramentler (Kutsal Ayinler):** Tanrı'nın lütfunu insana aktaran kutsal işlemlerdir. Katolik ve Ortodokslar yedi sakramenti kabul eder; Protestanlar ise yalnızca İncil'de İsa tarafından bizzat uygulandığını belirttikleri **Vaftiz** ve **Evharistiya**yı sakrament sayar.\n  1. **Vaftiz:** Suya batırılarak veya su serpilerek ilk günahtan arınma ve Hristiyan cemaatine kabul ritüeli.\n  2. **Konfirmasyon (Ortodokslarda Miron / Güçlendirme):** Kutsal Ruh'un lütfunu alarak inancı pekiştirme.\n  3. **Evharistiya (Komünyon / Efkaristiya):** İsa'nın Son Akşam Yemeği'nin anısına ekmek ve şarap ayinidir. Katolik inancına göre ekmek ve şarap gerçek anlamda İsa'nın bedenine ve kanına dönüşür (Transsubstantiation - Töz Dönüşümü).\n  4. **Tövbe ve Günah İtirafı:** Rahibe günahların itiraf edilmesi ve bağışlanma.\n  5. **Son Yağlama:** Ağır hastaların ve ölmek üzere olanların kutsal yağla kutsanması.\n  6. **Ruhbanlık (Ruhban Sırrı):** Piskopos ve rahiplerin kutsanarak atanması.\n  7. **Evlilik:** Kilisede kıyılan kutsal ve bozulamaz birliktelik.\n* **Büyük Hristiyan Konsilleri:**\n  * **MS 325 — Birinci İznik Konsili:** İmparator Konstantin tarafından toplanmıştır. İskenderiyeli rahip Arius'un \"İsa yaratılmıştır, Tanrı ile aynı özden değildir\" görüşü (Arianizm) reddedilmiş; İsa'nın Baba ile aynı tözden (Homoousios) olduğu kabul edilerek İznik Amentüsü ilan edilmiştir.\n  * **MS 381 — Birinci İstanbul Konsili:** Kutsal Ruh'un da Tanrı olduğu kabul edilmiş ve Teslis inancı kesinleşmiştir.\n  * **MS 431 — Efes Konsili:** Meryem Ana Kilisesi'nde toplanmıştır. Konstantinopolis Patriği Nestorius'un İsa'da insani ve ilahi iki ayrı tabiat olduğunu savunarak Meryem'e sadece Mesih anası (Khristotokos) demesi mahkûm edilmiş; Meryem'in **Theotokos (Tanrı Anası / Tanrı'yı Doğuran)** olduğu resmen ilan edilmiştir.\n  * **MS 451 — Kadıköy (Khalkedon) Konsili:** İsa'da insani ve ilahi iki tabiatın karışmadan, bölünmeden, değişmeden ve ayrılmadan tek bir kişide birleştiği (Diofizit inanç) kabul edilmiştir. Bu kararı reddeden ve İsa'da sadece tek bir ilahi tabiat olduğunu savunan Doğu kiliseleri (Süryaniler, Ermeniler, Kıptiler, Etiyopya kilisesi) ana gövdeden ayrılarak **Monofizit (Kadim Doğu)** kiliselerini oluşturmuştur.\n* **Büyük Bölünmeler (Skizma):**\n  * **1054 Doğu-Batı Skizması:** Roma Katolik Kilisesi ile İstanbul Ortodoks Patrikhanesi karşılıklı aforozlarla kesin olarak birbirinden ayrılmıştır. Ayrılığın temel teolojik sebebi Kutsal Ruh'un çıkışı konusundaki **Filioque** tartışmasıdır (Batı \"ve Oğul'dan da çıkar\" derken, Doğu Kutsal Ruh'un yalnızca Baba'dan çıktığını savunmuştur).\n  * **1517 Reform Hareketi:** Almanya'da **Martin Luther**'in Wittenberg Kalesi Kilisesi kapısına doksan beş maddelik tezini asmasıyla Katolik kilisesine karşı Protestanlık doğmuştur. Luther endüljansı (günah affı ve cennetten arsa satışı), papanın yanılmazlığını ve aziz kültünü reddetmiş; kurtuluşun yalnızca imanla (Sola Fide) ve yalnızca kutsal yazıyla (Sola Scriptura) mümkün olduğunu ilan etmiştir.\n\n### C. İslamiyet\nMS 610 yılında Mekke'de **Hz. Muhammed**'e ilk vahyin gelmesiyle tebliğ edilmeye başlanan son ilahi dindir. Mutlak tevhidi (tek Tanrı inancını) temel alır.\n\n* **İnanç Esasları (İmanın Şartları):** Allah'a, meleklerine, kitaplarına, peygamberlerine, ahiret gününe, kaza ve kadere inanmak.\n* **İslam'ın Şartları:** Kelime-i şehadet getirmek, namaz kılmak, oruç tutmak, zekat vermek ve hacca gitmek.\n* **Kutsal Kitap ve Sünnet:** Kutsal kitap **Kur'an-ı Kerim**dir. Hz. Muhammed'in sözleri, fiilleri ve onayları ise sünnet ve hadis külliyatını oluşturur.\n* **Ana Mezhepler:**\n  * **Ehl-i Sünnet (Sünnilik):** Hz. Muhammed'in ve ashabının yolunu izleyen çoğunluktur. Fıkıhta dört hak mezhep kabul edilir: Hanefi, Şafii, Maliki ve Hanbeli.\n  * **Şia (Şiilik):** Hz. Muhammed'in vefatından sonra imamet ve hilafetin bizzat nass ve tayinle **Hz. Ali** ve onun soyundan gelen On İki İmam'a ait olduğunu savunan mezheptir.\n\n---",
         "sentences": [
           {
@@ -25131,6 +26683,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Zekat, malı olan kişinin belirlenen ölçülerde bir yıl dolması sonrası ihtiyaç sahiplerine verdiği, sosyal sıkıntıları gidermeyi amaçlayan bir ibadettir (s.176).\n\n💡 Hafıza İpucu: ZEKAT = malın PAYLAŞILAN kısmı, sosyal denge ibadeti.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q060",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Hristiyanlık inanışı kapsamında, Kapadokya Kaya Kiliselerinde sıklıkla tasvir edilen “Müjde” sahnesinde görülen melek aşağıdakilerden hangisidir?",
+            "options": [
+              "A) İsrafil",
+              "B) Cebrail",
+              "C) Rafael",
+              "D) Serafim",
+              "E) Azrail"
+            ],
+            "correctIndex": 1,
+            "explanation": "Hristiyan ikonografisinde “Müjde” (Annunciation) sahnesinde Başmelek Cebrail’in (Gabriel) Meryem Ana’ya İsa Peygamber’in doğumunu müjdelemesi tasvir edilir (2026 Ağustos Mesleğe Kabul B Grubu, S. 60).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q061",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "“Schisma”, Hristiyanlık tarihinde aşağıdaki gelişmelerden hangisini ifade etmek için kullanılır?",
+            "options": [
+              "A) Vatikan Devleti’nin kurulmasını",
+              "B) Doğu ve Batı Kiliselerinin ayrılmasını",
+              "C) Haçlı Seferlerinin başlamasını",
+              "D) Aziz Pavlus’un Hristiyanlığı kabul etmesini",
+              "E) Hristiyanlığın resmi din olmasını"
+            ],
+            "correctIndex": 1,
+            "explanation": "1054 yılında gerçekleşen “Büyük Bölünme” (Great Schism / Schisma), Hristiyanlığın Roma Katolik (Batı) ve Ortodoks (Doğu) Kiliseleri olarak kesin biçimde ikiye ayrılmasını ifade eder (2026 Ağustos Mesleğe Kabul B Grubu, S. 61).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_DIN-003",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Yahudilikte 'On Emir'in de yer aldığı, Hz. Musa'ya Sina Dağı'nda vahiy yoluyla indirildiğine inanılan ve Tanah'ın ilk beş kitabını oluşturan kutsal metin hangisidir?",
+            "options": [
+              "A) Talmud",
+              "B) Torah (Tevrat)",
+              "C) Mişna",
+              "D) Zebur (Mezmurlar)",
+              "E) Gemara"
+            ],
+            "correctIndex": 1,
+            "explanation": "Tanah'ın ilk bölümünü oluşturan Tevrat (Torah / Pentateukhos), Tekvin, Çıkış, Levililer, Sayılar ve Tesniye olmak üzere beş kitaptan oluşur. (MKS_Dinler_Tarihi M.ALI 2026 AGUSTOS.pdf, s.31)\n\n💡 Hafıza İpucu: TORAH (TEVRAT) = HZ. MUSA VE ON EMİR (Tanah'ın ilk 5 kitabı).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -25140,7 +26740,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "dinler-tarihi",
         "order": 4,
         "title": "Kadim İnanç Sistemleri",
-        "officialQuestionCount": 71,
+        "officialQuestionCount": 72,
         "lectureContent": "## 4. Alt Başlık: Kadim İnançlar\n\nİbrahimi ve Uzak Doğu dinlerinin dışında, Anadolu, İran ve Mezopotamya havzasında yüzyıllar boyu varlığını sürdürmüş köklü inanç sistemleri:\n\n### A. Zerdüştlük (Mazdeizm)\nAntik İran'da peygamber **Zerdüşt (Zarathustra)** tarafından sistemleştirilmiş düalist (ikici) bir dindir.\n* **Kutsal Metin:** **Avesta** adı verilir. İçindeki en eski ilahiler Zerdüşt'ün bizzat söylediği Gatha'lardır.\n* **Düalizm (İkicilik):** Evren iki kozmik gücün amansız mücadelesi alanıdır:\n  * **Ahura Mazda:** İyiliğin, ışığın, bilgeliğin ve adaletin yüce tanrısıdır.\n  * **Angra Mainyu (Ehrimen):** Kötülüğün, karanlığın, yalanın ve ölümün baş temsilcisidir.\n* **Ateş Kültü:** Zerdüştler ateşe tapmazlar; ateş (Atar), Ahura Mazda'nın yeryüzündeki saflık, ışık ve adalet simgesidir. İbadet mekanlarına **Ateşkedah (Ateş Tapınağı)** denir ve buradaki kutsal ateş binlerce yıl boyunca hiç söndürülmeden rahipler (Magi/Mecusi) tarafından korunur.\n* **Ölü Gömme Geleneği ve Sessizlik Kuleleri (Dakhma):** Zerdüştlükte dört kutsal element (toprak, su, ateş ve hava) asla kirletilmemelidir. Ölü bir beden kirli kabul edildiğinden toprağa gömülemez (toprak kirlenir), yakılamaz (ateş kirlenir) veya denize atılamaz (su kirlenir). Bu nedenle cesetler yüksek tepelerdeki üstü açık silindirik kulelere, yani **Sessizlik Kuleleri**ne bırakılır; etleri akbabalar tarafından temizlendikten sonra kalan kemikler kuyularda toplanır.\n\n### B. Maniheizm\nMS üçüncü yüzyılda Sasani İmparatorluğu döneminde Babil'de **Mani** tarafından kurulan aşırı senkretik bir dindir. Hristiyanlık, Zerdüştlük, Budizm ve gnostisizmi harmanlamıştır.\n* **Felsefesi:** Mutlak Işık ile Mutlak Karanlığın ezeli mücadelesine dayanır. İnsan ruhu ışıktan, maddi beden ise karanlıktan meydana gelmiştir. Ruhun kurtuluşu çileci bir yaşamla, et yememekle ve ışık parçacıklarını serbest bırakmakla mümkündür.\n* **Tarihsel Önemi:** Uygur Hükümdarı **Bögü Kağan** döneminde (762) Uygur Devleti'nin resmi dini olmuştur. Bu din Uygurların et yemesini ve savaşmasını yasakladığı için askeri güçlerini zayıflatmış ancak yerleşik hayata geçmelerine, şehir kurmalarına, tarım yapmalarına ve muhteşem minyatürlü kitaplar basmalarına zemin hazırlamıştır.\n\n### C. Gnostisizm ve Gizem Dinleri\n* **Gnostisizm:** Kurtuluşun akıl, inanç veya ibadetten ziyade yalnızca seçkin kişilere bahşedilen gizli ve ezoterik bir bilgiyle (**Gnosis**) mümkün olduğunu savunan erken dönem mistik akımdır. Maddi dünyayı asıl Yüce Tanrı'nın değil, kör ve kusurlu bir yaratıcı güç olan **Demiurgos**un yarattığını savunurlar.\n* **Mithraizm:** Pers kökenli Güneş Tanrısı Mithras'a dayanan, Roma lejyonerleri arasında son derece yaygınlaşan gizli bir inançtır. Tapınakları yer altında, mağara benzeri penceresiz mekanlar olan **Mithraeum**lardır. En karakteristik sahnesi Mithras'ın evrenin bereketini başlatmak için kutsal boğayı kurban etmesi sahnesidir (**Tauroctony**). Diyarbakır Çınar'daki **Zerzevan Kalesi**'nde ortaya çıkarılan Mithras Tapınağı, Roma dünyasının doğu sınırındaki en çarpıcı örneğidir.\n* **Eleusis Gizemleri:** Antik Yunan'da Atina yakınlarında Bereket Tanrıçası Demeter ve kızı Persephone adına düzenlenen, katılımcılara ölümden sonra mutlu bir hayat vadeden en eski gizem kültüdür.\n\n### D. Yezidilik ve Sabiilik\n* **Yezidilik:** Kürtçe konuşan topluluklar arasında görülen, kökleri kadim Mezopotamya inançlarına ve Şeyh Adiy bin Musafir'e dayanan senkretik bir inançtır. Tanrı dünyayı yaratmış ancak yönetimini yedi meleğe devretmiştir. Bu meleklerin başı ve Tanrı'nın baş temsilcisi tavus kuşu suretinde simgelenen **Melek Tavus**tur. En kutsal mekanları Irak'taki **Laleş Vadisi**dir.\n* **Sabiilik (Mandenizm):** Kökleri Mezopotamya'ya dayanan, gnostik ve monoteist bir inançtır. En ayırt edici özelliği vaftiz kültüdür; yaşayan nehir sularında (Ürdün/Dicle) haftalık olarak yapılan su vaftizi ibadetin merkezidir. Kendilerini asıl vaftizci kabul ettikleri **Hz. Yahya**'nın gerçek takipçileri sayarlar.\n\n---",
         "sentences": [
           {
@@ -25381,6 +26981,22 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 1,
             "explanation": "Zerdüştlükte ölü beden kirli sayıldığı için toprağa, ateşe veya suya verilmez; yüksek Sessizlik Kuleleri'ne (Dakhma) bırakılarak akbabalara terk edilir."
+          },
+          {
+            "id": "trp_bank_DIN-004",
+            "subtopicId": "dt_4",
+            "courseId": "dinler-tarihi",
+            "questionText": "Eski İran'da Zerdüşt tarafından kurulan, evreni Ahura Mazda (İyilik/Işık) ile Ehrimen (Kötülük/Karanlık) arasındaki amansız bir mücadele alanı olarak gören düalist din hangisidir?",
+            "options": [
+              "A) Maniheizm",
+              "B) Zerdüştlük (Mazdeizm)",
+              "C) Şintoizm",
+              "D) Sihizm",
+              "E) Taoizm"
+            ],
+            "correctIndex": 1,
+            "explanation": "Zerdüştlük (Avesta kutsal metnidir), kutsal ateşin (Ateşgede) tapınaklarda sürekli yandığı, Ahura Mazda'nın ışığı temsil ettiği düalist inançtır. (GR-MKS MITOLOJI VE DIN Cikmis Sorular Calismasi.docx, s.50)\n\n💡 Hafıza İpucu: AHURA MAZDA & EHRİMEN = ZERDÜŞTLÜK (ATEŞGEDE).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -25390,7 +27006,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "dinler-tarihi",
         "order": 5,
         "title": "Kutsal Mekânlar ve İnanç Turizmi",
-        "officialQuestionCount": 21,
+        "officialQuestionCount": 22,
         "lectureContent": "## 5. Alt Başlık: Kutsal Mekânlar ve İnanç Turizmi\n\nAnadolu coğrafyası, tarihin başlangıcından bu yana binlerce yıl boyunca farklı dinlerin harmanlandığı, kutsal hac merkezlerine ve mabetlere ev sahipliği yapmış dünyanın en zengin inanç turizmi kavşağıdır.\n\n### A. Hristiyanlığın Anadolu'daki Kutsal Merkezleri\n* **Antakya Aziz Petrus (St. Pierre) Mağara Kilisesi:** Hatay Antakya'da Habib-i Neccar Dağı yamacında yer alır. Havari Petrus'un ilk vaazlarını verdiği yerdir. Hristiyanlık tarihinde İsa'ya inananlara ilk kez **Hristiyan (Christianos)** adının verildiği yer burasıdır. Bu nedenle dünyanın ilk mağara kilisesi ve Hristiyanlığın en eski merkezlerinden kabul edilir.\n* **Efes Meryem Ana Evi (Panaya Kapulu):** İzmir Selçuk'taki Bülbüldağı üzerinde yer alır. İsa çarmıha gerilmeden önce annesi Meryem'i en sevdiği havarisi **Yuhanna (St. Jean)**'a emanet etmiştir. Yuhanna, Meryem Ana'yı alarak Efes'e getirmiş ve hayatının son günlerini burada geçirmiştir. 19. yüzyılda Alman rahibe Anne Catherine Emmerich'in rüyaları ve vizyonları doğrultusunda keşfedilmiştir. Papalar tarafından hac yeri ilan edilmiştir.\n* **Aziz Yuhanna (St. Jean) Bazilikası:** Efes Ayasuluk Tepesi'nde, İncil yazarı Havari Yuhanna'nın mezarı üzerine Bizans İmparatoru Iustinianus tarafından inşa ettirilen altı kubbeli devasa bazilikadır.\n* **İncil'de Adı Geçen Asya'nın Yedi Kilisesi (Yedi Cemaat):** Yeni Ahit'in son kitabı olan Yuhanna'nın Vahiy bölümünde mektup gönderilen yedi Hristiyan cemaatinin tamamı Batı Anadolu'da yer alır:\n  1. **Ephesos (Efes - İzmir/Selçuk)**\n  2. **Smyrna (İzmir merkez)**\n  3. **Pergamon (Bergama - İzmir)**\n  4. **Thyatira (Akhisar - Manisa)**\n  5. **Sardes (Salihli - Manisa)**\n  6. **Philadelphia (Alaşehir - Manisa)**\n  7. **Laodikeia (Denizli/Goncalı)**\n* **İznik (Nikaia):** Hristiyanlık tarihindeki Birinci Konsilin (325) toplandığı Senato Sarayı kalıntıları (İznik Gölü kıyısında ve su altında) ile Yedinci Konsilin (787 - İkonaklazmanın mahkûm edildiği konsil) toplandığı **İznik Ayasofya Kilisesi (Orhan Camii)** burada bulunur.\n* **Kapadokya ve Göreme Vadisi:** Erken Hristiyanlık döneminde Roma zulmünden kaçan ilk Hristiyanların sığındığı, Kayseri Piskoposu **Büyük Basileios** tarafından manastır yaşamının temellerinin atıldığı merkezdir. Karanlık Kilise, Tokalı Kilise, Elmalı Kilise gibi fresklerle donatılmış kaya kiliseleri ve Derinkuyu, Kaymaklı yer altı şehirleri bu dönemin şaheserleridir.\n* **Demre (Myra) Aziz Nikolaos Kilisesi:** Antalya Demre'de yaşamış, denizcilerin, yoksulların ve çocukların koruyucu azizi olan ve dünyada Noel Baba olarak bilinen **Aziz Nikolaos**'un piskoposluk yaptığı ve mezarının bulunduğu kilisedir.\n* **Van Akdamar Kilisesi (Kutsal Haç):** Vaspurakan Kralı I. Gagik tarafından Akdamar Adası'nda Mimar Manuel'e inşa ettirilen Ermeni kilisesidir. Dış cephesindeki taş kabartmalarda Tevrat ve İncil'den sahneler (Yunus peygamberin balığın karnından çıkışı, Davud ile Calyut'un savaşı) eşsiz bir ustalıkla işlenmiştir.\n* **Trabzon Sümela Manastırı (Meryem Ana):** Karadağ'ın sarp kayalıklarına inşa edilmiş Rum Ortodoks manastır kompleksidir.\n* **Turabdin Bölgesi ve Süryani Manastırları:** Mardin ve Midyat çevresini kapsayan kutsal platodur. Dünyanın en eski aktif manastırlarından **Deyrulzafaran** (uzun yıllar Süryani Kadim Patrikhanesi merkezi olmuştur) ve Midyat'taki **Mor Gabriel (Deyrulumur)** Manastırı Hristiyanlığın yaşayan en kadim dillerinden Aramicenin (Süryanice) yankılandığı merkezlerdir.\n\n### B. İslamiyet'in ve Diğer İnançların Anadolu'daki Kutsal Odakları\n* **Eyüp Sultan Camii ve Külliyesi (İstanbul):** Hz. Muhammed'i Mekke'den Medine'ye hicret ettiğinde evinde ağırlayan ve İstanbul kuşatması sırasında şehit düşen sahabi **Ebu Eyyub el-Ensari**'nin türbesini barındırır. Osmanlı sultanlarının kılıç kuşanma merasimleri bu mukaddes mekânda yapılmıştır.\n* **Konya Mevlana Dergâhı ve Türbesi:** Tasavvuf düşüncesinin evrensel temsilcisi **Mevlana Celaleddin-i Rumi**'nin metfun bulunduğu, Kubbe-i Hadra (Yeşil Kubbe) ile simgeleşen dergâhtır. Şeb-i Arus (Vuslat Yıldönümü) törenleriyle dünya çapında inanç ve kültür turizmi çeker.\n* **Hacı Bektaş-ı Veli Külliyesi (Nevşehir):** Anadolu Aleviliği ve Bektaşiliğinin kurucusu Hacı Bektaş-ı Veli'nin türbesinin bulunduğu dergâhtır.\n* **Şanlıurfa Balıklıgöl (Halil-ür Rahman):** Hz. İbrahim'in Nemrut tarafından mancınıkla ateşe atıldığına, ateşin suya ve odunların balığa dönüştüğüne inanılan kutsal mekândır. Şanlıurfa, İbrahim peygamberin doğduğu yer kabul edildiği için \"Peygamberler Şehri\" olarak anılır.\n* **Diyarbakır Ulu Camii:** Anadolu'nun en eski camilerinden biridir (639 fethi sonrası kiliseden dönüştürülmüştür). İslam dünyasında Mekke'deki Mescid-i Haram, Medine'deki Mescid-i Nebevi, Kudüs'teki Mescid-i Aksa ve Şam'daki Emeviye Camii'nden sonra **İslam'ın beşinci Harem-i Şerifi** kabul edilir.\n\n---\n\n### Sınav Refleks Tablosu: Dinler Tarihi Tuzakları ve Çözüm Çapaları\n\n| Kavram / Olay Çifti | Doğru Bilgi ve Ayırt Edici Ayrım | Sınavın Test Ettiği Yön |\n| :--- | :--- | :--- |\n| **Panteizm vs Panenteizm** | Panteizm: Tanrı evrenin kendisidir; Panenteizm: Her şey Tanrı'dadır ancak Tanrı evrenden aşkındır. | Tanrı-evren ilişkisi ve aşkınlık |\n| **Henoteizm vs Monoteizm** | Henoteizm: Çok tanrı vardır ama sadece birine tapılır; Monoteizm: Zaten tek tanrı vardır. | Diğer tanrıların kabul edilip edilmemesi |\n| **Hinduizm vs Budizm** | Hinduizm kast sistemini savunur; Budizm kast sistemini kesinlikle reddeder. | Toplumsal eşitlik ve kast tavrı |\n| **Buda'nın Aydınlanması vs Ahimsa** | Aydınlanma: Dört Yüce Hakikat ve Sekiz Dilimli Yol; Ahimsa: Jainizm'in mutlak şiddetsizlik ilkesi. | Din ve felsefi odak eşleştirmesi |\n| **Samsara vs Nirvana** | Samsara: Ölüm ve doğum döngüsü (çile çarkı); Nirvana: Çarktan çıkış ve kurtuluş. | Döngüye hapsolma vs Özgürleşme |\n| **Tanah vs Talmud** | Tanah: Yazılı kutsal metin (Tora, Neviim, Ketuvim); Talmud: Sözlü yorum ve fıkıh külliyatı. | Yazılı metin vs Haham yorumu |\n| **Sinoptik İnciller vs Yuhanna** | Matta, Markos, Luka = Sinoptik (olay merkezli benzer); Yuhanna = Teolojik ve farklı. | İncillerin edebi ve teolojik karakteri |\n| **Birinci İznik Konsili (325)** | Arius'un sapkınlığı reddedildi; İsa'nın Baba ile aynı özden (Homoousios) olduğu kabul edildi. | Konsil konusu ve amentü |\n| **Efes Konsili (431)** | Meryem'in **Theotokos (Tanrı Anası)** unvanı onaylandı; Nestorius aforoz edildi. | Meryem'in teolojik statüsü |\n| **Kadıköy Konsili (451)** | Çift tabiat (Diofizit) kabul edildi; reddedenler Monofizit (Ermeni, Süryani) oldu. | Doğu Hristiyanlığı bölünmesi |\n| **1054 Skizması** | Katolik ve Ortodokslar ayrıldı; temel gerekçe Kutsal Ruh'un çıkışındaki **Filioque** tartışmasıdır. | Doğu-Batı kilise ayrılığı |\n| **Zerdüştlük Ölü Gömme** | Dört kutsal element (toprak, su, ateş) kirlenmesin diye ölüler **Sessizlik Kulesi**ne (Dakhma) konur. | Doğa unsurlarını koruma ritüeli |\n| **Maniheizm ve Uygurlar** | 762'de Bögü Kağan kabul etti; et yemeyi yasakladı, savaşçılığı zayıflattı, yerleşik hayatı başlattı. | Türk kültür tarihine etkisi |\n| **St. Pierre Mağara Kilisesi** | Hristiyan adı tarihte ilk kez Antakya'da verildi; ilk mağara kilisesidir. | İlk kilise ve isim kökeni |\n| **Yedi Kilise (Asya)** | Tamamı Batı Anadolu'dadır; İncil'in Yuhanna Vahiy kitabında mektup yazılan yedi cemaattir. | Coğrafi dağılım ve kutsal metin |\n| **Diyarbakır Ulu Camii** | İslam aleminin beşinci Harem-i Şerifi kabul edilir. | Dini hiyerarşi ve Anadolu'daki yeri |",
         "sentences": [
           {
@@ -25913,6 +27529,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Mescid-i Aksa İslam için kutsaldır ve İslam'ın ilk kıblesi olarak kabul edilir; Kudüs ise üç semavi din için de kutsal bir şehirdir (MKS Şubat 2025).\n\n💡 Hafıza İpucu: AKSA = İslam'ın İLK kıblesi, Kudüs üç dinin ortak toprağı.",
             "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_DIN-005",
+            "subtopicId": "dt_5",
+            "courseId": "dinler-tarihi",
+            "questionText": "İncil'in Vahiy (Apokalips) bölümünde adı geçen Batı Anadolu'daki 'Yedi Kilise'den (Asya'nın 7 Cemaati) biri aşağıdakilerden hangisi değildir?",
+            "options": [
+              "A) Sardes",
+              "B) Laodikeia",
+              "C) Thyatira (Akhisar)",
+              "D) Antiokheia (Antakya)",
+              "E) Pergamon (Bergama)"
+            ],
+            "correctIndex": 3,
+            "explanation": "Apokalips'teki 7 Kilise: Ephesos, Smyrna, Pergamon, Thyatira, Sardes, Philadelphia ve Laodikeia'dır. Hatay Antakya (Antiokheia) önemli bir erken Hristiyanlık merkezi olsa da 7 kilise listesinde yer almaz. (MKS_Dinler_Tarihi M.ALI 2026 AGUSTOS.pdf, s.62)\n\n💡 Hafıza İpucu: 7 KİLİSE EGE'DEDİR: Ephesos, Smyrna, Pergamon, Thyatira, Sardes, Philadelphia, Laodikeia.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -25923,7 +27555,7 @@ export const COURSES_DATA: Course[] = [
     "id": "turizm-cografyasi",
     "title": "Türkiye'nin Turizm Coğrafyası",
     "slug": "turkiyenin-turizm-cografyasi",
-    "totalOfficialQuestions": 511,
+    "totalOfficialQuestions": 546,
     "description": "Fiziki Coğrafya, Turizm Türleri, İlginç Doğal Oluşumlar, Beşeri Coğrafya ve Ekoturizm.",
     "iconName": "MapPin",
     "isAvailable": true,
@@ -25933,7 +27565,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-cografyasi",
         "order": 1,
         "title": "Fiziki Coğrafya ve Turizm Kaynakları",
-        "officialQuestionCount": 103,
+        "officialQuestionCount": 109,
         "lectureContent": "## 1. Alt Başlık: Fiziki Coğrafya ve Turizm İlişkisi\n\nTürkiye, Asya, Avrupa ve Afrika kıtalarının birbirine en çok yaklaştığı jeopolitik ve jeomorfolojik bir kavşakta yer alır. Ortalama bin yüz otuz iki metre rakımıyla yüksek ve engebeli bir kütle olan Anadolu Yarımadası, Alp-Himalaya orojenez kıvrım kuşağı üzerinde yükselmiştir. Bu jeolojik gençlik, ülkeye bir yandan zengin tektonik fay hatları, zengin termal kaynaklar ve jeotermal zenginlik sunarken; diğer yandan dağların kıyıya uzanış doğrultusuyla iklim ve turizm çeşitliliğini derinden belirlemiştir.\n\nKaradeniz ve Akdeniz bölgelerinde dağlar kıyıya paralel uzanır. Boyuna kıyı tipi olarak adlandırılan bu morfolojik yapı sonucunda kıyılar az girintili çıkıntılıdır; falezler, doğal liman azlığı ve dar kıyı şeridi egemendir. Nemli hava kütleleri dağların denize bakan yamaçlarında orografik yağışlara dönüşürken iç kısımlara sokulamaz. Bu durum Karadeniz'de yayla ve doğa turizmini, Akdeniz'de ise deniz ve kış turizminin bir arada yaşanmasını sağlamıştır. Ege Bölgesi'nde ise dağlar kıyıya dik uzanır. Enine kıyı tipi görülen bu hatta deniz etkisi graben ovaları boyunca yüzlerce kilometre iç kesimlere sokulur. Kıyılar son derece girintili çıkıntılıdır; koylar, körfezler, yarımadalar ve doğal limanlar bakımından ülkenin en zengin kıyı coğrafyası şekillenmiştir. Yat turizmi, mavi yolculuk ve kıyı turizmi bu jeomorfolojinin doğrudan meyvesidir.\n\nTürkiye'nin kıyı tipleri sınavların en belirleyici çeldirici alanıdır:\n* Boyuna Kıyı Tipi: Karadeniz ve Akdeniz kıyılarında yaygındır.\n* Enine Kıyı Tipi: Edremit ile Kuşadası arasındaki Ege kıyılarında görülür.\n* Riya Tipi Kıyı: Eski akarsu vadilerinin deniz suları altında kalmasıyla oluşan boğulmuş vadilerdir. En somut ve klasik örnekleri İstanbul Boğazı, Çanakkale Boğazı ve Haliç'tir. Ayrıca Güneybatı Anadolu'da Muğla Gökova kıyıları da riya tipi karakter sergiler.\n* Dalmaçya Kıyı Tipi: Kıyıya paralel uzanan sıra dağların çukur alanlarının deniz suları altında kalmasıyla, dağların kıyı önünde sıra sıra adacıklara dönüştüğü kıyı tipidir. Türkiye'deki tek ve en seçkin örneği Antalya Kaş ile Finike arasındaki kıyı şerididir.\n* Limanlı Kıyı Tipi: Kıyı kordonu veya tombolo ile önü kapanan sığ koyların oluşturduğu kıyılardır; Büyükçekmece ve Küçükçekmece kıyıları bu gruba girer.\n* Kalanklı Kıyı Tipi: Karstik kanyon vadilerin deniz tarafından basılmasıyla oluşan derin koylu kıyılardır; Mersin Silifke kıyılarında görülür.\n* Fiyort ve Skyer Kıyı Tipleri: Buzul vadilerinin deniz suları altında kalmasıyla oluşan fiyortlar ile buzul moren ve hörgüçkayalarının oluşturduğu skyer kıyı tipleri Türkiye kıyılarında kesinlikle görülmez. Çünkü Türkiye mutlak konumu gereği orta kuşakta yer alır; buzullaşma kıyılara kadar asla inmemiş, yalnızca yüksek dağ zirvelerinde sınırlı kalmıştır. Soru bankalarında Türkiye kıyıları için fiyort veya skyer seçenekleri daima yanlış çeldiricidir.\n\nİklim kuşakları açısından Türkiye, Akdeniz iklim bölgesinde yer alır. Yazları sıcak ve kurak, kışları ılık ve yağışlı olan Akdeniz iklimi Antalya, Muğla, Aydın ve İzmir kıyılarında deniz turizmi sezonunu altı aydan fazla bir süreye yayar. Karadeniz iklimi her mevsim yağışlı ve ılıman yapısıyla zengin orman dokusunu ve yaylacılığı besler. Karasal iklim ise İç, Doğu ve Güneydoğu Anadolu'da hüküm sürer; kışların uzun, soğuk ve karlı geçmesi yüksek zirvelerde kış sporları turizminin altyapısını kurar.\n\n---",
         "sentences": [
           {
@@ -27132,6 +28764,102 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Akdeniz kıyılarında yazın günlük güneşlenme süresi ortalama 12-13 saati, yıllık ortalaması ise 3000-3200 saati bulmaktadır (TC s.51).\n\n💡 Hafıza İpucu: 12-13 saat = yaz gününün neredeyse tamamı güneşli — Akdeniz'in turizm gücü.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q017",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Türkiye sınırları içinde doğup Türkiye sınırları içinde denize ulaşan en uzun akarsu aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Fırat",
+              "B) Dicle",
+              "C) Aras",
+              "D) Yeşilırmak",
+              "E) Kızılırmak"
+            ],
+            "correctIndex": 4,
+            "explanation": "Sivas Kızıldağ’dan doğup Bafra Burnu’ndan Karadeniz’e dökülen Kızılırmak (1.355 km), tamamı Türkiye sınırları içinde kalan en uzun akarsudur (2026 Ağustos Mesleğe Kabul B Grubu, S. 17).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q020",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Hasankeyf aşağıdaki nehirlerden hangisinin kıyısında kurulmuştur?",
+            "options": [
+              "A) Aras",
+              "B) Fırat",
+              "C) Gediz",
+              "D) Dicle",
+              "E) Çoruh"
+            ],
+            "correctIndex": 3,
+            "explanation": "Batman il sınırları içindeki tarihî Hasankeyf yerleşimi Dicle Nehri kıyısında kurulmuştur (2026 Ağustos Mesleğe Kabul B Grubu, S. 20).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q091",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Doğu Karadeniz’de yer alan, Türkiye’nin yakın jeolojik geçmişine ait buzul şekillerinin bulunduğu dağ aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Bey Dağları",
+              "B) Kaz Dağları",
+              "C) Kaçkar Dağları",
+              "D) Toros Dağları",
+              "E) Menteşe Dağları"
+            ],
+            "correctIndex": 2,
+            "explanation": "Doğu Karadeniz’de (Rize-Artvin) yer alan Kaçkar Dağları (3.937 m), Kuvaterner buzul döneminden kalma buzul vadileri, sirk gölleri ve güncel buzul izlerini barındıran en önemli alanlardandır (2026 Ağustos Mesleğe Kabul B Grubu, S. 91).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q093",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Van Gölü’nde yaşayan, üreme döneminde göle dökülen tatlı su akarsularına göç eden balık türü aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Sazan",
+              "B) Alabalık",
+              "C) Yayın",
+              "D) İnci Kefali",
+              "E) Turna"
+            ],
+            "correctIndex": 3,
+            "explanation": "Van Gölü’nün sodalı-tuzlu sularına uyum sağlamış endemik balık türü olan İnci Kefali, her yıl Mayıs-Haziran aylarında yumurtlamak için göle dökülen tatlı su derelerine göç eder (2026 Ağustos Mesleğe Kabul B Grubu, S. 93).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q094",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi Türkiye’de flamingoların (allı turna) büyük koloniler halinde ürediği başlıca alanlardan biridir?",
+            "options": [
+              "A) Uzungöl",
+              "B) Çıldır Gölü",
+              "C) Tortum Gölü",
+              "D) Tuz Gölü",
+              "E) Abant Gölü"
+            ],
+            "correctIndex": 3,
+            "explanation": "Tuz Gölü (ve Gediz Deltası), Akdeniz havzasında flamingoların (allı turna) en büyük üreme ve kuluçka kolonilerine ev sahipliği yapan başlıca sulak alandır (2026 Ağustos Mesleğe Kabul B Grubu, S. 94).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_TCG-001",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Denizli'de kalsiyum bikarbonatça zengin termal suların yüzeye çıkıp havadaki oksijenle temas etmesi sonucu kalsiyum karbonatın çökelmesiyle oluşan dünyaca ünlü basamaklı karstik yapı hangisidir?",
+            "options": [
+              "A) Narman Peribacaları",
+              "B) Pamukkale Travertenleri",
+              "C) Cennet-Cehennem Obrukları",
+              "D) Karain Mağarası",
+              "E) Göreme Vadisi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Pamukkale travertenleri, Hierapolis antik kentiyle birlikte UNESCO Dünya Mirası'dır; termal suyun karbondioksiti uçunca kirecin çökelmesiyle oluşan traverten basamaklarıdır. (D-Turkiye_Turizm_Cografyasi 004 MALI 2026 AGUSTOS.pdf, s.8)\n\n💡 Hafıza İpucu: PAMUKKALE = BEYAZ TRAVERTEN & TERMAL KAYNAK.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -27141,7 +28869,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-cografyasi",
         "order": 2,
         "title": "Turizm Türleri ve Destinasyonları",
-        "officialQuestionCount": 100,
+        "officialQuestionCount": 107,
         "lectureContent": "## 2. Alt Başlık: Türkiye'de Turizm Türleri ve Potansiyeli\n\nTürkiye'nin sahip olduğu coğrafi çeşitlilik, turizmin on iki aya ve yetmiş iki kente yayılmasını sağlayan çok boyutlu bir potansiyel barındırır.\n\n### A. Kış Sporları ve Dağ Turizmi\nTürkiye'de dağların yüksekliği ve karın yerde kalma süresi kış turizmi merkezlerinin gelişimini sağlamıştır:\n* Bursa Uludağ: Türkiye'nin ilk, en köklü ve altyapısı en gelişmiş kış turizmi merkezidir. Fatintepe ve Kuşaklıkaya zirveleriyle tanınır.\n* Erzurum Palandöken: Türkiye'nin en uzun ve en dik pistlerine sahip merkezidir. Toz kar kalitesi, yüksek irtifası ve 2011 Dünya Üniversiteler Kış Oyunlarına ev sahipliği yapmasıyla uluslararası marka değerine ulaşmıştır. Konaklı Kayak Merkezi ile entegredir.\n* Kayseri Erciyes: Sönmüş bir volkan dağı olan Erciyes, geniş pistleri, modern mekanik tesisleri ve yapay karlama sistemleriyle İç Anadolu'nun en büyük kış sporları üssüdür.\n* Kars Sarıkamış: Çamurkar ve kristal kar yapısıyla dünyada yalnızca Alplerde görülen kristal toz kar kalitesine sahiptir. Sarıçam ormanları içinde yer alması pistleri rüzgârdan korur ve çığ riskini minimuma indirir.\n* Bolu Kartalkaya: Köroğlu Dağları üzerinde çam ormanlarıyla çevrili önemli bir merkezdir.\n* Kocaeli Kartepe: Samanlı Dağları üzerinde, İstanbul ve Marmara metropollerine en yakın kayak merkezidir.\n* Isparta Davraz: Göller Yöresi'nde Eğirdir Gölü manzaralı kayak merkezidir.\n* Kastamonu-Çankırı Ilgaz: Ilgaz Dağları Milli Parkı içinde yer alan kış sporları merkezidir.\n* Antalya Saklıkent: Beydağları üzerinde yer alır; sabah kayıp yapılıp öğleden sonra Akdeniz sahilinde denize girilebilen eşsiz coğrafi yakınlığıyla öne çıkar.\n\n### B. Termal ve Sağlık Turizmi\nTürkiye, jeolojik yapısı gereği genç kırık hatları ve fay kuşakları üzerinde bulunduğundan termal kaynak zenginliği açısından Avrupa'da birinci, dünyada ilk yedi ülke arasındadır.\n* Afyonkarahisar: Türkiye'nin termal başkentidir. Gazlıgöl, Sandıklı Hüdai, Ömer ve Gecek kaplıcaları; romatizma, cilt ve ortopedik rehabilitasyonda öncüdür. Sandıklı kaplıcaları dünyaca ünlü şifalı çamur banyolarıyla tanınır.\n* Denizli Pamukkale ve Karahayıt: Pamukkale beyaz travertenleri ve Hierapolis Antik Havuzu (Kleopatra Havuzu) ile tanınırken; hemen yanı başındaki Karahayıt, yüksek demir ve kükürt içeren kırmızı termal suları ve kırmızı travertenleriyle ayrışır.\n* Yalova Termal ve Armutlu: Atatürk'ün \"Yalova benim kentimdir\" diyerek modern tesisler kurdurduğu, Cumhuriyet'in ilk planlı termal kür merkezidir.\n* Bursa Çekirge ve Oylat: İnegöl Oylat Kaplıcaları şifalı suları ve orman içi mikroklimasıyla ünlüdür.\n* Kütahya Simav, Emet ve Yoncalı: Emet kaplıcaları bor elementi bakımından zengin sulara sahiptir.\n* Sivas Kangal Balıklı Kaplıcası: Otuz yedi derece sabit sıcaklıktaki havuzlarında yaşayan minik doktor balıklar (Cyprinion macrostomus ve Garra rufa), sedef hastalığı ve cilt yaralarını temizleyerek tedavi eden dünyada eşi benzeri olmayan bir sağlık turizmi merkezidir.\n* Ankara Kızılcahamam, Ayaş ve Haymana: İç Anadolu'nun en yoğun termal kür bölgeleridir.\n\n### C. Yayla Turizmi\nKaradeniz Bölgesi boyunca Doğu Karadeniz Dağları, Kaçkarlar ve Giresun Dağları yayla turizminin kalbidir.\n* Rize: Ayder Yaylası (Çamlıhemşin), Anzer Yaylası (İkizdere - dünyaca ünlü tescilli Anzer balının üretildiği zengin endemik çiçek florası), Pokut Yaylası, Sal Yaylası, Ovit Yaylası.\n* Trabzon: Uzungöl, Hıdırnebi Yaylası, Sis Dağı Yaylası.\n* Artvin: Kafkasör Yaylası (geleneksel boğa güreşleri festivali), Borçka Karagöl ve Şavşat Karagöl yaylaları.\n* Giresun: Kümbet Yaylası, Bektaş Yaylası.\n* Ordu: Çambaşı Yaylası, Perşembe Yaylası (menderesleriyle ünlü doğa harikası).\n* Akdeniz Toros Yaylaları: Adana Pozantı Tekir Yaylası, Mersin Namrun (Çamlıyayla), Antalya Gömbe Yaylası.\n\n### D. Akarsu Turizmi, Rafting ve Su Sporları\n* Rize Fırtına Deresi: Kaçkar Dağları'ndan Karadeniz'e dökülen, tarihi kemer köprülerin altından akan Türkiye'nin en popüler ve debisi yüksek rafting rotasıdır.\n* Antalya Köprüçay: Köprülü Kanyon Milli Parkı içinden geçen, Roma dönemi Olukköprü'nün altından başlayan Akdeniz'in en büyük rafting ve kano merkezidir.\n* Çoruh Nehri (Artvin-Erzurum): Dünyanın en hızlı ve derin akan akarsularından biridir; uluslararası nehir kayağı ve ekstrem rafting şampiyonalarına ev sahipliği yapmıştır.\n* Düzce Melen Çayı: Marmara ve Batı Karadeniz'in rafting merkezidir.\n* Muğla Dalaman Çayı: Ege ve Akdeniz'i birleştiren zorlu kanyon etaplarına sahip akarsudur.\n\n### E. Mağara Turizmi\nTürkiye karstik araziler bakımından dünyanın en zengin kuşaklarından birinde yer alır:\n* Antalya Karain Mağarası: Türkiye'nin içinde tarihöncesi insanların yaşadığı en eski ve en büyük doğal mağarasıdır. Paleolitik çağ yerleşimidir.\n* Antalya Damlataş Mağarası: 1948 yılında Alanya Kalesi eteğinde taş ocağı açılırken tesadüfen bulunan, sarkıt ve dikitleriyle ünlü, astım hastalarına iyi gelen sabit sıcaklık ve nem oranına sahip Türkiye'nin turizme açılan ilk mağarasıdır.\n* Antalya Dim Mağarası: Alanya Dim Çayı vadisinde zengin göllü karstik mağaradır.\n* Burdur İnsuyu Mağarası: 1965 yılında Türkiye'de turizme açılan resmi anlamda ilk tescilli mağaradır. İçindeki karstik göllerle tanınır.\n* Tokat Ballıca Mağarası: Dünyada ender görülen devasa soğan sarkıtları, pul pul çökelmiş sütunları ve büyüleyici salonlarıyla UNESCO Geçici Miras Listesi'nde yer alan bir doğa harikasıdır.\n* Gümüşhane Karaca Mağarası: Damlataşı oluşumları, mağara gülleri ve rengârenk traverten basamaklarıyla zengin damlataş galerisidir.\n* Mersin Cennet ve Cehennem Obrukları: Karstik tavanın çökmesiyle oluşmuş dev çöküntü obruklarıdır. Cennet çöküğünün tabanında Meryem Ana Kilisesi ve yer altı akarsuyu yer alır; Cehennem obruğu ise dik ve derindir, içine ancak dağcılık ekipmanıyla inilebilir.\n\n---",
         "sentences": [
           {
@@ -28881,6 +30609,118 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Şubat 2025 sınavında Doğu Ekspresi'nin güzergâhı için seçenekler arasında Sivas, Erzincan, Kayseri, Malatya ve Erzurum verilmiştir; Antalya bu güzergâhla hiç ilişkili değildir, Akdeniz kıyısındadır.\n\n💡 Hafıza İpucu: Antalya deniz kıyısında, Doğu Ekspresi ise İç ve Doğu Anadolu'yu dolaşır — coğrafi olarak hiç kesişmezler.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q001",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "2025 yılı verilerine göre aşağıdaki illerden hangisinde uluslararası mavi bayraklı plaj bulunur?",
+            "options": [
+              "A) Rize",
+              "B) Sinop",
+              "C) Isparta",
+              "D) Balıkesir",
+              "E) Artvin"
+            ],
+            "correctIndex": 3,
+            "explanation": "2025 yılı Mavi Bayrak verilerine göre Balıkesir (Ayvalık, Edremit, Burhaniye, Gömeç, Erdek vb.) uluslararası Mavi Bayraklı plajlara sahip illerimizdendir (2026 Ağustos Mesleğe Kabul B Grubu, S. 1).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q006",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Turistler tarafından yapılan her bir birimlik harcamanın meydana getirdiği etkinin, ekonomideki diğer sistemlerde yarattığı değişime ne ad verilir?",
+            "options": [
+              "A) Gayrisafi yurt içi hasıla",
+              "B) Çarpan etkisi",
+              "C) Ödemeler dengesi",
+              "D) Sızıntı",
+              "E) Fırsat maliyeti"
+            ],
+            "correctIndex": 1,
+            "explanation": "Turizm harcamalarının ekonomide el değiştirdikçe diğer sektörlerde yeni gelir ve talep dalgaları oluşturmasına “çarpan etkisi” (multiplier effect) denir (2026 Ağustos Mesleğe Kabul B Grubu, S. 6).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q013",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Türkiye, Dünya Turizm Örgütü tarafından derlenen varış verilerine göre, 2025 yılında turistlerin en çok ziyaret ettiği ülkeler arasında kaçıncı sırada yer almıştır?",
+            "options": [
+              "A) 2",
+              "B) 4",
+              "C) 6",
+              "D) 8",
+              "E) 10"
+            ],
+            "correctIndex": 1,
+            "explanation": "BM Turizm (UN Tourism / Dünya Turizm Örgütü) uluslararası turist varış verilerine göre Türkiye, Fransa, İspanya ve ABD’nin ardından dünyada 4. sırada yer almıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 13).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q016",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Doğa yürüyüşleri, rafting, tarihî kemer ve köprüleri ile öne çıkan ve Karadeniz'e dökülen akarsu aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Düden Deresi",
+              "B) Nilüfer Deresi",
+              "C) Fırtına Deresi",
+              "D) Bakırçay Deresi",
+              "E) Eşen Deresi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Rize’nin Çamlıhemşin ilçesinden geçip Karadeniz’e dökülen Fırtına Deresi; tarihî taş kemer köprüleri, yayla/doğa yürüyüş rotaları ve rafting parkuruyla tanınır (2026 Ağustos Mesleğe Kabul B Grubu, S. 16).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q067",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi termal turizmde “balneoterapi” uygulamalarında kullanılır?",
+            "options": [
+              "A) Işık",
+              "B) Mineralli su ve çamur",
+              "C) Aktif kömür",
+              "D) Isıtılmış taşlar",
+              "E) Şifalı çiçek özleri"
+            ],
+            "correctIndex": 1,
+            "explanation": "Balneoterapi; termal ve mineralli suların, peloidlerin (şifalı çamurların) ve gazların banyo, içme veya inhalasyon yoluyla tedavi amaçlı kullanılmasıdır (2026 Ağustos Mesleğe Kabul B Grubu, S. 67).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q069",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Kızılcahamam kaplıcaları aşağıdaki illerden hangisinin sınırları içinde yer alır?",
+            "options": [
+              "A) Erzurum",
+              "B) Edirne",
+              "C) Adıyaman",
+              "D) Ankara",
+              "E) Denizli"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kızılcahamam termal kaynakları ve kaplıcaları Ankara ili sınırları içindedir (2026 Ağustos Mesleğe Kabul B Grubu, S. 69).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_TCG-003",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Fethiye Ölüdeniz üzerinde 1969 metre rakımıyla yamaç paraşütü sporunun dünyadaki en popüler ve elverişli atlayış noktası olan dağ hangisidir?",
+            "options": [
+              "A) Tahtalı Dağı",
+              "B) Babadağ",
+              "C) Ilgaz Dağı",
+              "D) Ergan Dağı",
+              "E) Spil Dağı"
+            ],
+            "correctIndex": 1,
+            "explanation": "Muğla Fethiye sınırlarında yer alan Babadağ, termik hava akımları ve Ölüdeniz lagününe inen nefes kesici rotasıyla dünya yamaç paraşütünün kalbidir. (MKS_Cografya M.ALI 2026 AGUSTOS.pdf, s.22)\n\n💡 Hafıza İpucu: BABADAĞ = ÖLÜDENİZ YAMAÇ PARAŞÜTÜ.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -28890,7 +30730,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-cografyasi",
         "order": 3,
         "title": "İlginç Doğal Oluşumlar",
-        "officialQuestionCount": 102,
+        "officialQuestionCount": 105,
         "lectureContent": "## 3. Alt Başlık: İlginç Doğal Oluşumlar ve Jeomorfolojik Miras\n\nTürkiye'nin jeomorfolojik mirası, sınavların en yüksek oranda ayırt edici soru ürettiği alanlardan biridir.\n\n```\n       DÜNYANIN VE TÜRKİYE'NİN JEOMORFOLOJİK HARİKALARI\n┌─────────────────────────┬─────────────────────────┬─────────────────────────┐\n│     PERİBACALARI        │       TRAVERTENLER      │     VOLKANİK YAPILAR    │\n│  Nevşehir Kapadokya     │   Denizli Pamukkale     │   Manisa Kula Divlit    │\n│  Erzurum Narman (Kırmızı) Karahayıt (Kırmızı)    │   Konya Meke Krater     │\n│  Afyon İhsaniye (Frig)  │   Antalya Kent Platosu  │   Nemrut Kalderası      │\n│  Manisa Kula (Kuladokya)│   Van Başkale           │   Nevşehir Acıgöl Maar  │\n└─────────────────────────┴─────────────────────────┴─────────────────────────┘\n```\n\n### A. Peribacaları ve Tüf Oluşumları\nPeribacaları; volkanik tüf, kül ve lav tabakalarının akarsu, sel suları ve rüzgâr erozyonuyla aşınması sonucu oluşan, tepesinde dirençli sert bazalt veya andezit kaya şapkası bulunan kule tipi jeomorfolojik oluşumlardır. Aşınmada **birincil kuvvet akarsu ve sel sularıdır; rüzgâr ise ikincil, şekillendirici kuvvettir**.\n1. Nevşehir, Ürgüp, Göreme, Uçhisar (Kapadokya): Erciyes, Hasandağı ve Güllüdağ volkanlarının püskürttüğü tüflerin milyonlarca yılda aşınmasıyla oluşmuştur. Dünyanın en büyük peribacası oluşum alanıdır.\n2. Erzurum Narman Peribacaları: Halk arasında **Kırmızı Peribacaları** olarak bilinir. Rengini demir oksit (pas) zengini tortul çökellerden alır. Kapadokya'dan farkı volkanik tüften değil, akarsu ve göl çökellerinden oluşmuş tortul yapıda olmasıdır.\n3. Manisa Kula Peribacaları: Türkiye'nin ilk ve tek UNESCO Jeoparkı olan Kula-Salihli Jeoparkı içinde yer alır. Halk arasında **Kuladokya** olarak adlandırılır.\n4. Afyonkarahisar İhsaniye ve Frig Vadisi: Tüf kayalara oyulmuş anıtlar ve peribacalarıyla kaplı tarihi vadidir.\n5. Van Başkale (Vanadokya): Doğu Anadolu'da tüflerin aşınmasıyla oluşan peribacası sahasıdır.\n\n### B. Travertenler ve Karstik Şekiller\nKalsiyum bikarbonat içeren termal yer altı sularının yüzeye çıktığında basıncın düşmesi ve karbondioksitin uçmasıyla geriye kalsiyum karbonatın çökelmesi sonucu basamaklı beyaz kalker teraslar oluşur.\n* Denizli Pamukkale: UNESCO Dünya Miras Listesi'nde yer alan, Hierapolis antik kentiyle iç içe geçmiş dünyanın en ünlü beyaz traverten basamaklarıdır.\n* Antalya Traverten Platosu: Antalya kent merkezi dünyanın en geniş traverten basamakları ve falezleri üzerinde kurulmuştur. Düden Şelalesi doğrudan bu traverten falezlerinden Akdeniz'e dökülür.\n\n### C. Volkanik Şekiller: Kula, Meke, Nemrut ve Maarlar\n* Manisa Kula Volkanları: Türkiye'nin en genç volkanik sahasıdır (Dördüncü Zaman / Kuveaternier). Antik Çağ coğrafyacısı Strabon buraya **Katakekaumene (Yanık Ülke)** adını vermiştir. Kula cüruf konileri, lav akıntıları ve lav tüpleri Türkiye'nin ilk ve tek tescilli **UNESCO Küresel Jeoparkı**dır.\n* Konya Karapınar Meke Gölü: Volkanik patlama çukuru olan maarın suyla dolması, ardından gölün ortasında ikinci bir volkanik patlamayla bir cüruf konisinin yükselmesi sonucu oluşmuş bir maar gölüdür. Eşsiz silüeti nedeniyle **Dünyanın Nazar Boncuğu** olarak anılır.\n* Bitlis Nemrut Kalderası: Nemrut Yanardağı'nın patlamasıyla zirvesinin çökmesi sonucu oluşan, içinde sıcak ve soğuk krater göllerini barındıran dünyanın en büyük ikinci kalderasıdır.\n* Maar Gölleri: Magmanın yer altı sularıyla temas edip patlaması sonucu oluşan gaz patlaması çukurlarıdır. Konya Meke Gölü ve Isparta Gölcük Maarı en tipik örneklerdir.\n\n### D. Tombolo ve Kıyı Kordonu Oluşumları\nDalgaların taşıdığı kumların bir adayı ana karaya bağlayarak yarımadaya dönüştürmesi olayına **tombolo (bağlama seti)** denir.\n* Balıkesir Kapıdağ Yarımadası: Marmara Denizi'nde eski bir adanın iki kıyı kordonuyla ana karaya bağlanmasıyla oluşmuş Türkiye'nin en büyük tombolosu ve ders kitaplarının klasik örneğidir.\n* Sinop Yarımadası (Boztepe): Karadeniz'de küçük bir adanın karaya bağlanmasıyla oluşmuş tombolo örneğidir.\n* Fethiye Ölüdeniz (Belcekız): Dalgaların bir koyun önünü kum setiyle kapatması sonucu oluşan dünyanın en güzel **lagün (deniz kulağı)** örneğidir.\n\n---",
         "sentences": [
           {
@@ -29515,6 +31355,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Yazılı Kanyon Antalya'da değil, Isparta ilindedir (EKO Tabiat Parkları tablosu, s.130); diğer üç eşleştirme (Ulubey-Uşak, Kula-Manisa, Güver-Antalya) doğrudur.\n\n💡 Hafıza İpucu: IV şıkkı bilinçli tuzak: Güver (Antalya) ile Yazılı (Isparta) kanyonlarını karıştırma — ikisi de Göller Bölgesi'nde ama farklı illerde.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q092",
+            "subtopicId": "tc_3",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Türkiye’nin ilk ve tek UNESCO Küresel Jeopark’ı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kula-Salihli Jeoparkı",
+              "B) Nemrut-Adıyaman Jeoparkı",
+              "C) Frigya Jeoparkı",
+              "D) Pamukkale Jeoparkı",
+              "E) Kapadokya Jeoparkı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Manisa’da yer alan Kula-Salihli UNESCO Küresel Jeoparkı (2013’te tescil edildi), Türkiye’nin ilk ve tek UNESCO Küresel Jeoparkıdır (2026 Ağustos Mesleğe Kabul B Grubu, S. 92).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q095",
+            "subtopicId": "tc_3",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Pamukkale travertenlerinin oluşumunu sağlayan temel jeolojik süreç aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Buzulların kireç taşını aşındırması",
+              "B) Rüzgârın beyaz kuvars kumlarını biriktirmesi",
+              "C) Deniz dalgalarının kıyıda tortu biriktirmesi",
+              "D) Lavların soğuması",
+              "E) Termal sulardaki kalsiyum karbonatın çökelmesi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Pamukkale travertenleri, yer altından çıkan kalsiyum bikarbonatça zengin sıcak termal suların yeryüzüne çıktığında karbondioksit kaybetmesi sonucu kalsiyum karbonatın (kireç) çökelmesiyle oluşur (2026 Ağustos Mesleğe Kabul B Grubu, S. 95).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_TCG-002",
+            "subtopicId": "tc_3",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Nevşehir ve Kapadokya bölgesinde Erciyes, Hasandağı ve Güllüdağ'dan çıkan volkanik tüf tabakalarının rüzgâr ve sel sularıyla aşınması sonucu oluşan doğal kulelere ne ad verilir?",
+            "options": [
+              "A) Tafoni",
+              "B) Yardang",
+              "C) Peribacası",
+              "D) Falez",
+              "E) Lapya"
+            ],
+            "correctIndex": 2,
+            "explanation": "Peribacaları, dirençsiz volkanik tüfün sel suları ve rüzgâr tarafından aşındırılması, sert bazalt/andezit şapkanın alttaki tüfü korumasıyla oluşur. (TEMATIK_B_Cografya_Doga_Eslestirme.pdf, s.4)\n\n💡 Hafıza İpucu: KAPADOKYA = VOLKANİK TÜF VE BAZALT ŞAPKALI PERİBACALARI.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -29524,7 +31412,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-cografyasi",
         "order": 4,
         "title": "Beşeri Coğrafya ve Turizm",
-        "officialQuestionCount": 102,
+        "officialQuestionCount": 114,
         "lectureContent": "## 4. Alt Başlık: Beşeri Coğrafya, Nüfus, Yerleşme ve Kültür Rotaları\n\nTurizm, fiziki mekânın üzerine insanın inşa ettiği kültürel, tarihi ve kentsel değerlerin oturmasıyla canlanır. Türkiye'nin yedi coğrafi bölgesindeki kentsel kimlikler ve kültür rotaları turist rehberliğinin sahadaki temel çalışma alanıdır.\n\n### A. Tarihi Kent Dokuları ve Geleneksel Mimari\n* Safranbolu (Karabük): UNESCO Dünya Miras Listesi'nde yer alan, Osmanlı sivil mimarisini, ahşap karkas çatkılı üç katlı konaklarını, arastalarını ve demirciler çarşısını bozulmadan günümüze taşıyan müze kenttir.\n* Beypazarı (Ankara): İnözü Vadisi, gümüş telkâri işlemeciliği, kurusu ve restore edilen Osmanlı konaklarıyla İç Anadolu'nun model koruma merkezidir.\n* Cumalıkızık (Bursa): Uludağ eteklerinde kurulan, Osmanlı'nın kuruluş döneminden kalan yedi yüz yıllık yaşayan erken dönem Osmanlı vakıf köyüdür.\n* Şirince (İzmir Selçuk): Maya takvimi kehanetiyle dünya gündemine gelen, zeytinlikler ve bağlar arasında yükselen geleneksel Rum taş evleri ve meyve şaraplarıyla ünlü turizm köyüdür.\n* Adatepe ve Yeşilyurt Köyleri (Çanakkale): Kaz Dağları eteklerinde taş mimarisi, zeytin kültürü ve temiz havasıyla ekoturizmin öncüsü köylerdir.\n* Odunpazarı (Eskişehir): Kıvrımlı sokakları, rengârenk ahşap Osmanlı evleri, Lületaşı Müzesi ve Balmumu Müzesi ile kültür turizminin merkezidir.\n* Taraklı (Sakarya) ve Göynük (Bolu): Tarihi ipek yolu üzerinde Osmanlı konakları ve zafer kuleleriyle tanınan koruma altındaki kentlerdir.\n\n### B. Türkiye'nin Kültür Rotaları\nTürkiye'de doğa yürüyüşü, tarih ve kültürü buluşturan tematik uzun mesafe yürüyüş rotaları bulunmaktadır:\n* Likya Yolu: Fethiye'den başlayıp Antalya Geyikbayırı'nda sona eren, yaklaşık beş yüz kırk kilometrelik uzunluğuyla Türkiye'nin ilk işaretlenmiş uzun mesafe yürüyüş rotasıdır. İngiliz araştırmacı Kate Clow tarafından projelendirilmiştir. Babadağ, Kelebekler Vadisi, Kabak Koyu, Patara, Kalkan, Kaş, Kekova, Demre, Olympos ve Çıralı duraklarını birbirine bağlar.\n* Karia Yolu: Muğla ve Aydın illerini kapsayan, Bozburun, Datça Yarımadası, Gökova Körfezi ve Bafa Gölü çevresini dolaşan sekiz yüz elli kilometrelik Türkiye'nin en uzun yürüyüş rotasıdır.\n* Frig Yolu: Ankara (Gordion), Afyonkarahisar (Seydiler), Eskişehir (Yazılıkaya Midas Kenti) ve Kütahya illeri arasında Frig kaya anıtlarını birbirine bağlayan beş yüz kilometrelik tematik parkurdur. Üç ana koldan başlar ve Friglerin kutsal merkezi Yazılıkaya'da birleşir.\n* St. Paul Yolu: Hristiyanlığı yaymak için yola çıkan Havari Tarsuslu Pavlus'un ilk misyonerlik yolculuğunu takip eden, Antalya Perge ve Aspendos'tan başlayıp Isparta Yalvaç'taki Pisidia Antiocheia antik kentine uzanan dağlık yürüyüş rotasıdır.\n* Evliya Çelebi Yolu: Seyyahın 1671 yılında hacca giderken izlediği güzergâhı takip eden, İstanbul'dan başlayıp Kütahya ve Simav üzerinden ilerleyen kültür ve binicilik rotasıdır.\n\n### C. Gastronomi Şehirleri\nUNESCO Yaratıcı Şehirler Ağı (UCCN) kapsamında Gastronomi alanında tescillenen Türkiye şehirleri sınavların favori sorularındandır:\n1. Gaziantep: 2015 yılında Türkiye'den bu ağa katılan ilk gastronomi şehridir. Baklavası, beyranı, yuvalaması ve katmeriyle tescillidir.\n2. Hatay: 2017 yılında gastronomi şehri ilan edilmiştir. Künefesi, tepsisi, kâğıt kebabı ve humus kültürüyle çok dinli mutfak mirasını temsil eder.\n3. Afyonkarahisar: 2019 yılında listeye girmiştir. Sucuğu, manda kaymağı, lokumu ve patatesli ekmeğiyle ünlüdür.\n\n---",
         "sentences": [
           {
@@ -31298,6 +33186,198 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Türk Dünyası Kültür Başkenti unvanını taşıyan ilk şehir 2012'de Astana'dır; Eskişehir bu unvanı 2013'te devralmıştır.\n\n💡 Hafıza İpucu: Sıra: 2012 Astana (ilk) → 2013 Eskişehir (ikinci).",
             "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q002",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "I. Kırşehir\nII. Bursa\nIII. Kahramanmaraş\nIV. Afyonkarahisar\nV. Şanlıurfa\n\nYukarıdakilerden hangileri UNESCO Yaratıcı Şehirler Ağı Programında Türkiye’yi “müzik” temasıyla temsil eden şehirlerdendir?",
+            "options": [
+              "A) I ve II",
+              "B) I ve V",
+              "C) II ve III",
+              "D) III ve IV",
+              "E) IV ve V"
+            ],
+            "correctIndex": 1,
+            "explanation": "UNESCO Yaratıcı Şehirler Ağı’nda Kırşehir (2019) ve Şanlıurfa (2023) “Müzik” temasıyla Türkiye’yi temsil etmektedir. Bursa zanaat ve halk sanatları, Kahramanmaraş edebiyat, Afyonkarahisar ise gastronomi alanındadır (2026 Ağustos Mesleğe Kabul B Grubu, S. 2).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q007",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi ''taşınabilir kültürel'' miras sınıflaması içinde yer alır?",
+            "options": [
+              "A) Hipodrom",
+              "B) Arena",
+              "C) Sikke",
+              "D) Nekropol",
+              "E) Akropol"
+            ],
+            "correctIndex": 2,
+            "explanation": "Hipodrom, arena, nekropol ve akropol taşınmaz (yerinden kaldırılamayan) kültürel miras unsurlarıdır; sikke ise taşınabilir kültürel miras sınıfındadır (2026 Ağustos Mesleğe Kabul B Grubu, S. 7).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q014",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Türkiye’de ilk tercüman rehberlik sınavlarını yapan ve ilk turizm broşürlerini bastıran kurumun günümüzdeki adı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Turist Rehberleri Birliği",
+              "B) Türkiye Seyahat Acenteleri Birliği",
+              "C) Türkiye Otelciler Birliği",
+              "D) Türkiye Turing ve Otomobil Kurumu",
+              "E) Turizm Geliştirme ve Eğitim Vakfı"
+            ],
+            "correctIndex": 3,
+            "explanation": "1923’te “Türk Seyyahin Cemiyeti” adıyla kurulan ve 1930’da bugünkü adını alan Türkiye Turing ve Otomobil Kurumu (TTOK), Cumhuriyet’in ilk yıllarında tercüman rehberlik sınavlarını düzenlemiş ve ilk turizm broşürlerini yayımlamıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 14).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q052",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Geleneksel Osmanlı evleri, Cinci Hanı, Köprülü Mehmet Paşa Camii ve Yemeniciler Arastası gibi kültürel değerleriyle öne çıkan, UNESCO Dünya Miras Listesi'nde bulunan tarihî alan aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Göynük",
+              "B) Beypazarı",
+              "C) Cumalıkızık",
+              "D) Safranbolu",
+              "E) Sivrihisar"
+            ],
+            "correctIndex": 3,
+            "explanation": "Karabük’ün Safranbolu ilçesi; geleneksel Türk evleri, Cinci Hanı, Köprülü Mehmet Paşa Camii ve Yemeniciler Arastası ile 1994 yılında UNESCO Dünya Miras Listesi’ne alınmıştır (2026 Ağustos Mesleğe Kabul B Grubu, S. 52).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q072",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "“Çiğbörek” (Çibörek) aşağıdaki illerden hangisine ait coğrafi işaretli bir üründür?",
+            "options": [
+              "A) Mardin",
+              "B) Burdur",
+              "C) Rize",
+              "D) Edirne",
+              "E) Eskişehir"
+            ],
+            "correctIndex": 4,
+            "explanation": "Kırım Tatar mutfağından Anadolu’ya taşınan Eskişehir Çiğböreği (Çibörek), Eskişehir iline ait coğrafi işaret tescilli gastronomik bir üründür (2026 Ağustos Mesleğe Kabul B Grubu, S. 72).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q085",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Adlarına açılmış bir müzenin bulunduğu, Ferhat ile Şirin’in hikayesinin geçtiğine inanılan il aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Mardin",
+              "B) Ankara",
+              "C) Amasya",
+              "D) Kastamonu",
+              "E) Erzincan"
+            ],
+            "correctIndex": 2,
+            "explanation": "Ferhat ile Şirin efsanesi Amasya ile özdeşleşmiştir; kentte Helenistik dönem su kanalı yakınında Ferhat ile Şirin Âşıklar Müzesi bulunmaktadır (2026 Ağustos Mesleğe Kabul B Grubu, S. 85).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q086",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "• Gezgin ozanlar tarafından icra edilir.\n• Ozan, mahlasını dile getirdiği bir dörtlükle tamamlar.\n• Şiirler kafiyeli bir hece ölçüsüyle yazılır.\n• Genellikle saz eşliğinde icra edilir.\n\nYukarıda özellikleri verilen Türk edebiyatının sözlü kültür ürünü aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Matrakçılık",
+              "B) Aşıklık",
+              "C) Meddahlık",
+              "D) Kuklacılık",
+              "E) Seyyahlık"
+            ],
+            "correctIndex": 1,
+            "explanation": "Saz (bağlama) eşliğinde, hece ölçüsüyle doğaçlama ya da yazılı şiir icra eden ve son dörtlükte tapşırma (mahlas) söyleyen gelenek “Âşıklık Geleneği”dir (2009’da UNESCO Somut Olmayan Kültürel Miras Listesi’ne alınmıştır) (2026 Ağustos Mesleğe Kabul B Grubu, S. 86).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q088",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi UNESCO Dünya Belleği Türkiye Ulusal Listesi’nde yer almaz?",
+            "options": [
+              "A) Piri Reis’in Haritası",
+              "B) Kültepe Tabletleri",
+              "C) İbn Fadlan Seyahatnamesi",
+              "D) Karatepe-Aslantaş Yazıtları",
+              "E) Yıldız Sarayı Fotoğraf Koleksiyonu"
+            ],
+            "correctIndex": 2,
+            "explanation": "Piri Reis’in Dünya Haritası (1513), Kültepe Tabletleri, Karatepe-Aslantaş Yazıtları ve Yıldız Sarayı Fotoğraf Koleksiyonu UNESCO Dünya Belleği kayıtları arasındadır; İbn Fadlan Seyahatnamesi bu listede yer almaz (2026 Ağustos Mesleğe Kabul B Grubu, S. 88).",
+            "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q089",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "İpliği çekilebilen kumaşlar üzerinde, ipliklerin kesilip çekilmesiyle oluşturulan ajurlardan (delikli örgü, gözenek) yapılan ve 2025 yılında UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsilî Listesi’ne alan el sanatı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Eskişehir işi",
+              "B) Erzurum işi",
+              "C) Siirt işi",
+              "D) Mardin işi",
+              "E) Antep işi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Gaziantep’e özgü beyaz/ekru kumaşlar üzerinde iplik çekilerek ve ajurlar açılarak yapılan “Antep İşi Nakışı” (Antep işi), Aralık 2025’te UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsilî Listesi’ne kaydedilmiştir (2026 Ağustos Mesleğe Kabul B Grubu, S. 89).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q090",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "I. Kırkpınar Yağlı Güreş Festivali\nII. Kültür Yolu Festivali\nIII. Mesir Macunu Festivali\nIV. Alaçatı Ot Festivali\n\nYukarıdakilerden hangileri UNESCO Somut Olmayan Kültürel Miras Listesinde yer alır?",
+            "options": [
+              "A) I ve III",
+              "B) I ve IV",
+              "C) II ve IV",
+              "D) III ve IV",
+              "E) I, II ve III"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kırkpınar Yağlı Güreş Festivali (2010) ve Manisa Mesir Macunu Festivali (2012) UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsilî Listesi’nde yer almaktadır; Kültür Yolu ve Alaçatı Ot Festivali bu listede değildir.\n\n(Not: 2026 Ağustos Mesleğe Kabul B Grubu basılı cevap anahtarında D şıkkı görünse de güncel UNESCO Temsilî Liste kayıtlarına göre doğru eşleştirme A — I ve III’tür.)",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q100",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "“1001 Kilise Şehri” ve “40 Kapılı Şehir” olarak anılan, Kars’taki tarihî yerleşim yeri aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Tuşpa",
+              "B) Ahlat",
+              "C) Altıntepe",
+              "D) Hasankeyf",
+              "E) Ani"
+            ],
+            "correctIndex": 4,
+            "explanation": "Kars il sınırları içinde, Arpaçay kıyısında bulunan ve UNESCO Dünya Miras Listesi’nde yer alan Ani Arkeolojik Alanı, tarihî kaynaklarda “1001 Kilise Şehri” ve “40 Kapılı Şehir” olarak anılır (2026 Ağustos Mesleğe Kabul B Grubu, S. 100).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_TCG-004",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "UNESCO Dünya Miras Listesi'nde yer alan, geleneksel 2-3 katlı cumbalı ahşap karkas Osmanlı sivil mimari evleriyle korunan Karabük ilçesi hangisidir?",
+            "options": [
+              "A) Beypazarı",
+              "B) Mudurnu",
+              "C) Safranbolu",
+              "D) Göynük",
+              "E) Taraklı"
+            ],
+            "correctIndex": 2,
+            "explanation": "Karabük'ün Safranbolu ilçesi, bozulmamış sokak dokusu, lokumu, kanyonu ve 18-19. yüzyıl geleneksel konaklarıyla 'müze kent' unvanıyla UNESCO listesindedir. (D-Turkiye_Turizm_Cografyasi 004 MALI 2026 AGUSTOS.pdf, s.35)\n\n💡 Hafıza İpucu: SAFRANBOLU = OSMANLI SİVİL MİMARİSİ & UNESCO KENTİ.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -31307,7 +33387,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-cografyasi",
         "order": 5,
         "title": "Sürdürülebilirlik ve Ekoturizm",
-        "officialQuestionCount": 104,
+        "officialQuestionCount": 111,
         "lectureContent": "## 5. Alt Başlık: Sürdürülebilirlik, Milli Parklar, Ramsar Alanları ve Ekoturizm\n\nDoğal ve kültürel kaynakların gelecek nesillere bozulmadan aktarılması, turizm coğrafyasının en hayati koruma başlığıdır.\n\n```\n          TÜRKİYE'NİN ÇEVRE VE KORUMA MİMARİSİ\n┌──────────────────────┬──────────────────────┬──────────────────────┐\n│     MİLLİ PARKLAR    │    RAMSAR ALANLARI   │     SİTTASLOW        │\n│ 1. Yozgat Çamlığı    │ Göksu Deltası (İlk)  │ Seferihisar (İlk)    │\n│ En Büyük: Ağrı Dağı  │ Manyas Kuşcenneti    │ Uzundere, Taraklı    │\n│ En Çok Ziyaretçi:    │ Sultansazlığı        │ Şavşat, Eğirdir      │\n│ Beydağları / Uludağ  │ Gediz, Kızılırmak    │ Gerze, Halfeti       │\n└──────────────────────┴──────────────────────┴──────────────────────┘\n```\n\n### A. Milli Parklar Hukuku ve Temel Alanlar\n2873 sayılı Milli Parklar Kanunu kapsamında korunan alanlar; bilimsel, estetik ve rekreasyonel açıdan ulusal ve uluslararası öneme sahip sahalardır.\n* Yozgat Çamlığı Milli Parkı: 1958 yılında ilan edilen **Türkiye'nin ilk milli parkı**dır. Kafkas çamı türü kalıntılarıyla korunmuştur.\n* Ağrı Dağı Milli Parkı: Türkiye'nin yüzölçümü bakımından **en büyük milli parkı**dır. Beş bin yüz otuz yedi metrelik Türkiye'nin en yüksek zirvesini, buzul takkesini ve Nuh'un Gemisi efsanesine konu olan yamaçları barındırır.\n* Beydağları Sahil Milli Parkı (Antalya): Olympos, Phaselis ve Çıralı kumsallarını içine alan, deniz ve arkeolojinin iç içe geçtiği en çok ziyaret edilen sahil milli parkıdır.\n* Munzur Vadisi Milli Parkı (Tunceli): Zengin akarsu kaynakları, endemik bitki türleri ve yaban hayatıyla Doğu Anadolu'nun önemli vadisidir.\n* Karagöl-Sahara Milli Parkı (Artvin): Şavşat Karagöl ve Sahara Yaylası'nı kapsayan ladin ormanları sahasıdır.\n* Küre Dağları Milli Parkı (Kastamonu-Bartın): Kanyonları, mağaraları (Valla Kanyonu, Ilgarini Mağarası) ve el değmemiş ormanlarıyla Avrupa'nın Seçkin Milli Parkları (PAN Parks) sertifikasını alan ilk parkımızdır.\n\n### B. Ramsar Alanları (Sulak Alanların Korunması Sözleşmesi)\n1971 yılında İran'ın Ramsar kentinde imzalanan ve Türkiye'nin 1994 yılında taraf olduğu sözleşme, su kuşlarının yaşam alanı olan uluslararası öneme sahip sulak alanları koruma altına alır. Türkiye'de ilan edilmiş on dört tescilli Ramsar Alanı bulunmaktadır:\n1. Göksu Deltası (Mersin Silifke): Türkiye'nin 1994 yılında sözleşmeye taraf olduğunda ilan edilen **ilk Ramsar Alanı**dır. Caretta caretta deniz kaplumbağalarının ve yüzlerce kuş türünün yumurtlama alanıdır.\n2. Manyas Kuşcenneti (Balıkesir): Tepeli pelikan, balıkçıl ve kaşıkçı kuşlarının Avrupa-Afrika göç yolu üzerindeki en önemli konaklama noktasıdır.\n3. Sultan Sazlığı (Kayseri): Develi Ovası'nda tatlı ve tuzlu su ekosistemlerini bir arada barındıran devasa sazlık alandır.\n4. Gediz Deltası (İzmir): Çamaltı Tuzlası ve flamingo üreme adasıyla metropol kenarında devasa sulak alandır.\n5. Seyfe Gölü (Kırşehir): Göçmen su kuşlarının uğrak noktası olan karstik sığ göldür.\n6. Burdur Gölü: Dikkuyruk ördeklerinin kışlama alanı olan tektonik göldür.\n7. Kızılırmak Deltası (Samsun): Karadeniz sahilinde subasar ormanları (galeriç) ve sazlıklarıyla en zengin biyolojik çeşitlilik alanıdır.\n8. Akyatan Lagünü (Adana Çukurova): Türkiye'nin en büyük lagün gölüdür.\n9. Yumurtalık Lagünleri (Adana).\n10. Uluabat Gölü (Bursa): Kerevit ve tatlı su balıkçılığıyla zengin göldür.\n11. Nemrut Kalderası (Bitlis).\n12. Meke Maarı (Konya Karapınar).\n13. Kızören Obruğu (Konya).\n14. Kuyucuk Gölü (Kars Arpaçay): Doğu Anadolu'nun en önemli göçmen kuş istasyonudur.\n\n### C. Sakin Şehirler (Cittaslow Ağı)\nİtalya'da 1999 yılında kurulan, küreselleşmenin tek tipleştirici baskısına karşı yerel kimliği, sakin yaşamı, yerel el sanatlarını ve temiz enerjiyi savunan belediyeler birliğidir. Nüfusu elli binin altındaki kentler başvurabilir.\n* Seferihisar (İzmir): 2009 yılında Türkiye'nin **ilk Cittaslow (Sakin Şehir)** unvanını kazanan ilçesidir. Salyangoz logosuyla tescillenmiştir.\n* Taraklı (Sakarya), Gökçeada (Çanakkale - Dünyanın ilk sakin adası), Akyaka (Muğla Ula - Kadın Azmağı Deresi ve Nail Çakırhan ahşap mimarisi), Halfeti (Şanlıurfa - Birecik Barajı gölü altında kalan batık minaresi ve karagülüyle ünlü), Yenipazar (Aydın), Yalvaç (Isparta), Vize (Kırklareli), Perşembe (Ordu), Şavşat (Artvin), Uzundere (Erzurum - Tortum Şelalesi), Göynük (Bolu), Eğirdir (Isparta), Gerze (Sinop), Mudurnu (Bolu), Köyceğiz (Muğla), Ahlat (Bitlis), Güdül (Ankara), Şarköy (Tekirdağ).\n\n---\n\n### Sınav Refleks Tablosu: Turizm Coğrafyası Çeldiricileri ve Çözüm Çapaları\n\n| Çeldirici / Karışan Konu | Doğru Bilgi ve Ayrım Çapası | Sınavın Test Ettiği Yön |\n| :--- | :--- | :--- |\n| Fiyort ve Skyer Kıyı Tipleri | Türkiye kıyılarında KESİNLİKLE YOKTUR; mutlak konum ve matematiksel kuşak nedeniyle buzullar kıyıya inmemiştir. | Türkiye kıyılarında görülmeyen oluşumlar |\n| Dalmaçya Kıyı Tipi | Yalnızca Antalya Kaş-Finike kıyılarında görülür; Ege veya Karadeniz kıyılarında aranmaz. | Tekil coğrafi dağılım |\n| Riya Kıyı Tipi | İstanbul Boğazı, Çanakkale Boğazı ve Haliç en klasik riya tipi örnekleridir. | Akarsu vadisinin boğulması |\n| Pamukkale vs Karahayıt | Pamukkale beyaz kalsiyum travertenidir; Karahayıt demir ve kükürtlü kırmızı termal travertendir. | Kimyasal bileşim ve renk farkı |\n| Kapadokya vs Narman | Kapadokya volkanik tüf erozyonudur; Narman Kırmızı Peribacaları tortul akarsu-göl çökelleridir. | Jeolojik köken farkı |\n| Türkiye'nin İlk Milli Parkı | Yozgat Çamlığı Milli Parkıdır (1958). | Kronolojik ilklik |\n| Türkiye'nin En Büyük Milli Parkı | Ağrı Dağı Milli Parkıdır. | Yüzölçümü büyüklüğü |\n| İlk Ramsar Alanı | Mersin Göksu Deltasıdır (1994). | Sulak alan sözleşmesi kronolojisi |\n| İlk Cittaslow (Sakin Şehir) | İzmir Seferihisar'dır (2009). Salyangoz logosu taşır. | Küresel ağ üyeliği |\n| İlk UNESCO Jeoparkı | Manisa Kula-Salihli Jeoparkıdır (Yanık Ülke / Katakekaumene). | Jeopark statüsü |\n| İlk Yürüyüş Rotası | Likya Yolu'dur; Kate Clow öncülüğünde işaretlenmiştir. | Kültür rotası kronolojisi |\n| Kristal Kar / Çamurkar | Kars Sarıkamış'a özgüdür; sarıçam ormanları içinde çığ tehlikesiz toz kar kalitesi sunar. | Kış turizmi pist ve kar özellikleri |\n| Sedef Hastalığı Doktor Balıklar | Sivas Kangal Balıklı Kaplıcasıdır (Otuz yedi derece su, Cyprinion cinsi balıklar). | Özelleşmiş sağlık turizmi merkezi |",
         "sentences": [
           {
@@ -32681,6 +34761,118 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Taşıma kapasitesini etkileyen faktörler arasında turizm türleri ve mevsimlerin etkisi, doğal-kültürel-tarihî doku, ekonomik gelir düzeyi, turist aktiviteleri, hassas ekosistemler, biyolojik çeşitlilik, bireylerin çevre bilinci, entegre politikalar ve ulaşım kaynakları sayılır; 'turistlerin ana dili' bu listede yer almaz (Ekoloji ve Turizm_Anadolu Üni, s.150).\n\n💡 Hafıza İpucu: Liste doğa+ekonomi+altyapı eksenlidir; dil gibi iletişimsel bir unsur listede geçmez.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q004",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi sürdürülebilir turizmin genel özelliklerinden biridir?",
+            "options": [
+              "A) Yerel ölçekte turizm planlaması",
+              "B) Sosyal çevreye duyarsızlık",
+              "C) Bölge dışından istihdam",
+              "D) Kısa dönemli planlama",
+              "E) Hızlı ve düzensiz gelişim"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sürdürülebilir turizm; uzun dönemli ve yerel ölçekte planlamayı, yerel istihdamı, doğal ve sosyokültürel çevreye duyarlılığı esas alır (2026 Ağustos Mesleğe Kabul B Grubu, S. 4).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q008",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Doxey’nin sosyokültürel değişim ve turizm ilişkisini incelediği modelde, yerel toplum aşağıdaki hangi aşamada turistlerin ziyaretlerine karşı heves ve heyecan duyar?",
+            "options": [
+              "A) Coşku",
+              "B) Rahatsızlık",
+              "C) İlgisizlik",
+              "D) Öfke",
+              "E) Düşmanlık"
+            ],
+            "correctIndex": 0,
+            "explanation": "Doxey’nin Rahatsızlık Endeksi (Irridex) modelinin ilk aşaması olan “Coşku” (Euphoria) evresinde yerel halk turistleri heyecan, merak ve memnuniyetle karşılar (2026 Ağustos Mesleğe Kabul B Grubu, S. 8).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q009",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi turistlerin bölgenin kalabalıklaştığını ve yerel halkın kendilerine yönelik tutumunun olumsuzlaştığını algılayarak rahatsızlık duydukları noktada aşılan taşıma kapasitesi türüdür?",
+            "options": [
+              "A) Ekolojik",
+              "B) Teknolojik",
+              "C) Ekonomik",
+              "D) Çevresel",
+              "E) Psikolojik"
+            ],
+            "correctIndex": 4,
+            "explanation": "Turistlerin aşırı kalabalıklaşma ve yerel halkın olumsuz tutumu nedeniyle deneyim kalitelerinin ve tatminlerinin düşmeye başladığı eşik “psikolojik (algısal) taşıma kapasitesi”dir (2026 Ağustos Mesleğe Kabul B Grubu, S. 9).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q010",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "I. Köprülü Kanyon\nII. Yedigöller\nIII. Sultan Sazlığı\nIV. Abant Gölü\nV. Gala Gölü\n\nYukarıdaki Milli Parklardan hangileri Bolu ilinde yer alır?",
+            "options": [
+              "A) I ve IV",
+              "B) II ve IV",
+              "C) III ve V",
+              "D) I, II ve III",
+              "E) II, IV ve V"
+            ],
+            "correctIndex": 1,
+            "explanation": "Yedigöller Millî Parkı (II) ve Abant Gölü Millî Parkı (IV) Bolu il sınırları içindedir. Köprülü Kanyon Antalya’da, Sultan Sazlığı Kayseri’de, Gala Gölü ise Edirne’dedir (2026 Ağustos Mesleğe Kabul B Grubu, S. 10).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q012",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi Türkiye’deki sakin şehirlerden (cittaslow) biridir?",
+            "options": [
+              "A) Göynük/Bolu",
+              "B) Ladik/Samsun",
+              "C) Niksar/Tokat",
+              "D) Ergani/Diyarbakır",
+              "E) Merzifon/Amasya"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bolu’nun Göynük (ve Mudurnu) ilçesi Türkiye’deki Cittaslow (Sakin Şehir) ağına dâhil yerleşimler arasında yer alır (2026 Ağustos Mesleğe Kabul B Grubu, S. 12).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q018",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangileri hem doğal hem kültürel özellikleriyle UNESCO Dünya Miras Listesi’nde “karma miras” statüsünde yer alır?",
+            "options": [
+              "A) Ani Arkeolojik Alanı/Nemrut Dağı",
+              "B) Divriği Ulu Camii ve Darüşşifası/Hierapolis-Pamukkale",
+              "C) Göreme Millî Parkı ve Kapadokya/Diyarbakır Kalesi ve Hevsel Bahçeleri Kültürel Peyzajı",
+              "D) Göreme Millî Parkı ve Kapadokya/Hierapolis-Pamukkale",
+              "E) Nemrut Dağı/Göreme Millî Parkı ve Kapadokya"
+            ],
+            "correctIndex": 3,
+            "explanation": "Türkiye’nin UNESCO Dünya Miras Listesi’nde yer alan iki “karma (doğal + kültürel)” mirası Göreme Millî Parkı ve Kapadokya (1985) ile Hierapolis-Pamukkale’dir (1988) (2026 Ağustos Mesleğe Kabul B Grubu, S. 18).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_TCG-005",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "İtalya'da başlayan, yerel kimliğini, zanaatlarını, sessizliğini ve yerel tatlarını koruyan nüfusu 50 binin altındaki yerleşimlere verilen Türkiye'deki ilk 'Cittaslow' (Sakin Şehir) neresidir?",
+            "options": [
+              "A) Akyaka",
+              "B) Seferihisar",
+              "C) Halfeti",
+              "D) Gökçeada",
+              "E) Taraklı"
+            ],
+            "correctIndex": 1,
+            "explanation": "İzmir Seferihisar, 2009 yılında Türkiye'nin ilk Cittaslow unvanını alan ilçesidir; geleneksel pazar yerleri ve mandalinasıyla tanınır. (MKS_Cografya M.ALI 2026 AGUSTOS.pdf, s.41)\n\n💡 Hafıza İpucu: İLK SAKİN ŞEHİR (CİTTASLOW) = İZMİR SEFERİHİSAR (2009).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -32691,7 +34883,7 @@ export const COURSES_DATA: Course[] = [
     "id": "turizm-mevzuati",
     "title": "Turizm Mevzuatı",
     "slug": "turizm-mevzuati",
-    "totalOfficialQuestions": 340,
+    "totalOfficialQuestions": 347,
     "description": "Hukukun Temel Kavramları, Temel Turizm Kanunları, Yatırımlar ve Tesisler, Tüketici Hakları.",
     "iconName": "Scale",
     "isAvailable": true,
@@ -32701,7 +34893,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-mevzuati",
         "order": 1,
         "title": "Hukukun Temel Kavramları",
-        "officialQuestionCount": 65,
+        "officialQuestionCount": 66,
         "lectureContent": "## 1. Alt Başlık: Hukukun Temel Kavramları\n\nHukuk, toplum yaşamını düzenleyen, barış, adalet ve güvenliği sağlayan, devletin yaptırım gücüyle yani maddi yaptırımla desteklenen bağlayıcı kurallar bütünüdür. Sosyal hayatı düzenleyen din kuralları, ahlak kuralları ve görgü kurallarının yaptırımı manevi iken, hukuk kurallarının yaptırımı devlet gücüne dayalı maddi yaptırımdır.\n\n### Hukuk Kurallarının Özellikleri ve Yaptırım Türleri\nHukuk kuralları geneldir, soyuttur, süreklidir ve kişilik dışıdır. Bir hukuk kuralına aykırı davranıldığında devlet zoruyla uygulanan tepkiye yaptırım veya müeyyide denir. Hukukta beş temel yaptırım türü bulunur:\n* Ceza: Kanunun suç saydığı eylemleri işleyen kişilere uygulanan hürriyeti bağlayıcı hapis cezaları veya adli para cezalarıdır.\n* Cebri İcra: Borcunu veya hukuki yükümlülüğünü rızasıyla yerine getirmeyen kimsenin, devlet gücü ve icra daireleri aracılığıyla bu borcunu zorla yerine getirmesini sağlayan yaptırımdır.\n* Tazminat: Hukuka aykırı bir eylem veya sözleşmeye aykırılık neticesinde bir başkasına verilen zararın, kusurlu kişi tarafından para ile giderilmesidir. Malvarlığındaki eksilmeyi karşılayan tazminata maddi tazminat; kişinin kişilik haklarının, onurunun veya ruhsal bütünlüğünün zedelenmesi nedeniyle duyduğu acı ve elemi hafifletmek için ödenen tazminata manevi tazminat denir.\n* İptal: İdarenin hukuka, kanuna ve usule aykırı olarak tesis ettiği idari işlemlerin, idari yargı organları yani İdare Mahkemesi veya Danıştay tarafından geçmişe etkili olarak ortadan kaldırılmasıdır. Turizm sektöründe bir işletme belgesinin veya çalışma ruhsatının haksız iptal edilmesi davalarında başvurulan yaptırım türüdür.\n* Hükümsüzlük (Geçersizlik): Bir hukuki işlemin kanunun emrettiği kurallara uygun yapılmaması durumunda ortaya çıkan geçersizlik halleridir. Kendi içinde dörde ayrılır:\n  * Yokluk: Bir hukuki işlemin kurucu unsurlarından birinin hiç bulunmamasıdır. İşlem hukuk dünyasında hiç doğmamıştır (Örneğin resmi evlendirme memuru önünde yapılmayan evlilik veya yetkili kamu otoritesince imzalanmamış idari karar).\n  * Mutlak Butlan: Hukuki işlemin kurucu unsurları tamdır ancak kanunun emredici hükümlerine, ahlaka, kamu düzenine ve kişilik haklarına aykırıdır ya da konusu imkânsızdır. Baştan itibaren geçersizdir, sonradan geçerli hale gelemez.\n  * Nispi Butlan (İptal Edilebilirlik): Bir hukuki işlem kurulurken iradenin yanılma, aldatma veya korkutma yani hata, hile veya ikrah ile sakatlanmış olması durumudur. İşlem iptal edilene kadar geçerlidir; mağdur taraf kanuni süresi içinde dava açarak sözleşmeyi iptal ettirebilir.\n  * Askıda Geçersizlik (Tek Taraflı Bağlamazlık): Ayırt etme gücüne sahip küçüklerin veya kısıtlıların, yasal temsilcilerinin yani veli veya vasilerinin izni olmaksızın yaptıkları sözleşmelerdir. Veli veya vasi onay verirse sözleşme baştan itibaren geçerli olur; onay vermezse tamamen hükümsüz kalır.\n\n### Normlar Hiyerarşisi (Kelsen Piramidi)\nHukuk düzeninde kurallar rastgele dizilmez. Hans Kelsen tarafından sistemleştirilen Normlar Hiyerarşisi piramidinde alt basamaktaki bir kural, üst basamaktaki kurala asla aykırı olamaz ve üst kuralı değiştiremez. Türkiye Cumhuriyeti hukuk düzeninde en üstten en alta doğru sıralama şöyledir:\n1. Anayasa: Devletin temel organlarını, yönetim biçimini ve vatandaşların temel hak ve ödevlerini belirleyen en üstün hukuk normudur. Hiçbir kanun Anayasa'ya aykırı olamaz.\n2. Kanun ve Usulüne Göre Yürürlüğe Konulmuş Milletlerarası Antlaşmalar: Türkiye Büyük Millet Meclisi tarafından çıkarılan kanunlardır. Temel hak ve özgürlüklere ilişkin milletlerarası antlaşmalar ile kanunların aynı konuda farklı hükümler içermesi durumunda, milletlerarası antlaşma hükümleri esas alınır.\n3. Cumhurbaşkanlığı Kararnameleri: Yürütme yetkisine ilişkin konularda Cumhurbaşkanı tarafından çıkarılan düzenleyici işlemlerdir. Anayasa'da münhasıran kanunla düzenlenmesi öngörülen konularda ve temel hak ve ödevler alanında kararname çıkarılamaz. Kanunda açıkça düzenlenen konularda kararname çıkarılamaz; kanun ile kararname çelişirse kanun hükümleri uygulanır.\n4. Yönetmelikler: Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişilerinin kendi görev alanlarını ilgilendiren kanunların ve Cumhurbaşkanlığı kararnamelerinin uygulanmasını sağlamak üzere çıkardıkları düzenlemelerdir. Turizm Tesislerinin Nitelikleri Yönetmeliği veya Paket Tur Sözleşmeleri Yönetmeliği bu düzeydedir.\n5. Genelgeler, Tebliğler ve Yönergeler: Uygulamada yeknesaklığı sağlamak amacıyla kamu kurumlarının teşkilatlarına gönderdikleri yönlendirici alt idari metinlerdir.\n\n### Hukukun Dalları ve Hak Kavramı\nHukuk genel olarak iki büyük ana kola ayrılır:\n* Kamu Hukuku: Devlet ile bireyler arasındaki veya devlet kurumlarının kendi arasındaki ilişkileri düzenleyen, devletin üstün kamu gücünü kullandığı hukuk dalıdır. Anayasa Hukuku, İdare Hukuku, Ceza Hukuku, Vergi Hukuku, Yargılama Hukuku ve Devletler Umumi Hukuku kamu hukuku kapsamındadır. Turizm hukuku; idari izinler, işletme belgeleri ve denetim boyutuyla kamu hukuku kurallarıyla iç içedir.\n* Özel Hukuk: Eşit haklara sahip bireyler arasındaki ilişkileri düzenleyen hukuk dalıdır. Medeni Hukuk, Borçlar Hukuku, Ticaret Hukuku ve Devletler Hususi Hukuku özel hukuk alanına girer. Turistin seyahat acentasıyla yaptığı paket tur sözleşmesi veya otelle yaptığı konaklama sözleşmesi doğrudan özel hukuk ve borçlar hukuku ilişkisidir.\n\nHak, hukuk düzeni tarafından kişilere tanınan ve korunması talep edilebilen menfaat veya yetkidir. Kullanıldıklarında yeni bir hukuki durum yaratan, mevcut durumu değiştiren veya ortadan kaldıran haklara yenilik doğuran yani inşai haklar denir. Yenilik doğuran haklar üç türlüdür:\n* Kurucu Yenilik Doğuran Hak: Kullanılmasıyla yeni bir hukuki ilişki doğar (Örneğin bir acentanın tur sözleşmesi teklifini kabul etmesi).\n* Değiştirici Yenilik Doğuran Hak: Mevcut bir hukuki ilişkiyi değiştiren haktır (Örneğin ayıplı bir tur hizmetinde turistin tur bedelinden indirim talep etmesi).\n* Bozucu Yenilik Doğuran Hak: Mevcut bir hukuki ilişkiyi tamamen sona erdiren haktır (Örneğin sözleşmeden dönme, fesih veya iptal hakkı).\n\n---",
         "sentences": [
           {
@@ -32986,6 +35178,22 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 1,
             "explanation": "Anayasa normlar piramidinin en tepesindedir; hiçbir kanun veya alt düzenleme Anayasa'ya aykırı olamaz."
+          },
+          {
+            "id": "trp_bank_MEV-002",
+            "subtopicId": "tm_1",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Normlar hiyerarşisinde en üstte yer alan, altındaki kanunların, yönetmeliklerin ve diğer idari işlemlerin hiçbir şekilde kendisine aykırı olamayacağı metin hangisidir?",
+            "options": [
+              "A) Kanun",
+              "B) Anayasa",
+              "C) Cumhurbaşkanlığı Kararnamesi",
+              "D) Yönetmelik",
+              "E) Genelge"
+            ],
+            "correctIndex": 1,
+            "explanation": "Hans Kelsen'in Normlar Hiyerarşisi piramidinin tepesinde Anayasa yer alır; tüm yasama ve yürütme tasarrufları Anayasa'ya uygun olmak zorundadır. (MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf, s.2)\n\n💡 Hafıza İpucu: PİRAMİDİN TEPESİ: Anayasa > Kanun > Kararname > Yönetmelik > Genelge.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -32995,7 +35203,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-mevzuati",
         "order": 2,
         "title": "Temel Turizm Kanunları",
-        "officialQuestionCount": 74,
+        "officialQuestionCount": 76,
         "lectureContent": "## 2. Alt Başlık: Temel Turizm Kanunları\n\nTürk turizm sektörünün hukuki omurgasını üç temel kanun oluşturur: 1618 Sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu, 2634 Sayılı Turizmi Teşvik Kanunu ve 2863 Sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu.\n\n### A. 1618 Sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu\nBu kanun, kâr amacıyla turistlere ulaştırma, konaklama, gezi, spor ve eğlence imkânları sağlayan, onlara turizmle ilgili bilgiler veren seyahat acentalarının niteliklerini, kuruluşlarını ve çalışma esaslarını düzenler.\n\n#### Seyahat Acentalarının Gruplandırılması\nKanuna göre seyahat acentaları gördükleri hizmetin kapsamına göre üç gruba ayrılır:\n* A Grubu Seyahat Acentası: Kanunda belirtilen tüm seyahat acentalığı hizmetlerini eksiksiz yerine getirebilen, yurt içi ve yurt dışı paket turlar düzenleme, uçak ve diğer ulaşım araçlarının biletlerini kesme hakkına sahip tam yetkili acentalardır.\n* B Grubu Seyahat Acentası: Uluslararası kara, deniz ve hava ulaştırma araçlarının biletlerini satan ve A grubu seyahat acentalarının düzenledikleri turların biletlerini satan acentalardır. Bağımsız olarak paket tur düzenleyemezler.\n* C Grubu Seyahat Acentası: Yalnızca Türk vatandaşları için yurt içi turlar düzenleyen acentalardır. Uluslararası tur düzenleme veya yurt dışından turist getirme yetkileri yoktur.\n* Geçici Acentalık: A grubu seyahat acentaları, yalnızca hac ve umre seferleri gibi belirli ve geçici organizasyonlar için Bakanlıktan izin alarak geçici şube veya büro açabilirler.\n\n#### Acenta Kuruluş Şartları, Teminatlar ve İsim Hakkı\nBir seyahat acentasının faaliyete geçebilmesi için Kültür ve Turizm Bakanlığından İşletme Belgesi alması zorunludur. Belge alabilmek için ticaret siciline kayıtlı bir şirket olmak, Türkiye Seyahat Acentaları Birliği üyesi olmak ve Bakanlık adına nakit veya banka teminat mektubu olarak teminat yatırmak şarttır. \n* Teminatın amacı, tüketicinin tur sırasında acenta kusuruyla uğrayacağı zararları, mahkeme ilamlarını ve kamu alacaklarını güvence altına almaktır.\n* Acenta unvanı ve isim hakkı: Bir seyahat acentası unvanı, Türkiye genelinde daha önce tescil edilmiş başka bir acenta unvanıyla iltibas yani karışıklık yaratacak şekilde benzer veya aynı olamaz. Acenta unvanının devri ancak Bakanlığın onayı ile mümkündür.\n\n#### Acentanın Asli Görevleri ve Rehber Bulundurma Zorunluluğu\n1618 Sayılı Kanun'a göre tur düzenleme, transfer yapma ve bilet satma yetkisi münhasıran seyahat acentalarına aittir. Acenta olmayan kişi ve kuruluşların tur düzenlemesi kanunen yasaktır ve kaçak acentalık faaliyeti sayılır.\n* Kanunun amir hükmüne göre seyahat acentaları, düzenledikleri turlarda ve transferlerde Bakanlık onaylı ruhsatnamesine sahip meslek icra eden profesyonel turist rehberi bulundurmak zorundadır. Turist rehberi bulundurulmaması ağır idari para cezası ve faaliyetten men yaptırımı doğurur.\n\n#### İdari Yaptırımlar ve Belge İptali\nAcentaların mevzuata aykırı hareket etmesi durumunda kademeli yaptırımlar uygulanır:\n* Uyarma: Acenta yöneticilerinin mevzuat hükümlerine aykırı hafif kusurlarında Bakanlıkça verilir.\n* Para Cezası: Belirtilen yükümlülüklerin yerine getirilmemesi, rehbersiz tur yapılması veya yanıltıcı tanıtım durumlarında uygulanır.\n* Belgenin Geçici Olarak Geri Alınması: Belirli sürelerle acentanın faaliyetinin durdurulmasıdır.\n* Belgenin İptali: Acentanın iflas etmesi, teminatını süresi içinde yenilememesi, Bakanlıktan izin almadan unvanını veya adresini değiştirmesi, üst üste ağır disiplin cezaları alması veya kaçak acentalık faaliyetine aracılık etmesi hallerinde işletme belgesi Bakanlıkça tamamen iptal edilir. Belgesi iptal edilen acenta sahipleri belirli süre boyunca yeniden acenta açamazlar.\n\n#### TÜRSAB (Türkiye Seyahat Acentaları Birliği)\n1618 Sayılı Kanun ile kurulmuş, kamu kurumu niteliğinde bir meslek kuruluşudur. Türkiye'deki tüm seyahat acentalarının TÜRSAB'a üye olması kanuni zorunluluktur; TÜRSAB üyeliği olmadan Bakanlıktan acenta işletme belgesi alınamaz. TÜRSAB'ın organları: Genel Kurul, Yönetim Kurulu, Denetim Kurulu ve Disiplin Kurulu'dur. Yönetim Kurulu seçimleri iki yılda bir yapılır.\n\n---\n\n### B. 2634 Sayılı Turizmi Teşvik Kanunu\nBu kanunun temel amacı, turizm sektörünü düzenlemek, geliştirmek, dinamik bir yapıya kavuşturmak ve turizm yatırımlarına devlet eliyle teşvikler ve kolaylıklar sağlamaktır.\n\n#### Temel Tanımlar ve İdare\n* Kültür ve Turizm Koruma ve Gelişim Bölgeleri (KTKGB): Tarihi, kültürel ve doğal değerlerin yoğunlaştığı, turizm potansiyeli yüksek olan ve sınırları Cumhurbaşkanı Kararı ile ilan edilen alanlardır.\n* Turizm Merkezleri: Kültür ve turizm koruma ve gelişim bölgeleri içinde veya dışında, öncelikle geliştirilmesi öngörülen ve yine Cumhurbaşkanı Kararı ile tespit edilen alanlardır.\n* Bakanlık: Kültür ve Turizm Bakanlığı'dır. Bu bölgelerde her ölçekteki imar planlarını yapma, yaptırma, re'sen onaylama ve tadil etme yetkisi doğrudan Kültür ve Turizm Bakanlığı'na aittir.\n\n#### Taşınmaz Tahsisleri ve Teşvik Mekanizmaları\nHazineye, Orman Genel Müdürlüğü'ne veya kamu kurumlarına ait taşınmazlar, turizm yatırımı yapılmak amacıyla Kültür ve Turizm Bakanlığı tarafından yerli ve yabancı yatırımcılara tahsis edilebilir.\n* Tahsis Süresi: Turizm amaçlı taşınmaz tahsisleri en fazla kırk dokuz yıl süreyle yapılır. Yatırımcı tahsis süresi boyunca irtifak hakkı tesis eder ve kira öder.\n* Orman Arazilerinde Tahsis: Orman vasıflı alanların tahsisinde, tahsis edilen alanın inşaat taban alanı için belirli sınırlamalar uygulanır; doğal dokunun ve ağaç varlığının korunması zorunludur.\n* Sağlanan Ayrıcalıklar: Turizm belgeli işletmelere elektrik, su ve doğalgaz ücret tarifelerinde indirim ve öncelik uygulanır; haberleşme tesislerinde kolaylık sağlanır; alkollü içki satışı ve sunumunda ruhsat kolaylığı verilir; yabancı personel ve uzman çalıştırma hakkı belirli kotalar dahilinde tanınır.\n\n#### Turizm Belgeleri: Yatırım Belgesi ve İşletme Belgesi\n2634 Sayılı Kanun'a göre iki tür belge bulunur:\n* Turizm Yatırımı Belgesi: Henüz inşaat aşamasında olan veya projelendirilen tesislere, mevzuatta aranan nitelikleri sağlayacaklarının taahhüt edilmesi üzerine verilen geçici süreli belgedir. Yatırımcıya teşviklerden, vergi indirimlerinden ve arsa tahsisinden yararlanma hakkı tanır.\n* Turizm İşletmesi Belgesi: İnşaatı tamamlanmış, tefriş edilmiş, faaliyete hazır hale gelmiş ve Bakanlık denetim kontrolörlerince incelenerek uygun bulunmuş tesislere verilen nihai çalışma belgesidir.\n\n---\n\n### C. 2863 Sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu\nTarih öncesi ve tarihi devirlere ait bilim, kültür, din ve güzel sanatlarla ilgili bulunan yer üstünde, yer altında veya su altındaki bütün taşınır ve taşınmaz varlıkları korumayı amaçlar. Kanuna göre Türkiye sınırları içindeki tüm kültür ve tabiat varlıkları **Devlet Malı** niteliğindedir.\n\n#### Temel Kavramlar ve Ayrım Çapaları\n* Sit Alanı: Tarih öncesinden günümüze kadar gelen çeşitli medeniyetlerin ürünü olup, yaşadıkları devirlerin sosyal, ekonomik, mimari ve kültürel özelliklerini yansıtan kent ve kent kalıntıları, kültür varlıklarının yoğun olduğu alanlar ve tabiat varlıklarıdır. Kanunumuza göre yalnızca dört tür sit alanı vardır: Arkeolojik Sit, Kentsel Sit, Tarihî Sit ve Doğal Sit.\n* Koruma Bölge Kurulları: Taşınmaz kültür varlıklarını tescil eden, sit alanlarının sınırlarını ve koruma derecelerini belirleyen, bu alanlarda yapılacak her türlü inşaat, kazı ve onarım projelerine izin veren yetkili bilimsel ve idari kurullardır.\n* Koruma Yüksek Kurulu: Bölge kurulları arasındaki görüş ayrılıklarını gideren, ilke kararları alan en üst kuruldur.\n* Bildirim Zorunluluğu: Taşınır veya taşınmaz bir kültür varlığı bulan veya yerini bilen kimse, en geç üç gün içinde en yakın müze müdürlüğüne veya köyde muhtara, diğer yerlerde mülki idare amirine haber vermek zorundadır.\n* Define Arama: Kültür ve tabiat varlığı bulunmayan yerlerde define aramak için mülki amirlikten izin alınması şarttır. Ancak sit alanlarında ve tescilli mezarlıklarda kesinlikle define arama ruhsatı verilemez.\n\n---",
         "sentences": [
           {
@@ -33589,6 +35797,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "Turizm tesislerinde uygulanacak fiyat tarifesi Kültür ve Turizm Bakanlığı tarafından belirlenir/onaylanır (TURİZM MEVZUATI - konu arkası, s.11).\n\n💡 Hafıza İpucu: Fiyat tarifesinin de mührü Bakanlık'ta.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q015",
+            "subtopicId": "tm_2",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Aşağıdakilerden hangisi turizm ile doğrudan ilişkili kanunlardan biri değildir?",
+            "options": [
+              "A) 6831 sayılı Orman Kanunu",
+              "B) 6326 sayılı Turist Rehberliği Meslek Kanunu",
+              "C) 4848 sayılı Kültür ve Turizm Bakanlığının Teşkilat ve Görevleri Hakkındaki Kanun",
+              "D) 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu",
+              "E) 2634 sayılı Turizmi Teşvik Kanunu"
+            ],
+            "correctIndex": 0,
+            "explanation": "6326, 4848, 1618 ve 2634 sayılı kanunlar doğrudan turizm ve kültür mevzuatının temel yasalarıdır; 6831 sayılı Orman Kanunu ise ormancılık mevzuatına aittir (2026 Ağustos Mesleğe Kabul B Grubu, S. 15).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_MEV-001",
+            "subtopicId": "tm_2",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Türkiye'de turizm bölgeleri, turizm alanları ve turizm merkezlerinin tespiti, planlanması ve turizm yatırımcılarına kamu arazisi tahsisini düzenleyen temel yasa hangisidir?",
+            "options": [
+              "A) 1618 sayılı Kanun",
+              "B) 2634 sayılı Turizmi Teşvik Kanunu",
+              "C) 6326 sayılı Kanun",
+              "D) 2863 sayılı Kanun",
+              "E) 6502 sayılı Kanun"
+            ],
+            "correctIndex": 1,
+            "explanation": "1982 tarihli 2634 sayılı Turizmi Teşvik Kanunu, turizm yatırım ve işletmelerinin desteklenmesi, arazi tahsisleri ve turizm merkezlerinin ilanını düzenler. (B-Turizm_Mevzuati 002 MALI 2026 AGUSTOS.pdf, s.5)\n\n💡 Hafıza İpucu: 2634 = TURİZMİ TEŞVİK KANUNU (Arazi tahsisi ve turizm bölgeleri).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -33598,7 +35838,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-mevzuati",
         "order": 3,
         "title": "Turizm Yatırımları ve Tesis Türleri",
-        "officialQuestionCount": 68,
+        "officialQuestionCount": 70,
         "lectureContent": "## 3. Alt Başlık: Yatırımlar ve Tesisler Mevzuatı\n\nTurizm işletmelerinin hangi fiziki ve hizmet kalitesi standartlarını karşılaması gerektiği, Turizm Tesislerinin Nitelikleri Yönetmeliği ile belirlenmiştir.\n\n### Konaklama Tesisleri Türleri ve Asgari Nitelikleri\nKonaklama tesisleri, asli fonksiyonu geceleme olan tesislerdir:\n* Oteller: En az on odalı olan, bir yıldızdan beş yıldıza kadar derecelendirilen tesislerdir. Yıldız sayısı arttıkça asgari oda büyüklükleri, asansör zorunluluğu, çok amaçlı salonlar, yüzme havuzları, yangın güvenlik sistemleri ve personel niteliği katı kurallara bağlanır.\n* Moteller: Karayolu güzergâhında bulunan, otoparkı doğrudan odalarla bağlantılı olan, motorlu araçlarıyla seyahat edenlerin ihtiyaçlarını karşılayan en az on odalı tesislerdir. Moteller en fazla iki katlı inşa edilir.\n* Tatil Köyleri: Doğal güzellikler içinde, açık alanları geniş, spor, animasyon ve eğlence imkânları yüksek, en fazla üç katlı dağınık yerleşim düzenindeki en az altmış odalı tesislerdir. Dört ve beş yıldızlı olarak belgelendirilirler.\n* Pansiyonlar: Yönetimi basit, yemek ve kahvaltı hizmeti verebilen veya müşterilerin kendi yemeklerini hazırlayabileceği en az beş odalı küçük konaklama tesisleridir.\n* Apart Oteller: Mesken veya villa tarzında düzenlenmiş, müşterilerin kendi yemeklerini pişirebilmeleri için tam teşekküllü mutfak donanımına sahip ünitelerden oluşan konaklama tesisleridir.\n* Kampingler: Karayolu güzergâhlarında veya turistik yörelerde kurulan, çadır, karavan gibi taşınabilir barınma araçlarıyla gelenlerin geceleme, yeme-içme ve temizlik ihtiyaçlarını karşılayan açık hava tesisleridir.\n* Butik Oteller: En az on, en fazla altmış odası bulunan; yüksek standartta özgün mimari, özel tefrişat, antik mobilyalar ve kişiye özel lüks servis sunan ayrıcalıklı otellerdir.\n\n### Sağlık ve Kırsal Turizm Tesisleri\n* Termal Tesisler: Bünyesinde doğal sıcak su, maden suyu, çamur veya gaz banyoları bulunduran, fizik tedavi ve rehabilitasyon uzmanı hekim denetiminde hizmet veren şifa tesisleridir.\n* Çiftlik Evleri ve Köy Evleri: Kırsal turizmi desteklemek amacıyla yöresel mimariyle inşa edilmiş, çiftlik faaliyetlerinin deneyimlendiği tesislerdir.\n\n### Belgelendirme Süreci ve Denetim\nBir turizm tesisi açılırken önce yerel belediyeden İşyeri Açma ve Çalışma Ruhsatı alır. Ardından Kültür ve Turizm Bakanlığı'na başvurarak Turizm İşletmesi Belgesi talep eder. Bakanlık kontrolörleri tesisi inceler; kriterler sağlanmışsa belge verilir ve plaket asılır. Yapılan denetimlerde asgari niteliklerini kaybeden tesislerin yıldızları düşürülebilir veya işletme belgeleri doğrudan iptal edilebilir.\n\n---",
         "sentences": [
           {
@@ -33838,6 +36078,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Fiyat tarifelerinde belirtilmesi şartıyla mini bar ve oda servisi hizmetleri için müşteriden farklı fiyat talep edilebilir (TURİZM MEVZUATI - konu arkası, s.10).\n\n💡 Hafıza İpucu: Mini bar farkı ancak tarifede yazarsa geçerli.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q003",
+            "subtopicId": "tm_3",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Aşağıdakilerden hangisi konaklama işletmelerinde turistlere sunulan pansiyon türlerinden biri değildir?",
+            "options": [
+              "A) Oda kahvaltı",
+              "B) Her şey dâhil",
+              "C) Tam",
+              "D) Yarım",
+              "E) Oda servisi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Oda kahvaltı (BB), yarım pansiyon (HB), tam pansiyon (FB) ve her şey dâhil (AI) konaklama işletmelerinde sunulan pansiyon türleridir; oda servisi (room service) ise bir pansiyon türü değil, odaya yiyecek-içecek servis hizmetidir (2026 Ağustos Mesleğe Kabul B Grubu, S. 3).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_MEV-003",
+            "subtopicId": "tm_3",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik'e göre, en az 80 odalı olması gereken, bünyesinde açık/kapalı yüzme havuzu, alakart restoran ve çok amaçlı toplantı salonu bulundurması zorunlu olan otel sınıfı hangisidir?",
+            "options": [
+              "A) 3 Yıldızlı Otel",
+              "B) 4 Yıldızlı Otel",
+              "C) 5 Yıldızlı Otel",
+              "D) Butik Otel",
+              "E) Tatil Köyü"
+            ],
+            "correctIndex": 1,
+            "explanation": "Yönetmelikte 4 yıldızlı oteller için asgari kapasite 80 oda, 5 yıldızlı oteller için ise en az 120 oda şartı aranır. (B-Turizm_Mevzuati 002 MALI 2026 AGUSTOS.pdf, s.28)\n\n💡 Hafıza İpucu: 4 YILDIZ = EN AZ 80 ODA; 5 YILDIZ = EN AZ 120 ODA.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -33847,7 +36119,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-mevzuati",
         "order": 4,
         "title": "Tüketici Hakları ve Sözleşmeler",
-        "officialQuestionCount": 67,
+        "officialQuestionCount": 68,
         "lectureContent": "## 4. Alt Başlık: Tüketici Hakları ve Paket Tur Mevzuatı\n\nTurizm sektöründe tüketici ile işletmeler arasındaki hukuki denge, 6502 Sayılı Tüketicinin Korunması Hakkında Kanun ve buna bağlı olarak yürürlüğe konulan Paket Tur Sözleşmeleri Yönetmeliği ile korunur.\n\n### Paket Tur Sözleşmesinin Tanımı ve Unsurları\nPaket tur; ulaştırma, konaklama ve bunlara bağlı olmayan diğer turizm hizmetlerinden en az ikisinin birlikte, her şey dahil tek bir fiyatla satıldığı veya satım taahhüdü yapılan ve hizmeti yirmi dört saatten uzun süren veya gecelik konaklamayı içeren sözleşmelerdir.\n* Sözleşme Şekli: Paket tur sözleşmesinin tüketiciye yazılı olarak veya kalıcı veri saklayıcısı (kısa mesaj, e-posta, internet) ile verilmesi ve bir örneğinin teslim edilmesi zorunludur.\n\n### Sözleşme Öncesi Bilgilendirme Yükümlülüğü\nSeyahat acentası, tüketici sözleşmeyi imzalamadan önce ona paket turun tüm ayrıntılarını içeren bir broşür veya bilgilendirme formu vermek zorundadır. Bu formda; hareket ve dönüş tarihleri, saatleri, ulaşım araçlarının türü, konaklama tesisinin yeri ve niteliği, dahil olan ve olmayan yemekler, varsa vize gereksinimleri ve toplam tur fiyatı açıkça yer almalıdır.\n\n### Sözleşmenin Değiştirilmesi, Fiyat Artışı ve Fesih Hakları\n* Fiyatın Değiştirilmesi: Sözleşmede açıkça belirtilmiş olması kaydıyla; döviz kurlarında olağanüstü dalgalanma, yakıt giderlerinde beklenmeyen artış veya liman, havalimanı harçlarındaki artışlar nedeniyle fiyat değiştirilebilir. Ancak hareket tarihinden önceki son yirmi gün içinde acenta kesinlikle fiyat artıramaz.\n* Esaslı Sözleşme Değişikliği: Acenta turun kalkış gününden önce tur programında esaslı bir değişiklik yaparsa, tüketici bu değişikliği kabul edebilir veya hiçbir kesinti ödemeksizin sözleşmeden dönerek ödediği tüm parayı on dört gün içinde faizsiz ve eksiksiz geri alabilir.\n* Turun Acenta Tarafından İptali: Acenta, turun gerçekleşmesi için gereken asgari katılımcı sayısına ulaşılamaması nedeniyle turu iptal edebilir. Ancak bu durumu, sözleşmede belirtilen süre içinde ve en geç turun başlamasından yirmi gün önce (kısa turlarda kırk sekiz saat önce) tüketiciye bildirmek zorundadır; aksi takdirde tüketiciye tazminat ödemekle yükümlü olur.\n* Tüketicinin Sözleşmeyi Fesih Hakkı:\n  * Tüketici, turun başlamasından en az otuz gün önce fesih bildiriminde bulunursa, ödenmesi zorunlu vergi ve harçlar gibi yasal yükümlülükler hariç hiçbir kesinti yapılmaksızın tüm parası derhal iade edilir.\n  * Tura otuz günden daha az bir süre kala yapılan fesihlerde, sözleşmede belirtilen kademeli kesinti oranları uygulanır.\n  * Mücbir Sebepler (Deprem, savaş, salgın hastalık, olağanüstü hal gibi durumlarda): Tüketicinin gerekli özeni göstermesine rağmen öngöremediği ve engelleyemediği bu hallerde, fesih süresine bakılmaksızın zorunlu kesintiler hariç tüm bedel iade edilir.\n\n### Zorunlu Paket Tur Sigortası\n1618 Sayılı Kanun'un on ikinci maddesi uyarınca, paket tur düzenleyen seyahat acentalarının zorunlu paket tur sigortası yaptırması kanuni mecburiyettir. Bu sigorta; acentanın iflası, taahhüdünü yerine getirememesi veya hizmetin kusurlu sunulması hallerinde tüketicinin ödediği tur bedelini ve tur sırasında acentanın iflas etmesi durumunda tüketicinin yurda geri dönüş masraflarını teminat altına alır. Turist rehberinin kastı veya ihmali sonucu doğan zararlar da acentanın hukuki sorumluluğunu doğurur.\n\n---",
         "sentences": [
           {
@@ -34136,6 +36408,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Paket tur satın almak isteyen bir tüketici seyahat acentesine müracaat eder (TURİZM MEVZUATI - konu arkası, s.13).\n\n💡 Hafıza İpucu: Paket turun kapısı: seyahat acentesi.",
             "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_MEV-004",
+            "subtopicId": "tm_4",
+            "courseId": "turizm-mevzuati",
+            "questionText": "6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Paket Tur Sözleşmeleri Yönetmeliği'ne göre, tüketicinin haklı bir gerekçe göstermeksizin ve kesintisiz paket turdan fesih hakkını kullanabileceği asgari süre tura kaç gün kalaya kadardır?",
+            "options": [
+              "A) 7 gün",
+              "B) 15 gün",
+              "C) 30 gün",
+              "D) 45 gün",
+              "E) 60 gün"
+            ],
+            "correctIndex": 2,
+            "explanation": "Paket tur başlamadan en az 30 gün önce yapılan fesih bildirimlerinde, vergi/harç gibi yasal zorunlu kesintiler hariç hiçbir tazminat ödenmeksizin bedel iade edilir. (B-Turizm_Mevzuati 002 MALI 2026 AGUSTOS.pdf, s.42)\n\n💡 Hafıza İpucu: PAKET TURDA 30 GÜN KURALI: 30 gün önceden kesintisiz iade hakkı.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -34145,7 +36433,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "turizm-mevzuati",
         "order": 5,
         "title": "Turizm Örgütlenmeleri",
-        "officialQuestionCount": 66,
+        "officialQuestionCount": 67,
         "lectureContent": "## 5. Alt Başlık: Turizm Örgütleri\n\nTurizm sektörü ulusal ve uluslararası ölçekte kamu ve sivil toplum kuruluşlarının işbirliğiyle yönetilir.\n\n### A. Ulusal Turizm Örgütleri\n* Kültür ve Turizm Bakanlığı: Türkiye'de turizm politikasını belirleyen, koruma ve gelişim bölgelerini ilan eden, yatırımları tahsis eden, tesisleri ve seyahat acentalarını belgelendiren ve denetleyen en üst merkezi idari kamu kurumudur.\n* TGA (Türkiye Turizm Tanıtım ve Geliştirme Ajansı): 7183 Sayılı Kanun ile 2019 yılında kurulmuştur. Türkiye'nin turizm hedeflerine ulaşması, turizm potansiyelinin dünyada tanıtılması ve pazarlanması amacıyla faaliyet gösterir. Finansmanını turizm işletmelerinden alınan turizm payları ve genel bütçeden aktarılan kaynaklarla sağlar. Yönetiminde özel sektör ve Bakanlık temsilcileri birlikte yer alır.\n* TÜRSAB (Türkiye Seyahat Acentaları Birliği): Seyahat acentalarının üye olduğu kamu kurumu niteliğinde meslek birliğidir.\n* TUREB (Türkiye Turist Rehberleri Birliği): 6326 Sayılı Meslek Kanunu ile kurulan, profesyonel turist rehberlerinin ve rehber odalarının çatı örgütü olan kamu kurumu niteliğindeki meslek kuruluşudur.\n* TÜROFED (Türkiye Otelciler Federasyonu) ve TÜROB (Türkiye Otelciler Birliği): Konaklama işletmelerini temsil eden mesleki sivil toplum kuruluşlarıdır.\n* TYD (Türkiye Turizm Yatırımcıları Derneği): Büyük ölçekli turizm yatırımcılarını çatısı altında toplayan kuruluştur.\n\n### B. Uluslararası Turizm Örgütleri\n* UNWTO (Birleşmiş Milletler Dünya Turizm Örgütü): Birleşmiş Milletler'in turizm alanındaki uzmanlaşmış kuruluşudur. Merkezi İspanya'nın başkenti **Madrid**'dedir. Sürdürülebilir, evrensel olarak erişilebilir ve sorumlu turizmi teşvik eder; Küresel Turizm Ahlak İlkeleri'ni yayımlamıştır.\n* WTTC (Dünya Seyahat ve Turizm Konseyi): Merkezi Londra'dadır. Turizm sektörünün en büyük özel sektör aktörlerini, hava yollarını ve küresel otel zincirlerini bir araya getiren uluslararası iş konseyidir.\n* IATA (Uluslararası Hava Taşımacılığı Birliği): Merkezi Kanada'nın Montreal kentinde bulunan, dünya genelindeki havayolu şirketlerinin yüzde sekseninden fazlasını temsil eden, biletleme, uçuş güvenliği ve tarife standartlarını belirleyen özel kuruluştur.\n* ICAO (Uluslararası Sivil Havacılık Örgütü): Birleşmiş Milletler'e bağlı hükümetler arası havacılık örgütüdür; hava sahası güvenliği ve sivil havacılık hukuku standartlarını koyar.\n* UNESCO (Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü): Merkezi Paris'tedir. Dünya Kültürel ve Doğal Mirasının Korunmasına Dair Sözleşme kapsamında Dünya Miras Listesi'ni yönetir.\n* IH&RA (Uluslararası Otel ve Restoranlar Birliği): Dünya genelindeki konaklama ve ağırlama sektörünü temsil eden kuruluştur.\n\n---\n\n### Sınav Refleks Tablosu: Mevzuat Çeldiricileri ve Kanun Çapaları\n\n| Konu veya Çeldirici Çift | Kanuni Hüküm ve Kesin Ayrım | Sınavın Test Ettiği Yön |\n| :--- | :--- | :--- |\n| **Acenta Türleri (A vs B vs C)** | Bağımsız yurt dışı/yurt içi tur = **A Grubu**; Sadece bilet ve A turu satışı = **B Grubu**; Sadece Türk vatandaşlarına yurt içi tur = **C Grubu**. | Faaliyet ve yetki alanı |\n| **Acenta Zorunluluğu** | Transfer ve turlarda çalışma kartlı profesyonel rehber bulundurmak **zorunludur**. | Yasal sorumluluk ve ceza |\n| **Paket Tur Tanımı** | En az **iki unsur** (ulaşım, konaklama vb.), tek fiyat ve süresi **yirmi dört saatten uzun** veya gecelik konaklamalı olmalıdır. | Süre ve bileşen şartı |\n| **Fiyat Artış Sınırı** | Tura **yirmi gün kala** acenta hiçbir gerekçeyle fiyat artıramaz. | Zaman eşiği (20 gün) |\n| **Tüketici İptal Hakkı** | Tura **otuz gün kala** bildirimde tüketici yasal harçlar hariç kesintisiz tüm parasını alır. | Zaman eşiği (30 gün) |\n| **Acenta Tur İptal Süresi** | Yetersiz katılım gerekçesiyle iptal en geç hareketten **yirmi gün önce** bildirilmelidir. | Acenta bildirim süresi |\n| **Mücbir Sebep İptali** | Deprem, savaş, olağanüstü hal durumlarında 30 gün şartı aranmaz; kesintisiz iade yapılır. | Kusursuz fesih kuralı |\n| **Turizm Tahsis Süresi** | Kamu taşınmazları yatırımcılara en fazla **kırk dokuz yıl** süreyle tahsis edilir. | Maksimum tahsis süresi |\n| **Sit Türleri Sınav Tuzağı** | Yalnızca **Arkeolojik, Kentsel, Tarihî ve Doğal Sit** vardır. Kırsal veya Endüstriyel sit yoktur. | Mevzuat terminolojisi |\n| **Kültür Varlığı Bildirimi** | Bulunan taşınır veya taşınmaz varlık en geç **üç gün içinde** müzeye veya mülki amire bildirilir. | Bildirim süresi (3 gün) |\n| **UNWTO Genel Merkezi** | Merkezi **Madrid (İspanya)**'dedir; Paris veya Cenevre çeldiricidir. | Merkez şehir bilgisi |\n| **Kelsen Piramidi Kuralı** | Alt kural üst kurala aykırı olamaz; Anayasa en üstündür. | Normlar hiyerarşisi |",
         "sentences": [
           {
@@ -34440,6 +36728,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Kültür ve Turizm Bakanlığından işletme belgesi almadan ve TÜRSAB'a üye olmadan seyahat acenteliği yapılamaz; işletme belgesini Bakanlık verir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.53).\n\n💡 Hafıza İpucu: Belgenin mührü hep Bakanlık'ta.",
             "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_MEV-005",
+            "subtopicId": "tm_5",
+            "courseId": "turizm-mevzuati",
+            "questionText": "1618 sayılı Kanun gereğince Türkiye'deki tüm seyahat acentalarının üye olmak zorunda olduğu kamu kurumu niteliğindeki meslek kuruluşu hangisidir?",
+            "options": [
+              "A) TÜROB",
+              "B) TÜRSAB",
+              "C) TUREB",
+              "D) TÜROFED",
+              "E) TİKVE"
+            ],
+            "correctIndex": 1,
+            "explanation": "Türkiye Seyahat Acentaları Birliği (TÜRSAB), seyahat acentalarının mesleki örgütüdür ve acenta işletme belgesi almak için zorunludur. (B-Turizm_Mevzuati 002 MALI 2026 AGUSTOS.pdf, s.10)\n\n💡 Hafıza İpucu: TÜRSAB = SEYAHAT ACENTALARI BİRLİĞİ (1618 Sayılı Kanun).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -34450,7 +36754,7 @@ export const COURSES_DATA: Course[] = [
     "id": "rehberlik-mevzuati",
     "title": "Turist Rehberliği Meslek Mevzuatı ve Etiği",
     "slug": "turist-rehberligi-meslek-mevzuati",
-    "totalOfficialQuestions": 366,
+    "totalOfficialQuestions": 373,
     "description": "Turist Rehberliği Meslek Kanunu (6326), Kurumsal Yapı (TUREB ve Odalar), Hak ve Yükümlülükler, Meslek Etiği.",
     "iconName": "ShieldCheck",
     "isAvailable": true,
@@ -34460,7 +36764,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "rehberlik-mevzuati",
         "order": 1,
         "title": "Turist Rehberliği Meslek Kanunu",
-        "officialQuestionCount": 107,
+        "officialQuestionCount": 109,
         "lectureContent": "## 1. Alt Başlık: Turist Rehberliği Meslek Kanunu\n\nAltı bin üç yüz yirmi altı sayılı Turist Rehberliği Meslek Kanunu, yirmi iki Haziran iki bin on iki tarihinde yürürlüğe girerek Türkiye'de rehberlik mesleğinin icrasını, mesleğe kabul koşullarını, meslek kuruluşlarının işleyişini ve denetim mekanizmalarını tek bir yasal çatı altında toplamıştır. Kanun koyucunun temel amacı; mesleğe kabul ve mesleğin icrasına ilişkin usul ve esasları belirlemek, turist rehberliği hizmetlerinin kaliteli, güvenilir ve uluslararası standartlara uygun biçimde sunulmasını temin etmektir.\n\nKanunun tanımlar maddesi, mesleki sınavların ve kavramsal çerçevenin en hassas omurgasıdır. Kanuna göre turist rehberi; mesleğe kabul edilerek turist rehberliği hizmetini sunma hak ve yetkisine sahip olan gerçek kişidir. Kanunda özellikle tüzel kişilerin, şirketlerin veya derneklerin rehberlik sıfatı taşıyamayacağı, bu hakkın yalnızca gerekli eğitim ve şartları tamamlamış gerçek kişilere ait olduğu açıkça vurgulanır. Turist rehberliği hizmeti ise; seyahat acentacılığı faaliyeti niteliğinde olmamak kaydıyla, kişi veya grup hâlindeki yerli veya yabancı turistlere Türkiye'nin kültürel, tarihi, doğal ve turistik değerlerinin tanıtılması, bu doğrultuda gezi programının yönetilmesi ve turistlere refakat edilmesi faaliyetidir.\n\nRehberlik mesleğinde iki temel resmi belge bulunur ve bu iki belgenin birbirinden farkı meslek hayatının en kritik ayrımıdır:\n\nRuhsatname, mesleğe kabul şartlarını başarıyla tamamlayan adaya Kültür ve Turizm Bakanlığı tarafından düzenlenen resmi belgedir. Ruhsatname bir kez alınır ve kişinin mesleğe giriş tapusu hükmündedir. Bir adayın ruhsatname alabilmesi; mesleğe kabul koşullarını taşıması, Bakanlıkça yapılan incelemenin olumlu sonuçlanması ve Bakanlık onayının gerçekleşmesiyle mümkündür. Ancak ruhsatname tek başına sahaya çıkıp fiilen turist gezdirmek için yeterli değildir.\n\nÇalışma kartı, ruhsatname sahibi bir rehberin mesleğini fiilen icra edebilmesi için bağlı olduğu meslek odası aracılığıyla her yıl vize ettirerek aldığı süreli belgedir. Çalışma kartı yıllık olarak düzenlenir ve üzerinde geçerli olduğu yıl açıkça yer alır. İşte bu noktada kanun iki rehber statüsü tanımlar:\n\nEylemli turist rehberi, çalışma kartı bulunan ve mesleğini fiilen icra etme hakkına sahip olan rehberdir. Yalnızca eylemli rehberler tura çıkabilir, müze ve ören yerlerinde profesyonel anlatım yapabilir ve bu hizmet karşılığında ücret alabilir.\n\nEylemsiz turist rehberi ise, Bakanlıktan ruhsatnamesi bulunmasına rağmen ilgili takvim yılı için çalışma kartı almamış veya kartını vize ettirmemiş olan rehberdir. Eylemsiz rehber, turist rehberi unvanını korur, meslek odası üyeliği devam eder ancak hiçbir surette fiilen rehberlik hizmeti sunamaz, tura çıkamaz. Eylemsiz bir rehberin sahada rehberlik yapması, kanun önünde çalışma kartsız rehberlik suçu oluşturur ve cezai yaptırıma tabidir.\n\nMesleğe kabul şartları kanunun üçüncü maddesinde titizlikle sıralanmıştır. Türkiye Cumhuriyeti vatandaşı olmak, başvuru tarihinde on sekiz yaşını doldurmuş bulunmak, medeni hakları kullanma ehliyetine sahip olmak ve Türk Ceza Kanunu'nda belirtilen yüz kızartıcı suçlardan veya devlet güvenliğine karşı suçlardan hüküm giymemiş olmak genel şartlardır. Mesleki ve eğitsel açıdan ise iki temel yol öngörülmüştür: Üniversitelerin turist rehberliği ön lisans, lisans veya yüksek lisans programlarından mezun olmak ya da herhangi bir alanda en az lisans düzeyinde mezuniyeti bulunup Kültür ve Turizm Bakanlığı ile Türkiye Turist Rehberleri Birliği iş birliğinde düzenlenen turist rehberliği sertifika programını başarıyla tamamlamak gereklidir.\n\nEğitim şartını tamamlayan adayın önündeki diğer aşama, yabancı dil yeterliliğidir. Adayın Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan Yabancı Dil Bilgisi Seviye Tespit Sınavı'ndan veya uluslararası geçerliliği Bakanlıkça kabul edilen eşdeğer bir sınavdan en az yetmiş beş puan düzeyinde başarı elde etmesi ya da Bakanlık denetiminde Birlik tarafından gerçekleştirilen dil yeterlik sınavını başarıyla vermesi gerekir.\n\nMesleğe kabulün sahadaki nihai basamağı ise uygulama gezisidir. Aday, Bakanlığın gözetim ve denetimi altında Birlik tarafından düzenlenen yurt içi uygulama gezisini tamamlamak ve gezi sonunda yapılacak değerlendirme sınavında başarılı olmak zorundadır. Uygulama gezisi, Türkiye'nin farklı coğrafi bölgelerini kapsayan, tarihi ve doğal miras alanlarının yerinde tecrübe edildiği zorunlu bir staj eğitimidir. Bu gezi sırasında adayın statüsü rehber adayıdır; yanında yetkili usta öğretici rehberler bulunur ve adayın tek başına bağımsız turist grubu yönetme veya anlatım yapma yetkisi bulunmaz.\n\nKanun, yetki alanı bakımından rehberleri iki temel sınıfa ayırır:\n\nÜlkesel turist rehberi, Türkiye'nin yedi coğrafi bölgesinin tamamını kapsayan uygulama gezisini ve sınavlarını tamamlayarak ruhsatnamesini alan ve Türkiye genelinde herhangi bir coğrafi sınır olmaksızın mesleğini icra etme yetkisine sahip olan rehberdir.\n\nBölgesel turist rehberi ise, yalnızca ruhsatnamesinde belirtilen belirli coğrafi bölge veya bölgeler için uygulama gezisini tamamlamış ve sadece o bölge sınırları dâhilinde turist rehberliği yapma hak ve yetkisine sahip olan rehberdir. Bölgesel bir rehberin ruhsatnamesinde yer almayan bir başka coğrafi bölgede rehberlik hizmeti sunması kanunen kesinlikle yasaktır ve ağır disiplin cezası ile idari para cezasını gerektirir.\n\nKanunun getirdiği en önemli koruyucu hükümlerden biri de taban ücret tarifesidir. Kültür ve Turizm Bakanlığı, meslek birliklerinin ve sektör temsilcilerinin görüşlerini alarak her takvim yılı için uygulanacak taban ücret tarifesini belirler ve ilan eder. Taban ücret; turist rehberine günlük tur, yarım günlük tur, paket tur veya gece turu kapsamında ödenebilecek asgari yasal ücrettir. Rehberin bu taban ücretin altında bir bedelle çalışması veya seyahat acentasının rehbere taban ücretin altında ödeme yapması kanunen yasaktır; bu kural haksız rekabeti engellemek ve mesleğin saygınlığını korumak amacıyla getirilmiştir.\n\nKanun ayrıca kaçak rehberlikle mücadeleyi devletin ve meslek kuruluşlarının ortak görevi saymıştır. Ruhsatnamesi ve geçerli çalışma kartı olmaksızın turist rehberliği hizmeti sunan kişiler hakkında valilikler ve yetkili denetim birimlerince idari para cezası uygulanır ve bu kişilerin faaliyeti derhal menedilir. Aynı şekilde, paket tur veya tur programlarında kanuna uygun belgeli turist rehberi bulundurmayan seyahat acentalarına da hem bin altı yüz on sekiz sayılı kanun hem de altı bin üç yüz yirmi altı sayılı kanun uyarınca ağır idari para cezaları tatbik edilir; eylemin tekrarı hâlinde acentanın işletme belgesinin iptaline kadar uzanan yaptırımlar devreye girer.\n\n---",
         "sentences": [
           {
@@ -34807,6 +37111,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "6326 sayılı Kanun'un 2. maddesine göre mesleğe kabul edilerek turist rehberliği hizmetini sunma hak ve yetkisine sahip olan gerçek kişiye 'turist rehberi' denilmektedir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.56).\n\n💡 Hafıza İpucu: Madde 2 = kimlik maddesi: rehberin tanımı.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q005",
+            "subtopicId": "rm_1",
+            "courseId": "rehberlik-mevzuati",
+            "questionText": "6326 sayılı Turist Rehberliği Mesleği Kanunu’nun 2. maddesine göre mesleğe kabul edilerek turist rehberliği hizmetini sunma hak ve yetkisine sahip olan gerçek kişiye “-------” denilmektedir.\n\nYukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": [
+              "A) rezervasyon görevlisi",
+              "B) turist rehberi",
+              "C) acenta temsilcisi",
+              "D) profesyonel tur sorumlusu",
+              "E) profesyonel tur uzmanı"
+            ],
+            "correctIndex": 1,
+            "explanation": "6326 sayılı Turist Rehberliği Meslek Kanunu’nun 2. maddesinde mesleğe kabul edilerek turist rehberliği hizmetini sunma hak ve yetkisine sahip gerçek kişi “turist rehberi” olarak tanımlanır (2026 Ağustos Mesleğe Kabul B Grubu, S. 5).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_REH-001",
+            "subtopicId": "rm_1",
+            "courseId": "rehberlik-mevzuati",
+            "questionText": "6326 sayılı Turist Rehberliği Meslek Kanunu'na göre ruhsatname sahibi olup mesleği fiilen icra edebilmek için odadan alınan ve her yıl vizelenmesi gereken belge hangisidir?",
+            "options": [
+              "A) Çalışma Kartı (Eylemli Rehber Kartı)",
+              "B) Rehberlik Ruhsatnamesi",
+              "C) Acenta Temsil Belgesi",
+              "D) Tur Hareket Onay Belgesi",
+              "E) TUREB Yetki Beratı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Ruhsatname ömür boyu geçerli mesleki yeterliliktir; ancak tura çıkıp mesleği icra etmek için ilgili odadan o yıla ait 'Çalışma Kartı' alınarak eylemli rehber olunmalıdır. (MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf, s.15)\n\n💡 Hafıza İpucu: RUHSATNAME = HAK KAZANMA; ÇALIŞMA KARTI = EYLEMLİ REHBERLİK (Yıllık vizeli).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -34816,7 +37152,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "rehberlik-mevzuati",
         "order": 2,
         "title": "Kurumsal Yapı (TUREB ve Odalar)",
-        "officialQuestionCount": 102,
+        "officialQuestionCount": 103,
         "lectureContent": "## 2. Alt Başlık: Kurumsal Yapı (TUREB ve Odalar)\n\nTurist rehberliği mesleği, Anayasa'nın yüz otuz beşinci maddesinde tanımlanan kamu kurumu niteliğindeki meslek kuruluşları modeliyle teşkilatlanmıştır. Bu anayasal zemin, rehberlik meslek kuruluşlarına kamu tüzel kişiliği, idari ve mali özerklik, üyeleri üzerinde disiplin kovuşturması yapma ve mesleki kuralları belirleme yetkisi tanır. Teşkilat şeması iki basamaklıdır: Tabanı bölgesel veya il bazında örgütlenen meslek odaları, tepe çatıyı ise Ankara'da genel merkezi bulunan Türkiye Turist Rehberleri Birliği oluşturur.\n\nRehberlik meslek odaları, kanunla belirlenen üye sayısına ulaşılan illerde kurulur. Türkiye genelinde dengeli bir kurumsal dağılım sağlamak amacıyla odalar iki kategoriye ayrılmıştır: İl bazlı kurulan yedi meslek odası ve birden fazla ili bünyesinde toplayan altı bölgesel meslek odası olmak üzere toplam on üç oda faaliyet göstermektedir. Bu on üç oda, Türkiye coğrafyasının tamamındaki rehberlerin mesleki sicilini ve idaresini eksiksiz kapsar. Kendi yerleşim yerinde bağımsız bir oda bulunmayan bir turist rehberi, kanun gereği ikametine en yakın ilde kurulu olan odaya üye olmak zorundadır. Burada kanunun altını önemle çizdiği temel kural şudur: Bir turist rehberi aynı anda birden fazla odaya üye olamaz. Oda üyeliği tekil ve zorunludur.\n\nBir meslek odasının yönetim ve karar organları dört temel kuruldan meydana gelir:\n\nGenel kurul, odanın en yetkili karar organıdır ve odaya kayıtlı tüm asil üyelerin katılımıyla toplanır. Odanın bütçesini onaylamak, aidatları ve ücretleri karara bağlamak, yönetim, denetim ve disiplin kurullarını seçmek ve Birliğin genel kuruluna katılacak delegeleri belirlemek genel kurulun başlıca görevleridir.\n\nYönetim kurulu, genel kurul tarafından gizli oyla seçilen, odanın icra ve temsil organıdır. Odanın günlük idari işlerini yürütür, bütçeyi uygular, üyelerin sicil kayıtlarını tutar, çalışma kartı başvurularını karara bağlar ve odayı resmi makamlar önünde temsil eder.\n\nDenetim kurulu, genel kurul adına odanın gelir-gider hesaplarını, bütçe uygulamalarını ve mali defterlerini denetleyen, hazırladığı denetim raporlarını genel kurula sunan organdır.\n\nDisiplin kurulu ise, meslek etiğine, kanuna, tüzüğe veya mesleki onura aykırı davranan üyeler hakkında disiplin soruşturması yürüten ve kanunda yetkilendirildiği sınırlar dâhilinde disiplin cezalarını karara bağlayan yargı benzeri mesleki kuruldur.\n\nTeşkilatın en üst çatısı olan Türkiye Turist Rehberleri Birliği, kısaltılmış adıyla TUREB, tüzel kişiliğe sahip, kamu kurumu niteliğinde bir üst meslek kuruluşudur. TUREB; tüm meslek odaları arasında koordinasyonu sağlamak, mesleğin yurt içinde ve uluslararası alanda saygınlığını korumak, rehberlerin hak ve menfaatlerini savunmak, meslek içi eğitimleri düzenlemek ve Bakanlıkla eş güdüm içinde rehberlik sınavlarını organize etmekle yükümlüdür.\n\nTUREB'in organları da oda yapısına paralel olarak şekillenmiştir:\n\nBirlik genel kurulu, odaların yönetim kurulu başkanları ile odaların büyüklüğüne göre seçilen delegelerden oluşur. Birliğin bütçesini, çalışma programını, stratejik kararlarını onaylar ve Birlik yönetim, denetim ile disiplin kurullarını seçer.\n\nBirlik yönetim kurulu, Birlik genel kurulu tarafından seçilen başkan ve üyelerden oluşur; Birliği temsil eder, kanunla verilen görevleri yerine getirir, odalar arası uyuşmazlıkları çözümler ve merkezi projeleri yürütür.\n\nBirlik denetim kurulu, Birliğin tüm mali ve idari işlemlerini denetler.\n\nBirlik disiplin kurulu ise, meslekten geçici men ve meslekten çıkarma gibi ağır cezaları karara bağlayan veya odaların disiplin kurullarınca verilen kararlara karşı yapılan itirazları inceleyen en üst disiplin merciidir.\n\nSaha denetimleri söz konusu olduğunda, kanun üçlü bir denetim erki kurmuştur. Turist rehberliği hizmetlerinin mevzuata uygun yürütülüp yürütülmediği; Kültür ve Turizm Bakanlığı müfettişleri ve il kültür müdürlükleri personeli, TUREB denetmenleri ve ilgili meslek odası denetim görevlileri tarafından bağımsız olarak veya müştereken denetlenir. Denetimlerde rehberin çalışma kartı, kokartı, tur sözleşmesi ve grubun evrakları kontrol edilir. Acentaların meslek örgütü olan Türkiye Seyahat Acentaları Birliği, kısaltılmış adıyla TÜRSAB ise acentaların temsilcisi olup rehberler üzerinde doğrudan bir idari ya da disipliner amirlik yetkisine sahip değildir; bu iki birliğin yetki alanları kanunla kesin çizgilerle birbirinden ayrılmıştır.\n\n---",
         "sentences": [
           {
@@ -35077,6 +37413,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "6326 sayılı Turist Rehberliği Meslek Kanunu, 22.06.2012'de yürürlüğe girerek rehberlik mesleğini, TUREB'i ve meslek odalarını düzenlemiştir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.56).\n\n💡 Hafıza İpucu: 6326 REHBER: rehberlik kanunu numarası.",
             "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_REH-002",
+            "subtopicId": "rm_2",
+            "courseId": "rehberlik-mevzuati",
+            "questionText": "6326 sayılı Kanun çerçevesinde turist rehberliği meslek odalarının bir araya gelmesiyle kurulan üst çatı kuruluş hangisidir?",
+            "options": [
+              "A) TÜRSAB",
+              "B) TUREB (Turist Rehberleri Birliği)",
+              "C) İRO",
+              "D) Kültür Varlıkları Genel Müdürlüğü",
+              "E) TÜROB"
+            ],
+            "correctIndex": 1,
+            "explanation": "TUREB (Turist Rehberleri Birliği), meslek odalarının birleşmesiyle oluşturulan ve tüzel kişiliğe haiz kamu kurumu niteliğindeki üst meslek kuruluşudur. (MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf, s.19)\n\n💡 Hafıza İpucu: TUREB = REHBER ODALARININ ÜST BİRLİĞİ (Ankara merkezli).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -35086,7 +37438,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "rehberlik-mevzuati",
         "order": 3,
         "title": "Hak ve Yükümlülükler",
-        "officialQuestionCount": 105,
+        "officialQuestionCount": 107,
         "lectureContent": "## 3. Alt Başlık: Hak ve Yükümlülükler\n\nTurist rehberliği unvanını kazanmış bir meslek mensubu, bu unvanın sağladığı yasal güvenceler ve haklarla donatıldığı gibi, uymak zorunda olduğu katı yükümlülüklerle de bağlıdır. Mesleki sınavların soru havuzlarında yer alan çok sayıda senaryo, bu hak ve sorumlulukların sınırlarını doğrudan test eder.\n\nRehberin en temel yasal hakkı, kanunla belirlenmiş taban ücret tarifesinin altında kalmamak şartıyla emeğinin karşılığını eksiksiz alma hakkıdır. Rehber, çalışma kartında yazılı yabancı dillerde ve ruhsatnamesinde yer alan coğrafi sınırlar dâhilinde mesleğini özgürce icra edebilir. Ayrıca eylemli turist rehberleri, mesleki faaliyetleri esnasında Türkiye'deki tüm müze, ören yeri, saray, milli park ve anıtsal yapılara Bakanlıkça sağlanan kimlik ve kokartlarını ibraz ederek ücretsiz giriş yapma hakkına sahiptir.\n\nBuna karşılık rehberin yükümlülükleri çok daha ayrıntılı düzenlenmiştir:\n\nBirinci temel yükümlülük, çalışma kartı bulundurma ve taşıma zorunluluğudur. Rehber, tur esnasında meslek odasından aldığı o yıla ait çalışma kartını yani kokartı göğüs hizasında, turistler ve denetim görevlileri tarafından kolayca görülebilecek şekilde takmak zorundadır. Çantada, cepte veya cüzdanda taşınan kart, kanunen geçerli bir ibraz sayılmaz ve disiplin yaptırımı doğurur.\n\nİkinci yükümlülük, yazılı sözleşme yapma şartıdır. Turist rehberi, seyahat acentası ile tura çıkmadan önce mutlaka çalışma şartlarını, tur süresini, rotasını ve ödenecek ücreti belirten yazılı bir turist rehberliği sözleşmesi akdetmek zorundadır. Sözleşmesiz çalışmak hem rehber hem de acenta açısından mevzuat ihlalidir.\n\nÜçüncü yükümlülük, tur programına sadakat ve zaman yönetimidir. Rehber, acenta tarafından misafire taahhüt edilen ve sözleşmeye bağlanan gezi programını haklı, belgelenebilir ve mücbir bir sebep olmaksızın keyfi olarak değiştiremez, programda yer alan bir ören yerini veya müzeyi atlayamaz, turu vaktinden önce keyfi olarak sonlandıramaz. Doğal afet, yol kapanması veya güvenlik gibi zorunlu hâllerde yapılan güzergâh değişiklikleri derhal acentaya bildirilmeli ve grup bilgilendirilmelidir.\n\nDördüncü ve en hassas yükümlülük grubu, görev tanımı ve görev sınırlarının korunmasıdır. Sınavların en gözde çeldiricileri, rehberin görevi gibi sunulan ancak aslında rehberin görev alanına asla girmeyen işlemlerden üretilir:\n\nTuristlerin vize ve pasaport işlemlerini yürütmek, takip etmek veya konsolosluk randevularını almak rehberin görevi değildir; bu sorumluluk seyahat acentasına veya turistin kendisine aittir. Rehberin elinde mikrofon vardır ancak kaşe ve mühür yoktur.\n\nAynı şekilde, otel işletmeciliği yapmak, otelin muhasebe veya oda dağıtım krizlerini üstlenmek, uçak ve gemi bileti satışı veya bilet komisyonculuğu yapmak rehberin görev tanımı dışındadır; bunlar acentacılık ve otelcilik faaliyetleridir.\n\nKültürel ve doğal mirası koruma yükümlülüğü ise rehberin kamusal vicdanıdır. Rehber, gezilen arkeolojik alanlarda, müzelerde veya tabiat parklarında grubundaki turistlerin eserlere zarar vermesini, yasak alanlara girmesini, topraktan tarihi taş veya parça toplamasını, endemik bitkileri koparmasını engellemekle ve grubu bu kurallar konusunda uyarmakla yükümlüdür. Eser kaçakçılığına veya tahribatına göz yuman bir rehber yalnızca meslekten çıkarılmakla kalmaz, Türk Ceza Kanunu ve iki bin sekiz yüz altmış üç sayılı kanun kapsamında hapis cezası istemiyle yargılanır.\n\nYükümlülüklere aykırı davranılması durumunda altı bin üç yüz yirmi altı sayılı kanunun beşinci maddesinde düzenlenen disiplin cezaları merdiveni devreye girer. Bu merdiven hafiften ağıra doğru dört basamaktan oluşur:\n\nBirinci basamak uyarma cezasıdır. Meslek mensubuna, mesleğin icrasında ve davranışlarında daha dikkatli ve özenli olması gerektiğinin yazı ile bildirilmesidir. Çalışma kartını tur esnasında görünür şekilde taşımamak veya denetimde anında ibraz edememek, meslektaşlarına veya paydaşlarına nezaketsiz davranmak gibi hafif kusurlarda uygulanır.\n\nİkinci basamak kınama cezasıdır. Meslek mensubuna, mesleğin icrasında ve eylemlerinde kusurlu sayıldığının resmi yazı ile bildirilmesidir. Bakanlıkça ilan edilen taban ücret tarifesinin altında bir ücretle çalışmayı kabul etmek, haksız rekabete yol açacak biçimde ilan ve reklam yapmak, geçerli bir neden olmaksızın acentaya söz verdiği tura gitmemek kınama cezasını gerektirir. Burada kanunun getirdiği altın bir kural vardır: Bir takvim yılı içinde iki kez kesinleşmiş kınama cezası alan bir turist rehberine, doğrudan bir sonraki basamak olan meslekten geçici men cezası verilir.\n\nÜçüncü basamak meslekten geçici men cezasıdır. Rehberin altı aydan az, bir yıldan çok olmamak üzere mesleki faaliyetini icra etmekten menedilmesi ve bu süre zarfında çalışma kartının geri alınmasıdır. Haklı bir mazereti olmaksızın turun güzergâhını kasten ve keyfi olarak değiştiren, bölgesel rehber olduğu hâlde ruhsatnamesinde yazılı bölge dışına çıkarak başka bölgelerde kaçak rehberlik yapan veya çalışma kartı bulunmadığı hâlde eylemsiz statüde tura çıkan rehberlere geçici men cezası uygulanır.\n\nDördüncü ve en ağır basamak ise meslekten çıkarma cezasıdır. Turist rehberinin ruhsatnamesinin iptal edilerek Bakanlıkça geri alınması, turist rehberi unvanının tamamen kaldırılması ve oda üyeliğinden kaydının ebediyen silinmesidir. Meslekten çıkarılan kişi bir daha hiçbir surette Türkiye'de turist rehberliği yapamaz. Bu ağır yaptırımı doğuran hâller kanunda açıkça sayılmıştır: Rehberlik görevi sırasında veya bu göreviyle bağlantılı olarak Türkiye Cumhuriyeti Devleti'nin milli onuruna, bağımsızlığına, anayasal düzenine veya ülke yararına aykırı söz, eylem ve propagandalarda bulunmak; seyahat acentacılığı faaliyeti niteliğinde haksız kazanç ve organizasyon faaliyetini meslekten geçici men cezası almasına rağmen tekrar etmek; ruhsatname alırken gerçeğe aykırı sahte belge sunmuş olmak meslekten çıkarma cezasının kesin gerekçeleridir.\n\n---",
         "sentences": [
           {
@@ -35545,6 +37897,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Meslekten çıkarma cezası, ruhsatnamenin geri alınarak turist rehberi unvanının kaldırılması ve oda üyeliğinden silinmesidir (Turizm Mevzuatı_Eylül 2020_Anadolu Üni, s.58).\n\n💡 Hafıza İpucu: Çıkarma = unvanın da, üyeliğin de kapıya konulması.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q074",
+            "subtopicId": "rm_3",
+            "courseId": "rehberlik-mevzuati",
+            "questionText": "Aşağıdakilerden hangisi turist rehberinin görevlerinden biridir?",
+            "options": [
+              "A) Hizmet standartlarına aykırı davranmak",
+              "B) Zamanı kötü kullanmak",
+              "C) Günlük tur planına sadık kalmaya çalışmak",
+              "D) Yerel kültür ile turistlerin kültürü arasında ayrımcılık yapmak",
+              "E) Anlatımlarını karmaşık şekilde katılımcılara aktarmak"
+            ],
+            "correctIndex": 2,
+            "explanation": "Turist rehberi programı zamanında uygulamak ve günlük tur planına sadık kalmakla yükümlüdür; diğer seçenekler mesleki yükümlülüklere aykırı davranışlardır (2026 Ağustos Mesleğe Kabul B Grubu, S. 74).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_REH-003",
+            "subtopicId": "rm_3",
+            "courseId": "rehberlik-mevzuati",
+            "questionText": "Turist rehberinin tur esnasında çalışma kartını görünür şekilde üzerinde taşımaması 6326 sayılı Meslek Kanunu'na göre hangi disiplin cezasını gerektirir?",
+            "options": [
+              "A) Uyarma",
+              "B) Kınama",
+              "C) Meslekten Men",
+              "D) Geçici Men",
+              "E) Ruhsatnamenin İptali"
+            ],
+            "correctIndex": 0,
+            "explanation": "Çalışma kartını tur sırasında boynunda ya da görünür biçimde taşımamak kanunen 'Uyarma' cezasını gerektiren bir fiildir. (MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf, s.27)\n\n💡 Hafıza İpucu: KART TAŞIMAMAK = UYARMA CEZASI.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -35554,7 +37938,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "rehberlik-mevzuati",
         "order": 4,
         "title": "Meslek Etiği",
-        "officialQuestionCount": 52,
+        "officialQuestionCount": 54,
         "lectureContent": "## 4. Alt Başlık: Meslek Etiği\n\nEtik, doğru ve iyi eylemin ne olduğunu araştıran felsefi bir disiplindir. Genel ahlak toplumdan topluma, kültürden kültüre ve dönemden döneme değişkenlik gösteren, çoğunlukla yazısız toplumsal değerler bütünü iken; meslek etiği, belirli bir mesleğin mensuplarının dünyanın neresinde olurlarsa olsunlar uymakla mükellef oldukları, mesleğe özgü, rasyonel ve evrensel davranış ilkeleridir. Bir Japon turist rehberi ile bir Türk turist rehberi, içinde yaşadıkları toplumların gelenekleri farklı olsa dahi, mesleklerini icra ederken tamamen aynı etik kodlara bağlı kalmak zorundadırlar.\n\nTurist rehberinin ülkesini temsil eden bir kültür elçisi olması, rehberlik etiğini sıradan bir ticari etik anlayışının çok ötesine taşır. Rehberlik meslek etiği dört temel pusula üzerinde yükselir:\n\nBirinci pusula, dürüstlük ve doğruluk ilkesidir. Rehber, anlattığı her bilginin bilimsel, tarihsel ve arkeolojik gerçeklere dayanmasından sorumludur. Meslek hayatında ve sınavlarda sıkça vurgulanan temel ilke şudur: Bilmediğini dürüstçe kabul etmek bir erdemdir. Rehber, gruptan gelen bir sorunun cevabını kesin olarak bilmiyorsa, hayal gücünden uydurma hikâyeler ve sahte efsaneler üretmek yerine, bunu henüz bilmediğini, ilk fırsatta güvenilir kaynaklardan araştırıp misafirlere dönüş yapacağını ifade etmelidir. Turisti yanıltmamak ve kasten çarpıtılmış bilgi vermemek dürüstlüğün özüdür.\n\nİkinci pusula, objektiflik ve tarafsızlık ilkesidir. Rehber; din, mezhep, ırk, dil, cinsiyet ve milliyet ayrımı gözetmeksizin her misafirine eşit mesafede durmalıdır. Sınavların en çok tekrarlanan ve en kritik kırmızı çizgisi burada yatar: Bir turist rehberinin tur otobüsünü veya gezi alanını siyasi ya da dini bir propaganda kürsüsüne çevirmesi, kendi şahsi inançlarını veya politik görüşlerini genel geçer mutlak doğrularmış gibi gruba dikte etmesi çok ağır bir etik ihlalidir. Tartışmalı veya farklı yorumlara açık bir tarihi olayla karşılaşıldığında doğru etik tutum; farklı bilimsel ve tarihsel yaklaşımları tarafsızca aktarmak, nihai yorum ve değerlendirmeyi dinleyicinin kendi hür vicdanına bırakmaktır.\n\nÜçüncü pusula, güvenilirlik, gizlilik ve saygıdır. Rehber, turun başlangıcından sonuna kadar misafirlerinin can ve mal güvenliğini, sağlığını her türlü ticari ve kişisel hesabın üstünde tutmalıdır. Misafirlerin kişisel verilerini, sağlık durumlarını, özel ailevi bilgilerini veya oda numaralarını üçüncü şahıslarla paylaşmak gizlilik ilkesinin ve kanunların açık ihlalidir. Aynı zamanda meslektaşlarına ve tur paydaşlarına saygı göstermek zorundadır. Bir rehberin misafirlerin önünde tur şoförünü azarlaması, acentayı kötülemesi, otel personelini aşağılaması veya önceki meslektaşının anlattıklarını alaycı bir dille yermesi etik dışıdır. Yaşanan aksaklıklar misafirlerin önünde bir kavga malzemesi yapılmadan, profesyonelce ve kapalı kapılar ardında çözülmelidir.\n\nDördüncü pusula, adalet ve eşitliktir. Tur grubundaki her birey eşit haklara sahiptir. Bahşiş veren veya zengin olan misafire ayrıcalıklı davranıp diğerlerini arka plana itmek, engelli veya yaşlı bireylerin erişim ihtiyaçlarını görmezden gelmek adalet ilkesiyle bağdaşmaz.\n\nRehberlik mesleğinde çizgiyi aşan etik dışı davranışlar ve tuzaklar saha tecrübesiyle somutlaştırılmıştır:\n\nHanutçuluk ve komisyonculuk baskısı, mesleğin en büyük yaralarından biridir. Rehberin, tur programında yer almayan ve misafirlerin onay vermediği alışveriş noktalarına grubu zorla sokması, gizli komisyon anlaşması yaptığı dükkânlarda alışveriş yapılmadıkça otobüsü hareket ettirmeyeceğini söyleyerek grubu psikolojik baskı altına alması açık bir etik ihlaldir. Misafirin özgür iradesi ve serbest zaman hakkı kutsaldır; rehber alışveriş noktasını tanıtabilir ancak tercih ve karar hakkını tamamen misafire bırakmak mecburiyetindedir.\n\nBahşiş istemek, bir diğer önemli kırmızı çizgidir. Turistin kendi içinden gelerek ve memnuniyeti doğrultusunda bahşiş vermesi olağan bir gelenek olsa da, rehberin gruptan açıkça veya ima yoluyla bahşiş talep etmesi, bahşiş vermeyen misafirlere soğuk davranması etik kurallarla asla bağdaşmaz.\n\nLiteratürde bir davranışın etik olup olmadığını denetlemek üzere kullanılan dört soru süzgeci bulunur. Rehber ikilemde kaldığında şu soruları sormalıdır:\nBu davranış yasalara ve mesleki kurallara uygun mu?\nBu karar adil ve dengeli mi; aynı davranış bana yapılsaydı kabul eder miydim?\nBu eylemin tüm ayrıntıları yarın bir gazetenin manşetinde veya internette ifşa edilseydi vicdanım ve meslektaşlarım bundan utanır mıydı? Bu soru ifşa ya da gazete testi olarak anılır.\nVe son olarak, bu davranış gerçekle ve mesleki ideallerle örtüşüyor mu?\n\nMeslek etiğinin tarihsel kökenine baktığımızda, Anadolu topraklarının bu alanda dünyaya örnek bir mirasa sahip olduğu görülür. On üçüncü yüzyılda Ahi Evran tarafından Kırşehir merkezli olarak kurulan Ahilik teşkilatı, esnaf ve zanaatkârları ahlak, doğruluk, dayanışma ve liyakat ilkeleri etrafında toplamış kadim bir meslek örgütüdür. Ahiliğin temel felsefesi olan eline, beline ve diline sahip ol ilkesi; hırsızlıktan ve haksız kazançtan kaçınmayı, ahlak ve namusu korumayı, yalan ve uydurma sözden uzak durmayı öğütler. Bu kadim kural, günümüz turist rehberliği etiğindeki haksız kazançtan kaçınma, misafirin mahremiyetini koruma ve uydurma bilgiden uzak durma ilkelerinin Anadolu'daki tarihsel köküdür.\n\nKüresel ölçekte ise turist rehberliğinin çatı kuruluşu olan Dünya Turist Rehberleri Birlikleri Federasyonu, yani WFTGA etik ilkeleri uluslararası referans kabul edilir. WFTGA ilkeleri; rehberin kültürel mirasın tarafsız bir yorumcusu olduğunu, çevreye ve yerel halka saygı gösterilmesi gerektiğini, ayrımcılığın reddedildiğini ve mesleki dayanışmanın korunmasını emreder.\n\nRehberin tur sahasında üstlendiği roller de etik ve iletişim becerileriyle iç içedir:\nKültür elçisi rolü ile ülkesini en asil ve doğru biçimde temsil eder.\nArabulucu rolü ile misafirler veya paydaşlar arasında doğabilecek uyuşmazlıklarda tarafsız bir denge unsuru olur.\nÇevre koruyucu rolü ile ekolojik dengenin ve kültürel varlıkların korunmasına önderlik eder.\nLider rolü ile kriz anlarında soğukkanlılığını koruyarak grubu güvenliğe ulaştırır.\n\nTur esnasında bir şikâyet veya krizle karşılaşıldığında izlenmesi gereken doğru profesyonel tutum ise dört aşamalı bir akışa dayanır:\nİlk ve en kritik adım, sorunu tanımak ve kabul etmektir. Şikâyet eden misafir karşısında hemen savunma kalkanı kaldırmak, suçu başkasına veya turiste atmak krizi içinden çıkılmaz hâle getirir. Rehber önce göz teması kurarak misafiri etkin biçimde dinlemeli, onun mağduriyetini anladığını hissettirerek sorunu kabul etmelidir.\nİkinci adım, durumu sakinleştirdikten sonra uygulanabilir mantıklı bir çözüm önermektir.\nÜçüncü adım, önerilen çözümü ivedilikle hayata geçirmektir.\nDördüncü adım ise, turun devamında sorunun çözülüp çözülmediğini ve misafirin memnuniyetini takip etmektir. Bu akışta can güvenliği ve sağlık her zaman gezi programının ve zaman çizelgesinin önündedir.\n\n---",
         "sentences": [
           {
@@ -36287,6 +38671,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Turist sağlığı ve güvenliği rehberin en temel görevidir ve her zaman öncelik taşır; sağlık müdahalesi sağlandıktan sonra grup bilgilendirilip program gecikmesi şikâyeti ele alınmalıdır (TURİST REH VE ETİK s.8).\n\n💡 Hafıza İpucu: Öncelik sırası: önce can güvenliği, sonra program.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "agustos2026_b_q075",
+            "subtopicId": "rm_4",
+            "courseId": "rehberlik-mevzuati",
+            "questionText": "Aşağıdakilerden hangisi turist rehberinin meslek etiği ilkelerinden biridir?",
+            "options": [
+              "A) Yetkilerini çıkar sağlamak amacıyla kullanmak",
+              "B) Yetkisi dışında beyanda bulunmak",
+              "C) Kişisel ekonomik ve sosyal görüşlerini genel görüş olarak açıklamak",
+              "D) Kültür, tarih ve turizm bilincine sahip olmak",
+              "E) Turistlerin vize işlemlerini yapmak"
+            ],
+            "correctIndex": 3,
+            "explanation": "Turist rehberliği meslek etiği ilkeleri; ülkenin kültür, tarih ve turizm bilincine sahip olmayı, tarafsız ve yetkisi dâhilinde doğru bilgi aktarmayı ve çıkar çatışmasından kaçınmayı gerektirir (2026 Ağustos Mesleğe Kabul B Grubu, S. 75).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_REH-004",
+            "subtopicId": "rm_4",
+            "courseId": "rehberlik-mevzuati",
+            "questionText": "Turist rehberinin misafirleri haksız ticari kazanç elde etmek gayesiyle belirli işletmelere yönlendirerek haksız komisyon (hanut) talep etmesi hangi etik ve yasal ihlale girer?",
+            "options": [
+              "A) Hanutçuluk fiili",
+              "B) Kayıt dışı promosyon",
+              "C) Hizmet kusuru",
+              "D) Fiyat tarifesine muhalefet",
+              "E) Tur programını aksatma"
+            ],
+            "correctIndex": 0,
+            "explanation": "Hanutçuluk hem meslek etiğine aykırıdır hem de 6326 sayılı Kanun ve TUREB Disiplin Yönetmeliği kapsamında ağır idari para cezası ve geçici meslekten men yaptırımı taşır. (MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf, s.33)\n\n💡 Hafıza İpucu: HANUTÇULUK = KOMİSYON KARŞILIĞI ZORLA ALIŞVERİŞ (Ağır etik ihlal).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -36297,7 +38713,7 @@ export const COURSES_DATA: Course[] = [
     "id": "saglik-ilkyardim",
     "title": "Genel Sağlık Bilgisi ve İlk Yardım",
     "slug": "genel-saglik-bilgisi-ve-ilk-yardim",
-    "totalOfficialQuestions": 267,
+    "totalOfficialQuestions": 274,
     "description": "İlk Yardımın Temel İlkeleri, Temel Yaşam Desteği (ABC), Yaralanmalar, Kanamalar ve Taşıma Teknikleri.",
     "iconName": "HeartPulse",
     "isAvailable": true,
@@ -36307,7 +38723,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "saglik-ilkyardim",
         "order": 1,
         "title": "İlk Yardımın Temel İlkeleri",
-        "officialQuestionCount": 56,
+        "officialQuestionCount": 58,
         "lectureContent": "## 1. Alt Başlık: İlk Yardımın Temel İlkeleri, Tanımlar ve Olay Yeri Yönetimi\n\nİlk yardım; herhangi bir kaza, afet ya da ani yaşamı tehdit eden hastalık durumunda, profesyonel sağlık görevlilerinin yardımı sağlanıncaya kadar, olay yerinde tıbbi araç ve gereç aranmaksızın, mevcut imkânlarla yapılan ilaçsız uygulamalardır. İlk yardımın temel amacı; yaşamsal fonksiyonların sürdürülmesini sağlamak, hasta veya yaralının durumunun kötüleşmesini engellemek ve iyileşmeyi kolaylaştırmaktır.\n\nAcil tedavi ise sağlık personeli tarafından, donanımlı ambulanslarda ya da sağlık kuruluşlarında yapılan tıbbi müdahaleler bütünüdür. İlk yardımcı ilaç vermez, enjeksiyon yapmaz ve cerrahi müdahalede bulunmaz. İlk yardımcının müdahalesi tıbbi yardım gelene veya kazazede bir sağlık kuruluşuna teslim edilene kadar sürer.\n\nİlk yardımcının olay yerinde uygulayacağı temel adımlar üç altın kuraldan oluşur: Koruma, Bildirme ve Kurtarma.\n\nKoruma adımı, olay yerinde olası yeni tehlikeleri belirleyerek güvenli bir çevre oluşturmayı hedefler. İlk yardımcı önce kendi can güvenliğini, ardından çevre ve yaralıların güvenliğini sağlar. Trafik kazalarında aracın kontağı kapatılır, el freni çekilir, araç lpgli ise tüpün vanası kapatılır. Aracın önüne ve arkasına, diğer sürücülerin görebileceği şekilde yüz elli metre mesafeden fark edilecek üçgen reflektörler yerleştirilir. Olay yerinde sigara içilmesine asla izin verilmez ve patlama riski oluşturacak kıvılcım kaynakları engellenir. Meraklı kalabalık olay yerinden uzaklaştırılır.\n\nBildirme adımı, profesyonel yardım ekiplerine haber verme aşamasıdır. Türkiye'de tüm acil çağrılar tek numara altında, yüz on iki Acil Çağrı Merkezi üzerinden birleştirilmiştir. İlk yardımcı yüz on ikiyi aradığında ya da bir başkasına arattığında; sakin olmalı, adını ve telefon numarasını net bildirmeli, olayın tam adresini veya bilinen belirgin noktaları tarif etmeli, kazanın oluş biçimini, yaralı sayısını ve yaralıların genel durumunu aktarmalıdır. En kritik kural, çağrı merkezindeki görevli operatör telefonu kapatmadan ilk yardımcının telefonu asla kapatmamasıdır.\n\nKurtarma veya müdahale adımı ise olay yerinde hasta ya da yaralılara yapılan hızlı, sakin, bilinçli ve organize ilk yardım uygulamalarını kapsar. İlk yardımcı yaralıları hızla değerlendirir; en ağır durumda olan, solunumu veya dolaşımı durmuş kazazedelere öncelik vererek organize bir sıra ile müdahale eder.\n\nOlay yeri triyajı, çok sayıda yaralının bulunduğu kaza veya afet ortamlarında sınırlı kaynaklarla en fazla hayatı kurtarmak için yapılan öncelik sıralamasıdır. Triyajda uluslararası renk kodları kullanılır:\nKırmızı kod, birinci önceliktir; hayati tehlikesi bulunan, hava yolu tıkalı, ağır kanaması olan veya solunumu durmak üzere olan acil müdahale grubudur.\nSarı kod, ikinci önceliktir; durumu ciddi olan ancak hayati tehlikesi ilk etapta kritik saniyelerle yarışmayan, gecikebilir vakaları kapsar; örneğin açık kırıklar veya orta dereceli travmalar.\nYeşil kod, üçüncü önceliktir; yürüyebilen, hafif yaralı kazazedelerdir; ayakta tedavi edilebilirler.\nSiyah kod ise olay yerinde hayatını kaybetmiş, kurtarılma şansı kalmamış kişileri belirtir.\n\nBir kazazedenin yaşam bulguları değerlendirilirken belirli fizyolojik sınırlar esas alınır. Normal bir yetişkinde dinlenme halindeki nabız sayısı dakikada altmış ile yüz atım arasındadır. Çocuklarda bu sayı seksen ile yüz yirmi, bebeklerde ise yüz ile yüz kırk atım civarındadır. Yetişkin bir bireyin normal solunum sayısı dakikada on iki ile yirmi arasındadır. Çocuklarda solunum sayısı dakikada on altı ile yirmi iki, bebeklerde ise on sekiz ile yirmi dört arasında seyreder. Vücut ısısı normal şartlarda koltuk altından ölçüldüğünde otuz altı buçuk santigrat derece kabul edilir; kırk bir ve kırk iki derece üstü ile otuz dört derece altı hayati risk taşır.\n\nKazazedenin bilinci değerlendirilirken dört aşamalı sistem uygulanır: İlk olarak kazazedenin sözlü uyarılara yanıt verip vermediğine bakılır, yanıt yoksa omuzlarına hafifçe dokunarak iyi misiniz diye seslenilir; bu aşama sözlü ve hafif dokunsal uyarıdır. Yanıt alınamazsa ağrılı uyarı verilir; buna da yanıt yoksa kazazedenin bilincinin tamamen kapalı olduğu kabul edilir.",
         "sentences": [
           {
@@ -36791,6 +39207,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Normal beden içi sıcaklığı 36,5 °C'dir; 41-42 °C üzeri ve 34 °C altı kalıcı hasarlara neden olabilir (Temel İlkyardım Bilgisi s.14).\n\n💡 Hafıza İpucu: 36,5°C = beden termostatının \"normal\" ayarı; 34'ün altı ve 41'in üstü TEHLİKE sınırı.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q066",
+            "subtopicId": "gs_1",
+            "courseId": "saglik-ilkyardim",
+            "questionText": "Aşağıdakilerden hangisi insan bedeninde bulunan temel sistemlerden biri değildir?",
+            "options": [
+              "A) Sinir sistemi",
+              "B) Sindirim sistemi",
+              "C) Solunum sistemi",
+              "D) Dolaşım sistemi",
+              "E) Savunma sistemi"
+            ],
+            "correctIndex": 4,
+            "explanation": "İlk yardım eğitim müfredatında insan vücudunun temel sistemleri sinir, hareket, dolaşım, solunum, sindirim ve boşaltım sistemleri olarak ele alınır; “savunma sistemi” bu sınıflamada temel sistemler arasında sayılmaz (2026 Ağustos Mesleğe Kabul B Grubu, S. 66).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_SAG-001",
+            "subtopicId": "gs_1",
+            "courseId": "saglik-ilkyardim",
+            "questionText": "İlk yardımın olay yerindeki temel uygulama aşamalarını simgeleyen 'KBK' kısaltması hangi adımları ifade eder?",
+            "options": [
+              "A) Kurtarma - Bildirme - Kollama",
+              "B) Koruma - Bildirme - Kurtarma",
+              "C) Kontrol - Bakım - Koruma",
+              "D) Kollama - Bilgilendirme - Kaldırma",
+              "E) Kayıt - Bakım - Kritik Müdahale"
+            ],
+            "correctIndex": 1,
+            "explanation": "İlk yardımın temel basamakları: Koruma (güvenlik sağlama), Bildirme (112 acil servisi arama) ve Kurtarma (hastaya müdahale) adımlarından oluşur. (MKS_Ilk_Yardim M.ALI 2026 AGUSTOS.pdf, s.3)\n\n💡 Hafıza İpucu: K-B-K: KORUMA (Güvenlik) -> BİLDİRME (112) -> KURTARMA (Müdahale).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -36800,7 +39248,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "saglik-ilkyardim",
         "order": 2,
         "title": "Temel Yaşam Desteği (ABC)",
-        "officialQuestionCount": 56,
+        "officialQuestionCount": 57,
         "lectureContent": "## 2. Alt Başlık: Temel Yaşam Desteği ve Solunum Yolu Tıkanıklıkları\n\nTemel Yaşam Desteği, yaşam belirtisi göstermeyen, bilinci kapalı ve normal solunumu olmayan bir kazazedeye, solunum ve dolaşımı yeniden başlatmak veya organların oksijensiz kalarak ölmesini engellemek amacıyla yapılan suni solunum ve dış kalp masajı uygulamalarının bütünüdür. Beyin dokusu oksijensizliğe en fazla dört ile altı dakika dayanabilir; bu süreden sonra geri dönüşümsüz beyin hasarı başlar.\n\nTemel Yaşam Desteğinin uluslararası alfabesi olan Hayat Kurtarma Zinciri dört halkadan meydana gelir:\nBirinci halka: Sağlık kuruluşuna haber verilmesi yani yüz on ikinin aranmasıdır.\nİkinci halka: Olay yerinde yapılan temel yaşam desteğidir.\nÜçüncü halka: Olay yerine gelen ambulans ekiplerince yapılan ileri yaşam desteği müdahaleleridir.\nDördüncü halka: Hastane acil servislerinde yapılan yoğun bakım ve tıbbi tedavidir.\nİlk yardımcı bu zincirin ilk iki halkasını bizzat yürütür.\n\nTemel Yaşam Desteğinde uygulanan adımlar şu sıra ile gerçekleştirilir:\nİlk yardımcı çevre ve kendi güvenliğini sağladıktan sonra kazazedenin yanına diz çöker. Kazazedenin omuzlarına nazikçe dokunup sesli olarak iyi misiniz diye sorarak bilinç kontrolü yapar. Bilinç kapalıysa derhal çevredeki belirli bir kişiye doğrudan işaret ederek yüz on ikiyi aramasını ve varsa otomatik eksternal defibrilatör getirmesini emreder; çevrede kimse yoksa yetişkinde ilk yardımcı kendi telefonundan yüz on ikiyi hemen arar.\n\nArdından ilk yardımın ABC'si adımlarına geçilir:\nA adımı, hava yolu açıklığının sağlanmasıdır. Bilinci kapalı kazazedenin dil kökü geriye kayarak soluk borusunu tıkayabilir. Kazazedenin ağız içi gözle kontrol edilir, görünen yabancı cisim veya kusmuk varsa tek hamlede çıkarılır; körlemesine parmak sokulmaz. Ardından bir el kazazedenin alnına, diğer elin iki parmağı çene kemiğinin altına yerleştirilerek baş doksan derece geriye itilir ve çene yukarı kaldırılır; buna Baş-Çene Pozisyonu denir. Bebeklerde boyun omurları hassas olduğu için baş çok fazla geriye itilmez, hafifçe kırk beş derecelik açı verilir.\n\nB adımı, solunumun değerlendirilmesidir. İlk yardımcı yüzünü kazazedenin ağzına yaklaştırarak göğüs kafesine doğru bakar ve Bak-Dinle-Hisset yöntemini uygular. Kazazedenin göğüs hareketleri gözle izlenir, soluk sesi kulakla dinlenir, yanağa gelen hava akımı hissedilir. Bu değerlendirme tam on saniye boyunca kesintisiz yapılır. Eğer kazazede normal nefes almıyorsa veya sadece hırıltılı, düzensiz iç çekme hareketleri yapıyorsa solunumun durduğu kabul edilir.\n\nC adımı, dolaşımın sağlanması yani kalp masajıdır. Yetişkin bir bireyde göğüs kemiğinin üst ve alt ucu parmaklarla tespit edilir, bu iki nokta eşit iki parçaya bölünerek kemiğin alt yarısına elin ayası yerleştirilir. Diğer el bu elin üzerine kenetlenir, parmaklar göğüs kafesine temas ettirilmez. İlk yardımcının kolları bükülmeden, omuzlar kazazedenin göğsünün tam üzerinde dik açıyla konumlandırılır. Göğüs kemiği yetişkinlerde beş santimetre çökecek şekilde, yandan bakıldığında göğüs yüksekliğinin üçte biri kadar bastırılır. Kalp masajının hızı dakikada yüz ile yüz yirmi bası olacak tempoda ayarlanır; her basıdan sonra göğsün tamamen eski haline dönmesine izin verilir.\n\nTemel yaşam desteği döngüsü otuz kalp masajı ve iki suni solunum şeklinde uygulanır. Suni solunum verilirken baş-çene pozisyonu korunur, burun kanatları kapatılır, kazazedenin ağzını tamamen örtecek şekilde bir saniye süren iki kurtarıcı nefes üflenir; her nefeste göğsün yükseldiği gözlemlenir. Otomatik eksternal defibrilatör geldiğinde cihaz derhal açılır, sesli komutları dinlenir, elektrotlar kazazedenin çıplak göğsüne yapıştırılır, cihaz ritim analizi yaparken ve şok verirken kazazedeye hiç kimsenin dokunmadığından emin olunur.\n\nÇocuklarda ve bebeklerde temel yaşam desteğinde kritik nüanslar vardır: Çocuklarda ve bebeklerde solunum durması genellikle boğulma veya soluk yolu tıkanması kökenli olduğundan, canlandırmaya iki kurtarıcı nefes verilerek başlanır. Yalnız olan ilk yardımcı, çocuk ve bebeklerde iki kurtarıcı solunum ve otuz kalp masajından oluşan beş turu yani yaklaşık iki dakikayı tamamladıktan sonra yüz on ikiyi bizzat arar. Çocuklarda kalp masajı çocuğun cüssesine göre tek elle veya çift elle beş santimetre çökecek şekilde; bebeklerde ise göğüs kemiği merkezinde iki meme ucunu birleştiren hayali çizginin hemen altına iki parmak ile dört santimetre çökecek şekilde uygulanır.\n\nSolunum yolu tıkanıklıkları ikiye ayrılır: Kısmi tıkanma ve tam tıkanma.\nKısmi tıkanmada kazazede nefes alabilir, konuşabilir veya ses çıkarabilir ve güçlü bir şekilde öksürür. İlk yardımcının yapacağı tek doğru müdahale kazazedeye dokunmamak, sırtına vurmamak ve onu sadece öksürmeye teşvik etmektir.\nTam tıkanmada ise hava girişi tamamen kesilmiştir; kazazede nefes alamaz, konuşamaz, acı içinde ellerini boynuna götürür, rengi hızla morarır. Bu tablo tam tıkanmanın evrensel belirtisidir. Bilinci açık tam tıkanma vakasında Heimlich Manevrası uygulanır. İlk yardımcı kazazedenin arkasına geçer, hafif öne eğer, önce iki kürek kemiği arasına el ayasıyla beş kez süpürür tarzda kuvvetlice vurur. Cisim çıkmadıysa kazazedenin arkasından sarılarak bir elini yumruk yapar, göbek deliği ile göğüs kemiğinin alt ucu arasına yerleştirir, diğer eliyle yumruğu kavrar; arkaya ve yukarıya doğru beş kez kuvvetle bastırır. Cisim çıkana veya kazazedenin bilinci kapanana kadar beş sırt vuruşu ve beş Heimlich basısı döngüsü sürdürülür. Kazazedenin bilinci kapanırsa derhal sert bir zemine yatırılarak temel yaşam desteğine başlanır.\n\nBebeklerde tam tıkanıklıkta Heimlich basısı karına uygulanmaz, karaciğer hasarı riski vardır. Bebek, ilk yardımcının bir kolu üzerine yüzüstü yatırılır, başı gövdesinden aşağıda tutulur ve çenesi elle desteklenir; iki kürek kemiği arasına el ayasıyla beş kez aşağı doğru vurulur. Cisim çıkmazsa bebek diğer kola sırtüstü çevrilir, göğüs kemiğinin alt yarısına iki parmakla beş kez göğüs basısı uygulanır.\n\nSolunumu ve dolaşımı olan ancak bilinci kapalı olan kazazedelere, dilin geriye kaçmasını ve olası kusmukların akciğere dolmasını engellemek amacıyla Koma Pozisyonu yani Yarı Yüzükoyun Yan Pozisyon verilir. Kazazedenin ilk yardımcıya yakın olan kolu yukarı doğru uzatılır, uzak kolu göğsün üzerinden geçirilip elin tersi karşı yanağa konur; uzak bacağı dizden bükülerek omuz ve kalçadan tutulup ilk yardımcıya doğru tek hamlede çevrilir, üstteki bacak doksan derece bükülerek destek yapılır.",
         "sentences": [
           {
@@ -37203,6 +39651,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "Heimlich manevrasına rağmen tıkanıklık açılmaz ve bilinç kaybolursa kişi hemen sırtüstü sert bir zemine yatırılıp 112 aranarak temel yaşam desteğine (göğüs baskılarıyla) geçilir (Temel İlkyardım Bilgisi s.46-53).\n\n💡 Hafıza İpucu: Heimlich işe yaramazsa ve bilinç giderse, sıradaki basamak hep TYD'dir — ABC zinciri kesintisiz sürer.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "trp_bank_SAG-002",
+            "subtopicId": "gs_2",
+            "courseId": "saglik-ilkyardim",
+            "questionText": "Bilinç kaybı olan yetişkin bir kazazedede Temel Yaşam Desteği (TYD) uygulanırken göğüs basısı (kalp masajı) ile suni solunum oranı ne olmalıdır?",
+            "options": [
+              "A) 15 bası - 2 solunum",
+              "B) 30 bası - 2 solunum",
+              "C) 30 bası - 5 solunum",
+              "D) 20 bası - 2 solunum",
+              "E) 10 bası - 1 solunum"
+            ],
+            "correctIndex": 1,
+            "explanation": "Uluslararası ilkyardım protokollerinde tüm yetişkinlerde kalp masajı ve suni solunum döngüsü 30 göğüs basısı ve 2 suni solunum (30:2) olarak uygulanır; dakikada 100-120 bası hızında olmalıdır. (MKS_Ilk_Yardim M.ALI 2026 AGUSTOS.pdf, s.12)\n\n💡 Hafıza İpucu: 30 GÖĞÜS BASISI : 2 SUNİ SOLUNUM (30:2).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -37212,7 +39676,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "saglik-ilkyardim",
         "order": 3,
         "title": "Yaralanmalar ve Kanamalar",
-        "officialQuestionCount": 53,
+        "officialQuestionCount": 54,
         "lectureContent": "## 3. Alt Başlık: Kanamalar, Şok ve Yara Bakımı\n\nKanama, damar bütünlüğünün bozulması sonucu kanın damar dışına çıkmasıdır. Kan damarının cinsine göre üç tip kanama görülür:\nAtardamar kanaması, açık parlak kırmızı renktedir; kalp atımlarıyla uyumlu olarak fışkırır tarzda veya kesik kesik akar. Basıncı çok yüksek olduğu için en kısa sürede ölüme yol açabilen en tehlikeli kanama türüdür.\nToplardamar kanaması, koyu kırmızı renktedir; fışkırma olmaz, sürekli ve sızıntı şeklinde yayılır.\nKılcal damar kanaması ise küçük kabarcıklar halinde, yavaş sızan, basıncı düşük ve genellikle kendiliğinden durabilen yüzeysel kanamalardır.\n\nKanamalarda ilk yardımın aşamaları şunlardır:\nÖncelikle kanayan yaranın üzerine temiz bir bez parçası veya gazlı bezle doğrudan bastırılır; buna Doğrudan Baskı denir. Kanama durmazsa ilk bez kaldırılmadan üzerine ikinci bir bez konur ve rulo sargı ile baskılı bandaj uygulanır. Kanayan bölge imkân varsa kalp seviyesinden yukarı kaldırılır; yer çekimi etkisiyle kan akış hızı ve basınç düşürülür.\n\nEğer doğrudan baskı ile kanama kontrol altına alınamıyorsa, yaranın üst kısmındaki ana atardamarın kemik üzerinden geçtiği basınç noktalarına parmakla veya elle baskı uygulanır. Vücuttaki temel atardamar baskı noktaları şunlardır: Baş ve alın kanamalarında şakak atardamarı, yüz kanamalarında alt çene kenarı atardamarı, boyun ve baş kanamalarında şah damarı, omuz ve üst kol kanamalarında köprücük kemiği arkasındaki çukur, kol kanamalarında kolun iç yüzündeki kol atardamarı, bacak kanamalarında ise kasık atardamarıdır.\n\nTurnike veya boğucu sargı uygulaması, yalnızca uzuv kopması durumlarında veya çok sayıda yaralının bulunduğu ortamlarda tek ilk yardımcının yetişemediği, baskı noktalarıyla durdurulamayan uzuv kanamalarında başvurulan en son çaredir. Turnike uygulamasında en az sekiz ile on santimetre genişliğinde esnemeyen bezler kullanılır; tel, ip, elektrik kablosu veya misina gibi ince malzemeler dokuları keseceği için asla kullanılmaz. Turnike sadece tek kemikli bölgelere uygulanır; yani üst kolda pazu kemiği üzerine, bacakta ise uyluk kemiği üzerine bağlanır; çift kemikli olan ön kola veya baldır bölgesine uygulanmaz. Turnike sıkıldıktan sonra tahta bir çubukla döndürülerek kanama durana kadar kilitlenir. Turnike uygulanan kişinin alnına veya görünür bir yerine büyük T harfi ve uygulama saati dakika olarak yazılır. Dokuların oksijensiz kalıp kangren olmasını engellemek amacıyla turnike her on beş ile yirmi dakikada bir beş ila on saniye süreyle gevşetilir.\n\nUzuv kopması yani ampütasyon vakalarında kopan parça asla doğrudan suyun veya buzun içine atılmaz. Kopan uzuv temiz, su geçirmez bir poşete konur ve ağzı kapatılır. Bu poşet, içinde bir ölçek su ve iki ölçek buz bulunan ikinci bir kaba yerleştirilir; böylece parçanın ıslanmadan sıfır ile dört santigrat derece arasında soğuk kalması sağlanır. Kopan parça yaralı ile aynı ambulansla, en geç altı saat içinde hastaneye ulaştırılmalıdır.\n\nBurun kanamalarında halk arasında bilinen başı geriye atma davranışı kesinlikle yanlıştır; kanın yutulmasına veya soluk borusuna kaçmasına yol açar. Kazazede sakinleştirilir, oturtulur, başı hafifçe öne eğilir, burun kanatları baş ve işaret parmağıyla sıkılarak tam beş dakika boyunca kesintisiz bası uygulanır; enseye soğuk kompres yapılabilir.\n\nKulak kanamasında kulak içine asla pamuk veya bez tıkanmaz. Kanama hafifse temiz bezle silinir; kanama yoğunsa ve bilinç kapalıysa kazazede kanayan kulağın üzerine yatırılarak sıvının dışarı akması sağlanır, diğer kulağın üzerine yatırılmaz. Kulaktan ve burundan açık renkli sıvı gelmesi kafatası kaide kırığı belirtisidir, kazazede sarsılmadan sabit tutulur.\n\nŞok, dolaşım sisteminin yetersizliği nedeniyle doku ve organlara, özellikle beyne ve kalbe yeterli miktarda kan gitmemesi sonucu ortaya çıkan akut dolaşım yetmezliğidir. Nedenlerine göre kan kaybına bağlı hipovolemik şok, kalp yetmezliğine bağlı kardiyojenik şok, ağır enfeksiyonlara bağlı septik şok ve şiddetli alerjik reaksiyonlara bağlı anafilaktik şok gibi türleri vardır. Şoktaki hastada bilinç bulanıklığı veya huzursuzluk, soluk, soğuk ve nemli bir cilt, hızlı ve zayıf nabız, hızlı ve yüzeysel solunum, kan basıncında düşme ve susuzluk hissi görülür.\n\nŞok pozisyonu; kazazede sırtüstü düz bir zemine yatırılır, ayakları bileklerin altından desteklenerek otuz santimetre yukarı kaldırılır. Vücut ısısını korumak için üzeri battaniye ile örtülür, yaşamsal bulguları iki üç dakikada bir kontrol edilir, ağızdan asla katı veya sıvı yiyecek ya da içecek verilmez.\n\nYaralanmalarda genel kural; yaraya saplanmış yabancı cisimler (bıçak, demir, cam) olay yerinde asla çıkarılmaz; etrafı desteklenerek sabitlenir. Yaranın üzerine pamuk konmaz, doğrudan merhem veya toz ilaç sürülmez, antiseptik dökülmez. Delici göğüs yaralanmalarında akciğer zarının hava almasını engellemek için yaranın üzeri üç tarafı hava sızdırmaz şekilde bantlanmış, alt ucu açık bırakılmış plastik bir örtü ile kapatılır; bu sistem dışarıdaki havanın içeri girmesini engellerken içerideki havanın dışarı çıkmasına izin veren tek yönlü bir valf görevi görür. Delici karın yaralanmalarında dışarı fırlayan bağırsaklar asla içeri itilmeye çalışılmaz; üzeri temiz, nemli bir bezle örtülür; yara enlemesine ise bacaklar bükülü, boylamasına ise bacaklar düz uzatılmış olarak sırtüstü yatırılır.",
         "sentences": [
           {
@@ -37534,6 +39998,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Burun kanamasında baş öne eğilir ve burun kanatlarına yaklaşık 5 dakika süreyle baskı uygulanır; başın geriye çekilmesi kanın mideye/soluk borusuna kaçmasına yol açabileceğinden yanlıştır (İLK YARDIM konu-arkası s.77-78).\n\n💡 Hafıza İpucu: Kan MİDEYE/soluk borusuna akmasın diye baş ÖNE eğilir — geriye çekmek klasik yanlış şıktır.",
             "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_SAG-003",
+            "subtopicId": "gs_3",
+            "courseId": "saglik-ilkyardim",
+            "questionText": "Fışkırır tarzda ve açık kırmızı (parlak) renkte akan, vücuttan kısa sürede büyük miktarda kan kaybına yol açan en tehlikeli kanama türü hangisidir?",
+            "options": [
+              "A) Kılcal damar kanaması",
+              "B) Toplardamar kanaması",
+              "C) Atardamar kanaması",
+              "D) İç sızıntı kanaması",
+              "E) Venöz kanama"
+            ],
+            "correctIndex": 2,
+            "explanation": "Atardamar kanamaları, kalbin atımıyla uyumlu fışkırır tarzda ve bol oksijenli parlak kırmızı renklidir; hayati tehlikesi en yüksek kanama türüdür. (MKS_Ilk_Yardim M.ALI 2026 AGUSTOS.pdf, s.18)\n\n💡 Hafıza İpucu: ATARDAMAR = KALP GİBİ ATAR/FIŞKIRIR & AÇIK PARLAK KIRMIZI.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -37543,7 +40023,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "saglik-ilkyardim",
         "order": 4,
         "title": "Kas-İskelet Sistemi Sorunları",
-        "officialQuestionCount": 50,
+        "officialQuestionCount": 51,
         "lectureContent": "## 4. Alt Başlık: Kırık, Çıkık, Burkulmalar ve Kazazedeyi Taşıma Teknikleri\n\nKas ve iskelet sistemi yaralanmaları hareket kısıtlılığı ve şiddetli ağrı ile karakterizedir:\nKırık, kemik dokusunun anatomik bütünlüğünün bozulmasıdır. Kapalı kırıkta kemik kırılmıştır ancak deri sağlamdır. Açık kırıkta ise kırık kemik uçları deriyi yırtarak dışarı çıkmıştır; açık kırıklarda en büyük tehlike enfeksiyon ve şiddetli dış kanamadır.\nÇıkık, eklem yüzeylerinin kalıcı olarak birbirinden ayrılmasıdır; eklem normal konumuna kendiliğinden dönemez, belirgin şekil bozukluğu ve kilitlenme görülür.\nBurkulma ise eklem bağlarının ve yüzeylerinin anlık olarak birbirinden ayrılması ve zorlanmasıdır; kalıcı ayrılma yoktur.\n\nKırık, çıkık ve burkulmalarda ortak ilk yardım kuralı tespittir. Tespit yapılırken kırık kemik uçları veya çıkık eklem asla yerine oturtulmaya veya düzeltilmeye çalışılmaz; uzuv nasıl bulunduysa o pozisyonda hareketsiz hale getirilir. Tespit malzemesi olan atel, kırık bölgenin hem bir üstündeki hem de bir altındaki eklemleri içine alacak uzunlukta olmalıdır. Açık kırık varsa önce yaranın üzeri temiz bir bezle kapatılır, ardından atelleme yapılır. Atelleme bittikten sonra uzuvda kan dolaşımının sürdüğünü doğrulamak için parmak uçları açıkta bırakılır; parmakların rengi, ısısı ve nabzı düzenli kontrol edilir. Burkulmalarda dinlenme, soğuk uygulama, elastik bandajla baskı ve uzvu yukarı kaldırma kuralı uygulanır; sıcak uygulama ve masaj yapılmaz.\n\nOmurga, boyun ve kafa travmaları ilk yardımın en hassas konusudur. Yüksekten düşme, trafik kazası, sığ suya atlama veya göçük altında kalma durumlarında kazazedenin omurgasında kırık olduğu varsayılır. Bu hastalarda baş, boyun ve gövde ekseni kesinlikle bozulmamalıdır. Yanlış bir hareket veya boynun bükülmesi omurilik felcine ya da solunum merkezinin durması sonucu ölüme yol açar. Kaza yerinde araç içinde sıkışmamış ve hayati tehlikesi olmayan bir kazazede asla yerinden kıpırdatılmaz.\n\nRentek Manevrası, kaza geçirmiş bir araç içindeki yaralıyı, omuriliğine zarar vermeden araçtan dışarı çıkarma tekniğidir. Rentek manevrası sadece ve sadece iki durumda uygulanır: Araçta yangın veya patlama tehlikesi varsa ya da kazazedenin solunumu durmuş olup acil temel yaşam desteği gerekiyorsa. Kazazedenin ayaklarının pedallara sıkışmadığından emin olunur, emniyet kemeri çözülür. İlk yardımcı kazazedeye yan taraftan yaklaşır; bir eliyle kazazedenin çenesini kavrayarak boynunu sabitler, diğer eliyle kazazedenin karşı kolunu bilekten tutar. Kazazedenin baş, boyun ve gövde ekseni düz bir hat halinde korunarak, kendi göğsüne yaslanacak şekilde tek hamlede araçtan dışarı çekilir.\n\nSedye ile taşıma tekniklerinde genel kurallar şunlardır: Kazazede sedyeye baş, boyun, gövde ekseni korunarak en az üç veya dört ilk yardımcı tarafından eş zamanlı komutla alınır. Sedye daima yatay konumda tutulur. Kazazedenin başı gidiş yönünün tersine, ayakları ise gidiş yönüne bakacak şekilde taşınır; böylece öndeki ve arkadaki görevliler kazazedenin yüzünü ve solunumunu sürekli gözlemleyebilir. Bu kuralın tek istisnası ambulansa bindirme anıdır; kazazede ambulansa başı önde olacak şekilde yerleştirilir.\n\nİtfaiyeci yöntemi, yürüyemeyen veya bilinci kapalı kazazedelerin tek ilk yardımcı tarafından taşınmasında kullanılan omuzda taşıma tekniğidir; ilk yardımcının bir kolu boşta kaldığı için merdiven inip çıkarken tutunma avantajı sağlar. Altın beşik yöntemi ise iki ilk yardımcının ellerini iki, üç veya dört el şeklinde kenetleyerek oluşturdukları oturma zemininde yaralıyı taşıma tekniğidir.",
         "sentences": [
           {
@@ -37879,6 +40359,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Omuzdan destek verme tekniği, bilinci açık ve kendi kendine yürüyebilen hafif yaralılarda uygulanır; ilkyardımcının boynuna yaralının bir kolu dolanır, ilkyardımcı yakın koluyla belden destek verir (Temel İlkyardım Bilgisi s.163).\n\n💡 Hafıza İpucu: Bilinç açık + yürüyebiliyor = en hafif taşıma: omuzdan destek, kol boyna dolanır.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q065",
+            "subtopicId": "gs_4",
+            "courseId": "saglik-ilkyardim",
+            "questionText": "Bir trafik kazasında, araç içindeki bir yaralıyı zarar vermeden araçtan çıkarmak için uygulanması gereken ilk yardım tekniğine ne ad verilir?",
+            "options": [
+              "A) Heimlich manevrası",
+              "B) Rentek manevrası",
+              "C) Koma manevrası",
+              "D) Sellick manevrası",
+              "E) Valsalva manevrası"
+            ],
+            "correctIndex": 1,
+            "explanation": "Kaza yapan araç içindeki yaralının omuriliğine zarar vermeden (baş-boyun-gövde eksenini koruyarak) araçtan çıkarılmasında “Rentek manevrası” uygulanır (2026 Ağustos Mesleğe Kabul B Grubu, S. 65).",
+            "difficulty": "temel"
           }
         ],
         "isAvailable": true
@@ -37888,7 +40384,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "saglik-ilkyardim",
         "order": 5,
         "title": "Acil Durumlar ve Taşıma Teknikleri",
-        "officialQuestionCount": 52,
+        "officialQuestionCount": 54,
         "lectureContent": "## 5. Alt Başlık: Acil Durumlar: Yanıklar, Donmalar, Zehirlenmeler ve Bilinç Bozuklukları\n\nYanıklar, fiziksel veya kimyasal etkenlerle doku harabiyetidir. Derinliğine göre üçe ayrılır:\nBirinci derece yanık, derinin en üst tabakası olan epidermisin hasar görmesidir; deride kızarıklık, ödem ve hafif ağrı vardır, yaklaşık kırk sekiz saatte iz bırakmadan iyileşir; en tipik örneği güneş yanığıdır.\nİkinci derece yanık, derinin alt tabakasının da etkilendiği, içi su dolu kabarcıkların yani büllerin oluştuğu, son derece ağrılı yanıklardır. İlk yardımda büller asla patlatılmaz, enfeksiyon giriş kapısıdır.\nÜçüncü derece yanık ise derinin tüm katmanlarının, kasların, sinirlerin ve kemik dokunun yandığı derin harabiyettir; sinir uçları tahrip olduğu için bu bölgelerde ağrı hissedilmez, renk siyah kömürleşmiş veya beyaz kuru bir görünümdedir.\n\nIsı ile oluşan yanıklarda ilk yardım: Kazazede alev almışsa koşturulmaz, Dur-Yat-Yuvarlan kuralı uygulanır; üzeri kalın bir örtü veya battaniye ile kapatılarak alev oksijensiz bırakılır. Yanan bölge derhal en az on beş ile yirmi dakika boyunca tazyiksiz, oda sıcaklığındaki soğuk çeşme suyu altında tutulur; buz asla doğrudan uygulanmaz, soğuk yanığına yol açar. Yanan bölgedeki saat, yüzük, bilezik gibi takılar ödem oluşmadan hızla çıkarılır. Giysiler deriye yapışmışsa çekiştirilerek soyulmaz, yapışan kısımların etrafı makasla kesilir. Yanık yüzeyine asla diş macunu, yoğurt, salça, zeytinyağı, kolonya veya yanık merhemi sürülmez; sadece temiz, nemli bir bezle üzeri örtülerek sağlık kuruluşuna sevk edilir.\n\nKimyasal yanıklarda toz kimyasal önce kuru bir bezle ciltten süpürülür, ardından bölge en az yirmi dakika boyunca bol suyla yıkanır. Elektrik yanıklarında ilk yardımcı kazazedeye dokunmadan önce mutlaka ana şalterden elektriği keser; şaltere ulaşılamıyorsa kuru tahta veya plastik gibi yalıtkan bir cisimle kazazedenin elektrik teliyle teması kesilir. Elektrik çarpmasında su ile temas ettirilmez, kalp durması riski yüksek olduğundan temel yaşam desteğine hazırlıklı olunur.\n\nSıcak çarpmasında hasta serin, gölgeli bir yere alınır; giysileri gevşetilir, vücut ıslak havlu veya bezlerle soğutulur, bilinci açıksa tuzlu ayran veya su içirilir. Donmalarda donmuş bölge asla ovulmaz, karla masaj yapılmaz veya doğrudan sıcak sobaya ya da ateşe tutulmaz; kuru giysiler giydirilir, ılık içecekler verilir ve kendi halinde yavaşça çözülmesi sağlanır.\n\nZehirlenmeler sindirim, solunum veya cilt yoluyla gerçekleşir. Sindirim yolu zehirlenmelerinde genel ilke kazazedeyi asla kusturmamaktır. Özellikle çamaşır suyu, tuz ruhu, asit, baz, gaz yağı, tiner veya benzin gibi yakıcı maddeler içilmişse kazazede kesinlikle kusturulmaz; kusturulursa yemek borusu ve ağız kimyasal maddeyle ikinci kez yanar. Bilinç kapalıysa kusturulmaz. Solunum yolu zehirlenmelerinde, örneğin karbonmonoksit veya şofben gazı sızıntılarında ilk yardımcı içeri girmeden önce ortamı havalandırır, kıvılcım çıkaracak lamba anahtarlarına dokunmaz, kazazedeyi hızla temiz havaya çıkarır. Zehirlenmelerde ulusal danışma hattı olan yüz on dört Zehir Danışma Merkezi aranır.\n\nBilinç bozukluklarından senkop yani bayılma, beyne giden kan akışının geçici olarak azalması sonucu ortaya çıkan kısa süreli, yüzeysel bilinç kaybıdır. Bayılan kişiye şok pozisyonu verilir, giysileri gevşetilir, temiz hava sağlanır, tokat atılmaz, amonyak veya kolonya koklatılmaz.\n\nKoma, yutkunma ve öksürük gibi reflekslerin ve dış uyarılara karşı tepkilerin kaybolduğu uzun süreli, derin bilinç kaybıdır. Koma pozisyonu verilir ve yaşamsal bulgular takip edilir.\n\nEpilepsi yani sara krizinde hasta aniden yere düşer, kasılmalar, çenede kilitlenme, ağızda köpürme ve istemsiz hareketler görülür. Kriz anında ilk yardımcı hastanın çenesini zorla açmaya çalışmaz, dişlerinin arasına sert cisim veya kaşık sokmaz, dilini tutmaya çalışmaz, kasılan kolları ve bacakları bastırarak engellemez, soğan koklatmaz. Yapılacak tek müdahale hastanın başının altına yumuşak bir yastık veya giysi koyarak başını yere çarpmasını engellemek, etraftaki sivri ve tehlikeli eşyaları uzaklaştırmak, kriz bittikten sonra solunumunu kontrol edip koma pozisyonuna almaktır.\n\nGöze yabancı cisim batmasında veya kimyasal madde sıçramasında göz asla ovuşturulmaz; batan cisim yerinde bırakılarak her iki göz birden bandajla kapatılır; gözler birlikte hareket ettiği için sağlam gözün kapanması yaralı gözün hareketini engeller. Kulağa kaçan böcek veya cisimlerde içeri sivri alet sokulmaz. Boğulmalarda kazazedenin ciğerlerindeki suyu çıkarmak için karnına basılarak vakit kaybedilmez; suyun yalnızca küçük bir kısmı akciğere kaçar, ölüme yol açan etken soluk borusunun spazmıyla oksijensiz kalmaktır; bu nedenle derhal suni solunum ve kalp masajına odaklanılır.",
         "sentences": [
           {
@@ -38388,6 +40884,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Triajda en yüksek öncelikli, hayati tehlikesi olan yaralı grubu kırmızı renkle temsil edilir (İLK YARDIM konu-arkası s.171).\n\n💡 Hafıza İpucu: KIRMIZI = alarm rengi = en acil müdahale önceliği.",
             "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q064",
+            "subtopicId": "gs_5",
+            "courseId": "saglik-ilkyardim",
+            "questionText": "Aşağıdakilerden hangisi tur sırasında yaşanan bir kaza anında hayati tehlikesi bulunan ve acil müdahale edilmesi gereken hasta ve yaralılara verilecek triaj renk kodudur?",
+            "options": [
+              "A) Yeşil",
+              "B) Mavi",
+              "C) Beyaz",
+              "D) Kırmızı",
+              "E) Sarı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Triaj sınıflamasında “Kırmızı” kod, hayati tehlikesi olan ve acil/birinci öncelikli müdahale gerektiren hasta ve yaralıları ifade eder (Sarı: ertelenebilir acil, Yeşil: ayakta hafif, Siyah: ölü/kurtarılamaz) (2026 Ağustos Mesleğe Kabul B Grubu, S. 64).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_SAG-004",
+            "subtopicId": "gs_5",
+            "courseId": "saglik-ilkyardim",
+            "questionText": "Kaza geçirmiş bir yaralıyı araç içinden omuriliğine ve boynuna zarar vermeden, baş-boyun-gövde eksenini koruyarak çıkarmak için kullanılan özel manevra hangisidir?",
+            "options": [
+              "A) Heimlich Manevrası",
+              "B) Rentek Manevrası",
+              "C) Koma Pozisyonu",
+              "D) Şok Pozisyonu",
+              "E) İtfaiyeci Taşıması"
+            ],
+            "correctIndex": 1,
+            "explanation": "Rentek Manevrası, patlama veya yangın riski gibi hayati tehlike olan hallerde kazazedeyi araçtan omurilik felcini engelleyecek şekilde çıkarmak için uygulanır. (MKS_Ilk_Yardim M.ALI 2026 AGUSTOS.pdf, s.29)\n\n💡 Hafıza İpucu: RENTEK = ARAÇTAN OMURİLİĞİ KORUYARAK ÇIKARMA.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -38398,7 +40926,7 @@ export const COURSES_DATA: Course[] = [
     "id": "iletisim-rehberlik",
     "title": "İletişim ve Rehberlik Becerileri",
     "slug": "iletisim-ve-rehberlik-becerileri",
-    "totalOfficialQuestions": 273,
+    "totalOfficialQuestions": 281,
     "description": "İletişimin Temel Ögeleri, İletişim Türleri, Çatışma Yönetimi, Kültürlerarası İletişim ve Grup Dinamiği.",
     "iconName": "MessageSquare",
     "isAvailable": true,
@@ -38408,7 +40936,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "iletisim-rehberlik",
         "order": 1,
         "title": "İletişimin Temel Ögeleri",
-        "officialQuestionCount": 57,
+        "officialQuestionCount": 58,
         "lectureContent": "## 1. Alt Başlık: Temel İletişim Süreci ve Ögeleri\n\nİletişim, en yalın tanımıyla bilgi, duygu, düşünce ve tutumların kaynaktan alıcıya belirli kanallar ve simgeler aracılığıyla aktarılması ve bu aktarımın ortak bir anlam dünyası oluşturması sürecidir. İletişimin gerçekleşebilmesi için birbiriyle dinamik etkileşim halinde olan yedi temel bileşenin eksiksiz çalışması gerekir:\n\n### A. İletişim Sürecinin Temel Bileşenleri\n* **Kaynak (Gönderici):** İletişim sürecini başlatan, zihnindeki duygu veya düşünceyi bir amaca yönelik olarak ileti haline getiren kişi veya kurumdur. Tur bağlamında kaynak, turu yöneten ve bilgiyi aktaran turist rehberidir. Kaynağın inanılırlığı, güvenirliği, alandaki uzmanlığı ve empati yeteneği iletişimin başarısını doğrudan belirler.\n* **Kodlama (Encoding):** Kaynağın zihnindeki soyut duygu, düşünce ve bilgileri karşı tarafın algılayabileceği somut işaretlere, sözcüklere, ses tonuna, jest veya mimiklere dönüştürme sürecidir. Bir rehberin Hitit dini törenlerini anlatırken jestlerini ve ses tonunu sahneleyici bir dille şekillendirmesi bir kodlama işlemidir.\n* **İleti (Mesaj):** Kaynağın alıcıya ulaştırmak istediği duygu, düşünce ve bilginin kodlanmış, somutlaşmış halidir. İletinin açık, net, anlaşılır, hedef kitlenin seviyesine uygun ve zamanlamasının doğru olması gerekir.\n* **Kanal (Araç):** İletinin kaynaktan alıcıya ulaşırken geçtiği fiziksel ve teknik yoldur. İnsan duyuları (görme, işitme, dokunma, koklama) doğal kanallardır; mikrofon, kulaklık sistemi (whisper/infoport), rehberlik kitabı veya görsel broşürler ise teknik kanalları oluşturur.\n* **Alıcı (Hedef):** Kaynaktan gelen iletiyi algılayan, anlamlandıran ve tepki veren kişi ya da gruptur. Rehberlikte alıcı, tur katılımcılarıdır.\n* **Kod Açma (Decoding):** Alıcının duyu organları aracılığıyla ulaştığı iletiyi zihninde çözümlemesi, yorumlaması ve ona kişisel bir anlam yüklemesi sürecidir. Alıcının eğitim düzeyi, dili, kültürel geçmişi ve ruh hali kod açma başarısını doğrudan etkiler.\n* **Geri Bildirim (Dönüt / Feedback):** Alıcının iletiye verdiği her türlü sözlü veya sözsüz tepkidir. İletişimin tek yönlü bir bilgilendirme olmaktan çıkıp çift yönlü gerçek bir iletişime dönüşmesini sağlayan yegane öge geri bildirimdir. Turistin başını sallaması, gülümsemesi, soru sorması veya esnemesi rehbere anlatımının anlaşılıp anlaşılmadığını gösteren birer dönüttür. Geri bildirimin olmadığı yerde iletişim değil, yalnızca enformasyon (tek yönlü iletim) vardır.\n\n### B. İletişim Sürecini Bozan Faktör: Gürültü (Parazit)\nİletişim kanalını etkileyerek iletinin alıcıya ulaşmasını engelleyen, bozan ya da anlamını değiştiren her türlü dış veya iç etkene gürültü denir. Gürültü dört temel biçimde ortaya çıkar:\n* **Fiziksel Gürültü:** Dış çevreden gelen sesler ve mekansal engellerdir (tur otobüsünün motor gürültüsü, inşaat sesi, rüzgar uğultusu, mikrofon cızırtısı).\n* **Fizyolojik Gürültü:** Kaynağın ya da alıcının bedeninden kaynaklanan engellerdir (turistin işitme kaybı olması, açlık, aşırı yorgunluk, rehberin ses kısıklığı veya yüksek ateş).\n* **Psikolojik Gürültü:** Bireylerin zihinsel durumları, ön yargıları, heyecan, öfke, stres, aşırı sevinç veya dalgınlıklarıdır. Örneğin sabah ailesiyle telefonda tartışan bir turistin rehberin anlattıklarına odaklanamaması psikolojik gürültüdür.\n* **Semantik (Anlamsal) Gürültü:** Kaynak ile alıcının aynı sözcüklere veya simgelere farklı anlamlar yüklemesidir. Aşırı teknik arkeolojik terimlerin kullanılması, yöresel şive farklılıkları veya yabancı dildeki yanlış sözcük seçimleri semantik gürültü yaratır.\n\n---",
         "sentences": [
           {
@@ -38703,6 +41231,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Medya araçlarıyla geniş kitlelere aynı anda ulaşılan iletişim biçimi kitle iletişimidir; kitle iletişiminde yansıma (geri bildirim) genellikle gecikmelidir (Etkili İletişim Teknikleri s.49, s.55).\n\n💡 Hafıza İpucu: Kitle = çoğa aynı anda; geri bildirimi GECİKMELİ gelir (mektup gibi).",
             "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_İLT-001",
+            "subtopicId": "ir_1",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "İletişim sürecinde alıcının gönderdiği mesajı çözdükten sonra kaynağa geri bildirimde bulunarak iletişimi çift yönlü kılan temel ögeye ne ad verilir?",
+            "options": [
+              "A) Kanal",
+              "B) Geri Bildirim (Dönüt)",
+              "C) Kodlama",
+              "D) Gürültü",
+              "E) Bağlam"
+            ],
+            "correctIndex": 1,
+            "explanation": "Dönüt (geri bildirim), mesajın hedefe ulaşıp ulaşmadığını ve doğru anlaşılıp anlaşılmadığını kaynağa bildiren vazgeçilmez ögedir. (MKS_Iletisim M.ALI 2026 AGUSTOS.pdf, s.4)\n\n💡 Hafıza İpucu: DÖNÜT (GERİ BİLDİRİM) = ÇİFT YÖNLÜ İLETİŞİMİN ANAHTARI.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -38712,7 +41256,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "iletisim-rehberlik",
         "order": 2,
         "title": "İletişim Türleri",
-        "officialQuestionCount": 53,
+        "officialQuestionCount": 57,
         "lectureContent": "## 2. Alt Başlık: İletişim Türleri ve Beden Dilinin İncelikleri\n\nİletişim, kullanılan kod sistemine ve yönüne göre sınıflandırılır. Bir turist rehberinin başarısı, sözlü iletişim ile sözsüz iletişimi mükemmel bir uyumla birleştirebilmesine bağlıdır.\n\n### A. Sözlü ve Sözsüz İletişim Ayrımı\n* **Sözlü İletişim:** Konuşulan dil ve yazılı metinler aracılığıyla gerçekleştirilen iletişimdir. Sözcük seçimi, diksiyon, telaffuz doğruluğu ve anlatım akıcılığı bu kapsama girer.\n* **Söz Dışı (Paradil / Ses Nitelikleri):** Konuşulan sözcüklerin kendisi değil, sesin nasıl kullanıldığıdır. Ses tonu, vurgu, duraklama, konuşma ritmi, sesin yüksekliği veya fısıltı gibi unsurlardır. Aynı cümle farklı bir vurguyla alaycı, neşeli ya da emredici bir anlama bürünebilir.\n* **Sözsüz İletişim (Beden Dili):** Sözcük kullanılmadan beden hareketleri, duruş, bakış ve mesafe ile gerçekleştirilen iletişimdir. Albert Mehrabian'ın klasik iletişim modeline göre, yüz yüze duygusal iletişimde sözcüklerin etkisi yalnızca yüzde yedi, ses tonunun etkisi yüzde otuz sekiz, beden dilinin etkisi ise yüzde elli beştir. Söz ile beden dili çeliştiğinde insanlar daima beden diline inanır.\n\n### B. Beden Dilinin Temel Boyutları\n* **Kinezik (Beden Hareketleri):** Jestler (el, kol, baş hareketleri) ve mimikler (yüz kaslarının kullanımı). Açık avuç içleri güvenilirlik ve samimiyeti; göğüste kavuşturulmuş kollar ise savunmaya çekilmeyi, iletişime kapalılığı ve mesafeyi simgeler.\n* **Göz Teması (Okulesik):** Karşıdaki kişiye verilen değeri, güveni ve ilgiyi gösteren en güçlü kanaldır. Rehber grupta belirli bir kişiye sabitlenmeden, tüm grup üyelerini kapsayacak şekilde doğal ve dengeli bir göz teması kurmalıdır. Sürekli göz kaçırmak güvensizlik veya samimiyetsizlik algısı yaratırken, gözünü ayırmadan dik dik bakmak rahatsız edici ve saldırgan bir izlenim bırakır.\n* **Proksemik (Kişisel Alan ve Mekan Kullanımı):** Edward T. Hall tarafından tanımlanan bu kuram, insanların çevrelerinde görünmez sınırlarla oluşturdukları dört temel mekansal mesafeyi açıklar:\n  1. **Mahrem Alan (0 ila 45 cm):** Yalnızca çok yakın aile bireyleri, eş ve sevgililerin girmesine izin verilen en özel alandır. Bu alana izinsiz girişler derin bir tehdit ve rahatsızlık yaratır.\n  2. **Kişisel Alan (45 ila 120 cm):** Yakın arkadaşlar, samimi dostlar ve tanıdıklarla sürdürülen mesafedir. Birbirine temas etmeden rahatça konuşma mesafesidir.\n  3. **Sosyal Alan (1,2 metre ila 3,5 metre):** İş ilişkileri, resmi görüşmeler, alışveriş ortamları ve turist rehberinin gruptaki bireylerle tur esnasında koruması gereken profesyonel ve ideal mesafedir.\n  4. **Kamusal Alan (3,5 metre ve üzeri):** Halka açık konferanslarda, mitinglerde ve tanınmayan kalabalıklar arasında korunan mesafedir.\n* **Haptik (Dokunsal İletişim):** Dokunma yoluyla kurulan iletişimdir. Tokalaşma, sırt sıvazlama veya omuza dokunma gibi eylemler kültüre göre büyük farklılıklar gösterir ve mesleki sınırların korunmasında dikkatle yönetilmelidir.\n\n---",
         "sentences": [
           {
@@ -39509,6 +42053,70 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Göz teması kurma, geri bildirim verme ve anladığını özetleme, etkin dinlemenin temel unsurlarıdır (Etkili İletişim Teknikleri s.20-22).\n\n💡 Hafıza İpucu: Bakış + baş sallama + özet = tam bir ETKİN DİNLEME.",
             "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q071",
+            "subtopicId": "ir_2",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Bir turist rehberinin, kendisini konuğun yerine koyarak onun duygu ve düşüncelerini doğru anlamaya yoğunlaşıp, memnuniyetsizliğe sebep olan nedenleri çözmeye çalışması, iletişim kapsamında aşağıdaki hangi özelliğe yönelik bir örnektir?",
+            "options": [
+              "A) Empati",
+              "B) Sempati",
+              "C) Özgüven",
+              "D) Oryantasyon",
+              "E) Performans"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bir kişinin kendisini karşısındakinin yerine koyarak onun duygu ve düşüncelerini doğru biçimde anlamaya çalışması ve bunu ona hissettirmesi “empati”dir (2026 Ağustos Mesleğe Kabul B Grubu, S. 71).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q073",
+            "subtopicId": "ir_2",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "I. Göz\nII. Kol\nIII. El\nIV. Ayak\nV. Ağız\n\nYukarıdakilerden hangileri turist rehberinin anlatımlarında \"jest\" yaparken kullandığı beden dili kaynaklarındandır?",
+            "options": [
+              "A) I, II ve III",
+              "B) I, IV ve V",
+              "C) II, III ve IV",
+              "D) II, III ve V",
+              "E) III, IV ve V"
+            ],
+            "correctIndex": 2,
+            "explanation": "Beden dilinde el, kol, ayak ve baş hareketleri “jest” kapsamında değerlendirilirken; göz, kaş ve ağız gibi yüz kaslarının hareketleri “mimik” olarak sınıflandırılır (2026 Ağustos Mesleğe Kabul B Grubu, S. 73).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "agustos2026_b_q076",
+            "subtopicId": "ir_2",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Restorandaki servis çalışanlarının aynı tür kıyafet giymesi, sözsüz iletişimin aşağıdaki kaynaklarından hangisi kapsamında değerlendirilir?",
+            "options": [
+              "A) Mesafe",
+              "B) Temas",
+              "C) Mimik",
+              "D) Dokunma",
+              "E) Fiziksel görünüm"
+            ],
+            "correctIndex": 4,
+            "explanation": "Giyim, üniforma, aksesuar ve dış görünüş özellikleri sözsüz iletişimin “fiziksel görünüm” boyutu içinde değerlendirilir (2026 Ağustos Mesleğe Kabul B Grubu, S. 76).",
+            "difficulty": "temel"
+          },
+          {
+            "id": "trp_bank_İLT-002",
+            "subtopicId": "ir_2",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Turist rehberinin anlatım esnasında kullandığı ses tonu, vurgu, ses perdesi, duraklamalar ve konuşma temposu sözsüz iletişimin hangi alt başlığına girer?",
+            "options": [
+              "A) Kinesiks (Beden Dili)",
+              "B) Proksemiks (Kişisel Alan)",
+              "C) Paradil (Ses Dili / Paralinguistics)",
+              "D) Kronemiks (Zaman Dili)",
+              "E) Haptiks (Dokunma Dili)"
+            ],
+            "correctIndex": 2,
+            "explanation": "Paradil (paralinguistics), söylenen kelimelerin kendisi değil; sesin şiddeti, tınısı, melodisi ve hızını inceleyen ses ötesi sözsüz iletişim alanıdır. (MKS_Iletisim M.ALI 2026 AGUSTOS.pdf, s.16)\n\n💡 Hafıza İpucu: PARADİL = SES TONU, VURGU VE TEMPO.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -39518,7 +42126,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "iletisim-rehberlik",
         "order": 3,
         "title": "İletişim Engelleri ve Çatışma Yönetimi",
-        "officialQuestionCount": 55,
+        "officialQuestionCount": 56,
         "lectureContent": "## 3. Alt Başlık: İletişim Engelleri, Çatışma Türleri ve Çözüm Stratejileri\n\nRehberlik turları, farklı beklentilere sahip yabancı insanların günlerce bir arada, kapalı mekanlarda ve otobüslerde zaman geçirdiği hassas ortamlardır. Bu ortamlarda iletişimin kesintiye uğraması veya çatışmaların patlak vermesi sık rastlanan durumlardır.\n\n### A. Bireysel ve Psikolojik İletişim Engelleri\n* **Savunucu İletişim:** Bireyin eleştirilme, yetersiz görülme veya haksızlığa uğrama korkusuyla sürekli kendini savunmaya, karşı saldırıya geçmeye veya mazeret üretmeye yönelmesidir. Jack Gibb, iletişim iklimini ikiye ayırır: Yargılayıcı, denetleyici ve üstünlük taslayan tutumlar **savunucu iklim** yaratırken; tanımlayıcı, soruna yönelen ve empati içeren tutumlar **destekleyici iklim** oluşturur.\n* **Ön Yargı ve Kalıp Yargı (Stereotip):** Bir kişi ya da grup hakkında yeterli bilgiye sahip olmadan peşin hüküm vermek veya belirli bir ulusun tüm bireylerini tek bir etiketle genellemektir (örneğin tüm Almanları dakik, tüm Akdenizlileri sorumsuz varsaymak).\n* **Halo Etkisi (Hale Etkisi):** Bir bireyin tek bir olumlu özelliğinden (örneğin çok şık giyinmesi veya çok kibar bir selam vermesi) yola çıkarak onun tüm özelliklerinin kusursuz olduğunu varsaymaktır.\n* **Horn Etkisi (Ters Hale Etkisi):** Bir bireyin tek bir olumsuz davranışından (örneğin tura beş dakika geç kalması) yola çıkarak onun tamamen saygısız, bencil ve uyumsuz biri olduğuna hükmetmektir.\n* **Seçici Algılama:** İnsanların kendi inançlarına, beklentilerine ve çıkarlarına uygun düşen iletileri duyup kabul etmesi, uyuşmayan iletileri ise görmezden gelmesi veya çarpıtmasıdır.\n* **Kutuplaşma (Ya Hep Ya Hiç Düşüncesi):** Olayları ve insanları yalnızca iki uçta (ya harika ya berbat, ya tam dost ya düşman) değerlendirme eğilimidir.\n\n### B. Thomas-Kilmann Çatışma Yönetimi Modeli\nİki taraf arasında amaç, değer veya yöntem uyuşmazlığı doğduğunda ortaya çıkan çatışmalar, Kenneth Thomas ve Ralph Kilmann'ın iki eksenli modeline (Kendi amacında ısrarcı olma ve Karşı tarafın çıkarını gözetme) göre beş farklı stratejiyle yönetilir:\n1. **Kaçınma (Geri Çekilme):** Çatışmayı görmezden gelmek, konuyu ertelemek veya tarafsız kalmaktır. Sorun çok önemsiz olduğunda veya ortam aşırı gerginken sakinleşmek için geçici olarak kullanılabilir ancak kalıcı çözüm üretmez. (Kaybet - Kaybet).\n2. **Uyum Sağlama (Kabullenme):** Kendi isteklerinden tamamen vazgeçip karşı tarafın talebini kabul etmektir. İlişkiyi korumak sorunun içeriğinden çok daha önemli olduğunda tercih edilir. (Kaybet - Kazan).\n3. **Rekabet (Güç Kullanma / Zorlama):** Kendi çıkarını ve haklılığını her ne pahasına olursa olsun karşı tarafa dayatmaktır. Acil kriz anlarında veya kuralların tavizsiz uygulanması gereken yasal durumlarda zorunlu olabilir. (Kazan - Kaybet).\n4. **Uzlaşma (Orta Yol):** Her iki tarafın da belirli isteklerinden ödün vererek orta bir noktada buluşmasıdır. Hızlı bir uzlaşı gerektiğinde etkilidir. (Kısmi Kazan - Kısmi Kaybet).\n5. **İş Birliği (Problem Çözme):** Her iki tarafın da temel ihtiyaçlarını tam olarak karşılayan yeni ve yaratıcı bir ortak çözüm üretmektir. İdeal olan ancak en çok zaman ve çaba gerektiren yöntemdir. (Kazan - Kazan).\n\n### C. Profesyonel Rehberin İletişim Araçları: Ben Dili ve Etkin Dinleme\n* **Sen Dili:** Karşı tarafı suçlayan, yargılayan, etiketleyen ve savunmaya iten ifadedir (\"Sürekli tura geç kalıyorsun, çok saygısızsın\").\n* **Ben Dili:** Karşı tarafı kişisel olarak hedef almadan, yaşanan somut davranışı, bu davranışın üzerimizdeki somut etkisini ve bizde hissettirdiği duyguyu ifade etmektir (\"Otobüs hareket saatinde hazır olunmadığında program aksıyor ve zamanında müzelere yetişemeyeceğiz diye endişeleniyorum\"). Ben dili direnci kırar ve empatiyi tetikler.\n* **Etkin Dinleme (Aktif Dinleme):** Yalnızca sözcükleri duymak değil; konuşmacının duygusunu, niyetini anlamak, göz teması kurmak, sözünü kesmemek ve anlaşıldığını teyit etmek için onun söylediklerini kendi cümleleriyle özetlemektir (Açımlama / Paraphrasing).\n\n---",
         "sentences": [
           {
@@ -39989,6 +42597,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Kaynağın çok teknik/jargon ağırlıklı bir dil kullanması, alıcının anlayamamasına yol açan anlamsal (semantik) gürültü örneğidir (Etkili İletişim Teknikleri s.56; İletişim Bilgisi s.83).\n\n💡 Hafıza İpucu: Jargon = dil çukuru = SEMANTİK gürültü.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "trp_bank_İLT-003",
+            "subtopicId": "ir_3",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Kişinin kendini karşısındakinin yerine koyarak onun duygularını, düşüncelerini ve bakış açısını tarafsız bir kavrayışla anlama becerisine ne ad verilir?",
+            "options": [
+              "A) Sempati",
+              "B) Empati",
+              "C) Antipati",
+              "D) Apatik yaklaşım",
+              "E) Özdeşleşme"
+            ],
+            "correctIndex": 1,
+            "explanation": "Empati; kişinin kendi benliğini koruyarak bir başkasının dünyasını onun gözleriyle görme yetisidir. Sempati ise doğrudan hak verme ve acıyı/sevinci özdeş yaşama durumudur. (MKS_Turizm_Sosyolojisi_Psikolojisi M ALI 2026 AGUSTOS.pdf, s.21)\n\n💡 Hafıza İpucu: EMPATİ = ANLAMAK; SEMPATİ = TARAF TUTUP AYNEN HİSSETMEK.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -40421,7 +43045,7 @@ export const COURSES_DATA: Course[] = [
         "courseId": "iletisim-rehberlik",
         "order": 5,
         "title": "Psikolojik Kuramlar ve Grup Dinamiği",
-        "officialQuestionCount": 58,
+        "officialQuestionCount": 60,
         "lectureContent": "## 5. Alt Başlık: Psikolojik Kuramlar, Kişilik Tipleri ve Grup Dinamiği\n\nBir turun başarısı, grubun kolektif enerjisini doğru yönlendirmeye ve bireysel kişilik krizlerini doğru psikolojik çerçevede çözümlemeye dayanır.\n\n### A. Transaksiyonel Analiz (Eric Berne)\nEric Berne tarafından geliştirilen bu kurama göre her insanın kişiliğinde üç temel **Benlik Durumu** bulunur. İletişim, bu benlik durumları arasındaki etkileşimdir (transaksiyon):\n1. **Anne-Baba (Ebeveyn) Benlik Durumu:** Çocuklukta ebeveynlerden kopyalanan kuralcı, koruyucu, eleştiren ya da yönlendiren tutumlardır. İkiye ayrılır:\n   * *Eleştirel Ebeveyn:* Yargılar, kural koyar, azarlar ve sınır çizer.\n   * *Koruyucu Ebeveyn:* Şefkat gösterir, korur, besler ve aşırı kaygılanır.\n2. **Yetişkin Benlik Durumu:** Mantıklı, akılcı, duygulardan arınmış, verileri toplayan, durum değerlendirmesi yapan ve objektif kararlar alan benliktir. Profesyonel bir turist rehberinin turlarda sürekli olarak bulunması gereken merkez benlik durumu **Yetişkin** benliğidir.\n3. **Çocuk Benlik Durumu:** Bireyin çocukluk dönemindeki doğal dürtülerini, yaratıcılığını ya da bastırılmış korkularını barındırır. İkiye ayrılır:\n   * *Doğal Çocuk:* Spontane, neşeli, meraklı, açık sözlü ve coşkuludur.\n   * *Uyumlu (Asi) Çocuk:* Kurallara ya tamamen boyun eğer ya da inatla başkaldırır, mızmızlanır ve küser.\n\n**Transaksiyon Türleri:**\n* **Tamamlayıcı (Paralel) Transaksiyon:** İletişimin başladığı benlik durumuna beklenen benlikten yanıt gelmesidir (Yetişkin'den Yetişkin'e: \"Saat kaçta buluşacağız?\" yanıtı \"Saat on beşte\"). İletişim pürüzsüz akar.\n* **Çapraz Transaksiyon:** Gönderilen iletiye farklı ve beklenmedik bir benlikten tepki gelmesidir (Turist: \"Müze kartım kayboldu ne yapacağım?\" — Rehber Eleştirel Ebeveyn olarak: \"Çocuk musunuz, neden eşyalarınıza sahip çıkmıyorsunuz?\"). İletişim anında kopar ve çatışma başlar.\n* **Örtük (Gizil) Transaksiyon:** Sosyal düzeyde söylenen sözcüklerin altında psikolojik düzeyde gizli bir mesajın barınmasıdır.\n\n### B. Johari Penceresi (Joseph Luft ve Harry Ingham)\nBireyin kendisi ile başkaları arasındaki farkındalık ve açık iletişim düzeyini ölçen dört gözlü bir modeldir:\n1. **Açık Alan:** Hem kişinin kendisi hem de başkaları tarafından bilinen alandır (adı, mesleği, herkesin gördüğü neşeli tavırları). İletişimin en sağlıklı yürüdüğü alandır.\n2. **Kör Alan:** Başkalarının gördüğü ancak kişinin kendisinin farkında olmadığı alandır (örneğin rehberin farkında olmadan sürekli aynı tiki sergilemesi veya konuşurken ses tonunun agresif algılanması). Geri bildirimle bu alan küçültülür.\n3. **Gizli Alan:** Kişinin kendisinin bildiği ancak başkalarından gizlediği sırlardır (korkuları, ailevi sorunları, özel hedefleri). Kişinin kendini açmasıyla açık alana dönüşebilir.\n4. **Bilinmeyen (Karanlık) Alan:** Ne kişinin kendisi ne de başkaları tarafından bilinen bilinçaltı dürtüler ve potansiyellerdir.\n\n### C. Maslow'un İhtiyaçlar Hiyerarşisi\nAbraham Maslow'a göre insan ihtiyaçları bir piramit gibi en alttan yukarıya doğru sıralanır ve alt basamaktaki ihtiyaç karşılanmadan bir üst basamağa geçilemez:\n1. **Fizyolojik İhtiyaçlar:** Açlık, susuzluk, uyku, tuvalet ihtiyacı. Turda tuvalet ihtiyacı olan ya da çok susamış bir grup üyesine arkeolojik lahitlerin tarihini anlatamazsınız; önce fizyolojik ihtiyaç çözülmelidir.\n2. **Güvenlik İhtiyacı:** Can, mal, sağlık güvenliği ve belirsizlikten korunma.\n3. **Ait Olma ve Sevgi:** Bir grubun parçası olma, kabul görme, dışlanmama.\n4. **Saygınlık (Değer Görme):** Başarı, takdir edilme, statü ve saygı görme.\n5. **Kendini Gerçekleştirme:** Kişisel potansiyelini sonuna kadar kullanma, estetik ve bilgelik arayışı.\n\n### D. Bruce Tuckman'ın Grup Gelişim Aşamaları\nBir araya gelen turist grupları aniden organize bir topluluğa dönüşmez; Tuckman'ın beş aşamalı sürecinden geçer:\n1. **Oluşum (Forming):** Grubun ilk tanıştığı, herkesin kibar, temkinli ve rehberden yönlendirme beklediği oryantasyon evresidir.\n2. **Fırtına (Storming):** Kuralların, koltuk düzeninin veya yemek tercihlerinin tartışıldığı, liderliğin sorgulandığı, kutuplaşmaların ve çatışmaların su yüzüne çıktığı en kritik evredir. Rehber burada adil ve sakin durmalıdır.\n3. **Kuralların Oluşumu (Norming):** Çatışmaların çözüldüğü, grubun ortak kuralları benimsediği, \"biz\" bilincinin ve grup kimliğinin filizlendiği evredir.\n4. **Performans (Performing):** Grubun birbiriyle uyum içinde hareket ettiği, enerjinin tura ve öğrenmeye harcandığı en verimli evredir.\n5. **Ayrılma (Adjourning):** Turun bittiği, duygusal vedalaşmaların yaşandığı ve grubun dağıldığı kapanış evresidir.\n\n---\n\n### 🎯 Sınav Refleks Tablosu: Soru Bankası Tuzakları ve Çözüm Çapaları\n\n| Çeldirici / Karışan Kavram Çifti | Doğru Bilgi ve Ayrım Çapası | Sınavın Test Ettiği Yön |\n| :--- | :--- | :--- |\n| **Enformasyon vs İletişim** | Geri bildirim (dönüt) yoksa = **Enformasyon** (Tek yönlü); Geri bildirim varsa = **İletişim** (Çift yönlü). | Geri bildirimin varlığı |\n| **Halo Etkisi vs Horn Etkisi** | Tek olumlu özellikten bütüne olumlu bakma = **Halo (Hale)**; Tek olumsuzdan bütünü karalama = **Horn (Ters Hale)**. | Yargının yönü (Pozitif vs Negatif) |\n| **Proksemik Alan Aralıkları** | 0-45 cm = **Mahrem**; 45-120 cm = **Kişisel**; 1,2-3,5 m = **Sosyal**; 3,5 m üzeri = **Kamusal**. | Sayısal sınır eşleştirmesi |\n| **Yüksek Bağlam vs Düşük Bağlam** | Anlam sözcüklerin bizzat içinde, doğrudan = **Düşük Bağlam** (Alman, ABD); İma, beden dili ve ortam önemli = **Yüksek Bağlam** (Doğu, Akdeniz). | Kültürel iletişim biçimi |\n| **Ben Dili vs Sen Dili** | Suçlayıcı, öfkeli, savunmaya iten = **Sen Dili**; Durumu, etkiyi ve duyguyu belirten = **Ben Dili**. | Çatışma çözücü ifade tarzı |\n| **Etnosentrizm vs Kültürel Görelilik** | Kendi kültürünü üstün görüp başkasını yargılama = **Etnosentrizm**; Her kültürü kendi şartlarında anlama = **Kültürel Görelilik**. | Kültürel ön yargı vs Hoşgörü |\n| **Johari Penceresi Kör Alan vs Gizli Alan** | Kendisi bilmez, başkası bilir = **Kör Alan**; Kendisi bilir, başkası bilmez = **Gizli Alan**. | Bilginin sahibi (Ben vs Başkası) |\n| **Tuckman Fırtına vs Kurallar Evresi** | Liderliğin sorgulandığı ve çatışılan = **Fırtına (Storming)**; \"Biz\" bilincinin doğduğu = **Kurallar (Norming)**. | Grubun gelişim basamakları |\n| **Transaksiyonel Analiz Yetişkin Rolü** | Mantıklı, veriye dayalı, duygusuz değerlendirme = **Yetişkin**; Rehberin krizlerde durması gereken yegane yerdir. | Profesyonel benlik konumu |",
         "sentences": [
           {
@@ -41366,6 +43990,38 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 4,
             "explanation": "Tekrar ziyaret niyeti ve tavsiye etme davranışı, memnuniyetin ötesinde süregelen bir bağlılığı yani turist sadakatini gösterir (Mart 2026 sınavı Q82 bağlamı — duygusal bağ → tekrar ziyaret niyeti).\n\n💡 Hafıza İpucu: Tavsiye + tekrar gelme = sadakatin iki imzası.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "agustos2026_b_q068",
+            "subtopicId": "ir_5",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Aşağıdakilerden hangisi bir turistin satın alma karar sürecini etkileyen içsel faktörlerden biridir?",
+            "options": [
+              "A) Aile",
+              "B) Sosyal sınıf",
+              "C) Grup",
+              "D) Kültür",
+              "E) Algılama"
+            ],
+            "correctIndex": 4,
+            "explanation": "Algılama, güdülenme, öğrenme, tutum ve kişilik turistin satın alma kararını etkileyen içsel (psikolojik) faktörlerdendir; aile, sosyal sınıf, referans grubu ve kültür ise dışsal (sosyokültürel) faktörlerdir (2026 Ağustos Mesleğe Kabul B Grubu, S. 68).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "trp_bank_İLT-004",
+            "subtopicId": "ir_5",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Bruce Tuckman'ın grup gelişim modelinde, tur grubunun üyeleri arasında ilk sürtüşmelerin, liderlik ve rol çatışmalarının yaşandığı ikinci evre hangisidir?",
+            "options": [
+              "A) Forming (Oluşum)",
+              "B) Storming (Fırtına / Çatışma)",
+              "C) Norming (Kuralların Oluşumu)",
+              "D) Performing (Başarım / Performans)",
+              "E) Adjourning (Ayrılma)"
+            ],
+            "correctIndex": 1,
+            "explanation": "Tuckman modelinde grup sırasıyla Forming (Tanışma), Storming (Fırtına/Çatışma), Norming (Uyum/Kurallar), Performing (Yüksek Verim) ve Adjourning (Dağılma) aşamalarından geçer. (MKS_Turizm_Sosyolojisi_Psikolojisi M ALI 2026 AGUSTOS.pdf, s.39)\n\n💡 Hafıza İpucu: TUCKMAN: Forming -> Storming (Çatışma) -> Norming -> Performing.",
             "difficulty": "orta"
           }
         ],

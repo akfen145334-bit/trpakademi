@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ANM-001",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Tarih Öncesi Anadolu (Prehistorya)",
+    "soru": "Şanlıurfa'da yer alan, T biçimli dikilitaşları, hayvan kabartmaları ve astronomik yönelimleriyle dünyanın bilinen en eski anıtsal megalitik tapınak kompleksi kabul edilen Neolitik alan hangisidir?",
+    "siklar": {
+      "A": "Çatalhöyük",
+      "B": "Hacılar",
+      "C": "Göbekli Tepe",
+      "D": "Alacahöyük",
+      "E": "Nevali Çori"
+    },
+    "dogru": "C",
+    "cozum": "MÖ 9600 civarına tarihlenen Çanak Çömleksiz Neolitik döneme ait Göbekli Tepe, avcı-toplayıcı insanların yerleşik köylerden önce anıtsal tapınaklar inşa ettiğini kanıtlamıştır.",
+    "hafiza_ipucu": "GÖBEKLİ TEPE (Şanlıurfa) = İLK ANITSAL TAPINAK: Klaus Schmidt kazıları.",
+    "kaynak": {
+      "dosya": "M-Anadolu_Medeniyetleri 012 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 1
+    }
+  },
+  {
+    "id": "ANM-002",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Tarih Öncesi Anadolu (Prehistorya)",
+    "soru": "Konya Çumra'da bulunan, sokaksız bitişik nizam kerpiç evleri, damdan merdivenle giriş düzeni, ana tanrıça heykelcikleri ve duvar freskleriyle ünlü büyük Neolitik kent yerleşimi hangisidir?",
+    "siklar": {
+      "A": "Göbeklitepe",
+      "B": "Çatalhöyük",
+      "C": "Çayönü",
+      "D": "Hacılar",
+      "E": "Aşıklı Höyük"
+    },
+    "dogru": "B",
+    "cozum": "James Mellaart ve Ian Hodder kazılarıyla aydınlatılan Çatalhöyük, 8.000'den fazla nüfusu, dam girişli evleri ve leopar/boğa kültü duvar resimleriyle prototip bir erken şehirdir.",
+    "hafiza_ipucu": "ÇATALHÖYÜK (Konya) = DAMDAN GİRİŞLİ EVLER & LEOPARLI ANA TANRIÇA.",
+    "kaynak": {
+      "dosya": "M-Anadolu_Medeniyetleri 012 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  },
+  {
+    "id": "ANM-003",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Yazılı Tarihe Geçiş (Asur Kolonileri)",
+    "soru": "Kayseri yakınlarındaki Kaniş krallığında bulunan, Asurlu tüccarların getirdiği çivi yazılı tabletlerle Anadolu'da yazılı tarih çağlarını başlatan merkez hangisidir?",
+    "siklar": {
+      "A": "Hattuşa",
+      "B": "Gordion",
+      "C": "Kültepe (Kaniş-Karum)",
+      "D": "Arslantepe",
+      "E": "Alacahöyük"
+    },
+    "dogru": "C",
+    "cozum": "MÖ 1950 civarında Asurlu tüccarlar 'Karum' adı verilen ticaret kolonileri kurmuş ve kil tabletlerle Anadolu'yu yazıyla tanıştırmıştır.",
+    "hafiza_ipucu": "KÜLTEPE / KARUM = ANADOLU'DA İLK YAZI VE İLK TİCARİ ARŞİV.",
+    "kaynak": {
+      "dosya": "MKS_Anadolu_Uygarliklari M.ALI 2026.pdf",
+      "sayfa": 6
+    }
+  },
+  {
+    "id": "ANM-004",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Hitit İmparatorluğu",
+    "soru": "Çorum Boğazkale sınırlarında yer alan, Aslanlı Kapı, Yerkapı sfenksleri ve Büyük Tapınak kalıntılarıyla Hitit İmparatorluğu'na başkentlik yapmış antik kent hangisidir?",
+    "siklar": {
+      "A": "Tuşpa",
+      "B": "Gordion",
+      "C": "Hattuşa",
+      "D": "Sardes",
+      "E": "Karkamış"
+    },
+    "dogru": "C",
+    "cozum": "Hattuşa, Hitit Krallığı ve İmparatorluğu'nun başkenti olup 1986'da UNESCO Dünya Mirası Listesi'ne alınmıştır. Yazılıkaya açık hava tapınağı kentin hemen yanındadır.",
+    "hafiza_ipucu": "HATTUŞA = HİTİT BAŞKENTİ (Çorum Boğazköy): Yerkapı, Aslanlı Kapı, Sfenks.",
+    "kaynak": {
+      "dosya": "M-Anadolu_Medeniyetleri 012 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 3
+    }
+  },
+  {
+    "id": "ANM-005",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Hitit İmparatorluğu",
+    "soru": "MÖ 1274'te II. Muwatalli ile II. Ramses arasında yapılan Kadeş Savaşı'nın ardından MÖ 1258'de mühürlenen tarihin bilinen ilk yazılı barış antlaşması hangisidir?",
+    "siklar": {
+      "A": "Kadeş Antlaşması",
+      "B": "Ninova Mütarekesi",
+      "C": "Babil Paktı",
+      "D": "Hattuşa Barışı",
+      "E": "Mitanni Sözleşmesi"
+    },
+    "dogru": "A",
+    "cozum": "Hitit Kralı III. Hattuşili ile Firavun II. Ramses arasında eşit şartlarda imzalanan Kadeş Antlaşması, kil tablet nüshasıyla İstanbul Arkeoloji Müzeleri'nde sergilenmektedir.",
+    "hafiza_ipucu": "KADEŞ ANTLAŞMASI = TARİHİN İLK YAZILI BARIŞ ANTLAŞMASI (Hitit-Mısır).",
+    "kaynak": {
+      "dosya": "04_MKS_Uzman_Deneme M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 1
+    }
+  },
+  {
+    "id": "ANM-006",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Demir Çağı Uygarlıkları",
+    "soru": "Ankara Polatlı yakınlarındaki Gordion'u başkent yapan, ana tanrıça Kybele'ye (Matar) tapan, ahşap kakmacılığı ve çengelli iğne (fibula) üretimiyle ünlenen Demir Çağı uygarlığı hangisidir?",
+    "siklar": {
+      "A": "Lidyalılar",
+      "B": "Urartular",
+      "C": "Frigler",
+      "D": "Hititler",
+      "E": "Karyalılar"
+    },
+    "dogru": "C",
+    "cozum": "Kral Midas ile efsaneleşen Frigler, Gordion başkentli krallık kurmuş; tapates (kilim), fibula ve Midas Tümülüsü ahşap mezar odasıyla uygarlık tarihine damga vurmuştur.",
+    "hafiza_ipucu": "FRİGLER = GORDİON, FİBULA (İĞNE), TAPATES (KİLİM), KYBELE.",
+    "kaynak": {
+      "dosya": "MKS_Anadolu_Uygarliklari M.ALI 2026.pdf",
+      "sayfa": 7
+    }
+  },
+  {
+    "id": "ANM-007",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Demir Çağı Uygarlıkları",
+    "soru": "Van Gölü kıyısındaki Tuşpa kalesini merkez edinen, baş tanrısı Haldi olan, kaya mimarisi, maden işçiliği ve Menua (Şamram) su kanalıyla tanınan devlet hangisidir?",
+    "siklar": {
+      "A": "Medler",
+      "B": "Urartular",
+      "C": "Lidyalılar",
+      "D": "Frigler",
+      "E": "Persler"
+    },
+    "dogru": "B",
+    "cozum": "Urartu Krallığı Doğu Anadolu'nun zorlu coğrafyasında görkemli kaleler, barajlar ve 50 km'lik Şamram Kanalı gibi bugün de çalışan hidrolik su yapıları kurmuştur.",
+    "hafiza_ipucu": "URARTU = TUŞPA (VAN) & HALDİ & ŞAMRAM KANALI & KAYA MEZARLARI.",
+    "kaynak": {
+      "dosya": "MKS_Agustos_Juri_Sinavi_MAliCetinkaya 2026.pdf",
+      "sayfa": 4
+    }
+  },
+  {
+    "id": "ANM-008",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Demir Çağı Uygarlıkları",
+    "soru": "Manisa Salihli yakınlarındaki Sardes'i başkent yapan, Paktolos Çayı'ndan çıkardıkları 'elektron' madeninden tarihin ilk madeni parasını (sikke) basan uygarlık hangisidir?",
+    "siklar": {
+      "A": "İyonlar",
+      "B": "Lidyalılar",
+      "C": "Frigler",
+      "D": "Urartular",
+      "E": "Hititler"
+    },
+    "dogru": "B",
+    "cozum": "MÖ 7. yüzyılda Kral Gyges döneminde altın-gümüş doğal alaşımı elektrondan ilk sikkeyi basan Lidyalılar, Sardes-Susa arasındaki Kral Yolu ticaretini zenginleştirmiştir.",
+    "hafiza_ipucu": "LİDYA = SARDES & İLK SİKKE (ELEKTRON) & KRAL YOLU.",
+    "kaynak": {
+      "dosya": "MKS_Agustos_Juri_Sinavi_MAliCetinkaya 2026.pdf",
+      "sayfa": 4
+    }
+  },
+  {
+    "id": "ANM-009",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Helenistik ve Roma Dönemi",
+    "soru": "Bergama Krallığı döneminde Mısır'ın papirüs ihracını yasaklaması üzerine hayvan derisinden geliştirilen ve Bergama Kütüphanesi'ni meşhur eden yazı malzemesi hangisidir?",
+    "siklar": {
+      "A": "Papirüs",
+      "B": "Parşömen (Charta Pergamena)",
+      "C": "Kil tablet",
+      "D": "Ostrakon",
+      "E": "İpek kumaş"
+    },
+    "dogru": "B",
+    "cozum": "Bergama'da (Pergamon) oğlak/kuzu derisinin terbiye edilmesiyle elde edilen parşömen, papirüse göre katlanabilir ve çift taraflı yazılabilir olmasıyla kodeks (kitap) formatını doğurmuştur.",
+    "hafiza_ipucu": "PARŞÖMEN = BERGAMA KAĞIDI (Pergamon): Deriden kitaba geçiş.",
+    "kaynak": {
+      "dosya": "04_MKS_Uzman_Deneme M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  },
+  {
+    "id": "ANM-010",
+    "konu": "Anadolu Medeniyetleri",
+    "alt_konu": "Kalkolitik ve İlk Tunç Çağı",
+    "soru": "Malatya'da yer alan, kerpiç saray kompleksi, en eski metal kılıç buluntuları ve mühür baskılarıyla Yakın Doğu'da devlet aygıtının ve bürokrasinin doğuşunu kanıtlayan UNESCO höyüğü hangisidir?",
+    "siklar": {
+      "A": "Arslantepe Höyüğü",
+      "B": "Çayönü",
+      "C": "Alacahöyük",
+      "D": "Küllüoba",
+      "E": "Beycesultan"
+    },
+    "dogru": "A",
+    "cozum": "Marcella Frangipane kazılarıyla dünya mirası olan Arslantepe, MÖ 4. binyıla ait anıtsal kerpiç kamu sarayı ve arsenikli bakır kılıçlarıyla ilk devletimsi yapının merkezidir.",
+    "hafiza_ipucu": "ARSLANTEPE (Malatya) = DÜNYANIN EN ESKİ KERPİÇ SARAYI & İLK METAL KILIÇLARI.",
+    "kaynak": {
+      "dosya": "04_MKS_Uzman_Deneme M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  }
+]

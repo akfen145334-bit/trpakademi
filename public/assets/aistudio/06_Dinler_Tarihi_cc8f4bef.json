@@ -1,0 +1,102 @@
+[
+  {
+    "id": "DIN-001",
+    "konu": "Dinler Tarihi",
+    "alt_konu": "Dinin Temel Kavramları",
+    "soru": "Dinler tarihinde birden fazla tanrının varlığını kabul etmekle birlikte, ibadet ve bağlılıkta yalnızca bir tanrıyı yüceltip öne çıkaran inanç biçimine ne ad verilir?",
+    "siklar": {
+      "A": "Monoteizm",
+      "B": "Politeizm",
+      "C": "Henoteizm",
+      "D": "Panteizm",
+      "E": "Deizm"
+    },
+    "dogru": "C",
+    "cozum": "Henoteizm, çok tanrılı sistemlerde tek bir tanrıya bağlanıp diğer tanrıları tamamen inkâr etmeksizin ona öncelik verme inancıdır (Monolatri ile yakındır).",
+    "hafiza_ipucu": "HENOTEİZM = ÇOK TANRI ARASINDA TEK BİR TANRIYA YÖNELME.",
+    "kaynak": {
+      "dosya": "MKS_Dinler_Tarihi M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 4
+    }
+  },
+  {
+    "id": "DIN-002",
+    "konu": "Dinler Tarihi",
+    "alt_konu": "Doğu ve Uzak Doğu Dinleri",
+    "soru": "Hindistan kökenli Jainizm ve Budizm'de de benimsenen, hiçbir canlıya fiziksel ya da düşünsel zarar vermemeyi emreden temel ahlaki ilke hangisidir?",
+    "siklar": {
+      "A": "Ahimsa",
+      "B": "Dharma",
+      "C": "Mokşa",
+      "D": "Karma",
+      "E": "Samsara"
+    },
+    "dogru": "A",
+    "cozum": "Ahimsa (şiddetsizlik), canlı varlıkları incitmeme ilkesidir; Jainizm'de ağzı bezle kapatıp böcek yutmamaya kadar uzanan mutlak bir ilkedir.",
+    "hafiza_ipucu": "AHİMSA = ASLA ZARAR VERME (Şiddetsizlik).",
+    "kaynak": {
+      "dosya": "MKS_Dinler_Tarihi M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 18
+    }
+  },
+  {
+    "id": "DIN-003",
+    "konu": "Dinler Tarihi",
+    "alt_konu": "İbrahimi (Semavi) Dinler",
+    "soru": "Yahudilikte 'On Emir'in de yer aldığı, Hz. Musa'ya Sina Dağı'nda vahiy yoluyla indirildiğine inanılan ve Tanah'ın ilk beş kitabını oluşturan kutsal metin hangisidir?",
+    "siklar": {
+      "A": "Talmud",
+      "B": "Torah (Tevrat)",
+      "C": "Mişna",
+      "D": "Zebur (Mezmurlar)",
+      "E": "Gemara"
+    },
+    "dogru": "B",
+    "cozum": "Tanah'ın ilk bölümünü oluşturan Tevrat (Torah / Pentateukhos), Tekvin, Çıkış, Levililer, Sayılar ve Tesniye olmak üzere beş kitaptan oluşur.",
+    "hafiza_ipucu": "TORAH (TEVRAT) = HZ. MUSA VE ON EMİR (Tanah'ın ilk 5 kitabı).",
+    "kaynak": {
+      "dosya": "MKS_Dinler_Tarihi M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 31
+    }
+  },
+  {
+    "id": "DIN-004",
+    "konu": "Dinler Tarihi",
+    "alt_konu": "Kadim İnanç Sistemleri",
+    "soru": "Eski İran'da Zerdüşt tarafından kurulan, evreni Ahura Mazda (İyilik/Işık) ile Ehrimen (Kötülük/Karanlık) arasındaki amansız bir mücadele alanı olarak gören düalist din hangisidir?",
+    "siklar": {
+      "A": "Maniheizm",
+      "B": "Zerdüştlük (Mazdeizm)",
+      "C": "Şintoizm",
+      "D": "Sihizm",
+      "E": "Taoizm"
+    },
+    "dogru": "B",
+    "cozum": "Zerdüştlük (Avesta kutsal metnidir), kutsal ateşin (Ateşgede) tapınaklarda sürekli yandığı, Ahura Mazda'nın ışığı temsil ettiği düalist inançtır.",
+    "hafiza_ipucu": "AHURA MAZDA & EHRİMEN = ZERDÜŞTLÜK (ATEŞGEDE).",
+    "kaynak": {
+      "dosya": "GR-MKS MITOLOJI VE DIN Cikmis Sorular Calismasi.docx",
+      "sayfa": 50
+    }
+  },
+  {
+    "id": "DIN-005",
+    "konu": "Dinler Tarihi",
+    "alt_konu": "Kutsal Mekânlar ve İnanç Turizmi",
+    "soru": "İncil'in Vahiy (Apokalips) bölümünde adı geçen Batı Anadolu'daki 'Yedi Kilise'den (Asya'nın 7 Cemaati) biri aşağıdakilerden hangisi değildir?",
+    "siklar": {
+      "A": "Sardes",
+      "B": "Laodikeia",
+      "C": "Thyatira (Akhisar)",
+      "D": "Antiokheia (Antakya)",
+      "E": "Pergamon (Bergama)"
+    },
+    "dogru": "D",
+    "cozum": "Apokalips'teki 7 Kilise: Ephesos, Smyrna, Pergamon, Thyatira, Sardes, Philadelphia ve Laodikeia'dır. Hatay Antakya (Antiokheia) önemli bir erken Hristiyanlık merkezi olsa da 7 kilise listesinde yer almaz.",
+    "hafiza_ipucu": "7 KİLİSE EGE'DEDİR: Ephesos, Smyrna, Pergamon, Thyatira, Sardes, Philadelphia, Laodikeia.",
+    "kaynak": {
+      "dosya": "MKS_Dinler_Tarihi M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 62
+    }
+  }
+]

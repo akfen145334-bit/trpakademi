@@ -1,0 +1,102 @@
+[
+  {
+    "id": "SNT-001",
+    "konu": "Sanat Tarihi",
+    "alt_konu": "Antik Yunan ve Roma Mimarisi",
+    "soru": "Antik Yunan tapınak mimarisinde sütun başlığı sade bir yastık (ekinus) ve kare bir abakustan oluşan, frizinde ise triglif ve metopların sıralandığı en eski ve yalın mimari düzen hangisidir?",
+    "siklar": {
+      "A": "İon Düzeni",
+      "B": "Dor Düzeni",
+      "C": "Korint Düzeni",
+      "D": "Kompozit Düzen",
+      "E": "Tuscan Düzeni"
+    },
+    "dogru": "B",
+    "cozum": "Dor düzeni, MÖ 7. yüzyılda Yunan ana karasında ortaya çıkan en yalın ve maskülen düzendir. Frizinde triglif-metop ardışıklığı ve kaidesiz yere oturan yivli sütunlar karakteristiktir (Parthenon en belirgin örneğidir).",
+    "hafiza_ipucu": "DOR = DÜZ VE AĞIR: Kaidesiz, sade sütun başlığı ve triglif/metop frizi.",
+    "kaynak": {
+      "dosya": "MKS_Sanat_Tarihi M.ALI 2026.pdf",
+      "sayfa": 12
+    }
+  },
+  {
+    "id": "SNT-002",
+    "konu": "Sanat Tarihi",
+    "alt_konu": "Bizans Sanatı",
+    "soru": "İmparator I. Justinianus döneminde Trallesli Anthemios ile Miletoslu İsidoros'a inşa ettirilen, kare bir altyapı üzerine pandantiflerle oturtulmuş devasa kubbesiyle 'kubbeli bazilika' tipinin başyapıtı olan anıt hangisidir?",
+    "siklar": {
+      "A": "Aya İrini",
+      "B": "Küçük Ayasofya (Sergios ve Bakhos)",
+      "C": "Ayasofya (Hagia Sophia)",
+      "D": "Kariye (Chora)",
+      "E": "Zeyrek Camii (Pantokrator)"
+    },
+    "dogru": "C",
+    "cozum": "532-537 yıllarında inşa edilen Ayasofya, kubbeli bazilika plan şemasının dünya mimarlık tarihindeki zirvesidir; pandantif geçişli kubbesiyle Doğu Roma mimarisinin en görkemli yapısıdır.",
+    "hafiza_ipucu": "ANTHEMİOS & İSİDOROS = AYASOFYA: Justinianus'un kubbeli bazilika şaheseri.",
+    "kaynak": {
+      "dosya": "GR-MKS-BIZANS TARIHI Ilk 5 Unite Cikmis Sorular.docx",
+      "sayfa": 14
+    }
+  },
+  {
+    "id": "SNT-003",
+    "konu": "Sanat Tarihi",
+    "alt_konu": "Anadolu Selçuklu ve Beylikler Sanatı",
+    "soru": "UNESCO Dünya Miras Listesi'nde yer alan, Mengücekli Hükümdarı Ahmed Şah ve eşi Turan Melek tarafından Ahlatlı Hürrem Şah'a yaptırılan, barok üslubu andıran taç kapıları ve darüşşifasıyla ünlü külliye hangisidir?",
+    "siklar": {
+      "A": "Erzurum Çifte Minareli Medrese",
+      "B": "Sivas Gök Medrese",
+      "C": "Divriği Ulu Camii ve Darüşşifası",
+      "D": "Konya Karatay Medresesi",
+      "E": "Kayseri Hunat Hatun Külliyesi"
+    },
+    "dogru": "C",
+    "cozum": "1228-1229 tarihli Sivas Divriği Ulu Camii ve Darüşşifası, taş oymacılığındaki benzersiz kabartma ve asimetrik bezemeleriyle 'Anadolu'nun Elhamrası' olarak anılır.",
+    "hafiza_ipucu": "HÜRREM ŞAH & MENGÜCEK = DİVRİĞİ ULU CAMİİ: Cennet Kapısı ve gölge silueti.",
+    "kaynak": {
+      "dosya": "TEMATIK_A_Saray_Ikonografi_Beylik.pdf",
+      "sayfa": 8
+    }
+  },
+  {
+    "id": "SNT-004",
+    "konu": "Sanat Tarihi",
+    "alt_konu": "Osmanlı Mimarisi",
+    "soru": "Mimar Sinan'ın mimarlık serüveninde sırasıyla 'çıraklık', 'kalfalık' ve 'ustalık' eseri olarak nitelendirdiği şaheserler hangi seçenekte doğru eşleştirilmiştir?",
+    "siklar": {
+      "A": "Şehzade Camii - Süleymaniye Camii - Selimiye Camii",
+      "B": "Süleymaniye Camii - Şehzade Camii - Selimiye Camii",
+      "C": "Haseki Külliyesi - Mihrimah Sultan - Selimiye Camii",
+      "D": "Şehzade Camii - Rüstem Paşa - Süleymaniye Camii",
+      "E": "Süleymaniye Camii - Selimiye Camii - Sultanahmet Camii"
+    },
+    "dogru": "A",
+    "cozum": "Mimar Sinan İstanbul'daki Şehzade Camii'ni çıraklık, Süleymaniye Camii'ni kalfalık, Edirne'deki Selimiye Camii'ni (sekizgen ayak sistemi) ise ustalık eseri ilan etmiştir.",
+    "hafiza_ipucu": "ŞEHZADE (Çırak) -> SÜLEYMANİYE (Kalfa) -> SELİMİYE (Usta).",
+    "kaynak": {
+      "dosya": "MKS_Sanat_Tarihi M.ALI 2026.pdf",
+      "sayfa": 45
+    }
+  },
+  {
+    "id": "SNT-005",
+    "konu": "Sanat Tarihi",
+    "alt_konu": "Geleneksel El Sanatları",
+    "soru": "Geleneksel Türk süsleme sanatlarında fırınlanmış bisküvi üzerine sır altı tekniğiyle mercan kırmızısı, kobalt mavisi ve turkuaz renklerde lale ve karanfil motifleriyle zirveye ulaşan üretim merkezi neresidir?",
+    "siklar": {
+      "A": "Kütahya",
+      "B": "İznik",
+      "C": "Avanos",
+      "D": "Çanakkale",
+      "E": "Diyarbakır"
+    },
+    "dogru": "B",
+    "cozum": "16. yüzyılda Osmanlı çini sanatının altın çağını temsil eden merkez İznik'tir. Özellikle Rüstem Paşa Camii ve Topkapı Sarayı çinilerindeki mercan kırmızısı İznik atölyelerine özgüdür.",
+    "hafiza_ipucu": "İZNİK ÇİNİSİ = MERCAN KIRMIZISI & SIR ALTI TEKNİĞİ.",
+    "kaynak": {
+      "dosya": "L-Halk_Bilimi_Edebiyat_El_Sanatlari 011 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 18
+    }
+  }
+]

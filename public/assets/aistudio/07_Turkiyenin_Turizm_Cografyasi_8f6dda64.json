@@ -1,0 +1,102 @@
+[
+  {
+    "id": "TCG-001",
+    "konu": "Türkiye'nin Turizm Coğrafyası",
+    "alt_konu": "Fiziki Coğrafya ve Turizm Kaynakları",
+    "soru": "Denizli'de kalsiyum bikarbonatça zengin termal suların yüzeye çıkıp havadaki oksijenle temas etmesi sonucu kalsiyum karbonatın çökelmesiyle oluşan dünyaca ünlü basamaklı karstik yapı hangisidir?",
+    "siklar": {
+      "A": "Narman Peribacaları",
+      "B": "Pamukkale Travertenleri",
+      "C": "Cennet-Cehennem Obrukları",
+      "D": "Karain Mağarası",
+      "E": "Göreme Vadisi"
+    },
+    "dogru": "B",
+    "cozum": "Pamukkale travertenleri, Hierapolis antik kentiyle birlikte UNESCO Dünya Mirası'dır; termal suyun karbondioksiti uçunca kirecin çökelmesiyle oluşan traverten basamaklarıdır.",
+    "hafiza_ipucu": "PAMUKKALE = BEYAZ TRAVERTEN & TERMAL KAYNAK.",
+    "kaynak": {
+      "dosya": "D-Turkiye_Turizm_Cografyasi 004 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 8
+    }
+  },
+  {
+    "id": "TCG-002",
+    "konu": "Türkiye'nin Turizm Coğrafyası",
+    "alt_konu": "İlginç Doğal Oluşumlar",
+    "soru": "Nevşehir ve Kapadokya bölgesinde Erciyes, Hasandağı ve Güllüdağ'dan çıkan volkanik tüf tabakalarının rüzgâr ve sel sularıyla aşınması sonucu oluşan doğal kulelere ne ad verilir?",
+    "siklar": {
+      "A": "Tafoni",
+      "B": "Yardang",
+      "C": "Peribacası",
+      "D": "Falez",
+      "E": "Lapya"
+    },
+    "dogru": "C",
+    "cozum": "Peribacaları, dirençsiz volkanik tüfün sel suları ve rüzgâr tarafından aşındırılması, sert bazalt/andezit şapkanın alttaki tüfü korumasıyla oluşur.",
+    "hafiza_ipucu": "KAPADOKYA = VOLKANİK TÜF VE BAZALT ŞAPKALI PERİBACALARI.",
+    "kaynak": {
+      "dosya": "TEMATIK_B_Cografya_Doga_Eslestirme.pdf",
+      "sayfa": 4
+    }
+  },
+  {
+    "id": "TCG-003",
+    "konu": "Türkiye'nin Turizm Coğrafyası",
+    "alt_konu": "Turizm Türleri ve Destinasyonları",
+    "soru": "Fethiye Ölüdeniz üzerinde 1969 metre rakımıyla yamaç paraşütü sporunun dünyadaki en popüler ve elverişli atlayış noktası olan dağ hangisidir?",
+    "siklar": {
+      "A": "Tahtalı Dağı",
+      "B": "Babadağ",
+      "C": "Ilgaz Dağı",
+      "D": "Ergan Dağı",
+      "E": "Spil Dağı"
+    },
+    "dogru": "B",
+    "cozum": "Muğla Fethiye sınırlarında yer alan Babadağ, termik hava akımları ve Ölüdeniz lagününe inen nefes kesici rotasıyla dünya yamaç paraşütünün kalbidir.",
+    "hafiza_ipucu": "BABADAĞ = ÖLÜDENİZ YAMAÇ PARAŞÜTÜ.",
+    "kaynak": {
+      "dosya": "MKS_Cografya M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 22
+    }
+  },
+  {
+    "id": "TCG-004",
+    "konu": "Türkiye'nin Turizm Coğrafyası",
+    "alt_konu": "Beşeri Coğrafya ve Turizm",
+    "soru": "UNESCO Dünya Miras Listesi'nde yer alan, geleneksel 2-3 katlı cumbalı ahşap karkas Osmanlı sivil mimari evleriyle korunan Karabük ilçesi hangisidir?",
+    "siklar": {
+      "A": "Beypazarı",
+      "B": "Mudurnu",
+      "C": "Safranbolu",
+      "D": "Göynük",
+      "E": "Taraklı"
+    },
+    "dogru": "C",
+    "cozum": "Karabük'ün Safranbolu ilçesi, bozulmamış sokak dokusu, lokumu, kanyonu ve 18-19. yüzyıl geleneksel konaklarıyla 'müze kent' unvanıyla UNESCO listesindedir.",
+    "hafiza_ipucu": "SAFRANBOLU = OSMANLI SİVİL MİMARİSİ & UNESCO KENTİ.",
+    "kaynak": {
+      "dosya": "D-Turkiye_Turizm_Cografyasi 004 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 35
+    }
+  },
+  {
+    "id": "TCG-005",
+    "konu": "Türkiye'nin Turizm Coğrafyası",
+    "alt_konu": "Sürdürülebilirlik ve Ekoturizm",
+    "soru": "İtalya'da başlayan, yerel kimliğini, zanaatlarını, sessizliğini ve yerel tatlarını koruyan nüfusu 50 binin altındaki yerleşimlere verilen Türkiye'deki ilk 'Cittaslow' (Sakin Şehir) neresidir?",
+    "siklar": {
+      "A": "Akyaka",
+      "B": "Seferihisar",
+      "C": "Halfeti",
+      "D": "Gökçeada",
+      "E": "Taraklı"
+    },
+    "dogru": "B",
+    "cozum": "İzmir Seferihisar, 2009 yılında Türkiye'nin ilk Cittaslow unvanını alan ilçesidir; geleneksel pazar yerleri ve mandalinasıyla tanınır.",
+    "hafiza_ipucu": "İLK SAKİN ŞEHİR (CİTTASLOW) = İZMİR SEFERİHİSAR (2009).",
+    "kaynak": {
+      "dosya": "MKS_Cografya M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 41
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ARK-001",
+    "konu": "Arkeoloji",
+    "alt_konu": "Arkeolojinin Tanımı ve Yardımcı Bilimleri",
+    "soru": "Eski yazıtları, taş veya madeni kitabeleri epigrafik yöntemlerle inceleyen, antik kentlerin siyasi ve sosyal kararlarını aydınlatan yardımcı bilim dalı hangisidir?",
+    "siklar": {
+      "A": "Nümizmatik",
+      "B": "Epigrafi",
+      "C": "Paleografya",
+      "D": "Stratigrafi",
+      "E": "Antropoloji"
+    },
+    "dogru": "B",
+    "cozum": "Epigrafi taş, mermer ve metal zeminler üzerindeki kitabeleri inceler. Nümizmatik sikkeleri, Paleografya ise el yazması kağıt/parşömen metinleri inceler.",
+    "hafiza_ipucu": "EPİGRAFİ = TAŞ/KİTABE YAZIT BİLİMİ; NÜMİZMATİK = SİKKE/PARA BİLİMİ.",
+    "kaynak": {
+      "dosya": "G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  },
+  {
+    "id": "ARK-002",
+    "konu": "Arkeoloji",
+    "alt_konu": "Tarihlendirme Yöntemleri",
+    "soru": "Ahşap malzemelerdeki yıllık büyüme halkalarının (ağaç yaş halkaları) dizilimini ve iklimsel desenini eşleştirerek kesin tarihleme yapan yöntem hangisidir?",
+    "siklar": {
+      "A": "Dendrokronoloji",
+      "B": "Karbon-14 (Radyokarbon)",
+      "C": "Stratigrafi",
+      "D": "Termolüminesans",
+      "E": "Potasyum-Argon"
+    },
+    "dogru": "A",
+    "cozum": "Dendrokronoloji ağaçların her yıl oluşturduğu konsantrik halkaları inceler. Gordion Midas Tümülüsü'nün ahşap mezar odası bu yöntemle tam yılıyla tarihlendirilmiştir.",
+    "hafiza_ipucu": "DENDRO = AĞAÇ: Ağaç yaş halkalarıyla takvim gibi mutlak tarihleme.",
+    "kaynak": {
+      "dosya": "G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  },
+  {
+    "id": "ARK-003",
+    "konu": "Arkeoloji",
+    "alt_konu": "Tarihlendirme Yöntemleri",
+    "soru": "Arkeolojik kazılarda canlı doku kalıntıları, kömürleşmiş tohum ve kemik gibi organik buluntuların mutlak yaşını radyoaktif bozunmaya dayanarak belirleyen yöntem hangisidir?",
+    "siklar": {
+      "A": "Dendrokronoloji",
+      "B": "Stratigrafi",
+      "C": "Termolüminesans",
+      "D": "Radyokarbon (Karbon-14)",
+      "E": "Tipolojik sıralama"
+    },
+    "dogru": "D",
+    "cozum": "Karbon-14 izotopunun yarılanma ömrü (yaklaşık 5730 yıl) prensibine dayanan bu yöntem organik maddelerin yaşını 50.000 yıla kadar hassas şekilde hesaplar.",
+    "hafiza_ipucu": "KARBON-14 = ORGANİK KALINTI (kemik, odun, tohum) TARİHLEMESİ.",
+    "kaynak": {
+      "dosya": "G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  },
+  {
+    "id": "ARK-004",
+    "konu": "Arkeoloji",
+    "alt_konu": "Kazı ve Koruma Terimleri",
+    "soru": "Arkeolojik bir eserin veya mimari ögenin ilk bulunduğu özgün konumunda, yerinden oynatılmamış doğal durumu için kullanılan Latince kökenli teknik terim hangisidir?",
+    "siklar": {
+      "A": "Ex situ",
+      "B": "In situ",
+      "C": "Stratum",
+      "D": "Sondaj",
+      "E": "Rölöve"
+    },
+    "dogru": "B",
+    "cozum": "In situ 'yerinde / özgün tabakasında' demektir. Eserin bağlamı ve tarihsel değeri in situ belgelendiğinde tam anlam kazanır.",
+    "hafiza_ipucu": "IN SITU = YERİNDE / BULUNDUĞU TABAKADA BOZULMADAN.",
+    "kaynak": {
+      "dosya": "mks tum sorular.pdf",
+      "sayfa": 88
+    }
+  },
+  {
+    "id": "ARK-005",
+    "konu": "Arkeoloji",
+    "alt_konu": "Kazı ve Koruma Terimleri",
+    "soru": "Üst üste kurulan, yıkılan ve yeniden inşa edilen yerleşimlerin binlerce yıllık birikimi sonucu oluşan çok katmanlı yapay arkeolojik tepeye ne ad verilir?",
+    "siklar": {
+      "A": "Nekropol",
+      "B": "Höyük (Tell / Tepe)",
+      "C": "Tümülüs",
+      "D": "Akropol",
+      "E": "Stadion"
+    },
+    "dogru": "B",
+    "cozum": "Höyük, insanların kerpiç ve taş yapıları yıkıldıkça üzerine yenilerini yapmasıyla yükselen yapay yerleşim tepesidir. Tümülüs ise mezar amaçlı toprak yığmadır.",
+    "hafiza_ipucu": "HÖYÜK = YERLEŞİM KATMANI; TÜMÜLÜS = ANIT MEZAR YIĞMASI.",
+    "kaynak": {
+      "dosya": "G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 1
+    }
+  },
+  {
+    "id": "ARK-006",
+    "konu": "Arkeoloji",
+    "alt_konu": "Mimari ve Dini Yapı Terimleri",
+    "soru": "Antik Yunan ve Roma kentlerinde danışma/kent meclisinin (Boule) toplandığı basamaklı kapalı toplantı yapısına ne ad verilir?",
+    "siklar": {
+      "A": "Bouleuterion",
+      "B": "Nymphaion",
+      "C": "Odeion",
+      "D": "Agora",
+      "E": "Palaestra"
+    },
+    "dogru": "A",
+    "cozum": "Bouleuterion kent meclisi binasıdır; Odeion müzik/konser ve küçük toplantı yapısıdır; Agora ise açık çarşı ve pazar meydanıdır.",
+    "hafiza_ipucu": "BOULEUTERION = MECLİS BİNASI (Boule = Meclis).",
+    "kaynak": {
+      "dosya": "G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  },
+  {
+    "id": "ARK-007",
+    "konu": "Arkeoloji",
+    "alt_konu": "Mimari ve Dini Yapı Terimleri",
+    "soru": "Antik mimarlıkta cephelerde çatı ve üst yapıyı taşımak üzere sütun yerine kullanılan kadın heykeli biçimindeki taşıyıcı mimari ögelere ne ad verilir?",
+    "siklar": {
+      "A": "Atlas (Telamon)",
+      "B": "Karyatid",
+      "C": "Korint başlığı",
+      "D": "Pilastr",
+      "E": "Volüt"
+    },
+    "dogru": "B",
+    "cozum": "Kadın heykeli biçimindeki taşıyıcı sütunlara 'Karyatid' (ör. Atina Akropolü Erekhtheion), erkek figürlü taşıyıcılara ise 'Atlas' veya 'Telamon' denir.",
+    "hafiza_ipucu": "KARYATİD = KADIN TAŞIYICI SÜTUN; ATLAS = ERKEK TAŞIYICI.",
+    "kaynak": {
+      "dosya": "MKS_Agustos_Juri_Sinavi_MAliCetinkaya 2026.pdf",
+      "sayfa": 5
+    }
+  },
+  {
+    "id": "ARK-008",
+    "konu": "Arkeoloji",
+    "alt_konu": "Antik Seramik Formları",
+    "soru": "Antik dönemde zeytinyağı ve şarap gibi sıvıların saklanması, deniz aşırı taşınması amacıyla kullanılan, sivri dipli ve çift kulplu karakteristik seramik kap formu hangisidir?",
+    "siklar": {
+      "A": "Krater",
+      "B": "Kylix",
+      "C": "Amphora",
+      "D": "Oinokhoe",
+      "E": "Lekythos"
+    },
+    "dogru": "C",
+    "cozum": "Amphora iki kulplu taşıma ve depolama kabıdır. Krater şarap-su karıştırma kabı, Kylix yayvan içki kadehi, Lekythos ise dar boyunlu zeytinyağı/parfüm şişesidir.",
+    "hafiza_ipucu": "AMPHORA = ÇİFT KULPLU SIVI TAŞIMA VE TİCARET KABI.",
+    "kaynak": {
+      "dosya": "G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 4
+    }
+  },
+  {
+    "id": "ARK-009",
+    "konu": "Arkeoloji",
+    "alt_konu": "Kazı ve Koruma Terimleri",
+    "soru": "Sidon (Sayda) Kral Nekropolü kazılarını yürüterek İskender Lahdi ve Ağlayan Kadınlar Lahdi'ni İstanbul'a kazandıran, Asar-ı Atika Nizamnamesi'ni hazırlayan Türk müzeciliğinin kurucusu kimdir?",
+    "siklar": {
+      "A": "Halil Edhem Bey",
+      "B": "Ekrem Akurgal",
+      "C": "Osman Hamdi Bey",
+      "D": "Kenan Erim",
+      "E": "Jale İnan"
+    },
+    "dogru": "C",
+    "cozum": "Müze-i Hümayun müdürü Osman Hamdi Bey, 1887 Sayda kazılarıyla dünyaca ünlü lahitleri bulmuş ve bugünkü İstanbul Arkeoloji Müzeleri ana binasını inşa ettirmiştir.",
+    "hafiza_ipucu": "OSMAN HAMDİ BEY = İSTANBUL ARKEOLOJİ MÜZESİ & İSKENDER LAHDİ & ASAR-I ATİKA.",
+    "kaynak": {
+      "dosya": "I-Muzecilik_Eser_Suclari 009 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 1
+    }
+  },
+  {
+    "id": "ARK-010",
+    "konu": "Arkeoloji",
+    "alt_konu": "Tarihlendirme Yöntemleri",
+    "soru": "Arkeolojik bir kazı alanında üst üste biriken kültür katmanlarının en alttakinin en eski, en üsttekinin en genç olduğu ilkesine dayanan göreli tarihleme yöntemi hangisidir?",
+    "siklar": {
+      "A": "Stratigrafi (Katmanlaşma)",
+      "B": "Tipoloji",
+      "C": "Dendrokronoloji",
+      "D": "Potasyum-Argon",
+      "E": "Termolüminesans"
+    },
+    "dogru": "A",
+    "cozum": "Stratigrafi yerbilimden arkeolojiye uyarlanan süperpozisyon ilkesidir; tabakaların jeolojik ve arkeolojik sırasına göre göreli yaş ilişkisini verir.",
+    "hafiza_ipucu": "STRATİGRAFİ = KATMAN BİLİMİ (Alt katman eski, üst katman yeni).",
+    "kaynak": {
+      "dosya": "G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  }
+]

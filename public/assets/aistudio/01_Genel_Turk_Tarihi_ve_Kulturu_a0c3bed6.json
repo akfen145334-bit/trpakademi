@@ -1,0 +1,202 @@
+[
+  {
+    "id": "GTT-001",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "İslam Öncesi Türk Tarihi",
+    "soru": "Tarihte bilinen ilk büyük Türk devleti aşağıdakilerden hangisidir?",
+    "siklar": {
+      "A": "Asya (Büyük) Hun Devleti",
+      "B": "Avarlar",
+      "C": "Karahanlılar",
+      "D": "Uygurlar",
+      "E": "Göktürkler"
+    },
+    "dogru": "A",
+    "cozum": "Tarihte bilinen teşkilatlı ilk büyük Türk devleti Asya Hun Devleti'dir (MÖ 220). Mete Han döneminde en güçlü evresine ulaşmıştır.",
+    "hafiza_ipucu": "ASYA HUN = İLK BÜYÜK DEVLET: Teoman kurdu, Mete teşkilatlandırdı.",
+    "kaynak": {
+      "dosya": "E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 1
+    }
+  },
+  {
+    "id": "GTT-002",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "Eski Türk Devlet ve Toplum Yapısı",
+    "soru": "Asya Hun hükümdarı Mete Han'ın kurduğu ve günümüz modern ordularına da temel oluşturan, birlikleri on/yüz/bin/on binlik sistemlere ayıran askeri teşkilat hangisidir?",
+    "siklar": {
+      "A": "Tımar sistemi",
+      "B": "Thema sistemi",
+      "C": "Onlu sistem",
+      "D": "İkta sistemi",
+      "E": "Devşirme sistemi"
+    },
+    "dogru": "C",
+    "cozum": "MÖ 209'da Mete Han tahta çıktığında orduyu onluk, yüzlük, binlik ve tümen (on binlik) birliklere ayırmıştır. Bu tarih Türk Kara Kuvvetleri'nin de kuruluş yılı kabul edilir.",
+    "hafiza_ipucu": "METE HAN = ONLU SİSTEM (MÖ 209): Emir-komuta zincirinin bozkır omurgası.",
+    "kaynak": {
+      "dosya": "E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 1
+    }
+  },
+  {
+    "id": "GTT-003",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "İslam Öncesi Türk Tarihi",
+    "soru": "'Türk' adını resmi bir devlet adı olarak ilk kez kullanan Türk devleti aşağıdakilerden hangisidir?",
+    "siklar": {
+      "A": "Uygurlar",
+      "B": "Hazarlar",
+      "C": "Göktürkler (Kök Türk)",
+      "D": "Peçenekler",
+      "E": "Hunlar"
+    },
+    "dogru": "C",
+    "cozum": "552 yılında Bumin Kağan tarafından kurulan I. Göktürk Kağanlığı, Türk adını siyasi ve resmi bir devlet adı olarak tarihte ilk kez kullanan devlettir.",
+    "hafiza_ipucu": "GÖKTÜRK = İLK RESMİ TÜRK ADI: Bumin Kağan'ın kurduğu ulu kağanlık.",
+    "kaynak": {
+      "dosya": "MKS_Turk_Tarihi_Kulturu M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 1
+    }
+  },
+  {
+    "id": "GTT-004",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "Eski Türk Devlet ve Toplum Yapısı",
+    "soru": "Eski Türklerde devletin ve toplumun çekirdeğini oluşturan hiyerarşik yapı (küçükten büyüğe) aşağıdakilerin hangisinde doğru sıralanmıştır?",
+    "siklar": {
+      "A": "Oğuş (Aile) - Uruk (Sülale) - Boy (Kabile) - Budun (Millet) - İl (Devlet)",
+      "B": "Uruk - Oğuş - Boy - Budun - İl",
+      "C": "Boy - Bodun - Oğuş - Uruk - İl",
+      "D": "Oğuş - Boy - Uruk - Bodun - İl",
+      "E": "İl - Budun - Boy - Uruk - Oğuş"
+    },
+    "dogru": "A",
+    "cozum": "Toplumsal basamaklar: Oğuş (çekirdek aile), Uruk (aileler birliği/sülale), Boy/Bod (sülaleler birliği), Budun (millet) ve nihayet en üst teşkilat olan İl/El (devlet) şeklindedir.",
+    "hafiza_ipucu": "O-U-B-B-İ: Oğuş (Aile) -> Uruk (Sülale) -> Boy -> Budun (Millet) -> İl (Devlet).",
+    "kaynak": {
+      "dosya": "GR-MKS-ESKI TURK TARIHI SORU_CEVAP CALISMASI.docx",
+      "sayfa": 1
+    }
+  },
+  {
+    "id": "GTT-005",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "Eski Türk Devlet ve Toplum Yapısı",
+    "soru": "Eski Türk devlet anlayışında hükümdara devleti yönetme yetkisinin Tanrı tarafından verildiğine inanılan ilahi güce ne ad verilir?",
+    "siklar": {
+      "A": "Kurultay",
+      "B": "Yabgu",
+      "C": "Balbal",
+      "D": "Kut",
+      "E": "Töre"
+    },
+    "dogru": "D",
+    "cozum": "Kut; Gök Tengri'nin kağana ve onun hanedanına bahşettiği siyasi iktidar, meşruiyet ve yönetme hakkıdır. Kan yoluyla geçtiğine inanılır.",
+    "hafiza_ipucu": "KUT = İLAHİ YÖNETME YETKİSİ: Tengri'nin kağana bağışladığı siyasi güç.",
+    "kaynak": {
+      "dosya": "E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  },
+  {
+    "id": "GTT-006",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "Türk-İslam Devletleri",
+    "soru": "Orta Asya'da kurulan ve İslamiyet'i topluca kabul eden ilk Müslüman Türk devleti aşağıdakilerden hangisidir?",
+    "siklar": {
+      "A": "Tolunoğulları",
+      "B": "Gazneliler",
+      "C": "Karahanlılar",
+      "D": "Büyük Selçuklular",
+      "E": "İhşidiler"
+    },
+    "dogru": "C",
+    "cozum": "Satuk Buğra Han (Abdülkerim) döneminde 10. yüzyıl ortalarında İslam'ı devlet dini olarak resmen benimseyen ilk Türk devleti Karahanlılar'dır.",
+    "hafiza_ipucu": "KARAHANLILAR = İLK MÜSLÜMAN TÜRK DEVLETİ: Satuk Buğra Han ile İslam'a geçiş.",
+    "kaynak": {
+      "dosya": "E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 3
+    }
+  },
+  {
+    "id": "GTT-007",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "Anadolu Selçukluları ve Beylikler",
+    "soru": "1176 yılında II. Kılıç Arslan'ın Bizans İmparatoru Manuel Komnenos'u mağlup ederek Anadolu'nun kesin bir Türk yurdu olduğunu tescilleyen dönüm noktası savaş hangisidir?",
+    "siklar": {
+      "A": "Malazgirt Savaşı",
+      "B": "Pasinler Savaşı",
+      "C": "Miryokefalon Savaşı",
+      "D": "Kösedağ Savaşı",
+      "E": "Yassıçemen Savaşı"
+    },
+    "dogru": "C",
+    "cozum": "1071 Malazgirt Anadolu'nun kapılarını açmış; 1176 Miryokefalon Zaferi ise Bizans'ın Türkleri Anadolu'dan atma ümidini tamamen yok ederek tapuyu Türk milletine tescillemiştir.",
+    "hafiza_ipucu": "MALAZGİRT = KAPIYI AÇTI; MİRYOKEFALON = TAPUYU ALDI (1176).",
+    "kaynak": {
+      "dosya": "E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 4
+    }
+  },
+  {
+    "id": "GTT-008",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "Osmanlı Tarihi",
+    "soru": "Osmanlı Devleti'nde Yıldırım Bayezid'in Timur'a mağlup olmasıyla 11 yıl süren ve padişah oğulları arasında taht kavgalarına sahne olan 'Fetret Devri'ni başlatan 1402 savaşı hangisidir?",
+    "siklar": {
+      "A": "Ankara Savaşı",
+      "B": "Niğbolu Savaşı",
+      "C": "I. Kosova Savaşı",
+      "D": "Varna Savaşı",
+      "E": "Sırpsındığı Savaşı"
+    },
+    "dogru": "A",
+    "cozum": "1402 Ankara Savaşı'nda Yıldırım Bayezid esir düşmüş; devlet 1402-1413 yılları arasında Çelebi Mehmed'in birliği yeniden kurmasına kadar sürecek Fetret Devri'ne girmiştir.",
+    "hafiza_ipucu": "1402 ANKARA SAVAŞI = FETRET DEVRİ: Bayezid ile Timur karşılaşması.",
+    "kaynak": {
+      "dosya": "F-Osmanli_Tarihi 006 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 1
+    }
+  },
+  {
+    "id": "GTT-009",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "Eski Türk Devlet ve Toplum Yapısı",
+    "soru": "Yusuf Has Hâcib tarafından kaleme alınan, Karahanlı hükümdarı Tabgaç Buğra Han'a sunulan, mutluluk veren bilgi anlamına gelen ilk Türk-İslam siyasetnamesi hangisidir?",
+    "siklar": {
+      "A": "Divânu Lugâti't-Türk",
+      "B": "Atabetü'l-Hakayık",
+      "C": "Kutadgu Bilig",
+      "D": "Divân-ı Hikmet",
+      "E": "Siyasetname"
+    },
+    "dogru": "C",
+    "cozum": "1069-1070'te Balasagunlu Yusuf Has Hâcib'in yazdığı Kutadgu Bilig; adalet, iktidar, akıl ve akıbeti simgeleyen alegorik karakterlerle ideal devlet yönetimini anlatır.",
+    "hafiza_ipucu": "KUTADGU BİLİG = MUTLULUK BİLGİSİ / İLK SİYASETNAME: Yusuf Has Hâcib.",
+    "kaynak": {
+      "dosya": "E-Genel_Turk_Tarihi 005 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 5
+    }
+  },
+  {
+    "id": "GTT-010",
+    "konu": "Genel Türk Tarihi ve Kültürü",
+    "alt_konu": "Çağdaş Türk Dünyası ve Cumhuriyet Tarihi",
+    "soru": "Kaşgarlı Mahmud'un Araplara Türkçeyi öğretmek ve Türkçenin Farsça/Arapça kadar zengin olduğunu göstermek için kaleme aldığı, ilk Türk dünyası haritasını da içeren abidevi sözlük hangisidir?",
+    "siklar": {
+      "A": "Divânu Lugâti't-Türk",
+      "B": "Muhâkemetü'l-Lugateyn",
+      "C": "Kutadgu Bilig",
+      "D": "Codex Cumanicus",
+      "E": "Şecere-i Terakime"
+    },
+    "dogru": "A",
+    "cozum": "1072-1074'te Bağdat'ta Abbasi Halifesine sunulan Divânu Lugâti't-Türk, Türkçe sözlük olmanın ötesinde boylar, folklor, atasözleri ve coğrafyayı kapsayan ilk ansiklopedik eserdir.",
+    "hafiza_ipucu": "DİVÂNU LUGÂTİ'T-TÜRK = İLK SÖZLÜK & İLK HARİTA: Kaşgarlı Mahmud.",
+    "kaynak": {
+      "dosya": "MKS_Turk_Tarihi_Kulturu M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 6
+    }
+  }
+]

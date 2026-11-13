@@ -1,0 +1,102 @@
+[
+  {
+    "id": "MIT-001",
+    "konu": "Mitoloji",
+    "alt_konu": "Antik Yunan ve Roma Mitolojisi",
+    "soru": "Homeros'a atfedilen İlyada destanı, Troya Savaşı'nın hangi bölümünü konu edinir?",
+    "siklar": {
+      "A": "Savaşın son 51 günlük bölümünü",
+      "B": "Sadece tahta at hilesini",
+      "C": "Savaş sonrası Akhalıların dönüşünü",
+      "D": "Savaşın ilk yılını",
+      "E": "Savaşın tamamının 10 yıllık süresini"
+    },
+    "dogru": "A",
+    "cozum": "İlyada destanı 24 bölümden oluşur; 10 yıl süren Troya Savaşı'nın tamamını değil, yalnızca Akhilleus'un öfkesiyle başlayan son 51 günlük kesitini anlatır.",
+    "hafiza_ipucu": "51 GÜN: İlyada koca 10 yılın değil, son 51 günün destanıdır.",
+    "kaynak": {
+      "dosya": "trp ana ve alt başlıklar.pdf / Mitoloji ve Din",
+      "sayfa": 90
+    }
+  },
+  {
+    "id": "MIT-002",
+    "konu": "Mitoloji",
+    "alt_konu": "Mitolojinin Temel Kavramları",
+    "soru": "Mitolojide ve dinler tarihinde, evrenin ve kozmosun kökenini, yaratılışını açıklayan anlatı ve mit türüne ne ad verilir?",
+    "siklar": {
+      "A": "Teogoni",
+      "B": "Kozmogoni",
+      "C": "Eskatoloji",
+      "D": "Antropogoni",
+      "E": "Etiyoloji"
+    },
+    "dogru": "B",
+    "cozum": "Kozmogoni (Cosmogony) evrenin oluşumunu; Teogoni tanrıların doğuşunu; Antropogoni insanın yaratılışını; Eskatoloji ise dünyanın ve zamanın sonunu inceleyen mitlerdir.",
+    "hafiza_ipucu": "KOZMOGONİ = KOZMOSUN / EVRENİN DOĞUŞU.",
+    "kaynak": {
+      "dosya": "MKS_Mitoloji M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 3
+    }
+  },
+  {
+    "id": "MIT-003",
+    "konu": "Mitoloji",
+    "alt_konu": "Hitit (Hatti) Mitolojisi",
+    "soru": "Hitit mitolojisinde öfkelenerek doğayı terk eden, onun kayboluşuyla tüm yeryüzünde kıtlık, kuraklık ve kısırlığın baş göstermesine sebep olan bereket ve tarım tanrısı kimdir?",
+    "siklar": {
+      "A": "Tarhund",
+      "B": "Telipinu",
+      "C": "Kumarbi",
+      "D": "Ullikummi",
+      "E": "İnar"
+    },
+    "dogru": "B",
+    "cozum": "Telipinu mitinde, tanrı sağ ayağının çizmesini sol ayağına giyip öfkeyle kaybolunca doğada hayat durur. Bir arı tarafından bulunup yatıştırılmasıyla bereket geri döner.",
+    "hafiza_ipucu": "TELİPİNU = KAYBOLAN VE BEREKETİ GÖTÜREN HITIT TANRISI (Arı bulur).",
+    "kaynak": {
+      "dosya": "G-Arkeoloji_Mitoloji 007 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 21
+    }
+  },
+  {
+    "id": "MIT-004",
+    "konu": "Mitoloji",
+    "alt_konu": "Sümer ve Mezopotamya Mitolojisi",
+    "soru": "Babil yaratılış destanı Enuma Eliş'te, tuzlu suları ve kaos canavarını simgeleyen Tiamat'ı ortadan kaldırarak yeryüzünü ve gökyüzünü onun bedeninden yaratan baştanrı kimdir?",
+    "siklar": {
+      "A": "Marduk",
+      "B": "Enlil",
+      "C": "Anu",
+      "D": "Ea",
+      "E": "Nabu"
+    },
+    "dogru": "A",
+    "cozum": "Babil'in koruyucu baştanrısı Marduk, kaos canavarı ejderha Tiamat'ı ikiye bölerek bir parçasından gök kubbeyi, diğerinden yeryüzünü inşa etmiştir.",
+    "hafiza_ipucu": "MARDUK TIAMAT'I YENDİ: Babil'in kozmik yaratıcısı.",
+    "kaynak": {
+      "dosya": "GR-MKS MITOLOJI VE DIN Cikmis Sorular Calismasi.docx",
+      "sayfa": 40
+    }
+  },
+  {
+    "id": "MIT-005",
+    "konu": "Mitoloji",
+    "alt_konu": "Türk Mitolojisi",
+    "soru": "Altay ve Sibirya Türk yaratılış efsanelerinde göğün en üst katında oturan, iyiliğin ve ışığın kaynağı olan baş tanrı ile yeraltının karanlıklar hükümdarı hangi seçenekte doğru verilmiştir?",
+    "siklar": {
+      "A": "Ülgen - Erlik",
+      "B": "Umay - Ayaz Ata",
+      "C": "Kayra Han - Albıs",
+      "D": "Gök Tengri - Tepegöz",
+      "E": "Mergen - Kızagan"
+    },
+    "dogru": "A",
+    "cozum": "Altay mitolojisinde Bay Ülgen göklerin ve iyiliğin koruyucusuyken; Erlik Han yer altı cehenneminin (Tamu) ve kötülüğün hükümdarıdır.",
+    "hafiza_ipucu": "ÜLGEN = GÖK/İYİLİK; ERLİK = YER ALTI/KÖTÜLÜK.",
+    "kaynak": {
+      "dosya": "MKS_Turk_Tarihi_Kulturu M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 52
+    }
+  }
+]

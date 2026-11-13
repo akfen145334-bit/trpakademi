@@ -1,0 +1,102 @@
+[
+  {
+    "id": "MEV-001",
+    "konu": "Turizm Mevzuatı",
+    "alt_konu": "Temel Turizm Kanunları",
+    "soru": "Türkiye'de turizm bölgeleri, turizm alanları ve turizm merkezlerinin tespiti, planlanması ve turizm yatırımcılarına kamu arazisi tahsisini düzenleyen temel yasa hangisidir?",
+    "siklar": {
+      "A": "1618 sayılı Kanun",
+      "B": "2634 sayılı Turizmi Teşvik Kanunu",
+      "C": "6326 sayılı Kanun",
+      "D": "2863 sayılı Kanun",
+      "E": "6502 sayılı Kanun"
+    },
+    "dogru": "B",
+    "cozum": "1982 tarihli 2634 sayılı Turizmi Teşvik Kanunu, turizm yatırım ve işletmelerinin desteklenmesi, arazi tahsisleri ve turizm merkezlerinin ilanını düzenler.",
+    "hafiza_ipucu": "2634 = TURİZMİ TEŞVİK KANUNU (Arazi tahsisi ve turizm bölgeleri).",
+    "kaynak": {
+      "dosya": "B-Turizm_Mevzuati 002 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 5
+    }
+  },
+  {
+    "id": "MEV-002",
+    "konu": "Turizm Mevzuatı",
+    "alt_konu": "Hukukun Temel Kavramları",
+    "soru": "Normlar hiyerarşisinde en üstte yer alan, altındaki kanunların, yönetmeliklerin ve diğer idari işlemlerin hiçbir şekilde kendisine aykırı olamayacağı metin hangisidir?",
+    "siklar": {
+      "A": "Kanun",
+      "B": "Anayasa",
+      "C": "Cumhurbaşkanlığı Kararnamesi",
+      "D": "Yönetmelik",
+      "E": "Genelge"
+    },
+    "dogru": "B",
+    "cozum": "Hans Kelsen'in Normlar Hiyerarşisi piramidinin tepesinde Anayasa yer alır; tüm yasama ve yürütme tasarrufları Anayasa'ya uygun olmak zorundadır.",
+    "hafiza_ipucu": "PİRAMİDİN TEPESİ: Anayasa > Kanun > Kararname > Yönetmelik > Genelge.",
+    "kaynak": {
+      "dosya": "MKS_Mevzuat_Meslek_Etigi M ALI 2026 AGUSTOS.pdf",
+      "sayfa": 2
+    }
+  },
+  {
+    "id": "MEV-003",
+    "konu": "Turizm Mevzuatı",
+    "alt_konu": "Turizm Yatırımları ve Tesis Türleri",
+    "soru": "Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik'e göre, en az 80 odalı olması gereken, bünyesinde açık/kapalı yüzme havuzu, alakart restoran ve çok amaçlı toplantı salonu bulundurması zorunlu olan otel sınıfı hangisidir?",
+    "siklar": {
+      "A": "3 Yıldızlı Otel",
+      "B": "4 Yıldızlı Otel",
+      "C": "5 Yıldızlı Otel",
+      "D": "Butik Otel",
+      "E": "Tatil Köyü"
+    },
+    "dogru": "B",
+    "cozum": "Yönetmelikte 4 yıldızlı oteller için asgari kapasite 80 oda, 5 yıldızlı oteller için ise en az 120 oda şartı aranır.",
+    "hafiza_ipucu": "4 YILDIZ = EN AZ 80 ODA; 5 YILDIZ = EN AZ 120 ODA.",
+    "kaynak": {
+      "dosya": "B-Turizm_Mevzuati 002 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 28
+    }
+  },
+  {
+    "id": "MEV-004",
+    "konu": "Turizm Mevzuatı",
+    "alt_konu": "Tüketici Hakları ve Sözleşmeler",
+    "soru": "6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Paket Tur Sözleşmeleri Yönetmeliği'ne göre, tüketicinin haklı bir gerekçe göstermeksizin ve kesintisiz paket turdan fesih hakkını kullanabileceği asgari süre tura kaç gün kalaya kadardır?",
+    "siklar": {
+      "A": "7 gün",
+      "B": "15 gün",
+      "C": "30 gün",
+      "D": "45 gün",
+      "E": "60 gün"
+    },
+    "dogru": "C",
+    "cozum": "Paket tur başlamadan en az 30 gün önce yapılan fesih bildirimlerinde, vergi/harç gibi yasal zorunlu kesintiler hariç hiçbir tazminat ödenmeksizin bedel iade edilir.",
+    "hafiza_ipucu": "PAKET TURDA 30 GÜN KURALI: 30 gün önceden kesintisiz iade hakkı.",
+    "kaynak": {
+      "dosya": "B-Turizm_Mevzuati 002 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 42
+    }
+  },
+  {
+    "id": "MEV-005",
+    "konu": "Turizm Mevzuatı",
+    "alt_konu": "Turizm Örgütlenmeleri",
+    "soru": "1618 sayılı Kanun gereğince Türkiye'deki tüm seyahat acentalarının üye olmak zorunda olduğu kamu kurumu niteliğindeki meslek kuruluşu hangisidir?",
+    "siklar": {
+      "A": "TÜROB",
+      "B": "TÜRSAB",
+      "C": "TUREB",
+      "D": "TÜROFED",
+      "E": "TİKVE"
+    },
+    "dogru": "B",
+    "cozum": "Türkiye Seyahat Acentaları Birliği (TÜRSAB), seyahat acentalarının mesleki örgütüdür ve acenta işletme belgesi almak için zorunludur.",
+    "hafiza_ipucu": "TÜRSAB = SEYAHAT ACENTALARI BİRLİĞİ (1618 Sayılı Kanun).",
+    "kaynak": {
+      "dosya": "B-Turizm_Mevzuati 002 MALI 2026 AGUSTOS.pdf",
+      "sayfa": 10
+    }
+  }
+]

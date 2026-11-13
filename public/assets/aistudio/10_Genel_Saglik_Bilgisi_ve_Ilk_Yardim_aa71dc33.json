@@ -1,0 +1,82 @@
+[
+  {
+    "id": "SAG-001",
+    "konu": "Genel Sağlık Bilgisi ve İlk Yardım",
+    "alt_konu": "İlk Yardımın Temel İlkeleri",
+    "soru": "İlk yardımın olay yerindeki temel uygulama aşamalarını simgeleyen 'KBK' kısaltması hangi adımları ifade eder?",
+    "siklar": {
+      "A": "Kurtarma - Bildirme - Kollama",
+      "B": "Koruma - Bildirme - Kurtarma",
+      "C": "Kontrol - Bakım - Koruma",
+      "D": "Kollama - Bilgilendirme - Kaldırma",
+      "E": "Kayıt - Bakım - Kritik Müdahale"
+    },
+    "dogru": "B",
+    "cozum": "İlk yardımın temel basamakları: Koruma (güvenlik sağlama), Bildirme (112 acil servisi arama) ve Kurtarma (hastaya müdahale) adımlarından oluşur.",
+    "hafiza_ipucu": "K-B-K: KORUMA (Güvenlik) -> BİLDİRME (112) -> KURTARMA (Müdahale).",
+    "kaynak": {
+      "dosya": "MKS_Ilk_Yardim M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 3
+    }
+  },
+  {
+    "id": "SAG-002",
+    "konu": "Genel Sağlık Bilgisi ve İlk Yardım",
+    "alt_konu": "Temel Yaşam Desteği (ABC)",
+    "soru": "Bilinç kaybı olan yetişkin bir kazazedede Temel Yaşam Desteği (TYD) uygulanırken göğüs basısı (kalp masajı) ile suni solunum oranı ne olmalıdır?",
+    "siklar": {
+      "A": "15 bası - 2 solunum",
+      "B": "30 bası - 2 solunum",
+      "C": "30 bası - 5 solunum",
+      "D": "20 bası - 2 solunum",
+      "E": "10 bası - 1 solunum"
+    },
+    "dogru": "B",
+    "cozum": "Uluslararası ilkyardım protokollerinde tüm yetişkinlerde kalp masajı ve suni solunum döngüsü 30 göğüs basısı ve 2 suni solunum (30:2) olarak uygulanır; dakikada 100-120 bası hızında olmalıdır.",
+    "hafiza_ipucu": "30 GÖĞÜS BASISI : 2 SUNİ SOLUNUM (30:2).",
+    "kaynak": {
+      "dosya": "MKS_Ilk_Yardim M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 12
+    }
+  },
+  {
+    "id": "SAG-003",
+    "konu": "Genel Sağlık Bilgisi ve İlk Yardım",
+    "alt_konu": "Yaralanmalar ve Kanamalar",
+    "soru": "Fışkırır tarzda ve açık kırmızı (parlak) renkte akan, vücuttan kısa sürede büyük miktarda kan kaybına yol açan en tehlikeli kanama türü hangisidir?",
+    "siklar": {
+      "A": "Kılcal damar kanaması",
+      "B": "Toplardamar kanaması",
+      "C": "Atardamar kanaması",
+      "D": "İç sızıntı kanaması",
+      "E": "Venöz kanama"
+    },
+    "dogru": "C",
+    "cozum": "Atardamar kanamaları, kalbin atımıyla uyumlu fışkırır tarzda ve bol oksijenli parlak kırmızı renklidir; hayati tehlikesi en yüksek kanama türüdür.",
+    "hafiza_ipucu": "ATARDAMAR = KALP GİBİ ATAR/FIŞKIRIR & AÇIK PARLAK KIRMIZI.",
+    "kaynak": {
+      "dosya": "MKS_Ilk_Yardim M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 18
+    }
+  },
+  {
+    "id": "SAG-004",
+    "konu": "Genel Sağlık Bilgisi ve İlk Yardım",
+    "alt_konu": "Acil Durumlar ve Taşıma Teknikleri",
+    "soru": "Kaza geçirmiş bir yaralıyı araç içinden omuriliğine ve boynuna zarar vermeden, baş-boyun-gövde eksenini koruyarak çıkarmak için kullanılan özel manevra hangisidir?",
+    "siklar": {
+      "A": "Heimlich Manevrası",
+      "B": "Rentek Manevrası",
+      "C": "Koma Pozisyonu",
+      "D": "Şok Pozisyonu",
+      "E": "İtfaiyeci Taşıması"
+    },
+    "dogru": "B",
+    "cozum": "Rentek Manevrası, patlama veya yangın riski gibi hayati tehlike olan hallerde kazazedeyi araçtan omurilik felcini engelleyecek şekilde çıkarmak için uygulanır.",
+    "hafiza_ipucu": "RENTEK = ARAÇTAN OMURİLİĞİ KORUYARAK ÇIKARMA.",
+    "kaynak": {
+      "dosya": "MKS_Ilk_Yardim M.ALI 2026 AGUSTOS.pdf",
+      "sayfa": 29
+    }
+  }
+]
