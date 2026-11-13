@@ -1582,6 +1582,182 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Hunların baskısıyla başlayan Kavimler Göçü, Avrupa'nın siyasi haritasını değiştirmiştir (375).",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_17",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Aşağıdakilerden hangisi Cermen Kavimler Göçünün başlamasına neden olan halktır?",
+            "options": [
+              "A) Ostrogotlar",
+              "B) Hunlar",
+              "C) Alanlar",
+              "D) Franklar",
+              "E) Visigotlar"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 17). Doğru cevap: Hunlar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_3",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Firdevsî’nin Şehnâme adlı eserinde adı geçen efsanevi Türk hakanı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kül Tigin",
+              "B) Bilge Kağan",
+              "C) Afrasyab",
+              "D) Mukan Kağan",
+              "E) Teoman"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 3). Doğru cevap: Afrasyab.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_8",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "İslam öncesi Türk devletlerinin ilk ana yurdu olan Orta Asya tarif edilirken aşağıdaki isimlerden hangisi kullanılmaz?",
+            "options": [
+              "A) Altay Dağları",
+              "B) Hazar Denizi",
+              "C) Aral Gölü",
+              "D) İber Yarımadası",
+              "E) Tanrı Dağları"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 8). Doğru cevap: İber Yarımadası.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_9",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "\"Ey yoksulların koruyucusu ey zalimlerin korkusu! İşte ben bütün Hristiyanların temsilcisi Papa I. Leo olarak önünde diz çöktüm, yalvarıyorum, Roma'ya girmeyiniz. Dünya Hristiyanları adına sesleniyorum, bize acıyınız.” Papa I. Leo'nun bu şekilde aman dilediği hükümdar aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Mete Han",
+              "B) Teoman",
+              "C) Attila",
+              "D) Baga Tarkan",
+              "E) Bumin Kağan"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 9). Doğru cevap: Attila.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_11",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Orta Asya’da dağınık hâlde yaşayan Türk topluluklarını ilk kez bir çatı altında toplayan Türk devleti aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Köktürkler",
+              "B) Uygurlar",
+              "C) Peçenekler",
+              "D) Asya Hunları",
+              "E) Türgişler"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 11). Doğru cevap: Asya Hunları.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_12",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Orta Asya'da araştırma yapan tarihçilerin ve arkeologların, İslamiyet öncesi Orta Asya Türk tarihiyle ilgili yaptıkları araştırmalarda aşağıdakilerden hangisiyle ilgili bulgularla karşılaşması beklenemez?",
+            "options": [
+              "A) Yazılı taşlar",
+              "B) Madenî paralar",
+              "C) Kurganlar",
+              "D) Medreseler",
+              "E) Mezar taşları"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 12). Doğru cevap: Medreseler.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_14",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde hükümdarlık unvanları arasında yer almaz?",
+            "options": [
+              "A) Kağan",
+              "B) İdikut",
+              "C) İlteber",
+              "D) Hakan",
+              "E) Sultan"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 14). Doğru cevap: Sultan.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_15",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Almanların Nibelungen Destanı’nda “Attila” hangi isimle anılmaktadır?",
+            "options": [
+              "A) Afrasiyab",
+              "B) Etzel",
+              "C) Arpada",
+              "D) Koça",
+              "E) Bleda"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 15). Doğru cevap: Etzel.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_16",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Türk tarihinde sözlü hukuk kurallarını yazılı hâle getiren Türk devleti aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Köktürkler",
+              "B) Hunlar",
+              "C) Bulgarlar",
+              "D) Avarlar",
+              "E) Uygurlar"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 16). Doğru cevap: Uygurlar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_18",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "İslamiyet öncesi Türk devletlerinde aşağıdakilerden hangisinin ihraç edildiği söylenemez?",
+            "options": [
+              "A) Kılıç",
+              "B) Deri",
+              "C) Tahıl",
+              "D) Kilim",
+              "E) Hayvansal ürünler"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 18). Doğru cevap: Tahıl.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_19",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "Çin'e karşı ulusal Kurtuluş Savaşı'nı başlatarak II. Köktürk Devleti'ni kuran, bu yönüyle Mustafa Kemal'e benzetilen Türk hükümdar aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kutluk Kağan",
+              "B) Attila",
+              "C) Mete Han",
+              "D) Bilge Kağan",
+              "E) Teoman"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 19). Doğru cevap: Kutluk Kağan.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -3720,6 +3896,326 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Boyların mal ve aidiyeti belirtmek için kullandığı işaretlerdir.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_12",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Yazarı belli olmayan eski çağlarda yaşanmış olayları konu alan sözlü destan türüne ne ad verilir?",
+            "options": [
+              "A) Doğal destanlar",
+              "B) Yapay destanlar",
+              "C) Ulusal destanlar",
+              "D) Olağanüstü destanlar",
+              "E) Gerçek destanlar"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 12). Doğru cevap: Doğal destanlar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_8",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Eski Türkçede fırsat, hayır, bereket anlamındaki kelime aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kült",
+              "B) Kam",
+              "C) Kut",
+              "D) Ongun",
+              "E) Mit"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 8). Doğru cevap: Kut.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_19",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Geçmiş toplumlarda kutsallık atfedilen ve insanların onlardan türediği kabul edilen hayvan, ağaç, rüzgar gibi tabiat unsurlarına dayandırılan kutsiyet unsurlarına ne ad verilir?",
+            "options": [
+              "A) Mit",
+              "B) Efsane",
+              "C) Destan",
+              "D) Totem",
+              "E) Masal"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 19). Doğru cevap: Totem.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_5",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Hinduizm'de halk arasında yaygın olarak anlatılan dini hikayeler, atasözleri, masallar ve kahramanlık destanlarından oluşan metinlere ne ad verilir?",
+            "options": [
+              "A) Agni",
+              "B) Smiriti",
+              "C) Surya",
+              "D) Vayu",
+              "E) Şruti"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 5). Doğru cevap: Smiriti.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_5",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Türklerin demir madeninin bulunduğu dağı eriterek yaşadıkları yerden çıkışını anlatan destan aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Ergenekon",
+              "B) Yaradılış",
+              "C) Bozkır",
+              "D) Türeyiş",
+              "E) Alp Er Tunga"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 5). Doğru cevap: Ergenekon.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_10",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Hazarlarda devlet meselelerinin görüşüldüğü meclis aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Seçkinler Meclisi",
+              "B) Nazırlar Meclisi",
+              "C) Millet Meclisi",
+              "D) Komenton",
+              "E) İhtiyarlar Meclisi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 10). Doğru cevap: İhtiyarlar Meclisi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_13",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Ergenekon Destanı’na göre, Köktürk Devleti’ni kuran kabile hangi isim ile bilinmektedir?",
+            "options": [
+              "A) Kayı",
+              "B) Kınık",
+              "C) Aşına",
+              "D) Avşar",
+              "E) Dodurga"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 13). Doğru cevap: Aşına.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_20",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Eski Türklerde sosyal hayatı belirli bir düzen içerisinde tutmak için bütünden temele toplumsal teşkilatlanma biçimi hangi sırayla oluşturulur?",
+            "options": [
+              "A) İL-BUDUN - BOY-URUK-OĞUŞ",
+              "B) İL-BOY-BUDUN-OĞUŞ-URUK",
+              "C) İL-URUK-OĞUŞ-BOY-BUDUN",
+              "D) BOY-İL-BUDUN-OĞUŞ-URUK",
+              "E) BUDUN-OĞUŞ-URUK-BOY-İL"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 20). Doğru cevap: İL-BUDUN - BOY-URUK-OĞUŞ.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_21",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Eski Türkler yazıtlar için hangi terimi kullanmışlardır?",
+            "options": [
+              "A) Bengü taş",
+              "B) Runik taş",
+              "C) Kitabe",
+              "D) Sırlı taş",
+              "E) Ebedi yazı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 21). Doğru cevap: Bengü taş.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_22",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "\"Bengü taş\" ifadesi ne anlama gelmektedir?",
+            "options": [
+              "A) Geçici taş",
+              "B) Ebedi taş",
+              "C) Gizemli taş",
+              "D) Kutsal taş",
+              "E) Sıradan taş"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 22). Doğru cevap: Ebedi taş.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_23",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Eski Türk yazıtlarında hangi alfabe kullanılmıştır?",
+            "options": [
+              "A) Latin alfabesi",
+              "B) Çin alfabesi",
+              "C) Arap alfabesi",
+              "D) Kiril alfabesi",
+              "E) Göktürk alfabesi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 23). Doğru cevap: Göktürk alfabesi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_24",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Orhun Yazıtları nerede bulunmaktadır?",
+            "options": [
+              "A) Kazakistan",
+              "B) Türkmenistan",
+              "C) Moğolistan",
+              "D) Kırgızistan",
+              "E) Çin"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 24). Doğru cevap: Moğolistan.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_25",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "En eski Türkçe yazılı belge nerede bulunmuştur?",
+            "options": [
+              "A) Orhun Vadisi, Moğolistan",
+              "B) Esik kurganı, Kazakistan",
+              "C) Yenisey Nehri",
+              "D) Şine Usu Gölü civarı, Moğolistan",
+              "E) Karabalgasun (Ordu-balık), Moğolistan"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 25). Doğru cevap: Esik kurganı, Kazakistan.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_26",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "\"Runik\" kelimesi ne anlama gelir?",
+            "options": [
+              "A) Açık ve anlaşılır",
+              "B) Taşa kazınmış",
+              "C) Ebedi",
+              "D) Resimli",
+              "E) Gizemli, sırlı"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 26). Doğru cevap: Gizemli, sırlı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_28",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Hangisi Göktürk Yazıtlarının özelliklerinden biri değildir?",
+            "options": [
+              "A) Türk tarihini anlatır",
+              "B) Türk töresini yansıtır",
+              "C) Çok dillidir",
+              "D) Türk edebiyatının ilk örneklerindendir",
+              "E) Askerî stratejiler içerir"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 28). Doğru cevap: Çok dillidir.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_29",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Bugut Yazıtı hangi dillerde yazılmıştır?",
+            "options": [
+              "A) Soğdca ve Brahmi",
+              "B) Göktürkçe ve Çince",
+              "C) Türkçe ve Arapça",
+              "D) Uygurca ve Farsça",
+              "E) Çince ve Moğolca"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 29). Doğru cevap: Soğdca ve Brahmi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_30",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Uygur Kağanlığı dönemine ait üç dilli yazıt hangisidir?",
+            "options": [
+              "A) Köl Tigin Yazıtı",
+              "B) Tonyukuk Yazıtı",
+              "C) Karabalgasun Yazıtı",
+              "D) Çoyr Yazıtı",
+              "E) Esik Yazıtı"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 30). Doğru cevap: Karabalgasun Yazıtı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_32",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Hangisi Göktürk Yazıtlarının özelliklerindendir?",
+            "options": [
+              "A) Yalnızca dini içerik taşır",
+              "B) Çözülememiştir",
+              "C) Türk devlet teşkilatını anlatır",
+              "D) Yabancı devletler tarafından yazılmıştır",
+              "E) Sadece Çincede yazılmıştır"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 32). Doğru cevap: Türk devlet teşkilatını anlatır.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_33",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Orhun Yazıtları’ndan ilk kez hangi eserde bahsedilmiştir?",
+            "options": [
+              "A) Tarih-i Cihan-güşa",
+              "B) Divan-ı Lügat'it Türk",
+              "C) Kutadgu Bilig",
+              "D) Yenisey Yazıtları",
+              "E) Şine Us Yazıtı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 33). Doğru cevap: Tarih-i Cihan-güşa.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_35",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Aşağıdakilerden hangisi Eski Türklerde devletin oluşması için gerekli dört şarttan birisi değildir?",
+            "options": [
+              "A) Halk",
+              "B) İstiklal/Bağımsızlık",
+              "C) Toprak/Vatan",
+              "D) Kanun/Töre",
+              "E) İnanç sistemi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 35). Doğru cevap: İnanç sistemi.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -5363,6 +5859,70 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_13",
+            "subtopicId": "turktarihi_3",
+            "courseId": "turktarihi",
+            "questionText": "Politika kelime olarak hangi anlamı taşır?",
+            "options": [
+              "A) Plan",
+              "B) Yöntem",
+              "C) Program",
+              "D) Siyaset",
+              "E) Süreç"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 13). Doğru cevap: Siyaset.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_4",
+            "subtopicId": "turktarihi_3",
+            "courseId": "turktarihi",
+            "questionText": "1187 yılları arasında Afganistan, Özbekistan, İran, Horasan, Pakistan ve Kuzey Hindistan'a kadar uzanan geniş bir coğrafyaya hâkim olan devlet aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Karahanlı",
+              "B) Akkoyunlu",
+              "C) Gazneli",
+              "D) Büyük Selçuklu",
+              "E) Karakoyunlu"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 4). Doğru cevap: Gazneli.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_7",
+            "subtopicId": "turktarihi_3",
+            "courseId": "turktarihi",
+            "questionText": "Kaşgarlı Mahmut’un “Türk’ün kanadıdır.” diye nitelendirdiği savaş aracı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) At",
+              "B) Ok",
+              "C) Yay",
+              "D) Mızrak",
+              "E) Kalkan"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 7). Doğru cevap: At.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_37",
+            "subtopicId": "turktarihi_3",
+            "courseId": "turktarihi",
+            "questionText": "Karahanlılar kuruluş döneminde merkezi olarak aşağıdaki şehirlerden hangisini kullanmıştır?",
+            "options": [
+              "A) Buhara",
+              "B) Semerkand",
+              "C) Balasagun",
+              "D) Kaşgar",
+              "E) Talas"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 37). Doğru cevap: Balasagun.",
             "difficulty": "orta"
           }
         ],
@@ -10761,6 +11321,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Millet sistemi din/mezhep temelli örgütlenir.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_6",
+            "subtopicId": "turktarihi_5",
+            "courseId": "turktarihi",
+            "questionText": "MS 300 ile 750 arası dönemi kapsayan, Hint düşüncesi üzerine yazıların oluştuğu ve Hinduizmin yayılmaya başladığı döneme verilen ad aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Puranalar",
+              "B) Vedalar Dönemi",
+              "C) Ortaçağ ve Sonrası Hinduizm",
+              "D) Sutralar Dönemi",
+              "E) Destanlar Dönemi"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 6). Doğru cevap: Puranalar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_19",
+            "subtopicId": "turktarihi_5",
+            "courseId": "turktarihi",
+            "questionText": "Aşağıdakilerden hangisi Thema Sisteminin Bizans İmparatorluğuna sağladığı en önemli faydadır?",
+            "options": [
+              "A) Gümrük vergi gelirlerinin artışını sağlaması",
+              "B) Güçlü, yerli ve daimî bir ordu yaratması",
+              "C) Askerî ve sivil idareyi birbirinden ayırması",
+              "D) Tarımsal üretimde artış ve sürekliliği sağlaması",
+              "E) Topraksız köylülere arazi tahsisini sağlaması"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 19). Doğru cevap: Güçlü, yerli ve daimî bir ordu yaratması.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -12583,6 +13175,38 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_8",
+            "subtopicId": "turktarihi_6",
+            "courseId": "turktarihi",
+            "questionText": "Yahudilerin Mısır'dan çıkışları anısına kutlanan, Mart-Nisan ayları içerisinde sekiz gün süren Yahudi bayramı hangisidir?",
+            "options": [
+              "A) Kurban Bayramı",
+              "B) Üzüt Bayramı",
+              "C) Şavuot Bayramı",
+              "D) Fısıh Bayramı",
+              "E) Sukkot Bayramı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 8). Doğru cevap: Fısıh Bayramı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_6",
+            "subtopicId": "turktarihi_6",
+            "courseId": "turktarihi",
+            "questionText": "Türk-İslam devletlerinin ilk dönemlerinde başkent olan ve Timur Dönemi'nde “şehirlerin şahı” unvanıyla bilinen stratejik öneme sahip şehir aşağıdakilerden hangisidir?",
+            "options": [
+              "A) İsfahan",
+              "B) Semerkant",
+              "C) Taşkent",
+              "D) Buhara",
+              "E) Kaşgar"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 6). Doğru cevap: Semerkant.",
             "difficulty": "orta"
           }
         ],
@@ -14576,6 +15200,70 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Doğru: Elverişli iklim, verimli topraklar ve yol/ticaret kavşağı konumu Anadolu'yu medeniyet beşiği yapmıştır.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_8",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Kalkolitik dönemde ortaya çıkan yuvarlak planlı, uzun ince koridor şeklinde girişleri bulunan ev modellerinin kubbe şeklinde örtüldüğü kabul edilmektedir. Bu kubbeli çatı modellerini günümüzde aşağıdaki modellerin hangisinde görmek mümkündür?",
+            "options": [
+              "A) Halfeti Evleri",
+              "B) Zeugma Evleri",
+              "C) Harran evleri",
+              "D) Göbeklitepe Evleri",
+              "E) Samsat Evleri"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 8). Doğru cevap: Harran evleri.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_15",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdaki yerleşim yerlerinden hangisi Epi-paleolitik yerleşim yerlerinden biri değildir?",
+            "options": [
+              "A) Boyalı Mağara",
+              "B) Öküzini Mağarası",
+              "C) Karain Mağarası",
+              "D) Beldibi Kaya Sığınağı",
+              "E) Belbaşı Kaya Sığınağı"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 15). Doğru cevap: Boyalı Mağara.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_5",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdaki hayvanlardan hangisi Neolitik çağ öncesinde evcilleştirilmiştir?",
+            "options": [
+              "A) Domuz",
+              "B) İnek",
+              "C) Kedi",
+              "D) Koyun",
+              "E) Köpek"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 5). Doğru cevap: Köpek.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_6",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Anıtsal boyutlarda olan, içinde 450 kadar bireye ait kalıntılar bulunan \"Kafataslı Yapı\" adıyla tanınan yapı aşağıdaki yerleşmelerin hangisinde ortaya çıkarılmıştır?",
+            "options": [
+              "A) Çayönü",
+              "B) Aşıklıhöyük",
+              "C) Çatalhöyük",
+              "D) Caferhöyük",
+              "E) Göbekli Tepe"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 6). Doğru cevap: Çayönü.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -15614,6 +16302,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "(2025 Ağustos Mesleğe Kabul sınavı, S. 31)",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_11",
+            "subtopicId": "anadolu_2",
+            "courseId": "anadolu",
+            "questionText": "Orta Anadolu'da İlk Tunç Çağı ölü gömme adetlerini en iyi şekilde yansıtan mezarlar nerede ele geçmiştir?",
+            "options": [
+              "A) Çorum Alacahöyük",
+              "B) Kaman Kalehöyük",
+              "C) Çorum Hattuşaş",
+              "D) Yozgat Alişar",
+              "E) Konya Karahöyük"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 11). Doğru cevap: Çorum Alacahöyük.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -16347,6 +17051,54 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_12",
+            "subtopicId": "anadolu_3",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Sümerlerin iki yüzlü tanrısı olup kültü Roma’ya kadar girmiştir?",
+            "options": [
+              "A) Ningirsu",
+              "B) Anzu",
+              "C) Usumi",
+              "D) Enlil",
+              "E) Enkidu"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 12). Doğru cevap: Usumi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_15",
+            "subtopicId": "anadolu_3",
+            "courseId": "anadolu",
+            "questionText": "Anadolu'da en eski tarihli yazılı belgeler hangi kentte ele geçmiştir?",
+            "options": [
+              "A) Alişar",
+              "B) Hattuşaş",
+              "C) Kültepe",
+              "D) Aslantepe",
+              "E) Alacahöyük"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 15). Doğru cevap: Kültepe.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_1",
+            "subtopicId": "anadolu_3",
+            "courseId": "anadolu",
+            "questionText": "Asurlu tüccarların ana merkezler arasında konakladıkları tesislere ------- adı verilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+              "A) Vabartum",
+              "B) Tapaster",
+              "C) Hattuş",
+              "D) Tarhuntassa",
+              "E) Kaşka"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 1). Doğru cevap: Vabartum.",
             "difficulty": "orta"
           }
         ],
@@ -17947,6 +18699,70 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 1,
             "explanation": "Doğru: Anal, Hititlerin objektif tarih anlayışını yansıtan yıllıklardır.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_12",
+            "subtopicId": "anadolu_4",
+            "courseId": "anadolu",
+            "questionText": "Antiokhos MÖ 190'da Seleukos Kralı III. Magnesia Savaşını kaybedince MÖ 188'de hangi anlaşmayı imzalamak zorunda kalmıştır?",
+            "options": [
+              "A) Kral Barışı",
+              "B) Babylon Barışı",
+              "C) Kalias Barışı",
+              "D) Apameia Barışı",
+              "E) Triparadisos Barışı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 12). Doğru cevap: Apameia Barışı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_18",
+            "subtopicId": "anadolu_4",
+            "courseId": "anadolu",
+            "questionText": "Hattuşili'nin bu ismi ilk Hitit Kralı olan almadan önceki adı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Tuthalia",
+              "B) Murşili",
+              "C) Hantili",
+              "D) Muvattali",
+              "E) Labarna"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 18). Doğru cevap: Labarna.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_13",
+            "subtopicId": "anadolu_4",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Avrupa'da yayınlanan ilk Bizans araştırmaları külliyatıdır?",
+            "options": [
+              "A) Corpus Historiae Byzantinae",
+              "B) Patrologia Graeca",
+              "C) Corpus Fontium Historiae Byzantinae",
+              "D) Corpus Scriptorum Historiae Byzantinae",
+              "E) Corpus Iuris Civilis"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 13). Doğru cevap: Corpus Historiae Byzantinae.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_12",
+            "subtopicId": "anadolu_4",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Akkad Dönemi'nin en önemli krallarından birinin adıyla anılan steldir?",
+            "options": [
+              "A) Gudea",
+              "B) Ur-Nanşe",
+              "C) Nannar",
+              "D) II. Aşurnasirpal",
+              "E) Naram-Sin"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 12). Doğru cevap: Naram-Sin.",
             "difficulty": "orta"
           }
         ],
@@ -21758,6 +22574,246 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "(2025 Ağustos Mesleğe Kabul sınavı, S. 69)",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_14",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Türk kültüründe ölmüş veya yaşlı büyüklere saygıyı esas alan kült hangisidir?",
+            "options": [
+              "A) Toprak Kültü",
+              "B) Gök Tanrı kültü",
+              "C) Atalar kültü",
+              "D) Doğa Güçleri Kültü",
+              "E) Tabiat Kültü"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 14). Doğru cevap: Atalar kültü.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_14",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Mezopotamya panteonunun baş tanrısı ve göğün kişileştirilmiş hali kimdir?",
+            "options": [
+              "A) Enki/Ea",
+              "B) Enlil",
+              "C) An/Anu",
+              "D) Im/Adad",
+              "E) Enkidu"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 14). Doğru cevap: An/Anu.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_19",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Fırtına Tanrısı Teşup'un, krallık tahtına oturmasının konu edildiği efsane hangisidir?",
+            "options": [
+              "A) Tanrıça İnara'nın Kayboluşu",
+              "B) Ullikummi Şarkısı",
+              "C) Gümüş'ün Şarkısı",
+              "D) Hedammu Şarkısı",
+              "E) Tanrı Lama'nın Şarkısı"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 19). Doğru cevap: Ullikummi Şarkısı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_13",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Hitit mitolojisinde Ay Tanrısıdır?",
+            "options": [
+              "A) Kaşku",
+              "B) Alalu",
+              "C) Anu",
+              "D) EA",
+              "E) Hepat"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 13). Doğru cevap: Kaşku.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_3",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdaki kentlerden hangisi İon Birliğine dahil değildir?",
+            "options": [
+              "A) Ephesos",
+              "B) Pergamon",
+              "C) Teos",
+              "D) Priene",
+              "E) Phokaia"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 3). Doğru cevap: Pergamon.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_4",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Anadolu'da Pers yönetimi sırasında satraplık sistemini hangi Pers Kralı yürürlüğe koymuştur?",
+            "options": [
+              "A) II. Kyros",
+              "B) II. Dareios",
+              "C) Arşes",
+              "D) II. Kambyzes",
+              "E) II. Şerhas"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 4). Doğru cevap: II. Kyros.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_6",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Lidyalıların zenginlikleri başkentleri Sardes içinden geçen Paktolos Çayındaki altın rezervlerine dayanmaktadır. Ayrıca egemenlikleri altındaki bölgelerden hangisinde altın madeni elde edilmektedir?",
+            "options": [
+              "A) Ephesos",
+              "B) Milet",
+              "C) Larissa",
+              "D) Bergama",
+              "E) Mylias"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 6). Doğru cevap: Bergama.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_16",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Kabartmada fırtına tanrısı Tarhundas ile Kral Varpalavas birlikte tasvir edildiği kaya kabartması hangi kentimizde yer almaktadır?",
+            "options": [
+              "A) Malatya, Aslantaş",
+              "B) Osmaniye, Karatepe",
+              "C) Gaziantep, Zincirli",
+              "D) Konya, İvriz",
+              "E) Gaziantep, Karkamış"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 16). Doğru cevap: Konya, İvriz.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_20",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdaki dini inanışlardan hangisi Urartu dininde yer almaktadır?",
+            "options": [
+              "A) Kaya nişlerindeki kapıdaki yazılı tanrıların bir gün çıkıp geleceğine inanırlardı.",
+              "B) İnsanlar tanrının onları daima gözlediğini ve yanlarında onlarla birlikte yaşadıklarına inanırlardı.",
+              "C) İnsanlar tanrı ve tanrıçaların yaşamlarının başka bir boyutta soyut enerji şeklinde olduğuna inanırlardı.",
+              "D) Tanrı Haldi'nin tek tanrı olduğuna inanırlardı.",
+              "E) İnsanlar tanrılarının hayvanların biçimine girerek dünyada yaşadıklarına inanırlardı."
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 20). Doğru cevap: Kaya nişlerindeki kapıdaki yazılı tanrıların bir gün çıkıp geleceğine inanırlardı..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_2",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Attika-Delos deniz birliği ile ilgili aşağıdaki ifadelerden hangisi?",
+            "options": [
+              "A) Yunanistan'daki kentlerin yanı sıra Batı ve Güney Anadolu'daki kentlerden de bazıları birliğe katılmıştır.",
+              "B) Birliğin ilk merkezi Delos adasıdır.",
+              "C) Atina önderliğinde, Sparta'nın yayılmacı politikalarına engel olmak amacıyla kurulmuştur.",
+              "D) Askeri gücü olan kentler asker ya da gemi vererek, askeri gücü olmayanlar yıllık aidatlar ödeyerek birliği desteklemişlerdir.",
+              "E) Kısa sürede sayıları artarak birliğe bağlı kentlerin sayısı 300'e ulaşmıştır."
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 2). Doğru cevap: Atina önderliğinde, Sparta'nın yayılmacı politikalarına engel olmak amacıyla kurulmuştur..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_3",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Didyma Apollon tapınağı ile ilgili aşağıdaki ifadelerden hangisi?",
+            "options": [
+              "A) M.Ö. 494'te Darios tarafından yıkılsa da sonradan tekrar inşa edilmiştir.",
+              "B) Hellenistik devirde yapılan tapınak arkaik tapınağın üzerine yapıldığı için erken tapınak hakkında bilgi oldukça kısıtlıdır.",
+              "C) Didyma dönemin en gelişmiş kentlerinden biridir.",
+              "D) Ionia bölgesinde yer alır.",
+              "E) Didyma'nın Karia dilinde iki kavramı ifade ettiği söylense de bu kavramların ne olduğu tam olarak bilinmemektedir."
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 3). Doğru cevap: Didyma dönemin en gelişmiş kentlerinden biridir..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_12",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Ağabeyi II. Artakserkses tarafından Pers satrabı olarak atanmasından sonra ağabeyine karşı ayaklanma çıkaran Kyros’un satraplık yaptığı şehir aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Miletos",
+              "B) Ephesos",
+              "C) Priene",
+              "D) Daskyleion",
+              "E) Sardes"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 12). Doğru cevap: Sardes.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_16",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Merkezi Mykale (Samsun Dağı) üzerinde bulunan ve yakın çevresindeki 12 kentin dahil olduğu siyasi ve dinsel birliğin adı nedir?",
+            "options": [
+              "A) Pantheon",
+              "B) Panionion",
+              "C) Attika-Delos Deniz Birliği",
+              "D) Martyrion",
+              "E) Parthenon"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 16). Doğru cevap: Panionion.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_17",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Batı Anadolu sahil kesiminde yaşayan en eski halklardan biri değildir?",
+            "options": [
+              "A) Karlar",
+              "B) Pelasglar",
+              "C) Lelegler",
+              "D) Aioller",
+              "E) Mysler"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 17). Doğru cevap: Aioller.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_13",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Anadolu’ya MÖ üçüncü bin yılın başlarında Kafkasya’dan göç ettikleri varsayılan; başkenti Çorum ili sınırları içinde kalan, eski adı Hattuşa, günümüzdeki adı ise Boğazköy olan uygarlık aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Urartu",
+              "B) Frig",
+              "C) Sümer",
+              "D) Lidya",
+              "E) Hitit"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 13). Doğru cevap: Hitit.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -25398,6 +26454,502 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Bilgelik, erdem, düşünce ve bilgi]",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_2",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Büyük İskender'in ölümünden sonraki döneme verilen Diodokhlar kelimesinin anlamı nedir?",
+            "options": [
+              "A) Selefler",
+              "B) Halefler",
+              "C) Evlatlıklar",
+              "D) Arkadaşlar",
+              "E) Komutanlar"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 2). Doğru cevap: Halefler.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_9",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Helenistik Çağda doğu ve batı kültürlerinin birlikteliğinde de tanrıların birleştirilmesine neden olmuştur. Bu birleşime Eski Yunanca'da ne ad verilmektedir?",
+            "options": [
+              "A) Attisisizm",
+              "B) Asianizm",
+              "C) Synkretizm",
+              "D) Helenizm",
+              "E) Klasisizm"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 9). Doğru cevap: Synkretizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_10",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Büyük İskender batı Anadolu kıyılarından güneye doğru ilerlerken Daskylaion ve Marmara'yı işgal etmek için hangi komutanını görevlendirmiştir?",
+            "options": [
+              "A) Ptolemaios",
+              "B) Seleukos",
+              "C) Kasandros",
+              "D) Lysimakhos",
+              "E) Parmenion"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 10). Doğru cevap: Parmenion.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_11",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdaki krallıklardan hangisi 3. yüzyılda Roma İmparatorluğundan koparak kurulmuştur?",
+            "options": [
+              "A) Galatya Krallığı",
+              "B) İonya Krallığı",
+              "C) Armenya Krallığı",
+              "D) Palmyra Krallığı",
+              "E) Pontus Krallığı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 11). Doğru cevap: Palmyra Krallığı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_13",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Perge Antik Kentinin Güney Hamamında bulunan Galerinin adı nedir?",
+            "options": [
+              "A) Klaudios Piso",
+              "B) Claudius Salmasius",
+              "C) Claudius Gothicus",
+              "D) Claudio Acquaviva",
+              "E) Claudius Aelianus"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 13). Doğru cevap: Klaudios Piso.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_14",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Romalıların Anadolu'daki topraklarına saldıran ve Romalılara uzun yıllar direnen ünlü Pontus kralı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) IV. Mithridates",
+              "B) VI. Mithridates",
+              "C) V. Mithridates",
+              "D) II. Mithridates",
+              "E) III. Mithridates"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 14). Doğru cevap: VI. Mithridates.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_17",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Pergamon Krallığını vasiyeti ile Roma Devletine bırakan Pergamon Kralı kimdir?",
+            "options": [
+              "A) III. Eumenes",
+              "B) II. Attalos",
+              "C) III. Attalos",
+              "D) Piletairos",
+              "E) II. Eumenes"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 17). Doğru cevap: III. Attalos.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_3",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Ptolemaios Krallığının kurucusu olan I. Ptolemaios “Soter” (kurtarıcı) unvanını hangi tarihi olaydan sonra almıştır?",
+            "options": [
+              "A) İskender'in Krallığını kurtarmasından dolayı",
+              "B) II. Seleukos'a yardım etmesinden dolayı",
+              "C) Kasandros'tan geri tüm tutsakları almasından dolayı",
+              "D) Rodos'a yardım göndermesinden dolayı",
+              "E) Kıbrıs adasını fetih etmesinden dolayı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 3). Doğru cevap: Rodos'a yardım göndermesinden dolayı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_9",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdaki seçeneklerde yer alan hangi anıt “Greko-Pers veya Anadolu-Pers Sanatı” diye adlandırılan gruba girmemektedir?",
+            "options": [
+              "A) Tatarlı Tümülüsü",
+              "B) Daskyleion Stelleri",
+              "C) Karaburun Tümülüsü",
+              "D) Kızılbel Tümülüsü",
+              "E) Alyattes Tümülüsü"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 9). Doğru cevap: Alyattes Tümülüsü.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_12",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Anadolu'da Neolitik Dönemde seramik ilk olarak hangi tarihte kullanılmaya başlanmıştır.",
+            "options": [
+              "A) MÖ 7750",
+              "B) MÖ 7000",
+              "C) MÖ 6000",
+              "D) MÖ 7500",
+              "E) MÖ 7250"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 12). Doğru cevap: MÖ 7000.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_16",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Ephesos Domitianus Tapınağının inşasında oluşturulmuş olan tonozlu altyapıya verilen isim nedir?",
+            "options": [
+              "A) Crypta",
+              "B) Katakomp",
+              "C) Cryptaporticus",
+              "D) Porta Regia",
+              "E) Paraskenion"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 16). Doğru cevap: Cryptaporticus.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_17",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Batı Dünyasında tarihin babası olarak kabul edilen antik yazar kimdir?",
+            "options": [
+              "A) Hapokrates",
+              "B) Homeros",
+              "C) Xenephon",
+              "D) Herodotos",
+              "E) Hesiodos"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 17). Doğru cevap: Herodotos.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_19",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Urartu Devlet yönetimini açıklayan seçenek aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kral devletin mutlak hakimi olarak kabul edilirdi.",
+              "B) Demokratik bir yönetim şekline sahipti.",
+              "C) Kral başta olur, denetleme kurulu ona yardım ederdi.",
+              "D) Teokratik bir yönetim uygulanırdı.",
+              "E) Başta kral tanrı yer alır ve devletin sahibi olurdu."
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 19). Doğru cevap: Teokratik bir yönetim uygulanırdı..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_8",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Diocletianus reformları ile ilgili aşağıdaki ifadelerden hangisi?",
+            "options": [
+              "A) Yeni tip ve birimlerde sikkeler basılarak paraya duyulan güvensizlik sona erdirilmeye çalışılmıştır.",
+              "B) Eyaletler daha küçük parçalara ayrılarak valilerin güçlenmeleri ve yönetime karşı ayaklanmaları engellenmeye çalışılmıştır.",
+              "C) \"Narh Emirnamesi\" ile imparatorluk çapında var olan her türlü meta ve hizmet için ödenecek en yüksek fiyatların sabitlenmesi için çalışılmıştır.",
+              "D) Askeri ve sivil yönetim birleştirilerek valilerin daha hızlı karar almaları, Goth ve Germen kabilelerine karşı daha etkili olmaları sağlanmıştır.",
+              "E) Senato ve imparator eyaletleri arasındaki farklılıklar kaldırılmış, bütün eyaletler on iki adet dioecesis altında gruplandırılmıştır."
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 8). Doğru cevap: Askeri ve sivil yönetim birleştirilerek valilerin daha hızlı karar almaları, Goth ve Germen kabilelerine karşı daha etkili olmaları sağlanmıştır..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_9",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Roma'da Julius-Claudius dönemi siyasi gelişmeleri ile ilgili aşağıdaki ifadelerden hangisi yanlış?",
+            "options": [
+              "A) Ephesos kentinden başlayarak doğuya giden Via Sebaste isimli yol Augustus döneminde inşa edilmiştir.",
+              "B) Augustus döneminde, Anadolu'da Galatia eyaleti kurulmuştur.",
+              "C) Claudius döneminde Lykia ve Thrakia'nın Roma eyaleti yapılması ile Euphrates (Fırat) ırmağına kadar olan bütün Anadolu Roma kontrolüne girmiştir.",
+              "D) Hanedanlığın en parlak dönemi İmparator Hadrianus döneminde yaşanmıştır.",
+              "E) Augustus'tan sonra tahta geçen Tiberius zamanında Kappadokia Krallığı ilhak edilerek eyalet haline getirilmiştir."
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 9). Doğru cevap: Hanedanlığın en parlak dönemi İmparator Hadrianus döneminde yaşanmıştır..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_10",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Büyük İskender'in Anadolu seferi ile ilgili aşağıdaki ifadelerden hangisi?",
+            "options": [
+              "A) Sefer M.Ö. 430 yılında İskender ve İzmir körfezi ordusunun üzerinden Anadolu'ya geçişi ile başlar.",
+              "B) Anadolu'ya giren Makedon ordusuna karşı Perslerin ilk direnişi Granikos (Biga Çayı) kıyısında olmuştur.",
+              "C) İssos savaşı sonrası Pers krallığı ağır bir darbe almış, Dareios'un karısı ve çocuklarını dahi esir alınmıştır.",
+              "D) Kral Dareios ile yaptığı Gaugamela savaşı sonrası bölgedeki kontrolünü pekiştiren İskender Asya'nın Kralı ilan edilmiştir.",
+              "E) Ele geçirdiği bölgelerde Pers sistemini olduğu gibi bırakmış, siyasi ve mali konularda Makedonyalı ve Yunanlı yetkilileri atamıştır."
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 10). Doğru cevap: Sefer M.Ö. 430 yılında İskender ve İzmir körfezi ordusunun üzerinden Anadolu'ya geçişi ile başlar..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_13",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Kurulduğu Ptolemaios Krallığının yer aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Thrakia",
+              "B) İran",
+              "C) Batı Anadolu",
+              "D) Mısır",
+              "E) Babylonia"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 13). Doğru cevap: Mısır.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_14",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Doğu Karadeniz bölgesinde kurulan en ünlü yöneticisi Kral IV. Mithridates olan Hellenistik krallık aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Bithynia",
+              "B) Pontos",
+              "C) Armenia",
+              "D) Kappadokia",
+              "E) Kommagene"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 14). Doğru cevap: Pontos.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_15",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Anabasis adlı eserin yazarı ve konusu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+              "A) Yazarı Ksenophon, konusu: Satrap ayaklanmalarıdır.",
+              "B) Yazarı Ksenophon, konusu: Kyros'un seferinden dönen ordunun başından geçenlerdir.",
+              "C) Yazarı Thukydides, konusu: Romalı komutan Sulla'nın Anadolu'daki fetihleridir.",
+              "D) Yazarı Sicilyalı Diodos, konusu: Sicilya tarihidir.",
+              "E) Yazarı Herodotos, konusu: Peloponnessos savaşıdır."
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 15). Doğru cevap: Yazarı Ksenophon, konusu: Kyros'un seferinden dönen ordunun başından geçenlerdir..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_18",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Pergamon Krallığı ile ilgili aşağıdaki ifadelerden hangisi?",
+            "options": [
+              "A) Son Pergamon Kralı III. Attalos ölürken krallığını Roma'ya bırakmıştır.",
+              "B) Pergamon heykel okulu M.Ö. 230-130 yılları arasında Hellenistik sanatın en önemli eserlerini vermiştir.",
+              "C) Kendi döneminde Pergamon Kütüphanesi Aleksandria Kütüphanesinden sonra dünyanın en büyük ikinci kütüphanesiydi.",
+              "D) M.Ö. 188 yılında Apameia barış antlaşması ile Pergamon Batı Anadolu'da geniş topraklar elde etti.",
+              "E) M.Ö. 42'de Pergamon kütüphanesindeki büyük yangından sonra Aleksandria Kütüphanesindeki kitapların büyük kısmı buraya taşınmıştır."
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 18). Doğru cevap: M.Ö. 42'de Pergamon kütüphanesindeki büyük yangından sonra Aleksandria Kütüphanesindeki kitapların büyük kısmı buraya taşınmıştır..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_19",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Augustus’un iç savaşları sonra erdirerek ve komşuları ile mümkün olduğu yerlerde savaş yerine diplomatik çözüm yolu seçmesi ile oluşan ve M.S. 3. yüzyıl ortalarına kadar devam eden dönem aşağıdakilerden hangisi ile adlandırılır?",
+            "options": [
+              "A) Augustus Barışı",
+              "B) İmperium Romana",
+              "C) Pax Viva",
+              "D) Via Romana",
+              "E) Pax Romana"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 19). Doğru cevap: Pax Romana.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_2",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Bizans dönemini Roma imparatorluğunun topyekûn bir çöküş dönemi olarak nitelendiren tarihçidir?",
+            "options": [
+              "A) Edward Gibbon",
+              "B) Skarlatos Byzantios",
+              "C) Aleksander A. Vasiliev",
+              "D) Pierre Grenier",
+              "E) Aleksandros G. Paspates"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 2). Doğru cevap: Edward Gibbon.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_3",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Renovatio imperii (İmparatorluğun Restorasyonu) projesinin mimarı olan I. Justinianus'un icraatlarından biri?",
+            "options": [
+              "A) İberia'nın güneyini fethederek Spania eyaletini kurması",
+              "B) Batı Roma eyaletlerinin tümüyle geri alınmasını sağlaması",
+              "C) Devletin medeni hukukunun temellerinin atılmasını sağlaması",
+              "D) Roma yasalarının yeniden derlenmesini sağlaması",
+              "E) Doğu Karadeniz'deki Tzani halkına boyun eğdirmesi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 3). Doğru cevap: Batı Roma eyaletlerinin tümüyle geri alınmasını sağlaması.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_10",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Bizans İmparatorluğu'nun Justinianus sonrası \"Parçalanma ve Yeniden Toparlanma Devri\" olarak nitelendirilen dönemin doğru kronolojisidir?",
+            "options": [
+              "A) 564-609",
+              "B) 563-610",
+              "C) 565-610",
+              "D) 566-611",
+              "E) 567-612"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 10). Doğru cevap: 565-610.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_12",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Roma İmparatorluğu'nun batı yarısının son hükümdarıdır?",
+            "options": [
+              "A) Honorius",
+              "B) Zenon",
+              "C) Romulus Augustulus",
+              "D) II. Leon",
+              "E) III. Valentinianus"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 12). Doğru cevap: Romulus Augustulus.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_20",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Diokletianus’un oluşturduğu yeni eyalet sisteminde bugün Türkiye topraklarında yer alan idari birimlerin (dioceses) dışındadır?",
+            "options": [
+              "A) Thrace",
+              "B) Pontus",
+              "C) Oriens",
+              "D) Asia",
+              "E) Dacia"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 20). Doğru cevap: Dacia.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_13",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Yunan sanatında ciddi yüz ifadesinden dolayı “Ciddi stil” olarak da adlandırılan heykeller klasik dönemin hangi evresinde yapılmıştır?",
+            "options": [
+              "A) Zengin Klasik Dönem",
+              "B) Olgun Klasik Dönem",
+              "C) Geç Klasik Dönem",
+              "D) Erken Klasik Dönem",
+              "E) Arkaik Dönem"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 13). Doğru cevap: Erken Klasik Dönem.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_20",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Eski İran coğrafyasından günümüze gelebilen en erken tarihli eserler aşağıdaki uygarlıklardan hangisine aittir?",
+            "options": [
+              "A) Elam",
+              "B) Sasani",
+              "C) Med",
+              "D) Selefkos",
+              "E) Pers"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 20). Doğru cevap: Elam.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_14",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Eserlerin ticari ürün olarak kullanılmasına dolayısıyla satılmasına karşı olan, 1965 yılında yaptığı “Bir ve Üç Sandalye” adlı eseriyle, sanat yapıtının gerçekte düşüncenin iletilmesinde kullanılan bir araç olduğunu vurgulayan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Marcel Ducamp",
+              "B) Roy Lichtenstein",
+              "C) Joseph Kosuth",
+              "D) Allan Kaprow",
+              "E) Alexander Calder"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 14). Doğru cevap: Joseph Kosuth.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_19",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Eczacıların, merhem ve kuru ilaçlar için kullandıkları, İspanyolca barril fıçı, varil demek olan kavanoz türü aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Usturlap",
+              "B) Lüster",
+              "C) Albarello",
+              "D) Stuko",
+              "E) Perdah"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 19). Doğru cevap: Albarello.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_27",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "Eski Türk yazıtlarının malzemesi genellikle nedir?",
+            "options": [
+              "A) Kil tablet",
+              "B) Deri",
+              "C) Ağaç",
+              "D) Taş",
+              "E) Papirüs"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 27). Doğru cevap: Taş.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -27108,6 +28660,22 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_11",
+            "subtopicId": "arkeoloji_1",
+            "courseId": "arkeoloji",
+            "questionText": "Aşağıdakilerden hangisi Bizantinolojinin bağımsız bir bilim dalı olmasında rol oynamıştır?",
+            "options": [
+              "A) Steven Runciman",
+              "B) Georg Rohde",
+              "C) Karl Krumbacher",
+              "D) Ronald Syme",
+              "E) Edward Gibbon"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 11). Doğru cevap: Karl Krumbacher.",
             "difficulty": "orta"
           }
         ],
@@ -32334,6 +33902,70 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Doğru: Ücretsiz/indirimli erişim, kültürel mirasa erişimi yaygınlaştırmayı amaçlar.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_5",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Aşağıdaki mitolojik anlatımlardan hangisi Xanthos Antik Kentindeki Nereidler Anıtı Frizinde yer almaktadır?",
+            "options": [
+              "A) Kentauromakhia",
+              "B) Amazonomakhia",
+              "C) Gigantomakhia",
+              "D) Titanomakhia",
+              "E) Naumakhia"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 5). Doğru cevap: Amazonomakhia.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_4",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Su kaynakları yakınında anıt yapma geleneği Geç Hititlerde de sürmüştür. Konya'nın Ereğli ilçesine 12 km uzaklıkta bir su kaynağının kayalığı yüzeyine oyulmuş olan 4.20m boyundaki büyük kabartmanın günümüzdeki adı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Manisa Kaya Kabartması",
+              "B) İvriz Kaya Kabartması",
+              "C) Hattuşili Kabartması",
+              "D) Zagros Kabartması",
+              "E) Arinna Kabartması"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 4). Doğru cevap: İvriz Kaya Kabartması.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_5",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Meksika, İtalyan veya Asya mutfakları gibi belli bir coğrafya veya kültüre ait yiyeceklerin bir konsept içinde sunulduğu restoranlara ne ad verilir?",
+            "options": [
+              "A) Eve Teslim Restoranlar",
+              "B) Etnik Restoranlar",
+              "C) Günlük Restoranlar",
+              "D) Aile Restoranları",
+              "E) Temalı Restoranlar"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 5). Doğru cevap: Etnik Restoranlar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_10",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Tarihi bir eserin üstüne bilerek ismini ve şehrini kazıyan turistin yapmış olduğu eyleme ne ad verilir?",
+            "options": [
+              "A) Vandallık",
+              "B) Teşhircilik",
+              "C) Kirlilik",
+              "D) Kazıma iç güdüsü",
+              "E) Ayrımcılık"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 10). Doğru cevap: Vandallık.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -35219,6 +36851,118 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "wq_w3_g1_19",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Priene Athena Polias Tapınağının mimarı kimdir?",
+            "options": [
+              "A) İktinos",
+              "B) Vitruvius",
+              "C) Pytheos",
+              "D) Hermogenes",
+              "E) Kalikrates"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 19). Doğru cevap: Pytheos.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_20",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Yunan şehirciliğinde inşa edilen tapınakların örnek aldığı ev modeline verilen ad nedir?",
+            "options": [
+              "A) Bouleterion",
+              "B) Megaron",
+              "C) Agora",
+              "D) Nekropolis",
+              "E) Megara"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 20). Doğru cevap: Megaron.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_7",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Antik Yunan kentlerinde agoranın yakınında bulunan, şehir meclisinin toplandığı yere ne ad verilir?",
+            "options": [
+              "A) Bouletherion",
+              "B) Akropolis",
+              "C) Stoa",
+              "D) Nekropolis",
+              "E) Synoikia"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 7). Doğru cevap: Bouletherion.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_14",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Uygur Döneminin surlarla çevrili şehir ve kalelerine ne ad verilir?",
+            "options": [
+              "A) Ordu Balık",
+              "B) Kasır",
+              "C) Külliye",
+              "D) Balbal",
+              "E) Baldaken"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 14). Doğru cevap: Ordu Balık.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_16",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Floransa San Lorenzo Kilisesi'ne de Michelangelo tarafından eklenen mezar şapellerine ne ad verilir?",
+            "options": [
+              "A) Payanda",
+              "B) Sacristy",
+              "C) Rustika",
+              "D) Codex",
+              "E) Pilastr"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 16). Doğru cevap: Sacristy.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_11",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "Tipik bir Roma hamamında beden hareketlerinin gerçekleştiği ve aynı zamanda genç erkeklerin spor alanı olan açık avluya ne ad verilir?",
+            "options": [
+              "A) Apodyterium",
+              "B) Frigidarium",
+              "C) Palaestra",
+              "D) Calidarium",
+              "E) Tepidarium"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 11). Doğru cevap: Palaestra.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_1",
+            "subtopicId": "arkeoloji_5",
+            "courseId": "arkeoloji",
+            "questionText": "I. Otto, II. Otto ve III. Otto devirlerini kapsayan I. dönem Avrupa'da hangi sanat akımı olarak bilinmektedir?",
+            "options": [
+              "A) Klasisizm",
+              "B) Realizm",
+              "C) Gotik",
+              "D) Erken Romanesk",
+              "E) Barok"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 1). Doğru cevap: Erken Romanesk.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -37485,6 +39229,246 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Bu tablo Romantizm'in ustası Delacroix'nındır.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_1",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "“Columna Caelate” kelimesinin anlamı aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
+            "options": [
+              "A) Mezar taşlarının üzerinde yer alan kabartma betimleridir.",
+              "B) İyon mimarlığında alınlık üzerinde yer alan figüratif bezemelerdir.",
+              "C) Dor düzeninde arşitrav üzerinde yapılan kabartmalardır.",
+              "D) Aiol mimarisindeki sütun başlıklarına verilen addır.",
+              "E) Kabartmalı sütunlara verilen genel addır."
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 1). Doğru cevap: Kabartmalı sütunlara verilen genel addır..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_3",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisi yapıldıkları dönemde seyahat ve turizmi etkileyen dünyanın yedi harikasından biri olarak günümüze kadar ulaşan tek yapıdır?",
+            "options": [
+              "A) İskenderiye Feneri",
+              "B) Efes Artemis Tapınağı",
+              "C) Babil'in Asma Bahçeleri",
+              "D) Mısır Piramitleri",
+              "E) Mausolos Mezarı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 3). Doğru cevap: Mısır Piramitleri.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_3",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisi Antik Çağ'a ait Dünyanın Yedi Harikası yapılarından biri değildir?",
+            "options": [
+              "A) Mısır Piramitleri",
+              "B) Efes'teki Artemis Tapınağı",
+              "C) Taç Mahal",
+              "D) Bodrum'daki Mausolos Mezarı",
+              "E) Babil'in Asma Bahçeleri"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 3). Doğru cevap: Taç Mahal.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_3",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdaki sanatçılardan hangisi Die Brücke (Köprü) grubunun kurucu üyeleri arasında yer almaz?",
+            "options": [
+              "A) Fritz Bleyl",
+              "B) Karl Schmidt-Rottluff",
+              "C) Edward Munch",
+              "D) Ernst Ludwing Kirchner",
+              "E) Erich Heckel"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 3). Doğru cevap: Edward Munch.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_5",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "1886 yılları arasında açılan yedi sergiye katılan “Auguste Renoir, Camiile Pisarro, Alfred Sisley, Edgar Degas, Berthe Morisot ve Paul Câzanne” aşağıdaki akımlardan hangisinde eserler vermişlerdir?",
+            "options": [
+              "A) Romantizm",
+              "B) Realizm",
+              "C) Empresyonizm",
+              "D) Fovizm",
+              "E) Sembolizm"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 5). Doğru cevap: Empresyonizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_6",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Rönesans kavramı, ilk kez araştırmaları ve kuramları nedeniyle tarihinin sanat kavramsal olarak babası sayılan hangi ressam ve mimar tarafından Antik Çağ felsefe ve düşüncesi ile kültür ve sanatının yeniden doğuşu anlamında kullanılmıştır?",
+            "options": [
+              "A) Lorenzo Ghiberti",
+              "B) Giorgio Vasari",
+              "C) Andrea Mantegna",
+              "D) Massaccio",
+              "E) Brunelleschi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 6). Doğru cevap: Giorgio Vasari.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_7",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Charlotte Corday adındaki kadın tarafından bıçaklanan Fransız Devrimi'nin liderlerinden Paul Marat'ın ölümünün resmedildiği, olayın tüm trajedisine karşın hareket ve abartılmış ifadelerin olmadığı, açık seçiklik, yalınlık, ulusal bir kahramanın yüceltilmesi gibi özellikleriyle neoklasik sanatın ünlü örneklerinden biri olan “Marat'ın Ölümü” adlı eser aşağıdaki sanatçılardan hangisine aittir?",
+            "options": [
+              "A) Vincenzo Camuccini",
+              "B) Antonio Canova",
+              "C) Felice Giani",
+              "D) Jean Auguste Dominique Ingres",
+              "E) Jacques-Louis David"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 7). Doğru cevap: Jacques-Louis David.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_7",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Georges Seurat'ın empresyonizm ve renk üzerine yapılmış bilimsel çalışmaların etkisiyle geliştirdiği teknik aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Dadaizm",
+              "B) Fovizm",
+              "C) Sürrealizm",
+              "D) Puantizm",
+              "E) Ekspresyonizm"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 7). Doğru cevap: Puantizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_3",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Pablo Picasso ile birlikte Kübizm akımını başlatan, ölüdoğa ustası olarak anılan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Paul Câzanne",
+              "B) Georges Seurat",
+              "C) Auguste Renoir",
+              "D) Edgar Degas",
+              "E) Georges Braque"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 3). Doğru cevap: Georges Braque.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_7",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Dini konuları din dışı günlük sahnelerle ele alan, doğaçlama ve yansıtma özelliği bulunan, “Bakhüs” ve “Aziz John'un Katli” adlı yağlıboya eserleri bulunan ressam aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Frans Hals",
+              "B) Michelangelo Caravaggio",
+              "C) Paulus Rubens",
+              "D) Jan Vermeer",
+              "E) Francisco Goya"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 7). Doğru cevap: Michelangelo Caravaggio.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_9",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Rönesans mimarisinin özelliği olarak ilk kez duvarlara dayalı yarım payelerin kullanıldığı yapı olarak tanımlanan Ruccellai Sarayı ve Pompei villaları gibi revaklı iç avluya sahip, yuvarlak kemer biçimli alınlıkların altında yer alan üçgen alınlıklı pencere düzenleri ile cephesinin hareketlendirildiği, Lorenzo Medici için Floransa'da yapılan Ricardi Sarayının mimarı olan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Leon Battista Alberti",
+              "B) Michelangelo",
+              "C) Andrea Palladio",
+              "D) Filippo Brunelleschi",
+              "E) Donate Bramante"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 9). Doğru cevap: Leon Battista Alberti.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_10",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisi açık ya da kapalı bir mekan içinde yaratılan, sanatçı-izleyici katılımlı bir sanatsal üretim biçimidir?",
+            "options": [
+              "A) Superstroke",
+              "B) Dışavurum",
+              "C) Küreselleşme",
+              "D) Superflat",
+              "E) Enstalasyon"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 10). Doğru cevap: Enstalasyon.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_11",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Mısır uygarlığında dünyevi yaşamla uhrevi yaşamı birleştirdiği ya da ayırdığı düşünülen büyük kapıya ne ad verilir?",
+            "options": [
+              "A) Nemes",
+              "B) Pilon",
+              "C) Mastaba",
+              "D) Hipostile",
+              "E) Peristil"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 11). Doğru cevap: Pilon.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_16",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Yunan Sanatında Zengin stil olarak adlandırılan (MÖ 420-400) dönemde, Olympia Zeus Tapınağı'nın köşe akroteleri ile tapınağın karşısında yüksek bir kaide üzerinde yerleştirilen Zafer Tanrıçası Nike heykelini yapmış olan sanatçı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Alkamenes",
+              "B) Agorakritios",
+              "C) Myron",
+              "D) Paionios",
+              "E) Phedias"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 16). Doğru cevap: Paionios.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_20",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "Üzerlerine Son Akşam Yemeği, Pantakrator İsa, Meryem vb. tasvirlerin işlendiği, özellikle Makedonya Sülalesi zamanında gerçekleştirilmiş maden eserlerde aşağıdaki tekniklerden hangisi uygulanmıştır?",
+            "options": [
+              "A) Lüster",
+              "B) Savatlama",
+              "C) Chamlevâ",
+              "D) Mine",
+              "E) Sgrafitto"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 20). Doğru cevap: Mine.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -38651,6 +40635,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Pantokrator, evrene hükmeden İsa tasviridir.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_4",
+            "subtopicId": "sanattarihi_2",
+            "courseId": "sanattarihi",
+            "questionText": "Kiliselerde naos ve bemayı ayıran, üzerinde genellikle 12 Bayram sahnelerinin tasvir edildiği ikonaların asılı olduğu duvara ne ad verilir?",
+            "options": [
+              "A) ikona",
+              "B) Nef",
+              "C) Galeri",
+              "D) Atrium",
+              "E) İkonastasis"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 4). Doğru cevap: İkonastasis.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_6",
+            "subtopicId": "sanattarihi_2",
+            "courseId": "sanattarihi",
+            "questionText": "Kilisenin doğusunda bulunan ve ibadet yönünü gösteren genellikle dışa taşkın içten yarım daire olan bölüm aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Apsis",
+              "B) Diakonikon",
+              "C) Naos",
+              "D) Prothesis",
+              "E) Nef"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 6). Doğru cevap: Apsis.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -39145,6 +41161,38 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 2,
             "explanation": "Tasvire ilişkin hassasiyet, soyut bezemeyi (arabesk) öne çıkardı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_2",
+            "subtopicId": "sanattarihi_3",
+            "courseId": "sanattarihi",
+            "questionText": "Abbasi Dönemi yapılarının iç mekânlarında, Herzfeld tarafından somuttan soyuta doğru A, B ve C harfleriyle sınıflandırılan süsleme üsluplarının, motiflerin, geometrik bir İslami düzende uygulandığı, stuko örneklerinin ve Türk etkilerinin görüldüğü ilk İslam şehri aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Medine",
+              "B) Bağdat",
+              "C) Kurtuba",
+              "D) Samarra",
+              "E) Fustat"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 2). Doğru cevap: Samarra.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_18",
+            "subtopicId": "sanattarihi_3",
+            "courseId": "sanattarihi",
+            "questionText": "Harf uçlarına yaprak biçiminin verilmesiyle yazı sanatına bitkisel bezemenin sokulduğu, çiçekli kûfi yazı ilk kez aşağıdaki dönem ve yapılardan hangisinde kullanılmıştır?",
+            "options": [
+              "A) Abbasi Dönemi-Nayin Mescid-i Cuması",
+              "B) Emevi Dönemi-Kasrü'l Hayri el-Garbi",
+              "C) Abbasi Dönemi-Ukaydır Sarayı",
+              "D) Abbasi Dönemi-Cevsak'ül Hakani Sarayı",
+              "E) Emevi Dönemi-Şam Emeviye Camii"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 18). Doğru cevap: Abbasi Dönemi-Nayin Mescid-i Cuması.",
             "difficulty": "orta"
           }
         ],
@@ -40636,6 +42684,102 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "wq_w7_g1_10",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "Kare ya da çokgen biçimli bir alanın köşelerinde bulunan sütun ya da payelerle taşınan dışarıya açık kemerle oluşturulmuş, üstü piramidal çatı ya da kubbe örtülü yapılara ne ad verilir?",
+            "options": [
+              "A) Maristan",
+              "B) Kümbet",
+              "C) Ribat",
+              "D) Baldaken",
+              "E) Zaviye"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 10). Doğru cevap: Baldaken.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_19",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "Saltukluların Erzincan Tercan'da 13. yy'da inşa ettikleri, ortadaki dilimli gövdeli kümbeti çevreleyen on bir nişli çevre duvarı ile Anadolu'daki tek örnek olan yapı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Döner Kümbet",
+              "B) Güdük Minare Türbesi",
+              "C) Ummühan Hatun Türbesi",
+              "D) Sarı Saltuk Türbesi",
+              "E) Mama Hatun Kümbeti"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 19). Doğru cevap: Mama Hatun Kümbeti.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_1",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "İslam dünyasının ilk düzenli medresesi aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Buruciye Medresesi",
+              "B) Sahabiye Medresesi",
+              "C) Yakutiye Medresesi",
+              "D) Nizamiye Medresesi",
+              "E) Kasımiye Medresesi"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 1). Doğru cevap: Nizamiye Medresesi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_4",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "Üç yandan duvarla sınırlanmış, bir yönden büyük bir kemerle dışarıya ya da avluya açılan üzeri tonoz örtülü mekânlara ne ad verilir?",
+            "options": [
+              "A) Sundurma",
+              "B) Revak",
+              "C) Kervansaray",
+              "D) Şadırvan",
+              "E) Eyvan"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 4). Doğru cevap: Eyvan.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_2",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisi Artuklulara ait iç avlulu bir camidir?",
+            "options": [
+              "A) Mardin Latifiye Camii",
+              "B) Harput Ulu Camii",
+              "C) Kızıltepe Ulu Camii",
+              "D) Silvan Ulu Camii",
+              "E) Mardin Ulu Camii"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 2). Doğru cevap: Harput Ulu Camii.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_5",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "Kemer sıraları ile oluşturulmuş, üstü örtülü mimari birimlere ne ad verilir?",
+            "options": [
+              "A) Saçak",
+              "B) Litik",
+              "C) Revak",
+              "D) Kerpiç",
+              "E) Kubbe"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 5). Doğru cevap: Revak.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -42262,6 +44406,102 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "wq_w7_g1_15",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Fatımi Döneminde Kahire'de inşa edilen ilk cami aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kurtuba Camii",
+              "B) Tinmel Camii",
+              "C) Kutubiye Camii",
+              "D) el-Ezher Camii",
+              "E) Kayravan Camii"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 15). Doğru cevap: el-Ezher Camii.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_17",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Mihrap önünde bulunan kubbesi, dört eyvanlı revaklı avlusu ile Büyük Selçukluların eyvanlı cami tipinin en gelişmiş örneği olan 1135 tarihli yapı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Zevvare Mescidi Cuması",
+              "B) Muğak Atari Camii",
+              "C) Gülpayegân Camii",
+              "D) Edirne Üç Şerefeli Camii",
+              "E) Isfahan Mescidi Cuması"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 17). Doğru cevap: Zevvare Mescidi Cuması.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_5",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Buda'nın hayatından kesitlerin tasvir edildiği, günümüze gelebilen ve Hint resim sanatı hakkında bilgi veren yegâne eser aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Tac Mahal",
+              "B) Odhaipur Sarayı",
+              "C) Gwalior Sarayı",
+              "D) Kaylassa Mabedi",
+              "E) Ajunta Mabedi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 5). Doğru cevap: Ajunta Mabedi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_9",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "İstanbul'da fetihten sonra inşa edilen ilk külliye aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Fatih Külliyesi",
+              "B) Rüstem Paşa Külliyesi",
+              "C) Şehzade Külliyesi",
+              "D) Yeni Cami Külliyesi",
+              "E) Süleymaniye Külliyesi"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 9). Doğru cevap: Fatih Külliyesi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_14",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "72 yılında tamamlanan, harimi mihrap duvarına paralel beş şahından oluşan, mihrap ekseni, paralel şahınları dikine kesen bir şahınla vurgulanmış ve mihrap önü bir kubbe ile örtülmüş, orta şahının iki ucunda, Kayravan Camii'nde olduğu gibi iki kubbe yükselen Kahire'deki ilk Fatımi yapısı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) El-Akmer Camii",
+              "B) El-Hâkim Camii",
+              "C) El-Ezher Camii",
+              "D) Salih Talai Camii",
+              "E) El-Cuyuşi Camii"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 14). Doğru cevap: El-Ezher Camii.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_19",
+            "subtopicId": "sanattarihi_5",
+            "courseId": "sanattarihi",
+            "questionText": "Abbasi halifesi el-Mutasım tarafından Dicle Nehri kıyısında inşa ettirilen saray aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Tak-ı Kisra",
+              "B) Kasrü'l Hayri el-Garbi",
+              "C) Rusafa Sarayı",
+              "D) Cevsakü'l-Hakani",
+              "E) Kasr Mışatta"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 19). Doğru cevap: Cevsakü'l-Hakani.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -44866,6 +47106,182 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "wq_w3_g2_14",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "İkinci Binin sonlarındaki Deniz Kavimleri Göçü olarak adlandırılan hareketlilikten sonra Eski Dünya'da karanlık çağ olarak nitelendirilen dönem başlamıştır. Karanlık Çağın bittiği yüzyıl aşağıdaki seçeneklerden hangisindedir?",
+            "options": [
+              "A) MÖ 8. yüzyıl",
+              "B) MÖ 7. yüzyıl",
+              "C) MÖ 6. yüzyıl",
+              "D) MÖ 10. yüzyıl",
+              "E) MÖ 9. yüzyıl"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 14). Doğru cevap: MÖ 8. yüzyıl.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_9",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisi 18. yüzyılın Aydınlanma dönemi Avrupa'sının Bizans'a karşı olumsuz bir önyargının oluşmasına neden olan aydınlarındandır?",
+            "options": [
+              "A) Karl Krumbacher",
+              "B) Philippe Schweinfurt",
+              "C) Hieronymus Wolf",
+              "D) Hieronymus Bosch",
+              "E) Voltaire"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 9). Doğru cevap: Voltaire.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_8",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "Charlemagne döneminde üretilmiş en önemli resimli el yazmalarından biri olan, Roma Dönemi el yazmalarının minyatürlerine benzer bir üslupla 778-820 yıllarında hazırlanmış olan Lorsch İncili aşağıdaki merkezlerin hangisinde bulunan sarayda üretilmiştir?",
+            "options": [
+              "A) Köln",
+              "B) Aachen",
+              "C) Reims",
+              "D) Salzburg",
+              "E) Sant Gailen"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 8). Doğru cevap: Aachen.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_9",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "Yağlıboya resme geçinceye kadar kullanılmış, ahşap üzerine yumurta, su tutkalı ve balmumunun bağlayıcı olarak sürüldüğü boya türüne ne ad verilir?",
+            "options": [
+              "A) Lüster",
+              "B) Emay",
+              "C) Tempera",
+              "D) Perdah",
+              "E) Sanguine"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 9). Doğru cevap: Tempera.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_11",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "İçlerinde Umberto Boccioni ve Giacoma Balla gibi sanatçıların bulunduğu, anlık görüntüler yerine nesnelerin hareket halini hissettirmeyi amaçlayan, parlak ve canlı renkleri, dinamik biçimleri tercih eden sanatçılar hangi sanat akımının ilkelerine uygun eserler vermişlerdir?",
+            "options": [
+              "A) Fütürizm",
+              "B) Süprematizm",
+              "C) Fovizm",
+              "D) Kübizm",
+              "E) Konstrüktivizm"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 11). Doğru cevap: Fütürizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_8",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "Orta Çağ Avrupa sanatının en önemli üsluplarından olan ------- üslup, 12 yüzyılın 2. yarısında Fransa'da ortaya çıkmış ve buradan yayılarak 15 yüzyıla kadar tüm Avrupa'da etkisini göstermiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+              "A) Neobarok",
+              "B) Gotik",
+              "C) Karolenj",
+              "D) Neoklasik",
+              "E) Romanesk"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 8). Doğru cevap: Gotik.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_13",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "Aşağıdakilerden hangisi sanatsal bir olaya seyircinin aktif olarak dahil olması ile gerçekleşir?",
+            "options": [
+              "A) Pop Sanat",
+              "B) Kinetik Sanat",
+              "C) Süreç Sanatı",
+              "D) İlişkisel Sanat",
+              "E) Vücut Sanatı"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 13). Doğru cevap: İlişkisel Sanat.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_17",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "Türk Yakut da denilen Yakutu Müstasemi'nin oluşturduğu altı çeşit yazı aşağıdakilerden hangisiyle anılır?",
+            "options": [
+              "A) Sülüs",
+              "B) Aklam-ı Sitte",
+              "C) Reyhani",
+              "D) Nesih",
+              "E) Muhakkak"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 17). Doğru cevap: Aklam-ı Sitte.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_20",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "İtalya'da Rönesans fikrinin doğmasına katkıda bulunan, yaptığı freskler ve tempera resimlerinde yeni bir anlayış görülen, resimlediği eserlerde, İncil konuları ve alegorik konuları şeritler hâlinde işleyen, dinî konuları altın yaldız zeminden kurtarmış, perspektifi mekân içine sokmuş, figürlerde ifadeye önem vermiş, acı, keder, mutluluk gibi duyguları belirgin figürler betimlemiş, Fransız heykeltıraşların heykellerde vermeye çalıştığı doğal ifadelerin resimlerinde bulunduğu aşağıdakilerden sanatçı hangisidir?",
+            "options": [
+              "A) Giotto",
+              "B) Duccio",
+              "C) A. Lorenzetti",
+              "D) Simone Martini",
+              "E) Cimabue"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 20). Doğru cevap: Giotto.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_8",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "yüzyılda yaşamış, ismi bilinen en eski Japon ressamı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kanaoka",
+              "B) Ahimi",
+              "C) Kabanari",
+              "D) Kintada",
+              "E) İnshiraga"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 8). Doğru cevap: İnshiraga.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_31",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "\"Tigin 23’ünde öldü, Esik halkı var olsun\" yazısı hangi döneme aittir?",
+            "options": [
+              "A) MÖ 5. yüzyıl",
+              "B) MS 7. yüzyıl",
+              "C) MS 8. yüzyıl",
+              "D) MS 10. yüzyıl",
+              "E) MS 12. yüzyıl"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 31). Doğru cevap: MÖ 5. yüzyıl.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -45199,6 +47615,22 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_4",
+            "subtopicId": "mitoloji_1",
+            "courseId": "mitoloji",
+            "questionText": "Yunan dilinde belli bir düzen ve ölçüye göre söylenen, okunan sanatlı, ustaca söylenmiş söze ne ad verilir?",
+            "options": [
+              "A) Logos",
+              "B) Diyalektik",
+              "C) Mitos",
+              "D) Epos",
+              "E) Dram"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 4). Doğru cevap: Epos.",
             "difficulty": "orta"
           }
         ],
@@ -48399,6 +50831,294 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Müziğiyle Hades'i ikna eder ama geri dönerken arkasına bakınca Eurydike'yi sonsuza dek yitirir.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "wq_w2_g1_17",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Grek (Yunan) mitolojisinde Geniş omuzlu, uzun bukleli saçları omuzlarına kadar uzanan ve elinde üç dişli yaba (trident) ile betimlenen Olympos tanrısı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Ares",
+              "B) Iapetos",
+              "C) Poseidon",
+              "D) Zeus",
+              "E) Hermes"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 17). Doğru cevap: Poseidon.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_18",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "İşler ve Günler (Erga Kai Hemerai) adlı eser kime aittir?",
+            "options": [
+              "A) Hesiodos",
+              "B) Homeros",
+              "C) Eflatun",
+              "D) Sophokles",
+              "E) Herodot"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 18). Doğru cevap: Hesiodos.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_20",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Iliada ve Odessia destanları aşağıdakilerden hangisine aittir?",
+            "options": [
+              "A) Homeros",
+              "B) Hesiodos",
+              "C) Pindaros",
+              "D) Herodot",
+              "E) Apollonios"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 20). Doğru cevap: Homeros.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_4",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "“Yasalar her şeyin kralıdır” diyen düşünür kimdir?",
+            "options": [
+              "A) Sofokles",
+              "B) Pindaros",
+              "C) Homeros",
+              "D) Atreus",
+              "E) Protagoras"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 4). Doğru cevap: Pindaros.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_11",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Hitit mitolojisinde, bir arslan üzerinde kanatlı kadın formunda betimlenmiş tanrıçanın adı nedir?",
+            "options": [
+              "A) Telipinu",
+              "B) Şauşga",
+              "C) Upelluri",
+              "D) Lama",
+              "E) Kuababa"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 11). Doğru cevap: Şauşga.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_12",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Theogonia adlı eserde evrenin yaratılışında sayılan ilk üç öge nedir?",
+            "options": [
+              "A) Kottos-Briareus-Gyes",
+              "B) Pelops-Fraksinus-Nymphe",
+              "C) Khaos-Gaia-Eros",
+              "D) Okeanos-Krios-Rheia",
+              "E) Nyx-Erebos-Hemera"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 12). Doğru cevap: Khaos-Gaia-Eros.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_13",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Gaia ve Ouranus'un birleşmesi ile ortaya çıkan ve gök gürültüsünü simgeleyen varlık hangisidir?",
+            "options": [
+              "A) Phoibe",
+              "B) Hyperion",
+              "C) Kronos",
+              "D) Brontes",
+              "E) Arges"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 13). Doğru cevap: Brontes.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_16",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Grek mitolojisi hakkında bilgi edindiğimiz ve adeta tanrısal varlıkların kataloğu olarak kabul edilen destan yazarı hangisidir?",
+            "options": [
+              "A) Hesiodos",
+              "B) Herodot",
+              "C) Teokritos",
+              "D) Kailimakhos",
+              "E) Apuleius"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 16). Doğru cevap: Hesiodos.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_20",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Mezopotamya'da, “yıldırım, savaş ve av” tanrısı olup Sumerce “evrenin beyi” anlamına gelen tanrı kimdir?",
+            "options": [
+              "A) Enlil",
+              "B) Anu",
+              "C) Usumi",
+              "D) Ningişzida",
+              "E) Ninurta"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 20). Doğru cevap: Ninurta.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_1",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Homeros’a göre Zeus ile Dione’den doğma, güzellik ve aşk tanrıçası aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Athena",
+              "B) Artemis",
+              "C) Aphrodite",
+              "D) Ares",
+              "E) Hephaistos"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 1). Doğru cevap: Aphrodite.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_13",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "‘İnsan her şeyin ölçüsüdür’ diyen düşünür kimdir?",
+            "options": [
+              "A) Agamemnon",
+              "B) Pindaros",
+              "C) Atreus",
+              "D) Protagoras",
+              "E) Homeros"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 13). Doğru cevap: Protagoras.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_14",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Grek (Yunan) mitolojisinde bilgeliğin doruğunda olan ve hem tanrıların hem de insanların babası olan tanrı kimdir?",
+            "options": [
+              "A) Kronos",
+              "B) Hades",
+              "C) Hermes",
+              "D) Apollon",
+              "E) Zeus"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 14). Doğru cevap: Zeus.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_16",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Latince adı Diana olan tanrı / tanrıça kimdir?",
+            "options": [
+              "A) Ares",
+              "B) Artemis",
+              "C) Aphrodite",
+              "D) Athena",
+              "E) Hermes"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 16). Doğru cevap: Artemis.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g1_18",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Pergamon'daki Kızıl Avlu kompleksi hangi tanrıya adanmıştır?",
+            "options": [
+              "A) Apollon Sidetes",
+              "B) Dionysos-Attis",
+              "C) Kybele-Dionysos",
+              "D) Zeus Ammon",
+              "E) İsis-Sarapis"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 1, S. 18). Doğru cevap: İsis-Sarapis.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_11",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Anadolu'daki Troia Savaşının Batı kaybedilmesinden sonra, yıkımdan kurtulabilen kahraman efsanesi Romalı yazar Vergilius tarafından aynı adla kaleme alınmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+              "A) Theseus",
+              "B) Dionysos",
+              "C) Aeneas",
+              "D) Odiseia",
+              "E) İliada"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 11). Doğru cevap: Aeneas.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_3",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Hızı, konforu ve güvenliği nedeniyle günümüzde uluslararası seyahatlerin yaklaşık %58'ini oluşturan yolculuk türü aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kara yolculuğu",
+              "B) Hava yolculuğu",
+              "C) Uzay yolculuğu",
+              "D) Demir yolu yolculuğu",
+              "E) Deniz-su yolculuğu"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 3). Doğru cevap: Hava yolculuğu.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_2",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Giza'daki firavun Kefren'e ait olduğu düşünülen insan başlı ve aslan vücuduna sahip anıtsal sfenksin başında iki kulağı açıkta bırakan adı verilen kral/firavun başlığı bulunmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+              "A) hipostil",
+              "B) lamaşşu",
+              "C) nemes",
+              "D) peristil",
+              "E) pilon"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 2). Doğru cevap: nemes.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_17",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "Aşağıdakilerden hangisi Efes-Yamaç evlerinin freskolarında işlenen konulardan biri değildir?",
+            "options": [
+              "A) Roma mitolojisi",
+              "B) Tevrat'dan sahneler",
+              "C) Balık ve kuş tasvirleri",
+              "D) Günlük hayattan sahneler",
+              "E) Antik Yunan mitolojisi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 17). Doğru cevap: Tevrat'dan sahneler.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -48811,6 +51531,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Purulli İlkbahar Bayramı'nda İlluyanka mitinin canlandırılması, kötülüğün yenilişini ve doğanın canlanışını simgelerdi. 💡 Hafıza Çapası: Purulli = ilkbahar, ejderha yenilgisi.",
             "difficulty": "temel"
+          },
+          {
+            "id": "wq_w2_g2_9",
+            "subtopicId": "mitoloji_3",
+            "courseId": "mitoloji",
+            "questionText": "Eski Hitit Dönemine tarihlendirilen Kaybolan Tanrı Efsanelerinde, kaybolan tanrıların aranmasını isteyen ve Tüm Tanrıların Annesi ya da Büyükanne unvanına sahip tanrıça hangisidir?",
+            "options": [
+              "A) Hapantaliia",
+              "B) Hedammu",
+              "C) İmpaluri",
+              "D) Kamruşepa",
+              "E) Hannahanna"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 9). Doğru cevap: Hannahanna.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_17",
+            "subtopicId": "mitoloji_3",
+            "courseId": "mitoloji",
+            "questionText": "Mezopotamya’da bereketi temsil eden, eski tabletlerin muhafızı olan ve iki yüzlü olarak omuzlarından fışkıran sularla oluşmuş bir nehir ile betimlenen Hitit tanrısı kimdir?",
+            "options": [
+              "A) Aştapi",
+              "B) Aranzah",
+              "C) Kaşku",
+              "D) Ea",
+              "E) Alalu"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 17). Doğru cevap: Ea.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -49146,6 +51898,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "İnanna, Akad ve Babil'de İştar adını alır; Ereşkigal ise yeraltı kraliçesi ve İnanna'nın kız kardeşidir. 💡 Hafıza Çapası: İnanna = İştar.",
             "difficulty": "temel"
+          },
+          {
+            "id": "wq_w2_g1_10",
+            "subtopicId": "mitoloji_4",
+            "courseId": "mitoloji",
+            "questionText": "Sümer/Babil Tufan mitinde ölümsüzlüğü aramaya başlayan Uruk kralı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Enkidu",
+              "B) Utnapiştim",
+              "C) Urşanabi",
+              "D) Lugalbanda",
+              "E) Gılgamış"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 10). Doğru cevap: Gılgamış.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_19",
+            "subtopicId": "mitoloji_4",
+            "courseId": "mitoloji",
+            "questionText": "Mezopotamya kozmogonisinde, yer, gök ve sulardan oluşan üçlü aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Enlil-Ninlil-Anzu",
+              "B) Enkidu-Ereşkigal-Dumuzi",
+              "C) Sin-Şamaş-İştar",
+              "D) Ninigirsu-Ningişzida-Ninşubur",
+              "E) An-Enlil-Enki"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 19). Doğru cevap: An-Enlil-Enki.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_9",
+            "subtopicId": "mitoloji_4",
+            "courseId": "mitoloji",
+            "questionText": "Sümer mitlerinde sıkça geçen ve İnanna'nın eşi olan Çoban tanrı hangisidir?",
+            "options": [
+              "A) Gılgamış",
+              "B) Enki",
+              "C) Nisaba",
+              "D) Dumuzi",
+              "E) Enlil"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 9). Doğru cevap: Dumuzi.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -49866,6 +52666,118 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_2",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Aşağıdakilerden hangisi Rus bilim adamlarının “Şaman” “Şamanizm” ve dedikleri eski Türklerin inancıdır?",
+            "options": [
+              "A) Put ve Putperestlik",
+              "B) Totem ve Ongun",
+              "C) Din ve inanç",
+              "D) Kam ve Kamlık",
+              "E) Gök ve Su"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 2). Doğru cevap: Kam ve Kamlık.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_10",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Bütün kültürlerde “göklerin hakimi”, Türk kültüründe Gök Tanrı’nın sembolü olarak kabul edilen, Yakutlar’da kutsal kam kuşu olarak bilinen ve kötü ruhları kovmak için yapılan Kamlık törenlerinde kamın ruhunu bir kızağa koyarak gökyüzüne çıkardığına inanılan hayvan karakter aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Leylek",
+              "B) Güvercin",
+              "C) Kartal",
+              "D) Kırlangıç",
+              "E) Turna"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 10). Doğru cevap: Kartal.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_7",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Türk mitlerinde ve dualarında, Orhun yazıtlarında Gök Tengri'nin birlikte anılan bereket tanrısı hangisidir?",
+            "options": [
+              "A) Umay Ana",
+              "B) Ülgen",
+              "C) Yağız Yir",
+              "D) Ayığ Han",
+              "E) Kayra Han"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 7). Doğru cevap: Yağız Yir.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_16",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Türk kültüründe yaygın görülen ve Umay Ana ruhunun zıddı bir role sahip olan, Al Karısı, Albıs, Alvıs gibi isimlerle de tanınan ruh aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Ay Han",
+              "B) Albastı",
+              "C) Ay-Ata",
+              "D) Çolpan",
+              "E) Zühal"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 16). Doğru cevap: Albastı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_5",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Aşağıdakilerden hangisi “Yeni doğanların koruyucu tanrısı” olarak bilinen kutsal ruhlardandır. Çocuğu olmayanlara çocuk vermesi için dua edilen, bulutlara telkinde bulunan, güzelliğin sembolü olan bir ruhtur. Bazen beyaz saçlı, beyaz kıyafetli bir insan, bazen de kuş şeklinde tasvir edilmiştir. Bu görünüş onu kanatlı melek olarak algılanmasına yol açmıştır.” olarak tanımlanan kutsal ruhtur?",
+            "options": [
+              "A) Umay Ana",
+              "B) Ülgen",
+              "C) Albastı",
+              "D) Kayrahan",
+              "E) Erlik"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 5). Doğru cevap: Umay Ana.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_10",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Mitler daha çok tabiat ile ilgili meseleleri özellikle ele almıştır. Buna göre Evren + doğum olarak tanımlanan terimin bilinen diğer adı nedir?",
+            "options": [
+              "A) Kozmogoni",
+              "B) Kozmos",
+              "C) Ülgen",
+              "D) Erlik",
+              "E) Umay Ana"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 10). Doğru cevap: Kozmogoni.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_15",
+            "subtopicId": "mitoloji_5",
+            "courseId": "mitoloji",
+            "questionText": "Türk mitolojisinde gökte yaşayan Ülgen'in elçisi olan, Ülgen'in isteklerini ileten ve kurbanları ona getiren aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Utkuuçi",
+              "B) Darhan",
+              "C) Ereke",
+              "D) Toybodım",
+              "E) Suyla"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 15). Doğru cevap: Utkuuçi.",
             "difficulty": "orta"
           }
         ],
@@ -50833,6 +53745,70 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_4",
+            "subtopicId": "dt_2",
+            "courseId": "dinler-tarihi",
+            "questionText": "Brahmanizm'in olan diğer adı yaygın nedir?",
+            "options": [
+              "A) Budizm",
+              "B) Konfüçyanizm",
+              "C) Cayinizm",
+              "D) Hinduizm",
+              "E) Taoizm"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 4). Doğru cevap: Hinduizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_6",
+            "subtopicId": "dt_2",
+            "courseId": "dinler-tarihi",
+            "questionText": "Hinduizm hakkında aşağıdakilerden hangisi yanlış?",
+            "options": [
+              "A) Hinduizm'de sosyal tabakalaşmanın kazandığı bir dinsel yapı görülmektedir.",
+              "B) Hinduizm'de Dharma denen bir kavram vardır.",
+              "C) Hinduizmin tarihsel süreçteki ilk evresi Vedalar dönemi'dir.",
+              "D) Yaşayan dinler içerisinde en yeni ve en az mensubu olan dindir.",
+              "E) Hinduizm'de ibadet ferdidir."
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 6). Doğru cevap: Yaşayan dinler içerisinde en yeni ve en az mensubu olan dindir..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_11",
+            "subtopicId": "dt_2",
+            "courseId": "dinler-tarihi",
+            "questionText": "Hinduizmde prensler, yöneticiler ve askerlerin oluşturduğu kast grubunun adı nedir?",
+            "options": [
+              "A) Vaisyalar",
+              "B) Brahminler",
+              "C) Sudralar",
+              "D) Paryalar",
+              "E) Kşatriyalar"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 11). Doğru cevap: Kşatriyalar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_2",
+            "subtopicId": "dt_2",
+            "courseId": "dinler-tarihi",
+            "questionText": "“Tanrının Birliği” ve “İnsanın kurtuluşuna önem verir. Kutsal metinleri “Adi Grant”dır. İbadet merkezleri Amritsar'daki Altın Tapınaktır. Yukarıda özellikleri belirtilen din hangisidir?",
+            "options": [
+              "A) Sihizm",
+              "B) Taoizm",
+              "C) Şintoizm",
+              "D) Cayinizm",
+              "E) Budizm"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 2). Doğru cevap: Sihizm.",
             "difficulty": "orta"
           }
         ],
@@ -53852,6 +56828,390 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_3",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi Tanah'da Hz. Musa'ya verilen On Emir'den biri değildir?",
+            "options": [
+              "A) Pazar günü kutsal gündür. O gün ibadet edilecek",
+              "B) Öldürmek yasak",
+              "C) Çalmak yasak",
+              "D) Ana ve babaya hürmet edilecek.",
+              "E) Tanrı tektir. Başka ilahlar tanınmayacak."
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 3). Doğru cevap: Pazar günü kutsal gündür. O gün ibadet edilecek.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_9",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi Hristiyanlıkta İsa'nın havarilerle yediği son akşam yemeğinin hatırasına yapılan törendir?",
+            "options": [
+              "A) Konfirmasyon (Kuvvetlendirme)",
+              "B) Evharistiya (Kominyon)",
+              "C) Son yağlama",
+              "D) Tövbe",
+              "E) Vaftiz"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 9). Doğru cevap: Evharistiya (Kominyon).",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_16",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi Hint kökenli dinler grubundan değildir?",
+            "options": [
+              "A) Budizm",
+              "B) Taoizm",
+              "C) Sihizm",
+              "D) Hinduizm",
+              "E) Cayinizm"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 16). Doğru cevap: Taoizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_1",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Yahudiliğin Tanah'tan ayrı bir diğer kutsal metnidir. Mişna ve Gemara olmak üzere iki bölümden oluşmaktadır. Sözlü emirlerin, kanun haline getirilmiş ilk hali olan Mişna, dil olarak daha açık ve anlaşılır olunca ve geleneğin yazıya geçmiş halini yansıtınca Yahudiler için hayat düsturu kabul edilmiştir. Yukarıda bahsedilen Kutsal Kitap aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Talmud",
+              "B) Kabbala",
+              "C) Nebiim",
+              "D) Ketuvim",
+              "E) Tora"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 1). Doğru cevap: Talmud.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_7",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Budist inananlar topluluğunun tümünün anlatımı için kullanılan bir ifadedir. İslam'daki ümmet kavramı ile eşdeğerdir. Budizm'in iman ilkesi içerisinde de yerini bulmuştur. Budizm'deki bu kavram aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Pagoda",
+              "B) Darma",
+              "C) Ahimsa",
+              "D) Yoga",
+              "E) Şanga"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 7). Doğru cevap: Şanga.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_15",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Cayinizm'in kurucusu Mahavira'nın verdiği vaazlar başlangıçta sözlü olarak anlatılırken MS 500'lerde Vallabhi konsilinde 45 bölümden oluşan Kutsal Kitapları tamamlanmıştır. Cayinizm'in Kutsal Kitaplarının ismi nedir?",
+            "options": [
+              "A) Upanişadlar",
+              "B) Puranalar",
+              "C) Adi Grant",
+              "D) Vedalar",
+              "E) Agama ve Sidhantalar"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 15). Doğru cevap: Agama ve Sidhantalar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_18",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Tarsus'lu bir Yahudi iken geçirmiş olduğu bir vizyon ile Hristiyanlığı kabul etmiştir. İsa ile bizzat görüşmemiş ve Havariler arasında yer almamıştır. Yahudilerin dışındaki toplumlarda Hristiyanlığı yaydığı için kendisine “Yabancıların Havarisi” denilmiştir. Yukarıda özellikleri verilen şahıs kimdir?",
+            "options": [
+              "A) Petrus",
+              "B) Pavlos",
+              "C) Luka",
+              "D) Matta",
+              "E) Markos"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 18). Doğru cevap: Pavlos.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_2",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Arapça kökenli olan ------- kelimesi “yol, hüküm, benimsemek, kabul etmek, ikrar etmek” anlamlarına gelmektedir ve çoğu zaman inanç kelimesi yerine kullanılmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+              "A) Din",
+              "B) Efsane",
+              "C) Destan",
+              "D) Kült",
+              "E) Mit"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 2). Doğru cevap: Din.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_3",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Yahudiliğin milli bir din halini almasında rol oynayan, Kudüs yakıldığı zaman Tevrat'ı yeniden bir araya getiren Yahudi anne ve babadan doğmuş olma şartını getirerek etnik kimliği öne çıkaran aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Hz. Yakub",
+              "B) Sare",
+              "C) Hz. İbrahim",
+              "D) Ezra",
+              "E) Levi"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 3). Doğru cevap: Ezra.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_10",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "MÖ 6. yüzyılda, Hinduizm'den çıkan onlarca mezhep içerisinden teşkilatlanarak din şeklini almış, günümüzde Hindistan'ın Bihar eyaletinde yayılmış din aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Cayinizm",
+              "B) Svetambaras",
+              "C) Tirthankara",
+              "D) Mahavira",
+              "E) Digambaras"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 10). Doğru cevap: Cayinizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_11",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Hz. Musa'nın getirdiği kanunlara harfiyen uyan ve mabedin yıkılışından bu yana çoğunluğu oluşturan, hem Tevrat'a hem de Talmud'a sıkıca bağlı olan Yahudilere ne ad verilir?",
+            "options": [
+              "A) Ortodoks",
+              "B) Rekonstrüksyonist",
+              "C) Muhafazakar",
+              "D) Ilımlı",
+              "E) Reformist"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 11). Doğru cevap: Ortodoks.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_15",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Tevrat'a göre Yahudilerin nesli İshak'tan itibaren ------- ile devam etmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+              "A) Hz. İsmail",
+              "B) Hz. Yusuf",
+              "C) Hz. İbrahim",
+              "D) Hz. Yunus",
+              "E) Hz. Yakub"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 15). Doğru cevap: Hz. Yakub.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_20",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Hindistan'da 16. yüzyılda ortaya çıkan, Hinduizm ile İslam inancının karışımı ile oluşmuş dine ne ad verilir?",
+            "options": [
+              "A) Konfüçyanizm",
+              "B) Şintoizm",
+              "C) Nihongizm",
+              "D) Taoizm",
+              "E) Sihizm"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 20). Doğru cevap: Sihizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_1",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Kojiki ve Nihongi hangi inancın kutsal metinleridir?",
+            "options": [
+              "A) Taoizm",
+              "B) Hinduizm",
+              "C) Konfüçyanizm",
+              "D) Şintoizm",
+              "E) Budizm"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 1). Doğru cevap: Şintoizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_2",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Budist inananlar topluluğunun tümünü ifade etmek için kullanılan ifade aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Pitaka",
+              "B) Darma",
+              "C) Vinaya",
+              "D) Şanga",
+              "E) Sutta"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 2). Doğru cevap: Şanga.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_8",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi Uzakdoğu dinlerinden biri değildir?",
+            "options": [
+              "A) Hinduizm",
+              "B) Konfüçyanizm",
+              "C) Budizm",
+              "D) Taoizm",
+              "E) Yahudilik"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 8). Doğru cevap: Yahudilik.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_11",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Doğru iman, Doğru düşünce, Doğru konuşma, Doğru davranış, Doğru gayret, Doğru iş, Doğru karar, Doğru tefekkür hangi dinde yer alan sekiz kutsal yoldur?",
+            "options": [
+              "A) Şintoizm",
+              "B) Budizm",
+              "C) Sihizm",
+              "D) Cayinizm",
+              "E) Taoizm"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 11). Doğru cevap: Budizm.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_19",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisinde vahye dayanan (kitabi dinler) dinler bir arada verilmiştir?",
+            "options": [
+              "A) Budizm-Hinduizm-Hristiyanlık",
+              "B) Yahudilik-Budizm-Hinduizm",
+              "C) Yahudilik-Hristiyanlık-İslamiyet",
+              "D) Hinduizm-Hristiyanlık-İslamiyet",
+              "E) Budizm-İslamiyet-Taoizm"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 19). Doğru cevap: Yahudilik-Hristiyanlık-İslamiyet.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_5",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi Bizans dünyasının doğuşunda belirleyici olan ilk reformları hayata geçiren Roma imparatorudur?",
+            "options": [
+              "A) I. Konstantinus",
+              "B) II. Theodosius",
+              "C) I. Theodosius",
+              "D) Diokletianus",
+              "E) Maximianus"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 5). Doğru cevap: Diokletianus.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_6",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi kilise hiyerarşisinde Konstantinopolis başpiskoposunun Roma'daki papadan hemen sonra geldiğinin ilan edildiği ilk konsildir?",
+            "options": [
+              "A) Nikaia Konsili",
+              "B) I. Konstantinopolis Konsili",
+              "C) I. Ephesos Konsili",
+              "D) Khalkedon Konsili",
+              "E) II. Ephesos Konsili"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 6). Doğru cevap: II. Ephesos Konsili.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_7",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi Nikaia Konsilinin (M.S. 325) Hıristiyanlık tarihi açısından en önemli sonucudur?",
+            "options": [
+              "A) İki yüz elli civarında yüksek rahibin katılmış olması",
+              "B) Tek imparator I. Konstantinus tarafından düzenlenmesi",
+              "C) Konstantinus'un Hristiyanları desteklediğini göstermesi",
+              "D) Ruhbanın Arius'un inanç sistemini tartışmaya başlaması",
+              "E) Hıristiyan inancının ve kilise hukukunun temellerini atması"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 7). Doğru cevap: Hıristiyan inancının ve kilise hukukunun temellerini atması.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_15",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi pagan inançları yasaklayarak hıristiyanlığın imparatorluğun dini tek olmasının yolunu açan imparatordur?",
+            "options": [
+              "A) I. Theodosius",
+              "B) Julianus",
+              "C) Gratianus",
+              "D) I. Konstantinus",
+              "E) Valens"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 15). Doğru cevap: I. Theodosius.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_10",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "İsa’nın sağında Meryem, solunda Vaftizci Yahya ile birlikte tasvir edildiği sahnenin adı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Eloisa Meryem",
+              "B) Pantakrator",
+              "C) Deesis",
+              "D) Anastasis",
+              "E) Koimesis"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 10). Doğru cevap: Deesis.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_12",
+            "subtopicId": "dt_3",
+            "courseId": "dinler-tarihi",
+            "questionText": "Dünya mimarlık tarihinin en ünlü anıtlarından biri olan, Roma'da inşa edilen, ününü kusursuz kubbe tasarımına borçlu olan Pantheon aşağıdaki imparatorlardan hangisinin zamanında inşa edilmiştir?",
+            "options": [
+              "A) Augustus",
+              "B) Hadrianus",
+              "C) Nero",
+              "D) Cladius",
+              "E) Konstantin"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 12). Doğru cevap: Hadrianus.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -54307,6 +57667,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "wq_w2_g1_13",
+            "subtopicId": "dt_4",
+            "courseId": "dinler-tarihi",
+            "questionText": "Mecusilik hakkında aşağıdakilerden hangisi yanlış?",
+            "options": [
+              "A) Mecusilik için batılı araştırmacılar Zerdüştilik demektedirler.",
+              "B) Zerdüşt, bu dinin kurucusunun adıdır.",
+              "C) Suriye ve çevresinde eski dönemlerde ortaya çıkmış ve yayılmış bir dindir.",
+              "D) Mecusiliğin kutsal kitabı Gathalar ve Avesta'dır.",
+              "E) Mecusi mabetlerine Ateşgede denilir."
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 13). Doğru cevap: Suriye ve çevresinde eski dönemlerde ortaya çıkmış ve yayılmış bir dindir..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_2",
+            "subtopicId": "dt_4",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi Uygurların, kağanlarının gücünü Ay'dan aldıklarına inanmalarından dolayı unvanlarının başına \"Ay\" kelimesini eklemelerinde etkili olan dindir?",
+            "options": [
+              "A) Manihaizm",
+              "B) Budizm",
+              "C) İslamiyet",
+              "D) Hristiyanlık",
+              "E) Şamanizm"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 2). Doğru cevap: Manihaizm.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -55680,6 +59072,118 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 4,
             "explanation": "Sümela Manastırı, Trabzon-Maçka'daki Karadağ yamacındadır.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_1",
+            "subtopicId": "dt_5",
+            "courseId": "dinler-tarihi",
+            "questionText": "Mistik bir din olan ve Orfeus'un kurucusu olduğu dinin ana özelliği nedir?",
+            "options": [
+              "A) Mistik din olması",
+              "B) Gerçek dışı olması",
+              "C) Duygusal din olması",
+              "D) Rasyonel din olması",
+              "E) Reel din olması"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 1). Doğru cevap: Mistik din olması.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_6",
+            "subtopicId": "dt_5",
+            "courseId": "dinler-tarihi",
+            "questionText": "Yalnızca tanrılar konu edinilir. Zamanla ilaveler kazanmış ve zenginleşmiştir. Kutsal olduğu kadar seküler unsurları da içermektedir. Mitolojilere göre daha gerçekçi olabilecekleri kabul edilir. Yukarıdaki paragrafta aşağıdakilerden hangisi ile ilgili bilgi verilmiştir?",
+            "options": [
+              "A) Masal",
+              "B) Mitos",
+              "C) Din",
+              "D) Tabu",
+              "E) Efsane"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 6). Doğru cevap: Efsane.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g4_17",
+            "subtopicId": "dt_5",
+            "courseId": "dinler-tarihi",
+            "questionText": "Günümüzde batı duvarı kalıntılarına Ağlama Duvarı denilen Süleyman Mabedi (Bet-Hamikdaş) aşağıdaki şehirlerin hangisinde inşa edilmiştir?",
+            "options": [
+              "A) Medine",
+              "B) Kudüs",
+              "C) Halep",
+              "D) Mekke",
+              "E) Şam"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 4, S. 17). Doğru cevap: Kudüs.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_8",
+            "subtopicId": "dt_5",
+            "courseId": "dinler-tarihi",
+            "questionText": "Aşağıdakilerden hangisi Bizans toplumuyla en çok özdeşleşen manastır kurumunun kurucu babasıdır?",
+            "options": [
+              "A) Athanasius",
+              "B) Antonius",
+              "C) Pachomius",
+              "D) Basileius",
+              "E) Eutyches"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 8). Doğru cevap: Antonius.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_1",
+            "subtopicId": "dt_5",
+            "courseId": "dinler-tarihi",
+            "questionText": "İslamiyetin en önemli yapısı olan, granit taştan inşa edilen, 13 m yüksekliğindeki dikdörtgen prizma biçimli, sade ve süslemesiz Kâbe'nin doğu köşesine ne ad verilir?",
+            "options": [
+              "A) El-Mescidü'l Haram",
+              "B) Hacerü'l Esved",
+              "C) Şâmî",
+              "D) Irakî",
+              "E) Yemânî"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 1). Doğru cevap: Hacerü'l Esved.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g1_18",
+            "subtopicId": "dt_5",
+            "courseId": "dinler-tarihi",
+            "questionText": "Hicret sırasında Hz. Muhammed'in Medine yakınlarında kıldığı ilk cuma namazı ve okunan ilk cuma hutbesinin ardından burada inşa edilen mescit ya da cami aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Kûfe Camii",
+              "B) Mescid-i Kıbleteyn",
+              "C) Kuba Mescidi",
+              "D) Mescid-i Nebevi",
+              "E) Amr Camii"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 1, S. 18). Doğru cevap: Kuba Mescidi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_12",
+            "subtopicId": "dt_5",
+            "courseId": "dinler-tarihi",
+            "questionText": "Hz. Peygamber, aşağıdakilerin hangisinde namaz kılarken kıble yönünü Kâbe yönüne çevirmiştir?",
+            "options": [
+              "A) Mescidü'l Haram",
+              "B) Mescid-i Nebi",
+              "C) Benî Selime Mescidi",
+              "D) Kuba Mescidi",
+              "E) Mescid-ül Aksa"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 12). Doğru cevap: Benî Selime Mescidi.",
             "difficulty": "orta"
           }
         ],
@@ -59516,6 +63020,102 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g1_15",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Türk mitolojisinde cennette yaratıldığına inanılan ve Gök Tanrı’ya sunulan kurbanların asıldığı -Tanrı ağacı da denilen- ağaç hangisidir?",
+            "options": [
+              "A) Çınar",
+              "B) Servi",
+              "C) Kayın",
+              "D) Çam",
+              "E) Meşe"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 1, S. 15). Doğru cevap: Kayın.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_6",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Altay kamlarının inancına göre, insanlar yaratıldıkları zaman Umay Ana ile beraber hangi ağaçtan yere inmiştir?",
+            "options": [
+              "A) Hayat ağacı",
+              "B) Kayın ağacı",
+              "C) Evliya Ağaç",
+              "D) Zeytin Ağacı",
+              "E) Kozmik Ağaç"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 6). Doğru cevap: Kayın ağacı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g3_8",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Cennette yaratıldığına inanılan, Tanrı kutunu içinde barındırdığı için Tanrı ağacı da denen ve Gök Tanrı'ya sunulan kurbanların asıldığı Türk mitolojisinin en önemli, kutlu ağacı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Çam",
+              "B) Ardıç",
+              "C) Servi-Sedir",
+              "D) Kayın-Akağaç",
+              "E) Elma"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 3, S. 8). Doğru cevap: Kayın-Akağaç.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g3_5",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Bithynia Krallığı'nın kurulduğu bölge aşağıdakilerden hangisidir?",
+            "options": [
+              "A) İç Anadolu",
+              "B) Antalya merkez olmak üzere Akdeniz bölgesi",
+              "C) Kocaeli yarımadası ve çevresi",
+              "D) Doğu Anadolu",
+              "E) Güney Doğu Anadolu"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 3, S. 5). Doğru cevap: Kocaeli yarımadası ve çevresi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_12",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Ekoturizm çerçevesinde turistik tesislerde özellikle nükleer, hidroelektrik ve termik santrallerden elde edilen enerji yerine, rüzgâr tribünlerinden elde edilen fosilsiz enerjinin kullanımı hangi enerji kaynaklarına örnektir?",
+            "options": [
+              "A) Yenilenemez enerji kaynakları",
+              "B) Teknolojik enerji kaynakları",
+              "C) Geleneksel enerji kaynakları",
+              "D) Sürdürülebilir enerji kaynakları",
+              "E) Yerli enerji kaynakları"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 12). Doğru cevap: Sürdürülebilir enerji kaynakları.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g3_15",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Göktürk mezar külliyeleri aşağıdaki bölgelerin hangisinde bulunur?",
+            "options": [
+              "A) Orhun ve Yenişey Irmakları arasındaki bölgede",
+              "B) Altun ve Yış bölgesinde",
+              "C) Katanda bölgesinde",
+              "D) Noin ve Ula bölgesinde",
+              "E) Pazırık bölgesinde"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 3, S. 15). Doğru cevap: Orhun ve Yenişey Irmakları arasındaki bölgede.",
             "difficulty": "orta"
           }
         ],
@@ -64541,6 +68141,390 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 0,
             "explanation": "Boş zaman değerlendirme etkinliklerinin tümünü kapsar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w4_g1_1",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi Roma idaresinin izni dahilinde kuzeybatı İtalya ile güneydoğu Fransa arasında krallık kuran halktır?",
+            "options": [
+              "A) Burgundlar",
+              "B) Franklar",
+              "C) Visigotlar",
+              "D) Massagetae",
+              "E) Vandallar"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Bizans Tarihi, Grup 1, S. 1). Doğru cevap: Burgundlar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_4",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Erişilebilirlik ve yolcu taşımacılığı ile ilgili aşağıdaki ifadelerden hangisi?",
+            "options": [
+              "A) Bir yeri ziyaret edebilmenin temel koşulu o yerin erişilebilir olmasıdır.",
+              "B) Erişilebilirlik turizm endüstrisinde ele alınan en önemli konulardan birisidir",
+              "C) Erişilebilirlik her türlü ulaşım aracı ile olabilir.",
+              "D) Bir ulaşım sisteminin birincil rolü, insanlara, işletmelere ve bunların ürettiği bilgi, mal ve hizmetlere erişimi sağlamaktır",
+              "E) Mesafe ve fiyat, turistlerin karar verme sürecini etkilememektedir."
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 4). Doğru cevap: Mesafe ve fiyat, turistlerin karar verme sürecini etkilememektedir..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_5",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Konum, marka, fayda, fiyat, tutum gibi bir turizm bölgesinin zaman içinde sahip olduğu özellik ve bundan kaynaklı olarak tüketiciler tarafından tercih edilmesi turizm ürününün hangi temel bileşenini yansıtır?",
+            "options": [
+              "A) Etkinlik",
+              "B) Çekicilik",
+              "C) İşletmecilik",
+              "D) İmaj",
+              "E) Ulaşılabilirlik"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 5). Doğru cevap: İmaj.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_7",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi bir bölgenin sahip olduğu turizm arzını artı ya da eksi yönde etkileyen faktörlerden biri değildir?",
+            "options": [
+              "A) Altyapı",
+              "B) Konukseverlik",
+              "C) İşgücü devir hızı",
+              "D) Doğal kaynaklar",
+              "E) Ulaştırma durumu"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 7). Doğru cevap: İşgücü devir hızı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_8",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Bir turizm bölgesine giderek turizm etkinliğine doğrudan katılan, deneyimleyen ve sonrasında evine/ülkesine geri dönen turizm talebine ne ad verilir?",
+            "options": [
+              "A) Pasif talep",
+              "B) Efektif talep",
+              "C) Potansiyel talep",
+              "D) Ertelenmiş turizm talebi",
+              "E) Fırsat maliyeti"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 8). Doğru cevap: Efektif talep.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_9",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi biyo-çeşitliliğin azalmasına karşı geliştirilen olumlu bir turizm faaliyetidir?",
+            "options": [
+              "A) Bataklık ve sulak alanların doldurularak turizme açılması",
+              "B) Golf turizminin yaygınlaşması",
+              "C) Foto safari turlarının geliştirilmesi",
+              "D) Kitle turizminin daha da çoğalması",
+              "E) Av turizminin daha çok uygulanması"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 9). Doğru cevap: Foto safari turlarının geliştirilmesi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_10",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Turizm faaliyetinde satılan şey somut bir üründen ziyade bir hizmet olduğundan, turistin bu hizmetten faydalanabilmek için ülkeye gelmesi ve turistik üründen ülke içinde yararlanması gerekmektedir. Bu yönüyle turizm gelirleri ülkelerin hangi tür ihracat kalemlerinde yer alır?",
+            "options": [
+              "A) Konsinye ihracat",
+              "B) Görünmeyen ihracat",
+              "C) Transit ihracat",
+              "D) Hayali ihracat",
+              "E) Fiili ihracat"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 10). Doğru cevap: Görünmeyen ihracat.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_15",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Uluslar üstü düzeyde turizm politikası uygulamalarının yaratılmasının amaçlandığı makro seviyede turizm politikası uygulayıcılarına aşağıdakilerden hangisi örnek olarak gösterilebilir?",
+            "options": [
+              "A) Yerel Sivil Toplum Örgütleri",
+              "B) Yerel Turizm İşletmeleri",
+              "C) Belediyeler",
+              "D) Üniversiteler",
+              "E) Avrupa Birliği"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 15). Doğru cevap: Avrupa Birliği.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_19",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Bir bölge ve/veya ülkenin sahip olduğu turizm zenginliklerini/potansiyelini iyi şekilde değerlendirebilmek amacıyla, farklı pazarlardaki turist beklentilerine uygun şekillerde turizm ürünlerinin çoğaltılması sunulması ve bunun sonucunda ülke genelinde turizmi yaygınlaştırarak daha fazla sayıda turist çekme gayretidir. Yukarıda tanımı yapılan kavram aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "options": [
+              "A) Mağara Turizmi",
+              "B) Golf Turizmi",
+              "C) Turizm Çeşitlendirme",
+              "D) Kuş Gözlemciliği",
+              "E) Yat Turizmi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 19). Doğru cevap: Turizm Çeşitlendirme.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_2",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi geçmişte üretim yapmış bir endüstri tesisi veya bölgesinin gezilmesi amacıyla yapılan turizm türünü açıklamaktadır?",
+            "options": [
+              "A) İş turizmi",
+              "B) Fuar turizmi",
+              "C) Ticari turizm",
+              "D) Endüstri veya sanayi turizmi",
+              "E) Kongre turizmi"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 2). Doğru cevap: Endüstri veya sanayi turizmi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_4",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Dünyanın en yüksek binası Burj Khalifa'nın yanında dünyanın en büyük alışveriş, eğlence ve dinlence merkezi olan yer aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Las Vegas",
+              "B) Makao",
+              "C) Sun City",
+              "D) Monte Carlo",
+              "E) Dubai Mall"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 4). Doğru cevap: Dubai Mall.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_10",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Turizmin ödemeler dengesinde gelir getirici etkisi hangi kalemde ele alınmaktadır?",
+            "options": [
+              "A) Çarpan etkisi",
+              "B) İthalat",
+              "C) İç turizm",
+              "D) Dış turizm",
+              "E) Görünmeyen ihracat"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 10). Doğru cevap: Görünmeyen ihracat.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_15",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdaki politikalardan hangisi yedinci beş yıllık kalkınma planı döneminde öne çıkan politikalardan biri değildir?",
+            "options": [
+              "A) Farklı turizm türlerine önem verilmesi",
+              "B) Tanıtım ve pazarlama faaliyetlerinin teşvik edilmesi",
+              "C) Sertifikasyon sistemine vurgu yapılması",
+              "D) Altyapı yenileme yatırımlarının özendirilmesi",
+              "E) Sağlık turizminin geliştirilmesine yönelik kararlar alınması"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 15). Doğru cevap: Sağlık turizminin geliştirilmesine yönelik kararlar alınması.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_19",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Türkiye'de 1972 yürürlüğe giren 1618 sayılı TÜRSAB Kanunu turizm sektörünün özellikle hangi alanıyla ilgilidir?",
+            "options": [
+              "A) Otelcilik",
+              "B) Turist rehberliği",
+              "C) Seyahat acentacılığı",
+              "D) Yiyecek içecek işletmeciliği",
+              "E) Ulaşım işletmeleri"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 19). Doğru cevap: Seyahat acentacılığı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_1",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Rekreasyon faaliyetleri ile ilgili aşağıdaki ifadelerden hangisi?",
+            "options": [
+              "A) Bu faaliyetler uygun olan her yerde yapılabilir.",
+              "B) Faaliyetlere katılımda zorunluluk aranır.",
+              "C) Bu faaliyetler günün her saatinde yapılabilir.",
+              "D) Bireylerin ruh hâllerine olumlu etkide bulunur.",
+              "E) Rekreatif faaliyetlerin sınırları neredeyse yok gibidir."
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 1). Doğru cevap: Faaliyetlere katılımda zorunluluk aranır..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_5",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Turizm arzını etkileyen faktörlerden biri olan ve bir bölgenin ve orada yaşayan yerel halkın sahip olduğu tarihî ve kültürel değerlerini oluşturan unsurlara ne ad verilir?",
+            "options": [
+              "A) İmaj",
+              "B) Sosyokültürel varlıklar",
+              "C) Snobizm",
+              "D) Konukseverlik",
+              "E) Kültür ve eğitim düzeyi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 5). Doğru cevap: Sosyokültürel varlıklar.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_6",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Uyarıldığında seyahat edebilen ancak sunulan imkânlar ve etkinlikler hakkında yeterli bilgiye sahip olmayan turizm talebi aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Ertelenmiş turizm talebi",
+              "B) Potansiyel talep",
+              "C) Efektif talep",
+              "D) Düzensiz talep",
+              "E) Negatif talep"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 6). Doğru cevap: Ertelenmiş turizm talebi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_7",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Doğal güzellikler, kültür ve tarih, altyapı ve üstyapı gibi ekonomik unsurlar ve uzaklık gibi psikolojik unsurlar turizm ürününü oluşturan bileşenler arasında hangi gruba girmektedir?",
+            "options": [
+              "A) Çekicilikler",
+              "B) İmaj",
+              "C) Ulaşılabilirlik",
+              "D) Etkinlikler",
+              "E) Turizm işletmeleri"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 7). Doğru cevap: Çekicilikler.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_8",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisinde iki değişken (bağımlı ve bağımsız) arasında ilişki olduğu düşünülerek bu değişkenlerden birinin sayısal verisi ile diğer değişkenin sayısal verisinin hesaplanması amaçlanmaktadır?",
+            "options": [
+              "A) Regresyon analizi",
+              "B) Yapısal ekonometrik modeller",
+              "C) Senaryo analizi",
+              "D) Tüketici eğilim anketi",
+              "E) Uzman panelleri"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 8). Doğru cevap: Regresyon analizi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_17",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Turizm sektörünün genel özellikleriyle ilgili aşağıdaki ifadelerden hangisi?",
+            "options": [
+              "A) Sektörün ürettiği mal ve hizmetin tüketilebilmesi boş zamanın yaratılması ile doğru orantılıdır.",
+              "B) Turizm, pazarlama ve satışa konu olan bir hizmet sektörüdür.",
+              "C) Sektörün ana ham maddesi ülkedeki doğal kaynaklar ve ülkenin folklorik, kültürel özellikleridir.",
+              "D) Turizmin başlangıç sabit sermaye yatırımlarının yüksek olması nedeniyle riskli bir sektördür.",
+              "E) Siyasal, sosyal ve ekonomik gelişmeler karşısında etkilenmeyen bir sektördür."
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 17). Doğru cevap: Siyasal, sosyal ve ekonomik gelişmeler karşısında etkilenmeyen bir sektördür..",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_20",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "------- turizm eğitimi gerek resmî gerekse özel kurumlar tarafından verilen kısa süreli mesleki kurslar niteliğinde bir görünüm arz etmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+              "A) Kredili",
+              "B) örgün",
+              "C) Yaygın",
+              "D) özel",
+              "E) Lisansüstü"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 20). Doğru cevap: Yaygın.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g4_1",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi bireylerin çalışma saatlerinden, işe gitme sürelerinden, uykuda geçirdikleri sürelerden, zorunlu ve rutin işlerini yapmak için geçirdikleri sürelerden sonra geriye kalan, özgürce ve gönüllü bir şekilde seçim yaparak etkinlikte bulundukları ve değerlendirdikleri zaman dilimidir?",
+            "options": [
+              "A) Serbest zaman",
+              "B) Destinasyon",
+              "C) Boş zaman",
+              "D) Rekreasyon",
+              "E) Turizm"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 4, S. 1). Doğru cevap: Boş zaman.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g4_2",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "kapsamında yapılan faaliyetlerin içinde yerel ve etnik yemeklerin yapılması ve tadı iması kadar, yerel semt pazarlarındaki meyve ve sebze alışverişleri de yer almaktadır. Aynı zamanda Urla Enginar Festivali gibi yemeğe yönelik festivalleri de kapsamaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+              "A) Sağlık turizmi",
+              "B) Arkeoloji turizmi",
+              "C) Nostalji turizmi",
+              "D) Gastronomi turizmi",
+              "E) Golf turizmi"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 4, S. 2). Doğru cevap: Gastronomi turizmi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g4_5",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi turizm ürününü oluşturan bileşenlerden biri değildir?",
+            "options": [
+              "A) Etkinlikler",
+              "B) Potansiyel talep",
+              "C) Turizm işletmeleri",
+              "D) Çekicilikler",
+              "E) Ulaşılabilirlik"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 4, S. 5). Doğru cevap: Potansiyel talep.",
             "difficulty": "orta"
           }
         ],
@@ -70672,6 +74656,118 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Başvuru, varlığın bulunduğu taraf devlet tarafından yapılır.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w3_g2_8",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Arkaik çağ heykeltıraşlığında önemli bir eser olan Aslanlı Mezar hangi antik kentte yer almaktadır?",
+            "options": [
+              "A) Letoon",
+              "B) Xanthos",
+              "C) Pınara",
+              "D) Myra",
+              "E) Limyra"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Anadolu Arkeolojisi, Grup 2, S. 8). Doğru cevap: Xanthos.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_6",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "I. Kişilik yapısı\nII. Snobizm\nIII. Nispi döviz kurları\nYukarıdakilerden hangisi/hangileri turizm talebini etkileyen psikolojik faktörler arasında yer alır?",
+            "options": [
+              "A) Yalnız I",
+              "B) Yalnız II",
+              "C) Yalnız III",
+              "D) I ve II",
+              "E) II ve III"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 6). Doğru cevap: I ve II.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_12",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Bir toplum veya topluluğun hâlen koruduğu, kendinden önceki kuşaklar tarafından oluşturulmuş soyut veya somut değer ve olguların tümü aşağıdakilerden hangisi kapsamında değerlendirilmelidir?",
+            "options": [
+              "A) Kültürel yapı",
+              "B) Kültürel miras",
+              "C) Sosyo-kültürel yapı",
+              "D) Sosyal yapı",
+              "E) Sosyal miras"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 12). Doğru cevap: Kültürel miras.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_16",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Türkiye'de her beş yılda bir hazırlanan ve ülkenin geleceğiyle ilgili bütüncül bir yol haritası çizilen kalkınma planlarının ilki hangi yılları kapsamaktadır?",
+            "options": [
+              "A) 1963 - 1967",
+              "B) 1996 - 2000",
+              "C) 2002 - 2006",
+              "D) 2007 - 2013",
+              "E) 2014 - 2018"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 16). Doğru cevap: 1963 - 1967.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_20",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Osmanlı İmparatorluğu döneminde iç turizme yönelik ilk etkinlik olan \"Sergi-i Umumi-i Osmani\" kaç yılında düzenlenmiştir?",
+            "options": [
+              "A) 1860",
+              "B) 1861",
+              "C) 1862",
+              "D) 1863",
+              "E) 1864"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 20). Doğru cevap: 1863.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w7_g2_16",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "2007'den itibaren İtalya Torino'da ortaya çıkan, sanatçı, yazar ve şairlerin birbirinden ilham alarak karşılıklı etkileşimlerle yaratıcı olacakları konusunda ilkeler benimseyen Immagine&Poesia anlayışının öncüsü aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Bruce Wands",
+              "B) Biliy Childish",
+              "C) Charles Thomson",
+              "D) Takashi Murakami",
+              "E) Aeronwy Thomas"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Sanat Tarihi, Grup 2, S. 16). Doğru cevap: Aeronwy Thomas.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w5_g1_17",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Kurultayın ilk Türk devletlerinde;\nI. yasama,\nII. askerî,\nIII. siyasi\nalanlarından hangilerinde rol oynadığı savunulabilir?",
+            "options": [
+              "A) Yalnız I",
+              "B) Yalnız II",
+              "C) I ve II",
+              "D) I ve III",
+              "E) I, II ve III"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Eski Türk Tarihi, Grup 1, S. 17). Doğru cevap: I, II ve III.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -73974,6 +78070,118 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Bu sahalar, türlerin ve habitatların korunması için oluşturulur.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_5",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Türk kültüründe, çok yükseklerde uçan, ayakları değmeyen “Devlet kuşu” olarak tanınan, başına konduğu veya gölgesinin düştüğü kişiye mutluluk ve talih getireceğine inanıldığı için “Talih Kuşu” olarak da anılan kuş aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Hüma",
+              "B) Baykuş",
+              "C) Kartal",
+              "D) Güvercin",
+              "E) Turna"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 5). Doğru cevap: Hüma.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_12",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi sadece bulunduğu bölgenin ekolojik şartlarından dolayı, o bölgede yaşayabilen ve yetişen, dünyanın başka yerlerinde yaşama ve yetişme şansı olmayan, yöreye özgü yerel hayvan ve bitki türlerini ifade eder?",
+            "options": [
+              "A) Fauna",
+              "B) Endemik canlı",
+              "C) Flora",
+              "D) Kültürel miras",
+              "E) Ekoloji"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 12). Doğru cevap: Endemik canlı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_13",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Bir toplumun, ekosistemin veya başka herhangi bir sistemin sürekliliği olan, işini kesintisiz, aşırı kullanımla tüketimeden veya hayati kaynakları yüklemeden aşırı sürdürebilmesine ne ad verilir?",
+            "options": [
+              "A) Politika",
+              "B) Rekreasyon",
+              "C) Taşıma kapasitesi",
+              "D) Sürdürülebilirlik",
+              "E) Yaşam döngüsü"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 13). Doğru cevap: Sürdürülebilirlik.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_16",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Bir toplumun sahip olduğu geleneksel değerleriyle uyumlu hareket edilmesini ve kültürel kimliğinin güçlendirilmesini içeren turizmde sürdürülebilirlik ilkesine ne ad verilir?",
+            "options": [
+              "A) Sosyal sürdürülebilirlik",
+              "B) Kültürel sürdürülebilirlik",
+              "C) Ekonomik sürdürülebilirlik",
+              "D) Çevresel sürdürülebilirlik",
+              "E) Doğal sürdürülebilirlik"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 16). Doğru cevap: Sosyal sürdürülebilirlik.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_15",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi turizm planlama sürecinin ilk aşamasıdır?",
+            "options": [
+              "A) Misyon ve ilkelerin belirlenmesi",
+              "B) Faaliyete geçilmesi",
+              "C) Durum analizi",
+              "D) Vizyon ve hedeflerin saptanması",
+              "E) İzleme ve değerlendirme"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 15). Doğru cevap: Durum analizi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_16",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi sürdürülebilir turizm planlamasında göz önünde bulundurulması gereken temel ilkelerden biri değildir?",
+            "options": [
+              "A) Ekonomik sürdürülebilirlik ilkesi",
+              "B) Sosyal sürdürülebilirlik ilkesi",
+              "C) Çevresel sürdürülebilirlik ilkesi",
+              "D) Kültürel sürdürülebilirlik ilkesi",
+              "E) Maksimum gelir ilkesi"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 16). Doğru cevap: Maksimum gelir ilkesi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g4_4",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Turizm endüstrisinde demir yolu taşımacılığı ile ilgili aşağıdaki ifadelerden hangisi",
+            "options": [
+              "A) Turistik demir yolu, yalnızca turizm uygulamalarına ayrılmış bir hattır kamu hizmeti sağlamaz.",
+              "B) Fransa ve Avusturya'da Orient Express ve Rusya'da Trans Sibirya Demir Yolu bilinen hatlardan bazılarıdır.",
+              "C) Uluslararası turizmde kullanılan ulaşım araçları arasındaki payı %2'dir.",
+              "D) Trenler turistik bir çekicilik olarak da oldukça popülerdir.",
+              "E) Uluslararası turistik yolcu taşımacılığında en çok tercih edilen ulaşım türüdür."
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 4, S. 4). Doğru cevap: Uluslararası turistik yolcu taşımacılığında en çok tercih edilen ulaşım türüdür..",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -76071,6 +80279,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Tur operatörü paketi üretir (toptan); perakendeci acenta son tüketiciye satar.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_17",
+            "subtopicId": "tm_2",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Aşağıdaki sosyal medya ortamlarından hangisi turistlerin tatil deneyimine yönelik görüşlerinin paylaşıldığı hem online seyahat acentesi olarak hizmet veren hem de kullanıcıların yorumlarıyla gelişen içeriklerin yer aldığı sitedir?",
+            "options": [
+              "A) TripAdvisor",
+              "B) Instagram",
+              "C) Wikipedia",
+              "D) Twitter",
+              "E) Amazon"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 17). Doğru cevap: TripAdvisor.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_13",
+            "subtopicId": "tm_2",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Türkiye'deki turizm politikası süreci düşünüldüğünde hangisinin gerçekleşmesi kronolojik olarak daha öncedir?",
+            "options": [
+              "A) Konaklama hizmetlerinin gelişmesi",
+              "B) Turizmi Teşvik Kanunu'nun yürürlüğe girmesi",
+              "C) Türk Seyyahin Cemiyeti'nin kurulması",
+              "D) Türk Tayyare Cemiyeti'nin kurulması",
+              "E) Turizm Endüstrisi Teşvik Kanunu'nun çıkarılması"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 13). Doğru cevap: Konaklama hizmetlerinin gelişmesi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_19",
+            "subtopicId": "tm_2",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Aşağıdakilerden hangisi 9. Kalkınma Planı döneminde uluslararası turizmde yaşanan yeni eğilimleri yakalamak ve kitle turizmi dışındaki yeni turizm tarzlarını teşvik etmek için Kültür ve Turizm Bakanlığı tarafından 2007 yılında yayımlanan ve bugüne kadarki en önemli turizm politikası belgesidir?",
+            "options": [
+              "A) Türkiye Ulaşım ve İletişim Stratejisi 2023",
+              "B) Ulusal Kırsal Kalkınma Stratejisi",
+              "C) 2634 Sayılı Turizmi Teşvik Kanunu",
+              "D) Türkiye Turizm Stratejisi 2023",
+              "E) Turizm Şûrası"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 19). Doğru cevap: Türkiye Turizm Stratejisi 2023.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -78004,6 +82260,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Tesislerin belgelendirilmesi ve sınıflandırılması bu bakanlıkça yürütülür.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_14",
+            "subtopicId": "tm_5",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Aşağıdakilerden hangisi bir ülkede turizm endüstrisini geliştirmek, yönlendirmek ve denetlemek amacıyla, yönetimler tarafından çeşitli araçlar kullanılarak belirlenen yaklaşımların, hedeflerin ve alınan önlemlerin bütünüdür?",
+            "options": [
+              "A) Turizm politikası",
+              "B) Kamu politikası",
+              "C) Sosyal politika",
+              "D) Pazarlama politikası",
+              "E) Dış politika"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 14). Doğru cevap: Turizm politikası.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_2",
+            "subtopicId": "tm_5",
+            "courseId": "turizm-mevzuati",
+            "questionText": "Bisiklet turizmi, birincil ulaşım şekli olarak bisiklete odaklanan bir seyahat deneyimi olarak gerçekleştirilmektedir. Türkiye'de 1963 yılından bu yana her yıl düzenlenen bisiklet sever turistler tarafından artan oranda ilgi görmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+            "options": [
+              "A) Uluslararası Likya Granfondo",
+              "B) Süleymanpaşa MTB Cup",
+              "C) Veloturk Gran Fondo Çeşme",
+              "D) Turkcell Granfondo İzmir",
+              "E) Cumhurbaşkanlığı Türkiye Bisiklet Turu"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 2). Doğru cevap: Cumhurbaşkanlığı Türkiye Bisiklet Turu.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -79166,6 +83454,22 @@ export const COURSES_DATA: Course[] = [
             ],
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_18",
+            "subtopicId": "rm_1",
+            "courseId": "rehberlik-mevzuati",
+            "questionText": "Üniversitelerin turizm bilim alanında diploma verdiği en üst düzey örgün eğitim şekli aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Doktora",
+              "B) Lisans",
+              "C) Tezli Yüksek Lisans",
+              "D) Ön Lisans",
+              "E) Tezsiz Yüksek Lisans"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 18). Doğru cevap: Doktora.",
             "difficulty": "orta"
           }
         ],
@@ -91315,6 +95619,118 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "orta"
+          },
+          {
+            "id": "wq_w2_g2_3",
+            "subtopicId": "ir_4",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Dinin bir inanç sistemi olarak toplumsal birlik ve bütünleşmeye hizmet ettiğini belirten Fransız sosyolog kimdir?",
+            "options": [
+              "A) Weber",
+              "B) Hobbes",
+              "C) Locke",
+              "D) Durkheim",
+              "E) Geertz"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Mitoloji ve Din, Grup 2, S. 3). Doğru cevap: Durkheim.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_6",
+            "subtopicId": "ir_4",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Delphi modelinde bir sorun ile ilgili bilgisine başvurulan uzmanlar bu modelde yüz yüze, karşılıklı etkileşim içindedir. Yukarıdaki tanım aşağıdaki tahminleme yöntemlerinden hangisidir?",
+            "options": [
+              "A) Eğilim-etki analizi",
+              "B) Çapraz-etki analizi",
+              "C) Üstel düzleştirme yöntemleri",
+              "D) Box-Jenkins yöntemi",
+              "E) Uzman panelleri"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 6). Doğru cevap: Uzman panelleri.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g1_11",
+            "subtopicId": "ir_4",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Yerel halkın sosyal statülerini iyileştirmek için sosyal statü bakımından üst seviyelerde olan turistlerin tüketim ve davranış kalıplarını kopyalama veya taklit etme eğilimine ne ad verilir?",
+            "options": [
+              "A) Yayılma etkisi",
+              "B) Sera etkisi",
+              "C) Halo etkisi",
+              "D) Gösteri etkisi",
+              "E) Plasebo etkisi"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 11). Doğru cevap: Gösteri etkisi.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_1",
+            "subtopicId": "ir_4",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Turizmin etkileşimde olduğu ve bir bölgenin mekânsal dağılımları, iklim koşulları, beşerî yapısı ve fiziksel koşulları ile ilgili bilim dalı hangisidir?",
+            "options": [
+              "A) Ekonomi",
+              "B) Coğrafya",
+              "C) Arkeoloji",
+              "D) Sosyoloji",
+              "E) Tarih"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 1). Doğru cevap: Coğrafya.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_9",
+            "subtopicId": "ir_4",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Aşağıdakilerden hangisi turizmin olumsuz sosyal etkileri arasında değerlendirilmektedir?",
+            "options": [
+              "A) Ekonominin bozulması",
+              "B) Suç oranlarının artması",
+              "C) Çevrenin kirlenmesi",
+              "D) Kaçak ve sızıntılar",
+              "E) İstihdamın bozulması"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 9). Doğru cevap: Suç oranlarının artması.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g2_11",
+            "subtopicId": "ir_4",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Devletin turistlere sağlanan mal ve hizmetlerden alınan vergi ve harçlardan kaynaklanan turizm gelirleri hangi etki altında değerlendirilmektedir?",
+            "options": [
+              "A) Uyarıcı etki",
+              "B) Doğrudan etki",
+              "C) Dolaylı etki",
+              "D) Pozitif etki",
+              "E) Negatif etki"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 2, S. 11). Doğru cevap: Dolaylı etki.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "wq_w6_g3_9",
+            "subtopicId": "ir_4",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Aşağıdakilerden hangisi turizmin, turist kabul eden bölge halkı üzerinde yarattığı olumlu etkilerden biri değildir?",
+            "options": [
+              "A) Geleneksel kültürel faaliyetlerin canlanması",
+              "B) Yöresel mimari dokunun korunması",
+              "C) Sosyal ve kültürel hayatın canlanması",
+              "D) Özgünlüğün kaybolması",
+              "E) Yerel sanat ve zanaatlara ilginin artması"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 3, S. 9). Doğru cevap: Özgünlüğün kaybolması.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -93410,6 +97826,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "wq_w6_g1_1",
+            "subtopicId": "ir_5",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Turist tipolojisi ile ilgili aşağıdaki ifadelerden hangisi yanlış?",
+            "options": [
+              "A) Turist tipolojileri \"turist tek başına homojen bir kişiliğe sahip midir?\" sorusundan hareketle oluşturulmuştur.",
+              "B) Turistleri farklı bölümlerde değerlendirmek, turistlerin belirli davranışları neden gerçekleştirdiklerinin belirlenmesi açısından önem taşımaktadır.",
+              "C) Turist tipolojilerine yönelik ilk bilimsel çalışmalar 1950'lerde başlamıştır.",
+              "D) Turist tipolojisi, turistlerin gittikleri yer ile bağlantılı olarak farklı zevk ve tercihlerine göre sınıflandırılmasıdır.",
+              "E) Pazarlama açısından belirli bir turist tipini çekmek isteyen bir destinasyona yönelik daha sağlıklı analizlerin yapılabilmesi için tipolojiler ayrı bir önem arz etmektedir."
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru çalışması (Genel Turizm, Grup 1, S. 1). Doğru cevap: Turist tipolojilerine yönelik ilk bilimsel çalışmalar 1950'lerde başlamıştır..",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
