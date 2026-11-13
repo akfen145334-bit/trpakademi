@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { Subtopic, Course, Question } from '../types';
 import { useApp } from '../context/AppContext';
+import { ReportQuestionButton } from './ReportQuestionButton';
 import { 
   CheckCircle2, 
   XCircle, 
@@ -329,6 +330,7 @@ export const TestViewer: React.FC<TestViewerProps> = ({ course, subtopic, onSwit
               <span className="font-bold underline mr-1">Çözüm Açıklaması:</span>
               {currentQ.explanation}
             </div>
+            <ReportQuestionButton question={currentQ} />
           </div>
         )}
 

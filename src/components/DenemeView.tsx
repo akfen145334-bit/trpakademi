@@ -11,6 +11,7 @@ import { Timer, ClipboardList, ChevronLeft, ChevronRight, Flag, CheckCircle2, XC
  */
 
 const HISTORY_KEY = 'trp_deneme_history_v1';
+const RESUME_KEY = 'trp_deneme_resume_v1';
 const LETTERS = ['A', 'B', 'C', 'D', 'E'];
 const COUNTS = [20, 50, 100];
 
@@ -65,6 +66,38 @@ export const DenemeView: React.FC = () => {
   const [history, setHistory] = useState<HistoryItem[]>(loadHistory);
   const [reviewFilter, setReviewFilter] = useState<'wrong' | 'all'>('wrong');
   const finished = useRef(false);
+  const [saved, setSaved] = useState<null | { qs: ExamQ[]; answers: Record<string, number>; marked: Record<string, boolean>; idx: number; endAt: number; startAt: number; scope: string }>(() => {
+    try {
+      const s = JSON.parse(sessionStorage.getItem(RESUME_KEY) || 'null');
+      return s && s.endAt > Date.now() ? s : null;
+    } catch {
+      return null;
+    }
+  });
+
+  const resume = () => {
+    if (!saved) return;
+    finished.current = false;
+    setScope(saved.scope);
+    setQs(saved.qs);
+    setAnswers(saved.answers);
+    setMarked(saved.marked);
+    setIdx(saved.idx);
+    setStartAt(saved.startAt);
+    setEndAt(saved.endAt);
+    setLeft(Math.max(0, Math.round((saved.endAt - Date.now()) / 1000)));
+    setPhase('exam');
+  };
+
+  // Sınav sürerken durumu kaydet (sayfa yenilense/sekme kapansa bile aynı oturumda devam edilebilir)
+  useEffect(() => {
+    if (phase !== 'exam') return;
+    try {
+      sessionStorage.setItem(RESUME_KEY, JSON.stringify({ qs, answers, marked, idx, endAt, startAt, scope }));
+    } catch {
+      /* depolama kapalı olabilir */
+    }
+  }, [phase, qs, answers, marked, idx, endAt, startAt, scope]);
 
   const pool = useMemo<ExamQ[]>(() => {
     const out: ExamQ[] = [];
@@ -104,6 +137,12 @@ export const DenemeView: React.FC = () => {
   const finish = () => {
     if (finished.current) return;
     finished.current = true;
+    try {
+      sessionStorage.removeItem(RESUME_KEY);
+    } catch {
+      /* yok say */
+    }
+    setSaved(null);
     const secs = Math.min(Math.round((Date.now() - startAt) / 1000), Math.round(qs.length * 1.2) * 60);
     setElapsed(secs);
     let correct = 0;
@@ -162,6 +201,21 @@ export const DenemeView: React.FC = () => {
             göreceksin; yanlışların “Eksiklerim” bölümüne de eklenir.
           </p>
         </div>
+
+        {saved && (
+          <div className="rounded-2xl border border-indigo-300 bg-indigo-50 p-4 flex flex-wrap items-center justify-between gap-3">
+            <div className="text-sm text-indigo-900">
+              Yarım kalan bir denemen var ({saved.qs.length} soru, {Object.keys(saved.answers).length} işaretli, kalan süre{' '}
+              {fmt(Math.max(0, Math.round((saved.endAt - Date.now()) / 1000)))}).
+            </div>
+            <button
+              onClick={resume}
+              className="px-4 py-2 rounded-lg bg-indigo-600 text-white text-sm font-bold cursor-pointer"
+            >
+              Devam et
+            </button>
+          </div>
+        )}
 
         <div className="rounded-2xl border border-slate-200 bg-white p-5 sm:p-6 space-y-5">
           <div>

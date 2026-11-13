@@ -171,7 +171,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
               }`}
             >
               <BookOpen className="w-4 h-4 text-amber-600" />
-              <span className="hidden sm:inline">Dersler</span>
+              <span className="hidden lg:inline">Dersler</span>
             </button>
 
             <button
@@ -184,7 +184,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
               }`}
             >
               <Zap className="w-4 h-4 text-amber-600" />
-              <span className="hidden sm:inline">Mutlaka Bil</span>
+              <span className="hidden lg:inline">Mutlaka Bil</span>
             </button>
             <button
               onClick={() => goToHafiza()}
@@ -196,7 +196,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
               }`}
             >
               <Brain className="w-4 h-4 text-fuchsia-600" />
-              <span className="hidden sm:inline">Hafıza Kartları</span>
+              <span className="hidden xl:inline">Hafıza Kartları</span>
             </button>
             <button
               onClick={goToDeneme}
@@ -208,7 +208,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
               }`}
             >
               <ClipboardList className="w-4 h-4 text-indigo-600" />
-              <span className="hidden sm:inline">Deneme</span>
+              <span className="hidden xl:inline">Deneme</span>
             </button>
             <button
               onClick={goToEksiklerim}
@@ -219,7 +219,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
               }`}
             >
               <AlertCircle className="w-4 h-4 text-rose-600" />
-              <span className="hidden sm:inline">Eksiklerim</span>
+              <span className="hidden lg:inline">Eksiklerim</span>
               {totalEksikCount > 0 && (
                 <span className="ml-1 px-1.5 py-0.5 text-xs font-bold rounded-full bg-rose-600 text-white animate-pulse">
                   {totalEksikCount}
@@ -229,7 +229,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
 
             <button
               onClick={onOpenReportModal}
-              className="hidden md:flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-slate-900 hover:bg-slate-100 transition cursor-pointer"
+              className="hidden xl:flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-slate-900 hover:bg-slate-100 transition cursor-pointer"
             >
               <BarChart2 className="w-4 h-4 text-indigo-600" />
               <span>Genel Rapor</span>
@@ -259,7 +259,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
               className="flex items-center gap-1.5 px-2.5 sm:px-3 py-2 rounded-lg text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-200 transition cursor-pointer"
             >
               <Smartphone className="w-4 h-4 text-emerald-600" />
-              <span className="hidden sm:inline">Arka Plan Dinleme</span>
+              <span className="hidden xl:inline">Arka Plan Dinleme</span>
             </button>
           </div>
 
