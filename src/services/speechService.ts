@@ -58,6 +58,13 @@ class SpeechService {
   }
 
   private notifyState() {
+    if (typeof navigator !== 'undefined' && 'mediaSession' in navigator) {
+      try {
+        navigator.mediaSession.playbackState = this.isPlaying && !this.isPaused ? 'playing' : this.isPlaying ? 'paused' : 'none';
+      } catch {
+        /* yoksay */
+      }
+    }
     for (const listener of this.listeners) {
       listener.onStateChange(this.isPlaying, this.isPaused);
     }
@@ -83,9 +90,20 @@ class SpeechService {
     if (typeof window === 'undefined') return false;
     try {
       if (!this.silentAudio) {
-        // Minimal valid silent WAV data URL (1 second silent PCM audio)
-        const silentWavBase64 = 'data:audio/wav;base64,UklGRigAAABXQVZFZm10IBAAAAABAAEARKwAAIhYAQACABAAZGF0YQQAAAAAAA==';
-        this.silentAudio = new Audio(silentWavBase64);
+        // 2 saniyelik geçerli WAV (8 kHz, 16 bit); ±1 genlikli çok hafif gürültü: tarayıcı bunu gerçek medya oynatımı sayıp
+        // sekmeyi/medya oturumunu canlı tutar (tamamen sıfır örnekli dosya "çalıyor" sayılmayabiliyor).
+        const rate = 8000, n = rate * 2;
+        const buf = new Uint8Array(44 + n * 2);
+        const dv = new DataView(buf.buffer);
+        const str = (o: number, s: string) => { for (let i = 0; i < s.length; i++) buf[o + i] = s.charCodeAt(i); };
+        str(0, 'RIFF'); dv.setUint32(4, 36 + n * 2, true); str(8, 'WAVE'); str(12, 'fmt ');
+        dv.setUint32(16, 16, true); dv.setUint16(20, 1, true); dv.setUint16(22, 1, true);
+        dv.setUint32(24, rate, true); dv.setUint32(28, rate * 2, true); dv.setUint16(32, 2, true); dv.setUint16(34, 16, true);
+        str(36, 'data'); dv.setUint32(40, n * 2, true);
+        for (let i = 0; i < n; i++) dv.setInt16(44 + i * 2, i % 2 === 0 ? 1 : -1, true);
+        let bin = '';
+        for (let i = 0; i < buf.length; i++) bin += String.fromCharCode(buf[i]);
+        this.silentAudio = new Audio('data:audio/wav;base64,' + btoa(bin));
         this.silentAudio.loop = true;
       }
       this.silentAudio.play().catch(() => {
@@ -106,7 +124,7 @@ class SpeechService {
           artist: subtopicTitle,
           album: courseTitle,
           artwork: [
-            { src: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=512', sizes: '512x512', type: 'image/jpeg' }
+            { src: './icon-512.png', sizes: '512x512', type: 'image/png' }
           ]
         });
 
@@ -137,9 +155,9 @@ class SpeechService {
       this.setMediaSession(metadata.title, metadata.subtopicTitle, metadata.courseTitle);
     }
 
-    if (this.backgroundEnabled && this.silentAudio) {
-      this.silentAudio.play().catch(() => {});
-    }
+    // Arka planda / ekran kilidinde çalmaya devam edebilmesi için ayrıca bir "Arka Plan Dinleme" adımına gerek yok:
+    // oynat'a basılınca (kullanıcı dokunuşu) otomatik etkinleştirilir.
+    this.enableBackgroundAudio();
 
     this.notifyState();
     this.speakCurrent();

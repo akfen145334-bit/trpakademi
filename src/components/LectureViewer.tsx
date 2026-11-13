@@ -103,14 +103,14 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
   const speedOptions = [0.75, 1.0, 1.25, 1.5, 2.0];
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 pb-24 md:pb-6">
       
       {/* Top Audio Control Bar for the Subtopic */}
       <div className="sm:sticky sm:top-20 z-30 bg-white/95 backdrop-blur-md rounded-2xl border border-amber-200/90 p-4 shadow-sm">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           
           {/* Main Play / Pause Button */}
-          <div className="flex items-center gap-3">
+          <div className={`items-center gap-3 ${isCurrentPlayingThis || isCurrentPausedThis ? 'hidden md:flex' : 'flex'}`}>
             <button
               onClick={handlePlayToggle}
               className={`flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold transition shadow-sm cursor-pointer ${
@@ -158,7 +158,7 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
           {/* Right Tools: Speed, Mark Weak, Go to Test */}
           <div className="flex flex-wrap items-center gap-2">
             {/* Speed Selector */}
-            <div className="flex items-center gap-1 bg-slate-100 p-1 rounded-lg border border-slate-200 text-xs font-semibold">
+            <div className="hidden md:flex items-center gap-1 bg-slate-100 p-1 rounded-lg border border-slate-200 text-xs font-semibold">
               <Gauge className="w-3.5 h-3.5 text-slate-500 ml-1" />
               {speedOptions.map(spd => (
                 <button
@@ -214,7 +214,7 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
         </div>
 
         {/* Live Reader Hint */}
-        <div className="mt-2 text-[11px] text-slate-500 flex items-center justify-between">
+        <div className="mt-2 text-[11px] text-slate-500 hidden md:flex items-center justify-between">
           <span>
             💡 İpucu: Metindeki <strong>herhangi bir cümleye tıklayarak</strong> seslendirmeyi doğrudan oradan başlatabilirsiniz.
           </span>

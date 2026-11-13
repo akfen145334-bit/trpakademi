@@ -48,14 +48,63 @@ export const AudioPlayerBar: React.FC = () => {
   return (
     <div className="fixed bottom-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur-lg border-t border-slate-800 text-white shadow-2xl transition-all">
       {/* Top slim progress line */}
-      <div className="w-full bg-slate-800 h-1.5">
+      <div className="w-full bg-slate-800 h-1">
         <div 
           className="bg-amber-400 h-full transition-all duration-300"
           style={{ width: `${Math.min(100, Math.max(0, progressPercent))}%` }}
         />
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 py-3 sm:px-6">
+      {/* Mobil: tek satırlık kompakt oynatıcı */}
+      <div className="md:hidden px-3 py-2">
+        <button
+          onClick={() => {
+            if (audioState.currentCourseId && audioState.currentSubtopicId) {
+              goToSubtopic(audioState.currentCourseId, audioState.currentSubtopicId);
+            }
+          }}
+          className="w-full flex items-center justify-between gap-2 text-left cursor-pointer"
+          title="Metne git"
+        >
+          <span className="text-[13px] font-bold text-white truncate">{subtopic?.title || 'Konu Başlığı'}</span>
+          <span className="text-[11px] text-slate-400 font-mono shrink-0">
+            {audioState.currentSentenceIndex + 1}/{audioState.totalSentences}
+          </span>
+        </button>
+        <div className="flex items-center justify-between gap-1 mt-1">
+          <button onClick={prevSentence} aria-label="Önceki cümle" className="p-2 text-slate-300 rounded-lg cursor-pointer">
+            <SkipBack className="w-5 h-5" />
+          </button>
+          {audioState.isPaused ? (
+            <button onClick={resumeAudio} aria-label="Devam et" className="p-2.5 bg-amber-500 text-slate-950 rounded-full cursor-pointer">
+              <Play className="w-5 h-5 fill-current ml-0.5" />
+            </button>
+          ) : (
+            <button onClick={pauseAudio} aria-label="Duraklat" className="p-2.5 bg-amber-500 text-slate-950 rounded-full cursor-pointer">
+              <Pause className="w-5 h-5 fill-current" />
+            </button>
+          )}
+          <button onClick={nextSentence} aria-label="Sonraki cümle" className="p-2 text-slate-300 rounded-lg cursor-pointer">
+            <SkipForward className="w-5 h-5" />
+          </button>
+          <button
+            onClick={() => {
+              const i = speedOptions.indexOf(audioState.speed);
+              setAudioSpeed(speedOptions[(i + 1) % speedOptions.length]);
+            }}
+            aria-label="Okuma hızını değiştir"
+            className="px-3 py-1.5 text-xs font-bold rounded-lg bg-slate-800 border border-slate-700 text-amber-300 cursor-pointer"
+          >
+            {audioState.speed}x
+          </button>
+          <button onClick={stopAudio} aria-label="Durdur ve kapat" className="p-2 text-rose-400 rounded-lg cursor-pointer">
+            <Square className="w-5 h-5 fill-current" />
+          </button>
+        </div>
+      </div>
+
+      {/* Masaüstü / tablet: tam oynatıcı */}
+      <div className="hidden md:block max-w-7xl mx-auto px-4 py-3 sm:px-6">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3">
           
           {/* Left: Info */}
