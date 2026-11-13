@@ -53,7 +53,7 @@ export interface AudioPlaybackState {
   currentSentenceIndex: number;
   totalSentences: number;
   speed: number; // 0.75, 1, 1.25, 1.5, 2
-  mode: 'subtopic' | 'entire_course' | 'eksiklerim';
+  mode: 'subtopic' | 'entire_course' | 'eksiklerim' | 'mutlaka_bil';
   queueSubtopicIds?: string[];
   queueIndex?: number;
 }

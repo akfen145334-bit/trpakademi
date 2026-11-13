@@ -2,10 +2,12 @@ import React, { createContext, useContext, useEffect, useState, useMemo, ReactNo
 import { Course, Subtopic, Question, UserStats, AudioPlaybackState } from '../types';
 import { COURSES_DATA } from '../data/coursesData';
 import { speechService } from '../services/speechService';
+import { MUTLAKA_BIL } from '../data/mutlakaBil';
 
 interface AppContextType {
   courses: Course[];
-  activeView: 'home' | 'course' | 'subtopic' | 'eksiklerim';
+  activeView: 'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil';
+  mbSelection: { courseId: string; subtopicId: string } | null;
   selectedCourseId: string | null;
   selectedSubtopicId: string | null;
   activeSubtopicTab: 'lecture' | 'test';
@@ -15,6 +17,8 @@ interface AppContextType {
   goToCourse: (courseId: string) => void;
   goToSubtopic: (courseId: string, subtopicId: string, tab?: 'lecture' | 'test') => void;
   goToEksiklerim: () => void;
+  goToMutlakaBil: (courseId?: string, subtopicId?: string) => void;
+  playMustKnow: (courseId: string, subtopicId: string, startSentenceIndex?: number, wholeCourse?: boolean) => void;
   setActiveSubtopicTab: (tab: 'lecture' | 'test') => void;
   
   // Audio Playback
@@ -61,7 +65,8 @@ const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [courses] = useState<Course[]>(COURSES_DATA);
-  const [activeView, setActiveView] = useState<'home' | 'course' | 'subtopic' | 'eksiklerim'>('home');
+  const [activeView, setActiveView] = useState<'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil'>('home');
+  const [mbSelection, setMbSelection] = useState<{ courseId: string; subtopicId: string } | null>(null);
   const [selectedCourseId, setSelectedCourseId] = useState<string | null>(null);
   const [selectedSubtopicId, setSelectedSubtopicId] = useState<string | null>(null);
   const [activeSubtopicTab, setActiveSubtopicTab] = useState<'lecture' | 'test'>('lecture');
@@ -172,6 +177,11 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
 
   const goToEksiklerim = () => {
     setActiveView('eksiklerim');
+  };
+
+  const goToMutlakaBil = (courseId?: string, subtopicId?: string) => {
+    setMbSelection(courseId && subtopicId ? { courseId, subtopicId } : null);
+    setActiveView('mutlakabil');
   };
 
   // Internal helper to start reading a subtopic
@@ -292,6 +302,63 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
     startPlayingSubtopic(list[0].courseId, list[0].subtopicId, 0, list, 0);
   };
 
+  // Mutlaka Bil (hızlı tekrar) sesli okuma: tek alt başlık ya da dersin tüm alt başlıkları sırayla
+  const playMustKnow = (courseId: string, subtopicId: string, startSentenceIndex = 0, wholeCourse = false) => {
+    const course = courses.find(c => c.id === courseId);
+    if (!course) return;
+    const ids = wholeCourse
+      ? course.subtopics.filter(s => MUTLAKA_BIL[s.id]?.length).map(s => s.id)
+      : [subtopicId];
+    const startPos = Math.max(0, ids.indexOf(subtopicId));
+    const sub = course.subtopics.find(s => s.id === ids[startPos]);
+    const first = sub ? MUTLAKA_BIL[sub.id] : null;
+    if (!sub || !first || first.length === 0) return;
+
+    setAudioQueue([]);
+    setAudioState(prev => ({
+      ...prev,
+      mode: 'mutlaka_bil',
+      currentCourseId: courseId,
+      currentSubtopicId: sub.id,
+      currentSentenceIndex: startSentenceIndex,
+      totalSentences: first.length,
+      isPlaying: true,
+      isPaused: false
+    }));
+
+    let pos = startPos;
+    const nextProvider = () => {
+      while (pos < ids.length - 1) {
+        pos++;
+        const s = course.subtopics.find(x => x.id === ids[pos]);
+        const list = s ? MUTLAKA_BIL[s.id] : null;
+        if (!s || !list || list.length === 0) continue;
+        setAudioState(prev => ({
+          ...prev,
+          currentSubtopicId: s.id,
+          currentSentenceIndex: 0,
+          totalSentences: list.length,
+          isPlaying: true,
+          isPaused: false
+        }));
+        return {
+          sentences: list,
+          audioId: 'mb_' + s.id,
+          meta: { title: 'Mutlaka Bil: ' + s.title, subtopicTitle: s.title, courseTitle: course.title },
+          startIndex: 0
+        };
+      }
+      return null;
+    };
+
+    speechService.play(
+      first,
+      startSentenceIndex,
+      { title: 'Mutlaka Bil: ' + sub.title, subtopicTitle: sub.title, courseTitle: course.title },
+      'mb_' + sub.id,
+      ids.length > 1 ? nextProvider : undefined
+    );
+  };
   const pauseAudio = () => speechService.pause();
   const resumeAudio = () => speechService.resume();
   const stopAudio = () => {
@@ -462,6 +529,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
       value={{
         courses,
         activeView,
+        mbSelection,
         selectedCourseId,
         selectedSubtopicId,
         activeSubtopicTab,
@@ -469,6 +537,8 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
         goToCourse,
         goToSubtopic,
         goToEksiklerim,
+        goToMutlakaBil,
+        playMustKnow,
         setActiveSubtopicTab,
         audioState,
         playSubtopicAudio,

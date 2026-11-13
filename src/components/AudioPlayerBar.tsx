@@ -23,7 +23,8 @@ export const AudioPlayerBar: React.FC = () => {
     prevSentence, 
     nextSentence,
     courses,
-    goToSubtopic
+    goToSubtopic,
+    goToMutlakaBil
   } = useApp();
 
   if (!audioState.isPlaying && !audioState.isPaused) {
@@ -42,7 +43,8 @@ export const AudioPlayerBar: React.FC = () => {
   const modeLabels = {
     subtopic: 'Alt Konu Dinleniyor',
     entire_course: 'Dersin Tümü Dinleniyor (Sırayla)',
-    eksiklerim: 'Eksiklerim Dinleniyor'
+    eksiklerim: 'Eksiklerim Dinleniyor',
+    mutlaka_bil: 'Mutlaka Bil Dinleniyor'
   };
 
   return (
@@ -60,7 +62,7 @@ export const AudioPlayerBar: React.FC = () => {
         <button
           onClick={() => {
             if (audioState.currentCourseId && audioState.currentSubtopicId) {
-              goToSubtopic(audioState.currentCourseId, audioState.currentSubtopicId);
+              (audioState.mode === 'mutlaka_bil' ? goToMutlakaBil : goToSubtopic)(audioState.currentCourseId, audioState.currentSubtopicId);
             }
           }}
           className="w-full flex items-center justify-between gap-2 text-left cursor-pointer"
@@ -131,7 +133,7 @@ export const AudioPlayerBar: React.FC = () => {
                 <button
                   onClick={() => {
                     if (audioState.currentCourseId && audioState.currentSubtopicId) {
-                      goToSubtopic(audioState.currentCourseId, audioState.currentSubtopicId);
+                      (audioState.mode === 'mutlaka_bil' ? goToMutlakaBil : goToSubtopic)(audioState.currentCourseId, audioState.currentSubtopicId);
                     }
                   }}
                   className="font-bold text-sm text-white hover:text-amber-400 transition truncate text-left cursor-pointer"
@@ -216,7 +218,7 @@ export const AudioPlayerBar: React.FC = () => {
             {/* View Lecture Button */}
             {audioState.currentCourseId && audioState.currentSubtopicId && (
               <button
-                onClick={() => goToSubtopic(audioState.currentCourseId!, audioState.currentSubtopicId!)}
+                onClick={() => (audioState.mode === 'mutlaka_bil' ? goToMutlakaBil : goToSubtopic)(audioState.currentCourseId!, audioState.currentSubtopicId!)}
                 className="flex items-center gap-1 px-2.5 py-1.5 text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-200 rounded-lg border border-slate-700 transition cursor-pointer"
               >
                 <BookOpen className="w-3.5 h-3.5 text-amber-400" />

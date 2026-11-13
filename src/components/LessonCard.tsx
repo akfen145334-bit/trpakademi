@@ -1,3 +1,4 @@
+import { MUTLAKA_BIL } from '../data/mutlakaBil';
 import React from 'react';
 import { Course } from '../types';
 import { useApp } from '../context/AppContext';
@@ -9,7 +10,8 @@ import {
   Clock, 
   AlertCircle,
   HelpCircle,
-  Headphones
+  Headphones,
+  Zap
 } from 'lucide-react';
 
 interface LessonCardProps {
@@ -20,7 +22,8 @@ export const LessonCard: React.FC<LessonCardProps> = ({ course }) => {
   const { 
     goToSubtopic, 
     goToCourse,
-    playSubtopicAudio, 
+    goToMutlakaBil,
+    playSubtopicAudio,
     playEntireCourseAudio,
     getCourseStats,
     audioState,
@@ -167,6 +170,17 @@ export const LessonCard: React.FC<LessonCardProps> = ({ course }) => {
                 {/* Right: Individual "Dinle" Button next to subtopic */}
                 {subtopic.isAvailable ? (
                   <div className="flex items-center gap-1.5 shrink-0">
+                    {MUTLAKA_BIL[subtopic.id]?.length ? (
+                      <button
+                        onClick={() => goToMutlakaBil(course.id, subtopic.id)}
+                        title="Mutlaka Bil: hızlı tekrar"
+                        aria-label="Mutlaka Bil: hızlı tekrar"
+                        className="flex items-center gap-1 px-2 py-1 rounded-md text-xs font-bold bg-orange-50 hover:bg-orange-100 text-orange-800 border border-orange-300 transition cursor-pointer"
+                      >
+                        <Zap className="w-3.5 h-3.5" />
+                        <span className="hidden sm:inline">Mutlaka Bil</span>
+                      </button>
+                    ) : null}
                     <button
                       onClick={() => playSubtopicAudio(course.id, subtopic.id)}
                       title={`Sadece ${subtopic.title} konusunu sesli dinle`}
