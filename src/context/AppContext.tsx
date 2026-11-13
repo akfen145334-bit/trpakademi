@@ -6,8 +6,9 @@ import { MUTLAKA_BIL } from '../data/mutlakaBil';
 
 interface AppContextType {
   courses: Course[];
-  activeView: 'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil';
+  activeView: 'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza';
   mbSelection: { courseId: string; subtopicId: string } | null;
+  hkSelection: string | null;
   selectedCourseId: string | null;
   selectedSubtopicId: string | null;
   activeSubtopicTab: 'lecture' | 'test';
@@ -18,6 +19,7 @@ interface AppContextType {
   goToSubtopic: (courseId: string, subtopicId: string, tab?: 'lecture' | 'test') => void;
   goToEksiklerim: () => void;
   goToMutlakaBil: (courseId?: string, subtopicId?: string) => void;
+  goToHafiza: (cardId?: string) => void;
   playMustKnow: (courseId: string, subtopicId: string, startSentenceIndex?: number, wholeCourse?: boolean) => void;
   setActiveSubtopicTab: (tab: 'lecture' | 'test') => void;
   
@@ -65,8 +67,9 @@ const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [courses] = useState<Course[]>(COURSES_DATA);
-  const [activeView, setActiveView] = useState<'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil'>('home');
+  const [activeView, setActiveView] = useState<'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza'>('home');
   const [mbSelection, setMbSelection] = useState<{ courseId: string; subtopicId: string } | null>(null);
+  const [hkSelection, setHkSelection] = useState<string | null>(null);
   const [selectedCourseId, setSelectedCourseId] = useState<string | null>(null);
   const [selectedSubtopicId, setSelectedSubtopicId] = useState<string | null>(null);
   const [activeSubtopicTab, setActiveSubtopicTab] = useState<'lecture' | 'test'>('lecture');
@@ -177,6 +180,12 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
 
   const goToEksiklerim = () => {
     setActiveView('eksiklerim');
+  };
+
+  const goToHafiza = (cardId?: string) => {
+    setHkSelection(cardId || null);
+    setActiveView('hafiza');
+    if (typeof window !== 'undefined') window.scrollTo({ top: 0 });
   };
 
   const goToMutlakaBil = (courseId?: string, subtopicId?: string) => {
@@ -530,6 +539,8 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
         courses,
         activeView,
         mbSelection,
+        hkSelection,
+        goToHafiza,
         selectedCourseId,
         selectedSubtopicId,
         activeSubtopicTab,

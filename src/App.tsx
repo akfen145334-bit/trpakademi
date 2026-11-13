@@ -7,6 +7,7 @@ import { LectureViewer } from './components/LectureViewer';
 import { TestViewer } from './components/TestViewer';
 import { EksiklerimView } from './components/EksiklerimView';
 import { MutlakaBilView } from './components/MutlakaBilView';
+import { HafizaKartlariView } from './components/HafizaKartlariView';
 import { BackgroundAudioModal } from './components/BackgroundAudioModal';
 import { ReportModal } from './components/ReportModal';
 import { 
@@ -423,6 +424,10 @@ const MainApp: React.FC = () => {
 
         {activeView === 'mutlakabil' && (
           <MutlakaBilView />
+        )}
+
+        {activeView === 'hafiza' && (
+          <HafizaKartlariView />
         )}
 
       </main>

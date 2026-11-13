@@ -9,6 +9,7 @@ import {
   Smartphone,
   Download,
   Zap,
+  Brain,
   CheckCircle2
 } from 'lucide-react';
 
@@ -62,10 +63,10 @@ const InstallButton: React.FC = () => {
       <button
         onClick={onClick}
         title="Uygulamayı telefona yükle (ana ekrana kısayol ekle)"
-        className="flex items-center gap-1.5 px-3 py-2 rounded-lg text-xs font-bold bg-amber-600 hover:bg-amber-500 text-white shadow-sm transition cursor-pointer"
+        className="flex items-center gap-1.5 px-2.5 sm:px-3 py-2 rounded-lg text-xs font-bold bg-amber-600 hover:bg-amber-500 text-white shadow-sm transition cursor-pointer"
       >
         <Download className="w-4 h-4" />
-        <span>Yükle</span>
+        <span className="hidden min-[430px]:inline">Yükle</span>
       </button>
 
       {showHelp && (
@@ -118,6 +119,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
     goToHome, 
     goToEksiklerim, 
     goToMutlakaBil,
+    goToHafiza,
     allWrongQuestions, 
     weakSubtopics,
     audioState,
@@ -135,7 +137,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
           {/* Logo & Platform Name */}
           <button 
             onClick={goToHome}
-            className="flex items-center gap-2 sm:gap-3 text-left group transition cursor-pointer min-w-0"
+            className="flex items-center gap-2 sm:gap-3 text-left group transition cursor-pointer min-w-0 shrink-0"
           >
             <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-amber-600 to-amber-500 flex items-center justify-center text-white shadow-md shadow-amber-500/20 group-hover:scale-105 transition-transform">
               <Headphones className="w-5 h-5" />
@@ -180,6 +182,18 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
             >
               <Zap className="w-4 h-4 text-amber-600" />
               <span className="hidden sm:inline">Mutlaka Bil</span>
+            </button>
+            <button
+              onClick={() => goToHafiza()}
+              title="Hafıza Kartları: hafıza teknikleriyle öğren"
+              className={`flex items-center gap-2 px-2.5 sm:px-3 py-2 rounded-lg text-sm font-semibold transition cursor-pointer ${
+                activeView === 'hafiza'
+                  ? 'bg-fuchsia-100 text-fuchsia-900 border border-fuchsia-300 shadow-xs'
+                  : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+              }`}
+            >
+              <Brain className="w-4 h-4 text-fuchsia-600" />
+              <span className="hidden sm:inline">Hafıza Kartları</span>
             </button>
             <button
               onClick={goToEksiklerim}

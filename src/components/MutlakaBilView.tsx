@@ -1,7 +1,7 @@
 import React from 'react';
 import { useApp } from '../context/AppContext';
 import { MUTLAKA_BIL } from '../data/mutlakaBil';
-import { Zap, Volume2, Pause, ChevronRight, ArrowLeft, BookOpen, HelpCircle, Headphones } from 'lucide-react';
+import { Zap, Volume2, Pause, ChevronRight, ArrowLeft, BookOpen, HelpCircle, Headphones, Brain } from 'lucide-react';
 
 /**
  * "Mutlaka Bil" (hızlı tekrar): sınavlarda çıkan veya çıkması muhtemel, en çok sorulan noktaların kısa özeti.
@@ -12,6 +12,7 @@ export const MutlakaBilView: React.FC = () => {
     courses,
     mbSelection,
     goToMutlakaBil,
+    goToHafiza,
     goToSubtopic,
     audioState,
     playMustKnow,
@@ -172,6 +173,13 @@ export const MutlakaBilView: React.FC = () => {
           özetler halinde. Tüm konuları kapsamaz, hızlı tekrar içindir. Her alt başlığı ve dersin tamamını sesli
           dinleyebilirsin.
         </p>
+        <button
+          onClick={() => goToHafiza()}
+          className="mt-4 inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-white text-fuchsia-800 font-bold text-sm shadow-sm hover:bg-fuchsia-50 cursor-pointer"
+        >
+          <Brain className="w-4 h-4" /> Hafıza Kartları ile öğren
+          <ChevronRight className="w-4 h-4" />
+        </button>
       </div>
 
       {courses.map(course => {
