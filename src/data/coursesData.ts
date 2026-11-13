@@ -1645,6 +1645,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_92",
+            "subtopicId": "turktarihi_1",
+            "courseId": "turktarihi",
+            "questionText": "II. Göktürk Kağanlığı'nın kurucusu aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Mukan Kağan",
+              "B) Oğuz Kağan",
+              "C) Bumin Kağan",
+              "D) Tengri Kağan",
+              "E) Kutluk Kağan"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 92). Doğru cevap: Kutluk Kağan.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -3959,6 +3975,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "orta"
+          },
+          {
+            "id": "mart26a_76",
+            "subtopicId": "turktarihi_2",
+            "courseId": "turktarihi",
+            "questionText": "Maniheizm dini aşağıdaki Uygur Kağan'larından hangisi zamanında kabul edilmiştir?",
+            "options": [
+              "A) Bögü Kağan",
+              "B) Bayan Çor Kağan",
+              "C) Üge Kağan",
+              "D) Tafgaç Oğulçak Kadir Han",
+              "E) Küçlüg Bilge Kağan"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 76). Doğru cevap: Bögü Kağan.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -5747,6 +5779,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_23",
+            "subtopicId": "turktarihi_3",
+            "courseId": "turktarihi",
+            "questionText": "Aşağıdakilerden hangisi İslamiyet'in kabulünden sonra yazılan Kutadgu Bilig eserinin yazarıdır?",
+            "options": [
+              "A) Fuzûlî",
+              "B) Yusuf Has Hâcib",
+              "C) Ali Şîr Nevâî",
+              "D) Kaşgarlı Mahmud",
+              "E) Ahmet Yesevi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 23). Doğru cevap: Yusuf Has Hâcib.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -13143,6 +13191,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "orta"
+          },
+          {
+            "id": "mart26a_80",
+            "subtopicId": "turktarihi_6",
+            "courseId": "turktarihi",
+            "questionText": "Aşağıdakilerinden hangisinde eser-yazar eşleşmesi doğru verilmiştir?",
+            "options": [
+              "A) İnce Memed - Yakup Kadri Karaosmanoğlu",
+              "B) Saatleri Ayarlama Enstitüsü -Yaşar Kemal",
+              "C) Ateşten Gömlek - Halide Edip Adıvar",
+              "D) Yaban - Namık Kemal",
+              "E) Beş Şehir-Ziya Gökalp"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 80). Doğru cevap: Ateşten Gömlek - Halide Edip Adıvar.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -15295,6 +15359,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_24",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Göbeklitepe'de kazı çalışmaları yapan arkeologlardan biridir?",
+            "options": [
+              "A) James Mellaart",
+              "B) Ian Hodder",
+              "C) Otto Benndorf",
+              "D) Heinrich Schliemann",
+              "E) Klaus Schmidt"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 24). Doğru cevap: Klaus Schmidt.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "mart26a_52",
+            "subtopicId": "anadolu_1",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi \"Taş Tepeler Projesi\" kapsamındaki kazı alanlarından biridir?",
+            "options": [
+              "A) Yumuktepe",
+              "B) Büyüktepe",
+              "C) Tilkitepe",
+              "D) Karahantepe",
+              "E) Horoztepe"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 52). Doğru cevap: Karahantepe.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -23004,6 +23100,54 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_15",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "I. Sarduri tarafından kurulan ve başkenti Tuşpa olan Anadolu medeniyeti aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Asur",
+              "B) Hitit",
+              "C) İon",
+              "D) Urartu",
+              "E) Lidya"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 15). Doğru cevap: Urartu.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "mart26a_29",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "I. Üretim ve tüketimin aynı anda gerçekleşmesi\nII. Stoklanabilir olması\nIII. Satın almadan önce tamamen deneyimlenememesi\nIV. Talep esnekliğinin düşük olması\nV. Emek yoğun olması\nYukarıdakilerden hangileri turistik ürünün özelliklerindendir?",
+            "options": [
+              "A) II ve III",
+              "B) I, III ve IV",
+              "C) I, III ve V",
+              "D) III, IV ve V",
+              "E) I, II, IV ve V"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 29). Doğru cevap: I, III ve V.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "mart26a_57",
+            "subtopicId": "anadolu_5",
+            "courseId": "anadolu",
+            "questionText": "Aşağıdakilerden hangisi Geç Tunç Çağı'nın sonlarında gerçekleşen Deniz Kavimleri Göçü (Ege Göçleri) öncesinde Anadolu'da yaşayan yerli topluluklardan biridir?",
+            "options": [
+              "A) Akhalar",
+              "B) Lelegler",
+              "C) Aioller",
+              "D) İonlar",
+              "E) Dorlar"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 57). Doğru cevap: Lelegler.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -26980,6 +27124,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_78",
+            "subtopicId": "anadolu_6",
+            "courseId": "anadolu",
+            "questionText": "I. Bergama\nII. Kos\nIII. Allianoi\nIV. Sagalassos\nV. Myra\nYukarıdakilerden hangileri Asklepion'a sahip antik yerleşimler arasında yer alır?",
+            "options": [
+              "A) I ve V",
+              "B) II ve III",
+              "C) I, II ve III",
+              "D) I, II ve IV",
+              "E) I, II, III ve V"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 78). Doğru cevap: I, II ve III.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -34204,6 +34364,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_1",
+            "subtopicId": "arkeoloji_3",
+            "courseId": "arkeoloji",
+            "questionText": "Aşağıdaki tanımlar ve kavramlar verilmiştir:\n1. Yüksek kayalıklar üzerine kurulmuş, çevresi surlarla kuşatılmış, içinde saray, tapınak, depo mekânları ve atölyelerin bulunduğu yönetim birimi.\n2. Genellikle dinsel veya siyasal mesajlar vermek, sınır çizmek veya ulaşılan en son noktayı belirlemek amacıyla dikilmiş, üzerinde yazıt bulunan dikili taş.\n3. Aynı yerde, biri yıkılınca üzerine bir sonraki dönemde kurulmuş yerleşme veya yerleşmelerin kalıntılarından oluşan tepe görünümlü yükselti.\n4. Tunç, altın ya da gümüşten yapılmış, giysi uçlarını tutturmaya yarayan veya süs amaçlı kullanılan bir tür çengelli iğne.\nKavramlar: a. Höyük  b. Sitadel  c. Fibula  d. Stel\nYukarıda verilen tanımlar ve kavramlar aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+            "options": [
+              "A) 1-a, 2-b, 3-c, 4-d",
+              "B) 1-b, 2-c, 3-d, 4-a",
+              "C) 1-b, 2-d, 3-a, 4-c",
+              "D) 1-c, 2-d, 3-a, 4-b",
+              "E) 1-d, 2-b, 3-a, 4-c"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 1). Doğru cevap: 1-b, 2-d, 3-a, 4-c.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -39659,6 +39835,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_64",
+            "subtopicId": "sanattarihi_1",
+            "courseId": "sanattarihi",
+            "questionText": "\"Hermes ve Bebek Dionysos\" ile \"Knidos Aphroditesi\" heykelleriyle tanınan Klasik Dönem Yunan heykel sanatçısı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Lysippos",
+              "B) Leochares",
+              "C) Skopas",
+              "D) Praxiteles",
+              "E) Phidias"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 64). Doğru cevap: Praxiteles.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -42810,6 +43002,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_44",
+            "subtopicId": "sanattarihi_4",
+            "courseId": "sanattarihi",
+            "questionText": "I. Alemşah Kümbeti - Sivrihisar\nII. Döner Kümbet - Kayseri\nIII. Alaaddin Bey Kümbeti - Nevşehir\nIV. Üç Kümbetler - Erzurum\nV. Sırçalı Kümbet - Erzincan\nYukarıdaki kümbet ve yer eşleştirmelerinden hangileri doğrudur?",
+            "options": [
+              "A) II ve III",
+              "B) I, II ve III",
+              "C) I, II ve IV",
+              "D) I, III ve V",
+              "E) II, III, IV ve V"
+            ],
+            "correctIndex": 2,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 44). Doğru cevap: I, II ve IV.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -46672,6 +46880,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_8",
+            "subtopicId": "sanattarihi_6",
+            "courseId": "sanattarihi",
+            "questionText": "Kitreli su dolu bir kaba renkli boyalar serpilip sürülmesi ve ardından desenlerin kâğıda aktarılmasıyla renkli motifler oluşturularak yapılan geleneksel Türk sanatı aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Ebru",
+              "B) Hat",
+              "C) Dokuma",
+              "D) Katı",
+              "E) Minyatür"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 8). Doğru cevap: Ebru.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -49885,6 +50109,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_83",
+            "subtopicId": "mitoloji_2",
+            "courseId": "mitoloji",
+            "questionText": "I. Pessinus\nII. Sayburç\nIII. Efes\nIV. Klaros\nV. Didyma\nYukarıdakilerden hangileri Antik Çağ'da Apollon'a adanmış kehanet merkezleri bulunan antik kentler arasında yer alır?",
+            "options": [
+              "A) I ve V",
+              "B) IV ve V",
+              "C) I, IV ve V",
+              "D) II, IV ve V",
+              "E) I, II, III ve IV"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 83). Doğru cevap: IV ve V.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -61040,6 +61280,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_88",
+            "subtopicId": "tc_1",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi Türkiye'de yayılış gösteren doğal bitki örtüsü çeşitlerinden biridir?",
+            "options": [
+              "A) Tundra",
+              "B) Step",
+              "C) Savan",
+              "D) Muson ormanı",
+              "E) Yağmur ormanı"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 88). Doğru cevap: Step.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -66353,6 +66609,38 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_19",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "I. Gönen – Denizli\nII. Kozaklı – Nevşehir\nIII. Oylat – Bursa\nIV. Kızılcahamam – Ankara\nV. Balçova – Aydın\nYukarıdaki şehir-kaplıca eşleştirmelerinden hangileri doğrudur?",
+            "options": [
+              "A) I, II ve IV",
+              "B) II, III ve IV",
+              "C) III, IV ve V",
+              "D) I, II, III ve IV",
+              "E) I, II, IV ve V"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 19). Doğru cevap: II, III ve IV.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "mart26a_63",
+            "subtopicId": "tc_2",
+            "courseId": "turizm-cografyasi",
+            "questionText": "1526'da Kanunî Sultan Süleyman tarafından Ayasofya-i Kebir Cami-i Şerifi'ne hediye edilen ve bugün mihrabın iki yanında bulunan bronz şamdanların getirildiği katedral aşağıdakilerden hangisidir?",
+            "options": [
+              "A) Buda Katedrali (Macaristan)",
+              "B) Duomo Katedrali (İtalya)",
+              "C) Aziz Vitus Katedrali (Çekya)",
+              "D) St. Stephen Katedrali (Avusturya)",
+              "E) Notre Dame Katedrali (Fransa)"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 63). Doğru cevap: Buda Katedrali (Macaristan).",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -72898,6 +73186,70 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 4,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_46",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "I. Afyonkarahisar\nII. Bursa\nIII. Gaziantep\nIV. İzmir\nV. Hatay\nYukarıdakilerden hangileri \"UNESCO Yaratıcı Şehirler Ağı\" programında gastronomi temasıyla temsil edilmektedir?",
+            "options": [
+              "A) I ve II",
+              "B) I, II ve IV",
+              "C) I, III ve IV",
+              "D) I, III ve V",
+              "E) III, IV ve V"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 46). Doğru cevap: I, III ve V.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "mart26a_67",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan \"ipek böcekçiliği ve dokuma için ipeğin geleneksel üretimi\" Türkiye'de aşağıdaki ağaçlardan hangisinin varlığına bağlıdır?",
+            "options": [
+              "A) Çam ağacı",
+              "B) Dut ağacı",
+              "C) Çınar ağacı",
+              "D) Elma ağacı",
+              "E) Köknar ağacı"
+            ],
+            "correctIndex": 1,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 67). Doğru cevap: Dut ağacı.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "mart26a_82",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "I. Divriği Ulu Camii ve Darüşşifası\nII. Hattuşa Hitit Başkenti\nIII. Knidos Antik Kenti\nIV. Gordion\nV. Kremna Antik Kenti\nYukarıdakilerden hangileri Türkiye'de UNESCO Dünya Miras Listesi'ne giren alanlar arasında yer alır?",
+            "options": [
+              "A) I ve III",
+              "B) II ve V",
+              "C) III ve V",
+              "D) I, II ve IV",
+              "E) I, III ve V"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 82). Doğru cevap: I, II ve IV.",
+            "difficulty": "orta"
+          },
+          {
+            "id": "mart26a_84",
+            "subtopicId": "tc_4",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi UNESCO tarafından Mevlana Yılı olarak ilan edilmiştir?",
+            "options": [
+              "A) 2007",
+              "B) 2012",
+              "C) 2017",
+              "D) 2022",
+              "E) 2027"
+            ],
+            "correctIndex": 0,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 84). Doğru cevap: 2007.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -76935,6 +77287,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 3,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_39",
+            "subtopicId": "tc_5",
+            "courseId": "turizm-cografyasi",
+            "questionText": "Aşağıdakilerden hangisi Türkiye'de endemik olan türlerden biri DEĞİLDİR?",
+            "options": [
+              "A) Sivas Kangalı",
+              "B) Toros Kurbağası",
+              "C) Van Kedisi",
+              "D) İnci Kefali",
+              "E) Sivrihisar Gelinciği"
+            ],
+            "correctIndex": 4,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 39). Doğru cevap: Sivrihisar Gelinciği.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
@@ -93150,6 +93518,22 @@ export const COURSES_DATA: Course[] = [
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
             "difficulty": "ileri"
+          },
+          {
+            "id": "mart26a_3",
+            "subtopicId": "ir_2",
+            "courseId": "iletisim-rehberlik",
+            "questionText": "Rehberin tur sırasında anlatılarını yaparken el ve kol ile yapılan beden hareketlerini sıklıkla kullanması sözsüz iletişimin hangi ögesi kapsamında değerlendirilir?",
+            "options": [
+              "A) Kıyafet",
+              "B) Mimik",
+              "C) Dinleme",
+              "D) Jest",
+              "E) Mesafe"
+            ],
+            "correctIndex": 3,
+            "explanation": "Resmî çıkmış soru (2026 Mart Mesleğe Kabul, A grubu, S. 3). Doğru cevap: Jest.",
+            "difficulty": "orta"
           }
         ],
         "isAvailable": true
