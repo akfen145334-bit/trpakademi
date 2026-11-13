@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { AppProvider, useApp } from './context/AppContext';
+import { AuthProvider } from './context/AuthContext';
 import { Navbar } from './components/Navbar';
 import { AudioPlayerBar } from './components/AudioPlayerBar';
 import { LessonCard } from './components/LessonCard';
@@ -456,8 +457,10 @@ const MainApp: React.FC = () => {
 
 export default function App() {
   return (
-    <AppProvider>
-      <MainApp />
-    </AppProvider>
+    <AuthProvider>
+      <AppProvider>
+        <MainApp />
+      </AppProvider>
+    </AuthProvider>
   );
 }

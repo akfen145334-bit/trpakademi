@@ -1,6 +1,9 @@
 import React, { useState } from 'react';
 import { useApp } from '../context/AppContext';
-import { 
+import { useLimits } from '../hooks/useLimits';
+import { exportEksiklerimPdf } from '../services/pdfExport';
+import { FileDown, Lock } from 'lucide-react';
+import {
   AlertCircle, 
   RotateCcw, 
   Headphones, 
@@ -32,6 +35,22 @@ export const EksiklerimView: React.FC = () => {
   const [activeTab, setActiveTab] = useState<'wrong_questions' | 'weak_topics'>('wrong_questions');
   const [solvingQuestionId, setSolvingQuestionId] = useState<string | null>(null);
 
+  const { limits } = useLimits();
+  const [lockMsg, setLockMsg] = useState('');
+  const lock = () => setLockMsg('Bu özellik Premium üyelere açıktır.');
+  const doPdf = () => {
+    const ok = exportEksiklerimPdf(
+      allWrongQuestions.map(({ question, subtopic, course }) => ({
+        question,
+        courseTitle: course.title,
+        subtopicTitle: subtopic.title,
+        userSelected: userStats.solvedQuestions[question.id]
+      })),
+      weakSubtopics.map(({ subtopic, course }) => ({ course: course.title, subtopic: subtopic.title }))
+    );
+    setLockMsg(ok ? '' : 'Açılır pencere engellendi; bu siteye izin verip tekrar dene.');
+  };
+
   const totalWrong = allWrongQuestions.length;
   const totalWeakTopics = weakSubtopics.length;
 
@@ -59,7 +78,15 @@ export const EksiklerimView: React.FC = () => {
           {/* "Eksiklerimi Dinle" Primary CTA */}
           <div className="shrink-0 flex flex-col gap-2">
             <button
-              onClick={playEksiklerimAudio}
+              onClick={() => (limits.eksiklerimPdf ? doPdf() : lock())}
+              className="flex items-center justify-center gap-2 px-6 py-3 rounded-xl text-sm font-bold bg-white/15 hover:bg-white/25 text-white border border-white/30 transition cursor-pointer"
+            >
+              <FileDown className="w-5 h-5" />
+              <span>Eksiklerimi PDF Al</span>
+              {!limits.eksiklerimPdf && <Lock className="w-3.5 h-3.5" />}
+            </button>
+            <button
+              onClick={() => (limits.eksiklerimAudio ? playEksiklerimAudio() : lock())}
               className={`flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl text-sm font-black transition transform hover:scale-102 shadow-lg cursor-pointer ${
                 audioState.isPlaying && audioState.mode === 'eksiklerim'
                   ? 'bg-amber-400 text-slate-950 ring-4 ring-amber-300/40'
@@ -68,10 +95,16 @@ export const EksiklerimView: React.FC = () => {
             >
               <Headphones className="w-5 h-5" />
               <span>Eksiklerimi Dinle</span>
+              {!limits.eksiklerimAudio && <Lock className="w-3.5 h-3.5" />}
             </button>
             <span className="text-[11px] text-center text-rose-200 font-medium">
               Fosforlu cümle takibiyle sırayla okur
             </span>
+            {lockMsg && (
+              <span className="text-[11px] text-center text-amber-200 font-bold">
+                {lockMsg}
+              </span>
+            )}
           </div>
         </div>
 

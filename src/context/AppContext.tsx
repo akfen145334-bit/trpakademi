@@ -1,4 +1,6 @@
-import React, { createContext, useContext, useEffect, useState, useMemo, ReactNode } from 'react';
+import React, { createContext, useContext, useEffect, useRef, useState, useMemo, ReactNode } from 'react';
+import { useAuth } from './AuthContext';
+import { supabase } from '../services/supabase';
 import { Course, Subtopic, Question, UserStats, AudioPlaybackState } from '../types';
 import { COURSES_DATA } from '../data/coursesData';
 import { speechService } from '../services/speechService';
@@ -64,6 +66,33 @@ const initialStats: UserStats = {
   weakSubtopicIds: []
 };
 
+/** Yerel ve sunucudaki ilerlemeyi birleştirir (hiçbir şey silinmez; aynı soruda yerel cevap öncelikli). */
+const mergeStats = (local: UserStats, remote: UserStats | null): UserStats => {
+  if (!remote) return local;
+  const solved = { ...(remote.solvedQuestions || {}), ...local.solvedQuestions };
+  const correct = Object.keys(solved).filter(id => {
+    const inLocal = id in local.solvedQuestions;
+    return inLocal ? local.correctQuestionIds.includes(id) : (remote.correctQuestionIds || []).includes(id);
+  });
+  const wrong = Object.keys(solved).filter(id => {
+    const inLocal = id in local.solvedQuestions;
+    return inLocal ? local.wrongQuestionIds.includes(id) : (remote.wrongQuestionIds || []).includes(id);
+  });
+  const union = (a: string[] = [], b: string[] = []) => Array.from(new Set([...a, ...b]));
+  return {
+    ...remote,
+    ...local,
+    solvedQuestions: solved,
+    correctQuestionIds: correct,
+    wrongQuestionIds: wrong,
+    completedSubtopicIds: union(local.completedSubtopicIds, remote.completedSubtopicIds),
+    weakSubtopicIds: union(local.weakSubtopicIds, remote.weakSubtopicIds).filter(
+      id => !union(local.completedSubtopicIds, remote.completedSubtopicIds).includes(id)
+    ),
+    lastStudiedTimestamp: Math.max(local.lastStudiedTimestamp || 0, remote.lastStudiedTimestamp || 0) || undefined
+  };
+};
+
 const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
@@ -94,6 +123,40 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
       console.warn('Failed to save to localStorage:', e);
     }
   }, [userStats]);
+
+  // Bulut senkronu (yalnızca Supabase ayarlı ve kullanıcı giriş yapmışsa)
+  const auth = useAuth();
+  const syncedFor = useRef<string | null>(null);
+  useEffect(() => {
+    const uid = auth.user?.id;
+    if (!supabase || !uid) {
+      syncedFor.current = null;
+      return;
+    }
+    let alive = true;
+    supabase
+      .from('progress')
+      .select('data')
+      .eq('user_id', uid)
+      .maybeSingle()
+      .then(({ data, error }) => {
+        if (!alive || error) return;
+        setUserStats(local => mergeStats(local, (data?.data as UserStats) || null));
+        syncedFor.current = uid;
+      });
+    return () => {
+      alive = false;
+    };
+  }, [auth.user?.id]);
+
+  useEffect(() => {
+    const uid = auth.user?.id;
+    if (!supabase || !uid || syncedFor.current !== uid) return;
+    const t = setTimeout(() => {
+      supabase!.from('progress').upsert({ user_id: uid, data: userStats, updated_at: new Date().toISOString() }).then(() => {});
+    }, 1500);
+    return () => clearTimeout(t);
+  }, [userStats, auth.user?.id]);
 
   // Audio state
   const [audioState, setAudioState] = useState<AudioPlaybackState>({
