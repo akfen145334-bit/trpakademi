@@ -3168,13 +3168,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Oğuz Türklerinin destansı hikâyelerini içeren, 'Dede Korkut' adıyla anılan eser hangi tür kapsamındadır?",
             "options": [
               "A) Gazete yazısı",
-              "B) Tiyatro oyunu A. Gazete yazısı değildir. B. Doğru: Dede Korkut Hikâyeleri, Oğuz destan geleneğinin ürünüdür. C. Roman modern bir türdür. D. Divan şiiri farklı bir edebiyat koludur. E. Tiyatro oyunu değildir.",
+              "B) Tiyatro oyunu",
               "C) Roman",
               "D) Divan şiiri",
-              "E) Halk hikâyesi / destan ✓"
+              "E) Halk hikâyesi / destan"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Dede Korkut Hikâyeleri, Oğuz destan geleneğinin ürünüdür.",
             "difficulty": "orta"
           },
           {
@@ -3183,14 +3183,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turktarihi",
             "questionText": "Bozkurt (Ergenekon) Destanı hangi Türk topluluğuyla ilişkilendirilir?",
             "options": [
-              "A) Göktürkler ✓",
+              "A) Göktürkler",
               "B) Karahanlılar",
               "C) Selçuklular",
               "D) Osmanlılar",
-              "E) Memlükler A. Selçuklular farklı anlatılara sahiptir. B. Karahanlılar İslami dönem eserleriyle anılır. C. Doğru: Bozkurt/Ergenekon Destanı Göktürklerle ilişkilendirilir. D. Osmanlılar destan değil, kroniklerle anılır. E. Memlükler farklı bir devlettir."
+              "E) Memlükler"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Bozkurt/Ergenekon Destanı Göktürklerle ilişkilendirilir.",
             "difficulty": "orta"
           },
           {
@@ -3200,13 +3200,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "İnce zekâsı ve nükteli fıkralarıyla Türk halk kültürünün simgesi hâline gelen mizah kahramanı kimdir?",
             "options": [
               "A) Köroğlu",
-              "B) Dede Korkut A. Köroğlu kahramanlık hikâyesi kahramanıdır. B. Doğru: Nasreddin Hoca, nükteli fıkralarıyla ünlü mizah kahramanıdır. C. Karagöz gölge oyunu kahramanıdır. D. Keloğlan masal kahramanıdır. E. Dede Korkut destan anlatıcısıdır.",
+              "B) Dede Korkut",
               "C) Karagöz",
               "D) Keloğlan",
-              "E) Nasreddin Hoca ✓"
+              "E) Nasreddin Hoca"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Nasreddin Hoca, nükteli fıkralarıyla ünlü mizah kahramanıdır.",
             "difficulty": "orta"
           },
           {
@@ -3216,13 +3216,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Havlı (ilmekli) dokuma ürünü olan ve düğümleriyle tanınan geleneksel Türk el sanatı ürünü aşağıdakilerden hangisidir?",
             "options": [
               "A) Sumak",
-              "B) Halı ✓",
+              "B) Halı",
               "C) Keçe",
               "D) Cicim",
-              "E) Kilim A. Sumak düz dokuma tekniğidir. B. Doğru: Halı, düğümlü/havlı (ilmekli) dokuma ürünüdür. C. Keçe basma yöntemiyle üretilir, dokuma değildir. D. Cicim düz dokuma türüdür. E. Kilim havsız (düz) dokumadır."
+              "E) Kilim"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Halı, düğümlü/havlı (ilmekli) dokuma ürünüdür.",
             "difficulty": "orta"
           },
           {
@@ -4875,11 +4875,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turktarihi",
             "questionText": "Malazgirt Savaşı (1071) hangi Selçuklu hükümdarı ile Bizans arasında olmuştur?",
             "options": [
-              "A) Çağrı Bey, Büyük Selçuklu'nun kurucularından biri",
-              "B) Tuğrul Bey, Büyük Selçuklu'nun ilk sultanı olan hükümdar",
-              "C) Sultan Sencer, Büyük Selçuklu'nun son büyük sultanı olan hükümdar",
-              "D) Melikşah, Büyük Selçuklu'nun Nizamülmülk'le çalıştığı sultan",
-              "E) Alp Arslan M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru"
+              "A) Çağrı Bey",
+              "B) Tuğrul Bey",
+              "C) Sultan Sencer",
+              "D) Melikşah",
+              "E) Alp Arslan"
             ],
             "correctIndex": 4,
             "explanation": "Malazgirt'i Alp Arslan kazanmıştır.",
@@ -9298,9 +9298,9 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Hollanda",
               "B) Brezilya",
-              "C) Mısır",
-              "D) Orta Asya ve Anadolu ✓ A. Hollanda laleyle ünlüdür ama anavatanı değildir. B. Brezilya tropik bir ülkedir. C. Mısır lale anavatanı değildir. D. Japonya lale anavatanı değildir. E. Doğru: Lalenin anavatanı Orta Asya ve Anadolu'dur; Avrupa'ya buradan yayılmıştır.",
-              "E) Japonya"
+              "C) Japonya",
+              "D) Orta Asya ve Anadolu",
+              "E) Mısır"
             ],
             "correctIndex": 3,
             "explanation": "Konu anlatımına bakınız.",
@@ -14167,14 +14167,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Duvar resimleri, birbirine bitişik evleri ve ilk şehircilik örnekleriyle ünlü, Konya'daki Neolitik yerleşim aşağıdakilerden hangisidir?",
             "options": [
-              "A) Çatalhöyük ✓",
+              "A) Çatalhöyük",
               "B) Karain",
               "C) Göbeklitepe",
               "D) Troya",
-              "E) Kültepe A. Troya Çanakkale'de Tunç Çağı kentidir. B. Karain Antalya'da bir Paleolitik mağaradır. C. Göbeklitepe Şanlıurfa'da bir tapınak alanıdır, yerleşim/şehir örneği değildir. D. Doğru: Çatalhöyük (Konya), bitişik evleri ve duvar resimleriyle ilk şehircilik örneklerindendir. E. Kültepe Kayseri'de Asur ticaret kolonileri merkezidir (çok daha geç)."
+              "E) Kültepe"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Çatalhöyük (Konya), bitişik evleri ve duvar resimleriyle ilk şehircilik örneklerindendir.",
             "difficulty": "orta"
           },
           {
@@ -14184,13 +14184,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "İlk köy yerleşimlerinden biri olan ve bakırın işlenmeye başladığı, Diyarbakır'daki Neolitik merkez aşağıdakilerden hangisidir?",
             "options": [
               "A) Gordion",
-              "B) Çayönü ✓ A. Gordion Friglerin başkentidir, çok daha geç dönem. B. İkiztepe Samsun'da bir prehistorik merkezdir. C. Beycesultan Denizli'de Tunç Çağı yerleşimidir. D. Aşıklı Höyük Aksaray'da bir Neolitik yerleşimdir ama bu tanım Çayönü'ne aittir. E. Doğru: Çayönü (Diyarbakır), erken köy yerleşimi ve bakır işçiliğinin ilk örnekleriyle bilinir.",
+              "B) Çayönü",
               "C) Beycesultan",
               "D) Aşıklı Höyük",
               "E) İkiztepe"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Çayönü (Diyarbakır), erken köy yerleşimi ve bakır işçiliğinin ilk örnekleriyle bilinir.",
             "difficulty": "orta"
           },
           {
@@ -14201,12 +14201,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Tunç Çağı",
               "B) Demir Çağı",
-              "C) Neolitik ✓",
+              "C) Neolitik",
               "D) Paleolitik",
-              "E) Mezolitik A. Tunç Çağı maden alaşımının kullanıldığı çok daha geç dönemdir. B. Demir Çağı demir işçiliğinin yaygınlaştığı dönemdir. C. Doğru: Neolitik (Cilalı Taş) Çağı'nda tarım ve hayvancılıkla üretimciliğe geçilmiştir. D. Paleolitik avcı-toplayıcı, yontma taş dönemidir; üretim yoktur. E. Mezolitik geçiş (orta taş) dönemidir."
+              "E) Mezolitik"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Neolitik (Cilalı Taş) Çağı'nda tarım ve hayvancılıkla üretimciliğe geçilmiştir.",
             "difficulty": "orta"
           },
           {
@@ -14218,11 +14218,11 @@ export const COURSES_DATA: Course[] = [
               "A) Norşuntepe",
               "B) Yumuktepe",
               "C) Arslantepe",
-              "D) Aşıklı Höyük ✓",
-              "E) Küllüoba A. Norşuntepe Elazığ çevresindedir. B. Yumuktepe Mersin'dedir. C. Doğru: Aşıklı Höyük (Aksaray), Orta Anadolu'nun erken Neolitik yerleşimlerindendir. D. Arslantepe Malatya'dadır. E. Küllüoba Eskişehir'dedir."
+              "D) Aşıklı Höyük",
+              "E) Küllüoba"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Aşıklı Höyük (Aksaray), Orta Anadolu'nun erken Neolitik yerleşimlerindendir.",
             "difficulty": "orta"
           },
           {
@@ -14567,14 +14567,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Anadolu'nun birçok medeniyete beşiklik etmesinin temel nedeni aşağıdakilerden hangisidir?",
             "options": [
-              "A) Elverişli iklim, verimli topraklar ve göç/ticaret yolları üzerinde olması ✓",
+              "A) Elverişli iklim, verimli topraklar ve göç/ticaret yolları üzerinde olması",
               "B) Denizden tamamen yalıtılmış olması",
               "C) Tamamen çöl olması",
               "D) Sürekli buzullarla kaplı olması",
-              "E) Hiç akarsuyunun olmaması A. Anadolu çöl değildir. B. Denizlerle çevrilidir, yalıtılmış değildir. C. Doğru: Elverişli iklim, verimli topraklar ve yol/ticaret kavşağı konumu Anadolu'yu medeniyet beşiği yapmıştır. D. Buzullarla kaplı değildir. E. Çok sayıda akarsuyu vardır."
+              "E) Hiç akarsuyunun olmaması"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Elverişli iklim, verimli topraklar ve yol/ticaret kavşağı konumu Anadolu'yu medeniyet beşiği yapmıştır.",
             "difficulty": "orta"
           }
         ],
@@ -15397,14 +15397,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Hatti dönemine ait güneş kursu ve standartlarıyla ünlü, Çorum'daki höyük aşağıdakilerden hangisidir?",
             "options": [
-              "A) Alacahöyük ✓",
+              "A) Alacahöyük",
               "B) Beycesultan",
               "C) Milet",
               "D) Hacılar",
-              "E) Truva A. Milet İyonya kentidir. B. Beycesultan Denizli'dedir. MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru C. Doğru: Alacahöyük (Çorum), Hatti dönemi güneş kursları ve standartlarıyla ünlüdür. D. Hacılar Burdur'dadır, güneş kursuyla anılmaz. E. Truva Çanakkale'dedir."
+              "E) Truva"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Alacahöyük (Çorum), Hatti dönemi güneş kursları ve standartlarıyla ünlüdür.",
             "difficulty": "orta"
           },
           {
@@ -15415,12 +15415,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Milet",
               "B) Assos",
-              "C) Troya (Troia) ✓ A. Milet bir İyon kentidir. B. Assos Çanakkale'de olsa da farklı bir antik kenttir (Aristoteles). C. Foça (Phokaia) bir İyon kentidir. D. Bergama Helenistik dönem kentidir. E. Doğru: Troya (Çanakkale), dokuz katmanlı höyüğü ve Schliemann kazılarıyla ünlüdür.",
+              "C) Troya (Troia)",
               "D) Bergama",
               "E) Foça"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Troya (Çanakkale), dokuz katmanlı höyüğü ve Schliemann kazılarıyla ünlüdür.",
             "difficulty": "orta"
           },
           {
@@ -15589,14 +15589,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Alacahöyük'ten çıkan ve bugün Ankara'nın da sembolü olan Hatti dönemi eseri aşağıdakilerden hangisidir?",
             "options": [
-              "A) Güneş Kursu ✓ A. Elektron sikke Lidyalılara aittir. B. Fibula Friglere ait çengelli iğnedir. C. Balbal eski Türk mezar taşıdır. D. Kral Yolu bir ticaret yoludur, eser değildir. E. Doğru: Alacahöyük Güneş Kursu, Hatti dönemine ait olup Ankara'nın simgesidir.",
+              "A) Güneş Kursu",
               "B) Fibula",
               "C) Balbal",
               "D) Kral Yolu",
               "E) Elektron sikke"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Alacahöyük Güneş Kursu, Hatti dönemine ait olup Ankara'nın simgesidir.",
             "difficulty": "orta"
           },
           {
@@ -16212,13 +16212,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Asurlu tüccarların kurduğu ticaret kolonileriyle ve Anadolu'nun ilk yazılı belgeleriyle (tabletler) ünlü, Kayseri'deki merkez aşağıdakilerden hangisidir?",
             "options": [
               "A) Efes",
-              "B) Kültepe (Kaniş-Karum) ✓",
+              "B) Kültepe (Kaniş-Karum)",
               "C) Gordion",
               "D) Sardes",
-              "E) Hattuşa A. Efes İyonya kentidir. B. Gordion Frig başkentidir. C. Doğru: Kültepe-Kaniş (Kayseri), Asur ticaret kolonilerinin ve Anadolu'daki ilk yazılı belgelerin merkezidir. D. Sardes Lidya başkentidir. E. Hattuşa Hitit başkentidir."
+              "E) Hattuşa"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Kültepe-Kaniş (Kayseri), Asur ticaret kolonilerinin ve Anadolu'daki ilk yazılı belgelerin merkezidir.",
             "difficulty": "orta"
           },
           {
@@ -16230,11 +16230,11 @@ export const COURSES_DATA: Course[] = [
               "A) Frig alfabesi",
               "B) Lidya sikkeleri",
               "C) Urartu kanalları",
-              "D) Asur Ticaret Kolonileri (Kültepe tabletleri) ✓",
-              "E) İyon felsefesi A. Doğru: Anadolu'da yazı, Asur ticaret kolonileri döneminde (Kültepe tabletleri) kullanılmaya başlanmıştır. B. Lidya sikkeleri ekonomiyle ilgilidir, yazının başlangıcı değil. C. Urartu kanalları sulamayla ilgilidir. D. Frig alfabesi daha geç dönemdir. E. İyon felsefesi çok daha sonraki bir gelişmedir."
+              "D) Asur Ticaret Kolonileri (Kültepe tabletleri)",
+              "E) İyon felsefesi"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Anadolu'da yazı, Asur ticaret kolonileri döneminde (Kültepe tabletleri) kullanılmaya başlanmıştır.",
             "difficulty": "orta"
           },
           {
@@ -17701,12 +17701,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Amasya",
               "B) Kırşehir",
-              "C) Çorum ✓",
+              "C) Çorum",
               "D) Tokat",
-              "E) Yozgat A. Amasya farklı bir bölgededir. B. Kırşehir farklı bir ildir. C. Doğru: Hattuşa (Boğazköy), Çorum ilindedir. D. Tokat farklı bir ildir. E. Yozgat komşu ildir ama Hattuşa Çorum'dadır."
+              "E) Yozgat"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Hattuşa (Boğazköy), Çorum ilindedir.",
             "difficulty": "orta"
           },
           {
@@ -17715,14 +17715,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Hitit Devleti'nde yönetimde etkili olan, kraliçeye verilen unvan aşağıdakilerden hangisidir?",
             "options": [
-              "A) Labarna A. Doğru: Tavananna, Hitit kraliçesine verilen ve yönetimde etkili olan unvandır. B. Tabarna/Labarna krala verilen unvandır. C. Tudhaliya bir Hitit kral adıdır. D. Telipinu bir Hitit kralı/tanrısıdır. E. Labarna krala verilen unvandır.",
+              "A) Labarna",
               "B) Tabarna",
               "C) Tudhaliya",
               "D) Telipinu",
-              "E) Tavananna ✓"
+              "E) Tavananna"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Tavananna, Hitit kraliçesine verilen ve yönetimde etkili olan unvandır.",
             "difficulty": "orta"
           },
           {
@@ -17734,11 +17734,11 @@ export const COURSES_DATA: Course[] = [
               "A) Sfenksli Kapı",
               "B) Aslanlı Kapı",
               "C) Yer Kapı",
-              "D) İştar Kapısı ✓ A. Sfenksli Kapı Hattuşa'nın kapılarındandır. B. Aslanlı Kapı Hattuşa'nın kapılarındandır. C. Yer Kapı Hattuşa surlarındaki geçittir. D. Kral Kapı Hattuşa'nın kapılarındandır. E. Doğru: İştar Kapısı Babil'e aittir; Hattuşa'nın kapısı değildir.",
+              "D) İştar Kapısı",
               "E) Kral Kapı"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İştar Kapısı Babil'e aittir; Hattuşa'nın kapısı değildir.",
             "difficulty": "orta"
           },
           {
@@ -17940,13 +17940,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Hititlerin olayları abartmadan, yenilgilerini de yazarak kaydettikleri yıllıklara (tarih yazıcılığı) ne ad verilir?",
             "options": [
               "A) Menakıbname",
-              "B) Anal ✓ A. Menakıbname evliya menkıbeleridir. B. Surname Osmanlı şenlik kitabıdır. C. Siyer Hz. Muhammed'in hayatını anlatan eserdir. D. Şehname Firdevsî'nin destansı eseridir. E. Doğru: Anal, Hititlerin objektif tarih anlayışını yansıtan yıllıklardır. MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru",
+              "B) Anal",
               "C) Siyer",
               "D) Şehname",
               "E) Surname"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Anal, Hititlerin objektif tarih anlayışını yansıtan yıllıklardır.",
             "difficulty": "orta"
           }
         ],
@@ -20518,7 +20518,7 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Friglerin başkenti ve ana tanrıçası aşağıdakilerin hangisinde doğrudur?",
             "options": [
               "A) Hattuşa - Arinna",
-              "B) Sardes - Artemis M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru",
+              "B) Sardes - Artemis",
               "C) Tuşpa - Haldi",
               "D) Milet - Athena",
               "E) Gordion - Kibele"
@@ -20598,13 +20598,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Ana Tanrıça (bereket) kültünün en erken izlerinden sayılan oturan kadın figürini hangi Neolitik yerleşimle özdeşleşmiştir?",
             "options": [
               "A) Gordion",
-              "B) Sardes A. Gordion Frig başkentidir. B. Doğru: Çatalhöyük'te bulunan oturan Ana Tanrıça figürini bereket kültünün erken örneğidir. C. Troya Tunç Çağı kentidir; Ana Tanrıça figürini onunla özdeşleşmez. D. Tuşpa Urartu başkentidir. E. Sardes Lidya başkentidir.",
+              "B) Sardes",
               "C) Troya",
               "D) Tuşpa",
-              "E) Çatalhöyük ✓"
+              "E) Çatalhöyük"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Çatalhöyük'te bulunan oturan Ana Tanrıça figürini bereket kültünün erken örneğidir.",
             "difficulty": "orta"
           },
           {
@@ -20614,13 +20614,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Hitit kültürünün temelini oluşturan, Anadolu'nun yerli halkı aşağıdakilerden hangisidir?",
             "options": [
               "A) Persler",
-              "B) Hattiler ✓",
+              "B) Hattiler",
               "C) İyonlar",
               "D) Dorlar",
-              "E) Frigler A. Doğru: Hattiler, Hitit kültürünün temelini oluşturan yerli Anadolu halkıdır. B. Persler İran kökenlidir. C. İyonlar Batı Anadolu kıyısına yerleşmiştir. D. Dorlar Yunanistan'dan gelen bir kavimdir. E. Frigler Hititlerden sonra gelmiştir."
+              "E) Frigler"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Hattiler, Hitit kültürünün temelini oluşturan yerli Anadolu halkıdır.",
             "difficulty": "orta"
           },
           {
@@ -20629,14 +20629,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Hitit dininin çok tanrılı yapısı nedeniyle Anadolu için kullanılan ifade ve Hattuşa yakınındaki açık hava tapınağı aşağıdakilerin hangisinde doğru verilmiştir?",
             "options": [
-              "A) Bin Tanrılı İl - Yazılıkaya ✓ A. Sardes Lidya başkentidir, Hitit tapınağı değildir. B. Milet İyon kentidir. C. Tuşpa Urartu başkentidir. D. Hititler tek tanrılı değildir; Gordion Frig başkentidir. E. Doğru: Hitit ülkesi 'Bin Tanrılı İl' olarak anılır; açık hava tapınağı Yazılıkaya'dır.",
+              "A) Bin Tanrılı İl - Yazılıkaya",
               "B) Tanrısız Ülke - Milet",
               "C) Güneş Ülkesi - Tuşpa",
               "D) Tek Tanrılı Ülke - Gordion",
               "E) Bin Tanrılı İl - Sardes"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Hitit ülkesi 'Bin Tanrılı İl' olarak anılır; açık hava tapınağı Yazılıkaya'dır.",
             "difficulty": "orta"
           },
           {
@@ -20647,12 +20647,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Kibele",
               "B) Haldi",
-              "C) Teşup ✓",
+              "C) Teşup",
               "D) Zeus",
-              "E) Şivini A. Kibele Friglerin ana tanrıçasıdır. B. Haldi Urartuların baş tanrısıdır. C. Zeus Yunan baş tanrısıdır. D. Doğru: Teşup, Hititlerin fırtına/gök baş tanrısıdır. E. Şivini Urartu güneş tanrısıdır."
+              "E) Şivini"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Teşup, Hititlerin fırtına/gök baş tanrısıdır.",
             "difficulty": "orta"
           },
           {
@@ -20661,14 +20661,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Friglerin başkenti aşağıdakilerden hangisidir?",
             "options": [
-              "A) Efes, Ege kıyısında kurulmuş, Artemis Tapınağı ve Celsus Kütüphanesi ile ünlü bir İyon kentidir; Frigya'nın başkentliğini yapmamış, Anadolu'da bu dönemde bir Frig merkezi olarak kabul edilmemiştir.",
-              "B) Hattuşa, Boğazkale yakınlarında bulunan ve Hitit İmparatorluğu'nun başkenti olan, surları ve kral kapılarıyla ünlü bir antik kenttir; Frigya'nın başkenti değildir ve Frig dönemine ait bir yerleşim olarak sayılmaz.",
-              "C) Sardes, Manisa'nın Salihli ilçesinde yer alan, Lidya Krallığı'nın başkenti olarak bilinen ve Artemis Tapınağı ile ünlü bir antik kenttir; Frigya'nın başkenti sayılmaz, Frigler bu kenti yönetmemiştir.",
-              "D) Tuşpa, Van Gölü kıyısında kurulan ve Urartu Krallığı'nın başkenti olarak bilinen, kaya kitabeleri ve kale yapılarıyla tanınan bir yerleşimdir; Frigya ile bir ilgisi bulunmaz ve Frigler tarafından yönetilmemiştir.",
-              "E) Gordion ✓ A. Efes bir İyon kentidir. B. Hattuşa Hitit başkentidir. C. Sardes Lidya başkentidir. D. Tuşpa Urartu başkentidir. E. Doğru: Friglerin başkenti Gordion'dur (Polatlı/Ankara)."
+              "A) Efes",
+              "B) Hattuşa",
+              "C) Sardes",
+              "D) Tuşpa",
+              "E) Gordion"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Friglerin başkenti Gordion'dur (Polatlı/Ankara).",
             "difficulty": "orta"
           },
           {
@@ -20679,12 +20679,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Dolmen",
               "B) Stel",
-              "C) Tümülüs ✓",
+              "C) Tümülüs",
               "D) Lahit",
-              "E) Nekropol A. Dolmen megalitik taş mezardır. B. Doğru: Tümülüs, Friglerde görülen yığma toprak anıt mezardır (Midas Tümülüsü). C. Stel dikili yazıtlı taştır. D. Lahit taş sandık biçimli mezardır. E. Nekropol genel mezarlık alanıdır."
+              "E) Nekropol"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Tümülüs, Friglerde görülen yığma toprak anıt mezardır (Midas Tümülüsü).",
             "difficulty": "orta"
           },
           {
@@ -20693,14 +20693,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Eskişehir çevresindeki 'Midas Kenti / Yazılıkaya' kaya anıtları hangi uygarlığa aittir?",
             "options": [
-              "A) Hititler A. Doğru: Eskişehir'deki kaya anıtları (Midas Anıtı) Friglere aittir. B. Lidya sanatı Sardes çevresindedir. C. İyon sanatı kıyı kentlerindedir. D. Urartu kaya işçiliği Doğu Anadolu'dadır. E. Hitit Yazılıkaya'sı Çorum'dadır (farklı yapı).",
+              "A) Hititler",
               "B) Lidyalılar",
               "C) İyonlar",
               "D) Urartular",
-              "E) Frigler ✓"
+              "E) Frigler"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Eskişehir'deki kaya anıtları (Midas Anıtı) Friglere aittir.",
             "difficulty": "orta"
           },
           {
@@ -20709,14 +20709,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Friglerde dokumacılık ileri düzeydeydi; onlara mal edilen ünlü dokuma ürünü aşağıdakilerden hangisidir?",
             "options": [
-              "A) Tapates (halı-kilim) ✓",
+              "A) Tapates (halı-kilim)",
               "B) Cam boncuk",
               "C) İpek",
               "D) Porselen",
-              "E) Papirüs A. Porselen Çin'e özgüdür. B. Cam boncuk Fenikelilerle anılır. C. İpek Çin kökenlidir. D. Doğru: Tapates, Friglere mal edilen halı/kilim türü dokumadır. E. Papirüs Mısır'da yazı malzemesidir. MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru"
+              "E) Papirüs"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Tapates, Friglere mal edilen halı/kilim türü dokumadır.",
             "difficulty": "orta"
           },
           {
@@ -20726,13 +20726,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Urartuların başkenti aşağıdakilerden hangisidir?",
             "options": [
               "A) Milet",
-              "B) Tuşpa (Van) ✓",
+              "B) Tuşpa (Van)",
               "C) Sardes",
               "D) Gordion",
-              "E) Hattuşa A. Milet İyon kentidir. B. Sardes Lidya başkentidir. C. Doğru: Urartuların başkenti Tuşpa'dır (Van). D. Gordion Frig başkentidir. E. Hattuşa Hitit başkentidir."
+              "E) Hattuşa"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Urartuların başkenti Tuşpa'dır (Van).",
             "difficulty": "orta"
           },
           {
@@ -20741,14 +20741,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Urartuların baş tanrısı aşağıdakilerden hangisidir?",
             "options": [
-              "A) Teşup, Hitit ve Hurri inanç sisteminde fırtına ve hava tanrısı olarak bilinen, Hitit baş tanrısı kabul edilen bir ilahtır; Urartu panteonunda baş tanrı olarak yer almaz ve kült merkezi Van çevresinde değildir.",
-              "B) Zeus, Yunan mitolojisinde gök ve şimşek tanrısı olarak tapınılan Olympos'un baş tanrısıdır; Urartu inancında kendine özgü bir yer bulunmaz ve kült merkezi Anadolu'nun doğusundaki bu krallıkta değildir.",
-              "C) Haldi ✓ A. Teşup Hitit baş tanrısıdır. B. Zeus Yunan baş tanrısıdır. C. Kibele Frig ana tanrıçasıdır. D. Marduk Babil baş tanrısıdır. E. Doğru: Haldi, Urartuların baş (savaş) tanrısıdır.",
-              "D) Marduk, Babil şehir devletinin koruyucu tanrısı olarak bilinen, Enuma Elish destanında yüceltilen baş tanrıdır; Urartu panteonunda yer almaz ve Van Gölü çevresindeki tapınaklarda da adı geçmez.",
-              "E) Kibele, Frig inancında doğurganlığı simgeleyen ana tanrıça olarak tapınılan, Anadolu kökenli bir ilahtır; Urartu'nun baş tanrısı değildir, kült merkezi Frigya'dadır ve dağ tanrıçası olarak bilinir."
+              "A) Teşup",
+              "B) Zeus",
+              "C) Haldi",
+              "D) Marduk",
+              "E) Kibele"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Haldi, Urartuların baş (savaş) tanrısıdır.",
             "difficulty": "orta"
           },
           {
@@ -20760,11 +20760,11 @@ export const COURSES_DATA: Course[] = [
               "A) Cam üfleme",
               "B) Papirüs üretimi",
               "C) İpek dokuma",
-              "D) Maden işçiliği ve kale mimarisi ✓",
-              "E) Porselen A. Cam üfleme Roma dönemiyle yaygınlaşmıştır. B. Doğru: Urartular maden işçiliği, kaleleri ve su kanallarıyla ünlüdür. C. İpek Çin'e özgüdür. D. Papirüs Mısır'a özgüdür. E. Porselen Çin'e özgüdür."
+              "D) Maden işçiliği ve kale mimarisi",
+              "E) Porselen"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Urartular maden işçiliği, kaleleri ve su kanallarıyla ünlüdür.",
             "difficulty": "orta"
           },
           {
@@ -20776,11 +20776,11 @@ export const COURSES_DATA: Course[] = [
               "A) Marmara",
               "B) Ege kıyıları",
               "C) Çukurova",
-              "D) Trakya MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru A. Marmara farklı bir bölgedir. B. Ege kıyıları İyonların bölgesidir. C. Çukurova Akdeniz'dedir. D. Doğru: Urartular Doğu Anadolu'da, Van Gölü çevresinde egemen olmuştur. E. Trakya farklı bir bölgedir.",
-              "E) Doğu Anadolu (Van Gölü çevresi) ✓"
+              "D) Trakya",
+              "E) Doğu Anadolu (Van Gölü çevresi)"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Urartular Doğu Anadolu'da, Van Gölü çevresinde egemen olmuştur.",
             "difficulty": "orta"
           },
           {
@@ -20789,14 +20789,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Urartuların yazı olarak kullandığı sistem aşağıdakilerden hangisidir?",
             "options": [
-              "A) Çivi yazısı (Asur'dan alınan) ✓",
+              "A) Çivi yazısı (Asur'dan alınan)",
               "B) Latin alfabesi",
               "C) Fenike alfabesi",
               "D) Hiyeroglif",
-              "E) Runik yazı A. Latin alfabesi çok daha geç dönemdir. B. Doğru: Urartular çivi yazısını (Asur etkisiyle) kullanmıştır. C. Fenike alfabesi harf yazısının atasıdır ama Urartu çivi yazısı kullanmıştır. D. Hiyeroglif Mısır ve Luvi yazısıdır. E. Runik yazı eski Türklere aittir (Orhun)."
+              "E) Runik yazı"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Urartular çivi yazısını (Asur etkisiyle) kullanmıştır.",
             "difficulty": "orta"
           },
           {
@@ -20806,13 +20806,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Urartuların kayalara oyduğu anıtsal mezarları ve sarp kaleleri hangi ihtiyaçla ilişkilendirilir?",
             "options": [
               "A) Çöl tarımı",
-              "B) Savunma ve dağlık coğrafyaya uyum ✓",
+              "B) Savunma ve dağlık coğrafyaya uyum",
               "C) Ada yerleşimi",
               "D) Buzul avcılığı",
-              "E) Deniz ticareti A. Doğru: Urartu kale/kaya mimarisi dağlık coğrafyaya uyum ve savunmayla ilişkilidir. B. Çöl tarımı bölgeleriyle örtüşmez. C. Ada yerleşimi coğrafyalarına uymaz. D. Buzul avcılığı ilgisizdir. E. Deniz ticareti Urartuların ana uğraşı değildir."
+              "E) Deniz ticareti"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Urartu kale/kaya mimarisi dağlık coğrafyaya uyum ve savunmayla ilişkilidir.",
             "difficulty": "orta"
           },
           {
@@ -20821,14 +20821,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Lidyalıların başkenti aşağıdakilerden hangisidir?",
             "options": [
-              "A) Milet, Ege kıyısında yer alan İyon kentleri arasında en önemli ticaret ve düşünce merkezlerinden biridir; Lidya krallarının yönetim merkezi olmamış, İyonya'nın bir kenti olarak Lidya başkentliğini yapmamıştır.",
-              "B) Tuşpa, Van Gölü kıyısında kurulmuş ve Urartu Krallığı'nın başkenti olarak bilinen bir merkezdir; Lidya Krallığı'na ait olmamış, Lidya kralları Tuşpa'yı yönetmemiş ve Lidya tarihinde bir rol oynamamıştır.",
-              "C) Sardes ✓ A. Milet bir İyon kentidir. B. Tuşpa Urartu başkentidir. C. Efes bir İyon kentidir. D. Gordion Frig başkentidir. E. Doğru: Lidyalıların başkenti Sardes'tir.",
-              "D) Gordion, Frigya krallarının başkenti olarak bilinen, Midas Tümülüsü ile ünlü bir Anadolu yerleşimidir; Lidyalıların başkenti olmamış, Lidya krallığının yönetim merkezi olarak kabul edilmemiştir.",
-              "E) Efes, İzmir'in Selçuk ilçesi yakınında bulunan, Artemis Tapınağı ve Celsus Kütüphanesi ile ünlü İyon kentidir; Lidyalıların başkenti değildir, Lidya yönetimi tarafından kurulmamıştır ve bu krallığın merkezi sayılmaz."
+              "A) Milet",
+              "B) Tuşpa",
+              "C) Sardes",
+              "D) Gordion",
+              "E) Efes"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Lidyalıların başkenti Sardes'tir.",
             "difficulty": "orta"
           },
           {
@@ -20840,11 +20840,11 @@ export const COURSES_DATA: Course[] = [
               "A) Urartular",
               "B) Persler",
               "C) Hititler",
-              "D) Lidyalılar ✓",
-              "E) Frigler A. Urartular maden/kanal ile anılır. B. Persler satraplık sistemiyle anılır. C. Doğru: Lidyalılar, elektron sikkeyle ilk parayı kullanan uygarlıktır. D. Hititler ilk yazılı antlaşma ile anılır. E. Frigler tümülüs ve fibula ile anılır. MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru"
+              "D) Lidyalılar",
+              "E) Frigler"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Lidyalılar, elektron sikkeyle ilk parayı kullanan uygarlıktır.",
             "difficulty": "orta"
           },
           {
@@ -20856,11 +20856,11 @@ export const COURSES_DATA: Course[] = [
               "A) Demir",
               "B) Bakır-kalay",
               "C) Kurşun",
-              "D) Bronz A. Demir para malzemesi değildir. B. Bakır-kalay bronzu verir, elektron değil. C. Kurşun kullanılmamıştır. D. Doğru: İlk sikkeler altın-gümüş alaşımı olan elektrondan yapılmıştır. E. Bronz bakır-kalay alaşımıdır, ilk sikke değil.",
-              "E) Elektron (altın-gümüş) ✓"
+              "D) Bronz",
+              "E) Elektron (altın-gümüş)"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İlk sikkeler altın-gümüş alaşımı olan elektrondan yapılmıştır.",
             "difficulty": "orta"
           },
           {
@@ -20869,14 +20869,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Lidya Devleti'nin yıkılmasında etkili olan, ücretli (paralı) askere dayanma politikasının başlıca sakıncası neydi?",
             "options": [
-              "A) Sadakatsizlik ve para bitince ordunun dağılması ✓",
+              "A) Sadakatsizlik ve para bitince ordunun dağılması",
               "B) Denizde savaşamamaları",
               "C) Sürekli isyan çıkarmaları",
               "D) Silahsız olmaları",
-              "E) Askerlerin çok yavaş olması A. Denizcilik Lidya'nın ana zaafı olarak anılmaz. B. Doğru: Paralı ordu, sadakat zayıflığı ve para tükenince dağılma riski taşır; Lidya Perslere yenildi. C. Sürekli isyan temel neden değildir. D. Silahsızlık söz konusu değildir. E. Hız temel sorun değildir."
+              "E) Askerlerin çok yavaş olması"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Paralı ordu, sadakat zayıflığı ve para tükenince dağılma riski taşır; Lidya Perslere yenildi.",
             "difficulty": "orta"
           },
           {
@@ -20887,12 +20887,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Denizaşırı sömürgeler kurmaları",
               "B) Buzul ticareti yapmaları",
-              "C) Kral Yolu üzerinde/uç noktasında bulunmaları ✓",
-              "D) Çöl kervanlarına sahip olmaları MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru",
-              "E) Nehir taşımacılığını yasaklamaları A. Denizaşırı sömürgecilik Lidya'nın öne çıkan yanı değildir. B. Doğru: Lidya, Sardes'ten başlayan Kral Yolu bağlantısıyla ticarette öne çıkmıştır. C. Buzul ticareti gibi bir uğraş yoktur. D. Çöl kervanları Lidya coğrafyasına uymaz. E. Nehir taşımacılığını yasaklama gibi bir politika yoktur."
+              "C) Kral Yolu üzerinde/uç noktasında bulunmaları",
+              "D) Çöl kervanlarına sahip olmaları",
+              "E) Nehir taşımacılığını yasaklamaları"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Lidya, Sardes'ten başlayan Kral Yolu bağlantısıyla ticarette öne çıkmıştır.",
             "difficulty": "orta"
           },
           {
@@ -20904,11 +20904,11 @@ export const COURSES_DATA: Course[] = [
               "A) Güneydoğu Anadolu",
               "B) Doğu Anadolu",
               "C) Karadeniz iç kesimleri",
-              "D) Batı Anadolu (Ege) kıyıları ✓",
-              "E) İç Anadolu A. Güneydoğu farklı uygarlıkların alanıdır. B. Doğu Anadolu Urartu bölgesidir. C. Doğru: İyonlar Batı Anadolu (Ege) kıyılarına yerleşip polisler kurmuştur. D. Karadeniz iç kesimleri İyon bölgesi değildir. E. İç Anadolu Frig/Hitit bölgesidir."
+              "D) Batı Anadolu (Ege) kıyıları",
+              "E) İç Anadolu"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İyonlar Batı Anadolu (Ege) kıyılarına yerleşip polisler kurmuştur.",
             "difficulty": "orta"
           },
           {
@@ -20917,14 +20917,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "İlk çağ doğa filozoflarından Thales, Anaksimandros ve Anaksimenes hangi İyon kentinde yetişmiştir?",
             "options": [
-              "A) Efes A. Doğru: Thales, Anaksimandros ve Anaksimenes Milet kentindendir. B. Bergama Helenistik kenttir. C. Foça bir İyon kentidir ama bu filozoflar Milet'lidir. D. Priene bir İyon kentidir ama bu filozofların merkezi Milet'tir. E. Efes Herakleitos ile anılır.",
+              "A) Efes",
               "B) Bergama",
               "C) Foça",
               "D) Priene",
-              "E) Milet ✓"
+              "E) Milet"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Thales, Anaksimandros ve Anaksimenes Milet kentindendir.",
             "difficulty": "orta"
           },
           {
@@ -20933,14 +20933,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "'Aynı nehirde iki kez yıkanılmaz' sözüyle ünlü, değişim düşüncesinin filozofu Herakleitos hangi kentte yaşamıştır?",
             "options": [
-              "A) Efes ✓",
+              "A) Efes",
               "B) Halikarnassos",
               "C) Milet",
               "D) Sardes",
-              "E) Assos A. Halikarnassos Herodotos'un kentidir. B. Doğru: Herakleitos Efesli filozoftur. C. Milet Thales'in kentidir. D. Sardes Lidya başkentidir. E. Assos Aristoteles ile anılır."
+              "E) Assos"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Herakleitos Efesli filozoftur.",
             "difficulty": "orta"
           },
           {
@@ -20951,12 +20951,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Delos Birliği",
               "B) Aka Birliği",
-              "C) Pan-İyonya (İon) Birliği ✓ A. Delos Birliği Atina öncülüğündeki deniz birliğidir. B. Aka Birliği farklı bir oluşumdur. C. Likya Birliği Likya kentlerine aittir. D. Attika Birliği farklı bir yapıdır. E. Doğru: İyon kentleri Pan-İyonya Birliği'ni oluşturmuştur.",
+              "C) Pan-İyonya (İon) Birliği",
               "D) Attika Birliği",
               "E) Likya Birliği"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İyon kentleri Pan-İyonya Birliği'ni oluşturmuştur.",
             "difficulty": "orta"
           },
           {
@@ -20965,14 +20965,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Dünyanın ilk demokratik birlik meclislerinden sayılan 'Meclis Binası' hangi Likya kentindedir?",
             "options": [
-              "A) Tuşpa MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru",
-              "B) Patara ✓",
+              "A) Tuşpa",
+              "B) Patara",
               "C) Milet",
               "D) Sardes",
-              "E) Gordion A. Tuşpa Urartu başkentidir. B. Milet İyon kentidir. C. Doğru: Patara, Likya Birliği meclis binasına ev sahipliği yapmıştır. D. Sardes Lidya başkentidir. E. Gordion Frig başkentidir."
+              "E) Gordion"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Patara, Likya Birliği meclis binasına ev sahipliği yapmıştır.",
             "difficulty": "orta"
           },
           {
@@ -20984,11 +20984,11 @@ export const COURSES_DATA: Course[] = [
               "A) Karia",
               "B) Pamfilya",
               "C) Frigya",
-              "D) Likya ✓",
-              "E) Kilikya A. Karia Halikarnassos merkezlidir. B. Pamfilya Perge-Aspendos-Side ile anılır. C. Frigya İç Anadolu'dadır. D. Doğru: Kaya mezarları, Letoon ve Ksanthos Likya uygarlığına aittir. E. Kilikya Çukurova çevresindedir."
+              "D) Likya",
+              "E) Kilikya"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Kaya mezarları, Letoon ve Ksanthos Likya uygarlığına aittir.",
             "difficulty": "orta"
           },
           {
@@ -20997,14 +20997,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Aşağıdaki başkent-uygarlık eşleştirmelerinden hangisi YANLIŞtır?",
             "options": [
-              "A) Hattuşa - Hitit",
-              "B) Sardes - Urartu ✓ A. Hattuşa gerçekten Hitit başkentidir (doğru eşleştirme). B. Tuşpa gerçekten Urartu başkentidir (doğru eşleştirme). C. Gordion gerçekten Frigya başkentidir (doğru eşleştirme). D. Halikarnassos gerçekten Karia merkezidir (doğru eşleştirme). E. Doğru (yanlış eşleştirme): Sardes Lidya başkentidir, Urartu değil; bu yüzden bu seçenek yanlıştır. MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru",
-              "C) Gordion - Frigya",
-              "D) Halikarnassos - Karia",
-              "E) Tuşpa - Urartu"
+              "A) Halikarnassos - Karia",
+              "B) Sardes - Urartu",
+              "C) Tuşpa - Urartu",
+              "D) Hattuşa - Hitit",
+              "E) Gordion - Frigya"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "YANLIŞ (aranan): Sardes Lidya başkentidir, Urartu değil.",
             "difficulty": "orta"
           },
           {
@@ -21622,13 +21622,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "İyonların bilim ve felsefede öne çıkmasını sağlayan temel yaklaşım aşağıdakilerden hangisidir?",
             "options": [
               "A) Sadece askerî bilim",
-              "B) Doğayı akıl ve gözlemle açıklama (pozitif bilim) ✓",
+              "B) Doğayı akıl ve gözlemle açıklama (pozitif bilim)",
               "C) Yalnızca mitolojik açıklama",
               "D) Yazının reddi",
-              "E) Bilime karşı çıkma A. Doğru: İyonlar doğayı akıl ve gözlemle açıklamaya çalışarak pozitif bilimin öncüsü oldu. B. Yalnız askerî bilim değildi. C. Salt mitolojik açıklama onların özgün yanı değildir. D. Yazıyı reddetmediler. MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru E. Bilime karşı çıkmadılar, tam tersi."
+              "E) Bilime karşı çıkma"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İyonlar doğayı akıl ve gözlemle açıklamaya çalışarak pozitif bilimin öncüsü oldu.",
             "difficulty": "orta"
           },
           {
@@ -21656,11 +21656,11 @@ export const COURSES_DATA: Course[] = [
               "A) Amphora",
               "B) Kylix",
               "C) Torc",
-              "D) Fibula ✓",
-              "E) Balbal A. Amphora iki kulplu depolama kabıdır. B. Kylix Yunan içki kabıdır. C. Torc boyun halkasıdır (Kelt). D. Doğru: Fibula, Friglere özgü süslü çengelli iğnedir. E. Balbal eski Türk mezar taşıdır."
+              "D) Fibula",
+              "E) Balbal"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Fibula, Friglere özgü süslü çengelli iğnedir.",
             "difficulty": "orta"
           },
           {
@@ -21685,14 +21685,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Halikarnassos'taki (Bodrum) Mozole hangi kral için yapılmış anıt mezardır ve hangi uygarlığa aittir?",
             "options": [
-              "A) Kral Mausolos - Karia ✓",
+              "A) Kral Mausolos - Karia",
               "B) Kral Midas - Frigya",
               "C) Kral Kroisos - Lidya",
               "D) Kral Antiochos - Kommagene",
-              "E) Kral Gyges - Lidya A. Doğru: Mozole, Karia kralı Mausolos için yapılmıştır (Yedi Harika'dan). B. Midas Frig kralıdır, mozole ona ait değildir. C. Kroisos Lidya kralıdır. D. Antiochos Kommagene kralıdır (Nemrut). E. Gyges Lidya kralıdır."
+              "E) Kral Gyges - Lidya"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Mozole, Karia kralı Mausolos için yapılmıştır (Yedi Harika'dan).",
             "difficulty": "orta"
           },
           {
@@ -24688,11 +24688,11 @@ export const COURSES_DATA: Course[] = [
               "A) Herodotos",
               "B) Herakleitos",
               "C) Diogenes",
-              "D) Pisagor A. Herodotos Halikarnassoslu tarihçidir. B. Herakleitos Efeslidir, değişim düşüncesiyle anılır. C. Diogenes Sinoplu kinik filozoftur. D. Doğru: Thales, güneş tutulmasını hesaplamasıyla anılan Miletli ilk filozoftur. E. Pisagor Sisamlı matematikçidir.",
-              "E) Thales ✓"
+              "D) Pisagor",
+              "E) Thales"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Thales, güneş tutulmasını hesaplamasıyla anılan Miletli ilk filozoftur.",
             "difficulty": "orta"
           },
           {
@@ -24701,14 +24701,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "anadolu",
             "questionText": "Adıyaman'daki Nemrut Dağı'nın dev heykelleriyle ünlü krallık aşağıdakilerden hangisidir?",
             "options": [
-              "A) Frigya, Gordion merkezli, Midas efsanesiyle anılan Orta-Batı Anadolu krallığıdır; Nemrut Dağı'ndaki dev heykeller bu krallığa ait değildir ve Adıyaman'da bulunmaz.",
-              "B) İyonya, Ege kıyısında Milet, Efes ve Foça gibi kentlerin oluşturduğu bir bölgedir; kral heykelleriyle değil, kent devletleri yapılanmasıyla bilinir ve Adıyaman'daki dağ tapınağıyla hiçbir ilgisi yoktur.",
-              "C) Kommagene ✓ A. Frigya Gordion ile anılır. B. İyonya Ege kıyısındadır. C. Karia Halikarnassos ile anılır. D. Urartu Van çevresindedir. E. Doğru: Nemrut Dağı heykelleri Kommagene Krallığı'na (Antiochos) aittir.",
-              "D) Urartu, Van Gölü çevresinde kurulmuş, kaya kitabeleri ve kale yapılarıyla bilinen dağlık bir krallıktır; Nemrut Dağı'nın dev heykelleri Urartu sanatına ait değildir ve bu bölge Adıyaman'a değil Doğu Anadolu'ya yakındır.",
-              "E) Karia, güneybatı Anadolu'da Halikarnassos (Bodrum) merkezli bir bölgedir; Mausolos Türbesi ile ünlüdür, fakat Nemrut Dağı'ndaki tanrı-kral heykel topluluğu bu bölgeye değil Adıyaman'daki krallığa aittir."
+              "A) Frigya",
+              "B) İyonya",
+              "C) Kommagene",
+              "D) Urartu",
+              "E) Karia"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Nemrut Dağı heykelleri Kommagene Krallığı'na (Antiochos) aittir.",
             "difficulty": "orta"
           },
           {
@@ -26924,14 +26924,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Türkiye'de eski eserlerin korunmasına dair ilk düzenli hukuki metin olan 'Asar-ı Atika Nizamnamesi' hangi dönemde çıkarılmıştır?",
             "options": [
-              "A) Osmanlı dönemi ✓",
+              "A) Osmanlı dönemi",
               "B) Cumhuriyet'in 2000'li yılları",
               "C) Selçuklu dönemi",
               "D) Beylikler dönemi",
-              "E) Bizans dönemi A. Doğru: Asar-ı Atika Nizamnamesi, Osmanlı döneminde çıkarılmıştır. B. 2000'li yıllar çok geç bir tarihtir. C. Selçuklu döneminde böyle bir nizamname yoktur. D. Beylikler döneminde çıkarılmamıştır. E. Bizans dönemiyle ilgisi yoktur."
+              "E) Bizans dönemi"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Asar-ı Atika Nizamnamesi, Osmanlı döneminde çıkarılmıştır.",
             "difficulty": "orta"
           },
           {
@@ -26940,14 +26940,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Bir toplumun gelenek, görenek, inanç, halk oyunu, masal ve türkü gibi kültür ürünlerini inceleyen bilim dalı aşağıdakilerden hangisidir?",
             "options": [
-              "A) Folklor (Halk Bilimi) ✓",
+              "A) Folklor (Halk Bilimi)",
               "B) Epigrafi",
               "C) Paleografi",
               "D) Nümizmatik",
-              "E) Etimoloji A. Epigrafi yazıt bilimidir. B. Doğru: Folklor (halk bilimi), halk kültürü ürünlerini inceler. C. Paleografi eski yazıların okunması bilimidir. D. Nümizmatik sikke (para) bilimidir. E. Etimoloji kelimelerin kökenini inceler."
+              "E) Etimoloji"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Folklor (halk bilimi), halk kültürü ürünlerini inceler.",
             "difficulty": "orta"
           },
           {
@@ -29910,9 +29910,9 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Aşağıdaki eser-müze eşleştirmelerinden hangisi YANLIŞtır?",
             "options": [
               "A) Perge heykelleri - Antalya",
-              "B) Kaşıkçı Elması - İstanbul Arkeoloji Müzesi",
-              "C) İskender Lahdi - İstanbul Arkeoloji M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru",
-              "D) Hitit güneş kursu - Anadolu Medeniyetleri",
+              "B) Kaşıkçı Elması - İstanbul Arkeoloji",
+              "C) İskender Lahdi - İstanbul Arkeoloji",
+              "D) Güneş kursu - Anadolu Medeniyetleri",
               "E) Çingene Kızı - Zeugma (Gaziantep)"
             ],
             "correctIndex": 1,
@@ -30632,11 +30632,11 @@ export const COURSES_DATA: Course[] = [
               "A) Galeri",
               "B) Kütüphane",
               "C) Atölye",
-              "D) Müze ✓",
-              "E) Arşiv A. Galeri genelde satış/sergi amaçlı sanat mekânıdır. B. Doğru: Müze, kültür/tabiat varlıklarını toplayıp koruyan ve sergileyen kurumdur. C. Atölye üretim yapılan yerdir. D. Kütüphane kitap/yayın sunar. E. Arşiv belge saklayan kurumdur."
+              "D) Müze",
+              "E) Arşiv"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Müze, kültür/tabiat varlıklarını toplayıp koruyan ve sergileyen kurumdur.",
             "difficulty": "orta"
           },
           {
@@ -30646,13 +30646,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Osman Hamdi Bey'in kazılarını yürüttüğü ve 'İskender Lahdi'nin çıkarıldığı antik kent aşağıdakilerden hangisidir?",
             "options": [
               "A) Bergama",
-              "B) Efes A. Bergama Helenistik bir kenttir. B. Doğru: İskender Lahdi, Sidon (Sayda) kral nekropolünden çıkarılmıştır. C. Troya Schliemann ile anılır. D. Afrodisias heykel okuluyla ünlüdür. E. Efes farklı bir kazı alanıdır.",
+              "B) Efes",
               "C) Troya",
               "D) Afrodisias",
-              "E) Sidon (Sayda) Nekropolü ✓"
+              "E) Sidon (Sayda) Nekropolü"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İskender Lahdi, Sidon (Sayda) kral nekropolünden çıkarılmıştır.",
             "difficulty": "orta"
           },
           {
@@ -30663,12 +30663,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Rölöve",
               "B) Müzayede",
-              "C) Envanter (kayıt) ✓",
+              "C) Envanter (kayıt)",
               "D) Restorasyon",
-              "E) İhraç A. Rölöve ölçülü belgeleme çizimidir. B. Müzayede açık artırmalı satıştır. C. Doğru: Envanter, eserin kayda geçirilip belgelenmesi işlemidir. D. Restorasyon onarım işlemidir. E. İhraç yurt dışına çıkarmadır."
+              "E) İhraç"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Envanter, eserin kayda geçirilip belgelenmesi işlemidir.",
             "difficulty": "orta"
           },
           {
@@ -30680,11 +30680,11 @@ export const COURSES_DATA: Course[] = [
               "A) Zeugma Mozaik Müzesi",
               "B) Anadolu Medeniyetleri Müzesi",
               "C) Topkapı Sarayı",
-              "D) Göreme Açık Hava Müzesi ✓",
-              "E) Ayasofya A. Doğru: Göreme Açık Hava Müzesi (Kapadokya), kaya kiliseleri ve freskleriyle ünlüdür. B. Anadolu Medeniyetleri Müzesi kapalı bir müzedir. C. Topkapı Sarayı bir saray-müzedir (kapalı mekân). D. Zeugma mozaikleriyle ünlü kapalı bir müzedir. E. Ayasofya bir anıt-müzedir."
+              "D) Göreme Açık Hava Müzesi",
+              "E) Ayasofya"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Göreme Açık Hava Müzesi (Kapadokya), kaya kiliseleri ve freskleriyle ünlüdür.",
             "difficulty": "orta"
           },
           {
@@ -30697,10 +30697,10 @@ export const COURSES_DATA: Course[] = [
               "B) Envanter",
               "C) Sirkülasyon",
               "D) Müzayede",
-              "E) Konservasyon-restorasyon ✓ A. İhale bir satın alma yöntemidir. B. Envanter kayıt işlemidir. C. Sirkülasyon dolaşım anlamına gelir. D. Müzayede açık artırmadır. E. Doğru: Konservasyon-restorasyon, eserlerin korunması ve onarımı çalışmasıdır."
+              "E) Konservasyon-restorasyon"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Konservasyon-restorasyon, eserlerin korunması ve onarımı çalışmasıdır.",
             "difficulty": "orta"
           },
           {
@@ -30711,12 +30711,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Rahmi Koç Müzesi",
               "B) Deniz Müzesi",
-              "C) Panorama 1453 A. Rahmi Koç Müzesi sanayi/ulaşım müzesidir. B. Deniz Müzesi denizcilik eserlerini sergiler. C. Doğru: İskender Lahdi, İstanbul Arkeoloji Müzeleri'ndedir. D. Mevlana Müzesi Konya'da bir tekke-müzedir. E. Panorama 1453 bir tarih müzesidir. MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru",
+              "C) Panorama 1453",
               "D) Mevlana Müzesi",
-              "E) İstanbul Arkeoloji Müzeleri ✓"
+              "E) İstanbul Arkeoloji Müzeleri"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İskender Lahdi, İstanbul Arkeoloji Müzeleri'ndedir.",
             "difficulty": "orta"
           },
           {
@@ -30725,14 +30725,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Mozaikleriyle ünlü, 'Antakya' antik kentinin zengin buluntularını barındıran müze hangi ilimizdedir?",
             "options": [
-              "A) Hatay ✓",
+              "A) Hatay",
               "B) Adana",
               "C) Mersin",
               "D) Osmaniye",
-              "E) Kilis A. Doğru: Hatay Arkeoloji Müzesi, zengin mozaik koleksiyonuyla ünlüdür. B. Adana farklı bir ildir. C. Mersin farklı müzelere sahiptir. D. Osmaniye Karatepe ile anılır. E. Kilis bu mozaiklerle özdeşleşmez."
+              "E) Kilis"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Hatay Arkeoloji Müzesi, zengin mozaik koleksiyonuyla ünlüdür.",
             "difficulty": "orta"
           },
           {
@@ -30744,11 +30744,11 @@ export const COURSES_DATA: Course[] = [
               "A) Louvre",
               "B) Uffizi",
               "C) Prado",
-              "D) Berlin Pergamon Müzesi ✓ MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru",
-              "E) British Museum A. Louvre Paris'tedir (farklı eserler). B. Doğru: Bergama Zeus Sunağı, Berlin Pergamon Müzesi'ndedir. C. Prado Madrid'dedir. D. Uffizi Floransa'dadır. E. British Museum Londra'dadır."
+              "D) Berlin Pergamon Müzesi",
+              "E) British Museum"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Bergama Zeus Sunağı, Berlin Pergamon Müzesi'ndedir.",
             "difficulty": "orta"
           },
           {
@@ -30759,12 +30759,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Yalnızca onarım",
               "B) Yalnızca depolama",
-              "C) Eğitim ve toplumla iletişim ✓",
+              "C) Eğitim ve toplumla iletişim",
               "D) Yalnızca satış",
-              "E) Yalnızca güvenlik A. Doğru: Çağdaş müzecilik eğitim ve toplumla iletişimi de üstlenir. B. Yalnızca depolama dar bir işlevdir. MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru C. Yalnızca onarım tek işlev değildir. D. Yalnızca satış müzenin amacı değildir. E. Yalnızca güvenlik tek işlev değildir."
+              "E) Yalnızca güvenlik"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Çağdaş müzecilik eğitim ve toplumla iletişimi de üstlenir.",
             "difficulty": "orta"
           },
           {
@@ -30776,11 +30776,11 @@ export const COURSES_DATA: Course[] = [
               "A) Bergama (İzmir)",
               "B) Side (Antalya)",
               "C) Milas (Muğla)",
-              "D) Selçuk (İzmir) ✓",
-              "E) Bodrum (Muğla) A. Bergama farklı bir antik kenttir. B. Side'nin kendi müzesi vardır ama Efes buluntuları Selçuk'tadır. C. Doğru: Efes Müzesi, İzmir'in Selçuk ilçesindedir. D. Milas farklı buluntularla anılır. E. Bodrum Sualtı Arkeoloji Müzesi ile ünlüdür."
+              "D) Selçuk (İzmir)",
+              "E) Bodrum (Muğla)"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Efes Müzesi, İzmir'in Selçuk ilçesindedir.",
             "difficulty": "orta"
           },
           {
@@ -30793,10 +30793,10 @@ export const COURSES_DATA: Course[] = [
               "B) Panorama 1453",
               "C) Pera Müzesi",
               "D) Zeugma Mozaik Müzesi",
-              "E) Bodrum Sualtı Arkeoloji Müzesi ✓ A. Mevlana Müzesi Konya'dadır. B. Panorama 1453 tarih müzesidir. C. Pera Müzesi resim/sanat müzesidir. D. Zeugma mozaik müzesidir. E. Doğru: Bodrum Sualtı Arkeoloji Müzesi, batık gemi buluntularıyla ünlüdür."
+              "E) Bodrum Sualtı Arkeoloji Müzesi"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Bodrum Sualtı Arkeoloji Müzesi, batık gemi buluntularıyla ünlüdür.",
             "difficulty": "orta"
           },
           {
@@ -30806,13 +30806,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Kültür varlığı niteliğindeki bir eser bulan kişinin yapması gereken doğru davranış aşağıdakilerden hangisidir?",
             "options": [
               "A) Yurt dışına çıkarmak",
-              "B) En yakın müze/mülki amire haber vermek ✓",
+              "B) En yakın müze/mülki amire haber vermek",
               "C) Eritip değerlendirmek",
               "D) İnternetten satmak",
-              "E) Kendi evinde saklamak A. Yurt dışına çıkarmak ağır bir suçtur. B. Doğru: Bulunan eser en yakın müzeye/mülki amire bildirilmelidir. C. Eritmek eseri yok etmektir; suçtur. D. Satmak kaçakçılıktır. E. Evde saklamak suç oluşturur."
+              "E) Kendi evinde saklamak"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Bulunan eser en yakın müzeye/mülki amire bildirilmelidir.",
             "difficulty": "orta"
           },
           {
@@ -30822,13 +30822,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "İzinsiz olarak yer altında/su altında eski eser aramak (kaçak kazı) için kullanılan yaygın terim aşağıdakilerden hangisidir?",
             "options": [
               "A) Arkeoloji kazısı",
-              "B) Definecilik ✓ A. Arkeoloji kazısı izinli ve bilimsel bir çalışmadır. B. Rölöve belgeleme çizimidir. C. Restorasyon onarımdır. D. Envanterleme kayıt işlemidir. E. Doğru: İzinsiz eser arama (kaçak kazı) halk arasında 'definecilik' olarak anılır ve suçtur.",
+              "B) Definecilik",
               "C) Restorasyon",
               "D) Envanterleme",
               "E) Rölöve"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İzinsiz eser arama (kaçak kazı) halk arasında 'definecilik' olarak anılır ve suçtur.",
             "difficulty": "orta"
           },
           {
@@ -30837,14 +30837,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Gerçek bir eserin taklidinin üretilip özgünmüş gibi satılması hangi suçu oluşturur?",
             "options": [
-              "A) Sahtecilik (eser sahteciliği) ✓",
+              "A) Sahtecilik (eser sahteciliği)",
               "B) İzinsiz restorasyon",
               "C) Kaçak kazı",
               "D) Bağış",
-              "E) Vergi indirimi A. Doğru: Taklit eserin özgün gibi satılması sahtecilik suçudur. B. İzinsiz restorasyon ayrı bir ihlaldir. C. Kaçak kazı izinsiz eser aramadır (farklı fiil). D. Bağış bir suç türü değildir. E. Vergi indirimi suç değildir."
+              "E) Vergi indirimi"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Taklit eserin özgün gibi satılması sahtecilik suçudur.",
             "difficulty": "orta"
           },
           {
@@ -30855,12 +30855,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Atatürk Barajı",
               "B) İstanbul metrosu",
-              "C) Bergama/Zeus Sunağı ve benzeri kaçırılmış eserler için iade talepleri ✓",
+              "C) Bergama/Zeus Sunağı ve benzeri kaçırılmış eserler için iade talepleri",
               "D) Boğaz Köprüsü",
-              "E) Galata Kulesi asansörü A. Atatürk Barajı bir baraj projesidir. B. İstanbul metrosu bir ulaşım yapısıdır. C. Doğru: Bergama Zeus Sunağı gibi kaçırılmış eserler için iade talepleri gündemdedir. D. Boğaz Köprüsü bir mühendislik yapısıdır. E. Galata Kulesi asansörü bir eser iadesi konusu değildir. MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru"
+              "E) Galata Kulesi asansörü"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Bergama Zeus Sunağı gibi kaçırılmış eserler için iade talepleri gündemdedir.",
             "difficulty": "orta"
           },
           {
@@ -30873,10 +30873,10 @@ export const COURSES_DATA: Course[] = [
               "B) İnternette gizlice satmak",
               "C) Yurt dışına kaçırmak",
               "D) Eritip para kazanmak",
-              "E) Bulunduğunda müzeye teslim edip belgelemek ✓ A. Kaçak kazı suçtur. B. Gizlice satmak suçtur. C. Yurt dışına kaçırmak ağır suçtur. D. Eritmek eseri yok etmektir. E. Doğru: Eseri müzeye teslim edip belgelemek yasal ve doğru yoldur. MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru"
+              "E) Bulunduğunda müzeye teslim edip belgelemek"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Eseri müzeye teslim edip belgelemek yasal ve doğru yoldur.",
             "difficulty": "orta"
           },
           {
@@ -31736,11 +31736,11 @@ export const COURSES_DATA: Course[] = [
               "A) Hiçbir yaptırım olmaması",
               "B) Sadece teşekkür edilmesi",
               "C) Ödül verilmesi",
-              "D) İdari/cezai yaptırım ve eski hâle getirme yükümlülüğü ✓ A. Yaptırımsız kalmaz. B. Teşekkür edilmez. C. Ödül verilmez. MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru D. Vergi iadesiyle ilgisi yoktur. E. Doğru: İzinsiz müdahalede idari/cezai yaptırım ve eski hâle getirme yükümlülüğü uygulanır.",
+              "D) İdari/cezai yaptırım ve eski hâle getirme yükümlülüğü",
               "E) Vergi iadesi"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İzinsiz müdahalede idari/cezai yaptırım ve eski hâle getirme yükümlülüğü uygulanır.",
             "difficulty": "orta"
           },
           {
@@ -31765,14 +31765,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Müzeleri, kültür mirasının korunması ve tanıtımı konusunda uluslararası düzeyde temsil eden kuruluş aşağıdakilerden hangisidir?",
             "options": [
-              "A) FIFA MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru",
-              "B) ICOM (Uluslararası Müzeler Konseyi) ✓",
+              "A) FIFA",
+              "B) ICOM (Uluslararası Müzeler Konseyi)",
               "C) NATO",
               "D) IUCN",
-              "E) OECD A. FIFA futbol federasyonudur. B. Doğru: ICOM, müzeleri temsil eden uluslararası konseydir. C. NATO askeri ittifaktır. D. IUCN doğa koruma birliğidir. E. OECD ekonomik iş birliği örgütüdür."
+              "E) OECD"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: ICOM, müzeleri temsil eden uluslararası konseydir.",
             "difficulty": "orta"
           },
           {
@@ -31868,7 +31868,7 @@ export const COURSES_DATA: Course[] = [
               "E) Remzi Oğuz Arık"
             ],
             "correctIndex": 3,
-            "explanation": "İstanbul Arkeoloji Müzeleri'ni Osman Hamdi Bey kurdu. M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru",
+            "explanation": "İstanbul Arkeoloji Müzeleri'ni Osman Hamdi Bey kurdu.",
             "difficulty": "orta"
           },
           {
@@ -31894,13 +31894,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Bir müzenin sergilenmeyen, depoda korunan eser topluluğuna ne ad verilir?",
             "options": [
               "A) Kafeterya",
-              "B) Koleksiyon deposu (rezerv koleksiyon) ✓",
+              "B) Koleksiyon deposu (rezerv koleksiyon)",
               "C) Gişe",
               "D) Fuaye",
-              "E) Lobisi A. Kafeterya yeme-içme alanıdır. B. Doğru: Rezerv koleksiyon/koleksiyon deposu, sergilenmeyip depoda korunan eserlerdir. C. Gişe bilet satış noktasıdır. D. Fuaye giriş/dinlenme alanıdır. E. Lobi karşılama alanıdır."
+              "E) Lobisi"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Rezerv koleksiyon/koleksiyon deposu, sergilenmeyip depoda korunan eserlerdir.",
             "difficulty": "orta"
           },
           {
@@ -32023,12 +32023,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Serbesttir",
               "B) Yalnızca gündüz serbesttir",
-              "C) Yasaktır ve suç oluşturur ✓",
+              "C) Yasaktır ve suç oluşturur",
               "D) İzinsiz ama suç değildir",
-              "E) Sadece turistlere yasaktır A. Serbest değildir. B. Gündüz/gece ayrımı yoktur; yasaktır. C. Suç oluşturur, 'suç değil' ifadesi yanlıştır. D. Doğru: İzinsiz dedektörle eser aramak yasaktır ve suç oluşturur. E. Herkes için yasaktır."
+              "E) Sadece turistlere yasaktır"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İzinsiz dedektörle eser aramak yasaktır ve suç oluşturur.",
             "difficulty": "orta"
           },
           {
@@ -32053,14 +32053,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Bir eserin belgelerle sahiplik ve el değiştirme geçmişini gösteren, sahteciliğe karşı önemli olan bilgi aşağıdakilerden hangisidir?",
             "options": [
-              "A) Menşe (provenans) bilgisi ✓",
+              "A) Menşe (provenans) bilgisi",
               "B) Vitrin numarası",
               "C) Bilet fiyatı",
               "D) Restoran menüsü",
-              "E) Ziyaretçi sayısı A. Bilet fiyatı ziyaretle ilgilidir. MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru B. Vitrin numarası sergileme detayıdır. C. Doğru: Menşe (provenans), eserin sahiplik/köken geçmişini gösterir; sahteciliğe karşı kritiktir. D. Restoran menüsü alakasızdır. E. Ziyaretçi sayısı istatistiktir."
+              "E) Ziyaretçi sayısı"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Menşe (provenans), eserin sahiplik/köken geçmişini gösterir; sahteciliğe karşı kritiktir.",
             "difficulty": "orta"
           },
           {
@@ -32085,14 +32085,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Karain, Karatepe gibi ören yerlerinin yanı sıra pek çok kalıntının açık alanda korunduğu 'ören yeri' kavramı neyi ifade eder?",
             "options": [
-              "A) Antik yerleşim/kalıntıların bulunduğu koruma alanı ✓ A. Tatil köyü konaklama tesisidir. B. Spor tesisi farklı bir işlevdedir. C. Alışveriş merkezi ticari bir yapıdır. D. Sanayi bölgesi üretim alanıdır. E. Doğru: Ören yeri, antik yerleşim ve kalıntıların korunduğu alandır.",
+              "A) Antik yerleşim/kalıntıların bulunduğu koruma alanı",
               "B) Spor tesisi",
               "C) Modern alışveriş merkezi",
               "D) Sanayi bölgesi",
               "E) Tatil köyü"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Ören yeri, antik yerleşim ve kalıntıların korunduğu alandır.",
             "difficulty": "orta"
           },
           {
@@ -32165,14 +32165,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Kültür varlıklarının izinsiz kazılıp bulunması, saklanması, ticareti ve yurt dışına çıkarılması hangi suç kapsamına girer?",
             "options": [
-              "A) Eski eser kaçakçılığı ✓",
+              "A) Eski eser kaçakçılığı",
               "B) İş kazası",
               "C) Marka ihlali",
               "D) Vergi kaçakçılığı (yalnızca)",
-              "E) Trafik suçu A. Doğru: Bu fiiller eski eser (kültür varlığı) kaçakçılığı kapsamındadır. B. İş kazasıyla ilgisi yoktur. C. Marka ihlaliyle ilgisi yoktur. D. Yalnızca vergi kaçakçılığı olarak nitelenemez. E. Trafik suçuyla ilgisi yoktur."
+              "E) Trafik suçu"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Bu fiiller eski eser (kültür varlığı) kaçakçılığı kapsamındadır.",
             "difficulty": "orta"
           },
           {
@@ -32181,14 +32181,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Bir müzede veya ören yerinde eserlere zarar vermek (çizmek, kırmak, üstüne yazı yazmak) ne tür bir davranıştır?",
             "options": [
-              "A) Kültür varlığına zarar verme suçu ✓",
+              "A) Kültür varlığına zarar verme suçu",
               "B) Sanatsal katkı",
               "C) Restorasyon",
               "D) Serbest bir davranış",
-              "E) Bağış A. Doğru: Eserlere zarar vermek kültür varlığına zarar verme suçudur. B. Sanatsal katkı değildir. C. Restorasyon yetkili uzmanların onarımıdır. D. Serbest değildir. E. Bağış değildir."
+              "E) Bağış"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Eserlere zarar vermek kültür varlığına zarar verme suçudur.",
             "difficulty": "orta"
           },
           {
@@ -32216,11 +32216,11 @@ export const COURSES_DATA: Course[] = [
               "A) Kaçak kazıya katılmak",
               "B) Eserleri saklamak",
               "C) Eser satın almak",
-              "D) Şüpheli durumları yetkililere bildirmek ve farkındalık ✓",
-              "E) Sessiz kalmak A. Doğru: Şüpheli durumları bildirmek ve farkındalık, mücadelenin en etkili toplumsal katkısıdır. B. Eser saklamak suçtur. C. Eser satın almak kaçakçılığı besler. D. Kaçak kazıya katılmak suçtur. E. Sessiz kalmak mücadeleyi zayıflatır."
+              "D) Şüpheli durumları yetkililere bildirmek ve farkındalık",
+              "E) Sessiz kalmak"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Şüpheli durumları bildirmek ve farkındalık, mücadelenin en etkili toplumsal katkısıdır.",
             "difficulty": "orta"
           },
           {
@@ -32248,11 +32248,11 @@ export const COURSES_DATA: Course[] = [
               "A) Belediye Meclisi",
               "B) TÜRSAB Yönetim Kurulu",
               "C) İl Genel Meclisi",
-              "D) Kültür Varlıklarını Koruma Bölge Kurulu ✓ A. Belediye Meclisi yerel yönetim organıdır. B. TÜRSAB seyahat acentaları birliğidir. C. İl Genel Meclisi farklı yetkilere sahiptir. D. Merkez Av Komisyonu av dönemlerini belirler. E. Doğru: Koruma kararlarını Kültür Varlıklarını Koruma Bölge Kurulları alır.",
+              "D) Kültür Varlıklarını Koruma Bölge Kurulu",
               "E) Merkez Av Komisyonu"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Koruma kararlarını Kültür Varlıklarını Koruma Bölge Kurulları alır.",
             "difficulty": "orta"
           },
           {
@@ -32278,13 +32278,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Bir müzede eserlerin ışık, nem ve sıcaklık gibi koşullardan korunması hangi çalışma alanının konusudur?",
             "options": [
               "A) Reklamcılık",
-              "B) Koruma (konservasyon) bilimi ✓",
+              "B) Koruma (konservasyon) bilimi",
               "C) Bilet satışı",
               "D) Muhasebe",
-              "E) Rehberlik A. Reklamcılık tanıtımla ilgilidir. B. Muhasebe mali işlerle ilgilidir. C. Bilet satışı idari bir iştir. D. Doğru: Işık/nem/sıcaklık denetimi konservasyon (koruma) biliminin konusudur. E. Rehberlik ziyaretçiyi bilgilendirir."
+              "E) Rehberlik"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Işık/nem/sıcaklık denetimi konservasyon (koruma) biliminin konusudur.",
             "difficulty": "orta"
           },
           {
@@ -32294,13 +32294,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Turist rehberi, tur sırasında bir turistin antik bir parçayı 'hediyelik' diye satın almak/çıkarmak istediğini görürse ne yapmalıdır?",
             "options": [
               "A) Turiste saklamayı öğretmek",
-              "B) Yardımcı olup pazarlık etmek A. Saklamayı öğretmek suça yardımdır. B. Doğru: Rehber, kültür varlığı çıkarma/satın almanın suç olduğunu açıklayıp engellemelidir. C. Görmezden gelmek sorumluluğun ihmalidir. D. Kendisi alması da suçtur. E. Pazarlığa yardım etmek suça iştiraktir.",
+              "B) Yardımcı olup pazarlık etmek",
               "C) Görmezden gelmek",
               "D) Kendisi de almak",
-              "E) Bunun yasak ve suç olduğunu açıklayıp engellemek ✓ MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru"
+              "E) Bunun yasak ve suç olduğunu açıklayıp engellemek"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Rehber, kültür varlığı çıkarma/satın almanın suç olduğunu açıklayıp engellemelidir.",
             "difficulty": "orta"
           },
           {
@@ -32309,14 +32309,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Bir taşınmazın tescillenip koruma altına alınması durumunda malikin karşılaşabileceği temel sınırlama aşağıdakilerden hangisidir?",
             "options": [
-              "A) İzinsiz tadilat/yıkım yapamaması ✓",
+              "A) İzinsiz tadilat/yıkım yapamaması",
               "B) Sınırsız kat çıkabilmesi",
               "C) Serbestçe yıkabilmesi",
               "D) Hiçbir kurala tabi olmaması",
-              "E) Hiç vergi ödememesi A. Kurallara tabidir, tam serbestlik yoktur. MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru B. Sınırsız kat çıkma söz konusu değildir. C. Serbestçe yıkma yasaktır. D. Doğru: Tescilli yapıda izinsiz tadilat/yıkım yapılamaz; müdahaleler kurul iznine tabidir. E. Vergiden tümüyle muaf olmak değildir."
+              "E) Hiç vergi ödememesi"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Tescilli yapıda izinsiz tadilat/yıkım yapılamaz; müdahaleler kurul iznine tabidir.",
             "difficulty": "orta"
           },
           {
@@ -32325,14 +32325,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "arkeoloji",
             "questionText": "Türkiye'de müzelerin ve ören yerlerinin belirli günlerde ya da belirli gruplara ücretsiz/indirimli açılması hangi amaca hizmet eder?",
             "options": [
-              "A) Kültürel mirasa erişimi yaygınlaştırmak ✓ A. Müzeyi kapatmak amaç değildir. B. Ziyaretçiyi caydırmak amaç değildir. C. Eser satışı amacı değildir. D. Eserleri gizlemek amaç değildir. E. Doğru: Ücretsiz/indirimli erişim, kültürel mirasa erişimi yaygınlaştırmayı amaçlar.",
+              "A) Kültürel mirasa erişimi yaygınlaştırmak",
               "B) Ziyaretçiyi caydırmak",
               "C) Eserleri satmak",
               "D) Eserleri gizlemek",
               "E) Müzeyi kapatmak"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Ücretsiz/indirimli erişim, kültürel mirasa erişimi yaygınlaştırmayı amaçlar.",
             "difficulty": "orta"
           }
         ],
@@ -34718,7 +34718,7 @@ export const COURSES_DATA: Course[] = [
               "B) Dor",
               "C) Dipteral",
               "D) Kompozit",
-              "E) İon M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru"
+              "E) İon"
             ],
             "correctIndex": 0,
             "explanation": "Kadın figürlü taşıyıcı sütun 'karyatid'dir.",
@@ -36868,14 +36868,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "Aşağıdaki eserlerden hangisi Antik Dünyanın Yedi Harikası arasında yer alan, Anadolu'daki iki eserden biridir?",
             "options": [
-              "A) Kız Kulesi A. Doğru: Efes Artemis Tapınağı, Anadolu'daki Yedi Harika eserlerindendir (diğeri Halikarnassos Mozolesi). MKS KONU SERİSİ · ANADOLU MEDENİYETLERİ 60 soru B. Aspendos etkileyicidir ama Yedi Harika'dan değildir. C. Ayasofya Bizans yapısıdır, Yedi Harika'dan değildir. D. Sümela bir Bizans-Ortodoks manastırıdır. E. Kız Kulesi Yedi Harika listesinde yer almaz.",
+              "A) Kız Kulesi",
               "B) Aspendos Tiyatrosu",
               "C) Ayasofya",
               "D) Sümela Manastırı",
-              "E) Efes Artemis Tapınağı ✓"
+              "E) Efes Artemis Tapınağı"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Efes Artemis Tapınağı, Anadolu'daki Yedi Harika eserlerindendir (diğeri Halikarnassos Mozolesi).",
             "difficulty": "orta"
           },
           {
@@ -43564,11 +43564,11 @@ export const COURSES_DATA: Course[] = [
               "A) Baki",
               "B) Fuzuli",
               "C) Karacaoğlan",
-              "D) Nedim ✓",
-              "E) Yunus Emre A. Doğru: Nedim, Lale Devri'nin şairidir. B. Fuzuli 16. yüzyıl şairidir. C. Karacaoğlan halk şairidir. D. Baki 16. yüzyıl 'Sultanü'ş-Şuara'sıdır. E. Yunus Emre tekke şairidir. MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru"
+              "D) Nedim",
+              "E) Yunus Emre"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Nedim, Lale Devri'nin şairidir.",
             "difficulty": "orta"
           },
           {
@@ -43577,14 +43577,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "Su üzerine serpilen boyalarla desen oluşturup kâğıda aktarma sanatı aşağıdakilerden hangisidir?",
             "options": [
-              "A) Ebru ✓ A. Minyatür küçük boyutlu resim sanatıdır. B. Hat güzel yazı sanatıdır. C. Tezhip altınla bezeme sanatıdır. D. Çini seramik yüzey süsleme sanatıdır. E. Doğru: Ebru, su yüzeyindeki boyaların kâğıda aktarıldığı sanattır.",
+              "A) Ebru",
               "B) Hat",
               "C) Tezhip",
               "D) Çini",
               "E) Minyatür"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Ebru, su yüzeyindeki boyaların kâğıda aktarıldığı sanattır.",
             "difficulty": "orta"
           },
           {
@@ -43594,13 +43594,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Kendine özgü boyama tekniğiyle, kitap sayfalarında olayları/kişileri betimleyen küçük boyutlu resimlere ne ad verilir?",
             "options": [
               "A) Mozaik",
-              "B) Minyatür ✓",
-              "C) Fresk MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru",
+              "B) Minyatür",
+              "C) Fresk",
               "D) Vitray",
-              "E) Gravür A. Doğru: Minyatür, el yazmalarındaki küçük boyutlu resimdir. B. Mozaik küçük renkli parçalarla yapılır. C. Fresk yaş sıva üzerine duvar resmidir. D. Vitray renkli cam sanatıdır. E. Gravür baskı tekniğidir."
+              "E) Gravür"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Minyatür, el yazmalarındaki küçük boyutlu resimdir.",
             "difficulty": "orta"
           },
           {
@@ -43609,14 +43609,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "Aşağıdakilerden hangisi bir hat (güzel yazı) çeşidi DEĞİLdir?",
             "options": [
-              "A) Nesih, Arap harflerinin Osmanlı'da en yaygın kullanılan hat çeşitlerinden biridir; sade ve okunaklı yapısıyla kitap yazımında tercih edilmiş, Osmanlı hattatlarının temel yazı türlerinden biri olarak kabul edilir.",
-              "B) Ta'lik, İran kökenli, eğik ve akıcı yapısıyla divan ve özel yazışmalarda kullanılan bir hat çeşididir; Osmanlı hattatları tarafından da geliştirilmiş, güzel yazı geleneğinin önemli bir üyesi olarak bilinir.",
-              "C) Ebru ✓ A. Nesih bir hat çeşididir. B. Ta'lik bir hat çeşididir. C. Sülüs bir hat çeşididir. D. Kufi bir hat çeşididir. E. Doğru: Ebru bir kâğıt süsleme sanatıdır, hat çeşidi değildir.",
-              "D) Kufi, Arap yazısının en eski biçimlerinden biri olup köşeli ve geometrik yapısıyla bilinen bir hat çeşididir; Kur'an yazımında erken dönemde kullanılmış, Osmanlı hat geleneğinde de yer alan bir yazı türüdür.",
-              "E) Sülüs, uzun ve iri harfleriyle dikkat çeken, levha ve başlık yazımında kullanılan, güzel yazı geleneğinin temel hat çeşitlerinden biridir; Osmanlı hattatları arasında yaygın olarak uygulanmış bir yazı türüdür."
+              "A) Nesih",
+              "B) Ta'lik",
+              "C) Ebru",
+              "D) Kufi",
+              "E) Sülüs"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Ebru bir kâğıt süsleme sanatıdır, hat çeşidi değildir.",
             "difficulty": "orta"
           },
           {
@@ -43625,14 +43625,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "Kâğıdın ince ince kesilerek (oyularak) desen oluşturulduğu geleneksel kitap sanatı aşağıdakilerden hangisidir?",
             "options": [
-              "A) Tezhip, el yazması kitapların sayfalarını altın yaldız, lacivert ve yaprak motifleriyle bezeme sanatıdır; kâğıt kesilerek desen oluşturulmaz, kitap sayfasına oyma yöntemiyle uygulanmaz ve bu teknikle yapılmaz.",
-              "B) Minyatür, el yazması kitapların sayfalarını küçük boyutlu, ayrıntılı resimlerle süsleyen bir resim sanatıdır; kâğıt kesme ya da oyma yöntemiyle değil, fırça ve boya ile yapılır ve kitap sanatının bu koluna girmez.",
-              "C) Ebru, su yüzeyine serpilen boyalarla desen oluşturulup kâğıda aktarılan sanattır; kâğıt kesme veya oyma tekniğine dayanmaz, kitap sayfalarını süslemek için kesim yapılmaz ve bu sanatın bir parçası değildir.",
-              "D) Katı' ✓ A. Tezhip altınla bezeme sanatıdır. B. Minyatür resim sanatıdır. C. Ebru su üzerine boya sanatıdır. D. Hat yazı sanatıdır. E. Doğru: Katı', kâğıt kesme/oyma sanatıdır.",
-              "E) Hat, Arap harfleriyle yazılmış metinlerin kalem ve mürekkeple estetik biçimde yazılması sanatıdır; kâğıdı kesip oyarak desen oluşturmaz, bu tekniğe ait olmadığı gibi kitap sanatının süsleme koluna da girmez."
+              "A) Tezhip",
+              "B) Minyatür",
+              "C) Ebru",
+              "D) Katı'",
+              "E) Hat"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Katı', kâğıt kesme/oyma sanatıdır.",
             "difficulty": "orta"
           },
           {
@@ -43641,30 +43641,30 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "Türk çini ve seramik sanatının Selçuklu dönemindeki önemli merkezi ve saray çinileriyle anılan şehir aşağıdakilerden hangisidir?",
             "options": [
-              "A) Konya ✓",
+              "A) Konya",
               "B) Çanakkale",
               "C) Edirne",
               "D) Trabzon",
-              "E) İznik A. Trabzon bu üretimle anılmaz. B. Çanakkale seramiği daha geç dönemdir. C. Edirne bu dönemin çini merkezi değildir. D. Doğru: Konya, Selçuklu çini sanatının (Kubadabad çinileri) merkezidir. MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru E. İznik Osmanlı klasik dönemiyle öne çıkar."
+              "E) İznik"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Konya, Selçuklu çini sanatının (Kubadabad çinileri) merkezidir.",
             "difficulty": "orta"
           },
           {
             "id": "trp_q_1522",
             "subtopicId": "sanattarihi_6",
             "courseId": "sanattarihi",
-            "questionText": "Sedef kakma, ahşap oymacılığı gibi zanaatlar hangi malzeme grubunun işlenmesiyle ilgilidir? MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru",
+            "questionText": "Sedef kakma, ahşap oymacılığı gibi zanaatlar hangi malzeme grubunun işlenmesiyle ilgilidir?",
             "options": [
-              "A) Ahşap ve sedef ✓",
+              "A) Ahşap ve sedef",
               "B) Deri",
               "C) İpek",
               "D) Bakır",
-              "E) Cam A. Doğru: Sedef kakma ve oymacılık ahşap-sedef işçiliğidir. B. Deri işçiliği (saraçlık) farklıdır. C. İpek dokuma/tekstil zanaatıdır. D. Bakır işçiliği ayrı bir daldır. E. Cam işçiliği farklı bir zanaattır (cam üfleme)."
+              "E) Cam"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Sedef kakma ve oymacılık ahşap-sedef işçiliğidir.",
             "difficulty": "orta"
           },
           {
@@ -43674,13 +43674,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Kapadokya (Avanos) yöresiyle özdeşleşen, kızıl toprağıyla ünlü geleneksel el sanatı aşağıdakilerden hangisidir?",
             "options": [
               "A) Bakırcılık",
-              "B) Çömlekçilik (seramik) ✓ A. Bakırcılık Avanos'un öne çıkan zanaatı değildir. B. Camcılık farklı merkezlerle anılır. C. Halıcılık başka yörelerle özdeşleşmiştir. D. Keçecilik farklı bir zanaattır. E. Doğru: Avanos (Kapadokya), çömlekçilik/seramik ile ünlüdür.",
+              "B) Çömlekçilik (seramik)",
               "C) Halıcılık",
               "D) Keçecilik",
               "E) Camcılık"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Avanos (Kapadokya), çömlekçilik/seramik ile ünlüdür.",
             "difficulty": "orta"
           },
           {
@@ -43691,12 +43691,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Çinicilik",
               "B) Bakır dövme",
-              "C) Telkâri (gümüş işlemeciliği) ✓",
+              "C) Telkâri (gümüş işlemeciliği)",
               "D) Keçecilik",
-              "E) Ebru A. Çinicilik seramik yüzey sanatıdır. B. Bakır dövme farklı bir zanaattır. C. Doğru: Telkâri (gümüş tel işçiliği) Beypazarı ve Midyat ile özdeşleşir. D. Keçecilik yün işçiliğidir. E. Ebru kâğıt sanatıdır."
+              "E) Ebru"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Telkâri (gümüş tel işçiliği) Beypazarı ve Midyat ile özdeşleşir.",
             "difficulty": "orta"
           },
           {
@@ -43708,11 +43708,11 @@ export const COURSES_DATA: Course[] = [
               "A) Çömlekçilik",
               "B) Cam işçiliği",
               "C) Bakırcılık",
-              "D) Halı-kilim dokumacılığı ✓ A. Çömlekçilik Avanos ile anılır. B. Cam işçiliği bu yörelerle özdeşleşmez. C. Bakırcılık farklı merkezlerdedir. D. Sepetçilik bu yörelerin simgesi değildir. E. Doğru: Hereke ve Uşak halılarıyla ünlüdür.",
+              "D) Halı-kilim dokumacılığı",
               "E) Sepetçilik"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Hereke ve Uşak halılarıyla ünlüdür.",
             "difficulty": "orta"
           },
           {
@@ -43722,13 +43722,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Geleneksel Türk el sanatlarında 'çini' hangi yüzeyin bezenmesiyle ilgilidir?",
             "options": [
               "A) Cam yüzey",
-              "B) Su üzeri A. Cam yüzey vitray/cam sanatıdır. B. Doğru: Çini, sırlı seramik/karo yüzeylerin bezenmesi sanatıdır. MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru C. Kâğıt yüzeyi tezhip/minyatür/hat ile ilgilidir. D. Metal levha maden işçiliğidir. E. Su üzeri ebru sanatına aittir.",
+              "B) Su üzeri",
               "C) Kâğıt yüzeyi",
               "D) Metal levha",
-              "E) Sırlı seramik/karo yüzeyler ✓"
+              "E) Sırlı seramik/karo yüzeyler"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Çini, sırlı seramik/karo yüzeylerin bezenmesi sanatıdır.",
             "difficulty": "orta"
           },
           {
@@ -43737,14 +43737,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "İznik ve Kütahya çinilerinde en çok kullanılan renk grubu aşağıdakilerden hangisidir?",
             "options": [
-              "A) Mavi-turkuaz ve mercan kırmızısı ✓",
+              "A) Mavi-turkuaz ve mercan kırmızısı",
               "B) Yalnızca kahverengi",
               "C) Yalnızca siyah-beyaz",
               "D) Yalnızca mor",
-              "E) Yalnızca gri tonları A. Doğru: Klasik Türk çinisinde mavi-turkuaz ve mercan kırmızısı öne çıkar. B. Yalnızca kahverengi kullanılmaz. C. Yalnızca siyah-beyaz kullanılmaz. D. Yalnızca mor kullanılmaz. E. Yalnızca gri kullanılmaz."
+              "E) Yalnızca gri tonları"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Klasik Türk çinisinde mavi-turkuaz ve mercan kırmızısı öne çıkar.",
             "difficulty": "orta"
           },
           {
@@ -43754,13 +43754,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Aşağıdakilerden hangisi geleneksel bir Türk el sanatı DEĞİLdir?",
             "options": [
               "A) Keçecilik",
-              "B) Origami ✓",
+              "B) Origami",
               "C) Telkâri",
               "D) Çini",
-              "E) Ebru A. Keçecilik geleneksel yün işçiliğidir. B. Çini geleneksel Türk seramik sanatıdır. C. Telkâri geleneksel gümüş işçiliğidir. D. Doğru: Origami Japon kâğıt katlama sanatıdır, Türk el sanatı değildir. E. Ebru geleneksel Türk kâğıt sanatıdır."
+              "E) Ebru"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Origami Japon kâğıt katlama sanatıdır, Türk el sanatı değildir.",
             "difficulty": "orta"
           },
           {
@@ -43769,30 +43769,30 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "Ham derinin işlenip kullanılabilir hâle getirilmesi (tabaklama) zanaatına ne ad verilir?",
             "options": [
-              "A) Semercilik, at ve eşek gibi binek hayvanlarının sırtına konulan eyerleri yapma zanaatıdır; ham derinin tabaklanarak kullanılabilir hâle getirilmesi değildir, ürünler deriden yapılmakla birlikte bu işlem debbağlık sayılmaz.",
-              "B) Saraçlık, işlenmiş deriden koşum, eyer takımı ve kemer gibi ürünler yapan geleneksel bir zanaattır; ham derinin tabaklanması işi bu zanaatın konusu değildir, debbağlık ayrı bir zanaat olarak uygulanır.",
-              "C) Nalbantlık, atların ve eşeklerin ayaklarına demirden nal çakma işiyle uğraşan geleneksel bir zanaattır; ham derinin işlenmesiyle ilgili olmadığı gibi, tabaklama işlemi nalbantlık kapsamında yapılmaz.",
-              "D) Debbağlık (tabaklık) ✓ A. Semercilik semer yapımıdır. B. Saraçlık işlenmiş deriden ürün yapımıdır. C. Nalbantlık nal çakma işidir. D. Telkâri gümüş işçiliğidir. E. Doğru: Debbağlık, ham derinin tabaklanması zanaatıdır.",
-              "E) Telkâri, gümüş ya da altın tellerle ince işçilik yaparak süs eşyası üreten geleneksel kuyumculuk tekniğidir; ham derinin tabaklanmasıyla ilgili değildir ve kuyumculuğa ait bir zanaat olarak deri işlemez."
+              "A) Semercilik",
+              "B) Saraçlık",
+              "C) Nalbantlık",
+              "D) Debbağlık (tabaklık)",
+              "E) Telkâri"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Debbağlık, ham derinin tabaklanması zanaatıdır.",
             "difficulty": "orta"
           },
           {
             "id": "trp_q_1531",
             "subtopicId": "sanattarihi_6",
             "courseId": "sanattarihi",
-            "questionText": "Geleneksel Türk el sanatlarında 'oya' aşağıdakilerden hangisiyle ilgilidir? MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru",
+            "questionText": "Geleneksel Türk el sanatlarında 'oya' aşağıdakilerden hangisiyle ilgilidir?",
             "options": [
               "A) Bakır dövme",
               "B) Taş işleme",
               "C) Ahşap oyma",
-              "D) Cam üfleme A. Bakır dövme maden işçiliğidir. B. Taş işleme mimari süslemeyle ilgilidir. C. Ahşap oyma farklı bir zanaattır. D. Doğru: Oya, iğne/tığ ile yapılan ince kenar süslemesidir (yazma, başörtüsü kenarı). E. Cam üfleme cam sanatıdır.",
-              "E) İğne/tığ ile yapılan ince kenar süslemeleri ✓"
+              "D) Cam üfleme",
+              "E) İğne/tığ ile yapılan ince kenar süslemeleri"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Oya, iğne/tığ ile yapılan ince kenar süslemesidir (yazma, başörtüsü kenarı).",
             "difficulty": "orta"
           },
           {
@@ -43802,13 +43802,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Cam sanatında, eritilmiş cama şekil vermek için kullanılan geleneksel teknik aşağıdakilerden hangisidir?",
             "options": [
               "A) Kakma",
-              "B) Cam üfleme ✓",
+              "B) Cam üfleme",
               "C) Kalemişi",
               "D) Telkâri",
-              "E) Malakâri A. Kakma metal/ahşap gömme tekniğidir. B. Kalemişi duvar/tavan boyama süslemesidir. C. Doğru: Cam üfleme, eritilmiş cama üfleyerek şekil verme tekniğidir. D. Telkâri gümüş işçiliğidir. E. Malakâri kabartma alçı süslemesidir."
+              "E) Malakâri"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Cam üfleme, eritilmiş cama üfleyerek şekil verme tekniğidir.",
             "difficulty": "orta"
           },
           {
@@ -43819,12 +43819,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Katı'",
               "B) Ebru",
-              "C) Kalemişi ✓",
+              "C) Kalemişi",
               "D) Telkâri",
-              "E) Sedef kakma A. Katı' kâğıt kesme sanatıdır. B. Ebru kâğıt sanatıdır. C. Doğru: Kalemişi, duvar ve tavanlara yapılan boyalı süslemedir. D. Telkâri gümüş işçiliğidir. E. Sedef kakma ahşap-sedef işçiliğidir."
+              "E) Sedef kakma"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Kalemişi, duvar ve tavanlara yapılan boyalı süslemedir.",
             "difficulty": "orta"
           },
           {
@@ -44299,12 +44299,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Türkü",
               "B) Destan",
-              "C) Gazel ✓",
+              "C) Gazel",
               "D) Mani",
-              "E) Koşma A. Türkü anonim halk ürünüdür. B. Destan uzun manzum anlatıdır. C. Mani halk edebiyatı biçimidir. D. Doğru: Gazel, divan şiirinin aşk temalı beyitlerden oluşan nazım biçimidir. E. Koşma halk edebiyatı biçimidir."
+              "E) Koşma"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Gazel, divan şiirinin aşk temalı beyitlerden oluşan nazım biçimidir.",
             "difficulty": "orta"
           },
           {
@@ -44459,12 +44459,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Nef'i",
               "B) Baki",
-              "C) Karacaoğlan ✓",
+              "C) Karacaoğlan",
               "D) Fuzuli",
-              "E) Nedim A. Nef'i divan şairidir (hiciv). B. Baki divan şairidir. C. Doğru: Karacaoğlan, koşma ve semaileriyle ünlü halk şairidir. D. Fuzuli divan şairidir (Leyla vü Mecnun). E. Nedim divan şairidir (Lale Devri)."
+              "E) Nedim"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Karacaoğlan, koşma ve semaileriyle ünlü halk şairidir.",
             "difficulty": "orta"
           },
           {
@@ -44476,11 +44476,11 @@ export const COURSES_DATA: Course[] = [
               "A) Nedim",
               "B) Fuzuli",
               "C) Baki",
-              "D) Yunus Emre ✓",
-              "E) Şeyh Galip A. Doğru: Yunus Emre, sade Türkçesi ve ilahileriyle tanınan tekke şairidir. B. Fuzuli divan şairidir. C. Baki divan şairidir. D. Nedim divan şairidir. E. Şeyh Galip divan şairidir (Hüsn ü Aşk)."
+              "D) Yunus Emre",
+              "E) Şeyh Galip"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Yunus Emre, sade Türkçesi ve ilahileriyle tanınan tekke şairidir.",
             "difficulty": "orta"
           },
           {
@@ -44489,14 +44489,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "Anonim halk edebiyatında, genellikle iki dörtlükten oluşan ve ilk iki dizesi 'doldurma' olan söz sanatı aşağıdakilerden hangisidir?",
             "options": [
-              "A) Mani ✓",
+              "A) Mani",
               "B) Gazel",
               "C) Mesnevi",
               "D) Rubai",
-              "E) Kaside A. Gazel divan şiiri nazım biçimidir. MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru B. Doğru: Mani, anonim halk edebiyatının kısa nazım biçimidir. C. Mesnevi divan şiiri nazım biçimidir. D. Rubai divan/klasik şiir biçimidir. E. Kaside divan şiiri nazım biçimidir."
+              "E) Kaside"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Mani, anonim halk edebiyatının kısa nazım biçimidir.",
             "difficulty": "orta"
           },
           {
@@ -44505,14 +44505,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "Anadolu'da geleneksel el sanatlarının usta-çırak ilişkisiyle aktarılmasını ahlaki-mesleki kurallarla düzenleyen kurum aşağıdakilerden hangisidir?",
             "options": [
-              "A) Ahilik ✓",
+              "A) Ahilik",
               "B) Enderun",
               "C) Vakıf",
               "D) Divan-ı Hümayun",
-              "E) Lonca (Avrupa) A. Doğru: Ahilik, esnaf-zanaatkârı usta-çırak ve ahlak ilkeleriyle örgütleyen kurumdur. B. Enderun saray okuludur. C. Vakıf hayır kurumudur. D. Divan-ı Hümayun devlet karar organıdır. E. Lonca Avrupa'daki benzer örgüttür, Anadolu'daki Ahiliktir."
+              "E) Lonca (Avrupa)"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Ahilik, esnaf-zanaatkârı usta-çırak ve ahlak ilkeleriyle örgütleyen kurumdur.",
             "difficulty": "orta"
           },
           {
@@ -44635,12 +44635,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Halı",
               "B) Atlas kumaş",
-              "C) Kilim ✓",
+              "C) Kilim",
               "D) Keçe",
-              "E) İpek brokar A. Doğru: Kilim, havsız (düz) dokuma yaygıdır. B. Atlas parlak bir kumaştır. C. Halı havlı/düğümlü dokumadır. D. Keçe dokuma değil, basma ürünüdür. E. İpek brokar bir kumaş türüdür."
+              "E) İpek brokar"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Kilim, havsız (düz) dokuma yaygıdır.",
             "difficulty": "orta"
           },
           {
@@ -44777,14 +44777,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "sanattarihi",
             "questionText": "Yün liflerinin ıslatılıp basınç ve sürtünmeyle birbirine kaynaştırılmasıyla üretilen, dokuma olmayan ürün aşağıdakilerden hangisidir?",
             "options": [
-              "A) Kilim, atkı ve çözgü ipliklerinin düz dokunmasıyla üretilen, düğümsüz ve iki yüzü de benzer desenli bir dokuma türüdür; yün liflerinin ıslatılıp basınç ve sürtünmeyle birleştirilmesiyle yapılmaz ve bu nedenle dokuma olmayan ürün değildir.",
-              "B) Halı, çözgü ipliklerine düğüm atılarak ilmek ilmek üretilen, yer kaplaması olarak kullanılan ve dokuma tekniğine dayanan bir üründür; yün liflerinin ıslatılıp basınçla birleştirilmesiyle üretilmez ve keçe değildir.",
-              "C) Pamuklu bez, pamuk ipliklerinin dokuma tezgâhında birbirine kesişmesiyle üretilen, giyim ve ev tekstilinde kullanılan bir kumaştır; yün liflerinin basmayla birleştirilmesiyle yapılmaz ve dokumasız bir ürün değildir.",
-              "D) Keçe ✓ A. Kilim düz dokumadır. B. Halı düğümlü dokumadır. C. Pamuklu bez dokuma ürünüdür. D. İpek bir dokuma lifidir. E. Doğru: Keçe, yün liflerinin basmayla birleştirilmesiyle üretilir (dokuma değildir).",
-              "E) İpek, ipek böceği kozasından elde edilen doğal bir lif olup tezgâhta dokunarak kumaş üretilen, parlak ve hafif yapısıyla bilinen bir malzemedir; yün liflerinin basmayla birleştirilmesiyle değil, dokuma yöntemiyle işlenir."
+              "A) Kilim",
+              "B) Halı",
+              "C) Pamuklu bez",
+              "D) Keçe",
+              "E) İpek"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Keçe, yün liflerinin basmayla birleştirilmesiyle üretilir (dokuma değildir).",
             "difficulty": "orta"
           },
           {
@@ -44796,11 +44796,11 @@ export const COURSES_DATA: Course[] = [
               "A) Rize",
               "B) Iğdır",
               "C) Sinop",
-              "D) Kars A. Rize çay ve doğa ile anılır. B. Iğdır bu zanaatla öne çıkmaz. C. Sinop ahşap/gemi ile anılır. D. Doğru: Gaziantep, bakır işlemeciliğiyle ünlü el sanatı merkezlerindendir. E. Kars kaz/peynir gibi ürünlerle anılır.",
-              "E) Gaziantep ✓"
+              "D) Kars",
+              "E) Gaziantep"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Gaziantep, bakır işlemeciliğiyle ünlü el sanatı merkezlerindendir.",
             "difficulty": "orta"
           },
           {
@@ -44811,12 +44811,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Semercilik",
               "B) Nalbantlık",
-              "C) Saraçlık ✓",
+              "C) Saraçlık",
               "D) Debbağlık",
-              "E) Kalaycılık A. Semercilik semer yapımıdır (ahşap ağırlıklı). B. Nalbantlık at nalı çakma işidir. C. Debbağlık ham derinin tabaklanmasıdır (ayrı aşama). D. Doğru: Saraçlık, deriden eyer/koşum takımı yapan zanaattır. E. Kalaycılık bakır kaplama işidir."
+              "E) Kalaycılık"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Saraçlık, deriden eyer/koşum takımı yapan zanaattır.",
             "difficulty": "orta"
           },
           {
@@ -46838,14 +46838,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "mitoloji",
             "questionText": "İlyada ve Odysseia destanlarının şairi kabul edilen, İyonya kökenli olduğu düşünülen ozan kimdir?",
             "options": [
-              "A) Hesiodos, Theogonia ve İşler ve Günler adlı eserleriyle tanınan, tanrıların soy ağacını anlatan Yunan şairidir; İlyada ve Odysseia destanlarının yazarı kabul edilmez, İyonya kökenli bir destan şairi değildir.",
-              "B) Pindaros, olimpiyat galiplerini öven zafer odeleriyle tanınan, lirik şiirleriyle ünlü Yunan şairidir; İlyada ve Odysseia destanlarının şairi değildir ve bu eserlerin yaratıcısı olarak anılmaz.",
-              "C) Herodotos, Persler ile Yunanlar arasındaki savaşları anlatan Historia adlı eseriyle bilinen Yunan tarih yazarıdır; destan şairi değildir ve İlyada ile Odysseia'nın yazarı olarak kabul edilmez.",
-              "D) Homeros ✓ A. Hesiodos Theogonia'nın şairidir. B. Pindaros lirik şairdir. C. Herodotos tarih yazarıdır. D. Sofokles tragedya yazarıdır. E. Doğru: Homeros, İyonya kökenli kabul edilen destan şairidir.",
-              "E) Sofokles, Oidipus Tyrannos ve Antigone gibi trajedileriyle tanınan Atinalı tragedya yazarıdır; İlyada ve Odysseia destanlarının şairi değildir ve İyonya kökenli bir ozan olarak anılmaz."
+              "A) Hesiodos",
+              "B) Pindaros",
+              "C) Herodotos",
+              "D) Homeros",
+              "E) Sofokles"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Homeros, İyonya kökenli kabul edilen destan şairidir.",
             "difficulty": "orta"
           },
           {
@@ -55593,13 +55593,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Mevlana Müzesi ve Şeb-i Arus törenleriyle inanç/kültür turizminin merkezi olan ilimiz aşağıdakilerden hangisidir?",
             "options": [
               "A) Kayseri",
-              "B) Konya ✓",
+              "B) Konya",
               "C) Amasya",
               "D) Bursa",
-              "E) Sivas A. Kayseri farklı bir merkezdir. B. Amasya farklı bir merkezdir. C. Doğru: Mevlana Müzesi Konya'dadır. D. Bursa farklı eserlerle anılır. E. Sivas farklı bir ildir."
+              "E) Sivas"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Mevlana Müzesi Konya'dadır.",
             "difficulty": "orta"
           },
           {
@@ -58180,14 +58180,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Türkiye'nin bitki çeşitliliği açısından zengin olmasının temel nedeni aşağıdakilerden hangisidir?",
             "options": [
-              "A) Üç fitocoğrafik bölgenin ve farklı iklimlerin bir arada bulunması ✓",
+              "A) Üç fitocoğrafik bölgenin ve farklı iklimlerin bir arada bulunması",
               "B) Ada ülkesi olması",
               "C) Hiç dağının olmaması",
               "D) Tamamen çöl olması",
-              "E) Tek bir iklim tipine sahip olması A. Ada ülkesi değildir. B. Doğru: Farklı iklimler ve üç fitocoğrafik bölge, Türkiye'yi bitki çeşitliliğinde zengin kılar. C. Çok sayıda dağı vardır; bu da çeşitliliği artırır. D. Türkiye çöl değildir. E. Türkiye tek iklime sahip değildir; çeşitlilik bundan gelir."
+              "E) Tek bir iklim tipine sahip olması"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Farklı iklimler ve üç fitocoğrafik bölge, Türkiye'yi bitki çeşitliliğinde zengin kılar.",
             "difficulty": "orta"
           },
           {
@@ -58198,12 +58198,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Yağmur ormanı",
               "B) Longoz",
-              "C) Maki A. Yağmur ormanı tropik nemli bölgelere özgüdür. B. Longoz su basar ormanıdır (Karadeniz). C. Doğru: Az yağışlı İç Anadolu'da step (bozkır) egemendir. D. Mangrov tropik kıyı örtüsüdür. E. Maki Akdeniz'e özgüdür. MKS KONU SERİSİ · FLORA VE FAUNA 60 soru",
+              "C) Maki",
               "D) Mangrov",
-              "E) Step ✓"
+              "E) Step"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Az yağışlı İç Anadolu'da step (bozkır) egemendir.",
             "difficulty": "orta"
           },
           {
@@ -58212,11 +58212,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Kütahya (Domaniç-Tavşanlı) yöresinde görülen, piramit biçimli tepesiyle tanınan endemik çam aşağıdakilerden hangisidir?",
             "options": [
-              "A) Ehrami Karaçam ✓ MKS KONU SERİSİ · FLORA VE FAUNA 60 soru",
-              "B) Sarıçam",
-              "C) Fıstık çamı",
+              "A) Ehrami Karaçam",
+              "B) Fıstık çamı",
+              "C) Sarıçam",
               "D) Halep çamı",
-              "E) Toros sediri A. Doğru: Ehrami Karaçam, piramit biçimli tepesiyle Kütahya yöresine özgüdür. B. Sarıçam kuzey ormanlarında yaygındır. C. Fıstık çamı geniş şemsiye tacıyla tanınır. D. Halep çamı Akdeniz çamıdır. E. Toros sediri farklı bir türdür."
+              "E) Toros sediri"
             ],
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
@@ -58228,11 +58228,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Datça ve Bozburun yarımadalarına özgü, doğal yayılışı sınırlı endemik palmiye aşağıdakilerden hangisidir?",
             "options": [
-              "A) Zeytin",
-              "B) Datça Hurması ✓",
-              "C) Hindistan cevizi",
-              "D) Fıstık çamı",
-              "E) Sığla A. Zeytin bir meyve ağacıdır. B. Hindistan cevizi tropik bir palmiyedir. C. Doğru: Datça Hurması, yarımadaya özgü endemik palmiyedir. D. Fıstık çamı bir çam türüdür. E. Sığla bir ağaç türüdür, palmiye değildir."
+              "A) Sığla",
+              "B) Datça Hurması",
+              "C) Fıstık çamı",
+              "D) Zeytin",
+              "E) Hindistan cevizi"
             ],
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
@@ -58244,14 +58244,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Yumrularından elde edilen, aşırı toplanması nedeniyle doğadan ihracatı yasaklanan bitki aşağıdakilerden hangisidir?",
             "options": [
-              "A) Salep (orkide) ✓ A. Mısır bir tahıldır. B. Ayçiçeği tarım bitkisidir. C. Zeytin tarımı yapılan bir ağaçtır. D. Buğday bir tahıldır. E. Doğru: Salep orkideleri, aşırı toplama tehdidi nedeniyle koruma altındadır.",
-              "B) Ayçiçeği, yağı için yaygın olarak ekilen, büyük sarı başlarıyla tanınan bir tarım bitkisidir; yumrusu bulunmaz, doğadan toplanması yasak değildir ve ihracatı konusunda bir koruma statüsü de yoktur.",
-              "C) Zeytin, Akdeniz ikliminde yetişen, meyvesinden yağ elde edilen uzun ömürlü bir ağaçtır; yumrusu olmayan bu bitki doğadan toplanmaz, ihracatına koruma gerekçesiyle yasak konulmamıştır ve orkide değildir.",
-              "D) Buğday, dünyanın en çok ekilen tahıl türlerinden biridir; ekmek ve makarna yapımında kullanılan taneleri bulunur, yumrusu yoktur ve doğadan toplanmasına bağlı bir koruma sorunu da yaşanmaz.",
-              "E) Mısır, koçanında biriken taneleriyle bilinen, yaz aylarında yetişen önemli bir tahıl bitkisidir; yumrulu yapıya sahip değildir, doğadan aşırı toplanması söz konusu olmadığı için ihracatı konusunda yasak bulunmamaktadır."
+              "A) Salep (orkide)",
+              "B) Ayçiçeği",
+              "C) Zeytin",
+              "D) Buğday",
+              "E) Mısır"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Salep orkideleri, aşırı toplama tehdidi nedeniyle koruma altındadır.",
             "difficulty": "orta"
           },
           {
@@ -58261,13 +58261,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Karadeniz'in nemli ormanlarında yaygın olan geniş yapraklı ağaç türü aşağıdakilerden hangisidir?",
             "options": [
               "A) Hurma",
-              "B) Kayın ✓",
+              "B) Kayın",
               "C) Kızılçam",
               "D) Fıstık çamı",
-              "E) Zeytin A. Hurma sıcak iklim bitkisidir. B. Fıstık çamı Akdeniz'de yaygındır. C. Kızılçam Akdeniz kıyı çamıdır. D. Doğru: Kayın, Karadeniz'in nemli ormanlarında yaygındır. E. Zeytin Ege-Akdeniz ağacıdır."
+              "E) Zeytin"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Kayın, Karadeniz'in nemli ormanlarında yaygındır.",
             "difficulty": "orta"
           },
           {
@@ -58276,11 +58276,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Akdeniz kıyılarında geniş yayılış gösteren, reçineli iğne yapraklı ağaç aşağıdakilerden hangisidir?",
             "options": [
-              "A) Kavak",
-              "B) Kayın",
-              "C) Kızılçam ✓",
-              "D) Ladin",
-              "E) Göknar A. Doğru: Kızılçam, Akdeniz kıyılarının yaygın çam türüdür. B. Kayın Karadeniz'in geniş yapraklı ağacıdır. C. Kavak su kenarı ağacıdır. D. Ladin Doğu Karadeniz iğne yapraklısıdır. E. Göknar nemli yüksek ormanlarda görülür. MKS KONU SERİSİ · FLORA VE FAUNA 60 soru"
+              "A) Kayın",
+              "B) Ladin",
+              "C) Kızılçam",
+              "D) Göknar",
+              "E) Kavak"
             ],
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
@@ -58295,11 +58295,11 @@ export const COURSES_DATA: Course[] = [
               "A) Fıstık çamı",
               "B) Hurma",
               "C) Keçiboynuzu",
-              "D) Ladin ✓",
-              "E) Zeytin A. Fıstık çamı Akdeniz'de yaygındır. B. Hurma sıcak iklim bitkisidir. C. Doğru: Ladin, Doğu Karadeniz'in iğne yapraklı orman ağacıdır. D. Keçiboynuzu Akdeniz bitkisidir. E. Zeytin Ege-Akdeniz bitkisidir."
+              "D) Ladin",
+              "E) Zeytin"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Ladin, Doğu Karadeniz'in iğne yapraklı orman ağacıdır.",
             "difficulty": "orta"
           },
           {
@@ -58308,11 +58308,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Karadeniz ormanlarının alt katında yaygın olan, çiçekli çalı türü aşağıdakilerden hangisidir?",
             "options": [
-              "A) Nar",
-              "B) Hurma",
-              "C) İncir",
-              "D) Zeytin",
-              "E) Orman gülü (Rhododendron) ✓ A. Nar sıcak iklim meyvesidir. B. Hurma sıcak iklim bitkisidir. C. İncir Akdeniz meyvesidir. D. Zeytin Ege-Akdeniz ağacıdır. E. Doğru: Orman gülü (Rhododendron), Karadeniz ormanlarının çalı katında yaygındır."
+              "A) İncir",
+              "B) Zeytin",
+              "C) Nar",
+              "D) Hurma",
+              "E) Orman gülü (Rhododendron)"
             ],
             "correctIndex": 4,
             "explanation": "Konu anlatımına bakınız.",
@@ -58324,14 +58324,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Ege ve Akdeniz'de tarımı yapılan, maki örtüsüyle de ilişkili simge ağaç aşağıdakilerden hangisidir?",
             "options": [
-              "A) Zeytin ✓ A. Göknar nemli ormanlarda görülür. B. Kayın Karadeniz geniş yapraklısıdır. C. Ladin Karadeniz iğne yapraklısıdır. D. Sarıçam kuzey ormanlarında yaygındır. E. Doğru: Zeytin, Ege-Akdeniz ikliminin simge ağacıdır.",
+              "A) Zeytin",
               "B) Kayın",
               "C) Ladin",
               "D) Sarıçam",
               "E) Göknar"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Zeytin, Ege-Akdeniz ikliminin simge ağacıdır.",
             "difficulty": "orta"
           },
           {
@@ -58341,13 +58341,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Akdeniz ikliminde makinin tahrip olmasıyla ortaya çıkan, daha cılız ve seyrek çalı örtüsüne ne ad verilir?",
             "options": [
               "A) Longoz",
-              "B) Tundra MKS KONU SERİSİ · FLORA VE FAUNA 60 soru",
-              "C) Garig (frigana) ✓",
+              "B) Tundra",
+              "C) Garig (frigana)",
               "D) Alpin çayır",
-              "E) Step A. Doğru: Garig, makinin tahribiyle oluşan cılız çalı örtüsüdür. B. Tundra kutupsaldır. C. Longoz su basar ormanıdır. D. Alpin çayır yüksek dağ örtüsüdür. E. Step iç bölge ot örtüsüdür."
+              "E) Step"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Garig, makinin tahribiyle oluşan cılız çalı örtüsüdür.",
             "difficulty": "orta"
           },
           {
@@ -58356,14 +58356,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Yüksek dağların orman sınırının üstünde, ağaçsız otsu bitkilerden oluşan örtüye ne ad verilir?",
             "options": [
-              "A) Longoz, Karadeniz kıyılarında akarsu kenarlarında ve bataklıklarda su basan, sık ağaçlardan oluşan orman tipidir; orman sınırının üstünde otsu bitkilerden oluşan bir örtü değildir ve dağlara özgü bir bitki topluluğu sayılmaz.",
-              "B) Garig, Akdeniz kıyılarında kurak ve taşlı alanlarda seyrek yetişen, cılız ve dikenli çalılardan oluşan bir bitki topluluğudur; yüksek dağların orman sınırının üstünde görülmez ve otsu bir çayır niteliği taşımaz.",
-              "C) Maki, Akdeniz ve Ege iklimine özgü, sık ve yapraklı çalılardan oluşan bir bitki topluluğudur; yüksek dağlarda orman sınırının üstünde değil, deniz seviyesine yakın alanlarda yayılır ve otsu bir çayır olarak tanımlanmaz.",
-              "D) Alpin çayır (dağ çayırı) ✓ A. Longoz su basar ormanıdır. B. Garig cılız Akdeniz çalısıdır. C. Maki Akdeniz çalısıdır. D. Mangrov tropik kıyı örtüsüdür. E. Doğru: Alpin çayır, orman sınırının üstündeki otsu örtüdür.",
-              "E) Mangrov, tropikal kıyı şeritlerinde tuzlu suda yetişen, kökleri su üzerinde görünen çalı ve ağaçlardan oluşan bir ekosistemdir; yüksek dağlardaki orman sınırının üstünde yer almaz ve alpin çayırla ilgisi yoktur."
+              "A) Longoz",
+              "B) Garig",
+              "C) Maki",
+              "D) Alpin çayır (dağ çayırı)",
+              "E) Mangrov"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Alpin çayır, orman sınırının üstündeki otsu örtüdür.",
             "difficulty": "orta"
           },
           {
@@ -58372,14 +58372,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Akdeniz'de sığ kıyılarda çayır gibi yayılan, birçok deniz canlısına yuva olan ve oksijen üreten deniz bitkisi aşağıdakilerden hangisidir?",
             "options": [
-              "A) Deniz çayırı (Posidonia) ✓",
+              "A) Deniz çayırı (Posidonia)",
               "B) Mercan",
               "C) Deniz anası",
               "D) Sünger",
-              "E) Yosun karası A. Deniz anası bir hayvandır. B. Mercan bir hayvandır (polip). C. Doğru: Posidonia (deniz çayırı), Akdeniz'in önemli ekosistem bileşenidir. D. Sünger bir deniz hayvanıdır. E. Bu tanım deniz çayırına aittir."
+              "E) Yosun karası"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Posidonia (deniz çayırı), Akdeniz'in önemli ekosistem bileşenidir.",
             "difficulty": "orta"
           },
           {
@@ -58388,11 +58388,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Şanlıurfa Ceylanpınar ile özdeşleşen, korunan hayvan aşağıdakilerden hangisidir?",
             "options": [
-              "A) Zebra, Afrika savanlarında sürüler halinde yaşayan, siyah ve beyaz çizgili tüyleriyle tanınan at benzeri bir memelidir; Ceylanpınar'la özdeşleşmez, Şanlıurfa'da yaşamaz ve korunan bir tür olarak bilinmez.",
-              "B) Bizon, Kuzey Amerika ve Avrupa'nın ormanlık bölgelerinde yaşayan, omuzları yüksek ve kalın kürkü olan büyük bir memelidir; Ceylanpınar ile özdeşleşmez, Şanlıurfa'nın koruma sembolü değildir.",
-              "C) Lama, Güney Amerika'nın And Dağları'nda yaşayan, yün üretimiyle bilinen ve yük taşımada kullanılan evcilleştirilmiş bir memelidir; Ceylanpınar'la ilişkilendirilmez ve Şanlıurfa'da korunan bir tür değildir.",
-              "D) Antilop gnu, Afrika'nın doğu ve güney savanlarında büyük sürüler halinde göç eden, sakallı ve boynuzlu bir antilop türüdür; Ceylanpınar ile özdeşleşmez, Şanlıurfa'da yaşamaz ve bu bölgeye özgü değildir.",
-              "E) Ceylan (gazal) ✓ A. Zebra Afrika türüdür. B. Bizon Amerika türüdür. C. Lama Güney Amerika türüdür. D. Gnu Afrika türüdür. E. Doğru: Ceylan, Ceylanpınar (Şanlıurfa) ile özdeşleşir."
+              "A) Antilop gnu",
+              "B) Zebra",
+              "C) Bizon",
+              "D) Lama",
+              "E) Ceylan (gazal)"
             ],
             "correctIndex": 4,
             "explanation": "Konu anlatımına bakınız.",
@@ -58404,11 +58404,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Doğu Karadeniz'in yüksek dağlarında yaşayan, çevik dağ hayvanı aşağıdakilerden hangisidir?",
             "options": [
-              "A) Çengel boynuzlu dağ keçisi ✓",
+              "A) Çengel boynuzlu dağ keçisi",
               "B) Kutup ayısı",
               "C) Deve",
-              "D) Koala",
-              "E) Panda A. Deve çöl-bozkır hayvanıdır. B. Kutup ayısı kutup bölgesindedir. C. Doğru: Çengel boynuzlu dağ keçisi, Karadeniz yüksek dağlarında yaşar. D. Koala Avustralya'ya özgüdür. E. Panda Çin'e özgüdür."
+              "D) Panda",
+              "E) Koala"
             ],
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
@@ -58421,13 +58421,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Lidyalılar Batı Anadolu'da hangi iki akarsu arasındaki verimli bölgede egemenlik kurmuştur?",
             "options": [
               "A) Seyhan - Ceyhan",
-              "B) Gediz - Menderes ✓",
+              "B) Gediz - Menderes",
               "C) Fırat - Dicle",
               "D) Sakarya - Susurluk",
-              "E) Kızılırmak - Yeşilırmak A. Seyhan-Ceyhan Çukurova'dadır. B. Sakarya-Susurluk kuzeybatıdadır. C. Fırat-Dicle Güneydoğu'dadır (Mezopotamya). D. Doğru: Lidyalılar Gediz ile (Büyük) Menderes arasında egemen olmuştur. E. Kızılırmak-Yeşilırmak Orta/Kuzey Anadolu'dadır."
+              "E) Kızılırmak - Yeşilırmak"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Lidyalılar Gediz ile (Büyük) Menderes arasında egemen olmuştur.",
             "difficulty": "orta"
           },
           {
@@ -59270,9 +59270,9 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Muz ve ananas",
               "B) Kahve ve kakao",
-              "C) Buğday ve mercimek ✓",
+              "C) Buğday ve mercimek",
               "D) Pirinç ve çay",
-              "E) Patates ve mısır A. Doğru: Anadolu, buğday ve mercimek gibi bitkilerin gen merkezlerindendir. B. Kahve-kakao tropik kökenlidir. C. Muz-ananas tropik kökenlidir. D. Pirinç-çay Anadolu kökenli değildir. E. Patates-mısır Amerika kökenlidir."
+              "E) Patates ve mısır"
             ],
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
@@ -59364,11 +59364,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Türkiye florasının yaklaşık ne kadarı ülkeye özgü (endemik) türlerden oluşur?",
             "options": [
-              "A) Tamamı",
-              "B) Yaklaşık üçte biri ✓",
-              "C) Onda biri",
-              "D) Yarısından azı asla",
-              "E) Neredeyse hiçbiri A. Tamamı endemik değildir. B. Doğru: Türkiye florasının yaklaşık üçte biri endemiktir. C. Onda birinden çok daha fazladır. D. Oran üçte bir civarındadır; bu ifade yanlıştır. E. Endemizm oranı çok yüksektir, 'hiçbiri' yanlıştır."
+              "A) Neredeyse hiçbiri",
+              "B) Yaklaşık üçte biri",
+              "C) Tamamı",
+              "D) Yarısından fazlası kesinlikle",
+              "E) Onda biri"
             ],
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
@@ -59380,11 +59380,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Bir türün doğal olarak ortaya çıktığı ve çeşitlilik gösterdiği bölgeye ne ad verilir?",
             "options": [
-              "A) Sit alanı",
-              "B) Gen (köken) merkezi ✓",
-              "C) Longoz",
-              "D) Delta",
-              "E) Maki A. Sit alanı koruma statüsüdür. B. Longoz bir orman tipidir. C. Doğru: Gen merkezi, bir türün kökeninin/çeşitliliğinin yoğun olduğu bölgedir. D. Delta akarsuyun denize döküldüğü ovadır. E. Maki bir bitki örtüsü tipidir."
+              "A) Delta",
+              "B) Gen (köken) merkezi",
+              "C) Sit alanı",
+              "D) Maki",
+              "E) Longoz"
             ],
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
@@ -59397,13 +59397,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Kırklareli-İğneada çevresinde görülen, periyodik olarak su altında kalan orman tipine ne ad verilir?",
             "options": [
               "A) Tundra",
-              "B) Longoz (su basar) ormanı ✓",
+              "B) Longoz (su basar) ormanı",
               "C) Step",
               "D) Garig",
-              "E) Maki A. Tundra kutupsal örtüdür. B. Step kurakçıl ot örtüsüdür. C. Doğru: İğneada longoz (su basar) ormanlarıyla ünlüdür. D. Garig cılız Akdeniz çalısıdır. E. Maki Akdeniz çalı örtüsüdür."
+              "E) Maki"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İğneada longoz (su basar) ormanlarıyla ünlüdür.",
             "difficulty": "orta"
           },
           {
@@ -59412,11 +59412,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Karadeniz ormanlarında yaşayan, ülkemizdeki en büyük yırtıcı memeli aşağıdakilerden hangisidir?",
             "options": [
-              "A) Panter",
-              "B) Kaplan MKS KONU SERİSİ · FLORA VE FAUNA 60 soru",
-              "C) Boz ayı ✓",
+              "A) Kaplan",
+              "B) Aslan",
+              "C) Boz ayı",
               "D) Kutup tilkisi",
-              "E) Aslan A. Panter (leopar) farklı ve daha nadir bir türdür. B. Doğru: Boz ayı, ülkemizdeki en büyük yırtıcı memelilerdendir (Karadeniz). C. Kaplan Anadolu türü değildir. D. Kutup tilkisi kutupsaldır. E. Aslan Anadolu'da yaban olarak yaşamaz."
+              "E) Panter"
             ],
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
@@ -62185,7 +62185,7 @@ export const COURSES_DATA: Course[] = [
               "B) Aktif talep",
               "C) Efektif talep",
               "D) Ertelenmiş talep",
-              "E) Potansiyel talep M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru"
+              "E) Potansiyel talep"
             ],
             "correctIndex": 3,
             "explanation": "Koşullar uygun olmadığı için ötelenen talep 'ertelenmiş talep'tir.",
@@ -62504,11 +62504,11 @@ export const COURSES_DATA: Course[] = [
               "A) OPEC",
               "B) FIFA",
               "C) NATO",
-              "D) UNESCO (1970 Sözleşmesi) ✓ A. OPEC petrol örgütüdür. B. FIFA futbol federasyonudur. C. NATO askeri ittifaktır. D. WHO Dünya Sağlık Örgütü'dür. E. Doğru: 1970 tarihli sözleşme, UNESCO tarafından hazırlanmıştır.",
+              "D) UNESCO (1970 Sözleşmesi)",
               "E) WHO"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: 1970 tarihli sözleşme, UNESCO tarafından hazırlanmıştır.",
             "difficulty": "orta"
           },
           {
@@ -69162,11 +69162,11 @@ export const COURSES_DATA: Course[] = [
               "A) Sadece turizm geliri sağlamak",
               "B) Ülkeleri sıralamak",
               "C) Sadece modern binaları listelemek",
-              "D) Evrensel değerdeki kültür ve doğa varlıklarını korumak ✓ A. Amaç yalnızca gelir değildir. B. Ülke sıralaması amacı değildir. C. Modern binaları listelemek temel amaç değildir. D. Bilet satışı amacı değildir. E. Doğru: UNESCO Dünya Mirası, evrensel değerdeki varlıkları korumayı amaçlar.",
+              "D) Evrensel değerdeki kültür ve doğa varlıklarını korumak",
               "E) Müze bileti satmak"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: UNESCO Dünya Mirası, evrensel değerdeki varlıkları korumayı amaçlar.",
             "difficulty": "orta"
           },
           {
@@ -69178,11 +69178,11 @@ export const COURSES_DATA: Course[] = [
               "A) Yalnızca yeni yapılmış olması",
               "B) Sadece ücretli olması",
               "C) Sadece büyük olması",
-              "D) Sadece şehir merkezinde olması A. Yenilik bir ölçüt değildir. B. Ücretlilik ölçüt değildir. C. Büyüklük tek başına ölçüt değildir. D. Doğru: Dünya Mirası ölçütü 'üstün evrensel değer'dir. E. Konum tek başına ölçüt değildir. MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru",
-              "E) Üstün evrensel değere sahip olması ✓"
+              "D) Sadece şehir merkezinde olması",
+              "E) Üstün evrensel değere sahip olması"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Dünya Mirası ölçütü 'üstün evrensel değer'dir.",
             "difficulty": "orta"
           },
           {
@@ -69191,11 +69191,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Nesli tükenme tehlikesindeki türlerin durumunu belirleyen uluslararası liste aşağıdakilerden hangisidir?",
             "options": [
-              "A) Michelin Rehberi",
+              "A) Ramsar Listesi",
               "B) UNESCO Dünya Mirası",
-              "C) IUCN Kırmızı Liste ✓",
-              "D) Ramsar Listesi",
-              "E) Cittaslow Listesi A. Michelin restoran rehberidir. B. UNESCO Dünya Mirası kültür/doğa alanları içindir. C. Doğru: IUCN Kırmızı Liste, türlerin tehlike durumunu belirler. D. Ramsar sulak alanlar listesidir. E. Cittaslow sakin şehirler ağıdır."
+              "C) IUCN Kırmızı Liste",
+              "D) Michelin Rehberi",
+              "E) Cittaslow Listesi"
             ],
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
@@ -69208,13 +69208,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "UNESCO İnsanlığın Somut Olmayan Kültürel Mirası listesinde yer alan, âşıkların atışmalı geleneği aşağıdakilerden hangisidir?",
             "options": [
               "A) Yağlı güreş",
-              "B) Âşıklık geleneği ✓",
+              "B) Âşıklık geleneği",
               "C) Cirit",
               "D) Kâğıt oyunları",
-              "E) Ebru A. Yağlı güreş listededir ama âşık geleneği değildir. B. Kâğıt oyunları bu kapsamda değildir. C. Cirit geleneksel bir spordur ama bu tanıma uymaz. D. Doğru: Âşıklık geleneği, UNESCO Somut Olmayan Kültürel Miras listesindedir. E. Ebru de listededir ama âşık atışması değildir."
+              "E) Ebru"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Âşıklık geleneği, UNESCO Somut Olmayan Kültürel Miras listesindedir.",
             "difficulty": "orta"
           },
           {
@@ -69225,12 +69225,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) UNESCO Dünya Doğal Mirası",
               "B) Ramsar Sözleşmesi",
-              "C) UNESCO Somut Olmayan Kültürel Miras ✓",
+              "C) UNESCO Somut Olmayan Kültürel Miras",
               "D) Cittaslow",
-              "E) Michelin Rehberi A. Doğru: Karagöz gölge oyunu UNESCO Somut Olmayan Kültürel Miras listesindedir. B. Ramsar sulak alanlar sözleşmesidir. C. Doğal Miras doğal alanlar içindir. D. Cittaslow sakin şehirler ağıdır. E. Michelin restoran değerlendirmesidir."
+              "E) Michelin Rehberi"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Karagöz gölge oyunu UNESCO Somut Olmayan Kültürel Miras listesindedir.",
             "difficulty": "orta"
           },
           {
@@ -69239,14 +69239,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Nevruz, hangi mevsimin gelişini ve doğanın uyanışını kutlayan geleneksel bayramdır?",
             "options": [
-              "A) Sonbahar MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru",
+              "A) Sonbahar",
               "B) Yaz",
               "C) Yağmur mevsimi",
-              "D) İlkbahar ✓",
-              "E) Kış A. Sonbahar kutlaması değildir. B. Doğru: Nevruz, ilkbaharın gelişini kutlayan bayramdır (21 Mart). C. Yağmur mevsimi kavramı Nevruz'la ilgili değildir. D. Yaz kutlaması değildir. E. Kış kutlaması değildir."
+              "D) İlkbahar",
+              "E) Kış"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Nevruz, ilkbaharın gelişini kutlayan bayramdır (21 Mart).",
             "difficulty": "orta"
           },
           {
@@ -69257,12 +69257,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Vergi toplama",
               "B) Ticaret yasağı",
-              "C) Askere alma A. Vergi toplamayla ilgisi yoktur. B. Ticaret yasağıyla ilgisi yoktur. C. Doğru: İmece, toplu ve gönüllü dayanışmayla iş görme geleneğidir. D. Ücretli işçilik imecenin karşıtıdır. E. Askere almayla ilgisi yoktur.",
+              "C) Askere alma",
               "D) Ücretli işçilik",
-              "E) Toplu ve gönüllü dayanışmayla iş yapma ✓"
+              "E) Toplu ve gönüllü dayanışmayla iş yapma"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: İmece, toplu ve gönüllü dayanışmayla iş görme geleneğidir.",
             "difficulty": "orta"
           },
           {
@@ -69271,14 +69271,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Anadolu'da yağlı güreşin en ünlü ve geleneksel organizasyonu olan Kırkpınar hangi ilimizde düzenlenir?",
             "options": [
-              "A) Edirne ✓",
+              "A) Edirne",
               "B) Manisa",
               "C) Bursa",
               "D) Kastamonu",
-              "E) Antalya A. Doğru: Kırkpınar Yağlı Güreşleri Edirne'de yapılır. B. Manisa Mesir Macunu Festivali ile ünlüdür. C. Bursa farklı bir merkezdir. D. Kastamonu farklı geleneklerle anılır. E. Antalya bu güreşin merkezi değildir."
+              "E) Antalya"
             ],
             "correctIndex": 0,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Kırkpınar Yağlı Güreşleri Edirne'de yapılır.",
             "difficulty": "orta"
           },
           {
@@ -69288,13 +69288,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Manisa ile özdeşleşen, şifa niyetiyle halka saçılması geleneğine dayanan festival aşağıdakilerden hangisidir?",
             "options": [
               "A) Kayısı Festivali",
-              "B) Mesir Macunu Festivali ✓ A. Kayısı Festivali Malatya ile anılır. B. Portakal Çiçeği Adana ile anılır. C. Kiraz Festivali farklı yörelerdedir. D. Deve Güreşi Ege'de yapılır ama Mesir değildir. E. Doğru: Mesir Macunu Festivali Manisa ile özdeşleşmiştir.",
+              "B) Mesir Macunu Festivali",
               "C) Kiraz Festivali",
               "D) Deve Güreşi Festivali",
               "E) Portakal Çiçeği Festivali"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Mesir Macunu Festivali Manisa ile özdeşleşmiştir.",
             "difficulty": "orta"
           },
           {
@@ -69305,12 +69305,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Horon",
               "B) Zeybek",
-              "C) Flamenko ✓",
+              "C) Flamenko",
               "D) Bar",
-              "E) Halay A. Horon Karadeniz halk oyunudur. B. Zeybek Ege halk oyunudur. C. Doğru: Flamenko İspanya'ya özgü bir danstır, Türk halk oyunu değildir. MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru D. Bar Doğu Anadolu halk oyunudur. E. Halay Doğu/Güneydoğu halk oyunudur."
+              "E) Halay"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Flamenko İspanya'ya özgü bir danstır, Türk halk oyunu değildir.",
             "difficulty": "orta"
           },
           {
@@ -69320,13 +69320,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Saz eşliğinde şiir söyleyen, halk edebiyatı geleneğini sürdüren gezgin şairlere ne ad verilir?",
             "options": [
               "A) Meddah",
-              "B) Âşık (ozan) ✓ MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru",
+              "B) Âşık (ozan)",
               "C) Divan şairi",
               "D) Kâtip",
-              "E) Nakkaş A. Doğru: Âşık (ozan), saz eşliğinde şiir söyleyen halk şairidir. B. Meddah taklit-anlatı sanatçısıdır. C. Divan şairi klasik/yazılı edebiyat şairidir. D. Kâtip yazı işleriyle uğraşan görevlidir. E. Nakkaş minyatür/süsleme ustasıdır."
+              "E) Nakkaş"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Âşık (ozan), saz eşliğinde şiir söyleyen halk şairidir.",
             "difficulty": "orta"
           },
           {
@@ -69339,10 +69339,10 @@ export const COURSES_DATA: Course[] = [
               "B) Halk edebiyatı yalnızca yazılıdır",
               "C) İkisi de yalnızca sözlüdür",
               "D) İkisi de aynı dili kullanır",
-              "E) Halk edebiyatı sade Türkçe ve heceyle, divan edebiyatı ağır dil ve aruzla üretilir ✓ A. Divan şiiri hece değil aruz ölçüsündedir. B. Halk edebiyatı büyük ölçüde sözlü/anonim geleneğe dayanır. C. Divan edebiyatı yazılı bir gelenektir, yalnızca sözlü değildir. D. Aynı dili kullanmazlar; dil düzeyleri farklıdır. E. Doğru: Halk edebiyatı sade dil-hece, divan edebiyatı ağır dil-aruz kullanır."
+              "E) Halk edebiyatı sade Türkçe ve heceyle, divan edebiyatı ağır dil ve aruzla üretilir"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Halk edebiyatı sade dil-hece, divan edebiyatı ağır dil-aruz kullanır.",
             "difficulty": "orta"
           },
           {
@@ -69354,11 +69354,11 @@ export const COURSES_DATA: Course[] = [
               "A) Ankara",
               "B) Kırşehir",
               "C) Sivas",
-              "D) Gaziantep ✓",
-              "E) Erzurum MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru A. Doğru: Gaziantep, UNESCO Gastronomi Şehri olarak tescillidir (Hatay ve Afyon da bu ağdadır). B. Kırşehir bu kapsamda değildir. C. Sivas gastronomi şehri değildir. D. Ankara bu ağda gastronomi ile yer almaz. E. Erzurum gastronomi şehri olarak listelenmez."
+              "D) Gaziantep",
+              "E) Erzurum"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Gaziantep, UNESCO Gastronomi Şehri olarak tescillidir (Hatay ve Afyon da bu ağdadır).",
             "difficulty": "orta"
           },
           {
@@ -69371,10 +69371,10 @@ export const COURSES_DATA: Course[] = [
               "B) Marka tescili",
               "C) Patent",
               "D) Faydalı model",
-              "E) Coğrafi işaret ✓ A. Telif hakkı eser sahipliğini korur. B. Marka tescili bir işletmenin markasını korur. C. Patent buluşları korur. D. Faydalı model küçük buluşları korur. E. Doğru: Coğrafi işaret, ürünün belirli bir yöreyle bağını koruyan tescildir (ör. Hereke ipek halısı). MKS KONU SERİSİ · HALK BİLİMİ-EDEBİYAT-EL SANATLARI 60 soru"
+              "E) Coğrafi işaret"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Coğrafi işaret, ürünün belirli bir yöreyle bağını koruyan tescildir (ör. Hereke ipek halısı).",
             "difficulty": "orta"
           },
           {
@@ -70359,14 +70359,14 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "17. yüzyılda seyahatnamesiyle ünlü, gezip gördüğü yerleri anlatan ünlü Osmanlı gezgini kimdir?",
             "options": [
-              "A) Matrakçı Nasuh, 16. yüzyılda Kanuni dönemi sefer ve kuşatmalarını minyatürlerle belgeleyen, Osmanlı askerî tarihine ait resimli eserlerin yazarı ve ressamıdır; 17. yüzyılda yaşamamış, seyahatname yazmamış ve gezip gördüklerini anlatan bir seyyah değildir.",
-              "B) Evliya Çelebi ✓ A. Matrakçı Nasuh minyatür ustasıdır. B. Naima Osmanlı tarihçisidir. C. Kâtip Çelebi bilgin/yazardır (Keşfü'z-Zünun). D. Piri Reis haritacı/denizcidir (Kitab-ı Bahriye). E. Doğru: Evliya Çelebi, ünlü 'Seyahatname' eserinin yazarıdır.",
-              "C) Kâtip Çelebi, Keşfü'z-Zünun adlı bibliyografik eseriyle tanınan, 17. yüzyılda yaşamış Osmanlı bilgini ve yazarıdır; Cihannüma adlı coğrafya eseri bulunsa da seyahatnamesi bulunmaz ve gezdiği yerleri anlatarak ünlü olmamıştır.",
-              "D) Piri Reis, Kitab-ı Bahriye adlı denizcilik kitabı ve Dünya haritasıyla tanınan, 16. yüzyılda yaşamış Osmanlı denizci ve haritacısıdır; 17. yüzyıl gezgini değildir ve seyahatname yazarı olarak bilinmez.",
-              "E) Naima, Osmanlı'nın 17. ve 18. yüzyıl olaylarını anlatan Tarih-i Naima adlı eserin yazarı, resmî tarihçi konumunda bir Osmanlı tarihçisidir; gezip gördüğü yerleri anlatan seyahatname yazmamış ve seyyah olarak tanınmamıştır."
+              "A) Matrakçı Nasuh",
+              "B) Evliya Çelebi",
+              "C) Kâtip Çelebi",
+              "D) Piri Reis",
+              "E) Naima"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Evliya Çelebi, ünlü 'Seyahatname' eserinin yazarıdır.",
             "difficulty": "orta"
           },
           {
@@ -70410,11 +70410,11 @@ export const COURSES_DATA: Course[] = [
               "A) Zeybek",
               "B) Halay",
               "C) Bar",
-              "D) Karşılama ✓",
-              "E) Horon A. Zeybek Ege oyunudur. B. Doğru: Karşılama, Trakya-Marmara yöresine özgü, temassız oynanan halk oyunudur. C. Bar Doğu Anadolu'da toplu oynanır. D. Halay el ele/omuz omuza oynanır. E. Horon Karadeniz'de omuz temasıyla oynanır."
+              "D) Karşılama",
+              "E) Horon"
             ],
             "correctIndex": 3,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Karşılama, Trakya-Marmara yöresine özgü, temassız oynanan halk oyunudur.",
             "difficulty": "orta"
           },
           {
@@ -70469,7 +70469,7 @@ export const COURSES_DATA: Course[] = [
             "id": "trp_q_1151",
             "subtopicId": "tc_4",
             "courseId": "turizm-cografyasi",
-            "questionText": "Trakya-Marmara yöresine özgü, temassız oynanan halk oyunu hangisidir? M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru",
+            "questionText": "Trakya-Marmara yöresine özgü, temassız oynanan halk oyunu hangisidir?",
             "options": [
               "A) Karşılama",
               "B) Halay",
@@ -72896,7 +72896,7 @@ export const COURSES_DATA: Course[] = [
               "A) Sakarya",
               "B) Kırklareli",
               "C) Artvin",
-              "D) Antalya M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru",
+              "D) Antalya",
               "E) Muğla"
             ],
             "correctIndex": 1,
@@ -72958,13 +72958,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Yaşı, boyutu veya tarihsel değeri nedeniyle tescillenerek koruma altına alınan yaşlı ağaçlara ne ad verilir?",
             "options": [
               "A) Egzotik ağaç",
-              "B) Bonsai A. Egzotik ağaç dışarıdan getirilen türdür. B. Doğru: Anıt ağaç, tescillenerek korunan özel ağaçtır. C. İstilacı ağaç yerli türleri tehdit eder. D. Endemik ağaç yalnızca o yöreye özgü türdür (yaşla ilgili değil). E. Bonsai minyatürleştirilmiş saksı ağacıdır.",
+              "B) Bonsai",
               "C) İstilacı ağaç",
               "D) Endemik ağaç",
-              "E) Anıt ağaç ✓"
+              "E) Anıt ağaç"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Anıt ağaç, tescillenerek korunan özel ağaçtır.",
             "difficulty": "orta"
           },
           {
@@ -72977,10 +72977,10 @@ export const COURSES_DATA: Course[] = [
               "B) Sultan Sazlığı",
               "C) Nemrut",
               "D) Kaçkarlar",
-              "E) Köyceğiz-Dalyan ✓ A. Uludağ kış turizmiyle anılır. B. Sultan Sazlığı kuş cennetidir (Kayseri). C. Nemrut heykelleriyle anılır. D. Kaçkarlar yayla/dağ turizmiyle anılır. E. Doğru: Köyceğiz-Dalyan, sığla ormanları ve deltasıyla korunan bölgedir."
+              "E) Köyceğiz-Dalyan"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Köyceğiz-Dalyan, sığla ormanları ve deltasıyla korunan bölgedir.",
             "difficulty": "orta"
           },
           {
@@ -72989,11 +72989,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Uzun, ipeksi beyaz tüyleriyle tanınan, Ankara ile özdeşleşen kedi ırkı aşağıdakilerden hangisidir?",
             "options": [
-              "A) British",
-              "B) Ankara Kedisi (Angora) ✓",
-              "C) Sarman",
-              "D) Siyam",
-              "E) Van Kedisi A. British yabancı bir ırktır. B. Doğru: Ankara Kedisi (Angora), uzun beyaz tüyleriyle bilinir. C. Sarman bir tüy rengi tanımıdır. D. Siyam yabancı bir ırktır. E. Van Kedisi farklı renk gözleriyle tanınır."
+              "A) Van Kedisi",
+              "B) Ankara Kedisi (Angora)",
+              "C) Siyam",
+              "D) British",
+              "E) Sarman"
             ],
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
@@ -73005,11 +73005,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Sürüleri koruyan, iri ve güçlü yapısıyla ünlü, Sivas ile özdeşleşen çoban köpeği aşağıdakilerden hangisidir?",
             "options": [
-              "A) Akbaş, Anadolu'da sürüleri koruyan, beyaz tüylü ve iri yapılı bir çoban köpeği ırkıdır; Sivas ile özdeşleşmez, ancak Kangal gibi sürü koruma görevini üstlenen farklı bir ırk olarak bilinir.",
-              "B) Kars (Kafkas) çoban köpeği, Kafkasya ve Doğu Anadolu bölgelerinde sürüleri koruyan, güçlü yapılı ve uzun tüylü bir çoban köpeği ırkıdır; Sivas ile özdeşleşen Kangal değildir ve farklı bir köpek ırkıdır.",
-              "C) Kangal ✓ A. Akbaş farklı bir çoban köpeğidir. B. Kafkas çoban köpeği farklı bir ırktır. C. Tazı hızlı bir av köpeğidir. D. Zağar av köpeğidir. E. Doğru: Kangal, Sivas ile özdeşleşen çoban köpeğidir.",
-              "D) Zağar, uzun bacaklı ve hızlı yapısıyla avcılıkta kullanılan, tilki ve tavşan avında tercih edilen bir av köpeği ırkıdır; sürüleri koruyan bir çoban köpeği değildir ve Sivas ile bir ilgisi bulunmaz.",
-              "E) Tazı, ince yapılı ve yüksek hızda koşan, geyik ve tavşan avında kullanılan zarif bir av köpeği ırkıdır; sürü koruma görevi üstlenmez, çoban köpeği değildir ve Sivas ile özdeşleşmez."
+              "A) Kars (Kafkas)",
+              "B) Akbaş",
+              "C) Kangal",
+              "D) Zağar",
+              "E) Tazı"
             ],
             "correctIndex": 2,
             "explanation": "Konu anlatımına bakınız.",
@@ -73021,11 +73021,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Antalya Düzlerçamı çevresinde koruma altına alınan, Anadolu'nun yerli geyik türü aşağıdakilerden hangisidir?",
             "options": [
-              "A) Su geyiği, Asya ve Kuzey Amerika'nın nemli ve sulak alanlarında yaşayan, uzun bacaklı ve yüzmede becerikli bir geyik türüdür; Antalya Düzlerçamı çevresinde koruma altına alınan yerli bir tür değildir ve Anadolu'ya özgü değildir.",
-              "B) Alageyik ✓ A. Su geyiği farklı bir türdür. B. Ren geyiği kutupsal bir türdür. C. Karibu Kuzey Amerika türüdür. D. Misk geyiği Asya türüdür. E. Doğru: Alageyik, Antalya Düzlerçamı'nda korunan yerli türdür.",
-              "C) Karibu, Kuzey Amerika ve Kuzey Avrupa'nın soğuk tundra bölgelerinde yaşayan, boynuzları her iki cinsiyette görülen büyük bir geyik türüdür; Antalya Düzlerçamı'nda korunan yerli bir geyik değildir ve Anadolu kökenli değildir.",
-              "D) Misk geyiği, Himalaya ve Doğu Asya'nın dağlık ormanlarında yaşayan, erkeklerinde boynuz bulunmayan küçük bir geyik türüdür; Antalya Düzlerçamı çevresinde korunan yerli bir tür olmayıp Anadolu'ya özgü değildir.",
-              "E) Ren geyiği, kuzey kutup çevresindeki tundra ve tayga bölgelerinde yaşayan, sürü halinde göç eden ve her iki cinsiyetinde boynuz bulunan bir geyik türüdür; Antalya'da yaşamaz ve Anadolu'nun yerli geyik türü değildir."
+              "A) Ren geyiği",
+              "B) Alageyik",
+              "C) Karibu",
+              "D) Su geyiği",
+              "E) Misk geyiği"
             ],
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
@@ -73037,11 +73037,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Tuz Gölü ve İzmir Kuş Cenneti gibi sulak alanlarda üreyen, pembe renkli uzun bacaklı kuş aşağıdakilerden hangisidir?",
             "options": [
-              "A) Akbaba",
+              "A) Sülün",
               "B) Baykuş",
               "C) Kartal",
-              "D) Sülün",
-              "E) Flamingo ✓ A. Akbaba leş yiyicidir. B. Baykuş gece yırtıcısıdır. C. Kartal yırtıcı bir kuştur. MKS KONU SERİSİ · FLORA VE FAUNA 60 soru D. Sülün farklı bir kuştur. E. Doğru: Flamingo, Tuz Gölü ve İzmir çevresinde üreyen pembe kuştur."
+              "D) Akbaba",
+              "E) Flamingo"
             ],
             "correctIndex": 4,
             "explanation": "Konu anlatımına bakınız.",
@@ -73053,11 +73053,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Balıkesir'deki 'Kuş Cenneti' Millî Parkı hangi göl çevresindedir?",
             "options": [
-              "A) Manyas (Kuş) Gölü ✓",
+              "A) Manyas (Kuş) Gölü",
               "B) Eğirdir",
               "C) Tuz Gölü",
               "D) Van Gölü",
-              "E) Beyşehir A. Van Gölü Doğu Anadolu'dadır. B. Eğirdir farklı bir göldür. C. Tuz Gölü İç Anadolu'dadır. D. Doğru: Kuş Cenneti Millî Parkı, Manyas Gölü çevresindedir (Balıkesir). E. Beyşehir farklı bir göldür."
+              "E) Beyşehir"
             ],
             "correctIndex": 0,
             "explanation": "Konu anlatımına bakınız.",
@@ -73069,11 +73069,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Türkiye'nin ilk biyosfer rezervi olan, Artvin'deki koruma alanı aşağıdakilerden hangisidir?",
             "options": [
-              "A) Göreme",
-              "B) Camili (Macahel) ✓",
-              "C) Pamukkale",
-              "D) Sümela",
-              "E) Nemrut A. Göreme Kapadokya'dadır. B. Pamukkale traverten alanıdır. C. Doğru: Camili (Macahel), Türkiye'nin ilk biyosfer rezervidir (Artvin). D. Sümela bir manastırdır. E. Nemrut heykelleriyle anılır."
+              "A) Sümela",
+              "B) Camili (Macahel)",
+              "C) Göreme",
+              "D) Nemrut",
+              "E) Pamukkale"
             ],
             "correctIndex": 1,
             "explanation": "Konu anlatımına bakınız.",
@@ -73089,10 +73089,10 @@ export const COURSES_DATA: Course[] = [
               "B) Sit alanı",
               "C) Serbest bölge",
               "D) Organize sanayi bölgesi",
-              "E) Ekolojik koridor ✓ A. Mera otlatma alanıdır. B. Sit alanı koruma statüsüdür ama bağlantı işlevi tanımı değildir. C. Serbest bölge ticari alandır. D. Organize sanayi bölgesi sanayi alanıdır. E. Doğru: Ekolojik koridorlar, habitatları bağlayan geçiş alanlarıdır. MKS KONU SERİSİ · FLORA VE FAUNA 60 soru"
+              "E) Ekolojik koridor"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Ekolojik koridorlar, habitatları bağlayan geçiş alanlarıdır.",
             "difficulty": "orta"
           },
           {
@@ -73869,11 +73869,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "turizm-cografyasi",
             "questionText": "Tiftik (moher) yapağısıyla ünlü, Ankara ile özdeşleşen hayvan aşağıdakilerden hangisidir?",
             "options": [
-              "A) Kıl keçisi",
-              "B) Manda",
+              "A) Manda",
+              "B) Kıl keçisi",
               "C) Merinos koyunu",
-              "D) Ankara keçisi ✓",
-              "E) Yaban keçisi A. Kıl keçisi farklı bir keçi türüdür. B. Manda büyükbaş bir hayvandır. C. Merinos ince yünüyle bilinen koyundur. D. Doğru: Ankara keçisi, tiftik (moher) üretiminde kullanılır. E. Yaban keçisi doğadaki av türüdür. MKS KONU SERİSİ · FLORA VE FAUNA 60 soru"
+              "D) Ankara keçisi",
+              "E) Yaban keçisi"
             ],
             "correctIndex": 3,
             "explanation": "Konu anlatımına bakınız.",
@@ -73899,13 +73899,13 @@ export const COURSES_DATA: Course[] = [
             "id": "trp_q_1490",
             "subtopicId": "tc_5",
             "courseId": "turizm-cografyasi",
-            "questionText": "Yaban hayvanlarının barınma ve üreme alanlarını korumak için ilan edilen sahalara ne ad verilir? MKS KONU SERİSİ · FLORA VE FAUNA 60 soru",
+            "questionText": "Yaban hayvanlarının barınma ve üreme alanlarını korumak için ilan edilen sahalara ne ad verilir?",
             "options": [
               "A) Serbest bölge",
-              "B) Maden sahası",
+              "B) Turizm merkezi",
               "C) Organize sanayi bölgesi",
-              "D) Yaban Hayatı Geliştirme Sahası ✓",
-              "E) Turizm merkezi A. Doğru: Yaban Hayatı Geliştirme Sahaları, yaban hayatını korumak için ilan edilir. B. Maden sahası madencilik alanıdır. C. Organize sanayi bölgesi sanayi alanıdır. D. Serbest bölge ticari bir alandır. E. Turizm merkezi turizm amaçlıdır."
+              "D) Yaban Hayatı Geliştirme Sahası",
+              "E) Maden sahası"
             ],
             "correctIndex": 3,
             "explanation": "Konu anlatımına bakınız.",
@@ -75600,28 +75600,28 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) İçişleri Bakanlığı",
               "B) Ticaret Bakanlığı",
-              "C) Kültür ve Turizm Bakanlığı ✓",
+              "C) Kültür ve Turizm Bakanlığı",
               "D) Milli Eğitim Bakanlığı",
-              "E) Sağlık Bakanlığı A. İçişleri Bakanlığı farklı görevler yürütür. B. Doğru: Müze ve ören yerlerinin çoğu Kültür ve Turizm Bakanlığı'na bağlıdır. C. Ticaret Bakanlığı ticaretle ilgilenir. D. Milli Eğitim Bakanlığı okullardan sorumludur. E. Sağlık Bakanlığı sağlıkla ilgilenir."
+              "E) Sağlık Bakanlığı"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Müze ve ören yerlerinin çoğu Kültür ve Turizm Bakanlığı'na bağlıdır.",
             "difficulty": "orta"
           },
           {
             "id": "trp_q_1432",
             "subtopicId": "tm_2",
             "courseId": "turizm-mevzuati",
-            "questionText": "Aşağıdakilerden hangisi sit alanı türlerinden biri DEĞİLdir? MKS KONU SERİSİ · MÜZECİLİK VE ESER SUÇLARI 60 soru",
+            "questionText": "Aşağıdakilerden hangisi sit alanı türlerinden biri DEĞİLdir?",
             "options": [
               "A) Kentsel sit",
-              "B) Endüstriyel sit ✓",
+              "B) Endüstriyel sit",
               "C) Doğal sit",
               "D) Tarihi sit",
-              "E) Arkeolojik sit A. Doğru: 'Endüstriyel sit' resmî sit türü değildir; bu yüzden doğru cevaptır. B. Kentsel sit bir sit türüdür. C. Doğal sit bir sit türüdür. D. Tarihi sit bir sit türüdür. E. Arkeolojik sit bir sit türüdür."
+              "E) Arkeolojik sit"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: 'Endüstriyel sit' resmî sit türü değildir; bu yüzden doğru cevaptır.",
             "difficulty": "orta"
           },
           {
@@ -75632,12 +75632,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Doğal sit",
               "B) Tarihi sit",
-              "C) Arkeolojik sit ✓ A. Doğal sit jeolojik/doğal değerleri korur. B. Tarihi sit tarihî olayların geçtiği alanları kapsar. C. Kentsel sit tarihi kent dokusunu korur. D. Karma sit birden çok değeri birlikte içerir. E. Doğru: Arkeolojik sit, antik kalıntıların yoğun olduğu ve korumanın en sıkı olduğu alandır.",
+              "C) Arkeolojik sit",
               "D) Karma sit",
               "E) Kentsel sit"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Arkeolojik sit, antik kalıntıların yoğun olduğu ve korumanın en sıkı olduğu alandır.",
             "difficulty": "orta"
           },
           {
@@ -75648,12 +75648,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Heykelcik",
               "B) Sikke",
-              "C) Gravür A. Heykelcik taşınabilir bir varlıktır. B. Sikke taşınabilir bir varlıktır. C. Doğru: Antik tiyatro/ören yeri taşınmaz kültür varlığıdır. D. El yazması taşınabilir bir varlıktır. E. Gravür taşınabilir bir varlıktır.",
+              "C) Gravür",
               "D) El yazması",
-              "E) Antik tiyatro (ören yeri) ✓"
+              "E) Antik tiyatro (ören yeri)"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Antik tiyatro/ören yeri taşınmaz kültür varlığıdır.",
             "difficulty": "orta"
           },
           {
@@ -75664,12 +75664,12 @@ export const COURSES_DATA: Course[] = [
             "options": [
               "A) Komşu onayı",
               "B) Turizm acentası izni",
-              "C) Koruma Kurulu izni ✓",
+              "C) Koruma Kurulu izni",
               "D) Hiçbir izin gerekmez",
-              "E) Muhtar onayı A. Doğru: Sit/tescilli yapıda müdahale için Koruma Kurulu izni gerekir. B. Acenta izni ilgisizdir. C. Komşu onayı yeterli değildir. D. İzinsiz müdahale yasaktır. E. Muhtar onayı yeterli değildir."
+              "E) Muhtar onayı"
             ],
             "correctIndex": 2,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Sit/tescilli yapıda müdahale için Koruma Kurulu izni gerekir.",
             "difficulty": "orta"
           },
           {
@@ -75681,11 +75681,11 @@ export const COURSES_DATA: Course[] = [
               "A) UEFA",
               "B) IOC",
               "C) FIFA",
-              "D) IMF A. UEFA futbol kuruluşudur. B. IOC olimpiyat komitesidir. C. FIFA futbol federasyonudur. D. Doğru: INTERPOL, çalıntı kültür varlıklarının uluslararası aranmasına destek verir. E. IMF finans kuruluşudur.",
-              "E) INTERPOL ✓"
+              "D) IMF",
+              "E) INTERPOL"
             ],
             "correctIndex": 4,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: INTERPOL, çalıntı kültür varlıklarının uluslararası aranmasına destek verir.",
             "difficulty": "orta"
           },
           {
@@ -80388,11 +80388,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "rehberlik-mevzuati",
             "questionText": "Aşağıdakilerden hangisi turist rehberinin görevlerinden biri DEĞİLdir?",
             "options": [
-              "A) İş organizasyonu yapmak, turun programını, ulaşımını ve konaklamasını planlayarak tur düzenlemek ve koordine etmek",
-              "B) Turistlerin vize işlemlerini bizzat yapmak M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru",
-              "C) Grubu bilgilendirmek, turistlere gezilen yerlerin tarihi ve kültürel bilgilerini vermek ve programı açıklamak",
-              "D) Güvenliği gözetmek, turistlerin sağlık, can ve eşya güvenliğini takip etmek ve tehlikeli durumlarda önlem almak",
-              "E) Tur sonu işlemlerini yürütmek, turistlerin çıkışını, hesaplarını ve tur değerlendirme formlarını tamamlamak"
+              "A) İş organizasyonu yapmak",
+              "B) Turistlerin vize işlemlerini bizzat yapmak",
+              "C) Grubu bilgilendirmek",
+              "D) Güvenliği gözetmek",
+              "E) Tur sonu işlemlerini yürütmek"
             ],
             "correctIndex": 1,
             "explanation": "(görev değil): Vize işlemleri rehberin asli görevi değildir.",
@@ -80533,13 +80533,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Turist rehberinin, ziyaret edilen ören yerinde grubuna karşı en temel koruma sorumluluğu aşağıdakilerden hangisidir?",
             "options": [
               "A) Parça koparmayı önermek",
-              "B) Esere dokunma/tahribatı önleyip bilgilendirme yapmak ✓",
+              "B) Esere dokunma/tahribatı önleyip bilgilendirme yapmak",
               "C) Kurallara aldırmamak",
               "D) Herkesin esere dokunmasına izin vermek",
-              "E) Fotoğraf için esere tırmandırmak A. Parça koparmayı önermek suça teşviktir. B. Kurallara aldırmamak sorumluluğun ihmalidir. C. Doğru: Rehber, tahribatı önleyip ziyaretçileri koruma kurallarıyla bilgilendirmelidir. D. Esere dokunmayı serbest bırakmak yanlıştır. E. Esere tırmandırmak tahribata yol açar."
+              "E) Fotoğraf için esere tırmandırmak"
             ],
             "correctIndex": 1,
-            "explanation": "Konu anlatımına bakınız.",
+            "explanation": "Doğru: Rehber, tahribatı önleyip ziyaretçileri koruma kurallarıyla bilgilendirmelidir.",
             "difficulty": "orta"
           },
           {
@@ -81697,7 +81697,7 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Kriz yönetiminde 'rehberin turda sorunu kabul etmesi' hangi aşamaya karşılık gelir?",
             "options": [
               "A) Hazırlık",
-              "B) Değerlendirme M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru",
+              "B) Değerlendirme",
               "C) Önleme",
               "D) Sorunu tanıma ve kabul",
               "E) Toparlanma"
@@ -83806,11 +83806,11 @@ export const COURSES_DATA: Course[] = [
             "courseId": "saglik-ilkyardim",
             "questionText": "Dolaşım sisteminin organlarından biri OLMAYAN aşağıdakilerden hangisidir?",
             "options": [
-              "A) Kalp, kanı pompalayan ve dolaşımı sağlayan kas organıdır",
-              "B) Kan, vücutta oksijen ve besin taşıyan sıvı dokudur",
-              "C) Damarlar, kanın vücutta taşındığı kanallardır ve kalpten çıkarlar",
-              "D) Yutak M. ALİ ÇETİNKAYA · MKS AĞUSTOS JÜRİ SINAVI 100 soru",
-              "E) Kılcal damarlar, dokuları besleyen çok ince damarlardır"
+              "A) Kalp",
+              "B) Kan",
+              "C) Damarlar",
+              "D) Yutak",
+              "E) Kılcal damarlar"
             ],
             "correctIndex": 3,
             "explanation": "(dolaşıma ait değil): Yutak sindirim/solunumla ilişkilidir.",
@@ -85114,13 +85114,13 @@ export const COURSES_DATA: Course[] = [
             "questionText": "Bir turistin otel merdivenlerinden düşmesi sonucunda kırık şüphesi oluşması durumunda ilk yapılması gereken uygulama aşağıdakilerden hangisidir?",
             "options": [
               "A) Masaj yaparak rahatlatmak",
-              "B) Turnike uygulamak",
+              "B) Egzersiz yaptırmak",
               "C) Bölgeyi sabitlemek",
-              "D) Sıcak su ile yıkamak",
-              "E) Egzersiz yaptırmak"
+              "D) Turnike uygulamak",
+              "E) Sıcak su ile yıkamak"
             ],
             "correctIndex": 2,
-            "explanation": "Kırık şüphesi olan bölge hareket ettirilmeden, bulunduğu şekliyle sabitlenmelidir; masaj, egzersiz ve sıcak su uygulaması kırığın kötüleşmesine yol açar (Temel İlkyardım Bilgisi s.91-92; Mar26 S.57 cevap anahtarı C).\n\n💡 Hafıza İpucu: Kırık KIPIRDAMAZ 🔑 — sabitle, oynatma; masaj yapan hastayı da sınavı da kaybeder.",
+            "explanation": "Konu anlatımına bakınız.",
             "difficulty": "temel"
           },
           {
