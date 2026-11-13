@@ -4,6 +4,11 @@ export interface Sentence {
   cleanText: string;
   isHeading?: boolean;
   isTable?: boolean;
+  kind?: 'h2' | 'h3' | 'p' | 'li' | 'tr' | 'def';
+  para?: number;
+  cells?: string[];
+  th?: boolean;
+  n?: number;
 }
 
 export interface Question {

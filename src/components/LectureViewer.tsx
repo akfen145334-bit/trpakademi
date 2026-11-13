@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import { Subtopic, Course } from '../types';
+import { Subtopic, Course, Sentence } from '../types';
 import { useApp } from '../context/AppContext';
 import { 
   Play, 
@@ -15,6 +15,38 @@ import {
   RotateCcw
 } from 'lucide-react';
 
+type Block = { type: 'h' | 'p' | 'ul' | 'ol' | 'table' | 'def'; items: Sentence[]; idx: number[] };
+
+const renderInline = (t: string) =>
+  t.split(/(\*\*[^*]+\*\*)/g).map((part, i) =>
+    part.startsWith('**') && part.endsWith('**') && part.length > 4 ? (
+      <strong key={i} className="font-extrabold text-black">{part.slice(2, -2)}</strong>
+    ) : (
+      <React.Fragment key={i}>{part}</React.Fragment>
+    )
+  );
+
+const buildBlocks = (sentences: Sentence[]): Block[] => {
+  const blocks: Block[] = [];
+  sentences.forEach((s, idx) => {
+    const kind = s.kind || (s.isHeading ? 'h3' : s.isTable ? 'tr' : 'p');
+    const last = blocks[blocks.length - 1];
+    if (kind === 'h2' || kind === 'h3') blocks.push({ type: 'h', items: [s], idx: [idx] });
+    else if (kind === 'def') blocks.push({ type: 'def', items: [s], idx: [idx] });
+    else if (kind === 'li') {
+      const t = s.n ? 'ol' : 'ul';
+      if (last && last.type === t) { last.items.push(s); last.idx.push(idx); }
+      else blocks.push({ type: t, items: [s], idx: [idx] });
+    } else if (kind === 'tr') {
+      if (last && last.type === 'table') { last.items.push(s); last.idx.push(idx); }
+      else blocks.push({ type: 'table', items: [s], idx: [idx] });
+    } else {
+      if (last && last.type === 'p' && last.items[0].para === s.para) { last.items.push(s); last.idx.push(idx); }
+      else blocks.push({ type: 'p', items: [s], idx: [idx] });
+    }
+  });
+  return blocks;
+};
 interface LectureViewerProps {
   course: Course;
   subtopic: Subtopic;
@@ -40,6 +72,8 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
   const activeSentenceIndex = isCurrentPlayingThis || isCurrentPausedThis 
     ? audioState.currentSentenceIndex 
     : -1;
+
+  const blocks = React.useMemo(() => buildBlocks(subtopic.sentences), [subtopic.sentences]);
 
   const isWeak = userStats.weakSubtopicIds.includes(subtopic.id);
   const isCompleted = userStats.completedSubtopicIds.includes(subtopic.id);
@@ -194,64 +228,101 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
       </div>
 
       {/* Synchronized Reading Content Container */}
-      <article className="bg-white rounded-2xl border border-slate-200 p-6 sm:p-10 shadow-xs text-slate-800 text-base sm:text-lg leading-relaxed select-text">
-        <div className="prose max-w-none">
-          {subtopic.sentences.map((sentence, idx) => {
-            const isHighlighted = idx === activeSentenceIndex;
-
-            if (sentence.isHeading) {
+      <article className="bg-white rounded-2xl border border-slate-200 p-6 sm:p-10 shadow-xs text-slate-800 text-base sm:text-lg leading-8 select-text">
+        <div className="max-w-none space-y-5">
+          {blocks.map((blk, bi) => {
+            const sp = (s: Sentence, idx: number, extra = '') => {
+              const hl = idx === activeSentenceIndex;
               return (
-                <h3
-                  key={sentence.id}
-                  ref={isHighlighted ? activeSentenceRef : null}
+                <span
+                  key={s.id}
+                  ref={hl ? activeSentenceRef : null}
                   onClick={() => jumpToSentence(idx)}
-                  className={`mt-8 mb-4 text-xl sm:text-2xl font-black tracking-tight cursor-pointer transition-all duration-200 ${
-                    isHighlighted
-                      ? 'bg-amber-200 text-slate-950 px-2 py-1 rounded-md shadow-xs ring-2 ring-amber-300'
-                      : 'text-slate-900 hover:text-amber-700'
+                  title="Bu cümleden itibaren dinle"
+                  className={`cursor-pointer transition-colors duration-150 rounded px-0.5 ${extra} ${
+                    hl ? 'bg-amber-200 text-slate-950 ring-2 ring-amber-300' : 'hover:bg-amber-50'
                   }`}
                 >
-                  {sentence.text}
+                  {renderInline(s.text)}{' '}
+                </span>
+              );
+            };
+            if (blk.type === 'h') {
+              const s = blk.items[0];
+              const hl = blk.idx[0] === activeSentenceIndex;
+              return s.kind === 'h2' ? (
+                <h2 key={bi} ref={hl ? activeSentenceRef : null} onClick={() => jumpToSentence(blk.idx[0])}
+                  className={`mt-10 mb-2 pb-2 border-b-2 border-amber-300 text-2xl sm:text-3xl font-black tracking-tight text-slate-950 cursor-pointer ${hl ? 'bg-amber-200 px-2 rounded' : ''}`}>
+                  {s.text}
+                </h2>
+              ) : (
+                <h3 key={bi} ref={hl ? activeSentenceRef : null} onClick={() => jumpToSentence(blk.idx[0])}
+                  className={`mt-8 mb-1 text-xl sm:text-2xl font-extrabold text-amber-800 cursor-pointer ${hl ? 'bg-amber-200 px-2 rounded' : ''}`}>
+                  {s.text}
                 </h3>
               );
             }
-
-            if (sentence.isTable) {
+            if (blk.type === 'p') {
               return (
-                <div
-                  key={sentence.id}
-                  ref={isHighlighted ? activeSentenceRef : null}
-                  onClick={() => jumpToSentence(idx)}
-                  className={`my-2 p-3 rounded-lg border text-sm font-mono cursor-pointer transition-all duration-200 ${
-                    isHighlighted
-                      ? 'bg-amber-100 border-amber-300 text-slate-950 font-bold ring-2 ring-amber-300 shadow-xs'
-                      : 'bg-slate-50/80 border-slate-200 text-slate-700 hover:bg-amber-50/50'
-                  }`}
-                >
-                  {sentence.text}
+                <p key={bi} className="text-justify hyphens-auto">
+                  {blk.items.map((s, k) => sp(s, blk.idx[k]))}
+                </p>
+              );
+            }
+            if (blk.type === 'ul') {
+              return (
+                <ul key={bi} className="space-y-2.5 pl-1">
+                  {blk.items.map((s, k) => (
+                    <li key={s.id} className="flex gap-3">
+                      <span className="mt-2.5 w-2 h-2 rounded-full bg-amber-500 shrink-0" />
+                      <span>{sp(s, blk.idx[k])}</span>
+                    </li>
+                  ))}
+                </ul>
+              );
+            }
+            if (blk.type === 'ol') {
+              return (
+                <ol key={bi} className="space-y-2.5">
+                  {blk.items.map((s, k) => (
+                    <li key={s.id} className="flex gap-3">
+                      <span className="font-black text-amber-700 shrink-0 w-6 text-right">{s.n}.</span>
+                      <span>{sp(s, blk.idx[k])}</span>
+                    </li>
+                  ))}
+                </ol>
+              );
+            }
+            if (blk.type === 'table') {
+              return (
+                <div key={bi} className="overflow-x-auto rounded-xl border border-slate-200">
+                  <table className="w-full text-sm sm:text-base border-collapse">
+                    <tbody>
+                      {blk.items.map((s, k) => (
+                        <tr key={s.id} onClick={() => jumpToSentence(blk.idx[k])}
+                          ref={blk.idx[k] === activeSentenceIndex ? activeSentenceRef : null}
+                          className={`cursor-pointer ${s.th ? 'bg-slate-100 font-bold' : blk.idx[k] === activeSentenceIndex ? 'bg-amber-100' : 'odd:bg-white even:bg-slate-50/60 hover:bg-amber-50/60'}`}>
+                          {(s.cells || []).map((cell, ci) => (
+                            <td key={ci} className="border border-slate-200 px-3 py-2 align-top">{renderInline(cell)}</td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
                 </div>
               );
             }
-
+            // definition callout
+            const s = blk.items[0];
             return (
-              <span
-                key={sentence.id}
-                ref={isHighlighted ? activeSentenceRef : null}
-                onClick={() => jumpToSentence(idx)}
-                title="Bu cümleden itibaren dinle"
-                className={`inline cursor-pointer transition-colors duration-150 rounded px-0.5 py-0.5 mr-1 ${
-                  isHighlighted
-                    ? 'bg-amber-200 text-slate-950 font-semibold ring-2 ring-amber-300 shadow-xs'
-                    : 'hover:bg-amber-50 hover:text-slate-950'
-                }`}
-              >
-                {sentence.text}{' '}
-              </span>
+              <div key={bi} className="rounded-xl border-l-4 border-amber-500 bg-amber-50 px-4 py-3 text-base">
+                <span className="text-xs font-black uppercase tracking-wide text-amber-800 mr-2">📌 Kavram</span>
+                {sp(s, blk.idx[0])}
+              </div>
             );
           })}
         </div>
       </article>
-
       {/* Bottom Switch to Test prompt */}
       <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-2xl border border-amber-200 p-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div>
