@@ -3,6 +3,7 @@ import { createPortal } from 'react-dom';
 import { Settings, X, Download, Upload, Mail } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import { DRIVE_AUDIO_URL } from '../config/links';
+import { getFontPercent, applyFontPercent, FONT_MIN, FONT_MAX, FONT_STEP } from '../services/fontScale';
 
 export const SettingsButton: React.FC = () => {
   const { audioSource, setAudioSource, exportProgress, importProgress } = useApp();
@@ -10,6 +11,12 @@ export const SettingsButton: React.FC = () => {
   const [mode, setMode] = useState<'merge' | 'overwrite'>('merge');
   const [msg, setMsg] = useState('');
   const fileRef = useRef<HTMLInputElement>(null);
+
+  const [font, setFont] = useState(getFontPercent());
+  useEffect(() => {
+    applyFontPercent(getFontPercent());
+  }, []);
+  const changeFont = (delta: number) => setFont(applyFontPercent(font + delta));
 
   useEffect(() => {
     if (!open) return;
@@ -90,16 +97,26 @@ export const SettingsButton: React.FC = () => {
             </div>
 
             <section className="space-y-3">
+              <h3 className="font-bold text-slate-800">Yazı boyutu</h3>
+              <div className="flex items-center gap-2">
+                <button onClick={() => changeFont(-FONT_STEP)} disabled={font <= FONT_MIN} className="px-4 py-2 rounded-lg text-sm font-bold bg-slate-100 hover:bg-slate-200 disabled:opacity-40 cursor-pointer">Azalt (A−)</button>
+                <span className="text-sm font-mono w-14 text-center">%{font}</span>
+                <button onClick={() => changeFont(FONT_STEP)} disabled={font >= FONT_MAX} className="px-4 py-2 rounded-lg text-sm font-bold bg-slate-100 hover:bg-slate-200 disabled:opacity-40 cursor-pointer">Arttır (A+)</button>
+                <button onClick={() => setFont(applyFontPercent(100))} className="px-3 py-2 rounded-lg text-xs font-bold text-slate-600 hover:bg-slate-100 cursor-pointer">Sıfırla</button>
+              </div>
+            </section>
+
+            <section className="space-y-3">
               <h3 className="font-bold text-slate-800">Ses</h3>
               <label className="flex items-start gap-2 text-sm cursor-pointer">
                 <input type="radio" name="asrc" checked={audioSource === 'program'} onChange={() => setAudioSource('program')} className="mt-1 accent-amber-600" />
-                <span><b>Program sesi</b> — bizim kaydettiğimiz Türkçe ses (varsa), yoksa telefon sesi.</span>
+                <span><b>Uygulama sesini kullan</b> — bizim kaydettiğimiz Türkçe ses (varsa), yoksa sistem sesi.</span>
               </label>
               <label className="flex items-start gap-2 text-sm cursor-pointer">
                 <input type="radio" name="asrc" checked={audioSource === 'device'} onChange={() => setAudioSource('device')} className="mt-1 accent-amber-600" />
-                <span><b>Telefon sesi</b> — cihazının kendi sesli okuyucusu (TTS). Telefonunda iyi bir okuyucu varsa bizim sese ihtiyacın olmayabilir.</span>
+                <span><b>Sistem sesini kullan</b> — cihazının kendi sesli okuyucusu (TTS). Telefonunda iyi bir okuyucu varsa bizim sese ihtiyacın olmayabilir.</span>
               </label>
-              <button onClick={testTts} className="px-3 py-1.5 rounded-lg text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 cursor-pointer">Telefon sesini dene</button>
+              <button onClick={testTts} className="px-3 py-1.5 rounded-lg text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 cursor-pointer">Sistem sesini dene</button>
               <p className="text-xs text-slate-600 bg-amber-50 border border-amber-200 rounded-lg p-3 leading-relaxed">
                 Ses alamıyorsan: telefonunda Türkçe sesli okuyucu (TTS) var mı? Yoksa programın ses dosyalarını indirmek için{' '}
                 {DRIVE_AUDIO_URL ? (
