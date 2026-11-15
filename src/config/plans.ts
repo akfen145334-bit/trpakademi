@@ -6,6 +6,9 @@
  */
 export const PAYWALL_ENABLED = false;
 
+/** Eksiklerim kitabı (tam PDF) HER ZAMAN ücretlidir; ödeme sistemi bağlanana dek tam sürüm verilmez. */
+export const EKSIKLERIM_BOOK_PRICE_TEXT = '….. TL';
+
 export type Tier = 'anon' | 'member' | 'premium';
 
 export interface TierLimits {

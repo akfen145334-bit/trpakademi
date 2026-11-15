@@ -1,6 +1,7 @@
 import React from 'react';
 import { useApp } from '../context/AppContext';
 import { AccountButton } from './AccountButton';
+import { SettingsButton } from './SettingsButton';
 import {
   BookOpen, 
   AlertCircle, 
@@ -123,13 +124,12 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
     goToMutlakaBil,
     goToHafiza,
     goToDeneme,
-    allWrongQuestions,
-    weakSubtopics,
+    eksiklerim,
     audioState,
-    getOverallStats 
+    getOverallStats
   } = useApp();
 
-  const totalEksikCount = allWrongQuestions.length + weakSubtopics.length;
+  const totalEksikCount = eksiklerim.reduce((n, c) => n + c.itemCount, 0);
   const stats = getOverallStats();
 
   return (
@@ -250,6 +250,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
             )}
 
             <AccountButton />
+            <SettingsButton />
             <InstallButton />
 
             {/* Mobile / Tablet Background Audio Info */}

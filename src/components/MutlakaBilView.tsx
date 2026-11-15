@@ -14,6 +14,7 @@ export const MutlakaBilView: React.FC = () => {
     goToMutlakaBil,
     goToHafiza,
     goToSubtopic,
+    setTestPreset,
     audioState,
     playMustKnow,
     pauseAudio,
@@ -95,10 +96,13 @@ export const MutlakaBilView: React.FC = () => {
                 <BookOpen className="w-4 h-4" /> Konu anlatımı
               </button>
               <button
-                onClick={() => goToSubtopic(course.id, sub.id, 'test')}
+                onClick={() => {
+                  setTestPreset({ part: 'mb' });
+                  goToSubtopic(course.id, sub.id, 'test');
+                }}
                 className="flex items-center gap-1.5 px-3 py-2.5 rounded-xl bg-slate-900 text-white font-semibold text-sm cursor-pointer"
               >
-                <HelpCircle className="w-4 h-4" /> Teste geç
+                <HelpCircle className="w-4 h-4" /> Bunlardan test çöz
               </button>
             </div>
           </div>

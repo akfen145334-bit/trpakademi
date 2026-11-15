@@ -1,372 +1,270 @@
 import React, { useState } from 'react';
-import { useApp } from '../context/AppContext';
+import { useApp, EksikCourse, EksikSubtopic } from '../context/AppContext';
 import { useLimits } from '../hooks/useLimits';
-import { exportEksiklerimPdf } from '../services/pdfExport';
-import { FileDown, Lock } from 'lucide-react';
+import { exportEksiklerimTeaserPdf, eksiklerimPageEstimate } from '../services/pdfExport';
+import { EKSIKLERIM_BOOK_PRICE_TEXT } from '../config/plans';
 import {
-  AlertCircle, 
-  RotateCcw, 
-  Headphones, 
-  CheckCircle2, 
-  XCircle, 
-  BookOpen, 
-  ChevronRight, 
-  Volume2, 
-  Sparkles,
-  BookmarkCheck,
-  HelpCircle,
-  ArrowRight
+  Headphones,
+  Copy,
+  Check,
+  FileDown,
+  Lock,
+  ChevronDown,
+  ChevronRight,
+  BookOpen,
+  CheckCircle2,
+  Loader2,
+  Trash2,
+  Square
 } from 'lucide-react';
 
+const subtopicText = (s: EksikSubtopic) =>
+  `${s.subtopic.title}\n` + s.items.map((it, i) => `${i + 1}. ${it.text}`).join('\n');
+const courseText = (c: EksikCourse) =>
+  `${c.course.title}\n\n` + c.subtopics.map(subtopicText).join('\n\n');
+
 export const EksiklerimView: React.FC = () => {
-  const { 
-    allWrongQuestions, 
-    weakSubtopics, 
-    resetWrongQuestion, 
-    answerQuestion, 
-    goToSubtopic, 
-    playEksiklerimAudio,
-    playSubtopicAudio,
+  const {
+    eksiklerim,
+    questionsLoading,
     userStats,
     audioState,
-    goToHome
+    playEksiklerimCourse,
+    stopAudio,
+    goToSubtopic,
+    goToHome,
+    toggleRepeat,
+    resetWrongQuestion,
+    courses
   } = useApp();
-
-  const [activeTab, setActiveTab] = useState<'wrong_questions' | 'weak_topics'>('wrong_questions');
-  const [solvingQuestionId, setSolvingQuestionId] = useState<string | null>(null);
-
   const { limits } = useLimits();
-  const [lockMsg, setLockMsg] = useState('');
-  const lock = () => setLockMsg('Bu özellik Premium üyelere açıktır.');
-  const doPdf = () => {
-    const ok = exportEksiklerimPdf(
-      allWrongQuestions.map(({ question, subtopic, course }) => ({
-        question,
-        courseTitle: course.title,
-        subtopicTitle: subtopic.title,
-        userSelected: userStats.solvedQuestions[question.id]
-      })),
-      weakSubtopics.map(({ subtopic, course }) => ({ course: course.title, subtopic: subtopic.title }))
-    );
-    setLockMsg(ok ? '' : 'Açılır pencere engellendi; bu siteye izin verip tekrar dene.');
+
+  const [tab, setTab] = useState<'bilgi' | 'sorular'>('bilgi');
+  const [openCourse, setOpenCourse] = useState<string | null>(null);
+  const [copied, setCopied] = useState<string | null>(null);
+  const [msg, setMsg] = useState('');
+
+  const totalInfo = eksiklerim.reduce((n, c) => n + c.itemCount, 0);
+  const totalQ = eksiklerim.reduce((n, c) => n + c.questionCount, 0);
+  const pages = eksiklerimPageEstimate(totalInfo);
+
+  const copy = async (key: string, text: string) => {
+    try {
+      await navigator.clipboard.writeText(text);
+      setCopied(key);
+      setTimeout(() => setCopied(c => (c === key ? null : c)), 1800);
+    } catch {
+      setMsg('Kopyalanamadı; metni elle seçip kopyalayabilirsin.');
+    }
   };
 
-  const totalWrong = allWrongQuestions.length;
-  const totalWeakTopics = weakSubtopics.length;
+  const listen = (courseId: string, subtopicId?: string) => {
+    if (!limits.eksiklerimAudio) {
+      setMsg('Bu özellik Premium üyelere açıktır.');
+      return;
+    }
+    setMsg('');
+    playEksiklerimCourse(courseId, subtopicId);
+  };
+
+  const playing = audioState.isPlaying && audioState.mode === 'eksiklerim';
+
+  const teaser = () => {
+    const ok = exportEksiklerimTeaserPdf(
+      eksiklerim.map(c => ({
+        course: c.course.title,
+        subtopics: c.subtopics.map(s => ({ title: s.subtopic.title, infoCount: s.items.length }))
+      })),
+      EKSIKLERIM_BOOK_PRICE_TEXT
+    );
+    setMsg(ok ? '' : 'Açılır pencere engellendi; bu siteye izin verip tekrar dene.');
+  };
+
+  // Sorularım sekmesi: yanlış veya "tekrar çöz" işaretli sorular
+  const marked = new Set(Object.keys(userStats.marks || {}).filter(id => userStats.marks![id].r));
+  const wrong = new Set(userStats.wrongQuestionIds);
+  const qList = courses.flatMap(c =>
+    c.subtopics.flatMap(s =>
+      s.questions.filter(q => wrong.has(q.id) || marked.has(q.id)).map(q => ({ q, s, c }))
+    )
+  );
 
   return (
     <div className="max-w-5xl mx-auto space-y-6">
-      
-      {/* Eksiklerim Banner & Header */}
       <div className="bg-gradient-to-r from-rose-900 via-rose-800 to-amber-900 text-white rounded-2xl p-6 sm:p-8 shadow-md">
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-6">
+        <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight">Eksiklerim</h1>
+        <p className="text-sm text-rose-100/90 mt-2 max-w-2xl leading-relaxed">
+          Yanlış yaptığın ve “Tekrar çöz” dediğin soruları çözmek için gereken bilgiler, konu anlatımındaki sıraya göre ve
+          tekrarsız burada toplanır. Ders ders okuyabilir, dinleyebilir, kopyalayıp Word’e yapıştırabilirsin.
+        </p>
+        <div className="grid grid-cols-2 gap-3 mt-5">
+          <div className="bg-black/20 p-3 rounded-xl border border-white/10">
+            <div className="text-xs text-rose-200">Eksik bilgi</div>
+            <div className="text-2xl font-black font-mono">{totalInfo}</div>
+          </div>
+          <div className="bg-black/20 p-3 rounded-xl border border-white/10">
+            <div className="text-xs text-rose-200">Tekrar edilecek soru</div>
+            <div className="text-2xl font-black font-mono">{totalQ}</div>
+          </div>
+        </div>
+        {playing && (
+          <button onClick={stopAudio} className="mt-4 flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold bg-white/20 hover:bg-white/30 cursor-pointer">
+            <Square className="w-3.5 h-3.5" /> Dinlemeyi durdur
+          </button>
+        )}
+        {msg && <p className="text-xs text-amber-200 font-bold mt-3">{msg}</p>}
+      </div>
+
+      {/* Ücretli kitap */}
+      <div className="bg-white rounded-2xl border border-amber-300 p-5 shadow-xs">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           <div>
-            <div className="flex items-center gap-2 mb-2">
-              <span className="px-2.5 py-0.5 rounded-full bg-rose-500/30 text-rose-200 text-xs font-bold border border-rose-400/30">
-                Kişiselleştirilmiş Çalışma Alanı
-              </span>
-            </div>
-            <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight">
-              Eksiklerim & Tekrar Merkezi
-            </h1>
-            <p className="text-sm text-rose-100/90 mt-2 max-w-2xl leading-relaxed">
-              Yanlış cevapladığınız sorular ve henüz pekişmemiş alt konu başlıkları burada toplanır. 
-              Eksiklerinizi yeniden çözebilir veya tek tıkla <strong>Eksiklerimi Dinle</strong> özelliğiyle sesli tekrar yapabilirsiniz.
+            <h3 className="text-base font-extrabold text-slate-900 flex items-center gap-2">
+              <FileDown className="w-5 h-5 text-amber-600" /> Tüm eksiklerimden PDF kitap
+              <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 border border-amber-300 flex items-center gap-1"><Lock className="w-3 h-3" /> Ücretli</span>
+            </h3>
+            <p className="text-sm text-slate-600 mt-1">
+              {totalInfo === 0 ? 'Henüz eksik bilgin yok.' : <>Kitap yaklaşık <b>{pages} sayfa</b>, <b>{totalInfo} bilgi</b> içerir.</>}
+            </p>
+            <p className="text-xs text-slate-500 mt-1">
+              İlk sayfayı (konular ve eksik bilgi sayıları) ücretsiz görebilirsin. Tamamını PDF indirmek için{' '}
+              <b>{EKSIKLERIM_BOOK_PRICE_TEXT}</b> ücreti yatırınız.
             </p>
           </div>
+          <button
+            onClick={teaser}
+            disabled={totalInfo === 0}
+            className="shrink-0 px-4 py-2.5 rounded-xl text-sm font-bold bg-amber-600 hover:bg-amber-500 disabled:opacity-40 text-white cursor-pointer"
+          >
+            1. sayfayı gör
+          </button>
+        </div>
+      </div>
 
-          {/* "Eksiklerimi Dinle" Primary CTA */}
-          <div className="shrink-0 flex flex-col gap-2">
-            <button
-              onClick={() => (limits.eksiklerimPdf ? doPdf() : lock())}
-              className="flex items-center justify-center gap-2 px-6 py-3 rounded-xl text-sm font-bold bg-white/15 hover:bg-white/25 text-white border border-white/30 transition cursor-pointer"
-            >
-              <FileDown className="w-5 h-5" />
-              <span>Eksiklerimi PDF Al</span>
-              {!limits.eksiklerimPdf && <Lock className="w-3.5 h-3.5" />}
-            </button>
-            <button
-              onClick={() => (limits.eksiklerimAudio ? playEksiklerimAudio() : lock())}
-              className={`flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl text-sm font-black transition transform hover:scale-102 shadow-lg cursor-pointer ${
-                audioState.isPlaying && audioState.mode === 'eksiklerim'
-                  ? 'bg-amber-400 text-slate-950 ring-4 ring-amber-300/40'
-                  : 'bg-amber-500 hover:bg-amber-400 text-slate-950'
-              }`}
-            >
-              <Headphones className="w-5 h-5" />
-              <span>Eksiklerimi Dinle</span>
-              {!limits.eksiklerimAudio && <Lock className="w-3.5 h-3.5" />}
-            </button>
-            <span className="text-[11px] text-center text-rose-200 font-medium">
-              Fosforlu cümle takibiyle sırayla okur
-            </span>
-            {lockMsg && (
-              <span className="text-[11px] text-center text-amber-200 font-bold">
-                {lockMsg}
-              </span>
+      <div className="flex items-center gap-2 border-b border-slate-200 pb-2">
+        <button onClick={() => setTab('bilgi')} className={`px-4 py-2 rounded-xl text-sm font-bold cursor-pointer ${tab === 'bilgi' ? 'bg-rose-50 text-rose-900 border border-rose-200' : 'text-slate-600 hover:bg-slate-100'}`}>
+          Eksik bilgilerim ({totalInfo})
+        </button>
+        <button onClick={() => setTab('sorular')} className={`px-4 py-2 rounded-xl text-sm font-bold cursor-pointer ${tab === 'sorular' ? 'bg-rose-50 text-rose-900 border border-rose-200' : 'text-slate-600 hover:bg-slate-100'}`}>
+          Sorularım ({qList.length})
+        </button>
+      </div>
+
+      {tab === 'bilgi' &&
+        (eksiklerim.length === 0 ? (
+          <div className="bg-white rounded-2xl border border-slate-200 p-12 text-center">
+            {questionsLoading ? (
+              <Loader2 className="w-10 h-10 text-amber-500 mx-auto animate-spin" />
+            ) : (
+              <>
+                <CheckCircle2 className="w-14 h-14 text-emerald-500 mx-auto mb-3" />
+                <h3 className="text-lg font-extrabold text-slate-800">Eksik bilgin yok</h3>
+                <p className="text-sm text-slate-500 mt-2 max-w-md mx-auto">
+                  Testlerde yanlış yaptığın ya da “Tekrar çöz” dediğin sorular olunca, gereken bilgiler burada ders ders birikir.
+                </p>
+                <button onClick={goToHome} className="mt-5 px-5 py-2.5 bg-amber-600 hover:bg-amber-500 text-white font-bold text-sm rounded-xl cursor-pointer">Dersleri incele</button>
+              </>
             )}
           </div>
-        </div>
-
-        {/* Quick Stats Badges */}
-        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mt-6 pt-6 border-t border-rose-700/50">
-          <div className="bg-black/20 backdrop-blur-xs p-3 rounded-xl border border-white/10">
-            <div className="text-xs text-rose-200 font-medium">Yanlış Sorular</div>
-            <div className="text-2xl font-black font-mono text-white mt-0.5">
-              {totalWrong}
-            </div>
-          </div>
-
-          <div className="bg-black/20 backdrop-blur-xs p-3 rounded-xl border border-white/10">
-            <div className="text-xs text-rose-200 font-medium">Tekrar Edilecek Konular</div>
-            <div className="text-2xl font-black font-mono text-white mt-0.5">
-              {totalWeakTopics}
-            </div>
-          </div>
-
-          <div className="col-span-2 sm:col-span-1 bg-black/20 backdrop-blur-xs p-3 rounded-xl border border-white/10 flex flex-col justify-center">
-            <div className="text-xs text-rose-200 font-medium">Tamamlanan Konular</div>
-            <div className="text-lg font-bold font-mono text-emerald-300 mt-0.5">
-              {userStats.completedSubtopicIds.length} Alt Başlık
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Navigation Tabs between Wrong Questions & Weak Topics */}
-      <div className="flex items-center gap-2 border-b border-slate-200 pb-2">
-        <button
-          onClick={() => setActiveTab('wrong_questions')}
-          className={`flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-bold transition cursor-pointer ${
-            activeTab === 'wrong_questions'
-              ? 'bg-rose-50 text-rose-900 border border-rose-200 shadow-xs'
-              : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
-          }`}
-        >
-          <XCircle className="w-4 h-4 text-rose-600" />
-          <span>Yanlış Cevaplanan Sorular</span>
-          <span className="px-2 py-0.5 text-xs rounded-full bg-rose-200 text-rose-900 font-mono">
-            {totalWrong}
-          </span>
-        </button>
-
-        <button
-          onClick={() => setActiveTab('weak_topics')}
-          className={`flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-bold transition cursor-pointer ${
-            activeTab === 'weak_topics'
-              ? 'bg-amber-50 text-amber-900 border border-amber-200 shadow-xs'
-              : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
-          }`}
-        >
-          <BookOpen className="w-4 h-4 text-amber-600" />
-          <span>Eksik / Çalışılacak Konular</span>
-          <span className="px-2 py-0.5 text-xs rounded-full bg-amber-200 text-amber-900 font-mono">
-            {totalWeakTopics}
-          </span>
-        </button>
-      </div>
-
-      {/* Tab 1: Wrong Questions List & Retry Mode */}
-      {activeTab === 'wrong_questions' && (
-        <div className="space-y-4">
-          {totalWrong === 0 ? (
-            <div className="bg-white rounded-2xl border border-slate-200 p-12 text-center">
-              <CheckCircle2 className="w-16 h-16 text-emerald-500 mx-auto mb-3" />
-              <h3 className="text-xl font-extrabold text-slate-800">
-                Harika! Hiç Yanlışınız Yok
-              </h3>
-              <p className="text-sm text-slate-500 mt-2 max-w-md mx-auto">
-                Çözdüğünüz tüm sorularda tam başarı gösterdiniz veya yanlışlarınızı başarıyla düzelttiniz. 
-                Yeni konuları çalışmak için dersler bölümüne göz atabilirsiniz.
-              </p>
-              <button
-                onClick={goToHome}
-                className="mt-6 px-5 py-2.5 bg-amber-600 hover:bg-amber-500 text-white font-bold text-sm rounded-xl transition cursor-pointer"
-              >
-                Dersleri İncele
-              </button>
-            </div>
-          ) : (
-            <div className="space-y-4">
-              <div className="text-xs text-slate-500 px-1">
-                Aşağıdaki sorularda yanlış yapılmıştır. <strong>Tekrar Çöz</strong> butonuna tıklayarak cevabınızı sıfırlayabilir ve doğru cevabı bulana kadar pratik yapabilirsiniz.
-              </div>
-
-              {allWrongQuestions.map(({ question, subtopic, course }, qIdx) => {
-                const userSelected = userStats.solvedQuestions[question.id];
-
-                return (
-                  <div 
-                    key={question.id}
-                    className="bg-white rounded-2xl border border-rose-200 p-5 sm:p-6 shadow-xs hover:border-rose-300 transition"
-                  >
-                    {/* Header info */}
-                    <div className="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-slate-100 text-xs">
-                      <div className="flex items-center gap-2">
-                        <span className="font-bold text-slate-900 bg-slate-100 px-2 py-0.5 rounded">
-                          {course.title}
-                        </span>
-                        <span className="text-slate-400">/</span>
-                        <span className="font-medium text-slate-600">
-                          {subtopic.title}
-                        </span>
-                      </div>
-
-                      <div className="flex items-center gap-2">
-                        <button
-                          onClick={() => resetWrongQuestion(question.id)}
-                          className="flex items-center gap-1 px-3 py-1 bg-amber-50 hover:bg-amber-100 text-amber-900 border border-amber-200 rounded-lg font-bold text-xs transition cursor-pointer"
-                        >
-                          <RotateCcw className="w-3.5 h-3.5" />
-                          <span>Yeniden Çöz</span>
-                        </button>
-
-                        <button
-                          onClick={() => goToSubtopic(course.id, subtopic.id, 'lecture')}
-                          className="flex items-center gap-1 px-2.5 py-1 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg font-semibold text-xs transition cursor-pointer"
-                        >
-                          <BookOpen className="w-3.5 h-3.5" />
-                          <span>Konu Anlatımı</span>
-                        </button>
-                      </div>
-                    </div>
-
-                    {/* Question text */}
-                    <div className="mt-4 flex items-start gap-3">
-                      <span className="w-7 h-7 rounded-lg bg-rose-100 text-rose-800 font-extrabold text-xs flex items-center justify-center shrink-0 mt-0.5">
-                        {qIdx + 1}
+        ) : (
+          <div className="space-y-3">
+            {eksiklerim.map(ec => {
+              const open = openCourse === ec.course.id;
+              return (
+                <div key={ec.course.id} className="bg-white rounded-2xl border border-slate-200 shadow-xs overflow-hidden">
+                  <div className="flex flex-wrap items-center justify-between gap-3 p-4">
+                    <button onClick={() => setOpenCourse(open ? null : ec.course.id)} className="flex items-center gap-2 text-left cursor-pointer">
+                      {open ? <ChevronDown className="w-5 h-5" /> : <ChevronRight className="w-5 h-5" />}
+                      <span>
+                        <span className="block font-extrabold text-slate-900">{ec.course.title}</span>
+                        <span className="block text-xs text-slate-500">{ec.subtopics.length} alt başlık · {ec.itemCount} bilgi · {ec.questionCount} soru</span>
                       </span>
-                      <p className="font-bold text-slate-900 text-sm sm:text-base leading-relaxed">
-                        {question.questionText}
-                      </p>
+                    </button>
+                    <div className="flex gap-2">
+                      <button onClick={() => listen(ec.course.id)} className="flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-bold bg-amber-500 hover:bg-amber-400 text-slate-950 cursor-pointer">
+                        <Headphones className="w-4 h-4" /> Dersin eksiklerini dinle
+                        {!limits.eksiklerimAudio && <Lock className="w-3 h-3" />}
+                      </button>
+                      <button onClick={() => copy('c' + ec.course.id, courseText(ec))} className="flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 cursor-pointer">
+                        {copied === 'c' + ec.course.id ? <Check className="w-4 h-4 text-emerald-600" /> : <Copy className="w-4 h-4" />} Kopyala
+                      </button>
                     </div>
-
-                    {/* Options list */}
-                    <div className="mt-4 grid grid-cols-1 gap-2">
-                      {question.options.map((opt, oIdx) => {
-                        const isCorrectOption = oIdx === question.correctIndex;
-                        const isUserChoice = oIdx === userSelected;
-
-                        return (
-                          <div
-                            key={oIdx}
-                            className={`p-3 rounded-xl border text-xs sm:text-sm flex items-start gap-2.5 ${
-                              isCorrectOption
-                                ? 'bg-emerald-50 border-emerald-300 text-emerald-950 font-semibold'
-                                : isUserChoice
-                                ? 'bg-rose-50 border-rose-300 text-rose-950 font-medium'
-                                : 'bg-slate-50/60 border-slate-200 text-slate-500'
-                            }`}
-                          >
-                            <span className={`w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-bold font-mono shrink-0 mt-0.5 ${
-                              isCorrectOption ? 'bg-emerald-600 text-white' :
-                              isUserChoice ? 'bg-rose-600 text-white' :
-                              'bg-slate-200 text-slate-700'
-                            }`}>
-                              {String.fromCharCode(65 + oIdx)}
-                            </span>
-                            <span className="flex-1">
-                              {opt.replace(/^[A-E]\)\s*/, '')}
-                            </span>
-                            {isCorrectOption && (
-                              <span className="text-[11px] font-bold text-emerald-700 px-2 py-0.5 bg-emerald-100 rounded">
-                                Doğru Cevap
-                              </span>
-                            )}
-                            {isUserChoice && !isCorrectOption && (
-                              <span className="text-[11px] font-bold text-rose-700 px-2 py-0.5 bg-rose-100 rounded">
-                                Sizin Cevabınız
-                              </span>
-                            )}
+                  </div>
+                  {open && (
+                    <div className="border-t border-slate-100 divide-y divide-slate-100">
+                      {ec.subtopics.map(es => (
+                        <div key={es.subtopic.id} className="p-4">
+                          <div className="flex flex-wrap items-center justify-between gap-2">
+                            <div className="font-bold text-slate-800 text-sm">
+                              {es.subtopic.title} <span className="text-xs text-slate-500 font-normal">· {es.items.length} bilgi</span>
+                            </div>
+                            <div className="flex gap-2">
+                              <button onClick={() => listen(ec.course.id, es.subtopic.id)} className="flex items-center gap-1 px-2.5 py-1.5 rounded-lg text-xs font-bold bg-amber-100 hover:bg-amber-200 text-amber-900 cursor-pointer">
+                                <Headphones className="w-3.5 h-3.5" /> Dinle
+                              </button>
+                              <button onClick={() => copy('s' + es.subtopic.id, subtopicText(es))} className="flex items-center gap-1 px-2.5 py-1.5 rounded-lg text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 cursor-pointer">
+                                {copied === 's' + es.subtopic.id ? <Check className="w-3.5 h-3.5 text-emerald-600" /> : <Copy className="w-3.5 h-3.5" />} Kopyala
+                              </button>
+                              <button onClick={() => goToSubtopic(ec.course.id, es.subtopic.id, 'lecture')} className="flex items-center gap-1 px-2.5 py-1.5 rounded-lg text-xs font-bold bg-slate-900 text-white hover:bg-slate-800 cursor-pointer">
+                                <BookOpen className="w-3.5 h-3.5" /> Konu
+                              </button>
+                            </div>
                           </div>
-                        );
-                      })}
+                          <ol className="mt-3 space-y-2 list-decimal pl-5 text-sm text-slate-800 leading-relaxed">
+                            {es.items.map(it => (
+                              <li key={it.key}>
+                                {it.text}
+                                {it.questionIds.length > 1 && <span className="ml-1 text-[10px] text-rose-600 font-bold">({it.questionIds.length} soru)</span>}
+                              </li>
+                            ))}
+                          </ol>
+                        </div>
+                      ))}
                     </div>
+                  )}
+                </div>
+              );
+            })}
+            <button
+              onClick={() => copy('all', eksiklerim.map(courseText).join('\n\n\n'))}
+              className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 cursor-pointer"
+            >
+              {copied === 'all' ? <Check className="w-4 h-4 text-emerald-600" /> : <Copy className="w-4 h-4" />} Tüm eksiklerimi kopyala
+            </button>
+          </div>
+        ))}
 
-                    {/* Explanation */}
-                    <div className="mt-4 p-3.5 bg-slate-50 rounded-xl border border-slate-200 text-xs text-slate-700 leading-relaxed font-sans">
-                      <strong className="text-slate-900">Açıklama:</strong> {question.explanation}
-                    </div>
-
-                  </div>
-                );
-              })}
-            </div>
-          )}
-        </div>
-      )}
-
-      {/* Tab 2: Weak / Incomplete Topics */}
-      {activeTab === 'weak_topics' && (
-        <div className="space-y-4">
-          {totalWeakTopics === 0 ? (
-            <div className="bg-white rounded-2xl border border-slate-200 p-12 text-center">
-              <CheckCircle2 className="w-16 h-16 text-emerald-500 mx-auto mb-3" />
-              <h3 className="text-xl font-extrabold text-slate-800">
-                Tüm Konular Başarıyla Tamamlandı!
-              </h3>
-              <p className="text-sm text-slate-500 mt-2 max-w-md mx-auto">
-                Eksik veya zayıf olarak işaretlenen bir alt konu bulunmuyor. Dilediğiniz konuyu pekiştirmek için dersler listesinden sesli dinleyebilirsiniz.
-              </p>
-            </div>
+      {tab === 'sorular' && (
+        <div className="space-y-3">
+          {qList.length === 0 ? (
+            <div className="bg-white rounded-2xl border border-slate-200 p-10 text-center text-sm text-slate-500">Tekrar çözülecek soru yok.</div>
           ) : (
-            <div className="grid grid-cols-1 gap-3">
-              {weakSubtopics.map(({ subtopic, course }) => {
-                const isPlayingThis = audioState.isPlaying && audioState.currentSubtopicId === subtopic.id;
-
-                return (
-                  <div
-                    key={subtopic.id}
-                    className="bg-white rounded-xl border border-slate-200 p-4 sm:p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4 hover:border-amber-300 transition shadow-xs"
-                  >
-                    <div>
-                      <span className="text-xs font-bold text-amber-800 bg-amber-50 px-2 py-0.5 rounded border border-amber-200">
-                        {course.title}
-                      </span>
-                      <h4 className="text-base font-extrabold text-slate-900 mt-1">
-                        {subtopic.title}
-                      </h4>
-                      <p className="text-xs text-slate-500 mt-1">
-                        {subtopic.sentences.length} cümle konu anlatımı · {subtopic.questions.length} test sorusu
-                      </p>
-                    </div>
-
-                    <div className="flex items-center gap-2 shrink-0">
-                      <button
-                        onClick={() => playSubtopicAudio(course.id, subtopic.id)}
-                        className={`flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-bold transition cursor-pointer ${
-                          isPlayingThis
-                            ? 'bg-amber-500 text-slate-950 ring-2 ring-amber-300'
-                            : 'bg-amber-100 hover:bg-amber-200 text-amber-900 border border-amber-200'
-                        }`}
-                      >
-                        <Volume2 className="w-3.5 h-3.5" />
-                        <span>Dinle</span>
-                      </button>
-
-                      <button
-                        onClick={() => goToSubtopic(course.id, subtopic.id, 'lecture')}
-                        className="flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-bold bg-slate-900 hover:bg-slate-800 text-white transition cursor-pointer"
-                      >
-                        <BookOpen className="w-3.5 h-3.5" />
-                        <span>Metni Aç</span>
-                      </button>
-
-                      <button
-                        onClick={() => goToSubtopic(course.id, subtopic.id, 'test')}
-                        className="flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-200 transition cursor-pointer"
-                      >
-                        <span>Testi Çöz</span>
-                      </button>
-                    </div>
+            qList.map(({ q, s, c }, i) => (
+              <div key={q.id} className="bg-white rounded-2xl border border-rose-200 p-5 shadow-xs">
+                <div className="flex flex-wrap items-center justify-between gap-2 text-xs pb-2 border-b border-slate-100">
+                  <span className="text-slate-600"><b>{c.title}</b> / {s.title}</span>
+                  <div className="flex gap-2">
+                    <button onClick={() => goToSubtopic(c.id, s.id, 'test')} className="px-2.5 py-1 rounded-lg bg-amber-100 text-amber-900 font-bold hover:bg-amber-200 cursor-pointer">Testte çöz</button>
+                    <button
+                      onClick={() => {
+                        if (marked.has(q.id)) toggleRepeat(q.id);
+                        if (wrong.has(q.id)) resetWrongQuestion(q.id);
+                      }}
+                      className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-slate-100 text-slate-700 font-bold hover:bg-slate-200 cursor-pointer"
+                      title="Bu soruyu Eksiklerim’den çıkar"
+                    >
+                      <Trash2 className="w-3.5 h-3.5" /> Çıkar
+                    </button>
                   </div>
-                );
-              })}
-            </div>
+                </div>
+                <p className="mt-3 font-bold text-slate-900 text-sm leading-relaxed">{i + 1}. {q.questionText}</p>
+                <p className="mt-2 text-sm text-emerald-800 font-semibold">Doğru: {q.options[q.correctIndex]}</p>
+                <p className="mt-1 text-xs text-slate-600 leading-relaxed">{q.explanation}</p>
+              </div>
+            ))
           )}
         </div>
       )}
-
     </div>
   );
 };

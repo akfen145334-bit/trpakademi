@@ -41,14 +41,15 @@ const MainApp: React.FC = () => {
     setActiveSubtopicTab,
     playEntireCourseAudio,
     playSubtopicAudio,
-    playEksiklerimAudio,
+    goToEksiklerim,
+    eksiklerim,
     audioState,
     getCourseStats,
     allWrongQuestions,
-    weakSubtopics,
     userStats
   } = useApp();
 
+  const eksikInfoCount = eksiklerim.reduce((n, c) => n + c.itemCount, 0);
   const [isBackgroundModalOpen, setIsBackgroundModalOpen] = useState(false);
   const [isReportModalOpen, setIsReportModalOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -98,13 +99,13 @@ const MainApp: React.FC = () => {
 
                 {/* Quick Action Badges */}
                 <div className="flex flex-wrap items-center gap-3 mt-6">
-                  {(allWrongQuestions.length > 0 || weakSubtopics.length > 0) && (
+                  {eksikInfoCount > 0 && (
                     <button
-                      onClick={playEksiklerimAudio}
+                      onClick={goToEksiklerim}
                       className="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-black text-xs transition shadow-md cursor-pointer"
                     >
                       <Headphones className="w-4 h-4" />
-                      <span>Eksiklerimi Dinle ({allWrongQuestions.length + weakSubtopics.length})</span>
+                      <span>Eksiklerim ({eksikInfoCount} bilgi)</span>
                     </button>
                   )}
 

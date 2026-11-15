@@ -1,10 +1,41 @@
 import React, { createContext, useContext, useEffect, useRef, useState, useMemo, ReactNode } from 'react';
 import { useAuth } from './AuthContext';
 import { supabase } from '../services/supabase';
-import { Course, Subtopic, Question, UserStats, AudioPlaybackState } from '../types';
+import { Course, Subtopic, Question, UserStats, AudioPlaybackState, QuestionMark } from '../types';
 import { COURSES_DATA } from '../data/coursesData';
 import { speechService } from '../services/speechService';
 import { MUTLAKA_BIL } from '../data/mutlakaBil';
+import { fetchCourseQuestions } from '../services/questionService';
+
+/** Eksiklerim: bir alt başlıktaki, çözülemeyen sorular için gereken (tekrarsız) bilgi kalemleri */
+export interface EksikItem {
+  key: string;
+  text: string;
+  heading?: string;
+  /** konu anlatımındaki cümle sırası */
+  order: number;
+  questionIds: string[];
+}
+export interface EksikSubtopic {
+  course: Course;
+  subtopic: Subtopic;
+  items: EksikItem[];
+  questionCount: number;
+}
+export interface EksikCourse {
+  course: Course;
+  subtopics: EksikSubtopic[];
+  itemCount: number;
+  questionCount: number;
+}
+export type AudioSource = 'program' | 'device';
+export interface ProgressExport {
+  format: 'trp-akademi-ilerleme';
+  version: 1;
+  exportedAt: string;
+  stats: UserStats;
+  prefs: { audioSource: AudioSource };
+}
 
 interface AppContextType {
   courses: Course[];
@@ -47,7 +78,29 @@ interface AppContextType {
   markSubtopicCompleted: (subtopicId: string) => void;
   getCourseStats: (courseId: string) => { totalQuestions: number; solvedCount: number; correctCount: number; successRate: number; coverageRate: number };
   getOverallStats: () => { totalOfficial: number; solvedCount: number; correctCount: number; wrongCount: number; successRate: number; coverageRate: number };
-  
+
+  // Yeni soru havuzu (ders bazlı yüklenir)
+  questionsLoading: boolean;
+  loadedCourseIds: string[];
+  ensureCourseQuestions: (courseId: string) => void;
+  // Kişisel işaretler
+  toggleRepeat: (questionId: string) => void;
+  setQuestionDifficulty: (questionId: string, d: 0 | 1 | 2 | null) => void;
+  /** Kişisel zorluk yoksa hazır zorluk */
+  effectiveDifficulty: (q: Question) => 0 | 1 | 2;
+  // Mutlaka Bil'den teste yönlendirme
+  testPreset: { part?: 'mb' | 'konu' } | null;
+  setTestPreset: (p: { part?: 'mb' | 'konu' } | null) => void;
+  // Eksiklerim (bilgi tabanlı)
+  eksiklerim: EksikCourse[];
+  playEksiklerimCourse: (courseId: string, subtopicId?: string) => void;
+  // Veri taşıma
+  exportProgress: () => ProgressExport;
+  importProgress: (data: unknown, mode: 'overwrite' | 'merge') => { ok: boolean; message: string };
+  // Ses ayarı
+  audioSource: AudioSource;
+  setAudioSource: (s: AudioSource) => void;
+
   // Helpers
   currentCourse: Course | null;
   currentSubtopic: Subtopic | null;
@@ -89,6 +142,7 @@ const mergeStats = (local: UserStats, remote: UserStats | null): UserStats => {
     weakSubtopicIds: union(local.weakSubtopicIds, remote.weakSubtopicIds).filter(
       id => !union(local.completedSubtopicIds, remote.completedSubtopicIds).includes(id)
     ),
+    marks: { ...(remote.marks || {}), ...(local.marks || {}) },
     lastStudiedTimestamp: Math.max(local.lastStudiedTimestamp || 0, remote.lastStudiedTimestamp || 0) || undefined
   };
 };
@@ -96,7 +150,68 @@ const mergeStats = (local: UserStats, remote: UserStats | null): UserStats => {
 const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
-  const [courses] = useState<Course[]>(COURSES_DATA);
+  const [courses, setCourses] = useState<Course[]>(COURSES_DATA);
+  const [loadedCourseIds, setLoadedCourseIds] = useState<string[]>([]);
+  const inFlight = useRef<Set<string>>(new Set());
+
+  const ensureCourseQuestions = (courseId: string) => {
+    if (inFlight.current.has(courseId)) return;
+    inFlight.current.add(courseId);
+    fetchCourseQuestions(courseId)
+      .then(bySub => {
+        setCourses(prev =>
+          prev.map(c =>
+            c.id !== courseId
+              ? c
+              : { ...c, subtopics: c.subtopics.map(s => ({ ...s, questions: bySub[s.id] || [] })) }
+          )
+        );
+        setLoadedCourseIds(prev => (prev.includes(courseId) ? prev : [...prev, courseId]));
+      })
+      .catch(() => {
+        inFlight.current.delete(courseId); // sonra yeniden denenebilsin
+      })
+      .finally(() => {});
+  };
+  const questionsLoading = loadedCourseIds.length < COURSES_DATA.length;
+
+  // Tüm dersleri arka planda sırayla yükle (ilk açılışı yavaşlatmasın diye gecikmeli)
+  useEffect(() => {
+    let cancelled = false;
+    const t = setTimeout(async () => {
+      for (const c of COURSES_DATA) {
+        if (cancelled) return;
+        ensureCourseQuestions(c.id);
+        await new Promise(r => setTimeout(r, 400));
+      }
+    }, 600);
+    return () => {
+      cancelled = true;
+      clearTimeout(t);
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  const [testPreset, setTestPreset] = useState<{ part?: 'mb' | 'konu' } | null>(null);
+
+  const [audioSource, setAudioSourceState] = useState<AudioSource>(() => {
+    try {
+      return localStorage.getItem('trp_audio_source') === 'device' ? 'device' : 'program';
+    } catch {
+      return 'program';
+    }
+  });
+  useEffect(() => {
+    speechService.setPreferDevice(audioSource === 'device');
+  }, [audioSource]);
+  const setAudioSource = (s: AudioSource) => {
+    setAudioSourceState(s);
+    try {
+      localStorage.setItem('trp_audio_source', s);
+    } catch {
+      /* yoksay */
+    }
+  };
   const [activeView, setActiveView] = useState<'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza' | 'deneme'>('home');
   const [mbSelection, setMbSelection] = useState<{ courseId: string; subtopicId: string } | null>(null);
   const [hkSelection, setHkSelection] = useState<string | null>(null);
@@ -523,6 +638,168 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
     }));
   };
 
+  // ───────── Kişisel işaretler ─────────
+  const toggleRepeat = (questionId: string) => {
+    setUserStats(prev => {
+      const marks = { ...(prev.marks || {}) };
+      const cur = marks[questionId] || {};
+      const next: QuestionMark = { ...cur };
+      if (next.r) delete next.r;
+      else next.r = 1;
+      if (next.r === undefined && next.d === undefined) delete marks[questionId];
+      else marks[questionId] = next;
+      return { ...prev, marks };
+    });
+  };
+
+  const setQuestionDifficulty = (questionId: string, d: 0 | 1 | 2 | null) => {
+    setUserStats(prev => {
+      const marks = { ...(prev.marks || {}) };
+      const next: QuestionMark = { ...(marks[questionId] || {}) };
+      if (d === null || next.d === d) delete next.d;
+      else next.d = d;
+      if (next.r === undefined && next.d === undefined) delete marks[questionId];
+      else marks[questionId] = next;
+      return { ...prev, marks };
+    });
+  };
+
+  const effectiveDifficulty = (q: Question): 0 | 1 | 2 => {
+    const m = userStats.marks?.[q.id];
+    if (m && m.d !== undefined) return m.d;
+    return q.diff ?? 1;
+  };
+
+  // ───────── Eksiklerim: çözülemeyen / "tekrar çöz" işaretli sorular için gereken bilgiler ─────────
+  const eksiklerim = useMemo<EksikCourse[]>(() => {
+    const marks = userStats.marks || {};
+    const wrong = new Set(userStats.wrongQuestionIds);
+    const out: EksikCourse[] = [];
+    for (const course of courses) {
+      const subs: EksikSubtopic[] = [];
+      for (const subtopic of course.subtopics) {
+        const qs = subtopic.questions.filter(q => wrong.has(q.id) || marks[q.id]?.r);
+        if (qs.length === 0) continue;
+        const sentById = new Map<number, { text: string; order: number; heading?: string }>();
+        let heading: string | undefined;
+        subtopic.sentences.forEach((s, i) => {
+          if (s.isHeading) heading = s.cleanText || s.text;
+          else sentById.set(s.id, { text: s.cleanText || s.text, order: i, heading });
+        });
+        const items = new Map<string, EksikItem>();
+        qs.forEach((q, qi) => {
+          const ks = (q.k || []).filter(id => sentById.has(id));
+          if (ks.length === 0) {
+            // konu anlatımında bağ kurulamadıysa açıklamayı bilgi olarak kullan
+            const key = 'q:' + q.id;
+            items.set(key, { key, text: q.explanation, order: 100000 + qi, questionIds: [q.id] });
+            return;
+          }
+          for (const id of ks) {
+            const key = 's:' + id;
+            const ex = items.get(key);
+            if (ex) ex.questionIds.push(q.id);
+            else {
+              const s = sentById.get(id)!;
+              items.set(key, { key, text: s.text, heading: s.heading, order: s.order, questionIds: [q.id] });
+            }
+          }
+        });
+        subs.push({
+          course,
+          subtopic,
+          items: Array.from(items.values()).sort((a, b) => a.order - b.order),
+          questionCount: qs.length
+        });
+      }
+      if (subs.length) {
+        out.push({
+          course,
+          subtopics: subs,
+          itemCount: subs.reduce((n, s) => n + s.items.length, 0),
+          questionCount: subs.reduce((n, s) => n + s.questionCount, 0)
+        });
+      }
+    }
+    return out;
+  }, [courses, userStats.wrongQuestionIds, userStats.marks]);
+
+  /** Bir dersin (veya tek alt başlığın) eksik bilgilerini sırayla sesli okur */
+  const playEksiklerimCourse = (courseId: string, subtopicId?: string) => {
+    const ec = eksiklerim.find(e => e.course.id === courseId);
+    if (!ec) return;
+    const subs = ec.subtopics.filter(s => !subtopicId || s.subtopic.id === subtopicId);
+    if (subs.length === 0) return;
+    const mk = (s: EksikSubtopic) => ({
+      sentences: s.items.map(i => i.text),
+      audioId: undefined as string | undefined,
+      meta: { title: 'Eksiklerim: ' + s.subtopic.title, subtopicTitle: s.subtopic.title, courseTitle: ec.course.title },
+      startIndex: 0
+    });
+    const first = subs[0];
+    setAudioQueue([]);
+    setAudioState(prev => ({
+      ...prev,
+      mode: 'eksiklerim',
+      currentCourseId: courseId,
+      currentSubtopicId: first.subtopic.id,
+      currentSentenceIndex: 0,
+      totalSentences: first.items.length,
+      isPlaying: true,
+      isPaused: false
+    }));
+    let pos = 0;
+    const nextProvider = () => {
+      if (pos >= subs.length - 1) return null;
+      pos++;
+      const s = subs[pos];
+      setAudioState(prev => ({
+        ...prev,
+        currentSubtopicId: s.subtopic.id,
+        currentSentenceIndex: 0,
+        totalSentences: s.items.length,
+        isPlaying: true,
+        isPaused: false
+      }));
+      return mk(s);
+    };
+    const m = mk(first);
+    speechService.play(m.sentences, 0, m.meta, undefined, subs.length > 1 ? nextProvider : undefined);
+  };
+
+  // ───────── Veri taşıma ─────────
+  const exportProgress = (): ProgressExport => ({
+    format: 'trp-akademi-ilerleme',
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    stats: userStats,
+    prefs: { audioSource }
+  });
+
+  const importProgress = (data: unknown, mode: 'overwrite' | 'merge') => {
+    const d = data as Partial<ProgressExport> | null;
+    if (!d || d.format !== 'trp-akademi-ilerleme' || !d.stats || typeof d.stats !== 'object' || !d.stats.solvedQuestions) {
+      return { ok: false, message: 'Bu dosya TRP Akademi ilerleme dosyası değil.' };
+    }
+    const inc: UserStats = {
+      ...initialStats,
+      ...d.stats,
+      solvedQuestions: d.stats.solvedQuestions || {},
+      correctQuestionIds: d.stats.correctQuestionIds || [],
+      wrongQuestionIds: d.stats.wrongQuestionIds || [],
+      completedSubtopicIds: d.stats.completedSubtopicIds || [],
+      weakSubtopicIds: d.stats.weakSubtopicIds || [],
+      marks: d.stats.marks || {}
+    };
+    if (mode === 'overwrite') {
+      setUserStats(inc);
+      return { ok: true, message: 'Bu cihazdaki ilerleme, dosyadaki veriyle değiştirildi.' };
+    }
+    // birleştir: dosyadaki veri "yerel" öncelikli sayılır değil; en yeni çözüm kazanır → basit kural: bu cihaz öncelikli, eksikler dosyadan tamamlanır
+    setUserStats(local => mergeStats(local, inc));
+    return { ok: true, message: 'İki cihazdaki ilerleme birleştirildi.' };
+  };
+
   // Calculate course stats matching report format
   const getCourseStats = (courseId: string) => {
     const course = courses.find(c => c.id === courseId);
@@ -558,9 +835,10 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
   const getOverallStats = () => {
     let totalOfficial = 0;
     courses.forEach(c => totalOfficial += c.totalOfficialQuestions);
-    const solvedCount = Object.keys(userStats.solvedQuestions).length;
-    const correctCount = userStats.correctQuestionIds.length;
-    const wrongCount = userStats.wrongQuestionIds.length;
+    const isNew = (id: string) => id.startsWith('TRPA-'); // eski havuzdan kalan kayıtlar sayılmaz
+    const solvedCount = Object.keys(userStats.solvedQuestions).filter(isNew).length;
+    const correctCount = userStats.correctQuestionIds.filter(isNew).length;
+    const wrongCount = userStats.wrongQuestionIds.filter(isNew).length;
     const successRate = solvedCount > 0 ? Math.round((correctCount / solvedCount) * 100) : 0;
     const coverageRate = totalOfficial > 0 ? Math.round((solvedCount / totalOfficial) * 100) : 0;
 
@@ -643,7 +921,21 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
         currentSubtopic,
         allWrongQuestions,
         weakSubtopics,
-        enableBackgroundAudio
+        enableBackgroundAudio,
+        questionsLoading,
+        loadedCourseIds,
+        ensureCourseQuestions,
+        toggleRepeat,
+        setQuestionDifficulty,
+        effectiveDifficulty,
+        testPreset,
+        setTestPreset,
+        eksiklerim,
+        playEksiklerimCourse,
+        exportProgress,
+        importProgress,
+        audioSource,
+        setAudioSource
       }}
     >
       {children}

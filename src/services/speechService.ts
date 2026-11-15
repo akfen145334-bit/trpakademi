@@ -72,6 +72,18 @@ class SpeechService {
   private nextProvider: (() => PlayItem | null) | null = null;
   private meta: PlayMeta | null = null;
 
+  // ses kaynağı tercihi: true = telefonun/tarayıcının kendi sesli okuyucusu
+  private preferDevice = false;
+  public setPreferDevice(v: boolean) {
+    this.preferDevice = v;
+  }
+  public hasTts(): boolean {
+    return !!this.synth && (this.synth.getVoices().length > 0);
+  }
+  public hasTurkishTts(): boolean {
+    return !!this.turkishVoice;
+  }
+
   // tarayıcı sesi
   private runToken = 0;
   private watchdog: ReturnType<typeof setTimeout> | null = null;
@@ -234,7 +246,7 @@ class SpeechService {
     this.meta = item.meta || null;
     if (item.meta) this.setMediaSession(item.meta.title, item.meta.subtopicTitle, item.meta.courseTitle);
 
-    if (this.hasRecordedAudio(item.audioId, item.sentences)) {
+    if (!this.preferDevice && this.hasRecordedAudio(item.audioId, item.sentences)) {
       this.startRecorded(item.audioId!);
     } else {
       this.audioMode = false;

@@ -20,6 +20,25 @@ export interface Question {
   correctIndex: number; // 0 for A, 1 for B, 2 for C, 3 for D, 4 for E
   explanation: string;
   difficulty?: 'temel' | 'orta' | 'ileri';
+  /** Hazır zorluk: 0 kolay, 1 orta, 2 zor */
+  diff?: 0 | 1 | 2;
+  /** 'mb' = Mutlaka Bil maddelerinden türetilen soru */
+  part?: 'mb' | 'konu';
+  /** Bu soruyu çözmek için gereken konu anlatımı cümle kimlikleri (Eksiklerim) */
+  k?: number[];
+  /** Soru dijital kimliği (TRPA-...) */
+  kid?: string;
+  /** İmza kısaltması (kopya takibi) */
+  sig?: string;
+  verified?: boolean;
+}
+
+/** Kişiye özel soru işaretleri */
+export interface QuestionMark {
+  /** 1 = Tekrar çöz (Eksiklerim'e eklenir) */
+  r?: 1;
+  /** Kişisel zorluk: 0 kolay, 1 orta, 2 zor */
+  d?: 0 | 1 | 2;
 }
 
 export interface Subtopic {
@@ -66,4 +85,6 @@ export interface UserStats {
   weakSubtopicIds: string[]; // marked as weak or automatically added on mistakes
   lastStudiedSubtopicId?: string;
   lastStudiedTimestamp?: number;
+  /** Soru bazlı kişisel işaretler (tekrar çöz / kişisel zorluk) */
+  marks?: Record<string, QuestionMark>;
 }
