@@ -110,7 +110,7 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           
           {/* Main Play / Pause Button */}
-          <div className={`items-center gap-3 ${isCurrentPlayingThis || isCurrentPausedThis ? 'hidden md:flex' : 'flex'}`}>
+          <div className={`items-center gap-3 ${isCurrentPlayingThis || isCurrentPausedThis ? 'hidden' : 'flex'}`}>
             <button
               onClick={handlePlayToggle}
               className={`flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold transition shadow-sm cursor-pointer ${
@@ -158,7 +158,7 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
           {/* Right Tools: Speed, Mark Weak, Go to Test */}
           <div className="flex flex-wrap items-center gap-2">
             {/* Speed Selector */}
-            <div className="hidden md:flex items-center gap-1 bg-slate-100 p-1 rounded-lg border border-slate-200 text-xs font-semibold">
+            <div className={`${isCurrentPlayingThis || isCurrentPausedThis ? 'hidden' : 'hidden md:flex'} items-center gap-1 bg-slate-100 p-1 rounded-lg border border-slate-200 text-xs font-semibold`}>
               <Gauge className="w-3.5 h-3.5 text-slate-500 ml-1" />
               {speedOptions.map(spd => (
                 <button
@@ -214,17 +214,13 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
         </div>
 
         {/* Live Reader Hint */}
-        <div className="mt-2 text-[11px] text-slate-500 hidden md:flex items-center justify-between">
-          <span>
-            💡 İpucu: Metindeki <strong>herhangi bir cümleye tıklayarak</strong> seslendirmeyi doğrudan oradan başlatabilirsiniz.
-          </span>
-          {isCurrentPlayingThis && (
-            <span className="text-amber-800 font-semibold flex items-center gap-1">
-              <span className="w-2 h-2 rounded-full bg-amber-500 animate-ping" />
-              Sarı fosforlu cümle canlı okunuyor
+        {!(isCurrentPlayingThis || isCurrentPausedThis) && (
+          <div className="mt-2 text-[11px] text-slate-500 hidden md:flex items-center justify-between">
+            <span>
+              💡 İpucu: Metindeki <strong>herhangi bir cümleye tıklayarak</strong> seslendirmeyi doğrudan oradan başlatabilirsiniz.
             </span>
-          )}
-        </div>
+          </div>
+        )}
       </div>
 
       {/* Synchronized Reading Content Container */}
