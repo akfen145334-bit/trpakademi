@@ -1,4 +1,5 @@
-import React, { useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
+import { createPortal } from 'react-dom';
 import { Settings, X, Download, Upload, Mail } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import { DRIVE_AUDIO_URL } from '../config/links';
@@ -9,6 +10,13 @@ export const SettingsButton: React.FC = () => {
   const [mode, setMode] = useState<'merge' | 'overwrite'>('merge');
   const [msg, setMsg] = useState('');
   const fileRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    if (!open) return;
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && setOpen(false);
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [open]);
 
   const testTts = () => {
     try {
@@ -71,7 +79,7 @@ export const SettingsButton: React.FC = () => {
         <span className="hidden xl:inline">Ayarlar</span>
       </button>
 
-      {open && (
+      {open && createPortal(
         <div className="fixed inset-0 z-[100] bg-black/50 flex items-center justify-center p-4" onClick={() => setOpen(false)}>
           <div className="bg-white rounded-2xl max-w-lg w-full max-h-[90vh] overflow-y-auto p-6 space-y-6" onClick={e => e.stopPropagation()}>
             <div className="flex items-center justify-between">
@@ -136,8 +144,13 @@ export const SettingsButton: React.FC = () => {
             </section>
 
             {msg && <p className="text-xs font-semibold text-emerald-700">{msg}</p>}
+
+            <button onClick={() => setOpen(false)} className="w-full py-2.5 rounded-xl text-sm font-bold bg-slate-900 hover:bg-slate-800 text-white cursor-pointer">
+              Çıkış (Kapat)
+            </button>
           </div>
-        </div>
+        </div>,
+        document.body
       )}
     </>
   );
