@@ -10,6 +10,8 @@
  * Kuyruk (dersin tümü / eksiklerim) ses öğesi bitince servis içinde sürer; arka planda React'e bağlı değildir.
  */
 
+import { getAudioSrc, hasAudio } from './packService';
+
 export interface SpeechListener {
   onSentenceChange: (index: number) => void;
   onStateChange: (isPlaying: boolean, isPaused: boolean) => void;
@@ -67,6 +69,7 @@ class SpeechService {
   private audio: HTMLAudioElement | null = null;
   private audioIndex: Record<string, AudioIndexEntry> | null = null;
   private audioMode = false;
+  private srcToken = 0;
   private cues: number[] = [];
   private ticker: ReturnType<typeof setInterval> | null = null;
   private nextProvider: (() => PlayItem | null) | null = null;
@@ -140,7 +143,7 @@ class SpeechService {
   public hasRecordedAudio(audioId: string | undefined, sentences: string[]): boolean {
     if (!audioId || !this.audioIndex) return false;
     const e = this.audioIndex[audioId];
-    return !!e && e.n === sentences.length && e.h === textHash(sentences.join('\n'));
+    return !!e && e.n === sentences.length && e.h === textHash(sentences.join('\n')) && hasAudio(audioId);
   }
 
   public subscribe(listener: SpeechListener) {
@@ -282,19 +285,28 @@ class SpeechService {
     }
     const a = this.audio;
     const startAt = this.cues[this.currentIndex] || 0;
-    a.src = `${baseUrl()}audio/${audioId}.mp3`;
-    a.playbackRate = this.speed;
-    const seek = () => {
-      try {
-        a.currentTime = startAt;
-      } catch {
-        /* yoksay */
-      }
-    };
-    if (startAt > 0) a.addEventListener('loadedmetadata', seek, { once: true });
+    const token = ++this.srcToken;
     this.notifyState();
     this.notifySentence();
-    a.play().catch(() => this.onRecordedError());
+    // ses kaynağı: indirilmiş şifreli paketten çözülür; yoksa (geçiş döneminde) sitedeki dosya
+    getAudioSrc(audioId).then((src) => {
+      if (token !== this.srcToken || !this.audioMode) return;
+      if (!src) {
+        this.onRecordedError();
+        return;
+      }
+      a.src = src;
+      a.playbackRate = this.speed;
+      const seek = () => {
+        try {
+          a.currentTime = startAt;
+        } catch {
+          /* yoksay */
+        }
+      };
+      if (startAt > 0) a.addEventListener('loadedmetadata', seek, { once: true });
+      a.play().catch(() => this.onRecordedError());
+    });
     this.startTicker();
   }
 
@@ -518,6 +530,7 @@ class SpeechService {
 
   private stopInternal(notify: boolean) {
     this.runToken++;
+    this.srcToken++;
     this.clearWatchdog();
     this.stopTicker();
     this.isPlaying = false;

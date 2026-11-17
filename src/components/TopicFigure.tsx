@@ -1,17 +1,22 @@
 import React, { useState } from 'react';
-import { Image as ImageIcon } from 'lucide-react';
-import { TopicImage, imageUrl, useImageMode } from '../services/imageService';
+import { Image as ImageIcon, Download } from 'lucide-react';
+import { TopicImage, useImageMode } from '../services/imageService';
+import { useImageSrc, hasLocalMedia } from '../services/packService';
+import { LEGACY_PUBLIC_MEDIA } from '../config/links';
 
 export const TopicFigure: React.FC<{ img: TopicImage }> = ({ img }) => {
   const mode = useImageMode();
   const [shown, setShown] = useState(false);
+  // yerel pakette varsa veri harcanmaz: doğrudan göster
+  const local = hasLocalMedia(`i/${img.f}`);
+  const wantShow = mode === 'auto' || shown || local;
+  const { src } = useImageSrc(img.f, wantShow);
   if (mode === 'off') return null;
-  const show = mode === 'auto' || shown;
   return (
     <figure className="my-4 mx-auto max-w-2xl">
-      {show ? (
+      {wantShow && src ? (
         <img
-          src={imageUrl(img.f)}
+          src={src}
           alt={`${img.c} (temsili resim)`}
           loading="lazy"
           decoding="async"
@@ -19,6 +24,10 @@ export const TopicFigure: React.FC<{ img: TopicImage }> = ({ img }) => {
           onContextMenu={e => e.preventDefault()}
           className="w-full rounded-xl border border-slate-200 shadow-xs"
         />
+      ) : !LEGACY_PUBLIC_MEDIA && !local ? (
+        <div className="w-full flex items-center justify-center gap-2 py-6 rounded-xl border-2 border-dashed border-amber-300 bg-amber-50 text-amber-900 text-xs font-bold text-center px-3">
+          <Download className="w-5 h-5 shrink-0" /> {img.c} — resim paketi indirilmemiş (Ayarlar → Ders paketleri)
+        </div>
       ) : (
         <button
           onClick={() => setShown(true)}

@@ -3,6 +3,7 @@ import { createPortal } from 'react-dom';
 import { Settings, X, Download, Upload, Mail } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import { DRIVE_AUDIO_URL } from '../config/links';
+import { PackManager } from './PackManager';
 import { useImageMode, setImageMode } from '../services/imageService';
 import { getFontPercent, applyFontPercent, FONT_MIN, FONT_MAX, FONT_STEP } from '../services/fontScale';
 
@@ -134,15 +135,14 @@ export const SettingsButton: React.FC = () => {
               </label>
               <button onClick={testTts} className="px-3 py-1.5 rounded-lg text-xs font-bold bg-slate-100 hover:bg-slate-200 text-slate-700 cursor-pointer">Sistem sesini dene</button>
               <p className="text-xs text-slate-600 bg-amber-50 border border-amber-200 rounded-lg p-3 leading-relaxed">
-                Ses alamıyorsan: telefonunda Türkçe sesli okuyucu (TTS) var mı? Yoksa programın ses dosyalarını indirmek için{' '}
+                Kayıtlı sesi ve resimleri bir kereye mahsus indirmek için aşağıdaki <b>Ders paketleri</b> bölümünü kullan.
                 {DRIVE_AUDIO_URL ? (
-                  <a href={DRIVE_AUDIO_URL} target="_blank" rel="noopener noreferrer" className="font-bold text-amber-800 underline">buraya tıkla (Drive)</a>
-                ) : (
-                  <b>(Drive bağlantısı yakında eklenecek)</b>
-                )}
-                . Ses dosyaları bir kereye mahsus indirilir.
+                  <> Yardım: <a href={DRIVE_AUDIO_URL} target="_blank" rel="noopener noreferrer" className="font-bold text-amber-800 underline">Drive</a></>
+                ) : null}
               </p>
             </section>
+
+            <PackManager />
 
             <section className="space-y-3">
               <h3 className="font-bold text-slate-800">Arka planda dinleme</h3>
