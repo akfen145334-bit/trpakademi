@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import { AppProvider, useApp } from './context/AppContext';
 import { AuthProvider } from './context/AuthContext';
 import { Navbar } from './components/Navbar';
+import { PlanView } from './components/PlanView';
+import { ReminderRunner } from './components/ReminderRunner';
 import { AudioPlayerBar } from './components/AudioPlayerBar';
 import { LessonCard } from './components/LessonCard';
 import { LectureViewer } from './components/LectureViewer';
@@ -437,6 +439,9 @@ const MainApp: React.FC = () => {
         {activeView === 'deneme' && (
           <DenemeView />
         )}
+
+        {activeView === 'plan' && <PlanView />}
+        <ReminderRunner />
 
       </main>
 

@@ -13,6 +13,7 @@ import {
   Zap,
   Brain,
   ClipboardList,
+  CalendarDays,
   CheckCircle2
 } from 'lucide-react';
 
@@ -124,6 +125,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
     goToMutlakaBil,
     goToHafiza,
     goToDeneme,
+    goToPlan,
     eksiklerim,
     audioState,
     getOverallStats
@@ -209,6 +211,18 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBackgroundModal, onOpenRep
             >
               <ClipboardList className="w-4 h-4 text-indigo-600" />
               <span className="hidden xl:inline">Deneme</span>
+            </button>
+            <button
+              onClick={goToPlan}
+              title="Çalışma planım"
+              className={`flex items-center gap-2 px-2.5 sm:px-3 py-2 rounded-lg text-sm font-semibold transition cursor-pointer ${
+                activeView === 'plan'
+                  ? 'bg-sky-100 text-sky-900 border border-sky-300 shadow-xs'
+                  : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+              }`}
+            >
+              <CalendarDays className="w-4 h-4 text-sky-600" />
+              <span className="hidden xl:inline">Planım</span>
             </button>
             <button
               onClick={goToEksiklerim}

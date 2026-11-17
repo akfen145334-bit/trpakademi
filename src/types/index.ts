@@ -77,7 +77,23 @@ export interface AudioPlaybackState {
   queueIndex?: number;
 }
 
+/** Kişiye özel otomatik çalışma planı (hesaba/ilerleme verisine dahildir) */
+export interface StudyPlan {
+  start: string; // yyyy-mm-dd
+  end: string; // yyyy-mm-dd (bitiş / sınav tarihi)
+  createdAt: number;
+  days: { date: string; subtopicIds: string[] }[];
+}
+
+/** Çalışma hatırlatıcısı tercihleri: boş bırakılan vakit kapalıdır */
+export interface ReminderPrefs {
+  enabled: boolean;
+  times: { morning?: string; noon?: string; evening?: string }; // HH:MM
+}
+
 export interface UserStats {
+  plan?: StudyPlan;
+  reminders?: ReminderPrefs;
   solvedQuestions: Record<string, number>; // questionId -> selectedIndex
   correctQuestionIds: string[];
   wrongQuestionIds: string[];

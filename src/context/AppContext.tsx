@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useEffect, useRef, useState, useMemo, ReactNode } from 'react';
 import { useAuth } from './AuthContext';
 import { supabase } from '../services/supabase';
-import { Course, Subtopic, Question, UserStats, AudioPlaybackState, QuestionMark } from '../types';
+import { Course, Subtopic, Question, UserStats, AudioPlaybackState, QuestionMark, StudyPlan, ReminderPrefs } from '../types';
 import { COURSES_DATA } from '../data/coursesData';
 import { speechService } from '../services/speechService';
 import { MUTLAKA_BIL } from '../data/mutlakaBil';
@@ -39,7 +39,13 @@ export interface ProgressExport {
 
 interface AppContextType {
   courses: Course[];
-  activeView: 'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza' | 'deneme';
+  activeView: 'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza' | 'deneme' | 'plan';
+  goToPlan: () => void;
+  savePlan: (plan: StudyPlan | null) => void;
+  setReminders: (r: ReminderPrefs) => void;
+  /** Arka planda seslendirme tercihi (bir kez seçilince her açılışta geçerli) */
+  keepBackgroundAudio: boolean;
+  setKeepBackgroundAudio: (v: boolean) => void;
   mbSelection: { courseId: string; subtopicId: string } | null;
   hkSelection: string | null;
   selectedCourseId: string | null;
@@ -212,7 +218,39 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
       /* yoksay */
     }
   };
-  const [activeView, setActiveView] = useState<'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza' | 'deneme'>('home');
+  const [activeView, setActiveView] = useState<'home' | 'course' | 'subtopic' | 'eksiklerim' | 'mutlakabil' | 'hafiza' | 'deneme' | 'plan'>('home');
+  const goToPlan = () => {
+    setActiveView('plan');
+    if (typeof window !== 'undefined') window.scrollTo({ top: 0 });
+  };
+  const savePlan = (plan: StudyPlan | null) => {
+    setUserStats(prev => {
+      const next = { ...prev };
+      if (plan) next.plan = plan;
+      else delete next.plan;
+      return next;
+    });
+  };
+  const setReminders = (r: ReminderPrefs) => setUserStats(prev => ({ ...prev, reminders: r }));
+
+  const [keepBackgroundAudio, setKeepBgState] = useState<boolean>(() => {
+    try {
+      return localStorage.getItem('trp_bg_audio') === '1';
+    } catch {
+      return false;
+    }
+  });
+  useEffect(() => {
+    speechService.setKeepBackground(keepBackgroundAudio);
+  }, [keepBackgroundAudio]);
+  const setKeepBackgroundAudio = (v: boolean) => {
+    setKeepBgState(v);
+    try {
+      localStorage.setItem('trp_bg_audio', v ? '1' : '0');
+    } catch {
+      /* yoksay */
+    }
+  };
   const [mbSelection, setMbSelection] = useState<{ courseId: string; subtopicId: string } | null>(null);
   const [hkSelection, setHkSelection] = useState<string | null>(null);
   const [selectedCourseId, setSelectedCourseId] = useState<string | null>(null);
@@ -935,7 +973,12 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
         exportProgress,
         importProgress,
         audioSource,
-        setAudioSource
+        setAudioSource,
+        goToPlan,
+        savePlan,
+        setReminders,
+        keepBackgroundAudio,
+        setKeepBackgroundAudio
       }}
     >
       {children}

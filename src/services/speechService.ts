@@ -74,6 +74,11 @@ class SpeechService {
 
   // ses kaynağı tercihi: true = telefonun/tarayıcının kendi sesli okuyucusu
   private preferDevice = false;
+  /** Kullanıcı "arka planda dinle"yi seçtiyse her oynatmada sessiz ses köprüsü açılır */
+  private keepBackground = false;
+  public setKeepBackground(v: boolean) {
+    this.keepBackground = v;
+  }
   public setPreferDevice(v: boolean) {
     this.preferDevice = v;
   }
@@ -246,6 +251,7 @@ class SpeechService {
     this.meta = item.meta || null;
     if (item.meta) this.setMediaSession(item.meta.title, item.meta.subtopicTitle, item.meta.courseTitle);
 
+    if (this.keepBackground) this.enableBackgroundAudio();
     if (!this.preferDevice && this.hasRecordedAudio(item.audioId, item.sentences)) {
       this.startRecorded(item.audioId!);
     } else {

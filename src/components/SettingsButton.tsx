@@ -6,7 +6,7 @@ import { DRIVE_AUDIO_URL } from '../config/links';
 import { getFontPercent, applyFontPercent, FONT_MIN, FONT_MAX, FONT_STEP } from '../services/fontScale';
 
 export const SettingsButton: React.FC = () => {
-  const { audioSource, setAudioSource, exportProgress, importProgress } = useApp();
+  const { audioSource, setAudioSource, exportProgress, importProgress, keepBackgroundAudio, setKeepBackgroundAudio, enableBackgroundAudio } = useApp();
   const [open, setOpen] = useState(false);
   const [mode, setMode] = useState<'merge' | 'overwrite'>('merge');
   const [msg, setMsg] = useState('');
@@ -126,6 +126,44 @@ export const SettingsButton: React.FC = () => {
                 )}
                 . Ses dosyaları bir kereye mahsus indirilir.
               </p>
+            </section>
+
+            <section className="space-y-3">
+              <h3 className="font-bold text-slate-800">Arka planda dinleme</h3>
+              <label className="flex items-start gap-2 text-sm cursor-pointer">
+                <input
+                  type="checkbox"
+                  checked={keepBackgroundAudio}
+                  onChange={e => {
+                    setKeepBackgroundAudio(e.target.checked);
+                    if (e.target.checked) enableBackgroundAudio();
+                  }}
+                  className="mt-1 w-4 h-4 accent-amber-600"
+                />
+                <span>
+                  <b>Ekran kapanınca / başka uygulamaya geçince de okumaya devam et.</b> Bir kez seçersen her açılışta bu ayar geçerli kalır.
+                </span>
+              </label>
+              {keepBackgroundAudio && (
+                <div className="text-xs text-slate-700 bg-sky-50 border border-sky-200 rounded-lg p-3 leading-relaxed space-y-2">
+                  <p className="font-bold">Android’de sesin kesilmemesi için (bir kere yap):</p>
+                  <ol className="list-decimal pl-5 space-y-1">
+                    <li>Tarayıcının sağ üst ⋮ menüsünden <b>“Ana ekrana ekle / Uygulamayı yükle”</b> ile uygulamayı yükle ve oradan aç.</li>
+                    <li>
+                      Telefon <b>Ayarlar → Uygulamalar → Chrome (veya TRP Akademi) → Pil</b> bölümünde <b>“Kısıtlama yok / Sınırsız”</b> seç.
+                      <a
+                        href="intent://#Intent;action=android.settings.IGNORE_BATTERY_OPTIMIZATION_SETTINGS;end"
+                        className="ml-2 inline-block px-2 py-0.5 rounded bg-sky-700 text-white font-bold"
+                      >
+                        Pil ayarını açmayı dene
+                      </a>
+                    </li>
+                    <li><b>Ayarlar → Uygulamalar → Chrome → Bildirimler</b> açık olsun (kilit ekranı oynatma kontrolü için).</li>
+                    <li>Okuma başladıktan sonra ekranı kilitle; bildirim çubuğunda oynatma kontrolü görünmeli.</li>
+                  </ol>
+                  <p className="text-slate-500">Bazı telefon markalarında (Xiaomi, Huawei, Samsung) “otomatik başlatma / uyku modu” ayrıca kapatılmalıdır.</p>
+                </div>
+              )}
             </section>
 
             <section className="space-y-3">
