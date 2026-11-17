@@ -12,6 +12,11 @@ self.addEventListener('fetch', (e) => {
   if (req.method !== 'GET' || u.origin !== location.origin) return;
   // Ses dosyaları (Range istekleri) ve ses dizini ağdan doğrudan alınır; önbelleğe alınmaz
   if (u.pathname.includes('/audio/')) return;
+  // Görsel dizini her zaman ağdan (yeni görseller görünsün); ağ yoksa önbellek
+  if (u.pathname.endsWith('/data/img/index.json')) {
+    e.respondWith(fetch(req).then((res) => { const cp = res.clone(); caches.open(CACHE).then((c) => c.put(req, cp)); return res; }).catch(() => caches.match(req)));
+    return;
+  }
   const isPage = req.mode === 'navigate';
   e.respondWith(
     (isPage

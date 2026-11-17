@@ -1,6 +1,8 @@
 import React, { useEffect, useRef } from 'react';
 import { Subtopic, Course, Sentence } from '../types';
 import { useApp } from '../context/AppContext';
+import { TopicFigure } from './TopicFigure';
+import { useSubtopicImages } from '../services/imageService';
 import { 
   Play, 
   Pause, 
@@ -73,6 +75,7 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
     ? audioState.currentSentenceIndex 
     : -1;
 
+  const images = useSubtopicImages(subtopic.id);
   const blocks = React.useMemo(() => buildBlocks(subtopic.sentences), [subtopic.sentences]);
 
   const isWeak = userStats.weakSubtopicIds.includes(subtopic.id);
@@ -101,6 +104,98 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
   };
 
   const speedOptions = [0.75, 1.0, 1.25, 1.5, 2.0];
+
+  const renderBlk = (blk: Block, bi: number) => {
+            const sp = (s: Sentence, idx: number, extra = '') => {
+              const hl = idx === activeSentenceIndex;
+              return (
+                <span
+                  key={s.id}
+                  ref={hl ? activeSentenceRef : null}
+                  onClick={() => jumpToSentence(idx)}
+                  title="Bu cümleden itibaren dinle"
+                  className={`cursor-pointer transition-colors duration-150 rounded px-0.5 ${extra} ${
+                    hl ? 'bg-amber-200 text-slate-950 ring-2 ring-amber-300' : 'hover:bg-amber-50'
+                  }`}
+                >
+                  {renderInline(s.text)}{' '}
+                </span>
+              );
+            };
+            if (blk.type === 'h') {
+              const s = blk.items[0];
+              const hl = blk.idx[0] === activeSentenceIndex;
+              return s.kind === 'h2' ? (
+                <h2 key={bi} ref={hl ? activeSentenceRef : null} onClick={() => jumpToSentence(blk.idx[0])}
+                  className={`mt-10 mb-2 pb-2 border-b-2 border-amber-300 text-2xl sm:text-3xl font-black tracking-tight text-slate-950 cursor-pointer ${hl ? 'bg-amber-200 px-2 rounded' : ''}`}>
+                  {s.text}
+                </h2>
+              ) : (
+                <h3 key={bi} ref={hl ? activeSentenceRef : null} onClick={() => jumpToSentence(blk.idx[0])}
+                  className={`mt-8 mb-1 text-xl sm:text-2xl font-extrabold text-amber-800 cursor-pointer ${hl ? 'bg-amber-200 px-2 rounded' : ''}`}>
+                  {s.text}
+                </h3>
+              );
+            }
+            if (blk.type === 'p') {
+              return (
+                <p key={bi} className="text-justify hyphens-auto">
+                  {blk.items.map((s, k) => sp(s, blk.idx[k]))}
+                </p>
+              );
+            }
+            if (blk.type === 'ul') {
+              return (
+                <ul key={bi} className="space-y-2.5 pl-1">
+                  {blk.items.map((s, k) => (
+                    <li key={s.id} className="flex gap-3">
+                      <span className="mt-2.5 w-2 h-2 rounded-full bg-amber-500 shrink-0" />
+                      <span>{sp(s, blk.idx[k])}</span>
+                    </li>
+                  ))}
+                </ul>
+              );
+            }
+            if (blk.type === 'ol') {
+              return (
+                <ol key={bi} className="space-y-2.5">
+                  {blk.items.map((s, k) => (
+                    <li key={s.id} className="flex gap-3">
+                      <span className="font-black text-amber-700 shrink-0 w-6 text-right">{s.n}.</span>
+                      <span>{sp(s, blk.idx[k])}</span>
+                    </li>
+                  ))}
+                </ol>
+              );
+            }
+            if (blk.type === 'table') {
+              return (
+                <div key={bi} className="overflow-x-auto rounded-xl border border-slate-200">
+                  <table className="w-full text-sm sm:text-base border-collapse">
+                    <tbody>
+                      {blk.items.map((s, k) => (
+                        <tr key={s.id} onClick={() => jumpToSentence(blk.idx[k])}
+                          ref={blk.idx[k] === activeSentenceIndex ? activeSentenceRef : null}
+                          className={`cursor-pointer ${s.th ? 'bg-slate-100 font-bold' : blk.idx[k] === activeSentenceIndex ? 'bg-amber-100' : 'odd:bg-white even:bg-slate-50/60 hover:bg-amber-50/60'}`}>
+                          {(s.cells || []).map((cell, ci) => (
+                            <td key={ci} className="border border-slate-200 px-3 py-2 align-top">{renderInline(cell)}</td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              );
+            }
+            // definition callout
+            const s = blk.items[0];
+            return (
+              <div key={bi} className="rounded-xl border-l-4 border-amber-500 bg-amber-50 px-4 py-3 text-base">
+                <span className="text-xs font-black uppercase tracking-wide text-amber-800 mr-2">📌 Kavram</span>
+                {sp(s, blk.idx[0])}
+              </div>
+            );
+  };
 
   return (
     <div className="space-y-6 pb-24 md:pb-6">
@@ -227,94 +322,12 @@ export const LectureViewer: React.FC<LectureViewerProps> = ({ course, subtopic, 
       <article className="bg-white rounded-2xl border border-slate-200 p-6 sm:p-10 shadow-xs text-slate-800 text-base sm:text-lg leading-8 select-text">
         <div className="max-w-none space-y-5">
           {blocks.map((blk, bi) => {
-            const sp = (s: Sentence, idx: number, extra = '') => {
-              const hl = idx === activeSentenceIndex;
-              return (
-                <span
-                  key={s.id}
-                  ref={hl ? activeSentenceRef : null}
-                  onClick={() => jumpToSentence(idx)}
-                  title="Bu cümleden itibaren dinle"
-                  className={`cursor-pointer transition-colors duration-150 rounded px-0.5 ${extra} ${
-                    hl ? 'bg-amber-200 text-slate-950 ring-2 ring-amber-300' : 'hover:bg-amber-50'
-                  }`}
-                >
-                  {renderInline(s.text)}{' '}
-                </span>
-              );
-            };
-            if (blk.type === 'h') {
-              const s = blk.items[0];
-              const hl = blk.idx[0] === activeSentenceIndex;
-              return s.kind === 'h2' ? (
-                <h2 key={bi} ref={hl ? activeSentenceRef : null} onClick={() => jumpToSentence(blk.idx[0])}
-                  className={`mt-10 mb-2 pb-2 border-b-2 border-amber-300 text-2xl sm:text-3xl font-black tracking-tight text-slate-950 cursor-pointer ${hl ? 'bg-amber-200 px-2 rounded' : ''}`}>
-                  {s.text}
-                </h2>
-              ) : (
-                <h3 key={bi} ref={hl ? activeSentenceRef : null} onClick={() => jumpToSentence(blk.idx[0])}
-                  className={`mt-8 mb-1 text-xl sm:text-2xl font-extrabold text-amber-800 cursor-pointer ${hl ? 'bg-amber-200 px-2 rounded' : ''}`}>
-                  {s.text}
-                </h3>
-              );
-            }
-            if (blk.type === 'p') {
-              return (
-                <p key={bi} className="text-justify hyphens-auto">
-                  {blk.items.map((s, k) => sp(s, blk.idx[k]))}
-                </p>
-              );
-            }
-            if (blk.type === 'ul') {
-              return (
-                <ul key={bi} className="space-y-2.5 pl-1">
-                  {blk.items.map((s, k) => (
-                    <li key={s.id} className="flex gap-3">
-                      <span className="mt-2.5 w-2 h-2 rounded-full bg-amber-500 shrink-0" />
-                      <span>{sp(s, blk.idx[k])}</span>
-                    </li>
-                  ))}
-                </ul>
-              );
-            }
-            if (blk.type === 'ol') {
-              return (
-                <ol key={bi} className="space-y-2.5">
-                  {blk.items.map((s, k) => (
-                    <li key={s.id} className="flex gap-3">
-                      <span className="font-black text-amber-700 shrink-0 w-6 text-right">{s.n}.</span>
-                      <span>{sp(s, blk.idx[k])}</span>
-                    </li>
-                  ))}
-                </ol>
-              );
-            }
-            if (blk.type === 'table') {
-              return (
-                <div key={bi} className="overflow-x-auto rounded-xl border border-slate-200">
-                  <table className="w-full text-sm sm:text-base border-collapse">
-                    <tbody>
-                      {blk.items.map((s, k) => (
-                        <tr key={s.id} onClick={() => jumpToSentence(blk.idx[k])}
-                          ref={blk.idx[k] === activeSentenceIndex ? activeSentenceRef : null}
-                          className={`cursor-pointer ${s.th ? 'bg-slate-100 font-bold' : blk.idx[k] === activeSentenceIndex ? 'bg-amber-100' : 'odd:bg-white even:bg-slate-50/60 hover:bg-amber-50/60'}`}>
-                          {(s.cells || []).map((cell, ci) => (
-                            <td key={ci} className="border border-slate-200 px-3 py-2 align-top">{renderInline(cell)}</td>
-                          ))}
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-                </div>
-              );
-            }
-            // definition callout
-            const s = blk.items[0];
+            const figs = images.filter(im => blk.items.some(s => s.id === im.s));
             return (
-              <div key={bi} className="rounded-xl border-l-4 border-amber-500 bg-amber-50 px-4 py-3 text-base">
-                <span className="text-xs font-black uppercase tracking-wide text-amber-800 mr-2">📌 Kavram</span>
-                {sp(s, blk.idx[0])}
-              </div>
+              <React.Fragment key={bi}>
+                {renderBlk(blk, bi)}
+                {figs.map(im => <TopicFigure key={im.f} img={im} />)}
+              </React.Fragment>
             );
           })}
         </div>

@@ -3,6 +3,7 @@ import { createPortal } from 'react-dom';
 import { Settings, X, Download, Upload, Mail } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import { DRIVE_AUDIO_URL } from '../config/links';
+import { useImageMode, setImageMode } from '../services/imageService';
 import { getFontPercent, applyFontPercent, FONT_MIN, FONT_MAX, FONT_STEP } from '../services/fontScale';
 
 export const SettingsButton: React.FC = () => {
@@ -11,6 +12,7 @@ export const SettingsButton: React.FC = () => {
   const [mode, setMode] = useState<'merge' | 'overwrite'>('merge');
   const [msg, setMsg] = useState('');
   const fileRef = useRef<HTMLInputElement>(null);
+  const imgMode = useImageMode();
 
   const [font, setFont] = useState(getFontPercent());
   useEffect(() => {
@@ -104,6 +106,20 @@ export const SettingsButton: React.FC = () => {
                 <button onClick={() => changeFont(FONT_STEP)} disabled={font >= FONT_MAX} className="px-4 py-2 rounded-lg text-sm font-bold bg-slate-100 hover:bg-slate-200 disabled:opacity-40 cursor-pointer">Arttır (A+)</button>
                 <button onClick={() => setFont(applyFontPercent(100))} className="px-3 py-2 rounded-lg text-xs font-bold text-slate-600 hover:bg-slate-100 cursor-pointer">Sıfırla</button>
               </div>
+            </section>
+
+            <section className="space-y-2">
+              <h3 className="font-bold text-slate-800">Konu görselleri (temsili resimler)</h3>
+              {([
+                ['tap', 'Dokunarak yükle', 'en az veri: resim yalnızca “görseli göster”e basınca iner (~60 KB)'],
+                ['auto', 'Otomatik göster', 'Wi-Fi’deyken önerilir'],
+                ['off', 'Kapalı', 'hiç görsel indirilmez']
+              ] as const).map(([v, t, d]) => (
+                <label key={v} className="flex items-start gap-2 text-sm cursor-pointer">
+                  <input type="radio" name="imode2" checked={imgMode === v} onChange={() => setImageMode(v)} className="mt-1 accent-amber-600" />
+                  <span><b>{t}</b> — {d}</span>
+                </label>
+              ))}
             </section>
 
             <section className="space-y-3">
