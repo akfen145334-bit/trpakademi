@@ -2,11 +2,21 @@ import React, { useEffect, useRef, useState } from 'react';
 import { Download, Trash2, RefreshCw, Check } from 'lucide-react';
 import { PackInfo, loadManifest, downloadPack, removePack, getInstalledVersion, packUrl, usePackVersion, initPacks } from '../services/packService';
 
-const mb = (n: number) => (n / 1048576).toFixed(1) + ' MB';
+import { initIntegrity, getSignState, getSignedDate, subscribeSign } from '../services/integrity';
+
+const mb =(n: number) => (n / 1048576).toFixed(1) + ' MB';
 
 /** Ayarlar → Ders paketleri: ses ve resim paketlerini indir / güncelle / sil. */
 export const PackManager: React.FC = () => {
   usePackVersion();
+  const [signState, setSignState] = useState(getSignState());
+  useEffect(() => {
+    initIntegrity().then(setSignState);
+    const off = subscribeSign(() => setSignState(getSignState()));
+    return () => {
+      off();
+    };
+  }, []);
   const [packs, setPacks] = useState<PackInfo[]>([]);
   const [prog, setProg] = useState<Record<string, number>>({});
   const [err, setErr] = useState('');
@@ -105,6 +115,12 @@ export const PackManager: React.FC = () => {
         </>
       )}
       {est && <p className="text-[11px] text-slate-400">{est}</p>}
+      <p className={`text-[11px] ${signState === 'bad' ? 'text-red-700 font-bold' : 'text-slate-400'}`}>
+        {signState === 'ok' && `Dijital imza: doğrulandı (${getSignedDate()}). Ders, soru ve resim verileri imzalıdır.`}
+        {signState === 'bad' && 'Dijital imza GEÇERSİZ: veriler değiştirilmiş olabilir. Lütfen resmî adresten tekrar aç.'}
+        {signState === 'none' && 'Dijital imza bu tarayıcıda doğrulanamadı.'}
+        {signState === 'checking' && 'Dijital imza denetleniyor…'}
+      </p>
       {err && <p className="text-xs text-red-700 bg-red-50 border border-red-200 rounded-lg p-2">{err}</p>}
     </section>
   );

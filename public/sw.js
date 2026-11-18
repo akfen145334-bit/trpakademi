@@ -13,7 +13,7 @@ self.addEventListener('fetch', (e) => {
   // Ses dosyaları (Range istekleri) ve ses dizini ağdan doğrudan alınır; önbelleğe alınmaz
   if (u.pathname.includes('/audio/')) return;
   // Görsel dizini her zaman ağdan (yeni görseller görünsün); ağ yoksa önbellek
-  if (u.pathname.endsWith('/data/img/index.json')) {
+  if (u.pathname.endsWith('/data/img/index.json') || u.pathname.endsWith('/data/imza.json') || u.pathname.endsWith('/data/packs.json')) {
     e.respondWith(fetch(req).then((res) => { const cp = res.clone(); caches.open(CACHE).then((c) => c.put(req, cp)); return res; }).catch(() => caches.match(req)));
     return;
   }

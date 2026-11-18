@@ -1,7 +1,11 @@
 import {createRoot} from 'react-dom/client';
 import App from './App.tsx';
 import './index.css';
+import { installContentGuard } from './services/contentGuard';
+import { initIntegrity } from './services/integrity';
 
+installContentGuard();
+initIntegrity();
 createRoot(document.getElementById('root')!).render(<App />);
 
 // Telefona yüklenebilir uygulama (PWA): servis çalışanını kaydet

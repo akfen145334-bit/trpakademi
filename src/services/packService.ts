@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { DRIVE_API_KEY, LEGACY_PUBLIC_MEDIA } from '../config/links';
+import { verifiedImageUrl } from './integrity';
 
 /**
  * Ders paketleri (ses + resim): sunucu kotasını harcamamak için ağır medya, şifreli ".trp" paketleri olarak
@@ -247,7 +248,10 @@ export const useImageSrc = (file: string, enabled: boolean): { src: string | nul
     }
     getMediaUrl(`i/${file}`).then(u => {
       if (!alive) return;
-      setSrc(u || (LEGACY_PUBLIC_MEDIA ? `${base()}data/img/${file}` : null));
+      if (u) return setSrc(u);
+      if (!LEGACY_PUBLIC_MEDIA) return setSrc(null);
+      // siteden gelen resim: imzalı özetiyle doğrulanır, doğrulanamazsa gösterilmez
+      verifiedImageUrl(file).then(v => alive && setSrc(v)).catch(() => alive && setSrc(null));
     });
     return () => {
       alive = false;

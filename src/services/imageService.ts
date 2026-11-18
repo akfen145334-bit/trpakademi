@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { fetchVerified } from './integrity';
 
 /** Konu anlatımına eklenen temsili görseller. Veri tasarrufu için: dizin tek küçük dosya, resimler sadece istenince (veya ayara göre) yüklenir. */
 export interface TopicImage {
@@ -23,8 +24,8 @@ const base = (): string => {
 let indexPromise: Promise<Record<string, TopicImage[]>> | null = null;
 const loadIndex = () => {
   if (!indexPromise) {
-    indexPromise = fetch(`${base()}data/img/index.json`)
-      .then(r => (r.ok ? r.json() : {}))
+    indexPromise = fetchVerified('data/img/index.json', `${base()}data/img/index.json`, true)
+      .then(b => JSON.parse(new TextDecoder().decode(b)))
       .catch(() => ({}));
   }
   return indexPromise;

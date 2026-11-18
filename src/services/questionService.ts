@@ -1,5 +1,6 @@
 import { Question } from '../types';
 import { QPACK_VERSION } from '../data/qpackVersion';
+import { fetchVerified } from './integrity';
 
 /** public/data/q/<dersId>.json içindeki sıkıştırılmış kayıt */
 interface Row {
@@ -30,9 +31,9 @@ const DIFF_OLD: Array<'temel' | 'orta' | 'ileri'> = ['temel', 'orta', 'ileri'];
 
 /** Bir dersin yeni soru havuzunu alt başlık kimliğine göre gruplayarak getirir. */
 export async function fetchCourseQuestions(courseId: string): Promise<Record<string, Question[]>> {
-  const res = await fetch(`${baseUrl()}data/q/${courseId}.json?v=${QPACK_VERSION}`);
-  if (!res.ok) throw new Error('Soru dosyası alınamadı: ' + courseId);
-  const rows: Row[] = await res.json();
+  // dijital imza: dosya özeti imzadakiyle aynı olmalı
+  const buf = await fetchVerified(`data/q/${courseId}.json`, `${baseUrl()}data/q/${courseId}.json?v=${QPACK_VERSION}`, true);
+  const rows: Row[] = JSON.parse(new TextDecoder().decode(buf));
   const out: Record<string, Question[]> = {};
   for (const r of rows) {
     const q: Question = {
