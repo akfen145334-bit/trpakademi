@@ -18,9 +18,9 @@
    "kind": "resim",
    "course": "turktarihi",
    "title": "Genel Türk Tarihi ve Kültürü — Resimler",
-   "ver": "c04fd688",
-   "size": 1849676,
-   "n": 40,
+   "ver": "243ee3ad",
+   "size": 2241849,
+   "n": 50,
    "key": "pjvbrm7sCrt1FvLdMsBQhVoCLNZXxmWHNffaa32mWOY=",
    "driveId": "",
    "url": ""
@@ -138,9 +138,9 @@
    "kind": "resim",
    "course": "dinler-tarihi",
    "title": "Dinler Tarihi — Resimler",
-   "ver": "8f1f348a",
-   "size": 1612977,
-   "n": 32,
+   "ver": "36914afd",
+   "size": 1841215,
+   "n": 33,
    "key": "FZrQUT/mcSeUQHzwwFCXZ1saDZkvJU3OQOKX9ClOOEw=",
    "driveId": "",
    "url": ""
@@ -194,6 +194,18 @@
    "url": ""
   },
   {
+   "id": "rehberlik-mevzuati-resim",
+   "kind": "resim",
+   "course": "rehberlik-mevzuati",
+   "title": "Turist Rehberliği Meslek Mevzuatı ve Etiği — Resimler",
+   "ver": "c96942e1",
+   "size": 349884,
+   "n": 5,
+   "key": "2vSDZntdI8x0w86fkuf+gIanvFGLYousiYK6k2I4x9U=",
+   "driveId": "",
+   "url": ""
+  },
+  {
    "id": "saglik-ilkyardim-ses",
    "kind": "ses",
    "course": "saglik-ilkyardim",
@@ -210,9 +222,9 @@
    "kind": "resim",
    "course": "saglik-ilkyardim",
    "title": "Genel Sağlık Bilgisi ve İlk Yardım — Resimler",
-   "ver": "34cc8d16",
-   "size": 459287,
-   "n": 17,
+   "ver": "cf4a9f64",
+   "size": 504742,
+   "n": 18,
    "key": "2aAFH7k1AGwCYJOy1mR77vCUYkUiAd/7+weFGEU0USc=",
    "driveId": "",
    "url": ""
